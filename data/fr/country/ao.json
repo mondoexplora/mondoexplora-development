@@ -1,0 +1,31 @@
+{
+  "name": "Angola",
+  "code": "AO",
+  "hero_title": "Angola Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Angola.",
+  "hero_image": "https://images.luxuryescapes.com/u4kfz8m4hm2vmmlvpvnp",
+  "popular_destinations": [
+    {
+      "name": "Luanda",
+      "slug": "luanda",
+      "image": "https://images.luxuryescapes.com/u4kfz8m4hm2vmmlvpvnp",
+      "description": "Explore Luanda with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Angola Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Angola avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "angola hotels",
+      "angola travel",
+      "angola luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/ao",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ao",
+      "es": "https://mondoexplora.com/es/country/ao",
+      "fr": "https://mondoexplora.com/fr/country/ao",
+      "it": "https://mondoexplora.com/it/country/ao"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "New Zealand",
+  "code": "NZ",
+  "hero_title": "New Zealand Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en New Zealand.",
+  "hero_image": "https://images.luxuryescapes.com/d0h70tqtuc3xbzr3rrf",
+  "popular_destinations": [
+    {
+      "name": "Auckland",
+      "slug": "auckland",
+      "image": "https://images.luxuryescapes.com/d0h70tqtuc3xbzr3rrf",
+      "description": "Explore Auckland with luxury accommodations"
+    },
+    {
+      "name": "Christchurch",
+      "slug": "christchurch",
+      "image": "https://images.luxuryescapes.com/1664u0oohu79lq9fp0m",
+      "description": "Explore Christchurch with luxury accommodations"
+    },
+    {
+      "name": "Franz Josef",
+      "slug": "franz-josef",
+      "image": "https://images.luxuryescapes.com/bdx98soz1ajpd6rypvk",
+      "description": "Explore Franz Josef with luxury accommodations"
+    },
+    {
+      "name": "Gibbston Valley",
+      "slug": "gibbston-valley",
+      "image": "https://images.luxuryescapes.com/cn7eonej6i53ijwcbr6h",
+      "description": "Explore Gibbston Valley with luxury accommodations"
+    },
+    {
+      "name": "Matauri Bay",
+      "slug": "matauri-bay",
+      "image": "https://images.luxuryescapes.com/a298ai6klswt9e81vuqc",
+      "description": "Explore Matauri Bay with luxury accommodations"
+    },
+    {
+      "name": "Nelson",
+      "slug": "nelson",
+      "image": "https://images.luxuryescapes.com/osewx3qywe6b01c6n1ap",
+      "description": "Explore Nelson with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "New Zealand Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en New Zealand avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "new zealand hotels",
+      "new zealand travel",
+      "new zealand luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/nz",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/nz",
+      "es": "https://mondoexplora.com/es/country/nz",
+      "fr": "https://mondoexplora.com/fr/country/nz",
+      "it": "https://mondoexplora.com/it/country/nz"
+    }
+  }
+}

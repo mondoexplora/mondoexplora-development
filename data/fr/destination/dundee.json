@@ -1,0 +1,50 @@
+{
+  "city": "Dundee",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hôtels à Dundee",
+  "description": "Découvrez les meilleurs hôtels à Dundee, United Kingdom. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/wqprox64q1x6bkkx436",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Indigo Dundee",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Dundee",
+      "title": "Scotland Riverside Splendour with Upscale Bistro",
+      "description": "River panoramas and cobblestone roads are the norms in the Scottish town of Dundee: explore such quaint scenes from your base at Hotel Indigo Dundee, an IHG Hotel. Formally a 19th-century textile mill with a landmark bell tower, its heritage industrial roots are still evident throughout the decor, while splashes of modernity add a dash of luxury. There's nowhere better to dine than at the onsite Daisy Tasker, a high-end bistro serving mouthwatering gastropub delights.",
+      "location_subheading": "United Kingdom",
+      "price": 72,
+      "original_price": 72,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CuiRKAAZ",
+      "hero_image": "https://images.luxuryescapes.com/wqprox64q1x6bkkx436",
+      "image_two": "https://images.luxuryescapes.com/c0u210q1idaqlb8unkx5",
+      "image_three": "https://images.luxuryescapes.com/n6z3ytumko1s8fhmt9en",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Dundee - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Dundee, United Kingdom avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "dundee hotels",
+      "dundee travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/dundee",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/dundee",
+      "es": "https://mondoexplora.com/es/destination/dundee",
+      "fr": "https://mondoexplora.com/fr/destination/dundee",
+      "it": "https://mondoexplora.com/it/destination/dundee"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 72,
+    "average_discount": 0
+  }
+}

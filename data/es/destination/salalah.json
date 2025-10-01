@@ -1,0 +1,50 @@
+{
+  "city": "Salalah",
+  "country": "Oman",
+  "country_code": "OM",
+  "hero_title": "Hoteles en Salalah",
+  "description": "Descubre los mejores hoteles en Salalah, Oman. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/pdl1so0qmpm6etusra2f",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Salalah",
+      "offer_country_name": "Oman",
+      "location_heading": "Salalah",
+      "title": "Arabian Beachfront Oasis with Seven Onsite Restaurants & Bars",
+      "description": "Step into a tranquil ocean paradise with a stay at Crowne Plaza Hotels & Resorts Salalah, an IHG Hotel - a palm-tree-covered oasis on the banks of the Arabian Sea. Salalah is a colourful city home to breathtaking cultural landmarks. This sub-tropical haven is the perfect vacation for groups of friends and families wanting to spend their days lounging by the pools, soaking up some sunshine on the pristine beaches and indulging in spectacular dining at the seven onsite restaurants and bars.",
+      "location_subheading": "Oman",
+      "price": 130,
+      "original_price": 130,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJaPAAX",
+      "hero_image": "https://images.luxuryescapes.com/pdl1so0qmpm6etusra2f",
+      "image_two": "https://images.luxuryescapes.com/pryq68r3tv95bfag0u2a",
+      "image_three": "https://images.luxuryescapes.com/2sddlzn619qop9amf22m",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Salalah - Oman Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Salalah, Oman con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "salalah hotels",
+      "salalah travel",
+      "oman hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/salalah",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/salalah",
+      "es": "https://mondoexplora.com/es/destination/salalah",
+      "fr": "https://mondoexplora.com/fr/destination/salalah",
+      "it": "https://mondoexplora.com/it/destination/salalah"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 130,
+    "average_discount": 0
+  }
+}

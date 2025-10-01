@@ -1,0 +1,37 @@
+{
+  "name": "Bahrain",
+  "code": "BH",
+  "hero_title": "Bahrain Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Bahrain.",
+  "hero_image": "https://images.luxuryescapes.com/9m7fm3x7ps8oonzwv4xg",
+  "popular_destinations": [
+    {
+      "name": "Manama",
+      "slug": "manama",
+      "image": "https://images.luxuryescapes.com/9m7fm3x7ps8oonzwv4xg",
+      "description": "Explore Manama with luxury accommodations"
+    },
+    {
+      "name": "Muharraq Town",
+      "slug": "muharraq-town",
+      "image": "https://images.luxuryescapes.com/jbiuu93eqlmo8c4yl9zs",
+      "description": "Explore Muharraq Town with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Bahrain Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Bahrain con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "bahrain hotels",
+      "bahrain travel",
+      "bahrain luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/bh",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/bh",
+      "es": "https://mondoexplora.com/es/country/bh",
+      "fr": "https://mondoexplora.com/fr/country/bh",
+      "it": "https://mondoexplora.com/it/country/bh"
+    }
+  }
+}

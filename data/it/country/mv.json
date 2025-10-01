@@ -1,0 +1,61 @@
+{
+  "name": "Maldives",
+  "code": "MV",
+  "hero_title": "Maldives Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Maldives.",
+  "hero_image": "https://images.luxuryescapes.com/xxtrlzusljviysiz5pr",
+  "popular_destinations": [
+    {
+      "name": "Gaafu Alifu Atoll",
+      "slug": "gaafu-alifu-atoll",
+      "image": "https://images.luxuryescapes.com/xxtrlzusljviysiz5pr",
+      "description": "Explore Gaafu Alifu Atoll with luxury accommodations"
+    },
+    {
+      "name": "Huvahendhoo",
+      "slug": "huvahendhoo",
+      "image": "https://images.luxuryescapes.com/2h4palzrqdz5l8eh7qso",
+      "description": "Explore Huvahendhoo with luxury accommodations"
+    },
+    {
+      "name": "Kooddoo Island",
+      "slug": "kooddoo-island",
+      "image": "https://images.luxuryescapes.com/6h3mmxilsmotee3ncs7rl",
+      "description": "Explore Kooddoo Island with luxury accommodations"
+    },
+    {
+      "name": "Shaviyani Atoll",
+      "slug": "shaviyani-atoll",
+      "image": "https://images.luxuryescapes.com/l8441ctp0xvg0yvvuiqc",
+      "description": "Explore Shaviyani Atoll with luxury accommodations"
+    },
+    {
+      "name": "South Ari Atoll",
+      "slug": "south-ari-atoll",
+      "image": "https://images.luxuryescapes.com/f6gbs4r6djocmjy6ikb8",
+      "description": "Explore South Ari Atoll with luxury accommodations"
+    },
+    {
+      "name": "Baa Atoll",
+      "slug": "baa-atoll",
+      "image": "https://images.luxuryescapes.com/wqqufx6bi9ensa8q6rwq",
+      "description": "Explore Baa Atoll with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Maldives Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Maldives con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "maldives hotels",
+      "maldives travel",
+      "maldives luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/mv",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/mv",
+      "es": "https://mondoexplora.com/es/country/mv",
+      "fr": "https://mondoexplora.com/fr/country/mv",
+      "it": "https://mondoexplora.com/it/country/mv"
+    }
+  }
+}

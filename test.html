@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hotel Test</title>
+  <style>
+    .hotel-card {
+      background: white;
+      border-radius: 6px;
+      overflow: hidden;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+      margin: 10px;
+      padding: 10px;
+      border: 1px solid #ddd;
+    }
+    .hotel-card img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+    }
+    .hotel-card a {
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hotel Test Page</h1>
+  <div id="hotel-container">
+    <p>Loading hotels...</p>
+  </div>
+
+  <script>
+    async function loadHotelData() {
+      try {
+        console.log('Loading hotel data...');
+        const response = await fetch('./data/hotels/bangkok.json');
+        console.log('Response:', response.status, response.ok);
+        
+        if (response.ok) {
+          const hotels = await response.json();
+          console.log('Hotels loaded:', hotels.length);
+          
+          const container = document.getElementById('hotel-container');
+          container.innerHTML = '';
+          
+          hotels.slice(0, 2).forEach(hotel => {
+            const card = document.createElement('div');
+            card.className = 'hotel-card';
+            card.innerHTML = `
+              <a href="${hotel.link}" target="_blank">
+                <img src="${hotel.hero_image}" alt="${hotel.vendor_name}" />
+                <h3>${hotel.vendor_name}</h3>
+                <p>${hotel.title}</p>
+                <p><del>$${hotel.value}</del> $${hotel.price}</p>
+              </a>`;
+            container.appendChild(card);
+          });
+        } else {
+          document.getElementById('hotel-container').innerHTML = '<p>Error loading hotels</p>';
+        }
+      } catch (error) {
+        console.error('Error:', error);
+        document.getElementById('hotel-container').innerHTML = '<p>Error: ' + error.message + '</p>';
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', loadHotelData);
+  </script>
+</body>
+</html> 

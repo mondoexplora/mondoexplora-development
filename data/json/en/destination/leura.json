@@ -1,0 +1,50 @@
+{
+  "city": "Leura",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Leura",
+  "description": "Discover the best hotels in Leura, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/wq367xurmps0gh7oc5z",
+  "hotels": [
+    {
+      "vendor_name": "Fairmont Resort & Spa Blue Mountains - MGallery by Sofitel",
+      "offer_country_name": "Australia",
+      "location_heading": "Leura",
+      "title": "Blue Mountains Boutique MGallery Retreat with Two Pools & Whiskey Tavern",
+      "description": "Escape to the eucalyptus-clad hills and sandstone lookouts of the UNESCO-listed Blue Mountains National Park. Just 90 minutes from Sydney, this serene retreat offers two pools, exceptional dining options, and a hidden whiskey tavern. Enjoy winter fun at the 600-square-meter indoor ice skating rink, or tee off at the historic Leura Golf Club. For ultimate relaxation, indulge in treatments at the world-class Ubika Day Spa. Plus, the resort's gardens offer breathtaking views of the ancient mountains and plateaus.",
+      "location_subheading": "Australia",
+      "price": 135,
+      "original_price": 135,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002IlpwIAC",
+      "hero_image": "https://images.luxuryescapes.com/wq367xurmps0gh7oc5z",
+      "image_two": "https://images.luxuryescapes.com/50fwd21xu2dm8t8wu3u",
+      "image_three": "https://images.luxuryescapes.com/fn5gph22ngxm12i98vf",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Leura - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Leura, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "leura hotels",
+      "leura travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/leura",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/leura",
+      "es": "https://mondoexplora.com/es/destination/leura",
+      "fr": "https://mondoexplora.com/fr/destination/leura",
+      "it": "https://mondoexplora.com/it/destination/leura"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 135,
+    "average_discount": 0
+  }
+}

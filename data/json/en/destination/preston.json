@@ -1,0 +1,50 @@
+{
+  "city": "Preston",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Preston",
+  "description": "Discover the best hotels in Preston, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/f39u381yshjnpude3assf",
+  "hotels": [
+    {
+      "vendor_name": "Novotel Melbourne Preston",
+      "offer_country_name": "Australia",
+      "location_heading": "Preston",
+      "title": "Novotel Preston Escape 20 Minutes from Melbourne's CBD with Onsite Restaurant",
+      "description": "Novotel Melbourne Preston is your welcoming crash pad, radiating modern vibes infused with relaxed Melbourne charm. Sink into sleek, comfortable rooms that feel like your own stylish sanctuary. Decompress in the soothing sauna or grab a tasty bite at The Stampton restaurant. Right in the heart of Preston, all the local action is in the nearby vicinity, with High Street just minutes away on foot. TCheck out the vibrant street art along Cramer Street, or groove the night away at Northcote Social Club for a night of dancing and live music. If you're feeling adventurous, take a tram into the centre to soak up the bustling atmosphere of Federation Square.",
+      "location_subheading": "Australia",
+      "price": 83,
+      "original_price": 83,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002J2yZIAS",
+      "hero_image": "https://images.luxuryescapes.com/f39u381yshjnpude3assf",
+      "image_two": "https://images.luxuryescapes.com/1r627lle0bshw4rvnf5q",
+      "image_three": "https://images.luxuryescapes.com/ynamy6vptqpvml3u0ahi",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Preston - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Preston, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "preston hotels",
+      "preston travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/preston",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/preston",
+      "es": "https://mondoexplora.com/es/destination/preston",
+      "fr": "https://mondoexplora.com/fr/destination/preston",
+      "it": "https://mondoexplora.com/it/destination/preston"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 83,
+    "average_discount": 0
+  }
+}

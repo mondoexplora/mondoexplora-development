@@ -1,0 +1,50 @@
+{
+  "city": "San Pedro",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hôtels à San Pedro",
+  "description": "Découvrez les meilleurs hôtels à San Pedro, United States. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/c9n1lyxcg65h4fayo4nn",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Los Angeles Harbor Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "San Pedro",
+      "title": "Coastal Los Angeles Escape in Downtown San Pedro's Little Italy District",
+      "description": "Nestled on Southern California's Palos Verdes Peninsula is the coastal town of San Pedro, and the Crowne Plaza Los Angeles Harbor Hotel, an IHG Hotel. Right in the heart of Little Italy, and home to the Port of Los Angeles, San Pedro is buzzing with culture, history and laidback coastal vibes. Visit the oldest lighthouse in California, Port Fermin, explore the abundance of art galleries and indulge your love of food by discovering some of the best foodie hangouts in LA.",
+      "location_subheading": "United States",
+      "price": 129,
+      "original_price": 129,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000GxYX9AAN",
+      "hero_image": "https://images.luxuryescapes.com/c9n1lyxcg65h4fayo4nn",
+      "image_two": "https://images.luxuryescapes.com/z80s9tyzr2v7nwmnwtm",
+      "image_three": "https://images.luxuryescapes.com/3lko57xi4u1h7tgeq8f",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à San Pedro - États-Unis Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à San Pedro, United States avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "san pedro hotels",
+      "san pedro travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/san-pedro",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/san-pedro",
+      "es": "https://mondoexplora.com/es/destination/san-pedro",
+      "fr": "https://mondoexplora.com/fr/destination/san-pedro",
+      "it": "https://mondoexplora.com/it/destination/san-pedro"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 129,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "origin": "Bangkok",
+  "destination": "Phuket",
+  "distance": "862 km",
+  "modes": [
+    {
+      "name": "Flight",
+      "icon": "✈️",
+      "duration": "1h 20m",
+      "price": "$45-120",
+      "description": "Direct flights from Bangkok Suvarnabhumi Airport to Phuket International Airport. Multiple daily flights available."
+    },
+    {
+      "name": "Bus",
+      "icon": "🚌",
+      "duration": "12-14 hours",
+      "price": "$15-25",
+      "description": "Overnight bus service from Bangkok to Phuket. Comfortable sleeper buses with air conditioning."
+    },
+    {
+      "name": "Train + Bus",
+      "icon": "🚂",
+      "duration": "15-18 hours",
+      "price": "$20-35",
+      "description": "Take train from Bangkok to Surat Thani, then bus to Phuket. Scenic route through southern Thailand."
+    },
+    {
+      "name": "Car",
+      "icon": "🚗",
+      "duration": "10-12 hours",
+      "price": "$60-100",
+      "description": "Self-drive option via Highway 4. Beautiful coastal route with stops at Hua Hin and Chumphon."
+    }
+  ],
+  "tips": [
+    "Book flights in advance for better prices",
+    "Overnight bus is most economical option",
+    "Consider flying during low season (May-October)",
+    "Car rental allows flexibility to explore along the way"
+  ]
+} 

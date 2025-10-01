@@ -1,0 +1,50 @@
+{
+  "city": "South Bank",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in South Bank",
+  "description": "Discover the best hotels in South Bank, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/jd52z9ttta3w7pern66",
+  "hotels": [
+    {
+      "vendor_name": "Mantra South Bank Brisbane",
+      "offer_country_name": "Australia",
+      "location_heading": "South Bank",
+      "title": "Stylish Brisbane Mantra City Break in South Bank with Heated Lap Pool",
+      "description": "Experience the vibrant energy of Queensland's capital with a stylish self-contained stay perfectly positioned in the heart of the city's cultural precinct. The hotel is just steps from the South Bank Parklands, home to lush gardens, riverside promenades and the celebrated Queensland Art Gallery and the Gallery of Modern Art. After a day of exploration, dive into the hotel's heated lap pool, work up an appetite in the fully-equipped gym or savour local flavours at the onsite Ovello Bar & Kitchen. Venture further afield to explore the eclectic West End, renowned for its fusion of cultures, live music, and trendy boutiques before retreating to your stylish room for a restful night's sleep.",
+      "location_subheading": "Australia",
+      "price": 120,
+      "original_price": 120,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000JRetNAAT",
+      "hero_image": "https://images.luxuryescapes.com/jd52z9ttta3w7pern66",
+      "image_two": "https://images.luxuryescapes.com/b39ap4xmo89rfi5o9wcj",
+      "image_three": "https://images.luxuryescapes.com/4tcboyk9ke7hwrq54paq",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in South Bank - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in South Bank, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "south bank hotels",
+      "south bank travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/south-bank",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/south-bank",
+      "es": "https://mondoexplora.com/es/destination/south-bank",
+      "fr": "https://mondoexplora.com/fr/destination/south-bank",
+      "it": "https://mondoexplora.com/it/destination/south-bank"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 120,
+    "average_discount": 0
+  }
+}

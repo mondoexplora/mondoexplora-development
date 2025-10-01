@@ -1,0 +1,79 @@
+{
+  "name": "Malaysia",
+  "code": "MY",
+  "hero_title": "Malaysia Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Malaysia.",
+  "hero_image": "https://images.luxuryescapes.com/hp71j3mghfyf0wzwtfj",
+  "popular_destinations": [
+    {
+      "name": "Kuala Lumpur",
+      "slug": "kuala-lumpur",
+      "image": "https://images.luxuryescapes.com/hp71j3mghfyf0wzwtfj",
+      "description": "Explore Kuala Lumpur with luxury accommodations",
+      "hotel_count": 20,
+      "hotel_deals": 20,
+      "avg_price": 113
+    },
+    {
+      "name": "Kota Kinabalu",
+      "slug": "kota-kinabalu",
+      "image": "https://images.luxuryescapes.com/2vsnhvey1d8sy8wr0zat",
+      "description": "Explore Kota Kinabalu with luxury accommodations",
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 321
+    },
+    {
+      "name": "Penang",
+      "slug": "penang",
+      "image": "https://images.luxuryescapes.com/h9zmipn4bl0bodorg7s",
+      "description": "Explore Penang with luxury accommodations",
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 92
+    },
+    {
+      "name": "Langkawi",
+      "slug": "langkawi",
+      "image": "https://images.luxuryescapes.com/6sz9ixcht4z7urhnl6r",
+      "description": "Explore Langkawi with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 169
+    },
+    {
+      "name": "Kuching",
+      "slug": "kuching",
+      "image": "https://images.luxuryescapes.com/eco46r79nnhyy381pwj6",
+      "description": "Explore Kuching with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 101
+    },
+    {
+      "name": "Sepang",
+      "slug": "sepang",
+      "image": "https://images.luxuryescapes.com/xi501eo8e0pqccokc1l",
+      "description": "Explore Sepang with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 91
+    }
+  ],
+  "seo": {
+    "title": "Malaysia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Malaysia with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "malaysia hotels",
+      "malaysia travel",
+      "malaysia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/my",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/my",
+      "es": "https://mondoexplora.com/es/country/my",
+      "fr": "https://mondoexplora.com/fr/country/my",
+      "it": "https://mondoexplora.com/it/country/my"
+    }
+  }
+}

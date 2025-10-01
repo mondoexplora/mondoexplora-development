@@ -1,0 +1,50 @@
+{
+  "city": "Coogee",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hoteles en Coogee",
+  "description": "Descubre los mejores hoteles en Coogee, Australia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/km0gf95tmqo59cbawrg8",
+  "hotels": [
+    {
+      "vendor_name": "Adina Apartment Hotel Coogee",
+      "offer_country_name": "Australia",
+      "location_heading": "Coogee",
+      "title": "Stylish Coogee Beach Self-Contained Apartment Escape near Sydney CBD",
+      "description": "Explore one of Sydney’s most charming beachside suburbs with a stay at the stylish Adina Apartment Hotel Coogee Sydney, a collection of contemporary self-contained apartments only a short drive from the CBD. With laidback Coogee Beach on your doorstep, indulge in coastal walks or leisurely morning swims, before grabbing a bite at one of the local eateries scattered along the beachfront. After a long day, relax and rejuvenate in your self-contained apartment, complete with everything you need for a fun-filled family holiday or romantic escape.",
+      "location_subheading": "Australia",
+      "price": 129,
+      "original_price": 129,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000007oheiAAA",
+      "hero_image": "https://images.luxuryescapes.com/km0gf95tmqo59cbawrg8",
+      "image_two": "https://images.luxuryescapes.com/h3ooh75plm6idh33hu5i",
+      "image_three": "https://images.luxuryescapes.com/2nf1hjw4it4wq1uyzda",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Coogee - Australia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Coogee, Australia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "coogee hotels",
+      "coogee travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/coogee",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/coogee",
+      "es": "https://mondoexplora.com/es/destination/coogee",
+      "fr": "https://mondoexplora.com/fr/destination/coogee",
+      "it": "https://mondoexplora.com/it/destination/coogee"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 129,
+    "average_discount": 0
+  }
+}

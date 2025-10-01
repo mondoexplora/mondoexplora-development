@@ -1,0 +1,68 @@
+{
+  "city": "Tulum",
+  "country": "Mexico",
+  "country_code": "MX",
+  "hero_title": "Hotel a Tulum",
+  "description": "Scopri i migliori hotel a Tulum, Mexico. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/1c2ttu4dm2uyi364bxr",
+  "hotels": [
+    {
+      "vendor_name": "Our Habitas Tulum",
+      "offer_country_name": "Mexico",
+      "location_heading": "Tulum",
+      "title": "Tulum Adults-Only Beachfront Bliss with Daily Breakfast & Nightly Cocktails",
+      "description": "Weave through the lush Mayan jungle to reach this enchanting, bohemian-style sanctuary sitting on the edge of the Caribbean Sea. Connect with nature's rhythms as you venture from your private oasis to the resort’s sun-lounger-lined infinity pool or continue straight into the shimmering ocean. At the heart of the resort is Moro - an all-day eatery with sweeping glass walls, floor cushions and an alfresco area enveloped by a canopy of Yucatan palms. Recentre yourself at the resort's wellness hub, with lymphatic massages or hydrating facials, or discover a new hobby through the weekly schedule of complimentary activities, including breathwork, yoga classes and live music.",
+      "location_subheading": "Mexico",
+      "price": 549,
+      "original_price": 1373,
+      "discount_percentage": 60,
+      "link": "https://luxuryescapes.com/offer/006RF00000JfRhFYAV",
+      "hero_image": "https://images.luxuryescapes.com/1c2ttu4dm2uyi364bxr",
+      "image_two": "https://images.luxuryescapes.com/d8ct6wnqw5h742fpvz6i",
+      "image_three": "https://images.luxuryescapes.com/1uf1pctr1tkf9nhlkken",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2025-08-06 13:59:00"
+    },
+    {
+      "vendor_name": "Kimpton Aluna Resort Tulum",
+      "offer_country_name": "Mexico",
+      "location_heading": "Tulum",
+      "title": "Tropical Tulum Haven Between the Jungle & the Sea with Two Restaurants & Spa",
+      "description": "Discover an oasis of tropical tranquillity nestled between the pristine shoreline and the lush jungle at Kimpton Aluna Resort Tulum, an IHG Hotel. Stroll down to the beachfront to enjoy crystal-clear water and soft white sand or relax beside the adults-only rooftop pool, with a cocktail in hand. Kickstart your days in paradise with an organic breakfast at Parallel 20° and later, watch the sun dip below the horizon while enjoying refreshing drinks and fusion cuisine at Bhanu Sky Kitchen. Your coastal dream awaits.",
+      "location_subheading": "Mexico",
+      "price": 127,
+      "original_price": 127,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EwpJUAAZ",
+      "hero_image": "https://images.luxuryescapes.com/sx1mxhnelbuknr6h40z",
+      "image_two": "https://images.luxuryescapes.com/x8ijtpdlvnvnzb4fb5v",
+      "image_three": "https://images.luxuryescapes.com/boma6evpcubes3e2jopb",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Tulum - Mexico Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Tulum, Mexico con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "tulum hotels",
+      "tulum travel",
+      "mexico hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/tulum",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/tulum",
+      "es": "https://mondoexplora.com/es/destination/tulum",
+      "fr": "https://mondoexplora.com/fr/destination/tulum",
+      "it": "https://mondoexplora.com/it/destination/tulum"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 338,
+    "average_discount": 30
+  }
+}

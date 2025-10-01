@@ -1,0 +1,61 @@
+{
+  "name": "Italy",
+  "code": "IT",
+  "hero_title": "Italy Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Italy.",
+  "hero_image": "https://images.luxuryescapes.com/jhhft90vfumow6eaqxb",
+  "popular_destinations": [
+    {
+      "name": "Genoa",
+      "slug": "genoa",
+      "image": "https://images.luxuryescapes.com/jhhft90vfumow6eaqxb",
+      "description": "Explore Genoa with luxury accommodations"
+    },
+    {
+      "name": "Milan",
+      "slug": "milan",
+      "image": "https://images.luxuryescapes.com/40nfb59rcmi67fq35ipl",
+      "description": "Explore Milan with luxury accommodations"
+    },
+    {
+      "name": "Rome",
+      "slug": "rome",
+      "image": "https://images.luxuryescapes.com/brf9px81p80vc5eme8pd",
+      "description": "Explore Rome with luxury accommodations"
+    },
+    {
+      "name": "Tuscany",
+      "slug": "tuscany",
+      "image": "https://images.luxuryescapes.com/b48uikreykct1kzy1bg9",
+      "description": "Explore Tuscany with luxury accommodations"
+    },
+    {
+      "name": "Anacapri",
+      "slug": "anacapri",
+      "image": "https://images.luxuryescapes.com/857elovfxbxuetmo24",
+      "description": "Explore Anacapri with luxury accommodations"
+    },
+    {
+      "name": "Capri",
+      "slug": "capri",
+      "image": "https://images.luxuryescapes.com/u9lekfs9bb4augthj7ys",
+      "description": "Explore Capri with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Italy Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Italy con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "italy hotels",
+      "italy travel",
+      "italy luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/it",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/it",
+      "es": "https://mondoexplora.com/es/country/it",
+      "fr": "https://mondoexplora.com/fr/country/it",
+      "it": "https://mondoexplora.com/it/country/it"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Dominica",
+  "code": "DM",
+  "hero_title": "Dominica Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Dominica.",
+  "hero_image": "https://images.luxuryescapes.com/6n9gs2q3krkuctmyn6vk",
+  "popular_destinations": [
+    {
+      "name": "Portsmouth",
+      "slug": "portsmouth",
+      "image": "https://images.luxuryescapes.com/6n9gs2q3krkuctmyn6vk",
+      "description": "Explore Portsmouth with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Dominica Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Dominica avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "dominica hotels",
+      "dominica travel",
+      "dominica luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/dm",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/dm",
+      "es": "https://mondoexplora.com/es/country/dm",
+      "fr": "https://mondoexplora.com/fr/country/dm",
+      "it": "https://mondoexplora.com/it/country/dm"
+    }
+  }
+}

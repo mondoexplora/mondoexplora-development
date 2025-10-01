@@ -1,0 +1,50 @@
+{
+  "city": "Fukuoka",
+  "country": "Japan",
+  "country_code": "JP",
+  "hero_title": "Hôtels à Fukuoka",
+  "description": "Découvrez les meilleurs hôtels à Fukuoka, Japan. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/epajne0kccpv28rerfrm",
+  "hotels": [
+    {
+      "vendor_name": "ANA Crowne Plaza Fukuoka",
+      "offer_country_name": "Japan",
+      "location_heading": "Fukuoka",
+      "title": "Fukuoka Central City Retreat near Entertainment District",
+      "description": "ANA Crowne Plaza Fukuoka, an IHG Hotel, is an urban escape located in the heart of the bustling harbour city of Fukuoka. Dine on traditional cuisine at Chikushino restaurant, savour a cocktail at the Mezzanine Bar or nab a tasty treat from Trois patisserie. When Fukuoka tempts you to explore, indulge in a shopping spree at Canal City shopping mall or venture out to the neon-lit Nakasu entertainment district to experience steaming street foods and lively izakayas.",
+      "location_subheading": "Japan",
+      "price": 96,
+      "original_price": 96,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJZcAAP",
+      "hero_image": "https://images.luxuryescapes.com/epajne0kccpv28rerfrm",
+      "image_two": "https://images.luxuryescapes.com/x7ms2thdsb4qnonp9mrg",
+      "image_three": "https://images.luxuryescapes.com/wl3t3fqyp6umzwieaw4",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Fukuoka - Japan Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Fukuoka, Japan avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "fukuoka hotels",
+      "fukuoka travel",
+      "japan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/fukuoka",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/fukuoka",
+      "es": "https://mondoexplora.com/es/destination/fukuoka",
+      "fr": "https://mondoexplora.com/fr/destination/fukuoka",
+      "it": "https://mondoexplora.com/it/destination/fukuoka"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 96,
+    "average_discount": 0
+  }
+}

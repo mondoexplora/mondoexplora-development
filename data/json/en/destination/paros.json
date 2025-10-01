@@ -1,0 +1,68 @@
+{
+  "city": "Paros",
+  "country": "Greece",
+  "country_code": "GR",
+  "hero_title": "Hotels in Paros",
+  "description": "Discover the best hotels in Paros, Greece. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/w6840ds4op6cu7rxopje",
+  "hotels": [
+    {
+      "vendor_name": "White & Rocks Villas",
+      "offer_country_name": "Greece",
+      "location_heading": "Paros",
+      "title": "Idyllic Paros Private Pool Villas with Aegean Sea Views",
+      "description": "Steeped in Cycladic charms and nestled along the sun-drenched shores of Paros, this private villa paradise blends timeless island luxury with modern style. Think milk-white hues, breezy, light-filled interiors, chic amenities, manicured Mediterranean gardens and shimmering private pools, all set against the azure backdrop of the Aegean Sea. Spend your days soaking up the sun from your villa's terrace, rustle up your favourite meals in the fully-equipped kitchen and witness captivating sunsets from your secluded hilltop spot on the island. When you're not beach-hopping or trying out a variety of water sports, walk along cobblestone streets and explore the historic port town of Parikia, a short drive away.",
+      "location_subheading": "Greece",
+      "price": 513,
+      "original_price": 513,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000FdgBeYAJ",
+      "hero_image": "https://images.luxuryescapes.com/w6840ds4op6cu7rxopje",
+      "image_two": "https://images.luxuryescapes.com/o2p47kwg1gt5ew039xc8",
+      "image_three": "https://images.luxuryescapes.com/p5nvdmzmar8eb8vx8mtr",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Pilipala Suites",
+      "offer_country_name": "Greece",
+      "location_heading": "Paros",
+      "title": "Exclusive Paros Private Pool Suites with Panoramic Views over Aegean Sea",
+      "description": "Perched on a sun-drenched hilltop with sweeping views of the surrounding landscapes, this exclusive Paros retreat redefines luxury with just four elegantly designed suites, each featuring a sprawling private terrace and shimmering private pool. Blending Cycladic charm with contemporary sophistication, the serene setting invites you to unwind in absolute style. Explore Paros' traditional villages, pristine beaches like Golden Beach and Kolymbithres, tavernas and cafes, all within reach.",
+      "location_subheading": "Greece",
+      "price": 405,
+      "original_price": 405,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000FdlMcYAJ",
+      "hero_image": "https://images.luxuryescapes.com/zza0ksxv07iw2hv4ppwm",
+      "image_two": "https://images.luxuryescapes.com/azw05qn9rh6xzaz9jbcv",
+      "image_three": "https://images.luxuryescapes.com/no3e3vxjfq1nb2j9vw",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Paros - Greece Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Paros, Greece with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "paros hotels",
+      "paros travel",
+      "greece hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/paros",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/paros",
+      "es": "https://mondoexplora.com/es/destination/paros",
+      "fr": "https://mondoexplora.com/fr/destination/paros",
+      "it": "https://mondoexplora.com/it/destination/paros"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 459,
+    "average_discount": 0
+  }
+}

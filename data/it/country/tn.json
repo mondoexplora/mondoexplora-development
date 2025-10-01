@@ -1,0 +1,31 @@
+{
+  "name": "Tunisia",
+  "code": "TN",
+  "hero_title": "Tunisia Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Tunisia.",
+  "hero_image": "https://images.luxuryescapes.com/h8iqf587yag2mhg9le5",
+  "popular_destinations": [
+    {
+      "name": "Tozeur",
+      "slug": "tozeur",
+      "image": "https://images.luxuryescapes.com/h8iqf587yag2mhg9le5",
+      "description": "Explore Tozeur with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Tunisia Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Tunisia con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "tunisia hotels",
+      "tunisia travel",
+      "tunisia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/tn",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/tn",
+      "es": "https://mondoexplora.com/es/country/tn",
+      "fr": "https://mondoexplora.com/fr/country/tn",
+      "it": "https://mondoexplora.com/it/country/tn"
+    }
+  }
+}

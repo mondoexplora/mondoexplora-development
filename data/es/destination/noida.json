@@ -1,0 +1,50 @@
+{
+  "city": "Noida",
+  "country": "India",
+  "country_code": "IN",
+  "hero_title": "Hoteles en Noida",
+  "description": "Descubre los mejores hoteles en Noida, India. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/xtmt4ru75duv7anuo8b0j",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Greater Noida",
+      "offer_country_name": "India",
+      "location_heading": "Noida",
+      "title": "India Sophisticated Noida Retreat just 45 Minutes from New Delhi with Rooftop Pool",
+      "description": "Amid Noida’s storied temples and vibrant culture sits Crowne Plaza Greater Noida, an IHG Hotel - a sophisticated urban sanctuary and the largest Crowne Plaza in southwest Asia, found just 45 minutes from the bustling streets of New Delhi. Savour noodles and gnocchi at Chao Bella, dine on authentic Awadhi cuisine at Spice Art or sip the day away at Belgian Beer Café before spending time relaxing at onsite Hibiscus Spa or the hotel’s mirage-like rooftop pool.",
+      "location_subheading": "India",
+      "price": 63,
+      "original_price": 63,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJa0AAH",
+      "hero_image": "https://images.luxuryescapes.com/xtmt4ru75duv7anuo8b0j",
+      "image_two": "https://images.luxuryescapes.com/qn6s64uo7tbh2bzo0mxl",
+      "image_three": "https://images.luxuryescapes.com/lq7gfm6gdws6x06bqoe",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Noida - India Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Noida, India con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "noida hotels",
+      "noida travel",
+      "india hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/noida",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/noida",
+      "es": "https://mondoexplora.com/es/destination/noida",
+      "fr": "https://mondoexplora.com/fr/destination/noida",
+      "it": "https://mondoexplora.com/it/destination/noida"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 63,
+    "average_discount": 0
+  }
+}

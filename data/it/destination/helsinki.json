@@ -1,0 +1,68 @@
+{
+  "city": "Helsinki",
+  "country": "Finland",
+  "country_code": "FI",
+  "hero_title": "Hotel a Helsinki",
+  "description": "Scopri i migliori hotel a Helsinki, Finland. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/w07cnba2sn88poi3uga",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Indigo Helsinki - Boulevard",
+      "offer_country_name": "Finland",
+      "location_heading": "Helsinki",
+      "title": "Hedonistic Helsinki Haven with Scandinavian-Style Bistro",
+      "description": "Helsinki is synonymous with cool, style and design, and Hotel Indigo Helsinki is no exception. Among the unique murals designed by local artists find a treasure trove of bespoke, modern facilities including Restaurant Bröd ('bread') an urban bistro serving Finnish delicacies, locally baked bread and mouthwatering seafood. After days spent exploring, step into the Finnish sauna at the Body, Mind & Soul Studio to relax and steam the day away, Fin-style.",
+      "location_subheading": "Finland",
+      "price": 115,
+      "original_price": 115,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CuiRZAAZ",
+      "hero_image": "https://images.luxuryescapes.com/w07cnba2sn88poi3uga",
+      "image_two": "https://images.luxuryescapes.com/oml79bmqrpafijgkabrb",
+      "image_three": "https://images.luxuryescapes.com/sjpfx4l1j7l17gqq71hj",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Helsinki",
+      "offer_country_name": "Finland",
+      "location_heading": "Helsinki",
+      "title": "City Escape in Heart of Helsinki Overlooking Hesperia Park",
+      "description": "Mirroring the style and functionality of the city in which it resides, enjoy a peaceful city escape to Crowne Plaza Helsinki - Hesperia, an IHG Hotel. With the city's electrifying sights only a short stroll away, neoclassical history, intriguing culture and creative designs are at your fingertips. Feast on a bevy of Finnish flavours, sustainably foraged and farmed dishes, at the cosy Hesperia Restaurant And Bar, or enjoy a drink at the lobby bar and watch the world go by.",
+      "location_subheading": "Finland",
+      "price": 121,
+      "original_price": 121,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJa3AAH",
+      "hero_image": "https://images.luxuryescapes.com/sfiuksxthb2bee7kx5w",
+      "image_two": "https://images.luxuryescapes.com/q9e1km44w5r8a7hausa",
+      "image_three": "https://images.luxuryescapes.com/7exrqeibmik4ai91x7ih",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Helsinki - Finland Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Helsinki, Finland con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "helsinki hotels",
+      "helsinki travel",
+      "finland hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/helsinki",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/helsinki",
+      "es": "https://mondoexplora.com/es/destination/helsinki",
+      "fr": "https://mondoexplora.com/fr/destination/helsinki",
+      "it": "https://mondoexplora.com/it/destination/helsinki"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 118,
+    "average_discount": 0
+  }
+}

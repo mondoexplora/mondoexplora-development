@@ -1,0 +1,50 @@
+{
+  "city": "Golden",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Golden",
+  "description": "Discover the best hotels in Golden, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/7ucoaf4aiwt9mqzc96",
+  "hotels": [
+    {
+      "vendor_name": "Eddy Taproom and Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Golden",
+      "title": "Boutique Colorado Rocky Mountain Escape with Stylish Rooftop & Onsite Taproom",
+      "description": "Outdoor adventures, acclaimed craft beer and a breathtaking location at the base of the Rocky Mountains, The Eddy Taproom & Hotel offers an exceptional escape for gourmands and adventurists seeking an inviting atmosphere amid Colorado’s picturesque scenery. Designed for the modern explorer, this boutique hotel features 49 artistically styled rooms. Spend fun-filled days hiking and e-biking through the surrounding landscape, then celebrate your efforts at this trendy retreat. Tuck into a mouthwatering BBQ feast at Truck Eddy, sip a hand-crafted cocktail or signature beer at the onsite taproom or bask in the glow of a fire pit on the private rooftop, where sweeping mountain sunsets await.",
+      "location_subheading": "United States",
+      "price": 192,
+      "original_price": 192,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000008IrsSAAS",
+      "hero_image": "https://images.luxuryescapes.com/7ucoaf4aiwt9mqzc96",
+      "image_two": "https://images.luxuryescapes.com/fm2owcl16aroadn8b9ic",
+      "image_three": "https://images.luxuryescapes.com/m6mguox9r00pb0p0h0k",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Golden - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Golden, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "golden hotels",
+      "golden travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/golden",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/golden",
+      "es": "https://mondoexplora.com/es/destination/golden",
+      "fr": "https://mondoexplora.com/fr/destination/golden",
+      "it": "https://mondoexplora.com/it/destination/golden"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 192,
+    "average_discount": 0
+  }
+}

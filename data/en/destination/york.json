@@ -1,0 +1,68 @@
+{
+  "city": "York",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hotels in York",
+  "description": "Discover the best hotels in York, United Kingdom. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/d0y28jf81pszxvoptfpb",
+  "hotels": [
+    {
+      "vendor_name": "No.1 York",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "York",
+      "title": "Charming Heritage Escape in the Heart of York",
+      "description": "You'll be immediately enchanted by the English charms of No.1, York within moments of arrival. Housed within a Grade II Listed Regency townhouse of regal proportions, the stunning hotel features dreamy windows, sky-high ceilings and a central sweeping staircase. The exterior is draped in winding ivy and the light from the twinkling lanterns inside and beams outside, adding to the allure and magical atmosphere. Retreat to the hotel bar each day to toast your explorations at The Rhubard Bar, feast on flavour at the Pearly Cow or head to the onsite spa for bespoke treatments. When you're ready to explore, this quaint and historic townhouse is perched just minutes from York Minster in Bootham - a vibrant and stylish shopping and entertainment district. It’s also perfectly placed for a day trip to the stunning Yorkshire Dales National Park and other nearby historical sites.",
+      "location_subheading": "United Kingdom",
+      "price": 133,
+      "original_price": 133,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000008gYH4AAM",
+      "hero_image": "https://images.luxuryescapes.com/d0y28jf81pszxvoptfpb",
+      "image_two": "https://images.luxuryescapes.com/3l99f0hhnk8blgf48b0p",
+      "image_three": "https://images.luxuryescapes.com/a0edvxjiv2ssp0i7oij",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Grand York",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "York",
+      "title": "Five-Star Edwardian York Escape with Onsite Dining & Pool",
+      "description": "Enjoy a royal stay at The Grand York, formerly the Edwardian headquarters of the wealthy North Eastern Railway Company. Incredible facilities at this five-star hotel include an award-winning cookery school, traditional afternoon tea at the Rise Restaurant and the 1906 Bar (be sure to order a cocktail while you're here). Better yet, the hotel's central location means it is only a short amble to the main shopping streets and the Medieval tower walls.",
+      "location_subheading": "United Kingdom",
+      "price": 254,
+      "original_price": 254,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000004UMueAAG",
+      "hero_image": "https://images.luxuryescapes.com/qm0mlpbkixbtrb84tb",
+      "image_two": "https://images.luxuryescapes.com/s20bh67p64mclhe7yvib",
+      "image_three": "https://images.luxuryescapes.com/kdi1g393fc8lo0cozqyk",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in York - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in York, United Kingdom with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "york hotels",
+      "york travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/york",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/york",
+      "es": "https://mondoexplora.com/es/destination/york",
+      "fr": "https://mondoexplora.com/fr/destination/york",
+      "it": "https://mondoexplora.com/it/destination/york"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 194,
+    "average_discount": 0
+  }
+}

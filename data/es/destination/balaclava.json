@@ -1,0 +1,50 @@
+{
+  "city": "Balaclava",
+  "country": "Mauritius",
+  "country_code": "MU",
+  "hero_title": "Hoteles en Balaclava",
+  "description": "Descubre los mejores hoteles en Balaclava, Mauritius. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/d94763igr6gtm91dz07z8",
+  "hotels": [
+    {
+      "vendor_name": "Intercontinental Mauritius",
+      "offer_country_name": "Mauritius",
+      "location_heading": "Balaclava",
+      "title": "Beachfront Mauritius Hideaway with Poolside Bar",
+      "description": "Traditional Mauritian culture blends seamlessly with modern conveniences at the InterContinental Resort Mauritius, an IHG Hotel, a fun-filled resort perfect for couples or families looking for a tropical escape. Spend balmy days in the crystalline seawater, or install yourself by the pool at Sugar Cane beach bar and enjoy light meals and signature sunset cocktails in a casual seaside setting. In between island adventures, head to the spa for a relaxing sauna session or massage treatment.",
+      "location_subheading": "Mauritius",
+      "price": 245,
+      "original_price": 245,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Bdt7JAAR",
+      "hero_image": "https://images.luxuryescapes.com/d94763igr6gtm91dz07z8",
+      "image_two": "https://images.luxuryescapes.com/juuj7nv6zgtqk9y31asa",
+      "image_three": "https://images.luxuryescapes.com/jcbbgny41qmslk5uagu7",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Balaclava - Mauritius Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Balaclava, Mauritius con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "balaclava hotels",
+      "balaclava travel",
+      "mauritius hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/balaclava",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/balaclava",
+      "es": "https://mondoexplora.com/es/destination/balaclava",
+      "fr": "https://mondoexplora.com/fr/destination/balaclava",
+      "it": "https://mondoexplora.com/it/destination/balaclava"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 245,
+    "average_discount": 0
+  }
+}

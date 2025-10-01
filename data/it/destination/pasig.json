@@ -1,0 +1,50 @@
+{
+  "city": "Pasig",
+  "country": "Philippines",
+  "country_code": "PH",
+  "hero_title": "Hotel a Pasig",
+  "description": "Scopri i migliori hotel a Pasig, Philippines. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/87ohuohprdu3atwvpk0b",
+  "hotels": [
+    {
+      "vendor_name": "Holiday Inn Manila Galleria",
+      "offer_country_name": "Philippines",
+      "location_heading": "Pasig",
+      "title": "Central Manila Stay in Pasig City with Outdoor Pool",
+      "description": "Amongst grand skyscrapers and memories of Spanish architecture sits the Holiday Inn Manila Galleria, an IHG Hotel. Be romanced by the famous Manila sunset with a rooftop cocktail in the nightlife district of Poblacion, a hive of after-dark fun. Hit all the tourist spots in a colourful Jeepney and tour the historic ‘Walled City’ of Intramuros, or live like a local and eat your way down the high street. After endless exploration, cool off with a dip in the hotel’s outdoor pool.",
+      "location_subheading": "Philippines",
+      "price": 60,
+      "original_price": 60,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DI60PAAT",
+      "hero_image": "https://images.luxuryescapes.com/87ohuohprdu3atwvpk0b",
+      "image_two": "https://images.luxuryescapes.com/ifajqp43mjil3xhvmqod",
+      "image_three": "https://images.luxuryescapes.com/jue2vnvha8zmi783lie4",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Pasig - Philippines Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Pasig, Philippines con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "pasig hotels",
+      "pasig travel",
+      "philippines hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/pasig",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/pasig",
+      "es": "https://mondoexplora.com/es/destination/pasig",
+      "fr": "https://mondoexplora.com/fr/destination/pasig",
+      "it": "https://mondoexplora.com/it/destination/pasig"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 60,
+    "average_discount": 0
+  }
+}

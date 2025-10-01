@@ -1,0 +1,68 @@
+{
+  "city": "Puerto Vallarta",
+  "country": "Mexico",
+  "country_code": "MX",
+  "hero_title": "Hotels in Puerto Vallarta",
+  "description": "Discover the best hotels in Puerto Vallarta, Mexico. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/ojva3k03xpn7tuqwf1u",
+  "hotels": [
+    {
+      "vendor_name": "One & Only Mandarina",
+      "offer_country_name": "Mexico",
+      "location_heading": "Puerto Vallarta",
+      "title": "Mexico One&Only All-Villa Luxury with Beach Club & Celebrity Chef Dining",
+      "description": "Set on a dreamy stretch of coastline on Mexico's Riviera Nayarit is the five-star One&Only Mandarina, a secluded resort overlooking the Pacific Ocean. Be wined and dined at three celebrity chef-led restaurants, or enjoy local, sustainably made tipples at The Treetop bar and savour each captivating sunset. The One&Only Spa is heaven on Earth, serving up a range of treatments using Tata Harper products designed to pamper you into bliss. A dedicated butler will take care of everything during your stay, leaving you free to enjoy the world-class facilities, including six swimming pools, a pristine beach with crystal-clear swimmable water and immersive nature activities. Did we mention the resort's beach club? This oceanfront haven invites you to pad barefoot from your cabana to the warm waters of the ocean, feast on fresh oysters and sip on expertly-mixed drinks in the sunshine.",
+      "location_subheading": "Mexico",
+      "price": 851,
+      "original_price": 851,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000008gJJzAAM",
+      "hero_image": "https://images.luxuryescapes.com/ojva3k03xpn7tuqwf1u",
+      "image_two": "https://images.luxuryescapes.com/tcgb5d7p6pdnd6w20iqh",
+      "image_three": "https://images.luxuryescapes.com/86p1lqs4s8q9nseuph34",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Grand Velas Riviera Nayarit",
+      "offer_country_name": "Mexico",
+      "location_heading": "Puerto Vallarta",
+      "title": "Five-Star Mexico Award-Winning Retreat near Puerto Vallarta with Six Onsite Restaurants",
+      "description": "On the northern edge of Banderas Bay near the historic centre of Puerto Vallarta lies a secluded gem that encapsulates the essence of Mexico - the luxurious five-star Grand Velas Riviera Nayarit. Designed with grandiose architecture and surrounded by stunning tropical landscapes, the award-winning resort features six restaurants showcasing the best culinary delights from around the world. Satisfy your palate with all-inclusive dining and drinks, ranging from traditional Mexican cuisine, Asian fusion delights and flavourful Italian and Mediterranean dishes to classic French simplicity. The stunning azure waters and sparkling white sand beaches are as alluring as the hotel’s sparkling infinity pool and relaxing jacuzzi. Dive off the beautiful coast and spend the day snorkelling, kayak through emerald waters to majestic waterfalls, stroll along Puerto Vallarta’s boardwalk as you take in the sweeping ocean views or visit one of the many nearby golf courses that have made Puerto Vallarta a golf lovers’ paradise. Then, head back to the hotel for a serene holistic treatment at the blissful SE Spa and poolside sunset cocktails.",
+      "location_subheading": "Mexico",
+      "price": 874,
+      "original_price": 874,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000009BzRXAA0",
+      "hero_image": "https://images.luxuryescapes.com/tsldvyj3nw1egtp8eup",
+      "image_two": "https://images.luxuryescapes.com/h8u46vj48mo0op6nyicf",
+      "image_three": "https://images.luxuryescapes.com/lqns0zwqb52p3bxgpfc5",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Puerto Vallarta - Mexico Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Puerto Vallarta, Mexico with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "puerto vallarta hotels",
+      "puerto vallarta travel",
+      "mexico hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/puerto-vallarta",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/puerto-vallarta",
+      "es": "https://mondoexplora.com/es/destination/puerto-vallarta",
+      "fr": "https://mondoexplora.com/fr/destination/puerto-vallarta",
+      "it": "https://mondoexplora.com/it/destination/puerto-vallarta"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 863,
+    "average_discount": 0
+  }
+}

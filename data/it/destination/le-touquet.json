@@ -1,0 +1,50 @@
+{
+  "city": "Le Touquet",
+  "country": "France",
+  "country_code": "FR",
+  "hero_title": "Hotel a Le Touquet",
+  "description": "Scopri i migliori hotel a Le Touquet, France. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/9dq50s2okan6n7m29yy",
+  "hotels": [
+    {
+      "vendor_name": "Holiday Inn Resort Le Touquet",
+      "offer_country_name": "France",
+      "location_heading": "Le Touquet",
+      "title": "Charming French Coastal Escape in the Heart of Le Touquet",
+      "description": "Escape to the picturesque French coast with a stay at the Holiday Inn Resort Le Touquet, an IHG Hotel, perfectly located in the heart of the provincial town. Live like the locals by embracing the easy-going, slow-paced atmosphere as you spend your days feasting on excellent French cuisine, before visiting the trendy nightclubs and stylish casinos. Soak up the sunshine in the verdant gardens or laze by the naturally lit indoor pool.",
+      "location_subheading": "France",
+      "price": 133,
+      "original_price": 133,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DOtb7AAD",
+      "hero_image": "https://images.luxuryescapes.com/9dq50s2okan6n7m29yy",
+      "image_two": "https://images.luxuryescapes.com/k3mym5fsmbbjdbxg1c",
+      "image_three": "https://images.luxuryescapes.com/9irzvb2ccu8ifdtvnoh",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Le Touquet - France Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Le Touquet, France con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "le touquet hotels",
+      "le touquet travel",
+      "france hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/le-touquet",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/le-touquet",
+      "es": "https://mondoexplora.com/es/destination/le-touquet",
+      "fr": "https://mondoexplora.com/fr/destination/le-touquet",
+      "it": "https://mondoexplora.com/it/destination/le-touquet"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 133,
+    "average_discount": 0
+  }
+}

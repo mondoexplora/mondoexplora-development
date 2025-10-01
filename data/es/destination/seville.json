@@ -1,0 +1,50 @@
+{
+  "city": "Seville",
+  "country": "Spain",
+  "country_code": "ES",
+  "hero_title": "Hoteles en Seville",
+  "description": "Descubre los mejores hoteles en Seville, Spain. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/ofa3khbwmuymge5exxht",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Gravina 51",
+      "offer_country_name": "Spain",
+      "location_heading": "Seville",
+      "title": "Historic Spanish Boutique Escape in the Heart of Seville",
+      "description": "Immerse yourself in the heart of Seville at the exquisite Gravina 51 Hotel, a luxurious boutique retreat nestled within the city's historic district. This architectural gem, with its blend of traditional charm and modern elegance, is a stone's throw from iconic landmarks such as the Seville Cathedral and the Alcazar Palace. Enjoy Andalusian cuisine at Bar 51, and later unwind with a glass of wine in hand, in a city where culture, gastronomy, and luxury perfectly converge.",
+      "location_subheading": "Spain",
+      "price": 152,
+      "original_price": 152,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000FcFY0AAN",
+      "hero_image": "https://images.luxuryescapes.com/ofa3khbwmuymge5exxht",
+      "image_two": "https://images.luxuryescapes.com/5zwzbwccoa6oivs0fi39",
+      "image_three": "https://images.luxuryescapes.com/d81i9l8a3yn9paqi6vn",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Seville - Spain Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Seville, Spain con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "seville hotels",
+      "seville travel",
+      "spain hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/seville",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/seville",
+      "es": "https://mondoexplora.com/es/destination/seville",
+      "fr": "https://mondoexplora.com/fr/destination/seville",
+      "it": "https://mondoexplora.com/it/destination/seville"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 152,
+    "average_discount": 0
+  }
+}

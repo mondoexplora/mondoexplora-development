@@ -1,0 +1,50 @@
+{
+  "city": "Aberdeen",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hôtels à Aberdeen",
+  "description": "Découvrez les meilleurs hôtels à Aberdeen, United Kingdom. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/xf5eng205iuda616sbsw",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Aberdeen Airport",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Aberdeen",
+      "title": "Convenient Scotland Stay in Aberdeen Airport near City Centre",
+      "description": "Ideally positioned a short walk from the terminal, Crowne Plaza Aberdeen Airport, an IHG Hotel, is perfect for a convenient stay in this historic Scottish port city. Take the free shuttle to Dyce Station, where a train will whisk you into the city in 10 minutes, and discover intriguing museums, gorgeous architecture, and a range of dining options. For a change of pace, check out the Royal Aberdeen Golf Club 15 minutes from your hotel, or indulge in sophisticated whiskies at the nearby Glen Garioch Distillery.",
+      "location_subheading": "United Kingdom",
+      "price": 87,
+      "original_price": 87,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000BdtAAAAZ",
+      "hero_image": "https://images.luxuryescapes.com/xf5eng205iuda616sbsw",
+      "image_two": "https://images.luxuryescapes.com/8ivvaiagvhhrxtc3leza8",
+      "image_three": "https://images.luxuryescapes.com/px2jf26bcm2rlbij1azd",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Aberdeen - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Aberdeen, United Kingdom avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "aberdeen hotels",
+      "aberdeen travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/aberdeen",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/aberdeen",
+      "es": "https://mondoexplora.com/es/destination/aberdeen",
+      "fr": "https://mondoexplora.com/fr/destination/aberdeen",
+      "it": "https://mondoexplora.com/it/destination/aberdeen"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 87,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Bolvir",
+  "country": "Spain",
+  "country_code": "ES",
+  "hero_title": "Hotel a Bolvir",
+  "description": "Scopri i migliori hotel a Bolvir, Spain. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/wrky5l5wjri5zu7712q",
+  "hotels": [
+    {
+      "vendor_name": "Torre del Remei",
+      "offer_country_name": "Spain",
+      "location_heading": "Bolvir",
+      "title": "Boutique Palatial Retreat in the Pyrenees with Outdoor Pool & Traditional Catalan Dining",
+      "description": "Nestled in a valley where the Pyrenees pierce the sky, this stunning 1910 mansion is adorned with ornate turrets, romantic balconies and exquisitely restored rooms. Inside, original art nouveau details shine, including decorative fireplaces, polished wooden floors and sweeping floor-to-ceiling windows with views of the three-hectare garden. The sparkling pool offers the ultimate space for relaxation, while the TR 1910 restaurant transforms local ingredients from the Cerdanya Valley into delicacies like butifarra (Catalan sausage) and salmorejo with lobster. Your furry friends are also more than welcome at this pet-friendly haven.",
+      "location_subheading": "Spain",
+      "price": 280,
+      "original_price": 280,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000C0gjVYAR",
+      "hero_image": "https://images.luxuryescapes.com/wrky5l5wjri5zu7712q",
+      "image_two": "https://images.luxuryescapes.com/lxs18o3vcis7sggp46mw",
+      "image_three": "https://images.luxuryescapes.com/h2v411gnqg1609xnlxl",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Bolvir - Spain Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Bolvir, Spain con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "bolvir hotels",
+      "bolvir travel",
+      "spain hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/bolvir",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/bolvir",
+      "es": "https://mondoexplora.com/es/destination/bolvir",
+      "fr": "https://mondoexplora.com/fr/destination/bolvir",
+      "it": "https://mondoexplora.com/it/destination/bolvir"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 280,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Japan",
+  "code": "JP",
+  "hero_title": "Japan Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Japan.",
+  "hero_image": "https://images.luxuryescapes.com/2a9s8l7g1o9hl3bsv7z89",
+  "popular_destinations": [
+    {
+      "name": "Kyoto",
+      "slug": "kyoto",
+      "image": "https://images.luxuryescapes.com/2a9s8l7g1o9hl3bsv7z89",
+      "description": "Explore Kyoto with luxury accommodations"
+    },
+    {
+      "name": "Myoko",
+      "slug": "myoko",
+      "image": "https://images.luxuryescapes.com/5dwp2ahbglsjq82qsxqy",
+      "description": "Explore Myoko with luxury accommodations"
+    },
+    {
+      "name": "Osaka",
+      "slug": "osaka",
+      "image": "https://images.luxuryescapes.com/b30o01uzdk31qqmnvqbt",
+      "description": "Explore Osaka with luxury accommodations"
+    },
+    {
+      "name": "Tokyo",
+      "slug": "tokyo",
+      "image": "https://images.luxuryescapes.com/y4ah58fwkdbflnvh5ga",
+      "description": "Explore Tokyo with luxury accommodations"
+    },
+    {
+      "name": "Akita",
+      "slug": "akita",
+      "image": "https://images.luxuryescapes.com/lovytnhg5c3f1qhhd6",
+      "description": "Explore Akita with luxury accommodations"
+    },
+    {
+      "name": "Awaji Island",
+      "slug": "awaji-island",
+      "image": "https://images.luxuryescapes.com/rmwb6dnl4fb4474ufhib",
+      "description": "Explore Awaji Island with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Japan Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Japan con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "japan hotels",
+      "japan travel",
+      "japan luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/jp",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/jp",
+      "es": "https://mondoexplora.com/es/country/jp",
+      "fr": "https://mondoexplora.com/fr/country/jp",
+      "it": "https://mondoexplora.com/it/country/jp"
+    }
+  }
+}

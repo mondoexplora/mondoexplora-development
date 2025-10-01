@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "origin": "new-york", "destination": "bangkok" },
+    { "origin": "london", "destination": "paris" }
+  ]
+} 

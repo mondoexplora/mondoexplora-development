@@ -1,0 +1,148 @@
+{
+  "route": {
+    "origin": "sydney",
+    "destination": "melbourne",
+    "distance": "880 km",
+    "available_modes": [
+      "flight",
+      "train",
+      "bus",
+      "car"
+    ]
+  },
+  "travel_modes": [
+    {
+      "icon": "✈️",
+      "name": "Flight",
+      "description": "Fastest option for long distances",
+      "estimated_time": "2-8 hours",
+      "estimated_cost": "$200-800",
+      "frequency": "Daily",
+      "notes": "Most popular for international travel",
+      "booking_links": {
+        "skyscanner": "https://www.skyscanner.com",
+        "kayak": "https://www.kayak.com",
+        "google_flights": "https://www.google.com/travel/flights"
+      },
+      "providers": [
+        {
+          "name": "Qantas",
+          "website": "https://www.qantas.com",
+          "direct": true
+        },
+        {
+          "name": "Virgin Australia",
+          "website": "https://www.virginaustralia.com",
+          "direct": true
+        },
+        {
+          "name": "Jetstar",
+          "website": "https://www.jetstar.com",
+          "direct": true
+        }
+      ],
+      "airports": {
+        "origin": "Sydney Airport (SYD)",
+        "destination": "Melbourne Airport (MEL)"
+      }
+    },
+    {
+      "icon": "🚄",
+      "name": "Train",
+      "description": "Scenic and comfortable for medium distances",
+      "estimated_time": "4-12 hours",
+      "estimated_cost": "$50-300",
+      "frequency": "Daily",
+      "notes": "Great for scenic routes",
+      "booking_links": {
+        "trainline": "https://www.trainline.com",
+        "raileurope": "https://www.raileurope.com",
+        "seat61": "https://www.seat61.com"
+      },
+      "providers": [
+        {
+          "name": "NSW TrainLink",
+          "website": "https://transportnsw.info",
+          "direct": true
+        }
+      ],
+      "stations": {
+        "origin": "Central Station, Sydney",
+        "destination": "Southern Cross Station, Melbourne"
+      }
+    },
+    {
+      "icon": "🚌",
+      "name": "Bus",
+      "description": "Budget-friendly option for shorter distances",
+      "estimated_time": "6-24 hours",
+      "estimated_cost": "$20-100",
+      "frequency": "Multiple daily",
+      "notes": "Cheapest option available",
+      "booking_links": {
+        "flixbus": "https://www.flixbus.com",
+        "megabus": "https://www.megabus.com",
+        "greyhound": "https://www.greyhound.com"
+      },
+      "providers": [
+        {
+          "name": "Greyhound Australia",
+          "website": "https://www.greyhound.com.au",
+          "direct": true
+        },
+        {
+          "name": "Firefly Express",
+          "website": "https://www.fireflyexpress.com.au",
+          "direct": true
+        }
+      ],
+      "stations": {
+        "origin": "Central Station, Sydney",
+        "destination": "Southern Cross Station, Melbourne"
+      }
+    },
+    {
+      "icon": "🚗",
+      "name": "Car",
+      "description": "Flexible and convenient for road trips",
+      "estimated_time": "8-20 hours",
+      "estimated_cost": "$100-400",
+      "frequency": "Anytime",
+      "notes": "Maximum flexibility and freedom",
+      "booking_links": {
+        "rentalcars": "https://www.rentalcars.com",
+        "kayak_cars": "https://www.kayak.com/cars",
+        "expedia_cars": "https://www.expedia.com/cars"
+      },
+      "providers": [
+        {
+          "name": "Hertz",
+          "website": "https://www.hertz.com.au",
+          "airport": true
+        },
+        {
+          "name": "Avis",
+          "website": "https://www.avis.com.au",
+          "airport": true
+        },
+        {
+          "name": "Budget",
+          "website": "https://www.budget.com.au",
+          "airport": true
+        },
+        {
+          "name": "Thrifty",
+          "website": "https://www.thrifty.com.au",
+          "airport": true
+        }
+      ]
+    }
+  ],
+  "quick_tips": [
+    "Flights are fastest but most expensive",
+    "Train offers the most scenic route",
+    "Bus is cheapest but longest journey",
+    "Car allows flexibility to explore coastal towns",
+    "Book in advance for better prices"
+  ]
+}

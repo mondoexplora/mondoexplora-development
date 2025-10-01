@@ -1,0 +1,50 @@
+{
+  "city": "Dunsborough",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Dunsborough",
+  "description": "Discover the best hotels in Dunsborough, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/lf45l58f5z1jd5ekys",
+  "hotels": [
+    {
+      "vendor_name": "Bayshore Beachside Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Dunsborough",
+      "title": "Margaret River Coastal Villas near Dunsborough Beach",
+      "description": "Discover the beauty of Western Australia with a self-contained villa stay at Bayshore Beachside Resort, your gateway to the sprawling vineyards of the acclaimed Margaret River wine region. Stay in the striking town of Dunsborough, a West Coast paradise nestled among forest and vines, surrounded by verdant national parks, charming sandy coves and world-class gastronomy. Your villa is a breezy two-minute walk to the beach, so enjoy blissful days on pristine white sands while gazing into the sparkling waters of Geographe Bay.",
+      "location_subheading": "Australia",
+      "price": 350,
+      "original_price": 350,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000BeF3eAAF",
+      "hero_image": "https://images.luxuryescapes.com/lf45l58f5z1jd5ekys",
+      "image_two": "https://images.luxuryescapes.com/fh8tl8126k3555bgjd53o",
+      "image_three": "https://images.luxuryescapes.com/nahp93cmvox11fbf8kf",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Dunsborough - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Dunsborough, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "dunsborough hotels",
+      "dunsborough travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/dunsborough",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/dunsborough",
+      "es": "https://mondoexplora.com/es/destination/dunsborough",
+      "fr": "https://mondoexplora.com/fr/destination/dunsborough",
+      "it": "https://mondoexplora.com/it/destination/dunsborough"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 350,
+    "average_discount": 0
+  }
+}

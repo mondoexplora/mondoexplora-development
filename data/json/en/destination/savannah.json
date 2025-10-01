@@ -1,0 +1,50 @@
+{
+  "city": "Savannah",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Savannah",
+  "description": "Discover the best hotels in Savannah, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/sj3fc5yph969yv6uh3i4",
+  "hotels": [
+    {
+      "vendor_name": "Kimpton Brice Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Savannah",
+      "title": "Sauve Savannah Hotel Boasting Prime Historic District Location",
+      "description": "Outside you're surrounded by antebellum Southern beauty, inside mix it up with modern flair at The Kimpton Brice Hotel. Enjoy stylish spacious rooms offering mutiple views at different angles of Washington Square, historic downtown or the outdoor garden pool. Treat yourself to a relaxed ambience at the Pacci Italian Kitchen + Bar or lounge poolside with a specially made cocktail in hand after a day out on the town exploring.",
+      "location_subheading": "United States",
+      "price": 186,
+      "original_price": 186,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EdKFaAAN",
+      "hero_image": "https://images.luxuryescapes.com/sj3fc5yph969yv6uh3i4",
+      "image_two": "https://images.luxuryescapes.com/c43xtf4l2g0elbyqz0j4",
+      "image_three": "https://images.luxuryescapes.com/uv7xe73dxmi6ohpixmyj",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Savannah - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Savannah, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "savannah hotels",
+      "savannah travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/savannah",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/savannah",
+      "es": "https://mondoexplora.com/es/destination/savannah",
+      "fr": "https://mondoexplora.com/fr/destination/savannah",
+      "it": "https://mondoexplora.com/it/destination/savannah"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 186,
+    "average_discount": 0
+  }
+}

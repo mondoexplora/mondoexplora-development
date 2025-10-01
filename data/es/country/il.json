@@ -1,0 +1,37 @@
+{
+  "name": "Israel",
+  "code": "IL",
+  "hero_title": "Israel Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Israel.",
+  "hero_image": "https://images.luxuryescapes.com/hwe6yn9j68ald64h2tic",
+  "popular_destinations": [
+    {
+      "name": "Shaharut",
+      "slug": "shaharut",
+      "image": "https://images.luxuryescapes.com/hwe6yn9j68ald64h2tic",
+      "description": "Explore Shaharut with luxury accommodations"
+    },
+    {
+      "name": "Tel Aviv",
+      "slug": "tel-aviv",
+      "image": "https://images.luxuryescapes.com/xoqejvguxs5trooav47",
+      "description": "Explore Tel Aviv with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Israel Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Israel con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "israel hotels",
+      "israel travel",
+      "israel luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/il",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/il",
+      "es": "https://mondoexplora.com/es/country/il",
+      "fr": "https://mondoexplora.com/fr/country/il",
+      "it": "https://mondoexplora.com/it/country/il"
+    }
+  }
+}

@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard - Content Creators</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #f8fafc;
+            color: #1f2937;
+        }
+        
+        .admin-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid #e5e7eb;
+        }
+        
+        .header h1 {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #ff5a5f;
+        }
+        
+        .back-btn {
+            padding: 0.75rem 1.5rem;
+            background: #6b7280;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 500;
+            transition: background 0.2s;
+        }
+        
+        .back-btn:hover {
+            background: #4b5563;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            border: 1px solid #e5e7eb;
+        }
+        
+        .stat-card h3 {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: #6b7280;
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #1f2937;
+        }
+        
+        .section {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            border: 1px solid #e5e7eb;
+            margin-bottom: 2rem;
+            overflow: hidden;
+        }
+        
+        .section-header {
+            padding: 1.5rem;
+            border-bottom: 1px solid #e5e7eb;
+            background: #f9fafb;
+        }
+        
+        .section-header h2 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #1f2937;
+        }
+        
+        .creator-item {
+            padding: 1.5rem;
+            border-bottom: 1px solid #e5e7eb;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .creator-item:last-child {
+            border-bottom: none;
+        }
+        
+        .creator-info h3 {
+            font-size: 1.125rem;
+            font-weight: 600;
+            color: #1f2937;
+            margin-bottom: 0.25rem;
+        }
+        
+        .creator-meta {
+            display: flex;
+            gap: 1rem;
+            font-size: 0.875rem;
+            color: #6b7280;
+        }
+        
+        .creator-actions {
+            display: flex;
+            gap: 0.5rem;
+        }
+        
+        .btn {
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 6px;
+            font-size: 0.875rem;
+            font-weight: 500;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+        
+        .btn-approve {
+            background: #10b981;
+            color: white;
+        }
+        
+        .btn-approve:hover {
+            background: #059669;
+        }
+        
+        .btn-reject {
+            background: #ef4444;
+            color: white;
+        }
+        
+        .btn-reject:hover {
+            background: #dc2626;
+        }
+        
+        .btn-view {
+            background: #3b82f6;
+            color: white;
+        }
+        
+        .btn-view:hover {
+            background: #2563eb;
+        }
+        
+        .btn-deactivate {
+            background: #f59e0b;
+            color: white;
+        }
+        
+        .btn-deactivate:hover {
+            background: #d97706;
+        }
+        
+        .status-badge {
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        
+        .status-pending {
+            background: #fef3c7;
+            color: #92400e;
+        }
+        
+        .status-approved {
+            background: #d1fae5;
+            color: #065f46;
+        }
+        
+        .status-active {
+            background: #dbeafe;
+            color: #1e40af;
+        }
+        
+        .status-inactive {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+        
+        .invitation-form {
+            padding: 1.5rem;
+            background: #f9fafb;
+            border-top: 1px solid #e5e7eb;
+        }
+        
+        .form-group {
+            margin-bottom: 1rem;
+        }
+        
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+            color: #374151;
+        }
+        
+        .form-group input {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            font-size: 1rem;
+        }
+        
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+        }
+        
+        .btn-primary {
+            background: #ff5a5f;
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: 6px;
+            font-size: 1rem;
+            font-weight: 500;
+            cursor: pointer;
+        }
+        
+        .btn-primary:hover {
+            background: #e53e3e;
+        }
+        
+        .flash-messages {
+            margin-bottom: 1rem;
+        }
+        
+        .flash-message {
+            padding: 1rem;
+            border-radius: 6px;
+            margin-bottom: 0.5rem;
+        }
+        
+        .flash-success {
+            background: #d1fae5;
+            color: #065f46;
+            border: 1px solid #a7f3d0;
+        }
+        
+        .flash-error {
+            background: #fee2e2;
+            color: #991b1b;
+            border: 1px solid #fecaca;
+        }
+        
+        .empty-state {
+            text-align: center;
+            padding: 3rem;
+            color: #6b7280;
+        }
+        
+        .empty-state i {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            opacity: 0.5;
+        }
+        
+        @media (max-width: 768px) {
+            .admin-container {
+                padding: 1rem;
+            }
+            
+            .header {
+                flex-direction: column;
+                gap: 1rem;
+                align-items: flex-start;
+            }
+            
+            .creator-item {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 1rem;
+            }
+            
+            .creator-actions {
+                width: 100%;
+                justify-content: flex-end;
+            }
+            
+            .form-row {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="admin-container">
+        <div class="header">
+            <h1><i class="fas fa-shield-alt"></i> Admin Dashboard</h1>
+            <div style="display: flex; gap: 1rem; align-items: center;">
+                <span style="color: #6b7280; font-size: 0.875rem;">
+                    Welcome, {{ session.get('admin_name', 'Admin') }}
+                </span>
+                <a href="{{ url_for('creator.admin_logout') }}" class="back-btn" style="background: #ef4444;">
+                    <i class="fas fa-sign-out-alt"></i> Logout
+                </a>
+                <a href="/" class="back-btn">
+                    <i class="fas fa-arrow-left"></i> Back to Site
+                </a>
+            </div>
+        </div>
+        
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                <div class="flash-messages">
+                    {% for category, message in messages %}
+                        <div class="flash-message flash-{{ category }}">
+                            {{ message }}
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        {% endwith %}
+        
+        <div class="stats-grid">
+            <div class="stat-card">
+                <h3>Total Creators</h3>
+                <div class="stat-value">{{ stats.total_creators }}</div>
+            </div>
+            <div class="stat-card">
+                <h3>Pending Approval</h3>
+                <div class="stat-value">{{ stats.pending_approval }}</div>
+            </div>
+            <div class="stat-card">
+                <h3>Active Creators</h3>
+                <div class="stat-value">{{ stats.active_creators }}</div>
+            </div>
+            <div class="stat-card">
+                <h3>Total Posts</h3>
+                <div class="stat-value">{{ stats.total_posts }}</div>
+            </div>
+        </div>
+        
+        <!-- Pending Approvals Section -->
+        <div class="section">
+            <div class="section-header">
+                <h2><i class="fas fa-clock"></i> Pending Approvals</h2>
+            </div>
+            
+            {% if pending_creators %}
+                {% for creator in pending_creators %}
+                <div class="creator-item">
+                    <div class="creator-info">
+                        <h3>{{ creator.full_name }}</h3>
+                        <div class="creator-meta">
+                            <span><i class="fas fa-envelope"></i> {{ creator.email }}</span>
+                            <span><i class="fas fa-user"></i> {{ creator.username }}</span>
+                            <span><i class="fas fa-flag"></i> {{ creator.nationality or 'Not specified' }}</span>
+                            <span><i class="fas fa-calendar"></i> {{ creator.created_at.strftime('%B %d, %Y') }}</span>
+                        </div>
+                    </div>
+                    <div class="creator-actions">
+                        <span class="status-badge status-pending">Pending</span>
+                        <a href="{{ url_for('creator.view_creator', creator_id=creator.id) }}" class="btn btn-view">
+                            <i class="fas fa-eye"></i> View
+                        </a>
+                        <form method="POST" action="{{ url_for('creator.approve_creator', creator_id=creator.id) }}" style="display: inline;">
+                            <button type="submit" class="btn btn-approve">
+                                <i class="fas fa-check"></i> Approve
+                            </button>
+                        </form>
+                        <form method="POST" action="{{ url_for('creator.reject_creator', creator_id=creator.id) }}" style="display: inline;">
+                            <button type="submit" class="btn btn-reject" onclick="return confirm('Are you sure you want to reject this creator?')">
+                                <i class="fas fa-times"></i> Reject
+                            </button>
+                        </form>
+                    </div>
+                </div>
+                {% endfor %}
+            {% else %}
+                <div class="empty-state">
+                    <i class="fas fa-check-circle"></i>
+                    <h3>No pending approvals</h3>
+                    <p>All content creators have been reviewed.</p>
+                </div>
+            {% endif %}
+        </div>
+        
+        <!-- Active Creators Section -->
+        <div class="section">
+            <div class="section-header">
+                <h2><i class="fas fa-users"></i> Active Content Creators</h2>
+            </div>
+            
+            {% if active_creators %}
+                {% for creator in active_creators %}
+                <div class="creator-item">
+                    <div class="creator-info">
+                        <h3>{{ creator.full_name }}</h3>
+                        <div class="creator-meta">
+                            <span><i class="fas fa-envelope"></i> {{ creator.email }}</span>
+                            <span><i class="fas fa-user"></i> {{ creator.username }}</span>
+                            <span><i class="fas fa-flag"></i> {{ creator.nationality or 'Not specified' }}</span>
+                            <span><i class="fas fa-chart-line"></i> {{ creator.posts|length }} posts</span>
+                            <span><i class="fas fa-calendar"></i> Joined {{ creator.created_at.strftime('%B %d, %Y') }}</span>
+                        </div>
+                    </div>
+                    <div class="creator-actions">
+                        <span class="status-badge status-active">Active</span>
+                        <a href="{{ url_for('creator.view_creator', creator_id=creator.id) }}" class="btn btn-view">
+                            <i class="fas fa-eye"></i> View
+                        </a>
+                        <form method="POST" action="{{ url_for('creator.deactivate_creator', creator_id=creator.id) }}" style="display: inline;">
+                            <button type="submit" class="btn btn-deactivate" onclick="return confirm('Are you sure you want to deactivate this creator?')">
+                                <i class="fas fa-ban"></i> Deactivate
+                            </button>
+                        </form>
+                    </div>
+                </div>
+                {% endfor %}
+            {% else %}
+                <div class="empty-state">
+                    <i class="fas fa-users"></i>
+                    <h3>No active creators</h3>
+                    <p>No content creators are currently active.</p>
+                </div>
+            {% endif %}
+        </div>
+        
+        <!-- Create Invitation Code Section -->
+        <div class="section">
+            <div class="section-header">
+                <h2><i class="fas fa-plus-circle"></i> Create Invitation Code</h2>
+            </div>
+            
+            <form method="POST" action="{{ url_for('creator.create_invitation') }}" class="invitation-form">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="code">Invitation Code</label>
+                        <input type="text" id="code" name="code" required placeholder="e.g., CREATOR2024">
+                    </div>
+                    <div class="form-group">
+                        <label for="expires_at">Expires At (Optional)</label>
+                        <input type="datetime-local" id="expires_at" name="expires_at">
+                    </div>
+                </div>
+                <button type="submit" class="btn-primary">
+                    <i class="fas fa-plus"></i> Create Invitation Code
+                </button>
+            </form>
+        </div>
+        
+        <!-- Existing Invitation Codes -->
+        <div class="section">
+            <div class="section-header">
+                <h2><i class="fas fa-key"></i> Active Invitation Codes</h2>
+            </div>
+            
+            {% if invitation_codes %}
+                {% for code in invitation_codes %}
+                <div class="creator-item">
+                    <div class="creator-info">
+                        <h3>{{ code.code }}</h3>
+                        <div class="creator-meta">
+                            <span><i class="fas fa-calendar"></i> Created: {{ code.created_at.strftime('%B %d, %Y') }}</span>
+                            {% if code.expires_at %}
+                                <span><i class="fas fa-clock"></i> Expires: {{ code.expires_at.strftime('%B %d, %Y') }}</span>
+                            {% endif %}
+                            <span><i class="fas fa-user"></i> Used by: {{ code.used_by or 'Not used yet' }}</span>
+                        </div>
+                    </div>
+                    <div class="creator-actions">
+                        {% if code.is_used %}
+                            <span class="status-badge status-inactive">Used</span>
+                        {% else %}
+                            <span class="status-badge status-active">Active</span>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endfor %}
+            {% else %}
+                <div class="empty-state">
+                    <i class="fas fa-key"></i>
+                    <h3>No invitation codes</h3>
+                    <p>Create your first invitation code above.</p>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html> 

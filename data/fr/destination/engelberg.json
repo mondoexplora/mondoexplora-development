@@ -1,0 +1,50 @@
+{
+  "city": "Engelberg",
+  "country": "Switzerland",
+  "country_code": "CH",
+  "hero_title": "Hôtels à Engelberg",
+  "description": "Découvrez les meilleurs hôtels à Engelberg, Switzerland. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/l57tybstwrwgd6w4dw9j",
+  "hotels": [
+    {
+      "vendor_name": "Kempinski Palace Engelberg",
+      "offer_country_name": "Switzerland",
+      "location_heading": "Engelberg",
+      "title": "Five-Star Kempinski Swiss Mountain Retreat with Rooftop Day Spa",
+      "description": "Nestled in the shadows of the powder-white peaks of the Swiss Alps is the five-star Kempinski Palace Engelberg, a grand hotel built in 1904 with stunning Belle Époque-era architectural flourishes. Sublime mountain vistas are set to charm from every vantage. Head up to the rooftop where you'll find Kempinski The Spa, an inviting haven boasting an infinity pool, mountain panoramas from floor-to-ceiling windows, a Finnish sauna, ice fountain, and cosy fireplace. An onsite restaurant and bar showcases the best the region has to offer, with a strong farm-to-table philosophy and upscale Swiss specialties accompanied by a smooth glass of wine or refreshing cocktail. Located in the fairytale setting of Engelberg, this mountain retreat makes for an enchanting escape all year round. In summer, go hiking through lush green mountain scenes, find an 18-hole golf course with a spectacular alpine background, or try your hand at fishing on Lake Eugeni. In winter, the mountains are covered in a blanket of gleaming white snow, a playground for avid skiers, snowboarders, and general snow bunnies.",
+      "location_subheading": "Switzerland",
+      "price": 540,
+      "original_price": 540,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000007p25KAAQ",
+      "hero_image": "https://images.luxuryescapes.com/l57tybstwrwgd6w4dw9j",
+      "image_two": "https://images.luxuryescapes.com/1mkrjp5gfrnr7lxqdgtd",
+      "image_three": "https://images.luxuryescapes.com/iyjvj2jil8t16c19xeo",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:58:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Engelberg - Switzerland Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Engelberg, Switzerland avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "engelberg hotels",
+      "engelberg travel",
+      "switzerland hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/engelberg",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/engelberg",
+      "es": "https://mondoexplora.com/es/destination/engelberg",
+      "fr": "https://mondoexplora.com/fr/destination/engelberg",
+      "it": "https://mondoexplora.com/it/destination/engelberg"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 540,
+    "average_discount": 0
+  }
+}

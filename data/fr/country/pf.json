@@ -1,0 +1,49 @@
+{
+  "name": "French Polynesia",
+  "code": "PF",
+  "hero_title": "French Polynesia Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en French Polynesia.",
+  "hero_image": "https://images.luxuryescapes.com/q9oh3ndllzmq73uixaq",
+  "popular_destinations": [
+    {
+      "name": "Bora Bora",
+      "slug": "bora-bora",
+      "image": "https://images.luxuryescapes.com/q9oh3ndllzmq73uixaq",
+      "description": "Explore Bora Bora with luxury accommodations"
+    },
+    {
+      "name": "Fa'a'ā",
+      "slug": "fa'a'ā",
+      "image": "https://images.luxuryescapes.com/lxhnpvacoe5isu32y8q",
+      "description": "Explore Fa'a'ā with luxury accommodations"
+    },
+    {
+      "name": "Moorea",
+      "slug": "moorea",
+      "image": "https://images.luxuryescapes.com/fbz71ce15ldjggbjgiyg",
+      "description": "Explore Moorea with luxury accommodations"
+    },
+    {
+      "name": "Moorea-Maiao",
+      "slug": "moorea-maiao",
+      "image": "https://images.luxuryescapes.com/9q1a1c6sejd4ic2ncyi",
+      "description": "Explore Moorea-Maiao with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "French Polynesia Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en French Polynesia avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "french polynesia hotels",
+      "french polynesia travel",
+      "french polynesia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/pf",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/pf",
+      "es": "https://mondoexplora.com/es/country/pf",
+      "fr": "https://mondoexplora.com/fr/country/pf",
+      "it": "https://mondoexplora.com/it/country/pf"
+    }
+  }
+}

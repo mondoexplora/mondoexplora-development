@@ -1,0 +1,50 @@
+{
+  "city": "Melaka",
+  "country": "Malaysia",
+  "country_code": "MY",
+  "hero_title": "Hoteles en Melaka",
+  "description": "Descubre los mejores hoteles en Melaka, Malaysia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/dssstl73372dd04yllbi",
+  "hotels": [
+    {
+      "vendor_name": "Holiday Inn Melaka",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Melaka",
+      "title": "Malaysia: Vibrant Melaka Escape Overlooking Waterfront with Infinity Pool",
+      "description": "Set on the waterfront of the sparkling Strait of Malacca, Holiday Inn Melaka, an IHG Hotel’s pristine location offers impressive views and proximity to exciting shopping districts and man-made attractions. Take in picturesque views from the relaxing vantage point of the infinity pool, indulge in a Balinese-inspired rejuvenation session at Tea Tree Spa and treat the tastebuds to a culinary splendour at Es.Sense Kitchen or Sirocco Italian Restaurant.",
+      "location_subheading": "Malaysia",
+      "price": 56,
+      "original_price": 56,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DI60AAAT",
+      "hero_image": "https://images.luxuryescapes.com/dssstl73372dd04yllbi",
+      "image_two": "https://images.luxuryescapes.com/dq48l9l2qwvc1k5glc3j",
+      "image_three": "https://images.luxuryescapes.com/o53oaq6i2k2pk6dxnn",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Melaka - Malaysia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Melaka, Malaysia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "melaka hotels",
+      "melaka travel",
+      "malaysia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/melaka",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/melaka",
+      "es": "https://mondoexplora.com/es/destination/melaka",
+      "fr": "https://mondoexplora.com/fr/destination/melaka",
+      "it": "https://mondoexplora.com/it/destination/melaka"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 56,
+    "average_discount": 0
+  }
+}

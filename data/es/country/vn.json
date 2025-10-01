@@ -1,0 +1,61 @@
+{
+  "name": "Vietnam",
+  "code": "VN",
+  "hero_title": "Vietnam Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Vietnam.",
+  "hero_image": "https://images.luxuryescapes.com/x7veh0vv3q9f11orhkuw",
+  "popular_destinations": [
+    {
+      "name": "Ho Chi Minh",
+      "slug": "ho-chi-minh",
+      "image": "https://images.luxuryescapes.com/x7veh0vv3q9f11orhkuw",
+      "description": "Explore Ho Chi Minh with luxury accommodations"
+    },
+    {
+      "name": "Hoi An",
+      "slug": "hoi-an",
+      "image": "https://images.luxuryescapes.com/rdkchvegojrjxaeupjj9",
+      "description": "Explore Hoi An with luxury accommodations"
+    },
+    {
+      "name": "Mui Ne",
+      "slug": "mui-ne",
+      "image": "https://images.luxuryescapes.com/spmxrtox2l5nld2sqq7",
+      "description": "Explore Mui Ne with luxury accommodations"
+    },
+    {
+      "name": "Nha Trang",
+      "slug": "nha-trang",
+      "image": "https://images.luxuryescapes.com/76ulxpbdglr88rnr03wg",
+      "description": "Explore Nha Trang with luxury accommodations"
+    },
+    {
+      "name": "Phu Quoc",
+      "slug": "phu-quoc",
+      "image": "https://images.luxuryescapes.com/mxzvu1v9lj8416lzx4t",
+      "description": "Explore Phu Quoc with luxury accommodations"
+    },
+    {
+      "name": "Bình Thuận",
+      "slug": "bình-thuận",
+      "image": "https://images.luxuryescapes.com/x323qauq2oczwdp3lnk6",
+      "description": "Explore Bình Thuận with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Vietnam Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Vietnam con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "vietnam hotels",
+      "vietnam travel",
+      "vietnam luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/vn",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/vn",
+      "es": "https://mondoexplora.com/es/country/vn",
+      "fr": "https://mondoexplora.com/fr/country/vn",
+      "it": "https://mondoexplora.com/it/country/vn"
+    }
+  }
+}

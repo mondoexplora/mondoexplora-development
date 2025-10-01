@@ -1,0 +1,50 @@
+{
+  "city": "Minneapolis",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotel a Minneapolis",
+  "description": "Scopri i migliori hotel a Minneapolis, United States. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/m1blcde74hi9i9f89ksg",
+  "hotels": [
+    {
+      "vendor_name": "InterContinental Minneapolis - St.Paul Airport.",
+      "offer_country_name": "United States",
+      "location_heading": "Minneapolis",
+      "title": "Elegant Minneapolis Airport Stay with Restaurant, Games Lounge & Complimentary Airport Shuttle",
+      "description": "Experience the heart of the Twin Cities with a stay at the InterContinental Minneapolis - St.Paul Airport, an IHG Hotel. Explore the world-renowned Mall of America, enjoy a performance at the Guthrie Theater and relish in the convenience of direct airport access. At the hotel, savour French-inspired cuisine with a Minnesotan twist at La Voya Brasserie or challenge your travel companions to a game of foosball or pool at Bradstreet Crafthouse, the onsite games lounge.",
+      "location_subheading": "United States",
+      "price": 160,
+      "original_price": 160,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000GxYXIAA3",
+      "hero_image": "https://images.luxuryescapes.com/m1blcde74hi9i9f89ksg",
+      "image_two": "https://images.luxuryescapes.com/2cgdxwsskkuoar1mmyy6",
+      "image_three": "https://images.luxuryescapes.com/nkt1e1az1uvs0rtmgdo",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Minneapolis - Stati Uniti Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Minneapolis, United States con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "minneapolis hotels",
+      "minneapolis travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/minneapolis",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/minneapolis",
+      "es": "https://mondoexplora.com/es/destination/minneapolis",
+      "fr": "https://mondoexplora.com/fr/destination/minneapolis",
+      "it": "https://mondoexplora.com/it/destination/minneapolis"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 160,
+    "average_discount": 0
+  }
+}

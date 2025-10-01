@@ -1,0 +1,50 @@
+{
+  "city": "Samana",
+  "country": "Dominican Republic",
+  "country_code": "DO",
+  "hero_title": "Hoteles en Samana",
+  "description": "Descubre los mejores hoteles en Samana, Dominican Republic. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/6ck34qontzjydfommeuyr",
+  "hotels": [
+    {
+      "vendor_name": "CAYO LEVANTADO RESORT",
+      "offer_country_name": "Dominican Republic",
+      "location_heading": "Samana",
+      "title": "Five-Star Caribbean Private Island Elegance with All-Inclusive Dining, Daily Drinks & Boat Transfers",
+      "description": "Experience the epitome of all-inclusive island luxury at Cayo Levantado Resort, a sanctuary where Dominican heritage, sustainability and holistic wellness harmoniously intertwine. Nestled on the iconic 'Bacardi Island', this retreat is renowned for its unspoiled beaches and azure waters, immortalised in the iconic Bacardi rum commercials. Dive into a world of adventure with a range of water sports, or find tranquillity in wellness workshops. Savour the flavours of traditional Dominican cuisine or the experience the wonders of gastronomy at the resort's diverse dining venues. For those seeking relaxation, the resort's pool, adorned with playful hammocks, awaits amidst a lush garden oasis, while The Spa offers indulgent treatments for ultimate rejuvenation.",
+      "location_subheading": "Dominican Republic",
+      "price": 740,
+      "original_price": 740,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DGko8AAD",
+      "hero_image": "https://images.luxuryescapes.com/6ck34qontzjydfommeuyr",
+      "image_two": "https://images.luxuryescapes.com/m6va3gczzzr341nf73",
+      "image_three": "https://images.luxuryescapes.com/o86psm8mvmibxp27i33d",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Samana - Dominican Republic Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Samana, Dominican Republic con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "samana hotels",
+      "samana travel",
+      "dominican republic hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/samana",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/samana",
+      "es": "https://mondoexplora.com/es/destination/samana",
+      "fr": "https://mondoexplora.com/fr/destination/samana",
+      "it": "https://mondoexplora.com/it/destination/samana"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 740,
+    "average_discount": 0
+  }
+}

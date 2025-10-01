@@ -1,0 +1,50 @@
+{
+  "city": "Cleveland",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hôtels à Cleveland",
+  "description": "Découvrez les meilleurs hôtels à Cleveland, United States. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/d4x5r9rsckmlhe0eyrn",
+  "hotels": [
+    {
+      "vendor_name": "Intercontinental Suites Hotel Cleveland",
+      "offer_country_name": "United States",
+      "location_heading": "Cleveland",
+      "title": "Tranquil Ohio City Retreat in the heart of Cleveland's University Circle",
+      "description": "Nestled amidst the prestigious Cleveland Clinic campus, InterContinental Suites Hotel Cleveland, an IHG Hotel, provides an elevated, yet inviting, home-away-from-home in which to recuperate and relax. Immerse yourself in the vibrant city, with the charming Little Italy, iconic Rock and Roll Hall of Fame and the revered Cleveland Museum of Art all just moments away. Culinary excellence awaits your return, with the Italian-inspired C2 restaurant, bar and lounge serving a delectable array of dishes and sophisticated aperitifs.",
+      "location_subheading": "United States",
+      "price": 160,
+      "original_price": 160,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Bdt7oAAB",
+      "hero_image": "https://images.luxuryescapes.com/d4x5r9rsckmlhe0eyrn",
+      "image_two": "https://images.luxuryescapes.com/58avattxq0hyowzs94o",
+      "image_three": "https://images.luxuryescapes.com/bc93u3x7rz140jalobe",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Cleveland - États-Unis Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Cleveland, United States avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "cleveland hotels",
+      "cleveland travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/cleveland",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/cleveland",
+      "es": "https://mondoexplora.com/es/destination/cleveland",
+      "fr": "https://mondoexplora.com/fr/destination/cleveland",
+      "it": "https://mondoexplora.com/it/destination/cleveland"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 160,
+    "average_discount": 0
+  }
+}

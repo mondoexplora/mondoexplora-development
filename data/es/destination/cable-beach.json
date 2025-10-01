@@ -1,0 +1,50 @@
+{
+  "city": "Cable Beach",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hoteles en Cable Beach",
+  "description": "Descubre los mejores hoteles en Cable Beach, Australia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/ib9wfgoh1x4vq88o49",
+  "hotels": [
+    {
+      "vendor_name": "Oaks Cable Beach Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Cable Beach",
+      "title": "Blissful Broome Oaks Escape near Famous Cable Beach",
+      "description": "Stay within moments of Broome's most iconic beach at Oaks Cable Beach Resort, a mere 15-minute walk to the famous white sands and sunsets of Cable Beach. The resort's facilities are geared towards ensuring guests' ultimate comfort: cool off at four swimming pools and one kids' pool, and feast on modern Australian fare in between sips of an ice-cold beer at the breezy Cables Restaurant & Bar. The resort is located at the gateway to Western Australia's Kimberley region, so you can enjoy easy access to some of the country's most awe-inspiring natural wonders.",
+      "location_subheading": "Australia",
+      "price": 205,
+      "original_price": 205,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000009BTlOAAW",
+      "hero_image": "https://images.luxuryescapes.com/ib9wfgoh1x4vq88o49",
+      "image_two": "https://images.luxuryescapes.com/b3c8m4mjeh08gnb32ik",
+      "image_three": "https://images.luxuryescapes.com/ltqpu08oejzhx3497p3",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Cable Beach - Australia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Cable Beach, Australia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "cable beach hotels",
+      "cable beach travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/cable-beach",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/cable-beach",
+      "es": "https://mondoexplora.com/es/destination/cable-beach",
+      "fr": "https://mondoexplora.com/fr/destination/cable-beach",
+      "it": "https://mondoexplora.com/it/destination/cable-beach"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 205,
+    "average_discount": 0
+  }
+}

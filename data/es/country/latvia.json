@@ -1,0 +1,31 @@
+{
+  "name": "Latvia",
+  "code": "LV",
+  "hero_title": "Latvia Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Latvia.",
+  "hero_image": "https://images.luxuryescapes.com/ihh42krxgmuhmcjnoqb",
+  "popular_destinations": [
+    {
+      "name": "Riga",
+      "slug": "riga",
+      "image": "https://images.luxuryescapes.com/ihh42krxgmuhmcjnoqb",
+      "description": "Explore Riga with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Latvia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Latvia con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "latvia hotels",
+      "latvia travel",
+      "latvia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/lv",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/lv",
+      "es": "https://mondoexplora.com/es/country/lv",
+      "fr": "https://mondoexplora.com/fr/country/lv",
+      "it": "https://mondoexplora.com/it/country/lv"
+    }
+  }
+}

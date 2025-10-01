@@ -1,0 +1,50 @@
+{
+  "city": "Con Dao",
+  "country": "Vietnam",
+  "country_code": "VN",
+  "hero_title": "Hoteles en Con Dao",
+  "description": "Descubre los mejores hoteles en Con Dao, Vietnam. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/gqqfa6y779a9byiu2mtg",
+  "hotels": [
+    {
+      "vendor_name": "Six Senses Con Dao",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Con Dao",
+      "title": "Vietnam Con Dao Six Senses Indulgence with Four Restaurants & Bars",
+      "description": "Savour signature Six Senses luxury in Con Dao's breathtaking protected parklands. With rooms laid out to resemble a traditional Vietnamese village, the location is spectacularly appointed on Dat Doc Beach, a one-mile stretch of private beachfront. Savour authentic, locally sourced food from across the archipelago at two onsite restaurants, rejuvenate your senses at the holistic Six Senses Spa, sip East-meets-West tipples at two bars and explore the island's rich history and diverse marine life.",
+      "location_subheading": "Vietnam",
+      "price": 805,
+      "original_price": 805,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002HWuoIAG",
+      "hero_image": "https://images.luxuryescapes.com/gqqfa6y779a9byiu2mtg",
+      "image_two": "https://images.luxuryescapes.com/yuizmlyghq5l57sq9vkc",
+      "image_three": "https://images.luxuryescapes.com/n4tv4pmj0hwd7kf8qwnb",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Con Dao - Vietnam Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Con Dao, Vietnam con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "con dao hotels",
+      "con dao travel",
+      "vietnam hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/con-dao",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/con-dao",
+      "es": "https://mondoexplora.com/es/destination/con-dao",
+      "fr": "https://mondoexplora.com/fr/destination/con-dao",
+      "it": "https://mondoexplora.com/it/destination/con-dao"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 805,
+    "average_discount": 0
+  }
+}

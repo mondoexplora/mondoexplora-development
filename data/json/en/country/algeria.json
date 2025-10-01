@@ -1,0 +1,43 @@
+{
+  "name": "Algeria",
+  "code": "DZ",
+  "hero_title": "Algeria Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Algeria.",
+  "hero_image": "https://images.luxuryescapes.com/smb3r6b8fqrsee9xdvfb",
+  "popular_destinations": [
+    {
+      "name": "Algiers",
+      "slug": "algiers",
+      "image": "https://images.luxuryescapes.com/smb3r6b8fqrsee9xdvfb",
+      "description": "Explore Algiers with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 165
+    },
+    {
+      "name": "Oran",
+      "slug": "oran",
+      "image": "https://images.luxuryescapes.com/5p6kjqfl2eshq3ho9u9",
+      "description": "Explore Oran with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 244
+    }
+  ],
+  "seo": {
+    "title": "Algeria Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Algeria with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "algeria hotels",
+      "algeria travel",
+      "algeria luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/dz",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/dz",
+      "es": "https://mondoexplora.com/es/country/dz",
+      "fr": "https://mondoexplora.com/fr/country/dz",
+      "it": "https://mondoexplora.com/it/country/dz"
+    }
+  }
+}

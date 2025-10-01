@@ -1,0 +1,31 @@
+{
+  "name": "Zambia",
+  "code": "ZM",
+  "hero_title": "Zambia Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Zambia.",
+  "hero_image": "https://images.luxuryescapes.com/531rym4w29cz4ywc20d",
+  "popular_destinations": [
+    {
+      "name": "Lusaka",
+      "slug": "lusaka",
+      "image": "https://images.luxuryescapes.com/531rym4w29cz4ywc20d",
+      "description": "Explore Lusaka with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Zambia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Zambia con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "zambia hotels",
+      "zambia travel",
+      "zambia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/zm",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/zm",
+      "es": "https://mondoexplora.com/es/country/zm",
+      "fr": "https://mondoexplora.com/fr/country/zm",
+      "it": "https://mondoexplora.com/it/country/zm"
+    }
+  }
+}

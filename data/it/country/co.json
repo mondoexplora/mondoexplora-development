@@ -1,0 +1,37 @@
+{
+  "name": "Colombia",
+  "code": "CO",
+  "hero_title": "Colombia Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Colombia.",
+  "hero_image": "https://images.luxuryescapes.com/wdwumxf61bdm5xw7kvz",
+  "popular_destinations": [
+    {
+      "name": "Bogota",
+      "slug": "bogota",
+      "image": "https://images.luxuryescapes.com/wdwumxf61bdm5xw7kvz",
+      "description": "Explore Bogota with luxury accommodations"
+    },
+    {
+      "name": "Medellin",
+      "slug": "medellin",
+      "image": "https://images.luxuryescapes.com/myrjdmqt6ub7op4hlnp",
+      "description": "Explore Medellin with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Colombia Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Colombia con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "colombia hotels",
+      "colombia travel",
+      "colombia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/co",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/co",
+      "es": "https://mondoexplora.com/es/country/co",
+      "fr": "https://mondoexplora.com/fr/country/co",
+      "it": "https://mondoexplora.com/it/country/co"
+    }
+  }
+}

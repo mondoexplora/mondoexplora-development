@@ -1,0 +1,43 @@
+{
+  "name": "Jamaica",
+  "code": "JM",
+  "hero_title": "Jamaica Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Jamaica.",
+  "hero_image": "https://images.luxuryescapes.com/ot5hmc71cczfumzoyha",
+  "popular_destinations": [
+    {
+      "name": "Montego Bay",
+      "slug": "montego-bay",
+      "image": "https://images.luxuryescapes.com/ot5hmc71cczfumzoyha",
+      "description": "Explore Montego Bay with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 466
+    },
+    {
+      "name": "Port Antonio",
+      "slug": "port-antonio",
+      "image": "https://images.luxuryescapes.com/6djmkdndrc9l2kxyeaba",
+      "description": "Explore Port Antonio with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 439
+    }
+  ],
+  "seo": {
+    "title": "Jamaica Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Jamaica with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "jamaica hotels",
+      "jamaica travel",
+      "jamaica luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/jm",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/jm",
+      "es": "https://mondoexplora.com/es/country/jm",
+      "fr": "https://mondoexplora.com/fr/country/jm",
+      "it": "https://mondoexplora.com/it/country/jm"
+    }
+  }
+}

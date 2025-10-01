@@ -1,0 +1,50 @@
+{
+  "city": "Santa Barbara",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotel a Santa Barbara",
+  "description": "Scopri i migliori hotel a Santa Barbara, United States. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/foecr8ofb9gthem4pt2ef",
+  "hotels": [
+    {
+      "vendor_name": "Kimpton Canary Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Santa Barbara",
+      "title": "Santa Barbara Spanish-Style Glamour near State Street with Rooftop Pool",
+      "description": "Between swaying palms, red-tiled rooftops and the Pacific Ocean's endless blue, Kimpton Canary Hotel, an IHG Hotel, offers a uniquely sophisticated Spanish-style retreat in the heart of Santa Barbara, just moments from State Street, the city’s most celebrated avenue. Spend sun-kissed moments lazing by the hotel’s spectacular rooftop pool, before savouring exquisite coastal-focused cuisine and uniquely Californian drops at onsite Finch & Fork.",
+      "location_subheading": "United States",
+      "price": 419,
+      "original_price": 419,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EdKEmAAN",
+      "hero_image": "https://images.luxuryescapes.com/foecr8ofb9gthem4pt2ef",
+      "image_two": "https://images.luxuryescapes.com/xmhp4gnnhtle8zekfhk",
+      "image_three": "https://images.luxuryescapes.com/ll6biel6llalraiauc4",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2027-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Santa Barbara - Stati Uniti Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Santa Barbara, United States con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "santa barbara hotels",
+      "santa barbara travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/santa-barbara",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/santa-barbara",
+      "es": "https://mondoexplora.com/es/destination/santa-barbara",
+      "fr": "https://mondoexplora.com/fr/destination/santa-barbara",
+      "it": "https://mondoexplora.com/it/destination/santa-barbara"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 419,
+    "average_discount": 0
+  }
+}

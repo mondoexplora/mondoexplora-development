@@ -1,0 +1,43 @@
+{
+  "name": "Egypt",
+  "code": "EG",
+  "hero_title": "Egypt Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Egypt.",
+  "hero_image": "https://images.luxuryescapes.com/m1x2y9po5v963ctkd7i",
+  "popular_destinations": [
+    {
+      "name": "Alamein",
+      "slug": "alamein",
+      "image": "https://images.luxuryescapes.com/m1x2y9po5v963ctkd7i",
+      "description": "Explore Alamein with luxury accommodations"
+    },
+    {
+      "name": "Cairo",
+      "slug": "cairo",
+      "image": "https://images.luxuryescapes.com/2sixkwhmquzfvzv7llnj",
+      "description": "Explore Cairo with luxury accommodations"
+    },
+    {
+      "name": "Sharm El Sheikh",
+      "slug": "sharm-el-sheikh",
+      "image": "https://images.luxuryescapes.com/cvpidanjjhd1xazx7tis",
+      "description": "Explore Sharm El Sheikh with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Egypt Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Egypt avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "egypt hotels",
+      "egypt travel",
+      "egypt luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/eg",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/eg",
+      "es": "https://mondoexplora.com/es/country/eg",
+      "fr": "https://mondoexplora.com/fr/country/eg",
+      "it": "https://mondoexplora.com/it/country/eg"
+    }
+  }
+}

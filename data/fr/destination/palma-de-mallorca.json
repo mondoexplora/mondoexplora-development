@@ -1,0 +1,50 @@
+{
+  "city": "Palma de Mallorca",
+  "country": "Spain",
+  "country_code": "ES",
+  "hero_title": "Hôtels à Palma de Mallorca",
+  "description": "Découvrez les meilleurs hôtels à Palma de Mallorca, Spain. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/nxtwhr2eaj363svxxxs9",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Es Princep",
+      "offer_country_name": "Spain",
+      "location_heading": "Palma de Mallorca",
+      "title": "Boutique Spanish Five-Star Retreat in the Heart of Palma with Ocean-View Rooftop Terrace",
+      "description": "Say hola to the largest of the Balearic Islands with a stay at the award-winning, five-star Hotel Es Princep - tucked within the city walls of Palma’s Old Town. A recipient of the 2023 Conde Nast Award for Excellence, this boutique gem is the perfect place to spend a few days in the sun and discover the enchanting island off the coast of Spain. Bask in the Mediterranean sun with a side of sea breeze on the stunning rooftop terrace, feast on local flavours at Zaranda and experience mind-clearing relaxation at Coco Spa Oasis.",
+      "location_subheading": "Spain",
+      "price": 279,
+      "original_price": 279,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EyDY6AAN",
+      "hero_image": "https://images.luxuryescapes.com/nxtwhr2eaj363svxxxs9",
+      "image_two": "https://images.luxuryescapes.com/to8s2fld1a78fn6x5j6a",
+      "image_three": "https://images.luxuryescapes.com/rc0f1f2mmhrai21ibc8",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Palma de Mallorca - Spain Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Palma de Mallorca, Spain avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "palma de mallorca hotels",
+      "palma de mallorca travel",
+      "spain hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/palma-de-mallorca",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/palma-de-mallorca",
+      "es": "https://mondoexplora.com/es/destination/palma-de-mallorca",
+      "fr": "https://mondoexplora.com/fr/destination/palma-de-mallorca",
+      "it": "https://mondoexplora.com/it/destination/palma-de-mallorca"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 279,
+    "average_discount": 0
+  }
+}

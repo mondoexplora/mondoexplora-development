@@ -1,0 +1,51 @@
+{
+  "origin": "Rome",
+  "destination": "Milan",
+  "origin_country": "Italy",
+  "destination_country": "Italy",
+  "transport_modes": {
+    "flight": {
+      "duration": "3h 45m",
+      "price_range": "$75 - $180",
+      "providers": [
+        "Skyscanner",
+        "Kayak",
+        "Expedia"
+      ]
+    },
+    "train": {
+      "duration": "2h 55m",
+      "price_range": "$80 - $200",
+      "providers": [
+        "Rail Europe",
+        "Eurail",
+        "Trainline"
+      ]
+    },
+    "bus": {
+      "duration": "4h 30m",
+      "price_range": "$30 - $75",
+      "providers": [
+        "FlixBus",
+        "Greyhound",
+        "Megabus"
+      ]
+    },
+    "car": {
+      "duration": "4h 15m",
+      "distance": "480 km",
+      "price_range": "$60 - $140"
+    }
+  },
+  "seo": {
+    "title": "Rome to Milan - Transport Guide 2024",
+    "description": "Compare transport options from rome to milan. Find the best deals on flights, trains, buses and car rentals.",
+    "keywords": [
+      "rome to milan",
+      "transport",
+      "travel",
+      "flights",
+      "trains"
+    ]
+  }
+}

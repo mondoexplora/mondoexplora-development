@@ -1,0 +1,50 @@
+{
+  "city": "Neuss",
+  "country": "Germany",
+  "country_code": "DE",
+  "hero_title": "Hotel a Neuss",
+  "description": "Scopri i migliori hotel a Neuss, Germany. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/pa16tsq4eu4ud9a6spyiy",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Dusseldorf - Neuss",
+      "offer_country_name": "Germany",
+      "location_heading": "Neuss",
+      "title": "Dusseldorf Refined Retreat with Rhine River Views",
+      "description": "A refined urban retreat boasting Rhine River views, Crowne Plaza Dusseldorf - Neuss, an IHG Hotel, is only minutes from Dusseldorf and Neuss. Savour delightful dishes alongside enchanting views of the Rhine at the Riverside restaurant or lunge into your workout at the onsite fitness centre. As evening approaches, venture into vibrant Dusseldorf to experience the local nightlife, kick back in the RiverBar with a refined cocktail or return to a sophisticated suite for a pleasant night's sleep.",
+      "location_subheading": "Germany",
+      "price": 62,
+      "original_price": 62,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJarAAH",
+      "hero_image": "https://images.luxuryescapes.com/pa16tsq4eu4ud9a6spyiy",
+      "image_two": "https://images.luxuryescapes.com/qvdgb8tiaezsnzfnmx0k",
+      "image_three": "https://images.luxuryescapes.com/xcx71ktla3x98kjpy6ao",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Neuss - Germany Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Neuss, Germany con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "neuss hotels",
+      "neuss travel",
+      "germany hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/neuss",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/neuss",
+      "es": "https://mondoexplora.com/es/destination/neuss",
+      "fr": "https://mondoexplora.com/fr/destination/neuss",
+      "it": "https://mondoexplora.com/it/destination/neuss"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 62,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Sorrento",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotel a Sorrento",
+  "description": "Scopri i migliori hotel a Sorrento, Australia. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/mnrj0jmnrge84xpizke7",
+  "hotels": [
+    {
+      "vendor_name": "InterContinental Sorrento Mornington Peninsula",
+      "offer_country_name": "Australia",
+      "location_heading": "Sorrento",
+      "title": "Mornington Peninsula Heritage Glamour with Seven Onsite Restaurants & Bars",
+      "description": "The spoils of Victoria's Mornington Peninsula await when you stay at InterContinental Sorrento Mornington Peninsula, an IHG Hotel. From some of the country's most esteemed wineries to its world-famous beaches and award-winning eateries, a trip to this sunny slice of coastline is a must. The hotel enjoys a marvellous location and treats its guests to seven restaurants and bars, the blissful Aurora Spa & Bathhouse and a swimming pool for those days when you just want to flop and drop.",
+      "location_subheading": "Australia",
+      "price": 189,
+      "original_price": 189,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CNQGTAA5",
+      "hero_image": "https://images.luxuryescapes.com/mnrj0jmnrge84xpizke7",
+      "image_two": "https://images.luxuryescapes.com/yfx493kqohk5fr0nme5h",
+      "image_three": "https://images.luxuryescapes.com/drwqi5ogmfpfm5cq2ptj",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Sorrento - Australia Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Sorrento, Australia con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "sorrento hotels",
+      "sorrento travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/sorrento",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/sorrento",
+      "es": "https://mondoexplora.com/es/destination/sorrento",
+      "fr": "https://mondoexplora.com/fr/destination/sorrento",
+      "it": "https://mondoexplora.com/it/destination/sorrento"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 189,
+    "average_discount": 0
+  }
+}

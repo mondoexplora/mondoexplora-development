@@ -1,0 +1,68 @@
+{
+  "city": "Dhaka",
+  "country": "Bangladesh",
+  "country_code": "BD",
+  "hero_title": "Hotels in Dhaka",
+  "description": "Discover the best hotels in Dhaka, Bangladesh. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/h5gy3mvz3pbfeskdely",
+  "hotels": [
+    {
+      "vendor_name": "Intercontinental Dhaka",
+      "offer_country_name": "Bangladesh",
+      "location_heading": "Dhaka",
+      "title": "Five-Star Bangladesh Stay in the Heart of Dhaka's Prestigious Business District",
+      "description": "Masterfully placed in the centre of Bangladesh's capital, Intercontinental Dhaka, an IHG Hotel, offers sophisticated five-star luxury and world-renowned hospitality. This urban hideaway boasts a magnificent blend of locally inspired elements with modern amenities. Make yourself at home as you lounge by the pool overlooking Ramna Park, feast your way across five excellent restaurants and bars, keep active at the well-equipped gym or venture beyond the hotel to explore this historic city.",
+      "location_subheading": "Bangladesh",
+      "price": 131,
+      "original_price": 131,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Bdt6QAAR",
+      "hero_image": "https://images.luxuryescapes.com/h5gy3mvz3pbfeskdely",
+      "image_two": "https://images.luxuryescapes.com/hozmgqjy3nfh7mw445k",
+      "image_three": "https://images.luxuryescapes.com/kugi5ux13akvfdvpl5l",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Dhaka Gulshan",
+      "offer_country_name": "Bangladesh",
+      "location_heading": "Dhaka",
+      "title": "Modern Bangladesh Stay with Rooftop Infinity Pool",
+      "description": "Welcome to Crowne Plaza Dhaka Gulshan, an IHG Hotel, a sophisticated escape in the heart of Bangladesh's capital city, Dhaka. Offering a comfortable stay for both business and pleasure, the hotel features a modern design with spacious rooms. Start your day with fresh coffee and pastries at Deli cafe, before enjoying a dip at the rooftop infinity pool. Later, enjoy a mocktail at The Oasis Lounge or indulge in delicious dining at one of the hotel's onsite restaurants.",
+      "location_subheading": "Bangladesh",
+      "price": 104,
+      "original_price": 104,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Ew6EtAAJ",
+      "hero_image": "https://images.luxuryescapes.com/aagi85esnwi3g044yac",
+      "image_two": "https://images.luxuryescapes.com/1536w6jgxdihat6zicu",
+      "image_three": "https://images.luxuryescapes.com/ga3k811pi4bcqhx82nte",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Dhaka - Bangladesh Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Dhaka, Bangladesh with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "dhaka hotels",
+      "dhaka travel",
+      "bangladesh hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/dhaka",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/dhaka",
+      "es": "https://mondoexplora.com/es/destination/dhaka",
+      "fr": "https://mondoexplora.com/fr/destination/dhaka",
+      "it": "https://mondoexplora.com/it/destination/dhaka"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 118,
+    "average_discount": 0
+  }
+}

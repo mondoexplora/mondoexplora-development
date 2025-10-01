@@ -1,0 +1,37 @@
+{
+  "name": "Cayman Islands",
+  "code": "KY",
+  "hero_title": "Cayman Islands Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Cayman Islands.",
+  "hero_image": "https://images.luxuryescapes.com/q3ogzcnf28w9ah269g0m",
+  "popular_destinations": [
+    {
+      "name": "Grand Cayman",
+      "slug": "grand-cayman",
+      "image": "https://images.luxuryescapes.com/q3ogzcnf28w9ah269g0m",
+      "description": "Explore Grand Cayman with luxury accommodations"
+    },
+    {
+      "name": "Seven Mile Beach",
+      "slug": "seven-mile-beach",
+      "image": "https://images.luxuryescapes.com/kg9h82mso6ox9ysnwpl",
+      "description": "Explore Seven Mile Beach with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Cayman Islands Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Cayman Islands con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "cayman islands hotels",
+      "cayman islands travel",
+      "cayman islands luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/ky",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ky",
+      "es": "https://mondoexplora.com/es/country/ky",
+      "fr": "https://mondoexplora.com/fr/country/ky",
+      "it": "https://mondoexplora.com/it/country/ky"
+    }
+  }
+}

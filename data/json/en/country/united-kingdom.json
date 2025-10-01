@@ -1,0 +1,79 @@
+{
+  "name": "United Kingdom",
+  "code": "GB",
+  "hero_title": "United Kingdom Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in United Kingdom.",
+  "hero_image": "https://images.luxuryescapes.com/u9y5nnik7dxmjmz4c2qd",
+  "popular_destinations": [
+    {
+      "name": "London",
+      "slug": "london",
+      "image": "https://images.luxuryescapes.com/u9y5nnik7dxmjmz4c2qd",
+      "description": "Explore London with luxury accommodations",
+      "hotel_count": 49,
+      "hotel_deals": 49,
+      "avg_price": 338
+    },
+    {
+      "name": "Edinburgh",
+      "slug": "edinburgh",
+      "image": "https://images.luxuryescapes.com/f9ud79hgwfn9zkljlo",
+      "description": "Explore Edinburgh with luxury accommodations",
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 114
+    },
+    {
+      "name": "Bath",
+      "slug": "bath",
+      "image": "https://images.luxuryescapes.com/lxw8wxuro1c8aaakkeu",
+      "description": "Explore Bath with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 202
+    },
+    {
+      "name": "Liverpool",
+      "slug": "liverpool",
+      "image": "https://images.luxuryescapes.com/3xbublkr5ta0dbjm3ch",
+      "description": "Explore Liverpool with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 96
+    },
+    {
+      "name": "Manchester",
+      "slug": "manchester",
+      "image": "https://images.luxuryescapes.com/m21km6z11as3l8ec8zbu",
+      "description": "Explore Manchester with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 106
+    },
+    {
+      "name": "Glasgow",
+      "slug": "glasgow",
+      "image": "https://images.luxuryescapes.com/jf7ag3lhi90czemp15o7j",
+      "description": "Explore Glasgow with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 111
+    }
+  ],
+  "seo": {
+    "title": "United Kingdom Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in United Kingdom with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "united kingdom hotels",
+      "united kingdom travel",
+      "united kingdom luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/gb",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/gb",
+      "es": "https://mondoexplora.com/es/country/gb",
+      "fr": "https://mondoexplora.com/fr/country/gb",
+      "it": "https://mondoexplora.com/it/country/gb"
+    }
+  }
+}

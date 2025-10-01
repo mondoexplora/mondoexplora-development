@@ -1,0 +1,50 @@
+{
+  "city": "Louisville",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Louisville",
+  "description": "Discover the best hotels in Louisville, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/luat14bf6jr3m0hr6cy",
+  "hotels": [
+    {
+      "vendor_name": "Omni Louisville Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Louisville",
+      "title": "Contemporary Downtown Louisville Retreat with Rooftop Pool, Steakhouse & Speakeasy-Style Bowling Lounge",
+      "description": "Immerse yourself in the Southern charms of Kentucky, famed for its exciting dining scene and excellent bourbon whiskeys, with an elegant stay in the heart of Louisville. Tailored to the history and rhythm of Kentucky's largest city, Omni Louisville Hotel boasts charming rooms and a lavish Mokara Spa & Salon, offering soothing treatments. Spend your days swimming in the heated rooftop pool, lounging in a private cabana and munching on light bites at poolside The Water Company. For the gourmands, there is so much on offer - Bob's Steak & Chop House serves Midwestern prime beef, Neighborhood Services Bar + Restaurant doles out good ol' American fare and the secret door access-only Pin+Proof speakeasy serves epic cocktails along with professional bowling lanes. If you wish to explore, the Louisville Slugger Museum & Factory, Muhammad Ali Center and the Kentucky Derby Museum are all close by.",
+      "location_subheading": "United States",
+      "price": 159,
+      "original_price": 159,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002HiIFIA0",
+      "hero_image": "https://images.luxuryescapes.com/luat14bf6jr3m0hr6cy",
+      "image_two": "https://images.luxuryescapes.com/d8tdmc8url3kthd3dimx",
+      "image_three": "https://images.luxuryescapes.com/jm4zep0mmixb674rj04",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Louisville - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Louisville, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "louisville hotels",
+      "louisville travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/louisville",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/louisville",
+      "es": "https://mondoexplora.com/es/destination/louisville",
+      "fr": "https://mondoexplora.com/fr/destination/louisville",
+      "it": "https://mondoexplora.com/it/destination/louisville"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 159,
+    "average_discount": 0
+  }
+}

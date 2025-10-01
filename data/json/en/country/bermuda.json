@@ -1,0 +1,43 @@
+{
+  "name": "Bermuda",
+  "code": "BM",
+  "hero_title": "Bermuda Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Bermuda.",
+  "hero_image": "https://images.luxuryescapes.com/py5j5oi6vo5m8jb61ae",
+  "popular_destinations": [
+    {
+      "name": "Hamilton Parish",
+      "slug": "hamilton-parish",
+      "image": "https://images.luxuryescapes.com/py5j5oi6vo5m8jb61ae",
+      "description": "Explore Hamilton Parish with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 304
+    },
+    {
+      "name": "Sandys Parish",
+      "slug": "sandys-parish",
+      "image": "https://images.luxuryescapes.com/pnh0hjpukcazaro23u6",
+      "description": "Explore Sandys Parish with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 318
+    }
+  ],
+  "seo": {
+    "title": "Bermuda Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Bermuda with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "bermuda hotels",
+      "bermuda travel",
+      "bermuda luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/bm",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/bm",
+      "es": "https://mondoexplora.com/es/country/bm",
+      "fr": "https://mondoexplora.com/fr/country/bm",
+      "it": "https://mondoexplora.com/it/country/bm"
+    }
+  }
+}

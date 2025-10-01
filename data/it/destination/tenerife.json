@@ -1,0 +1,50 @@
+{
+  "city": "Tenerife",
+  "country": "Spain",
+  "country_code": "ES",
+  "hero_title": "Hotel a Tenerife",
+  "description": "Scopri i migliori hotel a Tenerife, Spain. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/nu3l8i6v1aztrxw209rh",
+  "hotels": [
+    {
+      "vendor_name": "Royal Hideaway Corales Beach, part of Barceló Hotel Group - Adults Only",
+      "offer_country_name": "Spain",
+      "location_heading": "Tenerife",
+      "title": "Adults-Only Tenerife Resort near Costa Adeje with Michelin-Starred Dining & Onsite Spa",
+      "description": "Settle for nothing with a picture-perfect stay at the Royal Hideaway Corales Beach, a jewel nestled in the heart of Tenerife's Costa Adeje. This adults-only sanctuary has it all. Savour Michelin-starred dining options with San Hô offering Japanese-Peruvian fusion and El Rincon de Juan Carlos serving up rich and flavoursome plates. Unwind at the wellness centre with holistic treatments backed by Ayurvedic principles, and take in breathtaking ocean views.",
+      "location_subheading": "Spain",
+      "price": 331,
+      "original_price": 331,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000FmtrpAAB",
+      "hero_image": "https://images.luxuryescapes.com/nu3l8i6v1aztrxw209rh",
+      "image_two": "https://images.luxuryescapes.com/swafoicdpc8hpfsnkmc9",
+      "image_three": "https://images.luxuryescapes.com/94knwau4rawgla8ona95",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Tenerife - Spain Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Tenerife, Spain con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "tenerife hotels",
+      "tenerife travel",
+      "spain hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/tenerife",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/tenerife",
+      "es": "https://mondoexplora.com/es/destination/tenerife",
+      "fr": "https://mondoexplora.com/fr/destination/tenerife",
+      "it": "https://mondoexplora.com/it/destination/tenerife"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 331,
+    "average_discount": 0
+  }
+}

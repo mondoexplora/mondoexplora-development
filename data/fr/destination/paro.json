@@ -1,0 +1,50 @@
+{
+  "city": "Paro",
+  "country": "Bhutan",
+  "country_code": "BT",
+  "hero_title": "Hôtels à Paro",
+  "description": "Découvrez les meilleurs hôtels à Paro, Bhutan. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/3o5h7ksvwk9vz587ynsn",
+  "hotels": [
+    {
+      "vendor_name": "Como Uma Paro",
+      "offer_country_name": "Bhutan",
+      "location_heading": "Paro",
+      "title": "Breathtaking Five-Star Secluded Oasis with Views of the Himalayas",
+      "description": "Escape to the enchanting Himalayan landscape of Bhutan and experience untouched luxuries with a stay at the COMO Uma Paro, a hidden oasis perched atop the tree-clad hills of Paro. Ground yourself each morning with a salute to the sun in the world-class yoga centre, and unlock your innner peace with a traditional Shambhala experience. Compliment your wellness journey with the signature COMO Shambhala cuisine, designed with seasonal healthful nutrition-optimised meals to nourish the mind, body and soul. This retreat combines traditional Bhutanese culture with contemporary living and offers a unique opportunity to become one with nature in the beautiful Paro Valley.",
+      "location_subheading": "Bhutan",
+      "price": 555,
+      "original_price": 555,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CNxL1AAL",
+      "hero_image": "https://images.luxuryescapes.com/3o5h7ksvwk9vz587ynsn",
+      "image_two": "https://images.luxuryescapes.com/dr2ldgrnqj7g4ihs1m5",
+      "image_three": "https://images.luxuryescapes.com/3yq6kcrldbbe6l7akkp",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Paro - Bhutan Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Paro, Bhutan avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "paro hotels",
+      "paro travel",
+      "bhutan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/paro",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/paro",
+      "es": "https://mondoexplora.com/es/destination/paro",
+      "fr": "https://mondoexplora.com/fr/destination/paro",
+      "it": "https://mondoexplora.com/it/destination/paro"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 555,
+    "average_discount": 0
+  }
+}

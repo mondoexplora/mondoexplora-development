@@ -1,0 +1,50 @@
+{
+  "city": "Oklahoma City",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Oklahoma City",
+  "description": "Discover the best hotels in Oklahoma City, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/psnhdwm7l40uix7tjyg",
+  "hotels": [
+    {
+      "vendor_name": "Omni Oklahoma City Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Oklahoma City",
+      "title": "Downtown Oklahoma City Stay with Six Dining Outlets, Rooftop Pool & Day Spa",
+      "description": "Discover all the excitement Oklahoma City has on offer with a stay at this downtown retreat. Boasting a prime location adjacent to the Oklahoma City Convention Center, you'll enjoy being within walking distance of the city's most popular attractions, including the Bricktown Entertainment District and the Oklahoma City National Memorial. Savour mouthwatering dishes at the hotel's six unique dining outlets, including Bob's Steak & Chop House - specialising in Midwestern prime beef cooked to perfection - and Catbird Seat, where refreshing cocktails are matched with sweeping views of the OKC skyline. Take a refreshing dip in the rooftop pool overlooking the city skyline, or for a touch of relaxation, visit Mokara Spa for a rejuvenating treatment.",
+      "location_subheading": "United States",
+      "price": 178,
+      "original_price": 178,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002HiINIA0",
+      "hero_image": "https://images.luxuryescapes.com/psnhdwm7l40uix7tjyg",
+      "image_two": "https://images.luxuryescapes.com/xizqnpe8rr92u0p9i7zs",
+      "image_three": "https://images.luxuryescapes.com/8iinoj4d35cd42k78enl",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Oklahoma City - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Oklahoma City, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "oklahoma city hotels",
+      "oklahoma city travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/oklahoma-city",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/oklahoma-city",
+      "es": "https://mondoexplora.com/es/destination/oklahoma-city",
+      "fr": "https://mondoexplora.com/fr/destination/oklahoma-city",
+      "it": "https://mondoexplora.com/it/destination/oklahoma-city"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 178,
+    "average_discount": 0
+  }
+}

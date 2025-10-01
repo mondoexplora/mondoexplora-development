@@ -1,0 +1,50 @@
+{
+  "city": "Hot Springs",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hôtels à Hot Springs",
+  "description": "Découvrez les meilleurs hôtels à Hot Springs, United States. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/p3hym87najqzbivamwre",
+  "hotels": [
+    {
+      "vendor_name": "The Omni Homestead Resort",
+      "offer_country_name": "United States",
+      "location_heading": "Hot Springs",
+      "title": "Charming Virginia Heritage Hot Springs Resort with Bathhouse, Two Golf Courses & Water Park",
+      "description": "Step into the illustrious footsteps of presidents past and experience the rich heritage and timeless elegance of this grand homestead among the rolling hills of Virginia's Allegheny Mountains. From the majestic Great Hall to the rejuvenating natural hot springs, every corner of this retreat exudes elegance. Splash around at the water park or head to the golf courses. Relax at The Spa at Omni Homestead before savouring local delights at one of eight charming restaurants and bars.",
+      "location_subheading": "United States",
+      "price": 377,
+      "original_price": 377,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000JRhlbAAD",
+      "hero_image": "https://images.luxuryescapes.com/p3hym87najqzbivamwre",
+      "image_two": "https://images.luxuryescapes.com/k78pbvlv0syr5sxznbin",
+      "image_three": "https://images.luxuryescapes.com/209enhztvsmqk0gsr24r",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Hot Springs - États-Unis Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Hot Springs, United States avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "hot springs hotels",
+      "hot springs travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/hot-springs",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/hot-springs",
+      "es": "https://mondoexplora.com/es/destination/hot-springs",
+      "fr": "https://mondoexplora.com/fr/destination/hot-springs",
+      "it": "https://mondoexplora.com/it/destination/hot-springs"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 377,
+    "average_discount": 0
+  }
+}

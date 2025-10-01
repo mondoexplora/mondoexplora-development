@@ -1,0 +1,100 @@
+{
+  "city": "Bangkok",
+  "country": "Tailandia",
+  "country_code": "TH",
+  "description": "Descubre la vibrante capital de Tailandia con sus impresionantes templos, mercados bulliciosos y hoteles de clase mundial. Bangkok ofrece la mezcla perfecta de cultura tradicional y lujo moderno.",
+  "hero_title": "Hoteles en Bangkok",
+  "hero_image": "https://images.unsplash.com/photo-1508009603885-50cf7c079365?w=1200&h=600&fit=crop",
+  "seo": {
+    "title": "Hoteles en Bangkok y Guía de Viaje 2024 | Mejores Ofertas y Atracciones",
+    "description": "Encuentra los mejores hoteles en Bangkok con ofertas exclusivas. Explora templos, mercados y atracciones. Reserva tu escapada perfecta a Bangkok con hasta 60% de descuento.",
+    "keywords": ["hoteles bangkok", "viajes bangkok", "hoteles tailandia", "ofertas bangkok", "atracciones bangkok", "templos bangkok", "compras bangkok"],
+    "canonical": "https://mondoexplora.com/es/destination/bangkok",
+    "hreflang": {
+      "es": "https://mondoexplora.com/es/destination/bangkok",
+      "en": "https://mondoexplora.com/en/destination/bangkok",
+      "fr": "https://mondoexplora.com/fr/destination/bangkok",
+      "it": "https://mondoexplora.com/it/destination/bangkok"
+    }
+  },
+  "attractions": [
+    {
+      "name": "Gran Palacio",
+      "description": "La residencia oficial de los Reyes de Siam desde 1782",
+      "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=400&h=300&fit=crop"
+    },
+    {
+      "name": "Wat Phra Kaew",
+      "description": "Templo del Buda de Esmeralda, el templo más sagrado de Tailandia",
+      "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=400&h=300&fit=crop"
+    },
+    {
+      "name": "Mercado Chatuchak",
+      "description": "El mercado de fin de semana más grande del mundo con más de 15,000 puestos",
+      "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=400&h=300&fit=crop"
+    }
+  ],
+  "hotels": [
+    {
+      "id": "bangkok-mandarin-oriental",
+      "link": "https://www.booking.com/hotel/th/mandarin-oriental-bangkok.html?aid=123456&utm_source=mondoexplora&utm_medium=affiliate&utm_campaign=bangkok-hoteles",
+      "hero_image": "https://images.luxuryescapes.com/q_auto:good,f_auto,w_1200,h_800,c_fill,g_auto/leh-common/leh-luxury-escapes/leh-luxury-escapes-hotel-images/leh-luxury-escapes-hotel-images-mandarin-oriental-bangkok-1.jpg",
+      "vendor_name": "booking",
+      "title": "Mandarin Oriental Bangkok",
+      "description": "Hotel de lujo 5 estrellas a orillas del río Chao Phraya. Cuenta con spa de clase mundial, múltiples restaurantes y vistas impresionantes al río.",
+      "location_heading": "Bangkok",
+      "location_subheading": "Riverside",
+      "price": 450,
+      "value": 650,
+      "original_price": 650,
+      "discount_percentage": 31,
+      "amenities": ["Spa", "Piscina", "Restaurante", "Vista al Río", "WiFi Gratis"],
+      "rating": 4.8,
+      "review_count": 1247
+    },
+    {
+      "id": "bangkok-four-seasons",
+      "link": "https://www.booking.com/hotel/th/four-seasons-bangkok.html?aid=123456&utm_source=mondoexplora&utm_medium=affiliate&utm_campaign=bangkok-hoteles",
+      "hero_image": "https://images.luxuryescapes.com/q_auto:good,f_auto,w_1200,h_800,c_fill,g_auto/leh-common/leh-luxury-escapes/leh-luxury-escapes-hotel-images/leh-luxury-escapes-hotel-images-four-seasons-bangkok-1.jpg",
+      "vendor_name": "booking",
+      "title": "Four Seasons Hotel Bangkok",
+      "description": "Hotel de lujo contemporáneo en el corazón de Bangkok. Cuenta con piscina infinita en la azotea, restaurante con estrella Michelin y vistas panorámicas de la ciudad.",
+      "location_heading": "Bangkok",
+      "location_subheading": "Centro",
+      "price": 380,
+      "value": 520,
+      "original_price": 520,
+      "discount_percentage": 27,
+      "amenities": ["Piscina Infinita", "Spa", "Restaurante", "Vista Ciudad", "WiFi Gratis"],
+      "rating": 4.7,
+      "review_count": 892
+    }
+  ],
+  "related_destinations": [
+    {
+      "name": "Phuket",
+      "slug": "phuket",
+      "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=300&h=200&fit=crop",
+      "description": "La isla más grande de Tailandia con playas impresionantes"
+    },
+    {
+      "name": "Chiang Mai",
+      "slug": "chiang-mai",
+      "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=300&h=200&fit=crop",
+      "description": "Capital cultural del norte de Tailandia"
+    },
+    {
+      "name": "Koh Samui",
+      "slug": "koh-samui",
+      "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=300&h=200&fit=crop",
+      "description": "Paraíso tropical con resorts de lujo"
+    }
+  ],
+  "meta": {
+    "last_updated": "2024-07-27",
+    "hotel_count": 2,
+    "average_price": 415,
+    "average_discount": 29,
+    "popular_seasons": ["Noviembre-Marzo", "Julio-Septiembre"]
+  }
+} 

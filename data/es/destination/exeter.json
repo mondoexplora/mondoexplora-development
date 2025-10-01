@@ -1,0 +1,50 @@
+{
+  "city": "Exeter",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hoteles en Exeter",
+  "description": "Descubre los mejores hoteles en Exeter, United Kingdom. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/hghumvzdja18u6rxr2ad",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Indigo Exeter",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Exeter",
+      "title": "Exeter Heritage Escape with Cathedral Views & Rooftop Bar",
+      "description": "A grand millinery store in the late 1700s, Hotel Indigo Exeter, an IHG Hotel has been lovingly restored to a treasure trove of heritage intrigue and modern-day luxury. Curated spaces are designed to spark imagination: the ocean-toned Retreat Spa transports its visitors to bliss, while Beckett's Rooftop Cocktail Bar is perfect for a breath of fresh air and a cocktail. Lovers of seafood can make a beeline for Colson's Restaurant for exquisite dishes including lobster risotto and Dorset crab tagliatelle.",
+      "location_subheading": "United Kingdom",
+      "price": 87,
+      "original_price": 87,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CuiRYAAZ",
+      "hero_image": "https://images.luxuryescapes.com/hghumvzdja18u6rxr2ad",
+      "image_two": "https://images.luxuryescapes.com/cyhc0pe8lbg8kqajun0k",
+      "image_three": "https://images.luxuryescapes.com/ln5cuzwrj6bsrrwfi9xl",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Exeter - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Exeter, United Kingdom con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "exeter hotels",
+      "exeter travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/exeter",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/exeter",
+      "es": "https://mondoexplora.com/es/destination/exeter",
+      "fr": "https://mondoexplora.com/fr/destination/exeter",
+      "it": "https://mondoexplora.com/it/destination/exeter"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 87,
+    "average_discount": 0
+  }
+}

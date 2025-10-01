@@ -1,0 +1,31 @@
+{
+  "name": "Djibouti",
+  "code": "DJ",
+  "hero_title": "Djibouti Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Djibouti.",
+  "hero_image": "https://images.luxuryescapes.com/ggi1xtgawgmyfklo8oc",
+  "popular_destinations": [
+    {
+      "name": "Djibouti",
+      "slug": "djibouti",
+      "image": "https://images.luxuryescapes.com/ggi1xtgawgmyfklo8oc",
+      "description": "Explore Djibouti with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Djibouti Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Djibouti con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "djibouti hotels",
+      "djibouti travel",
+      "djibouti luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/dj",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/dj",
+      "es": "https://mondoexplora.com/es/country/dj",
+      "fr": "https://mondoexplora.com/fr/country/dj",
+      "it": "https://mondoexplora.com/it/country/dj"
+    }
+  }
+}

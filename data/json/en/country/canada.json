@@ -1,0 +1,79 @@
+{
+  "name": "Canada",
+  "code": "CA",
+  "hero_title": "Canada Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Canada.",
+  "hero_image": "https://images.luxuryescapes.com/6umcnojtnff7kvg4qqfh",
+  "popular_destinations": [
+    {
+      "name": "Toronto",
+      "slug": "toronto",
+      "image": "https://images.luxuryescapes.com/6umcnojtnff7kvg4qqfh",
+      "description": "Explore Toronto with luxury accommodations",
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 209
+    },
+    {
+      "name": "Montreal",
+      "slug": "montreal",
+      "image": "https://images.luxuryescapes.com/ncjtrrjr1te1mlmnoxgc",
+      "description": "Explore Montreal with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 202
+    },
+    {
+      "name": "Vancouver",
+      "slug": "vancouver",
+      "image": "https://images.luxuryescapes.com/5fcqyfaafdcpsgnucgj7",
+      "description": "Explore Vancouver with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 326
+    },
+    {
+      "name": "Alberta",
+      "slug": "alberta",
+      "image": "https://images.luxuryescapes.com/cufe3bdfv23fr6f673u",
+      "description": "Explore Alberta with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 587
+    },
+    {
+      "name": "Banff",
+      "slug": "banff",
+      "image": "https://images.luxuryescapes.com/m200j04ip0ufk6c5b7ij",
+      "description": "Explore Banff with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 426
+    },
+    {
+      "name": "Calgary",
+      "slug": "calgary",
+      "image": "https://images.luxuryescapes.com/r43tjsw3sjcy1u106n",
+      "description": "Explore Calgary with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 188
+    }
+  ],
+  "seo": {
+    "title": "Canada Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Canada with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "canada hotels",
+      "canada travel",
+      "canada luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/ca",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ca",
+      "es": "https://mondoexplora.com/es/country/ca",
+      "fr": "https://mondoexplora.com/fr/country/ca",
+      "it": "https://mondoexplora.com/it/country/ca"
+    }
+  }
+}

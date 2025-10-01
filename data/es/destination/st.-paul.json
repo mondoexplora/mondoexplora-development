@@ -1,0 +1,50 @@
+{
+  "city": "St. Paul",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hoteles en St. Paul",
+  "description": "Descubre los mejores hoteles en St. Paul, United States. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/0tf8jmkqdzmmf6hs55",
+  "hotels": [
+    {
+      "vendor_name": "Intercontinental Saint Paul Riverfront",
+      "offer_country_name": "United States",
+      "location_heading": "St. Paul",
+      "title": "Contemporary Mississippi Riverside Stay in Saint Paul with Restaurant & Bar",
+      "description": "Experience the charm of Minnesota's capital city with a stay at InterContinental Saint Paul Riverfront, an IHG Hotel. Overlooking the mighty Mississippi River, this modern hotel is just steps away from the historic Landmark Center and the vibrant Lowertown district, home to an array of trendy eateries, galleries and boutiques. Enjoy a meal at the hotel's Citizen restaurant, where you can indulge in elevated American-style comfort food while sipping a craft cocktail.",
+      "location_subheading": "United States",
+      "price": 100,
+      "original_price": 100,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Bdt7mAAB",
+      "hero_image": "https://images.luxuryescapes.com/0tf8jmkqdzmmf6hs55",
+      "image_two": "https://images.luxuryescapes.com/sobjzruzkbggynhj1p",
+      "image_three": "https://images.luxuryescapes.com/jugql66qsbdfkutj0p1n",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en St. Paul - Estados Unidos Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en St. Paul, United States con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "st. paul hotels",
+      "st. paul travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/st.-paul",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/st.-paul",
+      "es": "https://mondoexplora.com/es/destination/st.-paul",
+      "fr": "https://mondoexplora.com/fr/destination/st.-paul",
+      "it": "https://mondoexplora.com/it/destination/st.-paul"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 100,
+    "average_discount": 0
+  }
+}

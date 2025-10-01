@@ -1,0 +1,50 @@
+{
+  "city": "Sendai",
+  "country": "Japan",
+  "country_code": "JP",
+  "hero_title": "Hoteles en Sendai",
+  "description": "Descubre los mejores hoteles en Sendai, Japan. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/53s80vgf4dbcph0t0xtq",
+  "hotels": [
+    {
+      "vendor_name": "Holiday Inn Ana Sendai",
+      "offer_country_name": "Japan",
+      "location_heading": "Sendai",
+      "title": "Stylish Sendai City Break Moments From JR Sendai Station",
+      "description": "In the heart of a city filled with ruined castles, flawless gardens and nostalgic lamp-lit laneways, ANA Holiday Inn Sendai, an IHG Hotel offers guests the perfect base to discover the vibrant Miyagi Prefecture, just a six-minute walk from JR Central Sendai Station. After days spent exploring Sendai’s vibrant culinary scene and nearby Matushima - one of Japan’s three great scenic spots - retreat to Casual Dining Chef’s Table for traditional cuisine and sensational views of the Sendai skyline.",
+      "location_subheading": "Japan",
+      "price": 64,
+      "original_price": 64,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DI5vgAAD",
+      "hero_image": "https://images.luxuryescapes.com/53s80vgf4dbcph0t0xtq",
+      "image_two": "https://images.luxuryescapes.com/2aq3r8fwhq3u3jn8ryn",
+      "image_three": "https://images.luxuryescapes.com/t66cwh1e1jbairzpwkltp",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Sendai - Japan Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Sendai, Japan con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "sendai hotels",
+      "sendai travel",
+      "japan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/sendai",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/sendai",
+      "es": "https://mondoexplora.com/es/destination/sendai",
+      "fr": "https://mondoexplora.com/fr/destination/sendai",
+      "it": "https://mondoexplora.com/it/destination/sendai"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 64,
+    "average_discount": 0
+  }
+}

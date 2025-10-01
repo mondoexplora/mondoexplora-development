@@ -1,0 +1,50 @@
+{
+  "city": "Baku",
+  "country": "Azerbaijan",
+  "country_code": "AZ",
+  "hero_title": "Hôtels à Baku",
+  "description": "Découvrez les meilleurs hôtels à Baku, Azerbaijan. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/bhtslk87zo2ty940qhqv",
+  "hotels": [
+    {
+      "vendor_name": "InterContinental Baku Hotel",
+      "offer_country_name": "Azerbaijan",
+      "location_heading": "Baku",
+      "title": "Baku Five-Star Stay with Caspian Sea Views",
+      "description": "In the heart of Azerbaijan’s capital, InterContinental Baku, an IHG Hotel, stands between medieval architecture and a cosmopolitan city. Explore Baku's UNESCO World Heritage-listed Old City, indulge in retail therapy at luxury boutiques on Baku Boulevard or experience the culture and art of modern Azerbaijan. End your day in luxury with an indulgent spa treatment, enjoy traditional local cuisine at Khamsa Restaurant or retire to your modern room or suite.",
+      "location_subheading": "Azerbaijan",
+      "price": 139,
+      "original_price": 139,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CNlCcAAL",
+      "hero_image": "https://images.luxuryescapes.com/bhtslk87zo2ty940qhqv",
+      "image_two": "https://images.luxuryescapes.com/684o9ksvoi1axzb2zb1i",
+      "image_three": "https://images.luxuryescapes.com/hkwh7m9mbvenfpfmtsr",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Baku - Azerbaijan Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Baku, Azerbaijan avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "baku hotels",
+      "baku travel",
+      "azerbaijan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/baku",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/baku",
+      "es": "https://mondoexplora.com/es/destination/baku",
+      "fr": "https://mondoexplora.com/fr/destination/baku",
+      "it": "https://mondoexplora.com/it/destination/baku"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 139,
+    "average_discount": 0
+  }
+}

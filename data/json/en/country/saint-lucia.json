@@ -1,0 +1,52 @@
+{
+  "name": "Saint Lucia",
+  "code": "LC",
+  "hero_title": "Saint Lucia Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Saint Lucia.",
+  "hero_image": "https://images.luxuryescapes.com/arb6p3ewrogvfl7pbnl",
+  "popular_destinations": [
+    {
+      "name": "St Lucia",
+      "slug": "st-lucia",
+      "image": "https://images.luxuryescapes.com/arb6p3ewrogvfl7pbnl",
+      "description": "Explore St Lucia with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 1137
+    },
+    {
+      "name": "Gros Islet",
+      "slug": "gros-islet",
+      "image": "https://images.luxuryescapes.com/3nn1zycuzo7ibaof3aj",
+      "description": "Explore Gros Islet with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 414
+    },
+    {
+      "name": "Soufriere",
+      "slug": "soufriere",
+      "image": "https://images.luxuryescapes.com/y0itbol087ldq8389ug",
+      "description": "Explore Soufriere with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 393
+    }
+  ],
+  "seo": {
+    "title": "Saint Lucia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Saint Lucia with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "saint lucia hotels",
+      "saint lucia travel",
+      "saint lucia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/lc",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/lc",
+      "es": "https://mondoexplora.com/es/country/lc",
+      "fr": "https://mondoexplora.com/fr/country/lc",
+      "it": "https://mondoexplora.com/it/country/lc"
+    }
+  }
+}

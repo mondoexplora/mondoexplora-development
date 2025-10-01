@@ -1,0 +1,50 @@
+{
+  "city": "Goa",
+  "country": "India",
+  "country_code": "IN",
+  "hero_title": "Hotels in Goa",
+  "description": "Discover the best hotels in Goa, India. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/f3rte5fn1ia3y4rrfka4",
+  "hotels": [
+    {
+      "vendor_name": "Grand Hyatt Goa",
+      "offer_country_name": "India",
+      "location_heading": "Goa",
+      "title": "Beachfront Goa Oasis near Panjim with Five Restaurants, Two Pools & Luxe Spa",
+      "description": "Embrace the sun-kissed magic of Goa with a stay at this lavish Grand Hyatt sanctuary overlooking the shimmering waters of the Arabian Sea, set mere moments from Panjim. Sprawling across 28 acres of landscaped gardens, spend your days here lounging by the expansive outdoor pool, sip on cocktails at Capiz Bar, and soak up the stunning west coast ocean sunsets over Bambolim Bay. Gourmands can take delight across the resort's various dining venues: from authentic Italian fare at The Verandah to Asian and Indian cuisine at The Dining Room. For some much-needed pampering, head to Shamana Spa for holistic treatments in a serene setting.",
+      "location_subheading": "India",
+      "price": 120,
+      "original_price": 120,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000HifgxYAB",
+      "hero_image": "https://images.luxuryescapes.com/f3rte5fn1ia3y4rrfka4",
+      "image_two": "https://images.luxuryescapes.com/w4dan01dgxaraqm34a",
+      "image_three": "https://images.luxuryescapes.com/pl61sfebkkaefir573tb",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Goa - India Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Goa, India with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "goa hotels",
+      "goa travel",
+      "india hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/goa",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/goa",
+      "es": "https://mondoexplora.com/es/destination/goa",
+      "fr": "https://mondoexplora.com/fr/destination/goa",
+      "it": "https://mondoexplora.com/it/destination/goa"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 120,
+    "average_discount": 0
+  }
+}

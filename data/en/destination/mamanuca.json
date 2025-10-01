@@ -1,0 +1,50 @@
+{
+  "city": "Mamanuca",
+  "country": "Fiji",
+  "country_code": "FJ",
+  "hero_title": "Hotels in Mamanuca",
+  "description": "Discover the best hotels in Mamanuca, Fiji. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/yztdrvnls5yctp14k4nj",
+  "hotels": [
+    {
+      "vendor_name": "Treasure Island Resort",
+      "offer_country_name": "Fiji",
+      "location_heading": "Mamanuca",
+      "title": "Traditional Fiji Private Island Paradise with World-Class Snorkelling & Diving",
+      "description": "Escape to the ultimate private island paradise at Nakelo Treasure Island Resort Fiji, one of the country's most iconic family-friendly retreats. From your private, modern bure, breathtaking natural beauty, pristine beaches and crystal-clear waters await - explore the island's surrounding coral reef, brimming with technicolour marine life, unwind with a soothing treatment at Senikai Spa or savour fiery spectacles at the resort's teppanyaki house, Matasawa Teppanyaki.",
+      "location_subheading": "Fiji",
+      "price": 212,
+      "original_price": 212,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DN62TAAT",
+      "hero_image": "https://images.luxuryescapes.com/yztdrvnls5yctp14k4nj",
+      "image_two": "https://images.luxuryescapes.com/cho7tfdwbstghpdxertd",
+      "image_three": "https://images.luxuryescapes.com/28950at7mqz98u3nev9wi",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Mamanuca - Fiji Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Mamanuca, Fiji with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "mamanuca hotels",
+      "mamanuca travel",
+      "fiji hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/mamanuca",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/mamanuca",
+      "es": "https://mondoexplora.com/es/destination/mamanuca",
+      "fr": "https://mondoexplora.com/fr/destination/mamanuca",
+      "it": "https://mondoexplora.com/it/destination/mamanuca"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 212,
+    "average_discount": 0
+  }
+}

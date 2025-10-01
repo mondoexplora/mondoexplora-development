@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "out"
+
+# Handle Next.js static export for all routes
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200 

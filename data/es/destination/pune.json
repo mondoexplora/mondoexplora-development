@@ -1,0 +1,68 @@
+{
+  "city": "Pune",
+  "country": "India",
+  "country_code": "IN",
+  "hero_title": "Hoteles en Pune",
+  "description": "Descubre los mejores hoteles en Pune, India. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/u9esw45b6o5x018vbyn",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Pune City Centre",
+      "offer_country_name": "India",
+      "location_heading": "Pune",
+      "title": "India Vibrant Pune City Escape with Sophisticated Sky Lounge",
+      "description": "Toe the line between old and new and lose yourself in the excitement of a thriving metropolis with an escape to Crowne Plaza Pune City Centre, an IHG Hotel - the perfect getaway to explore all that Koregaon Park has to offer. Visit the famed Osho International Meditation Resort, wander palaces forgotten by time, or saunter in tranquil nearby gardens. Then, head to Evviva Sky Lounge for sweeping vistas of Pune and delicious cocktails or rejuvenate in the dazzling outdoor pool.",
+      "location_subheading": "India",
+      "price": 51,
+      "original_price": 51,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJbqAAH",
+      "hero_image": "https://images.luxuryescapes.com/u9esw45b6o5x018vbyn",
+      "image_two": "https://images.luxuryescapes.com/b19vcgg8nqrhk6ey2mj",
+      "image_three": "https://images.luxuryescapes.com/eyqx471bodeuh2nd6s6w",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Novotel Pune Nagar Road",
+      "offer_country_name": "India",
+      "location_heading": "Pune",
+      "title": "West India Pune City Escape with Outdoor Pool & Onsite Dining",
+      "description": "Embrace the excitement of a thriving metropolis with an escape to Novotel Pune Nagar Road - the perfect getaway to explore all that the bustling Viman Nagar district has to offer. Make the most of your coveted location just moments from the city's finest restaurants, trendy boutiques and cultural landmarks, including the historic Aga Khan Palace. The hotel's modern rooms offer a tranquil escape from the city's lively rhythm, while the state-of-the-art fitness centre and shimmering pool provide a perfect balance of relaxation and rejuvenation. Venture beyond the hotel to explore Pune's rich history and dynamic culinary scene.",
+      "location_subheading": "India",
+      "price": 61,
+      "original_price": 61,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000Ib04IYAR",
+      "hero_image": "https://images.luxuryescapes.com/k21iik7qjmxubs6ply1w",
+      "image_two": "https://images.luxuryescapes.com/9we4qowkbdgtphay261",
+      "image_three": "https://images.luxuryescapes.com/ezajmsmh6smc60owyu2k",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Pune - India Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Pune, India con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "pune hotels",
+      "pune travel",
+      "india hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/pune",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/pune",
+      "es": "https://mondoexplora.com/es/destination/pune",
+      "fr": "https://mondoexplora.com/fr/destination/pune",
+      "it": "https://mondoexplora.com/it/destination/pune"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 56,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Corpus Christi",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotel a Corpus Christi",
+  "description": "Scopri i migliori hotel a Corpus Christi, United States. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/poesi2d1jkmoh1miijd3",
+  "hotels": [
+    {
+      "vendor_name": "Omni Corpus Christi Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Corpus Christi",
+      "title": "Waterfront Hotel in Southern Texas with Four Restaurants, Salon & Pool",
+      "description": "Experience Texas hospitality at its finest at this plush waterfront hotel, ideally located for exploring Corpus Christi's vibrant downtown area, historic Seawall District and beautiful Bayfront Park. With four tantalising restaurants on site, you can savour fresh seafood and prime steaks at Republic of Texas Bar and Grill, enjoy a morning coffee at Morsel's or sip Mezcal cocktails at Caller & Critic. Unwind by the heated swimming pool, bask in tranquil bay views from your private balcony or enjoy a rejuvenating hair treatment at Nomad Salon.",
+      "location_subheading": "United States",
+      "price": 120,
+      "original_price": 120,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002HiI2IAK",
+      "hero_image": "https://images.luxuryescapes.com/poesi2d1jkmoh1miijd3",
+      "image_two": "https://images.luxuryescapes.com/bgipevxn5kcrwbvk00n8",
+      "image_three": "https://images.luxuryescapes.com/9v9vcp5zqhpp81m4eifa",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Corpus Christi - Stati Uniti Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Corpus Christi, United States con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "corpus christi hotels",
+      "corpus christi travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/corpus-christi",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/corpus-christi",
+      "es": "https://mondoexplora.com/es/destination/corpus-christi",
+      "fr": "https://mondoexplora.com/fr/destination/corpus-christi",
+      "it": "https://mondoexplora.com/it/destination/corpus-christi"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 120,
+    "average_discount": 0
+  }
+}

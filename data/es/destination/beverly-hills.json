@@ -1,0 +1,50 @@
+{
+  "city": "Beverly Hills",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hoteles en Beverly Hills",
+  "description": "Descubre los mejores hoteles en Beverly Hills, United States. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/zw2021zmghc9yfiv4sd",
+  "hotels": [
+    {
+      "vendor_name": "Montrose at Beverly Hills",
+      "offer_country_name": "United States",
+      "location_heading": "Beverly Hills",
+      "title": "West Hollywood Boutique Retreat Moments from the Sunset Strip with Rooftop Pool & Bar",
+      "description": "Experience the glitz and glamour that makes West Hollywood famous from an artfully-curated stay and offering easy access to the enclave’s greatest hits. Ease into your golden adventures with pickleball or a dip at the rooftop pool, boasting spectacular views of the Los Angeles skyline and Hollywood Hills as you soak. At sundown, gather for a handcrafted cocktail at Tonic bar, before you delve into Sunset Strip’s exciting nightlife and upscale eateries.",
+      "location_subheading": "United States",
+      "price": 197,
+      "original_price": 197,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000IatcEAAR",
+      "hero_image": "https://images.luxuryescapes.com/zw2021zmghc9yfiv4sd",
+      "image_two": "https://images.luxuryescapes.com/hdie0touz4gam2oz85gz8",
+      "image_three": "https://images.luxuryescapes.com/3ntvbdjwwjixm1q3y39b",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Beverly Hills - Estados Unidos Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Beverly Hills, United States con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "beverly hills hotels",
+      "beverly hills travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/beverly-hills",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/beverly-hills",
+      "es": "https://mondoexplora.com/es/destination/beverly-hills",
+      "fr": "https://mondoexplora.com/fr/destination/beverly-hills",
+      "it": "https://mondoexplora.com/it/destination/beverly-hills"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 197,
+    "average_discount": 0
+  }
+}

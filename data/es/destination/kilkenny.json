@@ -1,0 +1,50 @@
+{
+  "city": "Kilkenny",
+  "country": "Ireland",
+  "country_code": "IE",
+  "hero_title": "Hoteles en Kilkenny",
+  "description": "Descubre los mejores hoteles en Kilkenny, Ireland. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/zv1943mpulqly0zcno07",
+  "hotels": [
+    {
+      "vendor_name": "Newpark Hotel Kilkenny",
+      "offer_country_name": "Ireland",
+      "location_heading": "Kilkenny",
+      "title": "Elegant Ireland Escape near Kilkenny Castle with Luxury Spa & Wildlife Farm",
+      "description": "Breathe in fresh air at the elegant Newpark Hotel Kilkenny, situated on over 25 lush acres of parkland on the edge of the vibrant Kilkenny city. Pamper yourself at the luxurious Escape Spa with an extensive range of spa treatments, savour afternoon tea at the intimate outdoor Terrace restaurant, and let the kids play with friendly farm animals or participate in fun-filled activities. Venture out to explore nearby heritage sites, including the 12th-century Kilkenny Castle only a five-minute drive away.",
+      "location_subheading": "Ireland",
+      "price": 190,
+      "original_price": 190,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000008nyC8AAI",
+      "hero_image": "https://images.luxuryescapes.com/zv1943mpulqly0zcno07",
+      "image_two": "https://images.luxuryescapes.com/7xaubwkimjq9rj2jknii",
+      "image_three": "https://images.luxuryescapes.com/a7t04wcpdqz32y7zcwuf",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Kilkenny - Ireland Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Kilkenny, Ireland con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "kilkenny hotels",
+      "kilkenny travel",
+      "ireland hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/kilkenny",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/kilkenny",
+      "es": "https://mondoexplora.com/es/destination/kilkenny",
+      "fr": "https://mondoexplora.com/fr/destination/kilkenny",
+      "it": "https://mondoexplora.com/it/destination/kilkenny"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 190,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Algiers",
+  "country": "Algeria",
+  "country_code": "DZ",
+  "hero_title": "Hôtels à Algiers",
+  "description": "Découvrez les meilleurs hôtels à Algiers, Algeria. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/smb3r6b8fqrsee9xdvfb",
+  "hotels": [
+    {
+      "vendor_name": "Sofitel Algiers Hamma Garden",
+      "offer_country_name": "Algeria",
+      "location_heading": "Algiers",
+      "title": "Algiers Sofitel Luxury Near Botanic Gardens with Three Onsite Restaurants & Outdoor Pool",
+      "description": "Experience a slice of French elegance in the heart of Algeria's vibrant capital with a stay at a five-star Sofitel oasis. This architectural gem, inspired by the traditional Algerian \\\"houch\\\", offers a tranquil retreat amidst the city's energetic pulse. Indulge in a gastronomic journey at the hotel's three restaurants, serving a blend of local and international cuisine. Venture beyond the hotel to explore the historic Casbah quarter, a UNESCO World Heritage Site, or visit the beautiful Hamma Botanical Gardens, located just a stone's throw away. Cool off with a dip in the outdoor pool, or get the blood pumping with a workout at the fitness centre, complete with sauna and relaxation area.",
+      "location_subheading": "Algeria",
+      "price": 165,
+      "original_price": 165,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnJdpYAF",
+      "hero_image": "https://images.luxuryescapes.com/smb3r6b8fqrsee9xdvfb",
+      "image_two": "https://images.luxuryescapes.com/8p64seyjaeyc14jqzigf",
+      "image_three": "https://images.luxuryescapes.com/af535cz5a17oyxy1zu",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Algiers - Algeria Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Algiers, Algeria avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "algiers hotels",
+      "algiers travel",
+      "algeria hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/algiers",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/algiers",
+      "es": "https://mondoexplora.com/es/destination/algiers",
+      "fr": "https://mondoexplora.com/fr/destination/algiers",
+      "it": "https://mondoexplora.com/it/destination/algiers"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 165,
+    "average_discount": 0
+  }
+}

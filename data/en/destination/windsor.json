@@ -1,0 +1,50 @@
+{
+  "city": "Windsor",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hotels in Windsor",
+  "description": "Discover the best hotels in Windsor, United Kingdom. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/x0u9225snmwplqejfz8",
+  "hotels": [
+    {
+      "vendor_name": "Fairmont Windsor Park",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Windsor",
+      "title": "Heritage Windsor Countryside Elegance with Spa, Pool, Seven Restaurants & Bars",
+      "description": "Discover the grandeur of the English countryside with a stay at this grand hotel surrounded by 40 acres of greenery and a tranquil lake. This lavish retreat offers a serene escape from the everyday, inviting you to unwind in an atmosphere of timeless elegance. Near the historic Windsor Great Park and Windsor Castle, enjoy the perfect base to explore heritage and charm in country house luxury. Indulge in the hotel's top-notch facilities, from a sparkling swimming pool to a spa that promises rejuvenating treatments. With seven onsite restaurants and bars, this destination is a feast for the senses in breathtaking scenery.",
+      "location_subheading": "United Kingdom",
+      "price": 365,
+      "original_price": 365,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000GRmSMYA1",
+      "hero_image": "https://images.luxuryescapes.com/x0u9225snmwplqejfz8",
+      "image_two": "https://images.luxuryescapes.com/kakg81chmt5fxzhr5t6",
+      "image_three": "https://images.luxuryescapes.com/32hzbl6vasdzmuz3ue2n",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Windsor - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Windsor, United Kingdom with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "windsor hotels",
+      "windsor travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/windsor",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/windsor",
+      "es": "https://mondoexplora.com/es/destination/windsor",
+      "fr": "https://mondoexplora.com/fr/destination/windsor",
+      "it": "https://mondoexplora.com/it/destination/windsor"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 365,
+    "average_discount": 0
+  }
+}

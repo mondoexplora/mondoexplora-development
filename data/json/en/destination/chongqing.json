@@ -1,0 +1,50 @@
+{
+  "city": "Chongqing",
+  "country": "China",
+  "country_code": "CN",
+  "hero_title": "Hotels in Chongqing",
+  "description": "Discover the best hotels in Chongqing, China. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/rwzjhc004npbz1flhhdba",
+  "hotels": [
+    {
+      "vendor_name": "Hyatt Regency Chongqing",
+      "offer_country_name": "China",
+      "location_heading": "Chongqing",
+      "title": "Chongqing Urban Glamour with Two Restaurants, Indoor Pool & Luxe Spa",
+      "description": "Step into the heart of Chongqing’s vibrant Jiangbei District, where this contemporary retreat places you steps from the lively Guanyinqiao Pedestrian Street and its upscale shopping. This five-star haven is a beacon of elegance, with its sleek architecture and refined interiors offering a tranquil sanctuary amid an ever-bustling cityscape. Savour hearty global fare at Market Cafe or indulge in bold local cuisine at Yu Yue, where classic Chongqing flavours come alive. Rejuvenate at the tranquil spa, swim a few laps in the indoor pool, or simply sip tea in the lounge as the city pulses outside. With attractions like the Three Gorges Museum and the Great Hall of the People nearby, this is your perfect launchpad to exploring Chongqing.",
+      "location_subheading": "China",
+      "price": 59,
+      "original_price": 59,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000HifgqYAB",
+      "hero_image": "https://images.luxuryescapes.com/rwzjhc004npbz1flhhdba",
+      "image_two": "https://images.luxuryescapes.com/cmqq7fkhxyy0yhin6za",
+      "image_three": "https://images.luxuryescapes.com/h0w9118kvpyrjr262gfa",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Chongqing - China Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Chongqing, China with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "chongqing hotels",
+      "chongqing travel",
+      "china hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/chongqing",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/chongqing",
+      "es": "https://mondoexplora.com/es/destination/chongqing",
+      "fr": "https://mondoexplora.com/fr/destination/chongqing",
+      "it": "https://mondoexplora.com/it/destination/chongqing"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 59,
+    "average_discount": 0
+  }
+}

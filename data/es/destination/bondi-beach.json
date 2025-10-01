@@ -1,0 +1,50 @@
+{
+  "city": "Bondi Beach",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hoteles en Bondi Beach",
+  "description": "Descubre los mejores hoteles en Bondi Beach, Australia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/7vw4uccp4hu3datxctw4",
+  "hotels": [
+    {
+      "vendor_name": "Adina Apartment Hotel Bondi Beach",
+      "offer_country_name": "Australia",
+      "location_heading": "Bondi Beach",
+      "title": "Sun-Kissed Bondi Self-Contained Stay near the Beach",
+      "description": "Experience sun-kissed bliss with a self-contained stay at the stylish Adina Apartment Hotel Bondi Beach Sydney, superbly located within easy walking distance of the famed sandy stretch. This unique 'aparthotel' is teeming with classic yet contemporary features sure to impress, and each studio boasts its own balcony and kitchenette, and apartments a fully-equipped kitchen and laundry facilities. Unique design elements including contemporary furnishings such as detailed cornices and marble finishes are complemented by modern technology. Across the property, discover tasteful facilities including a gymnasium, outdoor swimming pool and convenient onsite parking.",
+      "location_subheading": "Australia",
+      "price": 142,
+      "original_price": 142,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000007ohVWAAY",
+      "hero_image": "https://images.luxuryescapes.com/7vw4uccp4hu3datxctw4",
+      "image_two": "https://images.luxuryescapes.com/5iq4avgmjqk0ky2l3ny",
+      "image_three": "https://images.luxuryescapes.com/9wbp8afhrcasjjodbt6",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Bondi Beach - Australia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Bondi Beach, Australia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "bondi beach hotels",
+      "bondi beach travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/bondi-beach",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/bondi-beach",
+      "es": "https://mondoexplora.com/es/destination/bondi-beach",
+      "fr": "https://mondoexplora.com/fr/destination/bondi-beach",
+      "it": "https://mondoexplora.com/it/destination/bondi-beach"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 142,
+    "average_discount": 0
+  }
+}

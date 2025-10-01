@@ -1,0 +1,50 @@
+{
+  "city": "Padua",
+  "country": "Italy",
+  "country_code": "IT",
+  "hero_title": "Hotel a Padua",
+  "description": "Scopri i migliori hotel a Padua, Italy. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/vljcsg7a521prfvlmdd",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Padova",
+      "offer_country_name": "Italy",
+      "location_heading": "Padua",
+      "title": "Refined Italian Retreat near Padua's Art & Heritage",
+      "description": "A refined refuge on the outskirts of Padua, Crowne Plaza Padova, an IHG Hotel, is the ideal base for an adventure into this art and culture destination. With convenient access to Padua's city centre by shuttle bus, a taste of Italy's heritage is just minutes away. Set out to explore medieval buildings, picturesque canals and captivating cafes, before returning to savour global cuisines at the AQuattro restaurant, sip a cheeky cocktail at Bar Il Pedrocchino.",
+      "location_subheading": "Italy",
+      "price": 75,
+      "original_price": 75,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJaMAAX",
+      "hero_image": "https://images.luxuryescapes.com/vljcsg7a521prfvlmdd",
+      "image_two": "https://images.luxuryescapes.com/l2if9oof9hyzwuutgup",
+      "image_three": "https://images.luxuryescapes.com/fgpjybts56ms8mpw97",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Padua - Italy Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Padua, Italy con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "padua hotels",
+      "padua travel",
+      "italy hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/padua",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/padua",
+      "es": "https://mondoexplora.com/es/destination/padua",
+      "fr": "https://mondoexplora.com/fr/destination/padua",
+      "it": "https://mondoexplora.com/it/destination/padua"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 75,
+    "average_discount": 0
+  }
+}

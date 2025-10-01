@@ -1,0 +1,50 @@
+{
+  "city": "Capri",
+  "country": "Italy",
+  "country_code": "IT",
+  "hero_title": "Hôtels à Capri",
+  "description": "Découvrez les meilleurs hôtels à Capri, Italy. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/u9lekfs9bb4augthj7ys",
+  "hotels": [
+    {
+      "vendor_name": "Capri Tiberio Palace",
+      "offer_country_name": "Italy",
+      "location_heading": "Capri",
+      "title": "Creative Capri Palace Glamour with Oceanview Mediterranean Restaurant & World-Class Day Spa",
+      "description": "Live the dolce vita life with a stay at this striking Capri palace, perched high overlooking the shimmering Mediterranean Sea. Explore the island's charming piazzas including from the legendary Piazzetta, vibrant boutiques of Via Camerelle and the mesmerising Blue Grotto, all within a breezy walk away. Back at the glamorous meets quirky hotel, indulge in authentic Mediterranean cuisine at the Michelin-starred Terrazza Tiberio or sip on handcrafted cocktails at the chic Jacky Bar. For a touch of relaxation, retreat to the Spa Tiberio, a wellness sanctuary offering a range of rejuvenating treatments, therapeutic showers, sauna and a steam room, or float your cares away in the relaxing pool.",
+      "location_subheading": "Italy",
+      "price": 626,
+      "original_price": 626,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000JRgbkAAD",
+      "hero_image": "https://images.luxuryescapes.com/u9lekfs9bb4augthj7ys",
+      "image_two": "https://images.luxuryescapes.com/eu8et5rdb9jdn9hnxyt",
+      "image_three": "https://images.luxuryescapes.com/qdc1ns7rtvmb7ytqmaha",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Capri - Italy Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Capri, Italy avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "capri hotels",
+      "capri travel",
+      "italy hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/capri",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/capri",
+      "es": "https://mondoexplora.com/es/destination/capri",
+      "fr": "https://mondoexplora.com/fr/destination/capri",
+      "it": "https://mondoexplora.com/it/destination/capri"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 626,
+    "average_discount": 0
+  }
+}

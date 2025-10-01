@@ -1,0 +1,50 @@
+{
+  "city": "New York City",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in New York City",
+  "description": "Discover the best hotels in New York City, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/nzvs3r8kto29aw6ulsfd",
+  "hotels": [
+    {
+      "vendor_name": "Smyth Tribeca",
+      "offer_country_name": "United States",
+      "location_heading": "New York City",
+      "title": "New York Ultra-Cool Loft-Style Escape in the Heart of Tribeca",
+      "description": "The downtown area of Tribeca, stomping ground for effortlessly cool New Yorkers, is yours to experience with a stylish stay at the newly opened, loft-style Smyth Tribeca. This chic hotel opened its doors in 2021 and enjoys a superb location in a quiet residential area, just off the main thoroughfare. You'll be in easy reach of New York City's world-class restaurants, art galleries, designer boutiques, parks and cultural attractions. Unwind in minimalist spaces that offer a tranquil oasis away from the buzz of the city. Spend the time between exploring sweating it out at the shiny state-of-the-art gym, grabbing a bite to eat at the onsite restaurant or ordering a cosmopolitan at the glamorous lobby bar.",
+      "location_subheading": "United States",
+      "price": 306,
+      "original_price": 306,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000007lrlDAAQ",
+      "hero_image": "https://images.luxuryescapes.com/nzvs3r8kto29aw6ulsfd",
+      "image_two": "https://images.luxuryescapes.com/xpmr9uoi7wdbz2wkvfvk",
+      "image_three": "https://images.luxuryescapes.com/r3pskv4b6q3qbqh3w75f",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in New York City - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in New York City, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "new york city hotels",
+      "new york city travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/new-york-city",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/new-york-city",
+      "es": "https://mondoexplora.com/es/destination/new-york-city",
+      "fr": "https://mondoexplora.com/fr/destination/new-york-city",
+      "it": "https://mondoexplora.com/it/destination/new-york-city"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 306,
+    "average_discount": 0
+  }
+}

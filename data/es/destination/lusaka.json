@@ -1,0 +1,50 @@
+{
+  "city": "Lusaka",
+  "country": "Zambia",
+  "country_code": "ZM",
+  "hero_title": "Hoteles en Lusaka",
+  "description": "Descubre los mejores hoteles en Lusaka, Zambia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/531rym4w29cz4ywc20d",
+  "hotels": [
+    {
+      "vendor_name": "Intercontinental Lusaka",
+      "offer_country_name": "Zambia",
+      "location_heading": "Lusaka",
+      "title": "Contemporary Zambia Embassy District Retreat",
+      "description": "In the heart of the embassy district of Zambia's capital, InterContinental Lusaka, an IHG Hotel, is an oasis of rest and relaxation for the discerning traveller. In close proximity to most government and corporate offices, the modern hotel is the ideal venue for travellers looking to unwind and rest after a hard day of work. Unwind at the Makumbi Club Lounge or revitalise yourself at the outdoor pool and fitness centre.",
+      "location_subheading": "Zambia",
+      "price": 215,
+      "original_price": 215,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CNQCRAA5",
+      "hero_image": "https://images.luxuryescapes.com/531rym4w29cz4ywc20d",
+      "image_two": "https://images.luxuryescapes.com/p8o837sxx3pm4vdjbm",
+      "image_three": "https://images.luxuryescapes.com/gznpqp533rbqrgqyai",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Lusaka - Zambia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Lusaka, Zambia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "lusaka hotels",
+      "lusaka travel",
+      "zambia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/lusaka",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/lusaka",
+      "es": "https://mondoexplora.com/es/destination/lusaka",
+      "fr": "https://mondoexplora.com/fr/destination/lusaka",
+      "it": "https://mondoexplora.com/it/destination/lusaka"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 215,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Margate",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotel a Margate",
+  "description": "Scopri i migliori hotel a Margate, Australia. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/rq2aexz6t4sl9809a8g",
+  "hotels": [
+    {
+      "vendor_name": "The Sebel Brisbane Margate Beach",
+      "offer_country_name": "Australia",
+      "location_heading": "Margate",
+      "title": "Idyllic Brisbane Beachfront Escape with Rooftop Pool, Waterfront Restaurant & Moreton Bay Views",
+      "description": "Soak up the coastal tranquillity from this stunning beachfront oasis overlooking the azure waters of Moreton Bay, perfectly positioned on Brisbane's Redcliffe Peninsula. Right from the hotel's chic facade to its stylish interiors, relax and unwind in the property's expansive rooms, each with its private balcony offering panoramic ocean vistas. Spend your days savouring fresh seafood at the Margate Beach House, sip on refreshing cocktails from the rooftop bar, and swim laps in the sparkling rooftop pool or take a leisurely stroll along the beachfront boardwalk. If you wish to venture further, you can explore the vibrant local arts scene, boutique shops, weekend markets and even, rediscover the history of the famous band, the Bee Gees, who originated in Redcliffe.",
+      "location_subheading": "Australia",
+      "price": 138,
+      "original_price": 138,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002IlwjIAC",
+      "hero_image": "https://images.luxuryescapes.com/rq2aexz6t4sl9809a8g",
+      "image_two": "https://images.luxuryescapes.com/1w8blyw5ori5rxepul44",
+      "image_three": "https://images.luxuryescapes.com/89af65gsg9547ygvlak",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Margate - Australia Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Margate, Australia con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "margate hotels",
+      "margate travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/margate",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/margate",
+      "es": "https://mondoexplora.com/es/destination/margate",
+      "fr": "https://mondoexplora.com/fr/destination/margate",
+      "it": "https://mondoexplora.com/it/destination/margate"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 138,
+    "average_discount": 0
+  }
+}

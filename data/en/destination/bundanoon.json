@@ -1,0 +1,50 @@
+{
+  "city": "Bundanoon",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Bundanoon",
+  "description": "Discover the best hotels in Bundanoon, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/4osq56592l0v31ilte3e",
+  "hotels": [
+    {
+      "vendor_name": "Osborn House",
+      "offer_country_name": "Australia",
+      "location_heading": "Bundanoon",
+      "title": "Boutique Five-Star NSW Southern Highlands Retreat",
+      "description": "Osborn House is a five-star Southern Highlands escape surrounded by century-old pines and sweeping views across Morton National Park. Lovingly restored and steeped in history dating back to the 1890s, this boutique gem is brimming with charm. Make use of the lap pool, tennis court, sauna, gym, and the Osborn House Spa, one of the first spas in Australia to offer innovative Akwaterra treatments. Nearby, visit exceptional vineyards, or hunt for antiques in the region’s historic towns.",
+      "location_subheading": "Australia",
+      "price": 281,
+      "original_price": 281,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DQ4KBAA1",
+      "hero_image": "https://images.luxuryescapes.com/4osq56592l0v31ilte3e",
+      "image_two": "https://images.luxuryescapes.com/5jyqbo6roo3rai1mzh05",
+      "image_three": "https://images.luxuryescapes.com/dq1rt4pl3hqcw4f4061",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 00:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Bundanoon - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Bundanoon, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "bundanoon hotels",
+      "bundanoon travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/bundanoon",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/bundanoon",
+      "es": "https://mondoexplora.com/es/destination/bundanoon",
+      "fr": "https://mondoexplora.com/fr/destination/bundanoon",
+      "it": "https://mondoexplora.com/it/destination/bundanoon"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 281,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "New Hampshire",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hoteles en New Hampshire",
+  "description": "Descubre los mejores hoteles en New Hampshire, United States. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/ptsg8mvoz92gmkei5st",
+  "hotels": [
+    {
+      "vendor_name": "Omni Mount Washington Resort",
+      "offer_country_name": "United States",
+      "location_heading": "New Hampshire",
+      "title": "New England Mount Washington Ski Resort Escape with Two Pools & Six Dining Venues",
+      "description": "Soak up the alpine beauty of New England's Mount Washington from this tranquil resort, perfectly placed on the slopes of scenic Bretton Woods - New Hampshire's largest ski area. The region, renowned for its hiking and cycling trails, snowy thrills, quaint cafes, and forested landscape, is on your doorstep and just waiting to be explored. Spend your days on the slopes and for the perfect apres-ski vibes, absorb the legendary village buzz. Unwind in style in the well-appointed rooms imbued with thoughtful amenities, relax your muscles in the heated saltwater pool and savour a sumptuous meal at the Main Dining Room, offering farm-to-table New England cuisine, or sip a drink at The Cave, a Prohibition-era speakeasy.",
+      "location_subheading": "United States",
+      "price": 224,
+      "original_price": 224,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002HiIMIA0",
+      "hero_image": "https://images.luxuryescapes.com/ptsg8mvoz92gmkei5st",
+      "image_two": "https://images.luxuryescapes.com/9lao3genuiir1f7pypmj",
+      "image_three": "https://images.luxuryescapes.com/jjkn4zpzsdtfiryjz8vo",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en New Hampshire - Estados Unidos Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en New Hampshire, United States con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "new hampshire hotels",
+      "new hampshire travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/new-hampshire",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/new-hampshire",
+      "es": "https://mondoexplora.com/es/destination/new-hampshire",
+      "fr": "https://mondoexplora.com/fr/destination/new-hampshire",
+      "it": "https://mondoexplora.com/it/destination/new-hampshire"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 224,
+    "average_discount": 0
+  }
+}

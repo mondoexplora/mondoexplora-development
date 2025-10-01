@@ -1,0 +1,50 @@
+{
+  "city": "Miyagi",
+  "country": "Japan",
+  "country_code": "JP",
+  "hero_title": "Hoteles en Miyagi",
+  "description": "Descubre los mejores hoteles en Miyagi, Japan. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/05t7erbykw68ncr0vl8",
+  "hotels": [
+    {
+      "vendor_name": "Mercure Miyagi Zao",
+      "offer_country_name": "Japan",
+      "location_heading": "Miyagi",
+      "title": "Tranquil Miyagi Escape near Eboshi Ski Resort with Open-Air Hot Springs & Sauna",
+      "description": "Experience the serene beauty of Japan's northern region with a stay at this hotel, perfectly positioned near the Eboshi Ski Resort. After days spent gliding down the slopes or exploring nearby Zao Fox Village, retreat to the hotel's soothing open-air hot springs for a rejuvenating soak, followed by a detoxifying steam in the sauna. Savour the local flavours of Miyagi at the onsite buffet restaurant, offering a variety of traditional Japanese dishes, or venture out to explore the vibrant local dining scene. Finish your day with a glass of sake or local whisky in the cosy lounge, the perfect nightcap.",
+      "location_subheading": "Japan",
+      "price": 59,
+      "original_price": 59,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnP3LYAV",
+      "hero_image": "https://images.luxuryescapes.com/05t7erbykw68ncr0vl8",
+      "image_two": "https://images.luxuryescapes.com/mr0679j20vmokdomju0a",
+      "image_three": "https://images.luxuryescapes.com/btacmw58teg031ozer",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Miyagi - Japan Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Miyagi, Japan con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "miyagi hotels",
+      "miyagi travel",
+      "japan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/miyagi",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/miyagi",
+      "es": "https://mondoexplora.com/es/destination/miyagi",
+      "fr": "https://mondoexplora.com/fr/destination/miyagi",
+      "it": "https://mondoexplora.com/it/destination/miyagi"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 59,
+    "average_discount": 0
+  }
+}

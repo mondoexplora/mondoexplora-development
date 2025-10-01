@@ -1,0 +1,50 @@
+{
+  "city": "Belfast",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hôtels à Belfast",
+  "description": "Découvrez les meilleurs hôtels à Belfast, United Kingdom. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/zemti0b4ea0oy1zti6ji",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Belfast",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Belfast",
+      "title": "Belfast Forest Hideaway near River Lagan",
+      "description": "Located in an enchanting setting where the forest meets the river, Crowne Plaza Belfast, an IHG Hotel, is the ideal escape from reality. When you're not exploring the lush parkland or making tracks to the CBD, make use of the hotel's soothing health facilities: cool off in the swimming pool or enjoy a pampering massage at the spa. When it comes to dining, the onsite restaurant and bar offers something for everyone, from seasonal dishes to imaginative cocktails served by a cosy fireplace.",
+      "location_subheading": "United Kingdom",
+      "price": 124,
+      "original_price": 124,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJYpAAP",
+      "hero_image": "https://images.luxuryescapes.com/zemti0b4ea0oy1zti6ji",
+      "image_two": "https://images.luxuryescapes.com/rfsmra28lrfoze6uwn4l",
+      "image_three": "https://images.luxuryescapes.com/sqn749d4eb8qflrevj",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Belfast - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Belfast, United Kingdom avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "belfast hotels",
+      "belfast travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/belfast",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/belfast",
+      "es": "https://mondoexplora.com/es/destination/belfast",
+      "fr": "https://mondoexplora.com/fr/destination/belfast",
+      "it": "https://mondoexplora.com/it/destination/belfast"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 124,
+    "average_discount": 0
+  }
+}

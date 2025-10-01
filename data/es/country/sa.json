@@ -1,0 +1,61 @@
+{
+  "name": "Saudi Arabia",
+  "code": "SA",
+  "hero_title": "Saudi Arabia Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Saudi Arabia.",
+  "hero_image": "https://images.luxuryescapes.com/xn93ru3cx8jbl9ttrfnf",
+  "popular_destinations": [
+    {
+      "name": "Al Ahsa",
+      "slug": "al-ahsa",
+      "image": "https://images.luxuryescapes.com/xn93ru3cx8jbl9ttrfnf",
+      "description": "Explore Al Ahsa with luxury accommodations"
+    },
+    {
+      "name": "Al Jubail",
+      "slug": "al-jubail",
+      "image": "https://images.luxuryescapes.com/x7wh7wn7tifhtz2afk24",
+      "description": "Explore Al Jubail with luxury accommodations"
+    },
+    {
+      "name": "Al Khobar",
+      "slug": "al-khobar",
+      "image": "https://images.luxuryescapes.com/r7r38ka4m6nspwqc0da",
+      "description": "Explore Al Khobar with luxury accommodations"
+    },
+    {
+      "name": "Al Madinah",
+      "slug": "al-madinah",
+      "image": "https://images.luxuryescapes.com/dkdplbkarpzn0fjobbft",
+      "description": "Explore Al Madinah with luxury accommodations"
+    },
+    {
+      "name": "Jazan",
+      "slug": "jazan",
+      "image": "https://images.luxuryescapes.com/og3bdag9rweatsumoco",
+      "description": "Explore Jazan with luxury accommodations"
+    },
+    {
+      "name": "Jeddah",
+      "slug": "jeddah",
+      "image": "https://images.luxuryescapes.com/onztyu5fq4lhb3uas4r",
+      "description": "Explore Jeddah with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Saudi Arabia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Saudi Arabia con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "saudi arabia hotels",
+      "saudi arabia travel",
+      "saudi arabia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/sa",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/sa",
+      "es": "https://mondoexplora.com/es/country/sa",
+      "fr": "https://mondoexplora.com/fr/country/sa",
+      "it": "https://mondoexplora.com/it/country/sa"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Quang Nam",
+  "country": "Vietnam",
+  "country_code": "VN",
+  "hero_title": "Hotels in Quang Nam",
+  "description": "Discover the best hotels in Quang Nam, Vietnam. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/zrid1ycvqoeaptf77tvp",
+  "hotels": [
+    {
+      "vendor_name": "Anantara Hoi An Resort",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Quang Nam",
+      "title": "Serene Hoi An Riverside Retreat Near UNESCO Heritage-Listed Old Town",
+      "description": "Between the gentle waters of the Thu Bon River and Old Town’s World Heritage-listed teahouses, terraces and temples rests Anantara Hoi An Resort, located just minutes from the town’s signature district. Sample Vietnam’s culinary delights by the waterfront at Hoi An Riverside, enjoy wood-fired pizza and original art at the art space or immerse yourself in local wellness traditions at Anantara Spa. When you’re ready to explore, Hoi An’s lantern-filled streets and world-class banh mi bites await.",
+      "location_subheading": "Vietnam",
+      "price": 232,
+      "original_price": 232,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000009BTJoAAO",
+      "hero_image": "https://images.luxuryescapes.com/zrid1ycvqoeaptf77tvp",
+      "image_two": "https://images.luxuryescapes.com/wxutoyc8jtsvrcl3g86mr",
+      "image_three": "https://images.luxuryescapes.com/vvasjxr5pbb0zfd14hl",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Quang Nam - Vietnam Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Quang Nam, Vietnam with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "quang nam hotels",
+      "quang nam travel",
+      "vietnam hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/quang-nam",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/quang-nam",
+      "es": "https://mondoexplora.com/es/destination/quang-nam",
+      "fr": "https://mondoexplora.com/fr/destination/quang-nam",
+      "it": "https://mondoexplora.com/it/destination/quang-nam"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 232,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Puerto Rico",
+  "code": "PR",
+  "hero_title": "Puerto Rico Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Puerto Rico.",
+  "hero_image": "https://images.luxuryescapes.com/l15mttyqsagbwin2jgj",
+  "popular_destinations": [
+    {
+      "name": "Carolina",
+      "slug": "carolina",
+      "image": "https://images.luxuryescapes.com/l15mttyqsagbwin2jgj",
+      "description": "Explore Carolina with luxury accommodations"
+    },
+    {
+      "name": "Puerto Rico",
+      "slug": "puerto-rico",
+      "image": "https://images.luxuryescapes.com/rbb9cqp5dvzjlvpm8ajp",
+      "description": "Explore Puerto Rico with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Puerto Rico Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Puerto Rico con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "puerto rico hotels",
+      "puerto rico travel",
+      "puerto rico luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/pr",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/pr",
+      "es": "https://mondoexplora.com/es/country/pr",
+      "fr": "https://mondoexplora.com/fr/country/pr",
+      "it": "https://mondoexplora.com/it/country/pr"
+    }
+  }
+}

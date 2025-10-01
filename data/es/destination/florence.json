@@ -1,0 +1,68 @@
+{
+  "city": "Florence",
+  "country": "Italy",
+  "country_code": "IT",
+  "hero_title": "Hoteles en Florence",
+  "description": "Descubre los mejores hoteles en Florence, Italy. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/nmrii1lk3oh807myu5f",
+  "hotels": [
+    {
+      "vendor_name": "COMO Castello Del Nero",
+      "offer_country_name": "Italy",
+      "location_heading": "Florence",
+      "title": "Elegant Five-Star Tuscan Retreat with Michelin-Starred Restaurant",
+      "description": "Escape to the rolling hills of Tuscany with a dreamy five-star stay at COMO Castello Del Nero, a breathtaking 12th-century castle draped with Renaissance frescoes. Wake up in elegant Italian style each morning and enjoy the quintessential Tuscan scenery straight from a fairy tale. This pristine retreat is located 40 minutes from Florence and is the gateway to the region’s world-class Chianti vineyards and olive groves dotted across the hilltops. Indulge at the COMO Shambhala Retreat, where the bespoke treatments induce deep relaxation and restore balance to the mind, body and soul. Bask by the turquoise pool, before embarking on a culinary journey at the Michelin-starred La Torre restaurant, which uses local produce to enhance the authentic flavours and spirit of the region.",
+      "location_subheading": "Italy",
+      "price": 717,
+      "original_price": 717,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CNxEZAA1",
+      "hero_image": "https://images.luxuryescapes.com/nmrii1lk3oh807myu5f",
+      "image_two": "https://images.luxuryescapes.com/vxlf58ajn8eq65yn390j",
+      "image_three": "https://images.luxuryescapes.com/bzuvdjr7tjuczuxewmq",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Hotel Indigo Florence",
+      "offer_country_name": "Italy",
+      "location_heading": "Florence",
+      "title": "Tranquil Florentine Elegance with Outdoor Pool & Onsite Restaurant",
+      "description": "Discover the tranquil charm of Hotel Indigo Florence, an IHG Hotel, located in a vibrant Italian neighborhood just 10 minutes from the historic city centre. Explore the neighborhood's centuries-old history, including treasures like the Basilica of Santa Maria Novella and the world's oldest pharmacy, Officina Profumo Farmaceutica. Indulge in the best of Tuscan gastronomy at the Binomio Florence restaurant and terrace, while the lush garden with a pool invites you to enjoy breakfast or local wine.",
+      "location_subheading": "Italy",
+      "price": 156,
+      "original_price": 156,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000FckavAAB",
+      "hero_image": "https://images.luxuryescapes.com/xryo0i1of4vyytfp3wg",
+      "image_two": "https://images.luxuryescapes.com/h1mqb95miyyy20nnyou8",
+      "image_three": "https://images.luxuryescapes.com/6uam0yvvg3dh4j99al9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Florence - Italy Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Florence, Italy con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "florence hotels",
+      "florence travel",
+      "italy hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/florence",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/florence",
+      "es": "https://mondoexplora.com/es/destination/florence",
+      "fr": "https://mondoexplora.com/fr/destination/florence",
+      "it": "https://mondoexplora.com/it/destination/florence"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 437,
+    "average_discount": 0
+  }
+}

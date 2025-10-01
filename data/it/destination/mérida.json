@@ -1,0 +1,50 @@
+{
+  "city": "Mérida",
+  "country": "Mexico",
+  "country_code": "MX",
+  "hero_title": "Hotel a Mérida",
+  "description": "Scopri i migliori hotel a Mérida, Mexico. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/axgsdehpp3qckoth5so7",
+  "hotels": [
+    {
+      "vendor_name": "Hacienda Xcanatun",
+      "offer_country_name": "Mexico",
+      "location_heading": "Mérida",
+      "title": "Mexico 18th-Century Heritage Suites near Downtown Mérida with Tranquil Spa",
+      "description": "Hidden within four acres of lush garden is the five-star Hacienda Xcanatun, Angsana Heritage Collection, a carefully restored 18th-century hacienda just outside Mérida. This is the perfect tropical Mexican hideaway that fuses contemporary details with local design. For a tasty bite, head to the signature Casa de Piedra restaurant, a landmark city restaurant, for traditional Yucatán dishes fused with innovative Mexican flavours. At Angsana Spa, find serenity with a full-body massage, invigorating body polish or glowing facial. Mérida has been coined the cultural capital of the Yucatán Peninsula, with its plethora of grand plazas, museums, restaurants and buzzing markets. The hotel is just a 15-minute drive from Downtown Mérida, home to top-notch restaurants, architectural monuments and historic churches. For a spot of shopping, the Harbor Lifestyle Mall with shops, a movie theatre and restaurants is only five minutes away by car.",
+      "location_subheading": "Mexico",
+      "price": 141,
+      "original_price": 141,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000004URGvAAO",
+      "hero_image": "https://images.luxuryescapes.com/axgsdehpp3qckoth5so7",
+      "image_two": "https://images.luxuryescapes.com/8jriy4c0nifgjar94tdc",
+      "image_three": "https://images.luxuryescapes.com/o4j09c4p4j0e4dxopjkp",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Mérida - Mexico Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Mérida, Mexico con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "mérida hotels",
+      "mérida travel",
+      "mexico hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/mérida",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/mérida",
+      "es": "https://mondoexplora.com/es/destination/mérida",
+      "fr": "https://mondoexplora.com/fr/destination/mérida",
+      "it": "https://mondoexplora.com/it/destination/mérida"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 141,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Seychelles",
+  "code": "SC",
+  "hero_title": "Seychelles Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Seychelles.",
+  "hero_image": "https://images.luxuryescapes.com/8xkdin75b2zs4654cgh",
+  "popular_destinations": [
+    {
+      "name": "Mahe",
+      "slug": "mahe",
+      "image": "https://images.luxuryescapes.com/8xkdin75b2zs4654cgh",
+      "description": "Explore Mahe with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 1168
+    },
+    {
+      "name": "Félicité",
+      "slug": "félicité",
+      "image": "https://images.luxuryescapes.com/xo8hl54fs7jodbdy4vcn",
+      "description": "Explore Félicité with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1312
+    },
+    {
+      "name": "Praslin Island",
+      "slug": "praslin-island",
+      "image": "https://images.luxuryescapes.com/xy7gx76yygobb5oiec9w",
+      "description": "Explore Praslin Island with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1133
+    }
+  ],
+  "seo": {
+    "title": "Seychelles Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Seychelles with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "seychelles hotels",
+      "seychelles travel",
+      "seychelles luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/sc",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/sc",
+      "es": "https://mondoexplora.com/es/country/sc",
+      "fr": "https://mondoexplora.com/fr/country/sc",
+      "it": "https://mondoexplora.com/it/country/sc"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Montenegro",
+  "code": "ME",
+  "hero_title": "Montenegro Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Montenegro.",
+  "hero_image": "https://images.luxuryescapes.com/f2d1lc5hzemxxm11fa3",
+  "popular_destinations": [
+    {
+      "name": "Herceg Novi",
+      "slug": "herceg-novi",
+      "image": "https://images.luxuryescapes.com/f2d1lc5hzemxxm11fa3",
+      "description": "Explore Herceg Novi with luxury accommodations"
+    },
+    {
+      "name": "Perast",
+      "slug": "perast",
+      "image": "https://images.luxuryescapes.com/c3i9fdbipd6nj0hmu5w",
+      "description": "Explore Perast with luxury accommodations"
+    },
+    {
+      "name": "Podgorica",
+      "slug": "podgorica",
+      "image": "https://images.luxuryescapes.com/teamg8jrdw2yo8onkq2j",
+      "description": "Explore Podgorica with luxury accommodations"
+    },
+    {
+      "name": "Tivat",
+      "slug": "tivat",
+      "image": "https://images.luxuryescapes.com/lw413iwafp7u7gcn0gs",
+      "description": "Explore Tivat with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Montenegro Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Montenegro con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "montenegro hotels",
+      "montenegro travel",
+      "montenegro luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/me",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/me",
+      "es": "https://mondoexplora.com/es/country/me",
+      "fr": "https://mondoexplora.com/fr/country/me",
+      "it": "https://mondoexplora.com/it/country/me"
+    }
+  }
+}

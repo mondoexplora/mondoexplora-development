@@ -1,0 +1,31 @@
+{
+  "name": "Slovakia",
+  "code": "SK",
+  "hero_title": "Slovakia Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Slovakia.",
+  "hero_image": "https://images.luxuryescapes.com/mpe2l4re7dpv0z3h2mmp",
+  "popular_destinations": [
+    {
+      "name": "Bratislava",
+      "slug": "bratislava",
+      "image": "https://images.luxuryescapes.com/mpe2l4re7dpv0z3h2mmp",
+      "description": "Explore Bratislava with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Slovakia Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Slovakia avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "slovakia hotels",
+      "slovakia travel",
+      "slovakia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/sk",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/sk",
+      "es": "https://mondoexplora.com/es/country/sk",
+      "fr": "https://mondoexplora.com/fr/country/sk",
+      "it": "https://mondoexplora.com/it/country/sk"
+    }
+  }
+}

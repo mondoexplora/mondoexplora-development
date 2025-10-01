@@ -1,0 +1,31 @@
+{
+  "name": "Luxembourg",
+  "code": "LU",
+  "hero_title": "Luxembourg Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Luxembourg.",
+  "hero_image": "https://images.luxuryescapes.com/55xoueqyz42t3etd4t",
+  "popular_destinations": [
+    {
+      "name": "Luxembourg",
+      "slug": "luxembourg",
+      "image": "https://images.luxuryescapes.com/55xoueqyz42t3etd4t",
+      "description": "Explore Luxembourg with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Luxembourg Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Luxembourg con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "luxembourg hotels",
+      "luxembourg travel",
+      "luxembourg luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/lu",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/lu",
+      "es": "https://mondoexplora.com/es/country/lu",
+      "fr": "https://mondoexplora.com/fr/country/lu",
+      "it": "https://mondoexplora.com/it/country/lu"
+    }
+  }
+}

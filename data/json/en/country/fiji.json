@@ -1,0 +1,79 @@
+{
+  "name": "Fiji",
+  "code": "FJ",
+  "hero_title": "Fiji Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Fiji.",
+  "hero_image": "https://images.luxuryescapes.com/n0qxsjjdtrlljg29vyk",
+  "popular_destinations": [
+    {
+      "name": "Malolo Island",
+      "slug": "malolo-island",
+      "image": "https://images.luxuryescapes.com/n0qxsjjdtrlljg29vyk",
+      "description": "Explore Malolo Island with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 755
+    },
+    {
+      "name": "Nadi",
+      "slug": "nadi",
+      "image": "https://images.luxuryescapes.com/ah1octnsr2ejlf13dj",
+      "description": "Explore Nadi with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 128
+    },
+    {
+      "name": "Viti Levu",
+      "slug": "viti-levu",
+      "image": "https://images.luxuryescapes.com/j9wvf6r78vfh0nbpghki",
+      "description": "Explore Viti Levu with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 297
+    },
+    {
+      "name": "Pacific Harbour",
+      "slug": "pacific-harbour",
+      "image": "https://images.luxuryescapes.com/mrj7tioaib27062dqir",
+      "description": "Explore Pacific Harbour with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 453
+    },
+    {
+      "name": "Coral Coast",
+      "slug": "coral-coast",
+      "image": "https://images.luxuryescapes.com/a71iu4d9zemf6sdfs3uh",
+      "description": "Explore Coral Coast with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 148
+    },
+    {
+      "name": "Denarau Island",
+      "slug": "denarau-island",
+      "image": "https://images.luxuryescapes.com/7225q1ulun5lfv09ndg",
+      "description": "Explore Denarau Island with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 1594
+    }
+  ],
+  "seo": {
+    "title": "Fiji Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Fiji with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "fiji hotels",
+      "fiji travel",
+      "fiji luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/fj",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/fj",
+      "es": "https://mondoexplora.com/es/country/fj",
+      "fr": "https://mondoexplora.com/fr/country/fj",
+      "it": "https://mondoexplora.com/it/country/fj"
+    }
+  }
+}

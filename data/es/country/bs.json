@@ -1,0 +1,49 @@
+{
+  "name": "Bahamas",
+  "code": "BS",
+  "hero_title": "Bahamas Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Bahamas.",
+  "hero_image": "https://images.luxuryescapes.com/g0cip5bg0bcr2cnqckw8",
+  "popular_destinations": [
+    {
+      "name": "Bahamas",
+      "slug": "bahamas",
+      "image": "https://images.luxuryescapes.com/g0cip5bg0bcr2cnqckw8",
+      "description": "Explore Bahamas with luxury accommodations"
+    },
+    {
+      "name": "Great Exuma",
+      "slug": "great-exuma",
+      "image": "https://images.luxuryescapes.com/86e42bk5njjft2dsqw7n",
+      "description": "Explore Great Exuma with luxury accommodations"
+    },
+    {
+      "name": "Paradise Island",
+      "slug": "paradise-island",
+      "image": "https://images.luxuryescapes.com/a490n4uwlr0tqrnxnt",
+      "description": "Explore Paradise Island with luxury accommodations"
+    },
+    {
+      "name": "South Andros",
+      "slug": "south-andros",
+      "image": "https://images.luxuryescapes.com/ez7q31ig1ctzm5byrm5j",
+      "description": "Explore South Andros with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Bahamas Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Bahamas con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "bahamas hotels",
+      "bahamas travel",
+      "bahamas luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/bs",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/bs",
+      "es": "https://mondoexplora.com/es/country/bs",
+      "fr": "https://mondoexplora.com/fr/country/bs",
+      "it": "https://mondoexplora.com/it/country/bs"
+    }
+  }
+}

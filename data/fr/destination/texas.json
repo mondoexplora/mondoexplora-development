@@ -1,0 +1,50 @@
+{
+  "city": "Texas",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hôtels à Texas",
+  "description": "Découvrez les meilleurs hôtels à Texas, United States. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/z3k8o3o193eb4m1jmx",
+  "hotels": [
+    {
+      "vendor_name": "Omni Austin Hotel Downtown",
+      "offer_country_name": "United States",
+      "location_heading": "Texas",
+      "title": "Modern Downtown Austin Mid-Century Stay with Restaurant, Bar & Coffee Shop",
+      "description": "Enjoy being steps from Austin's lively 6th Street Entertainment District with a relaxing stay at this refreshed retreat in the heart of the city's Downtown. Before you set out for the day, grab a quick coffee and buttery pastry at President's House Coffee. Between Texan adventures, take a dip in the hotel's sparkling rooftop pool, sip margaritas while overlooking the skyline at Cloud Bar, or sit down to enjoy casual eats at Capital A.",
+      "location_subheading": "United States",
+      "price": 157,
+      "original_price": 157,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002HiHuIAK",
+      "hero_image": "https://images.luxuryescapes.com/z3k8o3o193eb4m1jmx",
+      "image_two": "https://images.luxuryescapes.com/p0k7llc4afonuyumkdhf",
+      "image_three": "https://images.luxuryescapes.com/3qurtg56qk052mdaltf",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Texas - États-Unis Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Texas, United States avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "texas hotels",
+      "texas travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/texas",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/texas",
+      "es": "https://mondoexplora.com/es/destination/texas",
+      "fr": "https://mondoexplora.com/fr/destination/texas",
+      "it": "https://mondoexplora.com/it/destination/texas"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 157,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Sibenik",
+  "country": "Croatia",
+  "country_code": "HR",
+  "hero_title": "Hotels in Sibenik",
+  "description": "Discover the best hotels in Sibenik, Croatia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/jxsqr51xq9xkga2lw6n",
+  "hotels": [
+    {
+      "vendor_name": "D-Resort Sibenik",
+      "offer_country_name": "Croatia",
+      "location_heading": "Sibenik",
+      "title": "Sea-View Croatia Escape with Infinity Pool & Seven Restaurants & Bars",
+      "description": "The unforgettable Adriatic awaits with a breathtaking stay at Croatia’s D-Resort Šibenik, set next to the city's spectacular yacht marina. Designed by famed architect Nikola Bašić, known for Zadar's 'Sea Organ’ installation, this unique hotel gives the feeling of being aboard a large, modern ship, with all rooms enjoying sweeping views across the medieval port. With an infinity pool, multiple restaurants and bars, a kids club and a wellness centre - this resort is a secret you'll want to keep to yourself.",
+      "location_subheading": "Croatia",
+      "price": 153,
+      "original_price": 153,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CvhHjAAJ",
+      "hero_image": "https://images.luxuryescapes.com/jxsqr51xq9xkga2lw6n",
+      "image_two": "https://images.luxuryescapes.com/2l9biausnubwas927dfe",
+      "image_three": "https://images.luxuryescapes.com/bk6s2guy9nuj8scxhxk",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Sibenik - Croatia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Sibenik, Croatia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "sibenik hotels",
+      "sibenik travel",
+      "croatia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/sibenik",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/sibenik",
+      "es": "https://mondoexplora.com/es/destination/sibenik",
+      "fr": "https://mondoexplora.com/fr/destination/sibenik",
+      "it": "https://mondoexplora.com/it/destination/sibenik"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 153,
+    "average_discount": 0
+  }
+}

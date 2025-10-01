@@ -1,0 +1,50 @@
+{
+  "city": "Hakone",
+  "country": "Japan",
+  "country_code": "JP",
+  "hero_title": "Hoteles en Hakone",
+  "description": "Descubre los mejores hoteles en Hakone, Japan. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/9ulmjjmnhkix9szmns3y",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Indigo Hakone Gora",
+      "offer_country_name": "Japan",
+      "location_heading": "Hakone",
+      "title": "Japan Hakone Hot Spring Escape with Private Onsen Baths",
+      "description": "Surrounded by majestic mountains and greenery, Hotel Indigo Hakone Gora, an IHG Hotel offers a contemporary and refined hot spring escape among the Japanese mountainside. Savour superb dishes featuring locally-sourced ingredients at Riverside Kitchen & Bar, or enjoy calming Hayakawa River views and a cold beer while soaking away tension in the outdoor Foot Bath and Cafe. Plus, indulge in soothing massage therapies and beauty treatments at The Spa by HARNN.",
+      "location_subheading": "Japan",
+      "price": 224,
+      "original_price": 224,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CugFmAAJ",
+      "hero_image": "https://images.luxuryescapes.com/9ulmjjmnhkix9szmns3y",
+      "image_two": "https://images.luxuryescapes.com/av56llit5smpdivg042r",
+      "image_three": "https://images.luxuryescapes.com/0w9eshbj2f7d4bip027",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Hakone - Japan Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Hakone, Japan con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "hakone hotels",
+      "hakone travel",
+      "japan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/hakone",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/hakone",
+      "es": "https://mondoexplora.com/es/destination/hakone",
+      "fr": "https://mondoexplora.com/fr/destination/hakone",
+      "it": "https://mondoexplora.com/it/destination/hakone"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 224,
+    "average_discount": 0
+  }
+}

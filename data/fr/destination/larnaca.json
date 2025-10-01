@@ -1,0 +1,50 @@
+{
+  "city": "Larnaca",
+  "country": "Cyprus",
+  "country_code": "CY",
+  "hero_title": "Hôtels à Larnaca",
+  "description": "Découvrez les meilleurs hôtels à Larnaca, Cyprus. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/ft2w3accr26nml139aa",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Indigo Larnaca",
+      "offer_country_name": "Cyprus",
+      "location_heading": "Larnaca",
+      "title": "Larnaca Colourful City Stay Minutes from Finikoudes Beach",
+      "description": "Colourful and contemporary, the vibrant Hotel Indigo Larnaca, an IHG Hotel, fuses heritage housing with modern luxuries and design. Wake in a stylish guest room and enjoy a satisfying breakfast before a day of lounging by the rooftop pool or having some fun in the sun on the sands of the nearby Finikoudes Beach. As night falls, enjoy a sophisticated cocktail at the Kampana rooftop pool bar, a mellow merlot at the Oinotelia wine bar or hit the streets to discover Larnaca's dynamic nightlife.",
+      "location_subheading": "Cyprus",
+      "price": 138,
+      "original_price": 138,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CuiReAAJ",
+      "hero_image": "https://images.luxuryescapes.com/ft2w3accr26nml139aa",
+      "image_two": "https://images.luxuryescapes.com/7f59vefxe7ufkm189s",
+      "image_three": "https://images.luxuryescapes.com/yydelj2e9za6kx0r95f",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Larnaca - Cyprus Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Larnaca, Cyprus avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "larnaca hotels",
+      "larnaca travel",
+      "cyprus hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/larnaca",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/larnaca",
+      "es": "https://mondoexplora.com/es/destination/larnaca",
+      "fr": "https://mondoexplora.com/fr/destination/larnaca",
+      "it": "https://mondoexplora.com/it/destination/larnaca"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 138,
+    "average_discount": 0
+  }
+}

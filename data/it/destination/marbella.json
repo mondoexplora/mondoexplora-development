@@ -1,0 +1,68 @@
+{
+  "city": "Marbella",
+  "country": "Spain",
+  "country_code": "ES",
+  "hero_title": "Hotel a Marbella",
+  "description": "Scopri i migliori hotel a Marbella, Spain. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/di2hjl53fdqkt549zx8",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Don Pepe Gran Melia",
+      "offer_country_name": "Spain",
+      "location_heading": "Marbella",
+      "title": "Marbella Golden Mile Seafront Oasis with Daily Breakfast, Nightly Free-Flow Drinks & Daily EUR50 Credit",
+      "description": "Sink into Costa del Sol glamour at this landmark Meliá destination, a lavish beachfront hideaway on Marbella’s coveted Golden Mile. Steps from heavenly sands and just a short stroll to the cobbled charm of the city's Old Town, this sun-drenched Mediterranean oasis is perfectly placed for shopping, yacht-spotting in Puerto Banús and leisurely lunches under blue skies. Enjoy RedLevel Lounge access with a private concierge, exclusive breakfast and a selection of canapés served throughout the day. Start your day with ocean breezes and a poolside breakfast beneath swaying trees. With direct beach access, soak up the seaside atmosphere all day long, or opt for a trip to the spa for total relaxation. Come evening, sip sake in the ocean-facing Tahini Restaurant & Sushi Bar or go big at ERRE & Urrechu Restaurant, where fire-grilled specials, fresh ingredients and fine wine take centre stage.",
+      "location_subheading": "Spain",
+      "price": 769,
+      "original_price": 2330,
+      "discount_percentage": 67,
+      "link": "https://luxuryescapes.com/offer/006RF00000Jf2NuYAJ",
+      "hero_image": "https://images.luxuryescapes.com/di2hjl53fdqkt549zx8",
+      "image_two": "https://images.luxuryescapes.com/j57m1ti5nev1v5vx3kba",
+      "image_three": "https://images.luxuryescapes.com/qciqq39nfrimz40eajw",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2025-08-05 13:59:00"
+    },
+    {
+      "vendor_name": "METT Hotel & Beach Resort Marbella",
+      "offer_country_name": "Spain",
+      "location_heading": "Marbella",
+      "title": "Costa del Sol Beachfront Glamour with Four Dining Venues & Onsite Spa",
+      "description": "Nestled in the heart of the sun-kissed Costa del Sol, this luxurious resort is a dazzling gem perfectly poised between the azure Mediterranean Sea and the majestic Andalusian mountains of southern Spain. Savour the sophisticated flavours of Europe at the resort’s gourmet restaurants, or unwind with a handcrafted cocktail beside the sparkling infinity pool. Discover the enchanting charm of Marbella’s historic Old Town, with its cobblestone streets and vibrant culture. For golf aficionados, the resort offers unrivalled access to some of the region’s most prestigious and scenic golf courses, ensuring every moment is touched with glamour and refinement.",
+      "location_subheading": "Spain",
+      "price": 355,
+      "original_price": 355,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000JMlMTAA1",
+      "hero_image": "https://images.luxuryescapes.com/fktsbmfbhee6yccuwpuwq",
+      "image_two": "https://images.luxuryescapes.com/ghtc7egbgvea1obp3vr7",
+      "image_three": "https://images.luxuryescapes.com/15dn0fzq6jiequju0v9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Marbella - Spain Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Marbella, Spain con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "marbella hotels",
+      "marbella travel",
+      "spain hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/marbella",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/marbella",
+      "es": "https://mondoexplora.com/es/destination/marbella",
+      "fr": "https://mondoexplora.com/fr/destination/marbella",
+      "it": "https://mondoexplora.com/it/destination/marbella"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 562,
+    "average_discount": 34
+  }
+}

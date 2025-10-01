@@ -1,0 +1,79 @@
+{
+  "name": "Greece",
+  "code": "GR",
+  "hero_title": "Greece Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Greece.",
+  "hero_image": "https://images.luxuryescapes.com/ihmrd2s48bity9ctuo",
+  "popular_destinations": [
+    {
+      "name": "Santorini",
+      "slug": "santorini",
+      "image": "https://images.luxuryescapes.com/ihmrd2s48bity9ctuo",
+      "description": "Explore Santorini with luxury accommodations",
+      "hotel_count": 11,
+      "hotel_deals": 11,
+      "avg_price": 573
+    },
+    {
+      "name": "Athens",
+      "slug": "athens",
+      "image": "https://images.luxuryescapes.com/i82sh732qdiui0v4zd",
+      "description": "Explore Athens with luxury accommodations",
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 213
+    },
+    {
+      "name": "Mykonos",
+      "slug": "mykonos",
+      "image": "https://images.luxuryescapes.com/41ehtzlieve3inhf216",
+      "description": "Explore Mykonos with luxury accommodations",
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 360
+    },
+    {
+      "name": "Crete",
+      "slug": "crete",
+      "image": "https://images.luxuryescapes.com/1nmg8xjeejgui0s5oek",
+      "description": "Explore Crete with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 343
+    },
+    {
+      "name": "Corfu",
+      "slug": "corfu",
+      "image": "https://images.luxuryescapes.com/oluxxfirotc0iqohfukb",
+      "description": "Explore Corfu with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 249
+    },
+    {
+      "name": "Thessaloniki",
+      "slug": "thessaloniki",
+      "image": "https://images.luxuryescapes.com/cwnyb3lsqbxoderf97e",
+      "description": "Explore Thessaloniki with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 141
+    }
+  ],
+  "seo": {
+    "title": "Greece Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Greece with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "greece hotels",
+      "greece travel",
+      "greece luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/greece",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/greece",
+      "es": "https://mondoexplora.com/es/country/greece",
+      "fr": "https://mondoexplora.com/fr/country/greece",
+      "it": "https://mondoexplora.com/it/country/greece"
+    }
+  }
+}

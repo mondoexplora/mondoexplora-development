@@ -1,0 +1,50 @@
+{
+  "city": "Montpellier",
+  "country": "France",
+  "country_code": "FR",
+  "hero_title": "Hoteles en Montpellier",
+  "description": "Descubre los mejores hoteles en Montpellier, France. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/4uwz2p1zk00ljz0x6ap",
+  "hotels": [
+    {
+      "vendor_name": "Adagio Montpellier Centre Comédie",
+      "offer_country_name": "France",
+      "location_heading": "Montpellier",
+      "title": "Stylish Boutique Montpellier Escape near Place de la Comédie",
+      "description": "Immerse yourself in the vibrant heart of Montpellier with a stay at a contemporary retreat located in the city's bustling Comédie district. A stone's throw from the grand Place de la Comédie and the Esplanade Charles-de-Gaulle, this hotel offers easy access to the city's historic centre, brimming with medieval architecture, charming boutiques and inviting cafes. Explore the city's rich history with a visit to the Musée Fabre, one of France's most prestigious art museums, or take a leisurely stroll through the picturesque Jardin des Plantes de Montpellier. When hunger strikes, head to the nearby Marché du Lez, a dynamic food and cultural market, for a taste of local cuisine.",
+      "location_subheading": "France",
+      "price": 116,
+      "original_price": 116,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnP9wYAF",
+      "hero_image": "https://images.luxuryescapes.com/4uwz2p1zk00ljz0x6ap",
+      "image_two": "https://images.luxuryescapes.com/crzdnha4546s6aua2rqg",
+      "image_three": "https://images.luxuryescapes.com/kank2w8io6s5p4knhc",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Montpellier - France Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Montpellier, France con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "montpellier hotels",
+      "montpellier travel",
+      "france hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/montpellier",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/montpellier",
+      "es": "https://mondoexplora.com/es/destination/montpellier",
+      "fr": "https://mondoexplora.com/fr/destination/montpellier",
+      "it": "https://mondoexplora.com/it/destination/montpellier"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 116,
+    "average_discount": 0
+  }
+}

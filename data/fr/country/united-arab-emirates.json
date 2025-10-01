@@ -1,0 +1,61 @@
+{
+  "name": "United Arab Emirates",
+  "code": "AE",
+  "hero_title": "United Arab Emirates Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en United Arab Emirates.",
+  "hero_image": "https://images.luxuryescapes.com/o2g6h0wjalg76dotjd9s",
+  "popular_destinations": [
+    {
+      "name": "Dubai",
+      "slug": "dubai",
+      "image": "https://images.luxuryescapes.com/o2g6h0wjalg76dotjd9s",
+      "description": "Explore Dubai with luxury accommodations"
+    },
+    {
+      "name": "Abu Dhabi",
+      "slug": "abu-dhabi",
+      "image": "https://images.luxuryescapes.com/d64hdgej7oahtw8vme39",
+      "description": "Explore Abu Dhabi with luxury accommodations"
+    },
+    {
+      "name": "Ajman",
+      "slug": "ajman",
+      "image": "https://images.luxuryescapes.com/gf586qrpa3aara4wbm29",
+      "description": "Explore Ajman with luxury accommodations"
+    },
+    {
+      "name": "Fujairah",
+      "slug": "fujairah",
+      "image": "https://images.luxuryescapes.com/sp4r83e6tnt4q1w8x7gb",
+      "description": "Explore Fujairah with luxury accommodations"
+    },
+    {
+      "name": "Palm Jumeirah",
+      "slug": "palm-jumeirah",
+      "image": "https://images.luxuryescapes.com/veopkamzktw0qwgzpk",
+      "description": "Explore Palm Jumeirah with luxury accommodations"
+    },
+    {
+      "name": "Ras Al Khaimah",
+      "slug": "ras-al-khaimah",
+      "image": "https://images.luxuryescapes.com/czqcqkkv8igq55sqgko",
+      "description": "Explore Ras Al Khaimah with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "United Arab Emirates Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en United Arab Emirates avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "united arab emirates hotels",
+      "united arab emirates travel",
+      "united arab emirates luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/ae",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ae",
+      "es": "https://mondoexplora.com/es/country/ae",
+      "fr": "https://mondoexplora.com/fr/country/ae",
+      "it": "https://mondoexplora.com/it/country/ae"
+    }
+  }
+}

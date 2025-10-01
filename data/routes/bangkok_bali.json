@@ -1,0 +1,88 @@
+{
+  "route": {
+    "origin": "bangkok",
+    "destination": "bali",
+    "distance": "2800 km",
+    "available_modes": [
+      "flight",
+      "ferry"
+    ]
+  },
+  "travel_modes": [
+    {
+      "icon": "✈️",
+      "name": "Flight",
+      "description": "Fastest option for long distances",
+      "estimated_time": "2-8 hours",
+      "estimated_cost": "$200-800",
+      "frequency": "Daily",
+      "notes": "Most popular for international travel",
+      "booking_links": {
+        "skyscanner": "https://www.skyscanner.com",
+        "kayak": "https://www.kayak.com",
+        "google_flights": "https://www.google.com/travel/flights"
+      },
+      "providers": [
+        {
+          "name": "Thai Airways",
+          "website": "https://www.thaiairways.com",
+          "direct": true
+        },
+        {
+          "name": "Garuda Indonesia",
+          "website": "https://www.garuda-indonesia.com",
+          "direct": true
+        },
+        {
+          "name": "AirAsia",
+          "website": "https://www.airasia.com",
+          "direct": true
+        },
+        {
+          "name": "Lion Air",
+          "website": "https://www.lionair.co.id",
+          "direct": true
+        }
+      ],
+      "airports": {
+        "origin": "Bangkok Suvarnabhumi (BKK)",
+        "destination": "Denpasar Ngurah Rai (DPS)"
+      }
+    },
+    {
+      "icon": "⛴️",
+      "name": "Ferry",
+      "description": "Scenic water travel between coastal destinations",
+      "estimated_time": "1-6 hours",
+      "estimated_cost": "$30-150",
+      "frequency": "Daily/Weekly",
+      "notes": "Scenic but weather dependent",
+      "booking_links": {
+        "directferries": "https://www.directferries.com",
+        "ferryhopper": "https://www.ferryhopper.com"
+      },
+      "providers": [
+        {
+          "name": "Pelni",
+          "website": "https://www.pelni.co.id",
+          "direct": false
+        },
+        {
+          "name": "Singapore Cruise Centre",
+          "website": "https://www.singaporecruise.com",
+          "direct": false
+        }
+      ],
+      "ports": {
+        "origin": "Bangkok Port",
+        "destination": "Benoa Port, Bali"
+      }
+    }
+  ],
+  "quick_tips": [
+    "Book flights 2-3 months in advance for best prices",
+    "Ferry option is scenic but much slower",
+    "Consider visa requirements for Indonesia",
+    "Best time to visit: April to October"
+  ]
+}

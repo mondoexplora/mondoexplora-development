@@ -1,0 +1,322 @@
+{
+  "popular_routes": [
+    {
+      "origin": "london",
+      "destination": "paris",
+      "type": "domestic_major",
+      "distance": "344 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {"name": "British Airways", "website": "https://www.britishairways.com", "direct": true},
+            {"name": "Air France", "website": "https://www.airfrance.com", "direct": true},
+            {"name": "EasyJet", "website": "https://www.easyjet.com", "direct": true}
+          ],
+          "airports": {"origin": "London Heathrow (LHR)", "destination": "Paris Charles de Gaulle (CDG)"}
+        },
+        "train": {
+          "providers": [{"name": "Eurostar", "website": "https://www.eurostar.com", "direct": true}],
+          "stations": {"origin": "St Pancras International", "destination": "Gare du Nord"}
+        },
+        "bus": {
+          "providers": [
+            {"name": "FlixBus", "website": "https://www.flixbus.com", "direct": true},
+            {"name": "Eurolines", "website": "https://www.eurolines.com", "direct": true}
+          ]
+        }
+      }
+    },
+    {
+      "origin": "london",
+      "destination": "amsterdam",
+      "type": "domestic_major",
+      "distance": "357 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {"name": "British Airways", "website": "https://www.britishairways.com", "direct": true},
+            {"name": "KLM", "website": "https://www.klm.com", "direct": true},
+            {"name": "EasyJet", "website": "https://www.easyjet.com", "direct": true}
+          ]
+        },
+        "train": {
+          "providers": [{"name": "Eurostar", "website": "https://www.eurostar.com", "direct": true}]
+        },
+        "bus": {
+          "providers": [{"name": "FlixBus", "website": "https://www.flixbus.com", "direct": true}]
+        }
+      }
+    },
+    {
+      "origin": "paris",
+      "destination": "rome",
+      "type": "domestic_major",
+      "distance": "1100 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {"name": "Air France", "website": "https://www.airfrance.com", "direct": true},
+            {"name": "Alitalia", "website": "https://www.alitalia.com", "direct": true},
+            {"name": "EasyJet", "website": "https://www.easyjet.com", "direct": true}
+          ]
+        },
+        "train": {
+          "providers": [{"name": "TGV", "website": "https://www.sncf.com", "direct": true}]
+        },
+        "bus": {
+          "providers": [{"name": "FlixBus", "website": "https://www.flixbus.com", "direct": true}]
+        }
+      }
+    },
+    {
+      "origin": "barcelona",
+      "destination": "madrid",
+      "type": "domestic_major",
+      "distance": "500 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {"name": "Iberia", "website": "https://www.iberia.com", "direct": true},
+            {"name": "Vueling", "website": "https://www.vueling.com", "direct": true},
+            {"name": "Air Europa", "website": "https://www.aireuropa.com", "direct": true}
+          ]
+        },
+        "train": {
+          "providers": [{"name": "Renfe AVE", "website": "https://www.renfe.com", "direct": true}]
+        },
+        "bus": {
+          "providers": [{"name": "ALSA", "website": "https://www.alsa.com", "direct": true}]
+        }
+      }
+    },
+    {
+      "origin": "berlin",
+      "destination": "munich",
+      "type": "domestic_major",
+      "distance": "585 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {"name": "Lufthansa", "website": "https://www.lufthansa.com", "direct": true},
+            {"name": "EasyJet", "website": "https://www.easyjet.com", "direct": true}
+          ]
+        },
+        "train": {
+          "providers": [{"name": "Deutsche Bahn", "website": "https://www.bahn.com", "direct": true}]
+        },
+        "bus": {
+          "providers": [{"name": "FlixBus", "website": "https://www.flixbus.com", "direct": true}]
+        }
+      }
+    },
+    {
+      "origin": "tokyo",
+      "destination": "kyoto",
+      "type": "domestic_major",
+      "distance": "370 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {"name": "Japan Airlines", "website": "https://www.jal.com", "direct": true},
+            {"name": "All Nippon Airways", "website": "https://www.ana.co.jp", "direct": true}
+          ]
+        },
+        "train": {
+          "providers": [{"name": "JR Shinkansen", "website": "https://japanrailpass.net", "direct": true}]
+        },
+        "bus": {
+          "providers": [{"name": "Willer Express", "website": "https://willerexpress.com", "direct": true}]
+        }
+      }
+    },
+    {
+      "origin": "seoul",
+      "destination": "busan",
+      "type": "domestic_major",
+      "distance": "325 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {"name": "Korean Air", "website": "https://www.koreanair.com", "direct": true},
+            {"name": "Asiana Airlines", "website": "https://www.asiana.com", "direct": true}
+          ]
+        },
+        "train": {
+          "providers": [{"name": "KTX", "website": "https://www.letskorail.com", "direct": true}]
+        },
+        "bus": {
+          "providers": [{"name": "Express Bus Terminal", "website": "https://www.kobus.co.kr", "direct": true}]
+        }
+      }
+    },
+    {
+      "origin": "singapore",
+      "destination": "bangkok",
+      "type": "international_air",
+      "distance": "1440 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {"name": "Singapore Airlines", "website": "https://www.singaporeair.com", "direct": true},
+            {"name": "Thai Airways", "website": "https://www.thaiairways.com", "direct": true},
+            {"name": "AirAsia", "website": "https://www.airasia.com", "direct": true}
+          ]
+        }
+      }
+    },
+    {
+      "origin": "hong_kong",
+      "destination": "taipei",
+      "type": "international_air",
+      "distance": "800 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {"name": "Cathay Pacific", "website": "https://www.cathaypacific.com", "direct": true},
+            {"name": "China Airlines", "website": "https://www.china-airlines.com", "direct": true},
+            {"name": "EVA Air", "website": "https://www.evaair.com", "direct": true}
+          ]
+        }
+      }
+    },
+    {
+      "origin": "new_york",
+      "destination": "los_angeles",
+      "type": "domestic_major",
+      "distance": "4000 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {"name": "American Airlines", "website": "https://www.aa.com", "direct": true},
+            {"name": "Delta", "website": "https://www.delta.com", "direct": true},
+            {"name": "United", "website": "https://www.united.com", "direct": true}
+          ]
+        },
+        "bus": {
+          "providers": [{"name": "Greyhound", "website": "https://www.greyhound.com", "direct": true}]
+        }
+      }
+    },
+    {
+      "origin": "miami",
+      "destination": "orlando",
+      "type": "domestic_regional",
+      "distance": "320 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {"name": "American Airlines", "website": "https://www.aa.com", "direct": true},
+            {"name": "Southwest", "website": "https://www.southwest.com", "direct": true}
+          ]
+        },
+        "bus": {
+          "providers": [{"name": "Greyhound", "website": "https://www.greyhound.com", "direct": true}]
+        }
+      }
+    },
+    {
+      "origin": "toronto",
+      "destination": "montreal",
+      "type": "domestic_major",
+      "distance": "540 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {"name": "Air Canada", "website": "https://www.aircanada.com", "direct": true},
+            {"name": "WestJet", "website": "https://www.westjet.com", "direct": true}
+          ]
+        },
+        "train": {
+          "providers": [{"name": "VIA Rail", "website": "https://www.viarail.ca", "direct": true}]
+        },
+        "bus": {
+          "providers": [{"name": "Greyhound Canada", "website": "https://www.greyhound.ca", "direct": true}]
+        }
+      }
+    },
+    {
+      "origin": "mexico_city",
+      "destination": "cancun",
+      "type": "domestic_major",
+      "distance": "1300 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {"name": "Aeromexico", "website": "https://www.aeromexico.com", "direct": true},
+            {"name": "Volaris", "website": "https://www.volaris.com", "direct": true},
+            {"name": "Interjet", "website": "https://www.interjet.com", "direct": true}
+          ]
+        },
+        "bus": {
+          "providers": [{"name": "ADO", "website": "https://www.ado.com.mx", "direct": true}]
+        }
+      }
+    },
+    {
+      "origin": "sydney",
+      "destination": "gold_coast",
+      "type": "domestic_major",
+      "distance": "750 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {"name": "Qantas", "website": "https://www.qantas.com", "direct": true},
+            {"name": "Virgin Australia", "website": "https://www.virginaustralia.com", "direct": true},
+            {"name": "Jetstar", "website": "https://www.jetstar.com", "direct": true}
+          ]
+        },
+        "bus": {
+          "providers": [{"name": "Greyhound Australia", "website": "https://www.greyhound.com.au", "direct": true}]
+        }
+      }
+    },
+    {
+      "origin": "auckland",
+      "destination": "wellington",
+      "type": "domestic_major",
+      "distance": "650 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {"name": "Air New Zealand", "website": "https://www.airnewzealand.com", "direct": true},
+            {"name": "Jetstar", "website": "https://www.jetstar.com", "direct": true}
+          ]
+        },
+        "bus": {
+          "providers": [{"name": "InterCity", "website": "https://www.intercity.co.nz", "direct": true}]
+        }
+      }
+    },
+    {
+      "origin": "cairo",
+      "destination": "alexandria",
+      "type": "domestic_regional",
+      "distance": "225 km",
+      "providers": {
+        "train": {
+          "providers": [{"name": "Egyptian National Railways", "website": "https://www.enr.gov.eg", "direct": true}]
+        },
+        "bus": {
+          "providers": [{"name": "Go Bus", "website": "https://www.gobus-eg.com", "direct": true}]
+        }
+      }
+    },
+    {
+      "origin": "johannesburg",
+      "destination": "cape_town",
+      "type": "domestic_major",
+      "distance": "1400 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {"name": "South African Airways", "website": "https://www.flysaa.com", "direct": true},
+            {"name": "Kulula", "website": "https://www.kulula.com", "direct": true}
+          ]
+        },
+        "bus": {
+          "providers": [{"name": "Greyhound South Africa", "website": "https://www.greyhound.co.za", "direct": true}]
+        }
+      }
+    }
+  ]
+} 

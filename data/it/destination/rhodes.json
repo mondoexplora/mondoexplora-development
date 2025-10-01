@@ -1,0 +1,68 @@
+{
+  "city": "Rhodes",
+  "country": "Greece",
+  "country_code": "GR",
+  "hero_title": "Hotel a Rhodes",
+  "description": "Scopri i migliori hotel a Rhodes, Greece. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/2xh0vorua3i46gn59tx",
+  "hotels": [
+    {
+      "vendor_name": "Sheraton Rhodes Resort",
+      "offer_country_name": "Greece",
+      "location_heading": "Rhodes",
+      "title": "Greece Oceanfront Opulence: Rhodes Island Escape with Sea Views, Daily Breakfast & Nightly Dinner",
+      "description": "Embrace the rich heritage of Greek opulence with a stay at this luxurious five-star haven, nestled on a private beach along the sun-kissed shores of Ixia Bay. Admire sweeping vistas of the glistening Aegean Sea or the lush hillsides from every angle of this idyllic retreat. Take a refreshing plunge into one of the resort's shimmering pools, perfect your backhand on the immaculate tennis courts or indulge in a blissful couples massage at The Spa, all before refuelling at one of the delectable onsite restaurants.",
+      "location_subheading": "Greece",
+      "price": 769,
+      "original_price": 1538,
+      "discount_percentage": 50,
+      "link": "https://luxuryescapes.com/offer/006RF00000JlqkzYAB",
+      "hero_image": "https://images.luxuryescapes.com/2xh0vorua3i46gn59tx",
+      "image_two": "https://images.luxuryescapes.com/z2jugugm1cneo4rz1ldj",
+      "image_three": "https://images.luxuryescapes.com/y73apqmpy9ix2qsvas1",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 5,
+      "end_date_utc": "2025-07-31 13:59:00"
+    },
+    {
+      "vendor_name": "Caesars Gardens Hotel & Spa - Adults Only- Rhodes, Greece",
+      "offer_country_name": "Greece",
+      "location_heading": "Rhodes",
+      "title": "Boutique Greek Island Adults-Only Retreat with Outdoor Pool & Onsite Spa",
+      "description": "Seamlessly blending into Rhodes' natural landscape, this intimate, adults-only hotel is where Greek Island sophistication meets rustic charm. The crown jewel is the Magnolia Spa, featuring outdoor treatment pavillions amid ancient olive trees, while Tárate Restaurant serves traditional Greek cuisine using herbs and vegetables from the hotel's garden. Beyond the hotel's tranquil grounds, guests can explore Rhodes' immense southeastern coastline, with pristine beaches and hidden coves dotting the shoreline. Adventure seekers can discover ancient ruins perched dramatically on clifftops, while the nearby village of Lindos captivates with its maze of whitewashed alleyways, traditional tavernas and local craft boutiques.",
+      "location_subheading": "Greece",
+      "price": 270,
+      "original_price": 270,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000COVlJYAX",
+      "hero_image": "https://images.luxuryescapes.com/1dpcdjup9jz4ldm82jh",
+      "image_two": "https://images.luxuryescapes.com/z1lyhe4pxjztm66gr1lt",
+      "image_three": "https://images.luxuryescapes.com/26wur65sk5wqrq4cc",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Rhodes - Greece Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Rhodes, Greece con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "rhodes hotels",
+      "rhodes travel",
+      "greece hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/rhodes",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/rhodes",
+      "es": "https://mondoexplora.com/es/destination/rhodes",
+      "fr": "https://mondoexplora.com/fr/destination/rhodes",
+      "it": "https://mondoexplora.com/it/destination/rhodes"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 520,
+    "average_discount": 25
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Bern",
+  "country": "Switzerland",
+  "country_code": "CH",
+  "hero_title": "Hotel a Bern",
+  "description": "Scopri i migliori hotel a Bern, Switzerland. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/t4lviawequ61lc6d4bq",
+  "hotels": [
+    {
+      "vendor_name": "Grand Hotel Belvedere",
+      "offer_country_name": "Switzerland",
+      "location_heading": "Bern",
+      "title": "Swiss Alpine Chalet-Style Retreat near Bern with Onsite Dining, Spa & Swimming Pool",
+      "description": "Nestled in the car-free haven of Wengen, this hideaway offers an authentic Swiss alpine escape where tranquillity reigns supreme. Admire the majestic Jungfrau and the Bernese Alps, savour universal flavours and alpine-inspired shared plates at Restaurant Waldrand or enjoy a signature cocktail at Bergwald Bar. Indulge in the Japanese-inspired spa and float in mineral-rich waters before retreating to the serene relaxation room with a herbal tea in hand, gazing upon uninterrupted mountain vistas. Whether you're seeking winter skiing adventures or summer hiking excursions, this hotel is your basecamp in the pristine Bernese Highlands.",
+      "location_subheading": "Switzerland",
+      "price": 369,
+      "original_price": 369,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000HTZlNYAX",
+      "hero_image": "https://images.luxuryescapes.com/t4lviawequ61lc6d4bq",
+      "image_two": "https://images.luxuryescapes.com/5reks4kbsqo565lkgjua",
+      "image_three": "https://images.luxuryescapes.com/eg3u73oktsvil6nzgixn",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Bern - Switzerland Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Bern, Switzerland con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "bern hotels",
+      "bern travel",
+      "switzerland hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/bern",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/bern",
+      "es": "https://mondoexplora.com/es/destination/bern",
+      "fr": "https://mondoexplora.com/fr/destination/bern",
+      "it": "https://mondoexplora.com/it/destination/bern"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 369,
+    "average_discount": 0
+  }
+}

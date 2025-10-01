@@ -1,0 +1,50 @@
+{
+  "city": "Duck",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hoteles en Duck",
+  "description": "Descubre los mejores hoteles en Duck, United States. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/c60o31j5us25l3w64gf",
+  "hotels": [
+    {
+      "vendor_name": "Sanderling Resort",
+      "offer_country_name": "United States",
+      "location_heading": "Duck",
+      "title": "Coastal North Carolina Escape with Direct Beachfront Access & Three Pools",
+      "description": "Tucked between the endless blues of the Atlantic Ocean and the tranquil Currituck Sound lies Sanderling Resort, offering guests elegant and elevated hospitality on the rolling sands of the North Carolina coast. Make the most of direct beach access and be surrounded by mighty dunes as you enjoy the resort’s selection of world-class amenities, including three pools, three excellent restaurants and bars, an onsite spa and fitness centre, along with access to the Currituck Club golf course. With each room boasting a balcony, stylish decor and comfortable amenities, you’ll be perfectly placed to catch every single glorious North Carolina sunset while relaxing in style.",
+      "location_subheading": "United States",
+      "price": 233,
+      "original_price": 233,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000007pC2pAAE",
+      "hero_image": "https://images.luxuryescapes.com/c60o31j5us25l3w64gf",
+      "image_two": "https://images.luxuryescapes.com/3uewswhyfkniv2hqfv89",
+      "image_three": "https://images.luxuryescapes.com/zsmep5gpxal2idfd29ib",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Duck - Estados Unidos Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Duck, United States con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "duck hotels",
+      "duck travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/duck",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/duck",
+      "es": "https://mondoexplora.com/es/destination/duck",
+      "fr": "https://mondoexplora.com/fr/destination/duck",
+      "it": "https://mondoexplora.com/it/destination/duck"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 233,
+    "average_discount": 0
+  }
+}

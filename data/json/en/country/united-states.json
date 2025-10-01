@@ -1,0 +1,79 @@
+{
+  "name": "United States",
+  "code": "US",
+  "hero_title": "United States Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in United States.",
+  "hero_image": "https://images.luxuryescapes.com/47ka6ggi98wx0fjlsnrm",
+  "popular_destinations": [
+    {
+      "name": "New York",
+      "slug": "new-york",
+      "image": "https://images.luxuryescapes.com/47ka6ggi98wx0fjlsnrm",
+      "description": "Explore New York with luxury accommodations",
+      "hotel_count": 27,
+      "hotel_deals": 27,
+      "avg_price": 345
+    },
+    {
+      "name": "California",
+      "slug": "california",
+      "image": "https://images.luxuryescapes.com/spdn7gwrtcav7c41o0dj",
+      "description": "Explore California with luxury accommodations",
+      "hotel_count": 14,
+      "hotel_deals": 14,
+      "avg_price": 379
+    },
+    {
+      "name": "Los Angeles",
+      "slug": "los-angeles",
+      "image": "https://images.luxuryescapes.com/r9cqacp7ad4qjk3zf718",
+      "description": "Explore Los Angeles with luxury accommodations",
+      "hotel_count": 14,
+      "hotel_deals": 14,
+      "avg_price": 265
+    },
+    {
+      "name": "San Francisco",
+      "slug": "san-francisco",
+      "image": "https://images.luxuryescapes.com/ennft9rjpq0dypqyroph",
+      "description": "Explore San Francisco with luxury accommodations",
+      "hotel_count": 13,
+      "hotel_deals": 13,
+      "avg_price": 158
+    },
+    {
+      "name": "Chicago",
+      "slug": "chicago",
+      "image": "https://images.luxuryescapes.com/pfbgt5xq2qrsry9kuov",
+      "description": "Explore Chicago with luxury accommodations",
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 154
+    },
+    {
+      "name": "Boston",
+      "slug": "boston",
+      "image": "https://images.luxuryescapes.com/dqom1wf0pcc4gt4a7x3b",
+      "description": "Explore Boston with luxury accommodations",
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 398
+    }
+  ],
+  "seo": {
+    "title": "United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in United States with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "united states hotels",
+      "united states travel",
+      "united states luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/us",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/us",
+      "es": "https://mondoexplora.com/es/country/us",
+      "fr": "https://mondoexplora.com/fr/country/us",
+      "it": "https://mondoexplora.com/it/country/us"
+    }
+  }
+}

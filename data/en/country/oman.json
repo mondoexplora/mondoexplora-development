@@ -1,0 +1,79 @@
+{
+  "name": "Oman",
+  "code": "OM",
+  "hero_title": "Oman Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Oman.",
+  "hero_image": "https://images.luxuryescapes.com/bw9fwgfp792uvm9yhzkq",
+  "popular_destinations": [
+    {
+      "name": "Muscat",
+      "slug": "muscat",
+      "image": "https://images.luxuryescapes.com/bw9fwgfp792uvm9yhzkq",
+      "description": "Explore Muscat with luxury accommodations",
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 172
+    },
+    {
+      "name": "Bandar Jissah",
+      "slug": "bandar-jissah",
+      "image": "https://images.luxuryescapes.com/uk7w0bdj1a1d01r42lo9",
+      "description": "Explore Bandar Jissah with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 231
+    },
+    {
+      "name": "Dibba",
+      "slug": "dibba",
+      "image": "https://images.luxuryescapes.com/d3qhs63x3vrhcdmcj8",
+      "description": "Explore Dibba with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 877
+    },
+    {
+      "name": "Duqm",
+      "slug": "duqm",
+      "image": "https://images.luxuryescapes.com/3452llm8vdhhafaqqwl",
+      "description": "Explore Duqm with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 95
+    },
+    {
+      "name": "Nizwa",
+      "slug": "nizwa",
+      "image": "https://images.luxuryescapes.com/9xqq8s2mvixghzhmfpp",
+      "description": "Explore Nizwa with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 413
+    },
+    {
+      "name": "Salalah",
+      "slug": "salalah",
+      "image": "https://images.luxuryescapes.com/pdl1so0qmpm6etusra2f",
+      "description": "Explore Salalah with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 130
+    }
+  ],
+  "seo": {
+    "title": "Oman Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Oman with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "oman hotels",
+      "oman travel",
+      "oman luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/oman",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/oman",
+      "es": "https://mondoexplora.com/es/country/oman",
+      "fr": "https://mondoexplora.com/fr/country/oman",
+      "it": "https://mondoexplora.com/it/country/oman"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Waurn Ponds",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Waurn Ponds",
+  "description": "Discover the best hotels in Waurn Ponds, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/gue60flexc0smpy99o9q",
+  "hotels": [
+    {
+      "vendor_name": "Mt Duneed Estate",
+      "offer_country_name": "Australia",
+      "location_heading": "Waurn Ponds",
+      "title": "Victoria Surf Coast Winery Escape with Cellar Door & Restaurant",
+      "description": "Discover the beauty of Victoria's Surf Coast with a stay at Mt Duneed Estate, a boutique retreat among the vineyards. This elegant property offers a unique blend of coastal serenity and winery charm, with an onsite cellar door and restaurant. Indulge in locally sourced dishes paired with estate-grown wines at The Barrel Hall Restaurant, enjoy a drink in the sunshine at The Garden Bar or explore the nearby Great Ocean Road and its stunning beaches.",
+      "location_subheading": "Australia",
+      "price": 181,
+      "original_price": 181,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000GvMkVAAV",
+      "hero_image": "https://images.luxuryescapes.com/gue60flexc0smpy99o9q",
+      "image_two": "https://images.luxuryescapes.com/cteitrwwofmhvu389vcj",
+      "image_three": "https://images.luxuryescapes.com/bwykwcjqsmf7l1oi1717",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-03-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Waurn Ponds - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Waurn Ponds, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "waurn ponds hotels",
+      "waurn ponds travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/waurn-ponds",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/waurn-ponds",
+      "es": "https://mondoexplora.com/es/destination/waurn-ponds",
+      "fr": "https://mondoexplora.com/fr/destination/waurn-ponds",
+      "it": "https://mondoexplora.com/it/destination/waurn-ponds"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 181,
+    "average_discount": 0
+  }
+}

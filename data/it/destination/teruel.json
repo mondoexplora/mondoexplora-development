@@ -1,0 +1,50 @@
+{
+  "city": "Teruel",
+  "country": "Spain",
+  "country_code": "ES",
+  "hero_title": "Hotel a Teruel",
+  "description": "Scopri i migliori hotel a Teruel, Spain. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/z0a8xhasz56q085gva",
+  "hotels": [
+    {
+      "vendor_name": "Torre del Marqués",
+      "offer_country_name": "Spain",
+      "location_heading": "Teruel",
+      "title": "Five-Star Spanish Countryside Retreat",
+      "description": "Right in the heart of Spain's Monroyo countryside, surrounded by rolling hills dotted by vineyards and olive trees, lies the luxurious Torre del Marqués, part of the Small Luxury Hotels of the World collection. Promising guests a serene escape from the hustle and bustle of busy Spanish cities, Torre del Marqués in Teruel sits amid one of the country’s most untouched rural regions, two hours' drive east of Barcelona. Housed in a beautifully restored 18th-century tower, overlooking the verdant hills, the hotel offers a collection of just 18 minimalist rooms - making this a hidden retreat for those in the know, surrounded by nature. Contemporary, elegant and eco-conscious, the hotel boasts luxurious rooms and exquisite facilities, including a sauna and jacuzzi, and a light-filled restaurant offering Mediterranean fare crafted only with local, organic produce. When you can tear yourself away from the hotel's blissful swimming pool, the Spanish countryside is yours to explore: from olive oil tasting to horse riding, the possibilities are endless in beautiful Monroyo.",
+      "location_subheading": "Spain",
+      "price": 293,
+      "original_price": 293,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000003GMNNAA4",
+      "hero_image": "https://images.luxuryescapes.com/z0a8xhasz56q085gva",
+      "image_two": "https://images.luxuryescapes.com/1qbnd8tzw9l81emfwe1o",
+      "image_three": "https://images.luxuryescapes.com/rp2n0qetg3bkepy51pb",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Teruel - Spain Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Teruel, Spain con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "teruel hotels",
+      "teruel travel",
+      "spain hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/teruel",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/teruel",
+      "es": "https://mondoexplora.com/es/destination/teruel",
+      "fr": "https://mondoexplora.com/fr/destination/teruel",
+      "it": "https://mondoexplora.com/it/destination/teruel"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 293,
+    "average_discount": 0
+  }
+}

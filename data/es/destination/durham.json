@@ -1,0 +1,50 @@
+{
+  "city": "Durham",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hoteles en Durham",
+  "description": "Descubre los mejores hoteles en Durham, United Kingdom. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/nnb68ztz7tckeyo2i1u",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Indigo Durham",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Durham",
+      "title": "Durham Refined Northern England Stay with Charming Castle and Cathedral Views",
+      "description": "In the heart of this heritage city bursting with character, the Hotel Indigo Durham, an IHG Hotel, provides a refined stay behind the facade of a former university building. Awaken refreshed in a soothing room before invigorating your body at the fitness centre or heading out to sample local produce and explore picturesque city streets. As evening approaches, savour a delectable steak at Marco Pierre White Steakhouse Bar & Grill or a craft beer and tapas at the Rotunda Bar.",
+      "location_subheading": "United Kingdom",
+      "price": 96,
+      "original_price": 96,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CuiRiAAJ",
+      "hero_image": "https://images.luxuryescapes.com/nnb68ztz7tckeyo2i1u",
+      "image_two": "https://images.luxuryescapes.com/ry03b3udpsg8dsghqbqn",
+      "image_three": "https://images.luxuryescapes.com/3lsma8chjwon56dpxc98",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Durham - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Durham, United Kingdom con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "durham hotels",
+      "durham travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/durham",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/durham",
+      "es": "https://mondoexplora.com/es/destination/durham",
+      "fr": "https://mondoexplora.com/fr/destination/durham",
+      "it": "https://mondoexplora.com/it/destination/durham"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 96,
+    "average_discount": 0
+  }
+}

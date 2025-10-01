@@ -1,0 +1,50 @@
+{
+  "city": "Indianapolis",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hoteles en Indianapolis",
+  "description": "Descubre los mejores hoteles en Indianapolis, United States. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/p9pxg9o6xfrb4a5cu8q",
+  "hotels": [
+    {
+      "vendor_name": "Omni Severin Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Indianapolis",
+      "title": "Historic Downtown Indianapolis City Stay near Circle Centre Mall and Convention Center with Indoor Pool",
+      "description": "Fall in love with downtown Indianapolis with a stay at this historic hotel, strategically positioned just moments from bustling Circle Centre Mall, Indiana Convention Centre, Lucas Oil Stadium and Gainbridge Fieldhouse. Experience the heyday of the Wholesale District from this city sanctuary, designed in intricate Beaux-Arts style, with well-appointed rooms that offer equal parts old-world elegance and modern chic. Enjoy moments in Omni Severin Hotel's heated indoor pool or relish farm-to-table dining at the rustic 1913 Restaurant, featuring dishes inspired by the flavours of the early 20th century. Ready to explore? You'll be within easy reach of the city's vibrant art galleries and museums, and the nearby White River State Park's lush spaces, riverside trails and scenic canal walks await exploration.",
+      "location_subheading": "United States",
+      "price": 167,
+      "original_price": 167,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002HiIDIA0",
+      "hero_image": "https://images.luxuryescapes.com/p9pxg9o6xfrb4a5cu8q",
+      "image_two": "https://images.luxuryescapes.com/ma5xywth552469pt381o",
+      "image_three": "https://images.luxuryescapes.com/ncfut3nbyv6futhbru1t",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Indianapolis - Estados Unidos Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Indianapolis, United States con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "indianapolis hotels",
+      "indianapolis travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/indianapolis",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/indianapolis",
+      "es": "https://mondoexplora.com/es/destination/indianapolis",
+      "fr": "https://mondoexplora.com/fr/destination/indianapolis",
+      "it": "https://mondoexplora.com/it/destination/indianapolis"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 167,
+    "average_discount": 0
+  }
+}

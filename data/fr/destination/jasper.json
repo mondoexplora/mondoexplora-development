@@ -1,0 +1,50 @@
+{
+  "city": "Jasper",
+  "country": "Canada",
+  "country_code": "CA",
+  "hero_title": "Hôtels à Jasper",
+  "description": "Découvrez les meilleurs hôtels à Jasper, Canada. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/9rpswkju93b6i1s4ammq",
+  "hotels": [
+    {
+      "vendor_name": "Fairmont Jasper Park Lodge",
+      "offer_country_name": "Canada",
+      "location_heading": "Jasper",
+      "title": "Canada: Alpine Jasper National Park Escape Near Mount Robson with Five Restaurants & Onsite Spa",
+      "description": "Nestled on the shores of emerald-green Lac Beauvert, Fairmont Jasper Park Lodge is located in the heart of the Canadian Rockies, within Jasper National Park. This stunning resort features cosy cabin-style accommodations perfect for relaxing after a day of sun or snow adventure. The breathtaking natural backdrop will have you reaching for your camera at every turn. Treat yourself to world-class dining across five onsite restaurants, or wind down with a massage or personalised treatment at the soothing Fairmont Spa Jasper Park Lodge. Take a dip in the outdoor heated pool, or gather around a crackling fire pit under the star-filled sky. In the winter months, take a short walk to Mildred Lake, teeming with endless winter activities including four hockey rinks.",
+      "location_subheading": "Canada",
+      "price": 318,
+      "original_price": 318,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnPA1YAN",
+      "hero_image": "https://images.luxuryescapes.com/9rpswkju93b6i1s4ammq",
+      "image_two": "https://images.luxuryescapes.com/0kbkjhoxk9toxt6egxf",
+      "image_three": "https://images.luxuryescapes.com/8r9m200vwf5fmvfntnrc",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Jasper - Canada Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Jasper, Canada avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "jasper hotels",
+      "jasper travel",
+      "canada hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/jasper",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/jasper",
+      "es": "https://mondoexplora.com/es/destination/jasper",
+      "fr": "https://mondoexplora.com/fr/destination/jasper",
+      "it": "https://mondoexplora.com/it/destination/jasper"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 318,
+    "average_discount": 0
+  }
+}

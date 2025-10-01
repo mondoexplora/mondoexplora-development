@@ -1,0 +1,79 @@
+{
+  "name": "South Korea",
+  "code": "KR",
+  "hero_title": "South Korea Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in South Korea.",
+  "hero_image": "https://images.luxuryescapes.com/ulzylovbtguq1oikx",
+  "popular_destinations": [
+    {
+      "name": "Seoul",
+      "slug": "seoul",
+      "image": "https://images.luxuryescapes.com/ulzylovbtguq1oikx",
+      "description": "Explore Seoul with luxury accommodations",
+      "hotel_count": 11,
+      "hotel_deals": 11,
+      "avg_price": 183
+    },
+    {
+      "name": "Busan",
+      "slug": "busan",
+      "image": "https://images.luxuryescapes.com/1josvjc6h3t6on38wem",
+      "description": "Explore Busan with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 84
+    },
+    {
+      "name": "Incheon",
+      "slug": "incheon",
+      "image": "https://images.luxuryescapes.com/2k92v6vx6oo52top7gy7v",
+      "description": "Explore Incheon with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 75
+    },
+    {
+      "name": "Jeju",
+      "slug": "jeju",
+      "image": "https://images.luxuryescapes.com/6yxj9ykpkouarbv213yi",
+      "description": "Explore Jeju with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 159
+    },
+    {
+      "name": "Pyeongchang",
+      "slug": "pyeongchang",
+      "image": "https://images.luxuryescapes.com/npmejqgghskp0x4ux6qi",
+      "description": "Explore Pyeongchang with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 94
+    },
+    {
+      "name": "Suwon",
+      "slug": "suwon",
+      "image": "https://images.luxuryescapes.com/qddud8bshi7oqvuimtz",
+      "description": "Explore Suwon with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 98
+    }
+  ],
+  "seo": {
+    "title": "South Korea Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in South Korea with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "south korea hotels",
+      "south korea travel",
+      "south korea luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/south-korea",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/south-korea",
+      "es": "https://mondoexplora.com/es/country/south-korea",
+      "fr": "https://mondoexplora.com/fr/country/south-korea",
+      "it": "https://mondoexplora.com/it/country/south-korea"
+    }
+  }
+}

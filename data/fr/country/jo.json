@@ -1,0 +1,61 @@
+{
+  "name": "Jordan",
+  "code": "JO",
+  "hero_title": "Jordan Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Jordan.",
+  "hero_image": "https://images.luxuryescapes.com/psif2v1xmmyymaxgz63v",
+  "popular_destinations": [
+    {
+      "name": "Amman",
+      "slug": "amman",
+      "image": "https://images.luxuryescapes.com/psif2v1xmmyymaxgz63v",
+      "description": "Explore Amman with luxury accommodations"
+    },
+    {
+      "name": "Aqaba",
+      "slug": "aqaba",
+      "image": "https://images.luxuryescapes.com/eg0y0t6nw67fvkpajapj",
+      "description": "Explore Aqaba with luxury accommodations"
+    },
+    {
+      "name": "Dead Sea",
+      "slug": "dead-sea",
+      "image": "https://images.luxuryescapes.com/mkyznlqr7hhy9m8hlcvp",
+      "description": "Explore Dead Sea with luxury accommodations"
+    },
+    {
+      "name": "Petra",
+      "slug": "petra",
+      "image": "https://images.luxuryescapes.com/oucqhxejd6kir3hty13c",
+      "description": "Explore Petra with luxury accommodations"
+    },
+    {
+      "name": "Sweimeh",
+      "slug": "sweimeh",
+      "image": "https://images.luxuryescapes.com/buqaexjuhbq8u020no3a",
+      "description": "Explore Sweimeh with luxury accommodations"
+    },
+    {
+      "name": "Swemeh",
+      "slug": "swemeh",
+      "image": "https://images.luxuryescapes.com/wx5ydytx9zxb2e6dgql",
+      "description": "Explore Swemeh with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Jordan Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Jordan avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "jordan hotels",
+      "jordan travel",
+      "jordan luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/jo",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/jo",
+      "es": "https://mondoexplora.com/es/country/jo",
+      "fr": "https://mondoexplora.com/fr/country/jo",
+      "it": "https://mondoexplora.com/it/country/jo"
+    }
+  }
+}

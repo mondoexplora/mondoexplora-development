@@ -1,0 +1,50 @@
+{
+  "city": "Sohar",
+  "country": "Oman",
+  "country_code": "OM",
+  "hero_title": "Hoteles en Sohar",
+  "description": "Descubre los mejores hoteles en Sohar, Oman. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/4fkojjca7rjht8smlvue",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Sohar",
+      "offer_country_name": "Oman",
+      "location_heading": "Sohar",
+      "title": "Oman Sohar Seaside Escape Minutes from the Sea",
+      "description": "Only minutes from the sea, Crowne Plaza Sohar, an IHG Hotel, is your gateway to a vibrant seaside city escape. Rejuvenate yourself with a relaxing stroll through lush gardens, a refreshing dip in the pool or a sophisticated cocktail at the poolside bar. Get your heart racing as you revitalise your body and mind at the fitness centre or aim for a strike at the bowling alley. Savour traditional cuisine at the onsite restaurants before retiring to a stylish room.",
+      "location_subheading": "Oman",
+      "price": 78,
+      "original_price": 78,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJZYAA5",
+      "hero_image": "https://images.luxuryescapes.com/4fkojjca7rjht8smlvue",
+      "image_two": "https://images.luxuryescapes.com/2dy97352um492p5p3rp",
+      "image_three": "https://images.luxuryescapes.com/1c771nmu1hm9r2ehtcj",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Sohar - Oman Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Sohar, Oman con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "sohar hotels",
+      "sohar travel",
+      "oman hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/sohar",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/sohar",
+      "es": "https://mondoexplora.com/es/destination/sohar",
+      "fr": "https://mondoexplora.com/fr/destination/sohar",
+      "it": "https://mondoexplora.com/it/destination/sohar"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 78,
+    "average_discount": 0
+  }
+}

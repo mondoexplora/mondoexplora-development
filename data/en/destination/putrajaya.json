@@ -1,0 +1,50 @@
+{
+  "city": "Putrajaya",
+  "country": "Malaysia",
+  "country_code": "MY",
+  "hero_title": "Hotels in Putrajaya",
+  "description": "Discover the best hotels in Putrajaya, Malaysia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/301c3uqn5ewpph0n5cr",
+  "hotels": [
+    {
+      "vendor_name": "Mercure Living Putrajaya",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Putrajaya",
+      "title": "Central Putrajaya Apartment Escape with Shopping Mall Access, Restaurant & Pool",
+      "description": "Effortlessly blending modern luxury and unparalleled convenience, Mercure Living Putrajaya offers a home away from home in the vibrant city of Putrajaya. Nestled within the popular Shaftsbury Retail Complex, and seamlessly connected to Alamanda Shopping Mall, this chic escape places you at the centre of all the action, whether you're visiting for work or play. Choose between nights in - with dinner prepared in your apartment kitchen - or visit the onsite hot pot restaurant for an interactive dining experience. Refresh with a dip in the saltwater swimming pool, challenge your travel companions to a hit at the tennis court or indulge in a moment of bliss at the dreamy hotel spa, perfect for unwinding after a busy day.",
+      "location_subheading": "Malaysia",
+      "price": 49,
+      "original_price": 49,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnP4nYAF",
+      "hero_image": "https://images.luxuryescapes.com/301c3uqn5ewpph0n5cr",
+      "image_two": "https://images.luxuryescapes.com/qbo1napdim2wjclgs0r8",
+      "image_three": "https://images.luxuryescapes.com/zqrg52iy4be0vvqm2w07",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Putrajaya - Malaysia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Putrajaya, Malaysia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "putrajaya hotels",
+      "putrajaya travel",
+      "malaysia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/putrajaya",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/putrajaya",
+      "es": "https://mondoexplora.com/es/destination/putrajaya",
+      "fr": "https://mondoexplora.com/fr/destination/putrajaya",
+      "it": "https://mondoexplora.com/it/destination/putrajaya"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 49,
+    "average_discount": 0
+  }
+}

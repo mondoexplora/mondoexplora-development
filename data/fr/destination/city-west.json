@@ -1,0 +1,50 @@
+{
+  "city": "City West",
+  "country": "Germany",
+  "country_code": "DE",
+  "hero_title": "Hôtels à City West",
+  "description": "Découvrez les meilleurs hôtels à City West, Germany. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/3bn4iiwhv5eurkgu16lw",
+  "hotels": [
+    {
+      "vendor_name": "25hours Hotel Bikini Berlin",
+      "offer_country_name": "Germany",
+      "location_heading": "City West",
+      "title": "Forest-Inspired Berlin City Indulgence Opposite Tiergarten with Restaurant, Rooftop Bar & Jungle Sauna",
+      "description": "Perched atop Berlin’s iconic Bikini Haus, this design-forward hotel blends retro elegance with playful jungle motifs in West Berlin. Housed in a 1950s high-rise opposite Berlin Zoological Garden and Tiergarten, enjoy lush interiors with tropical greenery, neon-lit corridors and hammocks in the lobby. On the rooftop, NENI brings vibrant Mediterranean‑Persian fare in a glasshouse setting, and the 10th-floor Monkey Bar spins cocktails across a wraparound terrace with jungle-lit views. Soak in the jungle sauna overlooking the zoo, borrow a city bike, then wander over to the Bikini Berlin Mall or the famous Kurfürstendamm for some retail therapy.",
+      "location_subheading": "Germany",
+      "price": 118,
+      "original_price": 118,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000JjtiCYAR",
+      "hero_image": "https://images.luxuryescapes.com/3bn4iiwhv5eurkgu16lw",
+      "image_two": "https://images.luxuryescapes.com/25jrlj01ha8m5fygo48",
+      "image_three": "https://images.luxuryescapes.com/agi8viwem9x1ctal7njs",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à City West - Germany Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à City West, Germany avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "city west hotels",
+      "city west travel",
+      "germany hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/city-west",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/city-west",
+      "es": "https://mondoexplora.com/es/destination/city-west",
+      "fr": "https://mondoexplora.com/fr/destination/city-west",
+      "it": "https://mondoexplora.com/it/destination/city-west"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 118,
+    "average_discount": 0
+  }
+}

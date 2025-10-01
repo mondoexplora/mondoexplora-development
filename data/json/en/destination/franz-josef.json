@@ -1,0 +1,50 @@
+{
+  "city": "Franz Josef",
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "hero_title": "Hotels in Franz Josef",
+  "description": "Discover the best hotels in Franz Josef, New Zealand. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/bdx98soz1ajpd6rypvk",
+  "hotels": [
+    {
+      "vendor_name": "Rainforest Retreat",
+      "offer_country_name": "New Zealand",
+      "location_heading": "Franz Josef",
+      "title": "Franz Josef Glacier Treehouse Stay with Daily NZ$50 Dining Credit & Helicopter Tour Upgrades Available",
+      "description": "Experience a serene stay among the rainforest-clad foothills of New Zealand’s Southern Alps at this retreat nestled in the alpine town of Franz Josef. A stay in one of Rainforest Retreat’s self-contained havens is the perfect way to enjoy this slice of secluded paradise. Embrace nature suspended above the lush rainforest canopy and breathe fresh alpine air from your expansive deck area. When adventure calls, take to the water and embark on a kayaking adventure on Ōkārito Lagoon, marvel at Lake Mapourika's shimmering surface or discover the awe-inspiring Franz Josef Glacier or Fox Glacier on a helicopter tour. After a day of exploring, unwind at Monsoon Restaurant & Bar, the retreat’s lively hub, where hearty local fare, crackling fires and a well-stocked bar invite you to relax.",
+      "location_subheading": "New Zealand",
+      "price": 279,
+      "original_price": 558,
+      "discount_percentage": 50,
+      "link": "https://luxuryescapes.com/offer/006RF00000INYl1YAH",
+      "hero_image": "https://images.luxuryescapes.com/bdx98soz1ajpd6rypvk",
+      "image_two": "https://images.luxuryescapes.com/bu3z7ke99wznyl0ws3m8",
+      "image_three": "https://images.luxuryescapes.com/fkwyoqnbgoikn0voj1ja",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2025-10-21 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Franz Josef - New Zealand Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Franz Josef, New Zealand with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "franz josef hotels",
+      "franz josef travel",
+      "new zealand hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/franz-josef",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/franz-josef",
+      "es": "https://mondoexplora.com/es/destination/franz-josef",
+      "fr": "https://mondoexplora.com/fr/destination/franz-josef",
+      "it": "https://mondoexplora.com/it/destination/franz-josef"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 279,
+    "average_discount": 50
+  }
+}

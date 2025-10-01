@@ -1,0 +1,104 @@
+{
+  "city": "Sapporo",
+  "country": "Japan",
+  "country_code": "JP",
+  "hero_title": "Hoteles en Sapporo",
+  "description": "Descubre los mejores hoteles en Sapporo, Japan. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/3zd37ho9gfmovow02f1r",
+  "hotels": [
+    {
+      "vendor_name": "Mercure Sapporo",
+      "offer_country_name": "Japan",
+      "location_heading": "Sapporo",
+      "title": "Centrally-Located Sapporo Retreat in Susukino District with French Restaurant & Bar",
+      "description": "Prepare to be swept away by the charms of Hokkaido's capital city with a stylish retreat in the heart of the entertainment district, Susukino. Modern accents, chic designs and plush interiors define this urban hotel's aesthetics. Take advantage of your central location and explore renowned attractions, including the Sapporo Clock Tower and the iconic Beer Museum. Back at your hotel, delight in French delicacies at Bordeaux and sip on a range of wine and cocktails at Le Cepage. For a taste of Japanese fare, head to the colourful Nijo Market where you can sample the freshest seafood and slurp down hearty bowls of miso ramen. For ski enthusiasts, the world-class slopes of Teine are a 40-minute drive away.",
+      "location_subheading": "Japan",
+      "price": 61,
+      "original_price": 61,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnP1eYAF",
+      "hero_image": "https://images.luxuryescapes.com/3zd37ho9gfmovow02f1r",
+      "image_two": "https://images.luxuryescapes.com/328276ixhg9eicb1tvt4",
+      "image_three": "https://images.luxuryescapes.com/ku0pljjsljt91w7vwntw",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Grand Mercure Sapporo",
+      "offer_country_name": "Japan",
+      "location_heading": "Sapporo",
+      "title": "Sapporo Hotel Overlooking Odori Park with Onsite Restaurant",
+      "description": "Experience the magic of Hokkaido's charming capital with a stay at this contemporary hotel. Overlooking the famous Odori Park, this modern haven offers sleek rooms with sweeping city views and a hint of Japanese elegance. Perfectly situated for exploration, you're steps away from Sapporo's best shopping, dining and cultural attractions, plus the city’s seasonal highlights, from summer festivals to the magical winter snow festival. After a day of discovery, unwind with authentic Hokkaido flavors at the in-house restaurant, or simply relax in the comfort of your refined, restful room.",
+      "location_subheading": "Japan",
+      "price": 61,
+      "original_price": 61,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnP1uYAF",
+      "hero_image": "https://images.luxuryescapes.com/aixbddefsiqtb7b2rl2",
+      "image_two": "https://images.luxuryescapes.com/bbkyq2yme8sm4dch8l1p",
+      "image_three": "https://images.luxuryescapes.com/emlwf1bamumvwrgp655b",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Hotel Sosei Sapporo - MGallery Collection",
+      "offer_country_name": "Japan",
+      "location_heading": "Sapporo",
+      "title": "Central Hokkaido Retreat in Landmark Sapporo Factory with Onsite Restaurant",
+      "description": "Tucked away in thriving Sapporo, this inviting sanctuary strikes the perfect balance between Japanese minimalism and creature comforts. Modern rooms feature clean lines and thoughtful touches that don't go unnoticed, while the staff's warm hospitality will make you feel right at home faster than snow falls in a Hokkaido winter. Just a stone's throw from Sapporo Station, you couldn't ask for a better launchpad. Fuel up with a hearty breakfast before hitting nearby Odori Park or diving into the ramen paradise at Susukino. After a day of adventure, kick back in the intimate bar lounge and exchange travel tales over steaming cups of local tea.",
+      "location_subheading": "Japan",
+      "price": 145,
+      "original_price": 145,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnP1kYAF",
+      "hero_image": "https://images.luxuryescapes.com/y0v9ejr9027u3y1gz0n7",
+      "image_two": "https://images.luxuryescapes.com/hhykgee3j1vbcw7xpl",
+      "image_three": "https://images.luxuryescapes.com/neutq4un6ejf8zlxdxgu",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "ANA Crowne Plaza Sapporo",
+      "offer_country_name": "Japan",
+      "location_heading": "Sapporo",
+      "title": "Cosmopolitan Central Sapporo Luxury with Four Japanese Restaurants",
+      "description": "Sapporo is a firecracker city with a vibrant food scene, buzzing nightlife and endless shopping, all waiting to be experienced with a stay at ANA Crowne Plaza Sapporo, an IHG Hotel. Four onsite restaurants offer a smorgasbord of culinary delights: there's authentic sushi, seafood delicacies matched with sake, and sizzling teppanyaki. Satisfy your sweet tooth at Café Minamo with fresh pastries, or order a cocktail at Sky Lounge Sapporo View.",
+      "location_subheading": "Japan",
+      "price": 72,
+      "original_price": 72,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CPubcAAD",
+      "hero_image": "https://images.luxuryescapes.com/bo6udncydom5cvvsjnhq",
+      "image_two": "https://images.luxuryescapes.com/v5gtowk1p63exh6g4o",
+      "image_three": "https://images.luxuryescapes.com/s9co46g8aeorhl3ihhjq",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Sapporo - Japan Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Sapporo, Japan con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "sapporo hotels",
+      "sapporo travel",
+      "japan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/sapporo",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/sapporo",
+      "es": "https://mondoexplora.com/es/destination/sapporo",
+      "fr": "https://mondoexplora.com/fr/destination/sapporo",
+      "it": "https://mondoexplora.com/it/destination/sapporo"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 4,
+    "average_price": 85,
+    "average_discount": 0
+  }
+}

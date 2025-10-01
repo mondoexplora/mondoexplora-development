@@ -1,0 +1,50 @@
+{
+  "city": "Salzburg",
+  "country": "Austria",
+  "country_code": "AT",
+  "hero_title": "Hotel a Salzburg",
+  "description": "Scopri i migliori hotel a Salzburg, Austria. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/29vn3ior68dvy0je4it9",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Stein",
+      "offer_country_name": "Austria",
+      "location_heading": "Salzburg",
+      "title": "Salzburg Adults-Only Heritage Luxury with Rooftop Terrace",
+      "description": "Enjoy a sophisticated escape staying at the adults-only Hotel Stein, in the historic centre of Salzburg in the Austrian Alps. This iconic hotel has a history dating to the Middle Ages, and today offers contemporary luxury on the banks of the Salzach River. Head up to the rooftop for breakfast or a cocktail with spellbinding views of the city, before exploring the sights just minutes from your door: explore Mozart's birthplace and residence, walk through the UNESCO World Heritage-listed Old Town and see Mirabell Palace.",
+      "location_subheading": "Austria",
+      "price": 143,
+      "original_price": 143,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000007ob8XAAQ",
+      "hero_image": "https://images.luxuryescapes.com/29vn3ior68dvy0je4it9",
+      "image_two": "https://images.luxuryescapes.com/rah0l515z844kajyk75d",
+      "image_three": "https://images.luxuryescapes.com/rtwo3aojqb92tfhud0iu",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Salzburg - Austria Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Salzburg, Austria con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "salzburg hotels",
+      "salzburg travel",
+      "austria hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/salzburg",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/salzburg",
+      "es": "https://mondoexplora.com/es/destination/salzburg",
+      "fr": "https://mondoexplora.com/fr/destination/salzburg",
+      "it": "https://mondoexplora.com/it/destination/salzburg"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 143,
+    "average_discount": 0
+  }
+}

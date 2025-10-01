@@ -1,0 +1,31 @@
+{
+  "name": "Myanmar",
+  "code": "MM",
+  "hero_title": "Myanmar Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Myanmar.",
+  "hero_image": "https://images.luxuryescapes.com/adwj20mpgl98ks8eqw3",
+  "popular_destinations": [
+    {
+      "name": "Yangon",
+      "slug": "yangon",
+      "image": "https://images.luxuryescapes.com/adwj20mpgl98ks8eqw3",
+      "description": "Explore Yangon with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Myanmar Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Myanmar con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "myanmar hotels",
+      "myanmar travel",
+      "myanmar luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/mm",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/mm",
+      "es": "https://mondoexplora.com/es/country/mm",
+      "fr": "https://mondoexplora.com/fr/country/mm",
+      "it": "https://mondoexplora.com/it/country/mm"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Beechworth",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Beechworth",
+  "description": "Discover the best hotels in Beechworth, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/onnfus38yqywtnrh8mc",
+  "hotels": [
+    {
+      "vendor_name": "The Benev",
+      "offer_country_name": "Australia",
+      "location_heading": "Beechworth",
+      "title": "Beechworth Adults-Only Wellness Sanctuary with A$100 Spa Credit",
+      "description": "Discover a tranquil all-suite sanctuary in leafy Beechworth, where nature sets the pace. Each suite is a restful retreat, featuring deep-soaking bathtubs, crackling fireplaces and serene interiors designed to calm and restore. Start your day with one nourishing in-room breakfast, filled with locally sourced produce, before easing into moments of stillness: unwind with a rejuvenating treatment at Benev Spa using your generous spa credit, or create a personalised bath ritual in the privacy of your suite. Meander along bush trails or cycle historic paths rich with local stories. Just a 10-minute walk from Beechworth’s gold rush-era heart, discover artisan bakeries and boutique stores. Follow the High Country Brewery Trail through King Valley to Bright, or take a scenic drive to nearby vineyards and cellar doors. This is a journey into stillness, wonder and rich local character, set within the quiet magic of the Australian bushland.",
+      "location_subheading": "Australia",
+      "price": 329,
+      "original_price": 567,
+      "discount_percentage": 42,
+      "link": "https://luxuryescapes.com/offer/006RF00000JDjVpYAL",
+      "hero_image": "https://images.luxuryescapes.com/onnfus38yqywtnrh8mc",
+      "image_two": "https://images.luxuryescapes.com/ffnyvp1vf4qw7qdapi8",
+      "image_three": "https://images.luxuryescapes.com/jjkj0rj9r5y9rz4ygvqw",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2025-08-07 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Beechworth - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Beechworth, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "beechworth hotels",
+      "beechworth travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/beechworth",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/beechworth",
+      "es": "https://mondoexplora.com/es/destination/beechworth",
+      "fr": "https://mondoexplora.com/fr/destination/beechworth",
+      "it": "https://mondoexplora.com/it/destination/beechworth"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 329,
+    "average_discount": 42
+  }
+}

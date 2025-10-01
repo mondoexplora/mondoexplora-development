@@ -1,0 +1,50 @@
+{
+  "city": "Bremen",
+  "country": "Germany",
+  "country_code": "DE",
+  "hero_title": "Hoteles en Bremen",
+  "description": "Descubre los mejores hoteles en Bremen, Germany. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/lh3tqpxo1ah58qxmml5",
+  "hotels": [
+    {
+      "vendor_name": "Aparthotel Adagio Bremen",
+      "offer_country_name": "Germany",
+      "location_heading": "Bremen",
+      "title": "Modern Bremen City Stay near Historic Old Town & Central Train Station with Lobby Bar",
+      "description": "Discover effortless city living at Aparthotel Adagio Bremen, your home away from home in the heart of northern Germany. Retreat to a modern, fully-equipped studio or apartment, complete with a fully equipped kitchen - perfect for whipping up your favourite meals after a day of exploration. Discover insider tips and local favourites from the 24-reception staff and return in the evening to enjoy a glass of local beer in the cosy lobby bar. Just a short 10-minute walk from the hotel lies Bremen's historic Market Square and UNESCO World Heritage-listed Town Hall, where you can soak up the city's medieval charm. The buzzing Schnoor Quarter, with its narrow lanes and quirky shops, is also just a few minutes away, while excellent tram connections put the rest of Bremen at your fingertips.",
+      "location_subheading": "Germany",
+      "price": 71,
+      "original_price": 71,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnP9dYAF",
+      "hero_image": "https://images.luxuryescapes.com/lh3tqpxo1ah58qxmml5",
+      "image_two": "https://images.luxuryescapes.com/1o4v21r7l3j1rvj127al",
+      "image_three": "https://images.luxuryescapes.com/afb4xxdbrnttinty9xbm",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Bremen - Germany Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Bremen, Germany con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "bremen hotels",
+      "bremen travel",
+      "germany hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/bremen",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/bremen",
+      "es": "https://mondoexplora.com/es/destination/bremen",
+      "fr": "https://mondoexplora.com/fr/destination/bremen",
+      "it": "https://mondoexplora.com/it/destination/bremen"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 71,
+    "average_discount": 0
+  }
+}

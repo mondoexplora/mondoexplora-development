@@ -1,0 +1,68 @@
+{
+  "city": "Miami Beach",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Miami Beach",
+  "description": "Discover the best hotels in Miami Beach, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/0e9hkhrbeca8vi562n",
+  "hotels": [
+    {
+      "vendor_name": "Kimpton Surfcomber Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Miami Beach",
+      "title": "Oceanfront South Beach Miami Stay with Onsite Spa",
+      "description": "Experience the best of Miami from your beachfront oasis at Kimpton Surfcomber Hotel, a fun-filled stay dripping with Art Deco charisma just steps from the Atlantic Ocean. Enjoy rejuvenating spa treatments at your fingertips, or indulge in private pool cabanas and curated DAYLIFE activities. Dine under the stars at High Tide Beach Bar and Grill, and sip craft cocktails at The Social Club while lapping up the South Beach sun.",
+      "location_subheading": "United States",
+      "price": 191,
+      "original_price": 191,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EdKFQAA3",
+      "hero_image": "https://images.luxuryescapes.com/0e9hkhrbeca8vi562n",
+      "image_two": "https://images.luxuryescapes.com/e5e411afpefyzqyqa4af",
+      "image_three": "https://images.luxuryescapes.com/2dvw0bywqibynmba59j6",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Sonesta Nautilus Miami",
+      "offer_country_name": "United States",
+      "location_heading": "Miami Beach",
+      "title": "Oceanfront Miami Beach Art Deco Escape with Restaurants, Pool & Day Spa",
+      "description": "Discover a laidback haven of coastal style nestled in the heart of Miami with a stay at the Nautilus Sonesta Miami Beach. This Art Deco gem, steps from the bustling Collins Avenue, offers unparalleled access to Miami's most coveted attractions. Indulge in delicious dining at the hotel’s own Nautilus Cabana Club, explore the eclectic boutiques of Lincoln Road, or simply bask in the sun along the stunning beach. As the sun sets, unwind with a cocktail by the pool.",
+      "location_subheading": "United States",
+      "price": 219,
+      "original_price": 219,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000FnuPLAAZ",
+      "hero_image": "https://images.luxuryescapes.com/ram4k60b6j0cogczigr",
+      "image_two": "https://images.luxuryescapes.com/oxvoc5ctz2h59hwxxb",
+      "image_three": "https://images.luxuryescapes.com/insh58gv7r9nkatimve",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Miami Beach - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Miami Beach, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "miami beach hotels",
+      "miami beach travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/miami-beach",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/miami-beach",
+      "es": "https://mondoexplora.com/es/destination/miami-beach",
+      "fr": "https://mondoexplora.com/fr/destination/miami-beach",
+      "it": "https://mondoexplora.com/it/destination/miami-beach"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 205,
+    "average_discount": 0
+  }
+}

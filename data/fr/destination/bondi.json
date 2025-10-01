@@ -1,0 +1,50 @@
+{
+  "city": "Bondi",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hôtels à Bondi",
+  "description": "Découvrez les meilleurs hôtels à Bondi, Australia. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/pf7we22tn1r1rfr244b",
+  "hotels": [
+    {
+      "vendor_name": "QT Bondi",
+      "offer_country_name": "Australia",
+      "location_heading": "Bondi",
+      "title": "Stylish QT Beachside Retreat in the Heart of Bondi",
+      "description": "Hang 10 with an escape to super-stylish QT Bondi in Sydney’s iconic Bondi Beach, nestled between buzzing streets, bright sands and balmy Pacific Ocean waves. Live like a local and enjoy everything the world-famous surf spot has to offer from the ultimate launchpad, with complimentary bike and surfboard hire included in every stay. With Sydney’s vibrant CBD only a 30-minute drive away, this seaside sanctuary is enviably close to countless city adventures - explore the Opera House, enjoy a tipple in The Rocks' heritage pubs, admire Sydney Harbour Bridge and much more. When you'd rather stay in and relax, the hotel's extensive room service menu and art-filled interiors make it easy to savour every moment.",
+      "location_subheading": "Australia",
+      "price": 118,
+      "original_price": 118,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000004v0qAAAQ",
+      "hero_image": "https://images.luxuryescapes.com/pf7we22tn1r1rfr244b",
+      "image_two": "https://images.luxuryescapes.com/8cd6uzw71qcdpa2twtm3r",
+      "image_three": "https://images.luxuryescapes.com/hd3v59nklgyqdwm833p",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Bondi - Australie Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Bondi, Australia avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "bondi hotels",
+      "bondi travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/bondi",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/bondi",
+      "es": "https://mondoexplora.com/es/destination/bondi",
+      "fr": "https://mondoexplora.com/fr/destination/bondi",
+      "it": "https://mondoexplora.com/it/destination/bondi"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 118,
+    "average_discount": 0
+  }
+}

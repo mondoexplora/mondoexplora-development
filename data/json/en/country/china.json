@@ -1,0 +1,79 @@
+{
+  "name": "China",
+  "code": "CN",
+  "hero_title": "China Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in China.",
+  "hero_image": "https://images.luxuryescapes.com/op0yp2fa7gv2lhx4g4k",
+  "popular_destinations": [
+    {
+      "name": "Beijing",
+      "slug": "beijing",
+      "image": "https://images.luxuryescapes.com/op0yp2fa7gv2lhx4g4k",
+      "description": "Explore Beijing with luxury accommodations",
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 293
+    },
+    {
+      "name": "Shenzhen",
+      "slug": "shenzhen",
+      "image": "https://images.luxuryescapes.com/o2j06shasya2znt6cw",
+      "description": "Explore Shenzhen with luxury accommodations",
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 251
+    },
+    {
+      "name": "Shanghai",
+      "slug": "shanghai",
+      "image": "https://images.luxuryescapes.com/d8g2jo833gt3c2dcwpw",
+      "description": "Explore Shanghai with luxury accommodations",
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 233
+    },
+    {
+      "name": "Chengdu",
+      "slug": "chengdu",
+      "image": "https://images.luxuryescapes.com/3aja1g3t7aa3q9z84sn",
+      "description": "Explore Chengdu with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 68
+    },
+    {
+      "name": "Xiamen",
+      "slug": "xiamen",
+      "image": "https://images.luxuryescapes.com/n70t1ho958lj8an2yzsr",
+      "description": "Explore Xiamen with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 94
+    },
+    {
+      "name": "Guiyang",
+      "slug": "guiyang",
+      "image": "https://images.luxuryescapes.com/f07hc0t4kykqfy8c1nt",
+      "description": "Explore Guiyang with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 78
+    }
+  ],
+  "seo": {
+    "title": "China Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in China with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "china hotels",
+      "china travel",
+      "china luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/cn",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/cn",
+      "es": "https://mondoexplora.com/es/country/cn",
+      "fr": "https://mondoexplora.com/fr/country/cn",
+      "it": "https://mondoexplora.com/it/country/cn"
+    }
+  }
+}

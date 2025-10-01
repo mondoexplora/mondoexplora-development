@@ -1,0 +1,50 @@
+{
+  "city": "Chennai",
+  "country": "India",
+  "country_code": "IN",
+  "hero_title": "Hôtels à Chennai",
+  "description": "Découvrez les meilleurs hôtels à Chennai, India. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/avo0b5jwtemmci253n2",
+  "hotels": [
+    {
+      "vendor_name": "Holiday Inn Chennai Omr It Expressway",
+      "offer_country_name": "India",
+      "location_heading": "Chennai",
+      "title": "Chennai City Stay Minutes from Thiruvanmiyur Beach",
+      "description": "Only minutes from the sea, Holiday Inn Chennai OMR IT Expressway, an IHG Hotel, is a soothing oasis with easy access to the Tamil Nadu capital's hottest destinations. Amble alongside the seashore of Thiruvanmiyur Beach or stay in to take advantage of the outdoor pool. Savour global cuisines at the onsite restaurant, indulge in a day of adventure at the VGP Universal Kingdom theme park or take a walk on the wild side with a safari at Arignar Anna Zoological Park.",
+      "location_subheading": "India",
+      "price": 69,
+      "original_price": 69,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DI6EeAAL",
+      "hero_image": "https://images.luxuryescapes.com/avo0b5jwtemmci253n2",
+      "image_two": "https://images.luxuryescapes.com/9effqftrf478y30h9v8",
+      "image_three": "https://images.luxuryescapes.com/3m5nz1wfv9wxyx0cnhea",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Chennai - India Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Chennai, India avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "chennai hotels",
+      "chennai travel",
+      "india hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/chennai",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/chennai",
+      "es": "https://mondoexplora.com/es/destination/chennai",
+      "fr": "https://mondoexplora.com/fr/destination/chennai",
+      "it": "https://mondoexplora.com/it/destination/chennai"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 69,
+    "average_discount": 0
+  }
+}

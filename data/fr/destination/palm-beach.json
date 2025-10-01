@@ -1,0 +1,50 @@
+{
+  "city": "Palm Beach",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hôtels à Palm Beach",
+  "description": "Découvrez les meilleurs hôtels à Palm Beach, Australia. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/lnwr4pll5nzvrri85uj",
+  "hotels": [
+    {
+      "vendor_name": "Barrenjoey House Palm Beach",
+      "offer_country_name": "Australia",
+      "location_heading": "Palm Beach",
+      "title": "Boutique Coastal Escape in Sydney's Affluent Palm Beach",
+      "description": "Explore the sun-kissed, famous, blue waters of Sydney’s Northern Beaches with a stay at the boutique, iconic Barrenjoey House Palm Beach. This oasis boasts a relaxed coastal atmosphere and accompanies the Barrenjoey House restaurant and terrace, which showcases modern Australian flavours, fresh seafood and refreshing cocktails. After a day at the beach, you'll be thrilled to return to this idyllic accommodation and put your feet up in the shared lounge.",
+      "location_subheading": "Australia",
+      "price": 176,
+      "original_price": 176,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQkUPAA1",
+      "hero_image": "https://images.luxuryescapes.com/lnwr4pll5nzvrri85uj",
+      "image_two": "https://images.luxuryescapes.com/3aq7g5atl0qj2ah11gpn",
+      "image_three": "https://images.luxuryescapes.com/u5b5x5qfp9uvhq2qj5rd",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Palm Beach - Australie Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Palm Beach, Australia avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "palm beach hotels",
+      "palm beach travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/palm-beach",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/palm-beach",
+      "es": "https://mondoexplora.com/es/destination/palm-beach",
+      "fr": "https://mondoexplora.com/fr/destination/palm-beach",
+      "it": "https://mondoexplora.com/it/destination/palm-beach"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 176,
+    "average_discount": 0
+  }
+}

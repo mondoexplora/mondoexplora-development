@@ -1,0 +1,79 @@
+{
+  "name": "Australia",
+  "code": "AU",
+  "hero_title": "Australia Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Australia.",
+  "hero_image": "https://images.luxuryescapes.com/km6luiy8i7qmckwdshqj",
+  "popular_destinations": [
+    {
+      "name": "Sydney",
+      "slug": "sydney",
+      "image": "https://images.luxuryescapes.com/km6luiy8i7qmckwdshqj",
+      "description": "Explore Sydney with luxury accommodations",
+      "hotel_count": 66,
+      "hotel_deals": 66,
+      "avg_price": 145
+    },
+    {
+      "name": "Melbourne",
+      "slug": "melbourne",
+      "image": "https://images.luxuryescapes.com/umflfqtselka0jarjejg",
+      "description": "Explore Melbourne with luxury accommodations",
+      "hotel_count": 64,
+      "hotel_deals": 64,
+      "avg_price": 208
+    },
+    {
+      "name": "Brisbane",
+      "slug": "brisbane",
+      "image": "https://images.luxuryescapes.com/bke655prx8tpmsvjk29",
+      "description": "Explore Brisbane with luxury accommodations",
+      "hotel_count": 36,
+      "hotel_deals": 36,
+      "avg_price": 132
+    },
+    {
+      "name": "Adelaide",
+      "slug": "adelaide",
+      "image": "https://images.luxuryescapes.com/lo1509bzq4qd4ks8duvd",
+      "description": "Explore Adelaide with luxury accommodations",
+      "hotel_count": 28,
+      "hotel_deals": 28,
+      "avg_price": 96
+    },
+    {
+      "name": "Canberra",
+      "slug": "canberra",
+      "image": "https://images.luxuryescapes.com/gr3wudfdcszz5knz9g6p",
+      "description": "Explore Canberra with luxury accommodations",
+      "hotel_count": 20,
+      "hotel_deals": 20,
+      "avg_price": 143
+    },
+    {
+      "name": "Perth",
+      "slug": "perth",
+      "image": "https://images.luxuryescapes.com/a4rnsl624lhg3pjtmrdv",
+      "description": "Explore Perth with luxury accommodations",
+      "hotel_count": 20,
+      "hotel_deals": 20,
+      "avg_price": 145
+    }
+  ],
+  "seo": {
+    "title": "Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Australia with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "australia hotels",
+      "australia travel",
+      "australia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/au",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/au",
+      "es": "https://mondoexplora.com/es/country/au",
+      "fr": "https://mondoexplora.com/fr/country/au",
+      "it": "https://mondoexplora.com/it/country/au"
+    }
+  }
+}

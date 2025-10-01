@@ -1,0 +1,50 @@
+{
+  "city": "Tullamarine",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotel a Tullamarine",
+  "description": "Scopri i migliori hotel a Tullamarine, Australia. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/lxom4phdwqwecn1dzoft",
+  "hotels": [
+    {
+      "vendor_name": "PARKROYAL Melbourne Airport",
+      "offer_country_name": "Australia",
+      "location_heading": "Tullamarine",
+      "title": "Stylish Melbourne Airport Stay Just 20 Minutes from CBD",
+      "description": "Directly adjacent to Melbourne’s largest international travel hub - and just a 20-minute drive from the city’s iconic lattes and laneways - PARKROYAL Melbourne Airport offers guests the fastest way to touchdown from carousel to coffee and beyond. After days exploring the central business district or the nearby Sunbury wine region, return to classic pub fare and runway views at Bar Airo or savour the perfect mid-trip dip in the hotel’s shimmering indoor pool.",
+      "location_subheading": "Australia",
+      "price": 145,
+      "original_price": 145,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Cvl3lAAB",
+      "hero_image": "https://images.luxuryescapes.com/lxom4phdwqwecn1dzoft",
+      "image_two": "https://images.luxuryescapes.com/tj6g9l4z09r4mwxktc3p",
+      "image_three": "https://images.luxuryescapes.com/9zoew2kgwrhnymb8v7m6",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Tullamarine - Australia Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Tullamarine, Australia con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "tullamarine hotels",
+      "tullamarine travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/tullamarine",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/tullamarine",
+      "es": "https://mondoexplora.com/es/destination/tullamarine",
+      "fr": "https://mondoexplora.com/fr/destination/tullamarine",
+      "it": "https://mondoexplora.com/it/destination/tullamarine"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 145,
+    "average_discount": 0
+  }
+}

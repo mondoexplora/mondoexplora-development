@@ -1,0 +1,68 @@
+{
+  "city": "Cardiff",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hoteles en Cardiff",
+  "description": "Descubre los mejores hoteles en Cardiff, United Kingdom. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/phq5zas4r9cyqo2gjk2",
+  "hotels": [
+    {
+      "vendor_name": "voco St. David's Cardiff",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Cardiff",
+      "title": "Cardiff Five-Star Waterfront Retreat with Luxury Award-Winning Spa",
+      "description": "Marvel at the eclectic building design of the five-star voco™ St. David's Cardiff, an IHG Hotel, and take in exceptional views over the tranquil Cardiff Bay. World-class international cuisine meets Welsh heritage at the hotel's chic restaurant and bar, and award-winning spa treatments await at The Spa at St David's, along with relaxing hydro and swimming pools. Venture out of the hotel to stroll around the nearby docks or explore the attractions of vibrant Cardiff.",
+      "location_subheading": "United Kingdom",
+      "price": 116,
+      "original_price": 116,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Aa99DAAR",
+      "hero_image": "https://images.luxuryescapes.com/phq5zas4r9cyqo2gjk2",
+      "image_two": "https://images.luxuryescapes.com/le2ts11h569m389i0wdm",
+      "image_three": "https://images.luxuryescapes.com/0epuimozs9rji64vfmqf",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Hotel Indigo Cardiff",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Cardiff",
+      "title": "Cosmopolitan Cardiff Escape with Rooftop Steakhouse & Terrace",
+      "description": "Immerse yourself in Wales' buzzing capital when you stay at Hotel Indigo Cardiff, an IHG Hotel, a sophisticated designer escape just a five-minute walk to Cardiff Castle. Spend days exploring the city: catch a rugby match with the locals at Cardiff Arms Park, listen to local music at the Motorpoint Arena, or peruse tasty treats at Cardiff Market. For dinner, head to the hotel's rooftop for cocktails and succulent steaks at Marco Pierre White Steakhouse & Bar, the ideal way to cap off your day.",
+      "location_subheading": "United Kingdom",
+      "price": 86,
+      "original_price": 86,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CuiREAAZ",
+      "hero_image": "https://images.luxuryescapes.com/or256y5myujgjyn686qk",
+      "image_two": "https://images.luxuryescapes.com/pwpuqqms52soqszw2jk",
+      "image_three": "https://images.luxuryescapes.com/w66lce5aif9l4uw2ep8m",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Cardiff - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Cardiff, United Kingdom con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "cardiff hotels",
+      "cardiff travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/cardiff",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/cardiff",
+      "es": "https://mondoexplora.com/es/destination/cardiff",
+      "fr": "https://mondoexplora.com/fr/destination/cardiff",
+      "it": "https://mondoexplora.com/it/destination/cardiff"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 101,
+    "average_discount": 0
+  }
+}

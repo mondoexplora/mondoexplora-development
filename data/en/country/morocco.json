@@ -1,0 +1,61 @@
+{
+  "name": "Morocco",
+  "code": "MA",
+  "hero_title": "Morocco Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Morocco.",
+  "hero_image": "https://images.luxuryescapes.com/ts4cnifdfesgjkanunu",
+  "popular_destinations": [
+    {
+      "name": "Marrakech",
+      "slug": "marrakech",
+      "image": "https://images.luxuryescapes.com/ts4cnifdfesgjkanunu",
+      "description": "Explore Marrakech with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 647
+    },
+    {
+      "name": "El Jadida",
+      "slug": "el-jadida",
+      "image": "https://images.luxuryescapes.com/bwg0xm1ggeowkd7yulv",
+      "description": "Explore El Jadida with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 185
+    },
+    {
+      "name": "Fez",
+      "slug": "fez",
+      "image": "https://images.luxuryescapes.com/v3bved8j44t0ey2z7lqk",
+      "description": "Explore Fez with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 303
+    },
+    {
+      "name": "Fnideq",
+      "slug": "fnideq",
+      "image": "https://images.luxuryescapes.com/d7xcqpou6w04havun9",
+      "description": "Explore Fnideq with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 34
+    }
+  ],
+  "seo": {
+    "title": "Morocco Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Morocco with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "morocco hotels",
+      "morocco travel",
+      "morocco luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/morocco",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/morocco",
+      "es": "https://mondoexplora.com/es/country/morocco",
+      "fr": "https://mondoexplora.com/fr/country/morocco",
+      "it": "https://mondoexplora.com/it/country/morocco"
+    }
+  }
+}

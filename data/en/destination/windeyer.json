@@ -1,0 +1,50 @@
+{
+  "city": "Windeyer",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Windeyer",
+  "description": "Discover the best hotels in Windeyer, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/qonhr49w1qzwvz5lext",
+  "hotels": [
+    {
+      "vendor_name": "Glenayr Farm",
+      "offer_country_name": "Australia",
+      "location_heading": "Windeyer",
+      "title": "Off-Grid Mudgee Wine Country Retreat with Glamping Tents & Villas",
+      "description": "Unplug, unwind and reset in the beautiful New South Wales countryside when you stay at Glenayr Farm, a boutique retreat in the Mudgee wine region. This unforgettable escape promises seclusion and privacy in abundance - wake up to extraordinary sunrises, savour breathtaking views of the wildlife-filled surrounding hinterland and sleep soundly under a canopy of stars. Spend your days exploring Mudgee, dotted with a number of wineries and sophisticated restaurants.",
+      "location_subheading": "Australia",
+      "price": 226,
+      "original_price": 226,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000GuzMMAAZ",
+      "hero_image": "https://images.luxuryescapes.com/qonhr49w1qzwvz5lext",
+      "image_two": "https://images.luxuryescapes.com/or7lfbbmeivurakh5me",
+      "image_three": "https://images.luxuryescapes.com/g6yhke2ak8cvuifres69",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Windeyer - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Windeyer, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "windeyer hotels",
+      "windeyer travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/windeyer",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/windeyer",
+      "es": "https://mondoexplora.com/es/destination/windeyer",
+      "fr": "https://mondoexplora.com/fr/destination/windeyer",
+      "it": "https://mondoexplora.com/it/destination/windeyer"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 226,
+    "average_discount": 0
+  }
+}

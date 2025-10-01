@@ -1,0 +1,50 @@
+{
+  "city": "New Jersey",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotel a New Jersey",
+  "description": "Scopri i migliori hotel a New Jersey, United States. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/4jpubugcrhsmhl2apl4",
+  "hotels": [
+    {
+      "vendor_name": "The Asbury Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "New Jersey",
+      "title": "Creative New Jersey Seaside Stay with Rooftop Restaurant & Bowling Alley",
+      "description": "Jump into the Jersey Shore with a stay at The Asbury Hotel, just steps from the beloved Asbury Park Boardwalk in New Jersey. At this lovingly restored 1950s redbrick delight, you can dive into the local music scene over a drink at Soundbooth, catch a movie at the scenic Baronet rooftop cinema or kick back by picturesque outdoor pool. Breezy and bright rooms with contemporary character set The Asbury apart, all on the doorstep of the area’s most sought-after seaside strip.",
+      "location_subheading": "United States",
+      "price": 170,
+      "original_price": 170,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000FLneAAAT",
+      "hero_image": "https://images.luxuryescapes.com/4jpubugcrhsmhl2apl4",
+      "image_two": "https://images.luxuryescapes.com/lgx6d3hfhbqgd7xl9eh",
+      "image_three": "https://images.luxuryescapes.com/bvl2dle9jf8lely3his7",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a New Jersey - Stati Uniti Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a New Jersey, United States con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "new jersey hotels",
+      "new jersey travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/new-jersey",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/new-jersey",
+      "es": "https://mondoexplora.com/es/destination/new-jersey",
+      "fr": "https://mondoexplora.com/fr/destination/new-jersey",
+      "it": "https://mondoexplora.com/it/destination/new-jersey"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 170,
+    "average_discount": 0
+  }
+}

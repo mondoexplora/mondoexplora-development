@@ -1,0 +1,68 @@
+{
+  "city": "Hamburg",
+  "country": "Germany",
+  "country_code": "DE",
+  "hero_title": "Hôtels à Hamburg",
+  "description": "Découvrez les meilleurs hôtels à Hamburg, Germany. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/tfes5lgqtc1dwksjv6n7",
+  "hotels": [
+    {
+      "vendor_name": "25hours Hotel Hamburg HafenCity",
+      "offer_country_name": "Germany",
+      "location_heading": "Hamburg",
+      "title": "Eclectic Hamburg Harbourfront Hotel with Two Restaurants, Bar & Sauna",
+      "description": "Step into a maritime-inspired world at this city centre hotel, with the Elbphilharmonie just a short stroll away. Begin your day with a hearty breakfast at heimat restaurant before exploring the nearby Speicherstadt district, then return to relax in the laid-back lounge or take in city views from the sauna. The hotel’s playful interiors are dotted with nautical curiosities, setting the tone for evenings spent sampling local craft drinks at the buzzing The Boilerman Bar. With HafenCity’s waterfront promenades and Miniatur Wunderland within easy reach, each moment here is shaped by Hamburg’s seafaring heritage.",
+      "location_subheading": "Germany",
+      "price": 118,
+      "original_price": 118,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000Jjy97YAB",
+      "hero_image": "https://images.luxuryescapes.com/tfes5lgqtc1dwksjv6n7",
+      "image_two": "https://images.luxuryescapes.com/wmi2b64ins5edg2puufc",
+      "image_three": "https://images.luxuryescapes.com/gc9fbrubcii2mf60sv6i",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Hamburg - City Alster",
+      "offer_country_name": "Germany",
+      "location_heading": "Hamburg",
+      "title": "Hamburg Stylish Lakeview Stay near St Georg",
+      "description": "Overlooking the serene Alster Lakes and only minutes from Hamburg's St Georg district, Crowne Plaza Hamburg - City Alster, an IHG Hotel, is a stylish stay in the heart of this vibrant city. Feel refreshed in a serene guest room with lake views or invigorate your body and mind in the fitness centre. Savour a light lunch or tasty treat at The Plaza lobby bar or embark on a lively and colourful adventure exploring the galleries, cafes, boutiques and bars of this trendy city.",
+      "location_subheading": "Germany",
+      "price": 84,
+      "original_price": 84,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJZTAA5",
+      "hero_image": "https://images.luxuryescapes.com/zbugy45qbt17kdx7jj",
+      "image_two": "https://images.luxuryescapes.com/62wv6qvhxm8ecyfldb5",
+      "image_three": "https://images.luxuryescapes.com/2h05n0v4q9c7pteflggl",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Hamburg - Germany Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Hamburg, Germany avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "hamburg hotels",
+      "hamburg travel",
+      "germany hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/hamburg",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/hamburg",
+      "es": "https://mondoexplora.com/es/destination/hamburg",
+      "fr": "https://mondoexplora.com/fr/destination/hamburg",
+      "it": "https://mondoexplora.com/it/destination/hamburg"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 101,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Galle",
+  "country": "Sri Lanka",
+  "country_code": "LK",
+  "hero_title": "Hôtels à Galle",
+  "description": "Découvrez les meilleurs hôtels à Galle, Sri Lanka. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/2zbqjlij9a1z3mcqb98",
+  "hotels": [
+    {
+      "vendor_name": "The Fortress Resort & Spa Sri Lanka",
+      "offer_country_name": "Sri Lanka",
+      "location_heading": "Galle",
+      "title": "Sri Lanka Beachfront Haven with Massages, Daily Breakfast, Nightly Dinner & Free-Flow Cocktail Hour",
+      "description": "Overlooking the magnificent Indian Ocean, this luxurious coastal escape is where relaxation and refined comforts come together for an unforgettable five-star experience. Located just a 30-minute drive from the popular town of Galle and set against the crashing waves of tranquil Galle Beach - mere moments from Sri Lanka’s iconic stilt fishermen - the property draws inspiration from the unique architecture of historic Galle Fort. Traditional Dutch and Portuguese design nuances cast you back in time, while 55 exquisite rooms and suites coccoon you in sleek, modern comforts for a seamless retreat. Choose from two fine-dining options framed by sweeping ocean panoramas and stop by the Ayurveda spa for holistic wellness therapies. Take a dip in the 52-metre free-form pool or simply lounge on the heavenly beach as the sun dips below the horizon.",
+      "location_subheading": "Sri Lanka",
+      "price": 559,
+      "original_price": 1803,
+      "discount_percentage": 69,
+      "link": "https://luxuryescapes.com/offer/006RF00000JDTyvYAH",
+      "hero_image": "https://images.luxuryescapes.com/2zbqjlij9a1z3mcqb98",
+      "image_two": "https://images.luxuryescapes.com/2l4gt2tct7tnn7770i46",
+      "image_three": "https://images.luxuryescapes.com/jrewtxwmo3ocqtzbcr",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2025-08-26 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Galle - Sri Lanka Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Galle, Sri Lanka avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "galle hotels",
+      "galle travel",
+      "sri lanka hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/galle",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/galle",
+      "es": "https://mondoexplora.com/es/destination/galle",
+      "fr": "https://mondoexplora.com/fr/destination/galle",
+      "it": "https://mondoexplora.com/it/destination/galle"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 559,
+    "average_discount": 69
+  }
+}

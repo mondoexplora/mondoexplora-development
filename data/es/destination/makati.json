@@ -1,0 +1,50 @@
+{
+  "city": "Makati",
+  "country": "Philippines",
+  "country_code": "PH",
+  "hero_title": "Hoteles en Makati",
+  "description": "Descubre los mejores hoteles en Makati, Philippines. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/132zwnjfe11lkswo4df85u",
+  "hotels": [
+    {
+      "vendor_name": "Fairmont Makati",
+      "offer_country_name": "Philippines",
+      "location_heading": "Makati",
+      "title": "Philippines Luxury in the Heart of Makati with Eight Restaurants & Bars",
+      "description": "Immerse yourself in the pinnacle of five-star luxury in the heart of one of the Philippines' most prestigious business and lifestyle districts. This refined oasis in Metro Manilla offers an outdoor pool, Pool Bar, world-class spa and a variety of upscale and casual dining options. Unwind at the speakeasy-inspired Long Bar or marvel at the stunning sunset from the Mistral Rooftop Bar. Savour a global culinary experience at Spectrum, an all-day dining restaurant with an international buffet, or indulge in authentic French cuisine at Mireio, a Provencal-inspired brasserie on the 9th floor. Just steps away, explore the lively Greenbelt Shopping Centre, lush city parks and the Ayala Museum.",
+      "location_subheading": "Philippines",
+      "price": 147,
+      "original_price": 147,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002J2zDIAS",
+      "hero_image": "https://images.luxuryescapes.com/132zwnjfe11lkswo4df85u",
+      "image_two": "https://images.luxuryescapes.com/9oscd2rqvckx4b94dhvh",
+      "image_three": "https://images.luxuryescapes.com/9ui66hr3ikvl889n76x",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-13 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Makati - Philippines Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Makati, Philippines con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "makati hotels",
+      "makati travel",
+      "philippines hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/makati",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/makati",
+      "es": "https://mondoexplora.com/es/destination/makati",
+      "fr": "https://mondoexplora.com/fr/destination/makati",
+      "it": "https://mondoexplora.com/it/destination/makati"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 147,
+    "average_discount": 0
+  }
+}

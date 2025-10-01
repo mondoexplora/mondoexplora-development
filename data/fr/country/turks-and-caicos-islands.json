@@ -1,0 +1,31 @@
+{
+  "name": "Turks and Caicos Islands",
+  "code": "TC",
+  "hero_title": "Turks and Caicos Islands Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Turks and Caicos Islands.",
+  "hero_image": "https://images.luxuryescapes.com/fk0zll7tij0bwle2mj7e",
+  "popular_destinations": [
+    {
+      "name": "Parrot Cay",
+      "slug": "parrot-cay",
+      "image": "https://images.luxuryescapes.com/fk0zll7tij0bwle2mj7e",
+      "description": "Explore Parrot Cay with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Turks and Caicos Islands Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Turks and Caicos Islands avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "turks and caicos islands hotels",
+      "turks and caicos islands travel",
+      "turks and caicos islands luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/tc",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/tc",
+      "es": "https://mondoexplora.com/es/country/tc",
+      "fr": "https://mondoexplora.com/fr/country/tc",
+      "it": "https://mondoexplora.com/it/country/tc"
+    }
+  }
+}

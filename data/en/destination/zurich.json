@@ -1,0 +1,68 @@
+{
+  "city": "Zurich",
+  "country": "Switzerland",
+  "country_code": "CH",
+  "hero_title": "Hotels in Zurich",
+  "description": "Discover the best hotels in Zurich, Switzerland. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/avlbg2ent9eqezmxvv6nh",
+  "hotels": [
+    {
+      "vendor_name": "25Hours Zurich Langstrasse",
+      "offer_country_name": "Switzerland",
+      "location_heading": "Zurich",
+      "title": "Zurich Design-Forward Urban Escape with Onsite Dining & Sauna",
+      "description": "Perfectly placed at the dynamic corner of Langstrasse and the Europaallee neighbourhood, this trendy retreat fuses the elegance of Zurich’s banking district with the edgy energy of its nightlife quarter. Imagined by designer Werner Aisslinger, the hotel's bold interiors combine bourgeoisie and penthouse glamour. Take time to indulge with eclectic Eastern Mediterranean sharing plates at NENI Zürich and soak up the relaxed atmosphere at Cinchona Bar. On the seventh floor, take in sweeping city vistas from a sun lounger or find your zen at the sauna and modern fitness area.",
+      "location_subheading": "Switzerland",
+      "price": 181,
+      "original_price": 181,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000JjrExYAJ",
+      "hero_image": "https://images.luxuryescapes.com/avlbg2ent9eqezmxvv6nh",
+      "image_two": "https://images.luxuryescapes.com/242u2jtplmkgmwtkbya",
+      "image_three": "https://images.luxuryescapes.com/8o00ibyvlhbkn60mxfd6",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Zurich",
+      "offer_country_name": "Switzerland",
+      "location_heading": "Zurich",
+      "title": "Switzerland Trendy Zurich West City Break with Lavish Health Club",
+      "description": "Immerse yourself in Zurich's lakeside beauty with an opulent stay at Crowne Plaza Zurich, an IHG Hotel - ideally positioned within the vibrant Zurich West District. Within this stylish hotel you will discover an expansive health club, a glittering pool and two sumptuous eateries. Beyond the hotel, find yourself in the heart of the global centre for banking and finance where picturesque cobblestone lanes, pre-medieval architecture and the twinkling Lake Zurich awaits.",
+      "location_subheading": "Switzerland",
+      "price": 115,
+      "original_price": 115,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJcjAAH",
+      "hero_image": "https://images.luxuryescapes.com/pqzl8vm8hnxh6s0b3cn",
+      "image_two": "https://images.luxuryescapes.com/3ku953uzgrwjd8lfaox5",
+      "image_three": "https://images.luxuryescapes.com/icqpwrbspjpsjfsxf55n",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Zurich - Switzerland Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Zurich, Switzerland with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "zurich hotels",
+      "zurich travel",
+      "switzerland hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/zurich",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/zurich",
+      "es": "https://mondoexplora.com/es/destination/zurich",
+      "fr": "https://mondoexplora.com/fr/destination/zurich",
+      "it": "https://mondoexplora.com/it/destination/zurich"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 148,
+    "average_discount": 0
+  }
+}

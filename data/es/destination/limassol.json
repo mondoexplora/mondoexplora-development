@@ -1,0 +1,50 @@
+{
+  "city": "Limassol",
+  "country": "Cyprus",
+  "country_code": "CY",
+  "hero_title": "Hoteles en Limassol",
+  "description": "Descubre los mejores hoteles en Limassol, Cyprus. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/1mlrmpn0xg48zgmwvpd",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Limassol",
+      "offer_country_name": "Cyprus",
+      "location_heading": "Limassol",
+      "title": "Cyprus Beachfront Bliss with Restaurant Suspended above the Sea",
+      "description": "Overlooking Akrotiri Bay, Crowne Plaza Limassol, an IHG Hotel, delivers beachside bliss while still being conveniently close to the city centre. Savour traditional cuisine at La Brezza, a restaurant suspended above the sea, while enjoying breathtaking vistas. Rejuvenate yourself with a spa treatment or bask in the Mediterranean sun while attended to diligently by waiters beside a seafront pool. Come evening, allow the soothing sounds of crashing waves serenade you to a deep slumber.",
+      "location_subheading": "Cyprus",
+      "price": 92,
+      "original_price": 92,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJaBAAX",
+      "hero_image": "https://images.luxuryescapes.com/1mlrmpn0xg48zgmwvpd",
+      "image_two": "https://images.luxuryescapes.com/8q2mkbpbuzr7ihu1b4fk",
+      "image_three": "https://images.luxuryescapes.com/trlorl9jyp77vr24uiq",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Limassol - Cyprus Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Limassol, Cyprus con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "limassol hotels",
+      "limassol travel",
+      "cyprus hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/limassol",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/limassol",
+      "es": "https://mondoexplora.com/es/destination/limassol",
+      "fr": "https://mondoexplora.com/fr/destination/limassol",
+      "it": "https://mondoexplora.com/it/destination/limassol"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 92,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Fiji",
+  "code": "FJ",
+  "hero_title": "Fiji Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Fiji.",
+  "hero_image": "https://images.luxuryescapes.com/1nvukoeyf5p87v55k9r9",
+  "popular_destinations": [
+    {
+      "name": "Mamanuca Islands",
+      "slug": "mamanuca-islands",
+      "image": "https://images.luxuryescapes.com/1nvukoeyf5p87v55k9r9",
+      "description": "Explore Mamanuca Islands with luxury accommodations"
+    },
+    {
+      "name": "Pacific Harbour",
+      "slug": "pacific-harbour",
+      "image": "https://images.luxuryescapes.com/mrj7tioaib27062dqir",
+      "description": "Explore Pacific Harbour with luxury accommodations"
+    },
+    {
+      "name": "Beachcomber Island",
+      "slug": "beachcomber-island",
+      "image": "https://images.luxuryescapes.com/m5h04m4xepcge99av55",
+      "description": "Explore Beachcomber Island with luxury accommodations"
+    },
+    {
+      "name": "Beqa Lagoon",
+      "slug": "beqa-lagoon",
+      "image": "https://images.luxuryescapes.com/fkl1ukhln4cw12i9fxj",
+      "description": "Explore Beqa Lagoon with luxury accommodations"
+    },
+    {
+      "name": "Castaway Island",
+      "slug": "castaway-island",
+      "image": "https://images.luxuryescapes.com/rjnk1b8n7l1czzgh730h",
+      "description": "Explore Castaway Island with luxury accommodations"
+    },
+    {
+      "name": "Coral Coast",
+      "slug": "coral-coast",
+      "image": "https://images.luxuryescapes.com/a71iu4d9zemf6sdfs3uh",
+      "description": "Explore Coral Coast with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Fiji Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Fiji con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "fiji hotels",
+      "fiji travel",
+      "fiji luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/fj",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/fj",
+      "es": "https://mondoexplora.com/es/country/fj",
+      "fr": "https://mondoexplora.com/fr/country/fj",
+      "it": "https://mondoexplora.com/it/country/fj"
+    }
+  }
+}

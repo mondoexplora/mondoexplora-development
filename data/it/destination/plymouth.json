@@ -1,0 +1,50 @@
+{
+  "city": "Plymouth",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hotel a Plymouth",
+  "description": "Scopri i migliori hotel a Plymouth, United Kingdom. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/d5psek804gcdmcl6w8ki",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Plymouth",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Plymouth",
+      "title": "UK Plymouth Seaside Escape Overlooking Hoe Park",
+      "description": "Discover seaside serenity and rugged headlands with a stay at the modern Crowne Plaza Plymouth, an IHG Hotel. Steps from your enviable position, take a stroll to gin distilleries and gripping theatre. Once you’re done immersing yourself in the history-rich Barbican district and Polymouth Hoe, retreat to Marco Pierre White Steakhouse Bar & Grill for tasty bites and captivating views of the boat-studded bay or indulge in a tipple at Drakes Lounge & Bar before heading into the vibrant nightlife.",
+      "location_subheading": "United Kingdom",
+      "price": 96,
+      "original_price": 96,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJbpAAH",
+      "hero_image": "https://images.luxuryescapes.com/d5psek804gcdmcl6w8ki",
+      "image_two": "https://images.luxuryescapes.com/svpgngu667h0p1gptc6",
+      "image_three": "https://images.luxuryescapes.com/5fq85xnpdni8oy4ibpfi",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2027-01-06 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Plymouth - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Plymouth, United Kingdom con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "plymouth hotels",
+      "plymouth travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/plymouth",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/plymouth",
+      "es": "https://mondoexplora.com/es/destination/plymouth",
+      "fr": "https://mondoexplora.com/fr/destination/plymouth",
+      "it": "https://mondoexplora.com/it/destination/plymouth"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 96,
+    "average_discount": 0
+  }
+}

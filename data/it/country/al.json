@@ -1,0 +1,31 @@
+{
+  "name": "Albania",
+  "code": "AL",
+  "hero_title": "Albania Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Albania.",
+  "hero_image": "https://images.luxuryescapes.com/lja62gd2w48n8axct2n",
+  "popular_destinations": [
+    {
+      "name": "Palasë",
+      "slug": "palasë",
+      "image": "https://images.luxuryescapes.com/lja62gd2w48n8axct2n",
+      "description": "Explore Palasë with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Albania Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Albania con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "albania hotels",
+      "albania travel",
+      "albania luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/al",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/al",
+      "es": "https://mondoexplora.com/es/country/al",
+      "fr": "https://mondoexplora.com/fr/country/al",
+      "it": "https://mondoexplora.com/it/country/al"
+    }
+  }
+}

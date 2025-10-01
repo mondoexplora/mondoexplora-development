@@ -1,0 +1,50 @@
+{
+  "city": "Narita",
+  "country": "Japan",
+  "country_code": "JP",
+  "hero_title": "Hotels in Narita",
+  "description": "Discover the best hotels in Narita, Japan. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/0fqszlqng4gjgwwlndo",
+  "hotels": [
+    {
+      "vendor_name": "ANA Crowne Plaza Narita",
+      "offer_country_name": "Japan",
+      "location_heading": "Narita",
+      "title": "Narita Airport Hotel with Top Floor Bar and Forest Views",
+      "description": "Mere moments from the Narita International Airport, ANA Crowne Plaza Narita, an IHG Hotel, is a tranquil refuge showcasing stunning views of aviation action. Dine on splendid seasonal fare with a backdrop of verdant vistas at Restaurant Cafe Ceres, indulge in a rejuvenating treatment at the Mary Grace Spa or take a dip in the indoor pool. As evening approaches, watch the sunset while enjoying a cool cocktail at the top-floor Ski Dining SAIFU bar before retiring to a stylish room or suite.",
+      "location_subheading": "Japan",
+      "price": 58,
+      "original_price": 58,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJZgAAP",
+      "hero_image": "https://images.luxuryescapes.com/0fqszlqng4gjgwwlndo",
+      "image_two": "https://images.luxuryescapes.com/ipgv852rsigz38xaq5pj",
+      "image_three": "https://images.luxuryescapes.com/hlg6ojtiu17q149rge",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Narita - Japan Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Narita, Japan with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "narita hotels",
+      "narita travel",
+      "japan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/narita",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/narita",
+      "es": "https://mondoexplora.com/es/destination/narita",
+      "fr": "https://mondoexplora.com/fr/destination/narita",
+      "it": "https://mondoexplora.com/it/destination/narita"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 58,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Lesotho",
+  "code": "LS",
+  "hero_title": "Lesotho Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Lesotho.",
+  "hero_image": "https://images.luxuryescapes.com/c5xn1131cw0bwzscymdb",
+  "popular_destinations": [
+    {
+      "name": "Maseru",
+      "slug": "maseru",
+      "image": "https://images.luxuryescapes.com/c5xn1131cw0bwzscymdb",
+      "description": "Explore Maseru with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Lesotho Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Lesotho con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "lesotho hotels",
+      "lesotho travel",
+      "lesotho luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/ls",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ls",
+      "es": "https://mondoexplora.com/es/country/ls",
+      "fr": "https://mondoexplora.com/fr/country/ls",
+      "it": "https://mondoexplora.com/it/country/ls"
+    }
+  }
+}

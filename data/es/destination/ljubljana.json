@@ -1,0 +1,50 @@
+{
+  "city": "Ljubljana",
+  "country": "Slovenia",
+  "country_code": "SI",
+  "hero_title": "Hoteles en Ljubljana",
+  "description": "Descubre los mejores hoteles en Ljubljana, Slovenia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/hkgcc5kesvftdn9ffn3n",
+  "hotels": [
+    {
+      "vendor_name": "Intercontinental Ljubljana",
+      "offer_country_name": "Slovenia",
+      "location_heading": "Ljubljana",
+      "title": "Five-Star Slovenia Escape with Rooftop Restaurant & Bar",
+      "description": "Discover the wonders of Slovenia's capital with a five-star stay at InterContinental Ljubljana, an IHG Hotel. Located minutes from the city's Old Town and the elegant greenery of Ljubljana Botanic Garden and Tivoli Castle, the modern hotel is the perfect base to discover the city. When you're not exploring local sights, treat yourself to complete relaxation at Serenity Wellness, take a dip in the indoor pool or head up to the rooftop B-Restaurant & Bar for global cuisine paired with glittering city views.",
+      "location_subheading": "Slovenia",
+      "price": 138,
+      "original_price": 138,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CNPqkAAH",
+      "hero_image": "https://images.luxuryescapes.com/hkgcc5kesvftdn9ffn3n",
+      "image_two": "https://images.luxuryescapes.com/lxrt433cumo1relf480k",
+      "image_three": "https://images.luxuryescapes.com/a03vcry9l8h9xi2hp7",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Ljubljana - Slovenia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Ljubljana, Slovenia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "ljubljana hotels",
+      "ljubljana travel",
+      "slovenia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/ljubljana",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/ljubljana",
+      "es": "https://mondoexplora.com/es/destination/ljubljana",
+      "fr": "https://mondoexplora.com/fr/destination/ljubljana",
+      "it": "https://mondoexplora.com/it/destination/ljubljana"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 138,
+    "average_discount": 0
+  }
+}

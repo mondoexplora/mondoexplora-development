@@ -1,0 +1,50 @@
+{
+  "city": "Orchard",
+  "country": "Singapore",
+  "country_code": "SG",
+  "hero_title": "Hotel a Orchard",
+  "description": "Scopri i migliori hotel a Orchard, Singapore. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/qj5cju4deee36sve9f1i",
+  "hotels": [
+    {
+      "vendor_name": "Shangri-La Hotel, Singapore",
+      "offer_country_name": "Singapore",
+      "location_heading": "Orchard",
+      "title": "World-Renowned Five-Star Shangri-La Singapore Luxury near Iconic Orchard Road",
+      "description": "Experience one of Singapore's Best of the Best hotels for 2021 with a stay at the world-renowned, five-star Shangri-La Singapore, ranked within the top 1% of the world on Tripadvisor. Hidden smack bang in a high-class residential estate on the fringes of Orchard Road, this city oasis feels remote and yet very central. Consider this Shangri-La escape your literal urban oasis within the heart of the city, where you can succumb to tropical bliss amid 15 acres of lush, manicured gardens with a cascading waterfall and orchard greenhouse sculpture at its centre.",
+      "location_subheading": "Singapore",
+      "price": 235,
+      "original_price": 235,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000006zCItAAM",
+      "hero_image": "https://images.luxuryescapes.com/qj5cju4deee36sve9f1i",
+      "image_two": "https://images.luxuryescapes.com/h3kopp8ehaidflfg2v8n",
+      "image_three": "https://images.luxuryescapes.com/ajot8c5pnifvdfew6sb",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Orchard - Singapore Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Orchard, Singapore con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "orchard hotels",
+      "orchard travel",
+      "singapore hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/orchard",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/orchard",
+      "es": "https://mondoexplora.com/es/destination/orchard",
+      "fr": "https://mondoexplora.com/fr/destination/orchard",
+      "it": "https://mondoexplora.com/it/destination/orchard"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 235,
+    "average_discount": 0
+  }
+}

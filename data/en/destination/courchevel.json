@@ -1,0 +1,50 @@
+{
+  "city": "Courchevel",
+  "country": "France",
+  "country_code": "FR",
+  "hero_title": "Hotels in Courchevel",
+  "description": "Discover the best hotels in Courchevel, France. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/gbceacjb8pbyuxj8v9n",
+  "hotels": [
+    {
+      "vendor_name": "Hotel les 3 Vallees",
+      "offer_country_name": "France",
+      "location_heading": "Courchevel",
+      "title": "Charming Ski-In Ski-Out French Alps Resort with Onsite Restaurant & Spa",
+      "description": "Surrounded by the powdery expanse of Courchevel’s legendary slopes, this chic alpine hideaway in the French Alps places you on the doorstep of the world’s largest ski domain. Step inside and feel instantly at home among the warm wooden finishes, vintage alpine details, cosy fireplaces and expansive mountain views. After mornings spent weaving through fresh snow, indulge in pure relaxation with a sauna session or a luxurious spa treatment crafted from natural botanicals at the onsite spa. Indulgent Savoyard cuisine awaits at the in-house restaurant, celebrating local ingredients with a contemporary twist, or grab a drink at the onsite bar.",
+      "location_subheading": "France",
+      "price": 370,
+      "original_price": 370,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000HTCglYAH",
+      "hero_image": "https://images.luxuryescapes.com/gbceacjb8pbyuxj8v9n",
+      "image_two": "https://images.luxuryescapes.com/3fnytug53pv355hw6g0s",
+      "image_three": "https://images.luxuryescapes.com/gpi7y5c53aiotzn5tma5",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Courchevel - France Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Courchevel, France with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "courchevel hotels",
+      "courchevel travel",
+      "france hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/courchevel",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/courchevel",
+      "es": "https://mondoexplora.com/es/destination/courchevel",
+      "fr": "https://mondoexplora.com/fr/destination/courchevel",
+      "it": "https://mondoexplora.com/it/destination/courchevel"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 370,
+    "average_discount": 0
+  }
+}

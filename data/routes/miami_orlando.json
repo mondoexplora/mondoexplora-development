@@ -1,0 +1,68 @@
+{
+  "route": {
+    "origin": "miami",
+    "destination": "orlando",
+    "distance": "320 km",
+    "available_modes": [
+      "train",
+      "bus",
+      "car"
+    ]
+  },
+  "travel_modes": [
+    {
+      "icon": "🚄",
+      "name": "Train",
+      "description": "Scenic and comfortable for medium distances",
+      "estimated_time": "4-12 hours",
+      "estimated_cost": "$50-300",
+      "frequency": "Daily",
+      "notes": "Great for scenic routes",
+      "booking_links": {
+        "trainline": "https://www.trainline.com",
+        "raileurope": "https://www.raileurope.com",
+        "seat61": "https://www.seat61.com"
+      }
+    },
+    {
+      "icon": "🚌",
+      "name": "Bus",
+      "description": "Budget-friendly option for shorter distances",
+      "estimated_time": "6-24 hours",
+      "estimated_cost": "$20-100",
+      "frequency": "Multiple daily",
+      "notes": "Cheapest option available",
+      "booking_links": {
+        "flixbus": "https://www.flixbus.com",
+        "megabus": "https://www.megabus.com",
+        "greyhound": "https://www.greyhound.com"
+      },
+      "providers": [
+        {
+          "name": "Greyhound",
+          "website": "https://www.greyhound.com",
+          "direct": true
+        }
+      ]
+    },
+    {
+      "icon": "🚗",
+      "name": "Car",
+      "description": "Flexible and convenient for road trips",
+      "estimated_time": "8-20 hours",
+      "estimated_cost": "$100-400",
+      "frequency": "Anytime",
+      "notes": "Maximum flexibility and freedom",
+      "booking_links": {
+        "rentalcars": "https://www.rentalcars.com",
+        "kayak_cars": "https://www.kayak.com/cars",
+        "expedia_cars": "https://www.expedia.com/cars"
+      }
+    }
+  ],
+  "quick_tips": [
+    "Trains are comfortable and scenic",
+    "Buses are budget-friendly",
+    "Car allows you to explore along the way"
+  ]
+}

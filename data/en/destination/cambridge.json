@@ -1,0 +1,50 @@
+{
+  "city": "Cambridge",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hotels in Cambridge",
+  "description": "Discover the best hotels in Cambridge, United Kingdom. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/88csnv799asj95kv5w1k",
+  "hotels": [
+    {
+      "vendor_name": "Cambridge Belfry Hotel & Spa",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Cambridge",
+      "title": "Countryside Spa Sanctuary Moments from Historic Cambridge",
+      "description": "Discover a relaxing spa haven on the fringes of historic Cambridge with a stay at the stylish Cambridge Belfry Hotel & Spa. This is the perfect place to relax and recharge in-between days exploring this storied city's exquisite architecture, picturesque college gardens and historic pubs. Uncover fabulous facilities including The Bridge Restaurant and The Lounge Bar, an inviting heated pool and a luxurious day spa boasting a sauna, steam room and blissful ELEMIS treatments. What’s more, you’re only around a 15-minute drive from Cambridge's renowned Parker's Piece - a 25-acre open common - the eponymous Cambridge University Botanical Gardens and Fitzwilliam Museum.",
+      "location_subheading": "United Kingdom",
+      "price": 72,
+      "original_price": 72,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y0000070uySAAQ",
+      "hero_image": "https://images.luxuryescapes.com/88csnv799asj95kv5w1k",
+      "image_two": "https://images.luxuryescapes.com/1t7gj0u8glw2qmn8c0dc",
+      "image_three": "https://images.luxuryescapes.com/djmx743ji8jm0no1d3ft",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Cambridge - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Cambridge, United Kingdom with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "cambridge hotels",
+      "cambridge travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/cambridge",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/cambridge",
+      "es": "https://mondoexplora.com/es/destination/cambridge",
+      "fr": "https://mondoexplora.com/fr/destination/cambridge",
+      "it": "https://mondoexplora.com/it/destination/cambridge"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 72,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "city": "Tel Aviv",
+  "country": "Israel",
+  "country_code": "IL",
+  "hero_title": "Hoteles en Tel Aviv",
+  "description": "Descubre los mejores hoteles en Tel Aviv, Israel. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/xoqejvguxs5trooav47",
+  "hotels": [
+    {
+      "vendor_name": "Intercontinental David Tel Aviv",
+      "offer_country_name": "Israel",
+      "location_heading": "Tel Aviv",
+      "title": "Stylish Tel Aviv City Escape near Neve Tzedek with Beachside Pool",
+      "description": "Discover the treasures of Israel with an escape to InterContinental David Tel Aviv, an IHG Hotel, perfectly positioned between the historic Old City, Neve Tzedek’s bohemian boutiques and the endless shining blue of the Mediterranean Sea. There’s no better retreat after a day exploring the city’s many wonders - enjoy authentic Israeli breakfast at the Atrium Lobby Bar, indulge in exceptional treatments from around the world at The Spa or savour cocktails by the hotel’s shimmering beachside pool.",
+      "location_subheading": "Israel",
+      "price": 466,
+      "original_price": 466,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000BdtJQAAZ",
+      "hero_image": "https://images.luxuryescapes.com/xoqejvguxs5trooav47",
+      "image_two": "https://images.luxuryescapes.com/ks2k715djmn9k6976r4c",
+      "image_three": "https://images.luxuryescapes.com/lg1mwalisbbdrx3y693d",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Tel Aviv Beach",
+      "offer_country_name": "Israel",
+      "location_heading": "Tel Aviv",
+      "title": "Stylish Tel Aviv City Escape on Fashionable Gordon Beach",
+      "description": "Fall in love with eye-catching Bauhaus architecture, lose yourself in the lively atmosphere and step onto iconic golden sands with a stay at Crowne Plaza Tel Aviv Beach, an IHG Hotel, perfectly positioned on the edge of Gordon Beach. Experience authentic Israeli breakfast at Bellissima International Restaurant, savour authentic deli sandwiches and sparkling views of the vast Mediterranean Sea at Louis Espresso Bar, plunge into the onsite pool or hit the sands and dance all night long.",
+      "location_subheading": "Israel",
+      "price": 246,
+      "original_price": 246,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Bdt6LAAR",
+      "hero_image": "https://images.luxuryescapes.com/ga1oyatktq19c8ts3wq",
+      "image_two": "https://images.luxuryescapes.com/5pwzp6mnrb6tm8yh1t7j",
+      "image_three": "https://images.luxuryescapes.com/jz3d64mrnwsksk1uqarw",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Indigo Tel Aviv",
+      "offer_country_name": "Israel",
+      "location_heading": "Tel Aviv",
+      "title": "Glamorous Tel Aviv Escape in the Diamond District with Rooftop Infinity Pool",
+      "description": "Discover opulence and glamour in the heart of Israel’s world-famous gemstone capital with a stay at Hotel Indigo Tel Aviv - Diamond District. Murals depicting history’s most iconic stones lead you into the heart of luxury - savour bagels in the morning and Israeli malt whiskey in the evening at Blackstone Bistro & Lounge, delight in fresh seafood delicacies at David & Yossef or head to the hotel’s dazzling rooftop bar for spectacular Tel Aviv views and oh-so-sippable cocktails.",
+      "location_subheading": "Israel",
+      "price": 153,
+      "original_price": 153,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Bdt6MAAR",
+      "hero_image": "https://images.luxuryescapes.com/mt8p5p8ereb8nhgwpnfi",
+      "image_two": "https://images.luxuryescapes.com/ioap8jcelswkbjwv9ty",
+      "image_three": "https://images.luxuryescapes.com/hfzpwjzfwi8q04bbek7",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Tel Aviv - Israel Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Tel Aviv, Israel con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "tel aviv hotels",
+      "tel aviv travel",
+      "israel hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/tel-aviv",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/tel-aviv",
+      "es": "https://mondoexplora.com/es/destination/tel-aviv",
+      "fr": "https://mondoexplora.com/fr/destination/tel-aviv",
+      "it": "https://mondoexplora.com/it/destination/tel-aviv"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 3,
+    "average_price": 288,
+    "average_discount": 0
+  }
+}

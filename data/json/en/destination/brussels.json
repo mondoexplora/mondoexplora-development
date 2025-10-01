@@ -1,0 +1,68 @@
+{
+  "city": "Brussels",
+  "country": "Belgium",
+  "country_code": "BE",
+  "hero_title": "Hotels in Brussels",
+  "description": "Discover the best hotels in Brussels, Belgium. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/d9ylprspxupjxvsateum",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Brussels Airport",
+      "offer_country_name": "Belgium",
+      "location_heading": "Brussels",
+      "title": "Brussels City Break near Airport with Onsite Restaurant & Bar",
+      "description": "Immerse yourself in the glory and beauty of the Grand Place, and feel yourself getting lost in the intricate details of the city with a getaway to Crowne Plaza Brussels Airport, an IHG Hotel. Positioned minutes from the airport and train station, spend your days devouring traditional Belgian waffles and double-fried frites or admiring the playful art that decorates the city’s streets. Unwind with a delectable, effervescent Belgian beer or wholesome plate at Craft restaurant.",
+      "location_subheading": "Belgium",
+      "price": 103,
+      "original_price": 103,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJZsAAP",
+      "hero_image": "https://images.luxuryescapes.com/d9ylprspxupjxvsateum",
+      "image_two": "https://images.luxuryescapes.com/5f8920dd6qqv57ce2rub",
+      "image_three": "https://images.luxuryescapes.com/eo3642abdf63i80h6uo",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Hotel Indigo Brussels - City",
+      "offer_country_name": "Belgium",
+      "location_heading": "Brussels",
+      "title": "Brussels Urban Garden Retreat with Farm-to-Table Restaurant",
+      "description": "A stone's throw from the leafy oasis of Brussels Botanical Gardens is the arty and cutting-edge Hotel Indigo Brussels - City, an IHG Hotel. Spend your days in style at SERRA, an eco-conscious restaurant with an emphasis on organic, farm-to-plate dining. This all-day, slow-dining venue is resplendent with hanging plants, velvet and leather upholstery and floral-themed wallpaper - it's a feast for all senses. Meanwhile, the Urban Fitness centre features a fully equipped gym and a steamy sauna.",
+      "location_subheading": "Belgium",
+      "price": 118,
+      "original_price": 118,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CuiRDAAZ",
+      "hero_image": "https://images.luxuryescapes.com/ypi7oph1a7olcavkatyc",
+      "image_two": "https://images.luxuryescapes.com/4y6kznhlf6vlysnatel",
+      "image_three": "https://images.luxuryescapes.com/4lzr9lpemsbi6sjdnq9c",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Brussels - Belgium Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Brussels, Belgium with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "brussels hotels",
+      "brussels travel",
+      "belgium hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/brussels",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/brussels",
+      "es": "https://mondoexplora.com/es/destination/brussels",
+      "fr": "https://mondoexplora.com/fr/destination/brussels",
+      "it": "https://mondoexplora.com/it/destination/brussels"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 111,
+    "average_discount": 0
+  }
+}

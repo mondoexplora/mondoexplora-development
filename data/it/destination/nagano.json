@@ -1,0 +1,50 @@
+{
+  "city": "Nagano",
+  "country": "Japan",
+  "country_code": "JP",
+  "hero_title": "Hotel a Nagano",
+  "description": "Scopri i migliori hotel a Nagano, Japan. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/h6ixc5mbqpnk8ixn0wfm",
+  "hotels": [
+    {
+      "vendor_name": "Mercure Nagano Matsushiro",
+      "offer_country_name": "Japan",
+      "location_heading": "Nagano",
+      "title": "Modern Nagano Stay with Natural Hot Springs & Onsite Restaurant",
+      "description": "Experience the charm of imperial Japan from the comfort of this modern retreat in Matsushiro, a quaint historic town in Nagano. Perfectly positioned to explore the region, this contemporary hotel makes it easy to see sights like the historic Matsushiro Castle, the stunning Chikuma River and the verdant Ueda Park. Savour local delicacies at the hotel's in-house restaurant, Locavore, which offers a menu of traditional Japanese dishes and Western favourites. After a day of sightseeing, soothe sore muscles in the traditional onsen fed by natural hot springs.",
+      "location_subheading": "Japan",
+      "price": 44,
+      "original_price": 44,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnP3JYAV",
+      "hero_image": "https://images.luxuryescapes.com/h6ixc5mbqpnk8ixn0wfm",
+      "image_two": "https://images.luxuryescapes.com/3ad4arj1dpgetdesdg5k",
+      "image_three": "https://images.luxuryescapes.com/s5cgtk2kn7uiaob1a9fo",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Nagano - Japan Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Nagano, Japan con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "nagano hotels",
+      "nagano travel",
+      "japan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/nagano",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/nagano",
+      "es": "https://mondoexplora.com/es/destination/nagano",
+      "fr": "https://mondoexplora.com/fr/destination/nagano",
+      "it": "https://mondoexplora.com/it/destination/nagano"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 44,
+    "average_discount": 0
+  }
+}

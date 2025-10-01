@@ -1,0 +1,50 @@
+{
+  "city": "Maryvale",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hoteles en Maryvale",
+  "description": "Descubre los mejores hoteles en Maryvale, Australia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/51go8adhvmgdheo3br",
+  "hotels": [
+    {
+      "vendor_name": "Spicers Peak Lodge",
+      "offer_country_name": "Australia",
+      "location_heading": "Maryvale",
+      "title": "Queensland Five-Star All-Inclusive Mountain Lodge Overlooking Great Dividing Range",
+      "description": "The calls of unspoiled wilderness promise an elevated nature retreat experience at Spicers Peak Lodge, positioned 1,100 metres above sea level in the Great Dividing Range. The undulating lands of UNESCO World Heritage-listed Main Range National Park are yours to admire from your world-class mountain lodge: rise early to watch the range change colours at sunrise, or watch the sunset from throught the floor-to-ceiling windows of the main guesthouse. Sample the bounty of surrounding farms at The Peak restaurant, where culinary excellence comes standard, or for moments of pure tranquility, the Spa Anise Day Spa offers a myriad of signature treatments and an alfresco plunge spa pool.",
+      "location_subheading": "Australia",
+      "price": 2187,
+      "original_price": 2187,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000C2QX9AAN",
+      "hero_image": "https://images.luxuryescapes.com/51go8adhvmgdheo3br",
+      "image_two": "https://images.luxuryescapes.com/6jgjrmni3be7tstemjim",
+      "image_three": "https://images.luxuryescapes.com/dqbnt1fhe6rjykem6mvi",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 2,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Maryvale - Australia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Maryvale, Australia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "maryvale hotels",
+      "maryvale travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/maryvale",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/maryvale",
+      "es": "https://mondoexplora.com/es/destination/maryvale",
+      "fr": "https://mondoexplora.com/fr/destination/maryvale",
+      "it": "https://mondoexplora.com/it/destination/maryvale"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 2187,
+    "average_discount": 0
+  }
+}

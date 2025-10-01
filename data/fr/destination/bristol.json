@@ -1,0 +1,50 @@
+{
+  "city": "Bristol",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hôtels à Bristol",
+  "description": "Découvrez les meilleurs hôtels à Bristol, United Kingdom. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/83i8zmr1dtbjpcos9eff",
+  "hotels": [
+    {
+      "vendor_name": "Berkeley Suites",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Bristol",
+      "title": "Award-Winning Heritage Suite Stay in the Heart of Bristol",
+      "description": "Experience old-world glamour and modern luxury touches with a lavish stay at Berkeley Suites, Bristol. Housed in a Grade II-listed redbrick building - an 18-century architectural masterpiece - and set on an exquisite Georgian crescent in the vibrant UK city, this Condé Nast 2021 Johansens Award for Excellence-winning hotel is a distinguished retreat steeped in character and history. Stay within walking distance of the city’s independent and alternative attractions, with the Clifton Suspension Bridge, Bristol Shopping Quarter, Bristol Zoo Gardens and Brunel’s SS Great Britain all within a 30-minute walk. Behind the grand Georgian façade, you’ll find a collection of just five tastefully renovated and individually designed suites. Each suite boasts a mid-century feel and modern conveniences, including a mini-kitchen cleverly concealed inside a wardrobe, state-of-the-art cinema projector and luxe lounge area. As a guest, you can enjoy complimentary membership at the exclusive Square Members Club, based in the Berkeley Square Hotel, where you can also treat yourself to an exquisite meal at the award-winning Square Kitchen. Guests looking to work out will benefit from complimentary access to the nearby Nuffield Health, Fitness & Wellbeing Centre.",
+      "location_subheading": "United Kingdom",
+      "price": 161,
+      "original_price": 161,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000004UpMFAA0",
+      "hero_image": "https://images.luxuryescapes.com/83i8zmr1dtbjpcos9eff",
+      "image_two": "https://images.luxuryescapes.com/vppuzesd8f0h71jhu8s",
+      "image_three": "https://images.luxuryescapes.com/3aoj0zfa65fnqlc54md7",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Bristol - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Bristol, United Kingdom avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "bristol hotels",
+      "bristol travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/bristol",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/bristol",
+      "es": "https://mondoexplora.com/es/destination/bristol",
+      "fr": "https://mondoexplora.com/fr/destination/bristol",
+      "it": "https://mondoexplora.com/it/destination/bristol"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 161,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "city": "Frisco",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Frisco",
+  "description": "Discover the best hotels in Frisco, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/4rqhzh5rbc787lv51j9",
+  "hotels": [
+    {
+      "vendor_name": "Omni Frisco Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Frisco",
+      "title": "Sophisticated Dallas Escape near The Star with Infinity Pool, Restaurant & Two Bars",
+      "description": "Experience the epitome of Texan hospitality at this contemporary chic urban retreat, situated in the heart of Frisco's vibrant sports and entertainment district. Relish mouthwatering Southern cuisine at the hotel's Neighborhood Services restaurant, or sip on a refreshing cocktail at the upscale Edge Waterside Lounge & Bar. Just steps away, explore the Dallas Cowboys' world headquarters at The Star, indulge in retail therapy at the nearby Stonebriar Centre or explore the exciting dining scene and nightlife of North Texas. After a day of adventure, retreat to the fourth-floor infinity pool for a refreshing dip against the backdrop of the city's dynamic skyline.",
+      "location_subheading": "United States",
+      "price": 222,
+      "original_price": 222,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002HiI4IAK",
+      "hero_image": "https://images.luxuryescapes.com/4rqhzh5rbc787lv51j9",
+      "image_two": "https://images.luxuryescapes.com/oqi2prkj8l0h6dz5pjbe",
+      "image_three": "https://images.luxuryescapes.com/nkt1147qd7y4j9s1dqi",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Omni PGA Frisco Resort",
+      "offer_country_name": "United States",
+      "location_heading": "Frisco",
+      "title": "Frisco Contemporary Golf Resort with Onsite Restaurants, Bars & Two Championship Courses",
+      "description": "Practise your game at one of Texas' premier golfing resorts. This golfer's paradise offers unrivalled access to two championship golf courses, a lighted 10-hole short course and the Professional Golfers' Association of America's headquarters. After a day on the greens, savour Texas-inspired cuisine across seven onsite eateries or enjoy a craft cocktail at the rooftop pool bar, boasting panoramic views of Frisco Hill. For non-golfers, the nearby Stonebriar Centre offers high-end shopping and dining options.",
+      "location_subheading": "United States",
+      "price": 297,
+      "original_price": 297,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002HiI6IAK",
+      "hero_image": "https://images.luxuryescapes.com/ypdk1eugih6m031v4fu",
+      "image_two": "https://images.luxuryescapes.com/lccsjme6rlju26q4pqcd",
+      "image_three": "https://images.luxuryescapes.com/t5r7w4j4kq5rbf41xq4u",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Frisco - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Frisco, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "frisco hotels",
+      "frisco travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/frisco",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/frisco",
+      "es": "https://mondoexplora.com/es/destination/frisco",
+      "fr": "https://mondoexplora.com/fr/destination/frisco",
+      "it": "https://mondoexplora.com/it/destination/frisco"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 260,
+    "average_discount": 0
+  }
+}

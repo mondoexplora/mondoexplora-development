@@ -1,0 +1,50 @@
+{
+  "city": "Hamilton",
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "hero_title": "Hôtels à Hamilton",
+  "description": "Découvrez les meilleurs hôtels à Hamilton, New Zealand. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/adgq9q5rcoxyyyugpej",
+  "hotels": [
+    {
+      "vendor_name": "Novotel Hamilton Tainui",
+      "offer_country_name": "New Zealand",
+      "location_heading": "Hamilton",
+      "title": "Hamilton Waikato Riverside Hotel with Restaurant & Bar",
+      "description": "Wander colourful Hamilton, New Zealand's fourth largest city, from this elegant riverside hotel. Perfectly positioned on the banks of the Waikato River, this hotel offers easy access to the city's best attractions. Pay a visit to the nearby Hamilton Gardens, a sensory feast of themed gardens from around the world, or explore the local dining scene, with the hotel's own Alma Eatery serving up modern New Zealand cuisine. For a slice of local culture, visit the Waikato Museum, just a short walk away.",
+      "location_subheading": "New Zealand",
+      "price": 146,
+      "original_price": 146,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnP4pYAF",
+      "hero_image": "https://images.luxuryescapes.com/adgq9q5rcoxyyyugpej",
+      "image_two": "https://images.luxuryescapes.com/r1cfabvdxrq9pdqlf8xh",
+      "image_three": "https://images.luxuryescapes.com/qiaefiupqznxy1xqios",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Hamilton - New Zealand Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Hamilton, New Zealand avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "hamilton hotels",
+      "hamilton travel",
+      "new zealand hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/hamilton",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/hamilton",
+      "es": "https://mondoexplora.com/es/destination/hamilton",
+      "fr": "https://mondoexplora.com/fr/destination/hamilton",
+      "it": "https://mondoexplora.com/it/destination/hamilton"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 146,
+    "average_discount": 0
+  }
+}

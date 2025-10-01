@@ -1,0 +1,50 @@
+{
+  "city": "Berkshire",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hotels in Berkshire",
+  "description": "Discover the best hotels in Berkshire, United Kingdom. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/hl19ka9llqutcg9a5c",
+  "hotels": [
+    {
+      "vendor_name": "Cliveden House",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Berkshire",
+      "title": "Luxurious Berkshire Palace Haven 50-Minutes from London with Pools, Spa & Award-Winning Dining",
+      "description": "Live like royalty, just an hour out of London, at this historic estate in the heart of Berkshire. This opulent retreat, once home to dukes, earls, and even a prince, offers only the best of the best across its lavishly furnished rooms and manicured gardens. Savour award-winning dining at The Astor Grill, enjoy traditional afternoon tea in a grand dining room, or explore the estate's 376 acres of stunning woodland and gardens. For a touch of rejuvination, visit the palace's spa for a luxurious treatment or enjoy a dip in the sparkling pool, before retiring to the lush Library Bar for a well-earned tipple.",
+      "location_subheading": "United Kingdom",
+      "price": 606,
+      "original_price": 606,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000IcYLBAA3",
+      "hero_image": "https://images.luxuryescapes.com/hl19ka9llqutcg9a5c",
+      "image_two": "https://images.luxuryescapes.com/gkkj8uspvxtteebbocv",
+      "image_three": "https://images.luxuryescapes.com/guaxqspr35r2nldvai",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Berkshire - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Berkshire, United Kingdom with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "berkshire hotels",
+      "berkshire travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/berkshire",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/berkshire",
+      "es": "https://mondoexplora.com/es/destination/berkshire",
+      "fr": "https://mondoexplora.com/fr/destination/berkshire",
+      "it": "https://mondoexplora.com/it/destination/berkshire"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 606,
+    "average_discount": 0
+  }
+}

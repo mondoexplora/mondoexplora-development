@@ -1,0 +1,50 @@
+{
+  "city": "Haikou",
+  "country": "China",
+  "country_code": "CN",
+  "hero_title": "Hoteles en Haikou",
+  "description": "Descubre los mejores hoteles en Haikou, China. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/rl7cuaivvsxf5w67hji",
+  "hotels": [
+    {
+      "vendor_name": "Sofitel Haikou",
+      "offer_country_name": "China",
+      "location_heading": "Haikou",
+      "title": "Hainan Island Grandeur in Haikou with Five Restaurants & Bars",
+      "description": "French sophistication meets tropical paradise at Sofitel Haikou, where elegant luxury unfolds along pristine coastlines. Savour exquisite French, Mediterranean and Asian cuisine across several acclaimed restaurants. Every moment in this urban sanctuary embodies Sofitel's signature art de vivre and world-class hospitality. Discover Haikou's cultural tapestry and natural wonders from this elegant base. Explore historic Old Quarter temples, stroll through lush Evergreen Park, or venture to volcanic Shishan landscapes. From night markets serving fresh seafood to serene beaches perfect for watersports, Hainan's capital offers endless adventures in China's tropical playground.",
+      "location_subheading": "China",
+      "price": 85,
+      "original_price": 85,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000IazVnYAJ",
+      "hero_image": "https://images.luxuryescapes.com/rl7cuaivvsxf5w67hji",
+      "image_two": "https://images.luxuryescapes.com/ia2g14r60pubrtdll41l",
+      "image_three": "https://images.luxuryescapes.com/m9kj8pj73eyk4j6gzn8l",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Haikou - China Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Haikou, China con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "haikou hotels",
+      "haikou travel",
+      "china hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/haikou",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/haikou",
+      "es": "https://mondoexplora.com/es/destination/haikou",
+      "fr": "https://mondoexplora.com/fr/destination/haikou",
+      "it": "https://mondoexplora.com/it/destination/haikou"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 85,
+    "average_discount": 0
+  }
+}

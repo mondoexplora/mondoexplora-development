@@ -1,0 +1,61 @@
+{
+  "name": "French Polynesia",
+  "code": "PF",
+  "hero_title": "French Polynesia Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in French Polynesia.",
+  "hero_image": "https://images.luxuryescapes.com/q9oh3ndllzmq73uixaq",
+  "popular_destinations": [
+    {
+      "name": "Bora Bora",
+      "slug": "bora-bora",
+      "image": "https://images.luxuryescapes.com/q9oh3ndllzmq73uixaq",
+      "description": "Explore Bora Bora with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 918
+    },
+    {
+      "name": "Fa'a'ā",
+      "slug": "fa'a'ā",
+      "image": "https://images.luxuryescapes.com/lxhnpvacoe5isu32y8q",
+      "description": "Explore Fa'a'ā with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 345
+    },
+    {
+      "name": "Moorea",
+      "slug": "moorea",
+      "image": "https://images.luxuryescapes.com/fbz71ce15ldjggbjgiyg",
+      "description": "Explore Moorea with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 484
+    },
+    {
+      "name": "Moorea-Maiao",
+      "slug": "moorea-maiao",
+      "image": "https://images.luxuryescapes.com/9q1a1c6sejd4ic2ncyi",
+      "description": "Explore Moorea-Maiao with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 548
+    }
+  ],
+  "seo": {
+    "title": "French Polynesia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in French Polynesia with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "french polynesia hotels",
+      "french polynesia travel",
+      "french polynesia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/french-polynesia",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/french-polynesia",
+      "es": "https://mondoexplora.com/es/country/french-polynesia",
+      "fr": "https://mondoexplora.com/fr/country/french-polynesia",
+      "it": "https://mondoexplora.com/it/country/french-polynesia"
+    }
+  }
+}

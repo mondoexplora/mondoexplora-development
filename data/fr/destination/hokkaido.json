@@ -1,0 +1,50 @@
+{
+  "city": "Hokkaido",
+  "country": "Japan",
+  "country_code": "JP",
+  "hero_title": "Hôtels à Hokkaido",
+  "description": "Découvrez les meilleurs hôtels à Hokkaido, Japan. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/j3tlz6nbqkoltb51pead",
+  "hotels": [
+    {
+      "vendor_name": "Chatrium Niseko Japan",
+      "offer_country_name": "Japan",
+      "location_heading": "Hokkaido",
+      "title": "Lavish Niseko Suites in the Heart of Hirafu Village with Michelin-Starred Restaurant",
+      "description": "In the heart of spectacular Hirafu Village, the ultra-modern Chatrium Niseko Japan offers a carefree and contemporary alpine stay, cradled by the soaring peaks of Mt Yotei and Mt Niseko Annupuri. This impressive hotel flaunts a blizzard of world-class dining facilities, including four impressive restaurants - ranging from Michelin-starred French-Japanese cuisine to Western favourites and tapas-style dining - and an onsite market, perfect for stocking up on trekking treats.",
+      "location_subheading": "Japan",
+      "price": 133,
+      "original_price": 133,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Ee4zEAAR",
+      "hero_image": "https://images.luxuryescapes.com/j3tlz6nbqkoltb51pead",
+      "image_two": "https://images.luxuryescapes.com/2qfwaaos7fg4fiu68wy",
+      "image_three": "https://images.luxuryescapes.com/0jh5fr1fpg5nmccecco",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Hokkaido - Japan Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Hokkaido, Japan avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "hokkaido hotels",
+      "hokkaido travel",
+      "japan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/hokkaido",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/hokkaido",
+      "es": "https://mondoexplora.com/es/destination/hokkaido",
+      "fr": "https://mondoexplora.com/fr/destination/hokkaido",
+      "it": "https://mondoexplora.com/it/destination/hokkaido"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 133,
+    "average_discount": 0
+  }
+}

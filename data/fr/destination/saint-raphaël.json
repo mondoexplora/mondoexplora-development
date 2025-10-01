@@ -1,0 +1,50 @@
+{
+  "city": "Saint-Raphaël",
+  "country": "France",
+  "country_code": "FR",
+  "hero_title": "Hôtels à Saint-Raphaël",
+  "description": "Découvrez les meilleurs hôtels à Saint-Raphaël, France. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/7wef6nsl28u4rot0xgjxi",
+  "hotels": [
+    {
+      "vendor_name": "Les Roches Rouges, a Beaumier Hotel",
+      "offer_country_name": "France",
+      "location_heading": "Saint-Raphaël",
+      "title": "Boutique Cote D'Azur Nature-Inspired Escape with Two Pools, Spa & Michelin-Starred Restaurant",
+      "description": "Discover the beauty of Southern France with a dreamy five-star stay at this boutique oasis , nestled between the garnet-red mountains of Esterel Massif and the azure waters of the Mediterranean. Bathed in light, Les Roches Rouges, Saint Raphael, a Beaumier Hotel boasts breathtaking views in a secluded and spectacular part of the world. During your stay, enjoy Michelin-starred dining by the sea at Récif Restaurant, feasting on the finest seafoods and meats from the hinterland. Enhance your relaxation even further with a massage or treatment at Les Roches Rouges Spa, a dip in one of the two pools facing the sea, or a private sailing excursion along the Esterel coastline.",
+      "location_subheading": "France",
+      "price": 402,
+      "original_price": 402,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000HV1SfYAL",
+      "hero_image": "https://images.luxuryescapes.com/7wef6nsl28u4rot0xgjxi",
+      "image_two": "https://images.luxuryescapes.com/3k9t12j1163iv32d10c",
+      "image_three": "https://images.luxuryescapes.com/spaqxc2o4v4n3a7jtc4i",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Saint-Raphaël - France Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Saint-Raphaël, France avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "saint-raphaël hotels",
+      "saint-raphaël travel",
+      "france hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/saint-raphaël",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/saint-raphaël",
+      "es": "https://mondoexplora.com/es/destination/saint-raphaël",
+      "fr": "https://mondoexplora.com/fr/destination/saint-raphaël",
+      "it": "https://mondoexplora.com/it/destination/saint-raphaël"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 402,
+    "average_discount": 0
+  }
+}

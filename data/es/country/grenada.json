@@ -1,0 +1,31 @@
+{
+  "name": "Grenada",
+  "code": "GD",
+  "hero_title": "Grenada Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Grenada.",
+  "hero_image": "https://images.luxuryescapes.com/pwti4l0sfq4l54g0b9",
+  "popular_destinations": [
+    {
+      "name": "St Davids",
+      "slug": "st-davids",
+      "image": "https://images.luxuryescapes.com/pwti4l0sfq4l54g0b9",
+      "description": "Explore St Davids with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Grenada Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Grenada con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "grenada hotels",
+      "grenada travel",
+      "grenada luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/gd",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/gd",
+      "es": "https://mondoexplora.com/es/country/gd",
+      "fr": "https://mondoexplora.com/fr/country/gd",
+      "it": "https://mondoexplora.com/it/country/gd"
+    }
+  }
+}

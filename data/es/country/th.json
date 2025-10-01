@@ -1,0 +1,61 @@
+{
+  "name": "Tailandia",
+  "code": "TH",
+  "hero_title": "Tailandia Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Thailand.",
+  "hero_image": "https://images.luxuryescapes.com/k8poq69wndgino863vk",
+  "popular_destinations": [
+    {
+      "name": "Bangkok",
+      "slug": "bangkok",
+      "image": "https://images.luxuryescapes.com/k8poq69wndgino863vk",
+      "description": "Explore Bangkok with luxury accommodations"
+    },
+    {
+      "name": "Chiang Mai",
+      "slug": "chiang-mai",
+      "image": "https://images.luxuryescapes.com/rzyjupiq6ucp227ast5r",
+      "description": "Explore Chiang Mai with luxury accommodations"
+    },
+    {
+      "name": "Hua Hin",
+      "slug": "hua-hin",
+      "image": "https://images.luxuryescapes.com/6j78i99gf4wtvcvciqg8",
+      "description": "Explore Hua Hin with luxury accommodations"
+    },
+    {
+      "name": "Khao Lak",
+      "slug": "khao-lak",
+      "image": "https://images.luxuryescapes.com/7l13kkeqiq8vz78ycn",
+      "description": "Explore Khao Lak with luxury accommodations"
+    },
+    {
+      "name": "Koh Samui",
+      "slug": "koh-samui",
+      "image": "https://images.luxuryescapes.com/c95vxyr3qlyemulf72r",
+      "description": "Explore Koh Samui with luxury accommodations"
+    },
+    {
+      "name": "Krabi",
+      "slug": "krabi",
+      "image": "https://images.luxuryescapes.com/dhfqx5ulv6qvym1lnq7q",
+      "description": "Explore Krabi with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Tailandia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Thailand con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "thailand hotels",
+      "thailand travel",
+      "thailand luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/th",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/th",
+      "es": "https://mondoexplora.com/es/country/th",
+      "fr": "https://mondoexplora.com/fr/country/th",
+      "it": "https://mondoexplora.com/it/country/th"
+    }
+  }
+}

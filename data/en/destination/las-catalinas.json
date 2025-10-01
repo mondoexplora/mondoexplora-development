@@ -1,0 +1,50 @@
+{
+  "city": "Las Catalinas",
+  "country": "Costa Rica",
+  "country_code": "CR",
+  "hero_title": "Hotels in Las Catalinas",
+  "description": "Discover the best hotels in Las Catalinas, Costa Rica. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/hwca5e5h4nmnahz5kg53",
+  "hotels": [
+    {
+      "vendor_name": "Santarena Hotel at Las Catalinas",
+      "offer_country_name": "Costa Rica",
+      "location_heading": "Las Catalinas",
+      "title": "Charming Costa Rica Coastal Mansion Steps from Beachfront with Rooftop Terrace, Pool & Restaurants",
+      "description": "Become immersed in quintessential old-world Costa Rican luxury with a stay in the marvellous Santarena Hotel. Nestled in the vibrant Las Catalinas, this architectural masterpiece stands as a loving homage to the free-spirited and classically beautiful old mansions of Havana and Cartegena. Steps away, discover the pristine Playa Danta, or discover gastronomic joie de vivre at Ponciana. Explore the nearby tropical forest trails, and return to unwind in the rooftop terrace pool.",
+      "location_subheading": "Costa Rica",
+      "price": 201,
+      "original_price": 201,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Fmuu5AAB",
+      "hero_image": "https://images.luxuryescapes.com/hwca5e5h4nmnahz5kg53",
+      "image_two": "https://images.luxuryescapes.com/ti2g90jo0w32gueb5y3e",
+      "image_three": "https://images.luxuryescapes.com/5hvzton0yu24pv0sxjw",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Las Catalinas - Costa Rica Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Las Catalinas, Costa Rica with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "las catalinas hotels",
+      "las catalinas travel",
+      "costa rica hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/las-catalinas",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/las-catalinas",
+      "es": "https://mondoexplora.com/es/destination/las-catalinas",
+      "fr": "https://mondoexplora.com/fr/destination/las-catalinas",
+      "it": "https://mondoexplora.com/it/destination/las-catalinas"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 201,
+    "average_discount": 0
+  }
+}

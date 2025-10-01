@@ -1,0 +1,50 @@
+{
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "country_code": "SK",
+  "hero_title": "Hoteles en Bratislava",
+  "description": "Descubre los mejores hoteles en Bratislava, Slovakia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/mpe2l4re7dpv0z3h2mmp",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Bratislava",
+      "offer_country_name": "Slovakia",
+      "location_heading": "Bratislava",
+      "title": "Bratislava City Centre Refined Retreat near Grassalkovich Palace",
+      "description": "Near Grassalkovich Palace and boasting Danube River views, Crowne Plaza Bratislava, an IHG Hotel, is a refined refuge in the heart of this heritage city. Fresh! restaurant makes healthy choices easy with gluten-free a la carte options on their international menu and the onsite fitness centre is sure to invigorate your body and mind. As evening approaches, explore the dynamic neighbourhood of Bratislava's Old Town or enjoy a refined drink in comfort from the picturesque summer terrace.",
+      "location_subheading": "Slovakia",
+      "price": 104,
+      "original_price": 104,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJZqAAP",
+      "hero_image": "https://images.luxuryescapes.com/mpe2l4re7dpv0z3h2mmp",
+      "image_two": "https://images.luxuryescapes.com/zgs4cquw1hfnrl5ii6wq",
+      "image_three": "https://images.luxuryescapes.com/jdizu74izh9n2wyp7m4h",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Bratislava - Slovakia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Bratislava, Slovakia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "bratislava hotels",
+      "bratislava travel",
+      "slovakia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/bratislava",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/bratislava",
+      "es": "https://mondoexplora.com/es/destination/bratislava",
+      "fr": "https://mondoexplora.com/fr/destination/bratislava",
+      "it": "https://mondoexplora.com/it/destination/bratislava"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 104,
+    "average_discount": 0
+  }
+}

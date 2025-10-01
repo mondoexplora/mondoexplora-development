@@ -1,0 +1,50 @@
+{
+  "city": "Caloundra",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Caloundra",
+  "description": "Discover the best hotels in Caloundra, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/lr66zcfvuh7munx0bl6k",
+  "hotels": [
+    {
+      "vendor_name": "Oaks Sunshine Coast Oasis Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Caloundra",
+      "title": "Fun-Filled Sunshine Coast Escape with Waterpark & Mini-Golf Course",
+      "description": "The whole family or a group of friends can enjoy an escape brimming with extra-special, fun in the sun moments when staying at Oaks Sunshine Coast Oasis Resort. Incredible facilities include an exciting onsite waterpark, large outdoor swimming pool, mini-golf golf course, sandpit, climbing frame and giant Kangaroo Jumper - there's something for all ages. The Oak & Vine Sunshine Coast restaurant is a popular eatery for Caloundra locals or visitors and is perfect for a tasty meal along the waterfront or a glass of wine on the deck.",
+      "location_subheading": "Australia",
+      "price": 111,
+      "original_price": 111,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000009BU8NAAW",
+      "hero_image": "https://images.luxuryescapes.com/lr66zcfvuh7munx0bl6k",
+      "image_two": "https://images.luxuryescapes.com/t4vlcczjv3sde6b7dmc",
+      "image_three": "https://images.luxuryescapes.com/3d6wtkjy9738ojm4mpy",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Caloundra - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Caloundra, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "caloundra hotels",
+      "caloundra travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/caloundra",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/caloundra",
+      "es": "https://mondoexplora.com/es/destination/caloundra",
+      "fr": "https://mondoexplora.com/fr/destination/caloundra",
+      "it": "https://mondoexplora.com/it/destination/caloundra"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 111,
+    "average_discount": 0
+  }
+}

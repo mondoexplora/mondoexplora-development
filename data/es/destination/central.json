@@ -1,0 +1,50 @@
+{
+  "city": "Central",
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "hero_title": "Hoteles en Central",
+  "description": "Descubre los mejores hoteles en Central, Hong Kong. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/vwz7k3hbokme0g8jlce",
+  "hotels": [
+    {
+      "vendor_name": "The Putman",
+      "offer_country_name": "Hong Kong",
+      "location_heading": "Central",
+      "title": "Sky-High Hong Kong Designer Suites",
+      "description": "Float among the clouds with an escape to The Putman, a sky-scraping luxury hotel designed by the late illustrious interior designer, Andrée Putman. The boutique urban retreat sits above the bustling neighbourhoods of Sheung Wan and Soho in the heart of Hong Kong, offering an oasis of calm amid the area’s ancient temples, stylish restaurants and lively nightlife. They will be no doubting which city you’re in from your suite - floor-to-ceiling windows with spectacular views come standard. Offering a truly luxurious home-away-from-home experience, the contemporary full-floor suites feature a living room, fully equipped kitchen, master bedroom and stylish ensuite with bathtub. While your suite should have everything you need for a sensational stay, the 24-hour front desk is on hand for anything else.",
+      "location_subheading": "Hong Kong",
+      "price": 162,
+      "original_price": 162,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000005HDvoAAG",
+      "hero_image": "https://images.luxuryescapes.com/vwz7k3hbokme0g8jlce",
+      "image_two": "https://images.luxuryescapes.com/1uxaxet7etqmza9sy6g",
+      "image_three": "https://images.luxuryescapes.com/17f03sfuja87p2w4qt36",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Central - Hong Kong Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Central, Hong Kong con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "central hotels",
+      "central travel",
+      "hong kong hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/central",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/central",
+      "es": "https://mondoexplora.com/es/destination/central",
+      "fr": "https://mondoexplora.com/fr/destination/central",
+      "it": "https://mondoexplora.com/it/destination/central"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 162,
+    "average_discount": 0
+  }
+}

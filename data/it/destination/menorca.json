@@ -1,0 +1,50 @@
+{
+  "city": "Menorca",
+  "country": "Spain",
+  "country_code": "ES",
+  "hero_title": "Hotel a Menorca",
+  "description": "Scopri i migliori hotel a Menorca, Spain. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/0sbdgrwg7bjrtjgtoxru",
+  "hotels": [
+    {
+      "vendor_name": "Menorca Experimental",
+      "offer_country_name": "Spain",
+      "location_heading": "Menorca",
+      "title": "Boutique Beachside Menorca Retreat Hidden in 19th-Century Finca",
+      "description": "Discover your inner artist with a stay at the peachy pink Menorca Experimental, a 19th-century finca turned boutique beachside resort, designed in the style of a secluded artist's retreat. Sitting on 40 acres of biodiverse Spanish land at the southern end of Menorca, this exclusive resort is a coastal oasis surrounded by untouched coves, whitewashed cottages and flourishing pine shrubs. It’s just a five-minute scramble to the nearest pebbly cove, while the sands of the island’s longest beach, Son Bou, require a 10-minute trip in the car. Menorca Experimental balances solitude and conviviality, with plenty of private corners and expansive shared spaces offering breathtaking views of the surrounding landscapes. Designer Dorothée Meilichzon led the hotel’s transformation, retaining the finca’s original details while adding modern Art Deco-inspired influences, including a party of terracotta, rattan and waxed concrete textures. Perch on a peach lounge by the infinity pool, staying hydrated thanks to the nearby bar, or book into one of the multiple activities on offer - think yoga, pottery, horse riding or drawing classes. However you spend your days, you’ll want to end them at the hotel restaurant, where the emphasis is on seasonal produce from the sea and land - including the hotel’s vegetable garden. Wash everything down with a cocktail crafted by the expert team, like the pomade, a mix of Mahon-distilled gin and lemonade.",
+      "location_subheading": "Spain",
+      "price": 220,
+      "original_price": 220,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000003GqSzAAK",
+      "hero_image": "https://images.luxuryescapes.com/0sbdgrwg7bjrtjgtoxru",
+      "image_two": "https://images.luxuryescapes.com/wud4lxml57h8k6pzhqf",
+      "image_three": "https://images.luxuryescapes.com/eaxu5hkpjn1zhwbf3xj",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Menorca - Spain Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Menorca, Spain con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "menorca hotels",
+      "menorca travel",
+      "spain hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/menorca",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/menorca",
+      "es": "https://mondoexplora.com/es/destination/menorca",
+      "fr": "https://mondoexplora.com/fr/destination/menorca",
+      "it": "https://mondoexplora.com/it/destination/menorca"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 220,
+    "average_discount": 0
+  }
+}

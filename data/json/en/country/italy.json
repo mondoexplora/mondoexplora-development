@@ -1,0 +1,79 @@
+{
+  "name": "Italy",
+  "code": "IT",
+  "hero_title": "Italy Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Italy.",
+  "hero_image": "https://images.luxuryescapes.com/brf9px81p80vc5eme8pd",
+  "popular_destinations": [
+    {
+      "name": "Rome",
+      "slug": "rome",
+      "image": "https://images.luxuryescapes.com/brf9px81p80vc5eme8pd",
+      "description": "Explore Rome with luxury accommodations",
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 376
+    },
+    {
+      "name": "Milan",
+      "slug": "milan",
+      "image": "https://images.luxuryescapes.com/40nfb59rcmi67fq35ipl",
+      "description": "Explore Milan with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 203
+    },
+    {
+      "name": "Venice",
+      "slug": "venice",
+      "image": "https://images.luxuryescapes.com/xg5nm4az8p93lgz5c25",
+      "description": "Explore Venice with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 387
+    },
+    {
+      "name": "Tuscany",
+      "slug": "tuscany",
+      "image": "https://images.luxuryescapes.com/b48uikreykct1kzy1bg9",
+      "description": "Explore Tuscany with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 606
+    },
+    {
+      "name": "Florence",
+      "slug": "florence",
+      "image": "https://images.luxuryescapes.com/nmrii1lk3oh807myu5f",
+      "description": "Explore Florence with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 435
+    },
+    {
+      "name": "Verona",
+      "slug": "verona",
+      "image": "https://images.luxuryescapes.com/bh6m6d2g2vlctz5sxp8",
+      "description": "Explore Verona with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 108
+    }
+  ],
+  "seo": {
+    "title": "Italy Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Italy with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "italy hotels",
+      "italy travel",
+      "italy luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/it",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/it",
+      "es": "https://mondoexplora.com/es/country/it",
+      "fr": "https://mondoexplora.com/fr/country/it",
+      "it": "https://mondoexplora.com/it/country/it"
+    }
+  }
+}

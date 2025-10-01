@@ -1,0 +1,37 @@
+{
+  "name": "Cyprus",
+  "code": "CY",
+  "hero_title": "Cyprus Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Cyprus.",
+  "hero_image": "https://images.luxuryescapes.com/ft2w3accr26nml139aa",
+  "popular_destinations": [
+    {
+      "name": "Larnaca",
+      "slug": "larnaca",
+      "image": "https://images.luxuryescapes.com/ft2w3accr26nml139aa",
+      "description": "Explore Larnaca with luxury accommodations"
+    },
+    {
+      "name": "Limassol",
+      "slug": "limassol",
+      "image": "https://images.luxuryescapes.com/1mlrmpn0xg48zgmwvpd",
+      "description": "Explore Limassol with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Cyprus Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Cyprus con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "cyprus hotels",
+      "cyprus travel",
+      "cyprus luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/cy",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/cy",
+      "es": "https://mondoexplora.com/es/country/cy",
+      "fr": "https://mondoexplora.com/fr/country/cy",
+      "it": "https://mondoexplora.com/it/country/cy"
+    }
+  }
+}

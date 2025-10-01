@@ -1,0 +1,68 @@
+{
+  "city": "Tuscany",
+  "country": "Italy",
+  "country_code": "IT",
+  "hero_title": "Hoteles en Tuscany",
+  "description": "Descubre los mejores hoteles en Tuscany, Italy. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/b48uikreykct1kzy1bg9",
+  "hotels": [
+    {
+      "vendor_name": "Fonteverde LHW, Tuscany",
+      "offer_country_name": "Italy",
+      "location_heading": "Tuscany",
+      "title": "Tuscan Villa Romance in Heritage-Listed Val d’Orcia with Daily Breakfast, Nightly Drinks & EUR80 Credit",
+      "description": "Located in the rolling hills of Val d’Orcia, a UNESCO World Heritage Site, this utterly blissful five-star retreat is your gateway to the beauty of Tuscany. This historic Medici villa, a proud member of The Leading Hotels of the World, offers breathtaking panoramic views of vineyards and olive groves. Renowned for its natural thermal springs, Fonteverde Lifestyle & Thermal Retreat features a world-class spa with multiple indoor and outdoor pools, where mineral-rich waters emerge at 42°C, providing a world of therapeutic benefits. Wake to breakfast with landscape views at La Corte Restaurant, spend nights sipping wine at Bar il Falconiere or slink into plush seats for dinner at Ferdinando I Restaurant, housed inside a Renaissance-era portico.",
+      "location_subheading": "Italy",
+      "price": 789,
+      "original_price": 2545,
+      "discount_percentage": 69,
+      "link": "https://luxuryescapes.com/offer/006RF00000Inl3RYAR",
+      "hero_image": "https://images.luxuryescapes.com/b48uikreykct1kzy1bg9",
+      "image_two": "https://images.luxuryescapes.com/hoaaw4fuvdy3slqulc9",
+      "image_three": "https://images.luxuryescapes.com/65enorak98v6f2bvz03",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2025-08-04 13:59:00"
+    },
+    {
+      "vendor_name": "Toscana Resort Castelfalfi",
+      "offer_country_name": "Italy",
+      "location_heading": "Tuscany",
+      "title": "Five-Star Tuscany Escape Just One Hour from Pisa with World-Class Spa & 27-Hole Golf Course",
+      "description": "If you’re looking for an authentic Italian experience in the Tuscan countryside, then this secluded haven - just an hour outside of Pisa and Lucca - may be the perfect place for you to taste la dolce vita. Surrounded by thick olive groves, vineyard-cloaked valleys and lush hills, the stunning Toscana Resort Castelfalfi is the perfect base to fall in love with all provincial Italy has to offer. A one-of-a-kind showcase of the Italian lifestyle, the sprawling resort is complete with a long list of five-star facilities. Wine and dine on authentic cuisine across six gourmet restaurants and bars, tee-off on the 27-hole golf course, take a dip in the heated indoor and outdoor swimming pools and unwind at a blissful spa self-proclaimed to be 'Tuscany's best spa' with a Finnish sauna, Turkish bath and sensory showers. Plus, this retreat is home to its very own olive oil and wine estate and boasts numerous activities to help you embrace the Italian culture, including cooking classes and truffle hunting (charges apply). When the time comes to leave your luxe hideaway, you could visit the beautiful cities of Pisa, the ‘cradle of the Renaissance’ Florence, San Gimignano and Volterra.",
+      "location_subheading": "Italy",
+      "price": 423,
+      "original_price": 423,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000006zbNMAAY",
+      "hero_image": "https://images.luxuryescapes.com/wt54xm0im8ps30la302",
+      "image_two": "https://images.luxuryescapes.com/n367pwd9xp3vtbx7cl1",
+      "image_three": "https://images.luxuryescapes.com/t0g87mlfsbda0bi3bhe",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Tuscany - Italy Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Tuscany, Italy con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "tuscany hotels",
+      "tuscany travel",
+      "italy hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/tuscany",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/tuscany",
+      "es": "https://mondoexplora.com/es/destination/tuscany",
+      "fr": "https://mondoexplora.com/fr/destination/tuscany",
+      "it": "https://mondoexplora.com/it/destination/tuscany"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 606,
+    "average_discount": 35
+  }
+}

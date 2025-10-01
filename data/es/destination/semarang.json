@@ -1,0 +1,50 @@
+{
+  "city": "Semarang",
+  "country": "Indonesia",
+  "country_code": "ID",
+  "hero_title": "Hoteles en Semarang",
+  "description": "Descubre los mejores hoteles en Semarang, Indonesia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/uusx9pxq3ea50z3uvpiv",
+  "hotels": [
+    {
+      "vendor_name": "Novotel Semarang",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Semarang",
+      "title": "Contemporary Novotel Semarang Escape near Paragon Mall with Pool, Spa & Two Restaurants",
+      "description": "Experience the cultural richness of Central Java with an elegant stay at this Novotel city oasis, located in the heart of Semarang's bustling business district, right across from Paragon Mall. A short stroll from the historic old town teeming with Dutch colonial buildings, antique shops and quaint cafes, this modern retreat acts as the perfect base for all your Semarang explorations. Relax and unwind in the hotel's well-appointed rooms, take a refreshing dip in the shimmering outdoor pool, tuck into authentic Indonesian fare at the hotel's Square Restaurant and savour grilled delicacies at Citrus Restaurant. Later, head to Simpang Lima to experience the city's vibrant nightlife and indulge in epic culinary delights.",
+      "location_subheading": "Indonesia",
+      "price": 34,
+      "original_price": 34,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnOvNYAV",
+      "hero_image": "https://images.luxuryescapes.com/uusx9pxq3ea50z3uvpiv",
+      "image_two": "https://images.luxuryescapes.com/n5jz9hwpwsusvva9dwfl",
+      "image_three": "https://images.luxuryescapes.com/ftfqrvai67oo9me29sk",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Semarang - Indonesia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Semarang, Indonesia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "semarang hotels",
+      "semarang travel",
+      "indonesia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/semarang",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/semarang",
+      "es": "https://mondoexplora.com/es/destination/semarang",
+      "fr": "https://mondoexplora.com/fr/destination/semarang",
+      "it": "https://mondoexplora.com/it/destination/semarang"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 34,
+    "average_discount": 0
+  }
+}

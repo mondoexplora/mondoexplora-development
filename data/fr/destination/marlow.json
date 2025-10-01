@@ -1,0 +1,50 @@
+{
+  "city": "Marlow",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hôtels à Marlow",
+  "description": "Découvrez les meilleurs hôtels à Marlow, United Kingdom. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/sz9uv40ko8n59e4ohm3g",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Marlow",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Marlow",
+      "title": "UK Contemporary Marlow Retreat in Heart of Buckinghamshire near River Thames",
+      "description": "Let the glorious English countryside capture your heart with a stay at the contemporary Crowne Plaza Marlow, an IHG Hotel, set alongside the River Thames. From this perfect springboard, spend days taking in green surroundings, wandering along bunting-strung streets hiding gastronomic delights, or breathing in fresh air on hiking and cycling routes. Savour contemporary cuisine at Glaze Restaurant, settle in with views of the River Thames or get lost in a tranquil treatment at the hotel’s spa.",
+      "location_subheading": "United Kingdom",
+      "price": 123,
+      "original_price": 123,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJaFAAX",
+      "hero_image": "https://images.luxuryescapes.com/sz9uv40ko8n59e4ohm3g",
+      "image_two": "https://images.luxuryescapes.com/cnzecpice244xs8t1gp",
+      "image_three": "https://images.luxuryescapes.com/dek0zsg20mnm5vw8lle9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Marlow - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Marlow, United Kingdom avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "marlow hotels",
+      "marlow travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/marlow",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/marlow",
+      "es": "https://mondoexplora.com/es/destination/marlow",
+      "fr": "https://mondoexplora.com/fr/destination/marlow",
+      "it": "https://mondoexplora.com/it/destination/marlow"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 123,
+    "average_discount": 0
+  }
+}

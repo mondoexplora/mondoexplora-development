@@ -1,0 +1,50 @@
+{
+  "city": "Puebla",
+  "country": "Mexico",
+  "country_code": "MX",
+  "hero_title": "Hoteles en Puebla",
+  "description": "Descubre los mejores hoteles en Puebla, Mexico. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/08kr7lcsvgho32t3kq",
+  "hotels": [
+    {
+      "vendor_name": "Banyan Tree Puebla",
+      "offer_country_name": "Mexico",
+      "location_heading": "Puebla",
+      "title": "Five-Star Ornate Escape in World Heritage Puebla City with Authentic Mexican Bar",
+      "description": "Immerse yourself in the timeless elegance of traditional Mexican design at the Banyan Tree Puebla, nestled within the beautifully preserved UNESCO World-Heritage listed city of Puebla. This five-star sanctuary offers a captivating journey through Mexico's past - the onsite Los Lavaderos bar dates back to the 19th century and offers an extensive list of cocktails. Indulge in a culinary adventure at the five restaurants and bars, or take a bespoke cooking class with the hotel's esteemed chefs.",
+      "location_subheading": "Mexico",
+      "price": 148,
+      "original_price": 148,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000GPx77AAD",
+      "hero_image": "https://images.luxuryescapes.com/08kr7lcsvgho32t3kq",
+      "image_two": "https://images.luxuryescapes.com/uucj03sk1xdpmpv01uo",
+      "image_three": "https://images.luxuryescapes.com/lehlzc9ealsx31ewhup",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Puebla - Mexico Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Puebla, Mexico con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "puebla hotels",
+      "puebla travel",
+      "mexico hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/puebla",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/puebla",
+      "es": "https://mondoexplora.com/es/destination/puebla",
+      "fr": "https://mondoexplora.com/fr/destination/puebla",
+      "it": "https://mondoexplora.com/it/destination/puebla"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 148,
+    "average_discount": 0
+  }
+}

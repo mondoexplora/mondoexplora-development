@@ -1,0 +1,50 @@
+{
+  "city": "Ettalong",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Ettalong",
+  "description": "Discover the best hotels in Ettalong, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/xdf437jb6ooyn73qwxf1w",
+  "hotels": [
+    {
+      "vendor_name": "Mantra Ettalong Beach",
+      "offer_country_name": "Australia",
+      "location_heading": "Ettalong",
+      "title": "NSW Central Coast Apartment-Style Waterfront Escape Just 90 Minutes from Sydney",
+      "description": "Your dreams of beachfront bliss will come true on the tranquil shores of Ettalong Beach on New South Wales' Central Coast - just a 90-minute drive from Sydney. This captivating destination offers a wealth of natural wonders, from national parks and lush forests, to unspoiled beaches and an abundance of native wildlife. Immerse yourself in the enchanting coastal lifestyle from a collection of self-contained suites with all the comforts of home.",
+      "location_subheading": "Australia",
+      "price": 92,
+      "original_price": 92,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000JRer8AAD",
+      "hero_image": "https://images.luxuryescapes.com/xdf437jb6ooyn73qwxf1w",
+      "image_two": "https://images.luxuryescapes.com/rit4cf2gaf2ko3qnpt0t",
+      "image_three": "https://images.luxuryescapes.com/d3n3qo7dkweg1gdgmn59",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Ettalong - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Ettalong, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "ettalong hotels",
+      "ettalong travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/ettalong",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/ettalong",
+      "es": "https://mondoexplora.com/es/destination/ettalong",
+      "fr": "https://mondoexplora.com/fr/destination/ettalong",
+      "it": "https://mondoexplora.com/it/destination/ettalong"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 92,
+    "average_discount": 0
+  }
+}

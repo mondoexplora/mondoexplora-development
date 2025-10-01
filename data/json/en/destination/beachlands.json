@@ -1,0 +1,50 @@
+{
+  "city": "Beachlands",
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "hero_title": "Hotels in Beachlands",
+  "description": "Discover the best hotels in Beachlands, New Zealand. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/oemolyvjujgmi4vti8d",
+  "hotels": [
+    {
+      "vendor_name": "Rydges Formosa Golf Resort",
+      "offer_country_name": "New Zealand",
+      "location_heading": "Beachlands",
+      "title": "Stylish North Island Coastal Retreat with 18-Hole Championship Golf Course",
+      "description": "Swing into the sublime with a stay at Rydges Formosa Golf Resort, just 40 minutes from Auckland. The resort offers majestic views of the dramatic Hauraki Gulf, Waiheke Island, Rangitoto Island and the Coromandel Peninsula from its sprawling clifftop and has the putting pedigree to match - tee off across its acclaimed world-class 18-hole championship golf course or master the perfect swing at the undercover driving range.",
+      "location_subheading": "New Zealand",
+      "price": 82,
+      "original_price": 82,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000004v0xVAAQ",
+      "hero_image": "https://images.luxuryescapes.com/oemolyvjujgmi4vti8d",
+      "image_two": "https://images.luxuryescapes.com/c9bg853is7931co9ilm",
+      "image_three": "https://images.luxuryescapes.com/kko3oqazras5ococdry",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Beachlands - New Zealand Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Beachlands, New Zealand with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "beachlands hotels",
+      "beachlands travel",
+      "new zealand hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/beachlands",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/beachlands",
+      "es": "https://mondoexplora.com/es/destination/beachlands",
+      "fr": "https://mondoexplora.com/fr/destination/beachlands",
+      "it": "https://mondoexplora.com/it/destination/beachlands"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 82,
+    "average_discount": 0
+  }
+}

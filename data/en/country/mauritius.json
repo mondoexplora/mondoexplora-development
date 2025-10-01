@@ -1,0 +1,79 @@
+{
+  "name": "Mauritius",
+  "code": "MU",
+  "hero_title": "Mauritius Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Mauritius.",
+  "hero_image": "https://images.luxuryescapes.com/rwlyooy26kjodlidgioe",
+  "popular_destinations": [
+    {
+      "name": "Bel Ombre",
+      "slug": "bel-ombre",
+      "image": "https://images.luxuryescapes.com/rwlyooy26kjodlidgioe",
+      "description": "Explore Bel Ombre with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 219
+    },
+    {
+      "name": "Balaclava",
+      "slug": "balaclava",
+      "image": "https://images.luxuryescapes.com/d94763igr6gtm91dz07z8",
+      "description": "Explore Balaclava with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 245
+    },
+    {
+      "name": "Belle Mare",
+      "slug": "belle-mare",
+      "image": "https://images.luxuryescapes.com/niq27g5fsaj1frcxz04i",
+      "description": "Explore Belle Mare with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 631
+    },
+    {
+      "name": "Flic En Flac",
+      "slug": "flic-en-flac",
+      "image": "https://images.luxuryescapes.com/8l8xhc3kr8uuuvei0a",
+      "description": "Explore Flic En Flac with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 310
+    },
+    {
+      "name": "Plaine Magnien",
+      "slug": "plaine-magnien",
+      "image": "https://images.luxuryescapes.com/nb28x86bqf9ax3ali5gj",
+      "description": "Explore Plaine Magnien with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 314
+    },
+    {
+      "name": "Trou d'Eau Douce",
+      "slug": "trou-d'eau-douce",
+      "image": "https://images.luxuryescapes.com/qvkjj1kn4d3evzdg7a",
+      "description": "Explore Trou d'Eau Douce with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 519
+    }
+  ],
+  "seo": {
+    "title": "Mauritius Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Mauritius with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "mauritius hotels",
+      "mauritius travel",
+      "mauritius luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/mauritius",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/mauritius",
+      "es": "https://mondoexplora.com/es/country/mauritius",
+      "fr": "https://mondoexplora.com/fr/country/mauritius",
+      "it": "https://mondoexplora.com/it/country/mauritius"
+    }
+  }
+}

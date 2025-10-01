@@ -1,0 +1,50 @@
+{
+  "city": "El Jadida",
+  "country": "Morocco",
+  "country_code": "MA",
+  "hero_title": "Hoteles en El Jadida",
+  "description": "Descubre los mejores hoteles en El Jadida, Morocco. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/bwg0xm1ggeowkd7yulv",
+  "hotels": [
+    {
+      "vendor_name": "Mazagan Beach & Golf Resort",
+      "offer_country_name": "Morocco",
+      "location_heading": "El Jadida",
+      "title": "Five-Star Casablanca Golf Resort with Unbeatable Beachfront Location",
+      "description": "From golf greens to golden beaches, the five-star Mazagan Beach & Golf Resort in Casablanca has it all. This grand, Moorish-style resort is a gourmand's dream with nine incredible restaurants and three bars onsite, while a traditional hammam in the luxury day spa will make for an authentic and relaxing experience. Keen golfers can practise their swing on the pristine golf course designed by the world-renowned golfer Gary Player, while the less-active can simply stretch out by one of two picture-perfect pools.",
+      "location_subheading": "Morocco",
+      "price": 185,
+      "original_price": 185,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000008gJR0AAM",
+      "hero_image": "https://images.luxuryescapes.com/bwg0xm1ggeowkd7yulv",
+      "image_two": "https://images.luxuryescapes.com/osactovi8ilewy0mda",
+      "image_three": "https://images.luxuryescapes.com/ev53fd3a7ql8gmo3uemo",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en El Jadida - Morocco Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en El Jadida, Morocco con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "el jadida hotels",
+      "el jadida travel",
+      "morocco hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/el-jadida",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/el-jadida",
+      "es": "https://mondoexplora.com/es/destination/el-jadida",
+      "fr": "https://mondoexplora.com/fr/destination/el-jadida",
+      "it": "https://mondoexplora.com/it/destination/el-jadida"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 185,
+    "average_discount": 0
+  }
+}

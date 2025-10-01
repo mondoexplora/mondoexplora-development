@@ -1,0 +1,50 @@
+{
+  "city": "Ankara",
+  "country": "Turkey",
+  "country_code": "TR",
+  "hero_title": "Hôtels à Ankara",
+  "description": "Découvrez les meilleurs hôtels à Ankara, Turkey. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/dec898behrdewoq1ft8b",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Ankara",
+      "offer_country_name": "Turkey",
+      "location_heading": "Ankara",
+      "title": "Turkiye Modern Urban Escape with Traditional Turkish Hammam Experience",
+      "description": "In the heart of the metropolis, Crowne Plaza Ankara, an IHG Hotel makes the ideal base for your exploration of Turkiye's capital city. Make use of the tranquil Spa Vita&Fitness, ideal for recharging between adventures, offering steam sessions in the sauna, a traditional Turkish bathing experience or a relaxing massage. When it comes to dining, look no further than Aura Restaurant for a delicious array of authentic Turkish and international bites from morning to night.",
+      "location_subheading": "Turkey",
+      "price": 105,
+      "original_price": 105,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJYgAAP",
+      "hero_image": "https://images.luxuryescapes.com/dec898behrdewoq1ft8b",
+      "image_two": "https://images.luxuryescapes.com/fnms98o28jl123a3qgn",
+      "image_three": "https://images.luxuryescapes.com/oxyq033eeesx1cy6aibf",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Ankara - Turkey Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Ankara, Turkey avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "ankara hotels",
+      "ankara travel",
+      "turkey hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/ankara",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/ankara",
+      "es": "https://mondoexplora.com/es/destination/ankara",
+      "fr": "https://mondoexplora.com/fr/destination/ankara",
+      "it": "https://mondoexplora.com/it/destination/ankara"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 105,
+    "average_discount": 0
+  }
+}

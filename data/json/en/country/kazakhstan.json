@@ -1,0 +1,34 @@
+{
+  "name": "Kazakhstan",
+  "code": "KZ",
+  "hero_title": "Kazakhstan Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Kazakhstan.",
+  "hero_image": "https://images.luxuryescapes.com/tvfoe75twh9gjqo77tbd",
+  "popular_destinations": [
+    {
+      "name": "Aktau",
+      "slug": "aktau",
+      "image": "https://images.luxuryescapes.com/tvfoe75twh9gjqo77tbd",
+      "description": "Explore Aktau with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 234
+    }
+  ],
+  "seo": {
+    "title": "Kazakhstan Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Kazakhstan with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "kazakhstan hotels",
+      "kazakhstan travel",
+      "kazakhstan luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/kz",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/kz",
+      "es": "https://mondoexplora.com/es/country/kz",
+      "fr": "https://mondoexplora.com/fr/country/kz",
+      "it": "https://mondoexplora.com/it/country/kz"
+    }
+  }
+}

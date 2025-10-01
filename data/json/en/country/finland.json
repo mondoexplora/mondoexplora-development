@@ -1,0 +1,34 @@
+{
+  "name": "Finland",
+  "code": "FI",
+  "hero_title": "Finland Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Finland.",
+  "hero_image": "https://images.luxuryescapes.com/sfiuksxthb2bee7kx5w",
+  "popular_destinations": [
+    {
+      "name": "Helsinki",
+      "slug": "helsinki",
+      "image": "https://images.luxuryescapes.com/sfiuksxthb2bee7kx5w",
+      "description": "Explore Helsinki with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 119
+    }
+  ],
+  "seo": {
+    "title": "Finland Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Finland with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "finland hotels",
+      "finland travel",
+      "finland luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/fi",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/fi",
+      "es": "https://mondoexplora.com/es/country/fi",
+      "fr": "https://mondoexplora.com/fr/country/fi",
+      "it": "https://mondoexplora.com/it/country/fi"
+    }
+  }
+}

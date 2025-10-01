@@ -1,0 +1,50 @@
+{
+  "city": "Cancún",
+  "country": "Mexico",
+  "country_code": "MX",
+  "hero_title": "Hoteles en Cancún",
+  "description": "Descubre los mejores hoteles en Cancún, Mexico. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/uy16v4pkda5443xdups",
+  "hotels": [
+    {
+      "vendor_name": "Intercontinental Presidente Cancun Resort",
+      "offer_country_name": "Mexico",
+      "location_heading": "Cancún",
+      "title": "Luxe Five-Star Beachfront Resort Surrounded by Crystal Clear Caribbean Waters",
+      "description": "Let loose in the vibrant culture of Mexico with a stay at the InterContinental Presidente Cancun Resort, an IHG Hotel. This beachfront sanctuary offers a blend of modern luxury and traditional Mexican charm, with a prime location near the bustling heart of Cancun. When you're not exploring the city's colourful markets and historic sites, indulge in authentic Mexican cuisine at the hotel's El Caribeño restaurant, or sip on expertly crafted cocktails at the Tequila Bar. For a dose of relaxation, head to the serene Ikal Spa for a signature treatment or take a leisurely stroll along the hotel's private white sand beach. Let your little ones explore and make new friends at an onsite kid's club. Something for everyone - a picture-perfect escape.",
+      "location_subheading": "Mexico",
+      "price": 207,
+      "original_price": 207,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Bdt7KAAR",
+      "hero_image": "https://images.luxuryescapes.com/uy16v4pkda5443xdups",
+      "image_two": "https://images.luxuryescapes.com/mlmdiovjks1r7vmdqc9",
+      "image_three": "https://images.luxuryescapes.com/h121xl5uozpsxswmzw8",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Cancún - Mexico Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Cancún, Mexico con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "cancún hotels",
+      "cancún travel",
+      "mexico hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/cancún",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/cancún",
+      "es": "https://mondoexplora.com/es/destination/cancún",
+      "fr": "https://mondoexplora.com/fr/destination/cancún",
+      "it": "https://mondoexplora.com/it/destination/cancún"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 207,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Malaysia",
+  "code": "MY",
+  "hero_title": "Malaysia Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Malaysia.",
+  "hero_image": "https://images.luxuryescapes.com/2vsnhvey1d8sy8wr0zat",
+  "popular_destinations": [
+    {
+      "name": "Kota Kinabalu",
+      "slug": "kota-kinabalu",
+      "image": "https://images.luxuryescapes.com/2vsnhvey1d8sy8wr0zat",
+      "description": "Explore Kota Kinabalu with luxury accommodations"
+    },
+    {
+      "name": "Borneo",
+      "slug": "borneo",
+      "image": "https://images.luxuryescapes.com/mb3nh9oqcvei9jz0h2tt",
+      "description": "Explore Borneo with luxury accommodations"
+    },
+    {
+      "name": "Desaru",
+      "slug": "desaru",
+      "image": "https://images.luxuryescapes.com/83s1bf0dnod5c4hpcyl",
+      "description": "Explore Desaru with luxury accommodations"
+    },
+    {
+      "name": "Gaya Island",
+      "slug": "gaya-island",
+      "image": "https://images.luxuryescapes.com/egqnabs5ug5o3ncfnai7",
+      "description": "Explore Gaya Island with luxury accommodations"
+    },
+    {
+      "name": "Johor Bahru",
+      "slug": "johor-bahru",
+      "image": "https://images.luxuryescapes.com/vu9fh1ka9u0h79i4p84",
+      "description": "Explore Johor Bahru with luxury accommodations"
+    },
+    {
+      "name": "Kedah",
+      "slug": "kedah",
+      "image": "https://images.luxuryescapes.com/74lp4j9ijnhir1drgp4a",
+      "description": "Explore Kedah with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Malaysia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Malaysia con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "malaysia hotels",
+      "malaysia travel",
+      "malaysia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/my",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/my",
+      "es": "https://mondoexplora.com/es/country/my",
+      "fr": "https://mondoexplora.com/fr/country/my",
+      "it": "https://mondoexplora.com/it/country/my"
+    }
+  }
+}

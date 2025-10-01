@@ -1,0 +1,61 @@
+{
+  "name": "Sri Lanka",
+  "code": "LK",
+  "hero_title": "Sri Lanka Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Sri Lanka.",
+  "hero_image": "https://images.luxuryescapes.com/2zbqjlij9a1z3mcqb98",
+  "popular_destinations": [
+    {
+      "name": "Galle",
+      "slug": "galle",
+      "image": "https://images.luxuryescapes.com/2zbqjlij9a1z3mcqb98",
+      "description": "Explore Galle with luxury accommodations"
+    },
+    {
+      "name": "Ahungalla",
+      "slug": "ahungalla",
+      "image": "https://images.luxuryescapes.com/u2smx3jm1hb975asir9j",
+      "description": "Explore Ahungalla with luxury accommodations"
+    },
+    {
+      "name": "Colombo",
+      "slug": "colombo",
+      "image": "https://images.luxuryescapes.com/m3py84qyeqonf7hjymo",
+      "description": "Explore Colombo with luxury accommodations"
+    },
+    {
+      "name": "Hambantota",
+      "slug": "hambantota",
+      "image": "https://images.luxuryescapes.com/7g4sby4zoznh3y8fldd",
+      "description": "Explore Hambantota with luxury accommodations"
+    },
+    {
+      "name": "Kalutara",
+      "slug": "kalutara",
+      "image": "https://images.luxuryescapes.com/lr3qjwixh1t27xkc7ai",
+      "description": "Explore Kalutara with luxury accommodations"
+    },
+    {
+      "name": "Kandy",
+      "slug": "kandy",
+      "image": "https://images.luxuryescapes.com/pvt6ytekdhc6y95lbze",
+      "description": "Explore Kandy with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Sri Lanka Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Sri Lanka con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "sri lanka hotels",
+      "sri lanka travel",
+      "sri lanka luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/lk",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/lk",
+      "es": "https://mondoexplora.com/es/country/lk",
+      "fr": "https://mondoexplora.com/fr/country/lk",
+      "it": "https://mondoexplora.com/it/country/lk"
+    }
+  }
+}

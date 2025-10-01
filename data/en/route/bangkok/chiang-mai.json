@@ -1,0 +1,51 @@
+{
+  "origin": "Bangkok",
+  "destination": "Chiang Mai",
+  "origin_country": "Thailand",
+  "destination_country": "Thailand",
+  "transport_modes": {
+    "flight": {
+      "duration": "4h 20m",
+      "price_range": "$95 - $220",
+      "providers": [
+        "Skyscanner",
+        "Kayak",
+        "Expedia"
+      ]
+    },
+    "train": {
+      "duration": "5h 20m",
+      "price_range": "$35 - $90",
+      "providers": [
+        "Rail Europe",
+        "Eurail",
+        "Trainline"
+      ]
+    },
+    "bus": {
+      "duration": "4h 55m",
+      "price_range": "$20 - $50",
+      "providers": [
+        "FlixBus",
+        "Greyhound",
+        "Megabus"
+      ]
+    },
+    "car": {
+      "duration": "3h 55m",
+      "distance": "350 km",
+      "price_range": "$30 - $70"
+    }
+  },
+  "seo": {
+    "title": "Bangkok to Chiang Mai - Transport Guide 2024",
+    "description": "Compare transport options from bangkok to chiang mai. Find the best deals on flights, trains, buses and car rentals.",
+    "keywords": [
+      "bangkok to chiang-mai",
+      "transport",
+      "travel",
+      "flights",
+      "trains"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "city": "Johannesburg",
+  "country": "South Africa",
+  "country_code": "ZA",
+  "hero_title": "Hotels in Johannesburg",
+  "description": "Discover the best hotels in Johannesburg, South Africa. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/652gyr1fmict9yfmbbdp",
+  "hotels": [
+    {
+      "vendor_name": "Holiday Inn Johannesburg-Rosebank",
+      "offer_country_name": "South Africa",
+      "location_heading": "Johannesburg",
+      "title": "Johannesburg Contemporary Cool with Upscale Restaurant & Bar",
+      "description": "Pair the high energy of Johannesburg with cosmopolitan cool when you stay at Holiday Inn Johannesburg - Rosebank, an IHG Hotel, located in the chic suburb of Rosebank just north of the city centre. Splash about in the outdoor swimming pool before heading over to Velvet restaurant for decadent dining matched with an extensive list of South African wines. For the perfect end to a night in, enjoy a glass or two on the alfresco terrace while watching the sunset.",
+      "location_subheading": "South Africa",
+      "price": 68,
+      "original_price": 68,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DI61JAAT",
+      "hero_image": "https://images.luxuryescapes.com/652gyr1fmict9yfmbbdp",
+      "image_two": "https://images.luxuryescapes.com/tvxm85mzdk26zb7oiplm",
+      "image_three": "https://images.luxuryescapes.com/2itt49avrq16cvekcomp",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Holiday Inn Johannesburg Sunnyside Park",
+      "offer_country_name": "South Africa",
+      "location_heading": "Johannesburg",
+      "title": "Elegant Johannesburg Garden Escape with Outdoor Pool",
+      "description": "Discover the many layers of South Africa’s diverse capital at the elegant Holiday Inn Johannesburg Sunnyside Park, an IHG Hotel. Step back in time at this stunning Victorian-style property set on four acres of lush gardens. Cool off with a dip in the sparkling swimming pool and when you start feeling peckish, head over to the gleaming Milner’s Restaurant where you can sit outside with a cold pint and a hearty meal of North African and European dishes.",
+      "location_subheading": "South Africa",
+      "price": 52,
+      "original_price": 52,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DI61NAAT",
+      "hero_image": "https://images.luxuryescapes.com/efcj24w5afc1ifvtk3",
+      "image_two": "https://images.luxuryescapes.com/oymsvjhxkbhfl0k9rqpf",
+      "image_three": "https://images.luxuryescapes.com/x1hqs3wqe6haau8jw8cc",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "InterContinental Johannesburg O.R. Tambo Airport Hotel",
+      "offer_country_name": "South Africa",
+      "location_heading": "Johannesburg",
+      "title": "Johannesburg Five-Star Airport Escape with Fine-Dining Restaurant & Onsite Spa",
+      "description": "Where convenience and luxury meet, a stay at the InterContinental Johannesburg O.R. Tambo Airport, an IHG Hotel, guarantees you're perfectly placed for modern adventures and wild safaris. This five-star escape boasts an exceptional day spa, a state-of-the-art fitness centre and an indoor heated swimming pool. Follow the call of fine dining to Quills Restaurant and Cocktail Bar, where South African produce is the specialty and dishes can be matched with outstanding local wines.",
+      "location_subheading": "South Africa",
+      "price": 331,
+      "original_price": 331,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CNFVSAA5",
+      "hero_image": "https://images.luxuryescapes.com/x40cpheien6935tdliv9",
+      "image_two": "https://images.luxuryescapes.com/ohyc2yroq6r39tpqwxal",
+      "image_three": "https://images.luxuryescapes.com/k93mjwomd7w7sg2xsim",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Johannesburg - South Africa Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Johannesburg, South Africa with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "johannesburg hotels",
+      "johannesburg travel",
+      "south africa hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/johannesburg",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/johannesburg",
+      "es": "https://mondoexplora.com/es/destination/johannesburg",
+      "fr": "https://mondoexplora.com/fr/destination/johannesburg",
+      "it": "https://mondoexplora.com/it/destination/johannesburg"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 3,
+    "average_price": 150,
+    "average_discount": 0
+  }
+}

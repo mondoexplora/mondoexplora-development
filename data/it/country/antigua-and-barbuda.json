@@ -1,0 +1,37 @@
+{
+  "name": "Antigua and Barbuda",
+  "code": "AG",
+  "hero_title": "Antigua and Barbuda Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Antigua and Barbuda.",
+  "hero_image": "https://images.luxuryescapes.com/v98h9g41da50s1kd64hf",
+  "popular_destinations": [
+    {
+      "name": "Antigua",
+      "slug": "antigua",
+      "image": "https://images.luxuryescapes.com/v98h9g41da50s1kd64hf",
+      "description": "Explore Antigua with luxury accommodations"
+    },
+    {
+      "name": "Saint John's",
+      "slug": "saint-john's",
+      "image": "https://images.luxuryescapes.com/4gbykdt0q2tlhhul4a",
+      "description": "Explore Saint John's with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Antigua and Barbuda Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Antigua and Barbuda con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "antigua and barbuda hotels",
+      "antigua and barbuda travel",
+      "antigua and barbuda luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/ag",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ag",
+      "es": "https://mondoexplora.com/es/country/ag",
+      "fr": "https://mondoexplora.com/fr/country/ag",
+      "it": "https://mondoexplora.com/it/country/ag"
+    }
+  }
+}

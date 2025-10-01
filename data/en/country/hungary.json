@@ -1,0 +1,34 @@
+{
+  "name": "Hungary",
+  "code": "HU",
+  "hero_title": "Hungary Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Hungary.",
+  "hero_image": "https://images.luxuryescapes.com/ouyl8lx35f4wu9mesi7",
+  "popular_destinations": [
+    {
+      "name": "Budapest",
+      "slug": "budapest",
+      "image": "https://images.luxuryescapes.com/ouyl8lx35f4wu9mesi7",
+      "description": "Explore Budapest with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 188
+    }
+  ],
+  "seo": {
+    "title": "Hungary Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Hungary with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "hungary hotels",
+      "hungary travel",
+      "hungary luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/hungary",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/hungary",
+      "es": "https://mondoexplora.com/es/country/hungary",
+      "fr": "https://mondoexplora.com/fr/country/hungary",
+      "it": "https://mondoexplora.com/it/country/hungary"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Croatia",
+  "code": "HR",
+  "hero_title": "Croatia Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Croatia.",
+  "hero_image": "https://images.luxuryescapes.com/negjkvgsd4dsvmh8udf",
+  "popular_destinations": [
+    {
+      "name": "Dubrovnik",
+      "slug": "dubrovnik",
+      "image": "https://images.luxuryescapes.com/negjkvgsd4dsvmh8udf",
+      "description": "Explore Dubrovnik with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 158
+    },
+    {
+      "name": "Sibenik",
+      "slug": "sibenik",
+      "image": "https://images.luxuryescapes.com/jxsqr51xq9xkga2lw6n",
+      "description": "Explore Sibenik with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 153
+    }
+  ],
+  "seo": {
+    "title": "Croatia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Croatia with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "croatia hotels",
+      "croatia travel",
+      "croatia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/hr",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/hr",
+      "es": "https://mondoexplora.com/es/country/hr",
+      "fr": "https://mondoexplora.com/fr/country/hr",
+      "it": "https://mondoexplora.com/it/country/hr"
+    }
+  }
+}

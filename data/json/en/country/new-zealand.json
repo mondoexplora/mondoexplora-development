@@ -1,0 +1,79 @@
+{
+  "name": "New Zealand",
+  "code": "NZ",
+  "hero_title": "New Zealand Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in New Zealand.",
+  "hero_image": "https://images.luxuryescapes.com/d0h70tqtuc3xbzr3rrf",
+  "popular_destinations": [
+    {
+      "name": "Auckland",
+      "slug": "auckland",
+      "image": "https://images.luxuryescapes.com/d0h70tqtuc3xbzr3rrf",
+      "description": "Explore Auckland with luxury accommodations",
+      "hotel_count": 23,
+      "hotel_deals": 23,
+      "avg_price": 145
+    },
+    {
+      "name": "Queenstown",
+      "slug": "queenstown",
+      "image": "https://images.luxuryescapes.com/xb9cscf0ilpim1nprb8",
+      "description": "Explore Queenstown with luxury accommodations",
+      "hotel_count": 15,
+      "hotel_deals": 15,
+      "avg_price": 356
+    },
+    {
+      "name": "Wellington",
+      "slug": "wellington",
+      "image": "https://images.luxuryescapes.com/5bw5fbk7gnmp1dbjmr3q",
+      "description": "Explore Wellington with luxury accommodations",
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 98
+    },
+    {
+      "name": "Christchurch",
+      "slug": "christchurch",
+      "image": "https://images.luxuryescapes.com/1664u0oohu79lq9fp0m",
+      "description": "Explore Christchurch with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 138
+    },
+    {
+      "name": "Rotorua",
+      "slug": "rotorua",
+      "image": "https://images.luxuryescapes.com/pts5c4egv3pghd9faj6",
+      "description": "Explore Rotorua with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 157
+    },
+    {
+      "name": "Lake Tekapo",
+      "slug": "lake-tekapo",
+      "image": "https://images.luxuryescapes.com/guszw3gd7kkscr6y32k",
+      "description": "Explore Lake Tekapo with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 117
+    }
+  ],
+  "seo": {
+    "title": "New Zealand Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in New Zealand with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "new zealand hotels",
+      "new zealand travel",
+      "new zealand luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/nz",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/nz",
+      "es": "https://mondoexplora.com/es/country/nz",
+      "fr": "https://mondoexplora.com/fr/country/nz",
+      "it": "https://mondoexplora.com/it/country/nz"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "city": "Marrakech",
+  "country": "Morocco",
+  "country_code": "MA",
+  "hero_title": "Hoteles en Marrakech",
+  "description": "Descubre los mejores hoteles en Marrakech, Morocco. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/qaq9ke22tmroeyt6ru",
+  "hotels": [
+    {
+      "vendor_name": "Fairmont Royal Palm Marrakech",
+      "offer_country_name": "Morocco",
+      "location_heading": "Marrakech",
+      "title": "Marrakech Luxury with Morocco's Largest Pool, Seven Dining Venues & Golf Course",
+      "description": "Experience the splendour of Marrakech with an opulent Fairmont stay at this five-star oasis, perfectly positioned amid the ancient olive groves of a 231-hectare estate. With the majestic Atlas Mountains as your backdrop, this tranquil retreat offers a world-class golf course, a 2,000sqm swimming pool and four exquisite restaurants serving an array of international and Moroccan cuisine. Delve into the local culture with a visit to the vibrant Medina, just a 20-minute drive away, or explore the enchanting Majorelle Garden, home to rare botanical species. Back at the resort, rejuvenate at the expansive spa, offering traditional Hammam rituals and invigorating wellness treatments that will leave you utterly relaxed.",
+      "location_subheading": "Morocco",
+      "price": 400,
+      "original_price": 400,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000GRxdtYAD",
+      "hero_image": "https://images.luxuryescapes.com/qaq9ke22tmroeyt6ru",
+      "image_two": "https://images.luxuryescapes.com/ntuxeewbhm4imyntgwr",
+      "image_three": "https://images.luxuryescapes.com/f0ohusxf4ceu1qdmkl2",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mandarin Oriental, Marrakech",
+      "offer_country_name": "Morocco",
+      "location_heading": "Marrakech",
+      "title": "Five-Star Marrakech Villas & Suites near the Medina with Four Restaurants & Bars",
+      "description": "Set among 20 hectares of fragrant gardens, framed by the breathtaking Atlas Mountains of Morocco, is the Mandarin Oriental, Marrakech, a stunning property composed of luxurious villas and suites. Just a 10-minute drive from the Medina of Marrakech, with its cobblestoned lanes, bustling marketplace and aromatic street food vendors, the vibrant culture of Morocco is right on your doorstep. At the hotel, you'll find a luxurious spa with two Moroccan hammams, offering an authentic insight into the local culture. Or, take yourself on an exquisite journey into gastronomy: feast on modern Cantonese at Ling Ling by Hakkasan, snack at the Pool Garden restaurant, or taste an array of flavours with dishes featuring Mediterranean, North African and Oriental influences at Shirvan.",
+      "location_subheading": "Morocco",
+      "price": 1065,
+      "original_price": 1065,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000BdkRwAAJ",
+      "hero_image": "https://images.luxuryescapes.com/wh6cnr113k91u3mkbpuk",
+      "image_two": "https://images.luxuryescapes.com/yfia8df2vhbzdwvg0tgl",
+      "image_three": "https://images.luxuryescapes.com/dy9zx57ve9v8x8r38s",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 00:59:00"
+    },
+    {
+      "vendor_name": "Selman Marrakech",
+      "offer_country_name": "Morocco",
+      "location_heading": "Marrakech",
+      "title": "Award-Winning Five-Star Marrakech Palace Retreat",
+      "description": "Unravel the storied wonders of centuries-old ksars, glittering mosaics and labyrinthine bazaars while staying at Selman Marrakech. Situated at the foot of the Atlas Mountains, emerging from the sands just outside the city walls, this timeless terracotta palace blends ancient traditions with modern luxury. In less than 20 minutes' drive, you can reach the must-see sights of this vibrant Moroccan city, including the market stalls at Jemaa el-Fna, the gardens of Jardin Majorelle and ornate 19th-century Bahia Palace. Skillfully designed by French architect Jacques Garcia, Selman Marrakech was crafted using Moroccan architectural techniques. Its unique beauty has secured a ranking among the top 1% of hotels worldwide on Tripadvisor, with a prestigious 2020 Travellers' Choice Best of the Best award as one of the top 25 hotels in Africa. In this timeless setting, every moment is magnified by contemporary facilities, including three restaurants (each with its own culinary identity: authentic Moroccan, international and Mediterranean), two bars, the glamorous Espace Vitalité Chenot spa (one of just six in the world), an outdoor pool, sprawling garden, and a working stud farm with privately owned Arabian thoroughbreds.",
+      "location_subheading": "Morocco",
+      "price": 473,
+      "original_price": 473,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000003GMVqAAO",
+      "hero_image": "https://images.luxuryescapes.com/ts4cnifdfesgjkanunu",
+      "image_two": "https://images.luxuryescapes.com/le2nuemy5ouxwakdmn5r",
+      "image_three": "https://images.luxuryescapes.com/5qrstd79rxzdsdslqnx",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Marrakech - Morocco Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Marrakech, Morocco con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "marrakech hotels",
+      "marrakech travel",
+      "morocco hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/marrakech",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/marrakech",
+      "es": "https://mondoexplora.com/es/destination/marrakech",
+      "fr": "https://mondoexplora.com/fr/destination/marrakech",
+      "it": "https://mondoexplora.com/it/destination/marrakech"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 3,
+    "average_price": 646,
+    "average_discount": 0
+  }
+}
