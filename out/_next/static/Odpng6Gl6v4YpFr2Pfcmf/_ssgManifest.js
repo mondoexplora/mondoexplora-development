@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[lang]","\u002F[lang]\u002Fcountry\u002F[country]","\u002F[lang]\u002Fdestination\u002F[city]","\u002F[lang]\u002Froute\u002F[origin]\u002F[destination]","\u002F[lang]\u002Ftravel_modes\u002F[origin]\u002F[destination]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
