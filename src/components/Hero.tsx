@@ -19,7 +19,7 @@ export default function Hero({ title, subtitle, backgroundImage, location, cta }
           <span>Explora</span>
         </div>
         
-        <div className="text-center text-white">
+        <div className="text-white">
           <h1 className="page-header h1">
             {title}
           </h1>
@@ -30,11 +30,6 @@ export default function Hero({ title, subtitle, backgroundImage, location, cta }
             </p>
           )}
           
-          {location && (
-            <p className="text-sm text-gray-300 mb-6">
-              📍 {location}
-            </p>
-          )}
           
           {cta && (
             <div className="mt-20">
