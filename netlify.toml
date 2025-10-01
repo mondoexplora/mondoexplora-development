@@ -2,7 +2,22 @@
   command = "npm run build"
   publish = "out"
 
-# Handle Next.js static export for all routes
+# Handle Next.js static export properly
+[[redirects]]
+  from = "/"
+  to = "/en"
+  status = 302
+
+[[redirects]]
+  from = "/en"
+  to = "/en.html"
+  status = 200
+
+[[redirects]]
+  from = "/en/*"
+  to = "/en/:splat"
+  status = 200
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
