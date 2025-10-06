@@ -1,0 +1,50 @@
+{
+  "city": "Val Thorens",
+  "country": "France",
+  "country_code": "FR",
+  "hero_title": "Hoteles en Val Thorens",
+  "description": "Descubre los mejores hoteles en Val Thorens, France. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/n56xci0dajqsha8q581v",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Le Fitz Roy",
+      "offer_country_name": "France",
+      "location_heading": "Val Thorens",
+      "title": "French Alpine Mountain Luxury at Europe's Highest Ski Resort with Bar, Restaurant & Spa",
+      "description": "Experience the epitome of alpine luxury in the heart of the French Alps at a five-star retreat, just steps from the snow-covered slopes of Val Thorens. This high-altitude haven offers seriously stylish rooms after hitting the slopes, dive into the heated indoor pool, or melt away the day's adventures in the Finnish sauna. Step outside and you're in the middle of ski heaven with runs right at your doorstep. Part of the massive Les Trois Vallées region, you've got 600km of pristine pistes to conquer before cruising back for après-ski at the cosy Roy Bar or dinner at the delicious Beca Restaurant.",
+      "location_subheading": "France",
+      "price": 305,
+      "original_price": 305,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000HSc8bYAD",
+      "hero_image": "https://images.luxuryescapes.com/n56xci0dajqsha8q581v",
+      "image_two": "https://images.luxuryescapes.com/nevb1wr4q30whtw0ky",
+      "image_three": "https://images.luxuryescapes.com/h7qucwabjor0358x7ag",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Val Thorens - France Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Val Thorens, France con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "val thorens hotels",
+      "val thorens travel",
+      "france hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/val-thorens",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/val-thorens",
+      "es": "https://mondoexplora.com/es/destination/val-thorens",
+      "fr": "https://mondoexplora.com/fr/destination/val-thorens",
+      "it": "https://mondoexplora.com/it/destination/val-thorens"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 305,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Czech Republic",
+  "code": "CZ",
+  "hero_title": "Czech Republic Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Czech Republic.",
+  "hero_image": "https://images.luxuryescapes.com/x5jxjxbbyq4jb3nn61",
+  "popular_destinations": [
+    {
+      "name": "Prague",
+      "slug": "prague",
+      "image": "https://images.luxuryescapes.com/x5jxjxbbyq4jb3nn61",
+      "description": "Explore Prague with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Czech Republic Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Czech Republic con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "czech republic hotels",
+      "czech republic travel",
+      "czech republic luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/cz",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/cz",
+      "es": "https://mondoexplora.com/es/country/cz",
+      "fr": "https://mondoexplora.com/fr/country/cz",
+      "it": "https://mondoexplora.com/it/country/cz"
+    }
+  }
+}

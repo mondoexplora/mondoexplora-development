@@ -1,0 +1,61 @@
+{
+  "name": "Mexico",
+  "code": "MX",
+  "hero_title": "Mexico Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Mexico.",
+  "hero_image": "https://images.luxuryescapes.com/6b1gs8mt3551bpgoadb",
+  "popular_destinations": [
+    {
+      "name": "Cabo San Lucas",
+      "slug": "cabo-san-lucas",
+      "image": "https://images.luxuryescapes.com/6b1gs8mt3551bpgoadb",
+      "description": "Explore Cabo San Lucas with luxury accommodations"
+    },
+    {
+      "name": "Tulum",
+      "slug": "tulum",
+      "image": "https://images.luxuryescapes.com/1c2ttu4dm2uyi364bxr",
+      "description": "Explore Tulum with luxury accommodations"
+    },
+    {
+      "name": "Acapulco",
+      "slug": "acapulco",
+      "image": "https://images.luxuryescapes.com/pz7hbcm01uhtqmj9w9bh",
+      "description": "Explore Acapulco with luxury accommodations"
+    },
+    {
+      "name": "Cancun",
+      "slug": "cancun",
+      "image": "https://images.luxuryescapes.com/ni6b0c93uqyeb8ttnhc",
+      "description": "Explore Cancun with luxury accommodations"
+    },
+    {
+      "name": "Cancun, Playa Del Carmen",
+      "slug": "cancun,-playa-del-carmen",
+      "image": "https://images.luxuryescapes.com/qlv23ttrqr9u8zem1sh",
+      "description": "Explore Cancun, Playa Del Carmen with luxury accommodations"
+    },
+    {
+      "name": "Cancún",
+      "slug": "cancún",
+      "image": "https://images.luxuryescapes.com/uy16v4pkda5443xdups",
+      "description": "Explore Cancún with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Mexico Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Mexico avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "mexico hotels",
+      "mexico travel",
+      "mexico luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/mx",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/mx",
+      "es": "https://mondoexplora.com/es/country/mx",
+      "fr": "https://mondoexplora.com/fr/country/mx",
+      "it": "https://mondoexplora.com/it/country/mx"
+    }
+  }
+}

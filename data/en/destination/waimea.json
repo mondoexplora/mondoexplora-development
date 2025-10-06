@@ -1,0 +1,50 @@
+{
+  "city": "Waimea",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Waimea",
+  "description": "Discover the best hotels in Waimea, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/pikvba4dph8vf1knov",
+  "hotels": [
+    {
+      "vendor_name": "Fairmont Orchid, Hawaii",
+      "offer_country_name": "United States",
+      "location_heading": "Waimea",
+      "title": "Hawaii Coastal Bliss near Golden Beaches with Five Restaurants, Outdoor Pool & Spa",
+      "description": "Sat along Hawaii's striking Kohala Coast, Fairmont Orchid is a tropical oasis brimming with island charm. This oceanfront haven boasts breathtaking views of swaying palms and beaches you can only dream of. Dive into the 10,000-square-foot lagoon pool, rejuvenate at the unique Spa Without Walls, or perfect your swing at the 45-hole golf course. Adventure awaits at every turn, from snorkelling with sea turtles in the crystal-clear bay to paddleboarding under the Hawaiian sun. Savour Pacific Rim cuisine across five restaurants and three Polynesian-style bars. With the Mauna Kea volcano as your backdrop and ancient petroglyph fields nearby, this resort is your gateway to discovering Big Island.",
+      "location_subheading": "United States",
+      "price": 585,
+      "original_price": 585,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000GRnEkYAL",
+      "hero_image": "https://images.luxuryescapes.com/pikvba4dph8vf1knov",
+      "image_two": "https://images.luxuryescapes.com/ewy37sboksist2eay66",
+      "image_three": "https://images.luxuryescapes.com/wzt3ptrilb5cozf8969",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Waimea - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Waimea, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "waimea hotels",
+      "waimea travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/waimea",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/waimea",
+      "es": "https://mondoexplora.com/es/destination/waimea",
+      "fr": "https://mondoexplora.com/fr/destination/waimea",
+      "it": "https://mondoexplora.com/it/destination/waimea"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 585,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Dandenong",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Dandenong",
+  "description": "Discover the best hotels in Dandenong, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/af9wvzfr5f6n0gf43v2l",
+  "hotels": [
+    {
+      "vendor_name": "Holiday Inn Dandenong",
+      "offer_country_name": "Australia",
+      "location_heading": "Dandenong",
+      "title": "Victoria Southeastern Suburbs Escape with Mediterranean-Inspired Lounge & Eatery",
+      "description": "Discover Victoria's vibrant southeastern suburbs when you stay at Holiday Inn Dandenong, an IHG Hotel. Spend quiet moments enjoying a Mediterranean-inspired meal and refreshing drink at the Dandelion Lounge and Eatery (fresh pasta or woodfired pizza, anyone?) or venture outside to explore the smorgasbord of culturally diverse food options on your doorstep. While you're here, be sure to test out the 24-hour gym and work up a sweat treadmill, bike and elliptical cross trainer.",
+      "location_subheading": "Australia",
+      "price": 72,
+      "original_price": 72,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DH7NKAA1",
+      "hero_image": "https://images.luxuryescapes.com/af9wvzfr5f6n0gf43v2l",
+      "image_two": "https://images.luxuryescapes.com/i03vdj3rxb5v5g4aalsg",
+      "image_three": "https://images.luxuryescapes.com/aeohxqjlwrhqc6iz0c",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Dandenong - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Dandenong, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "dandenong hotels",
+      "dandenong travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/dandenong",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/dandenong",
+      "es": "https://mondoexplora.com/es/destination/dandenong",
+      "fr": "https://mondoexplora.com/fr/destination/dandenong",
+      "it": "https://mondoexplora.com/it/destination/dandenong"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 72,
+    "average_discount": 0
+  }
+}

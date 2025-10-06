@@ -1,0 +1,50 @@
+{
+  "city": "Cambridge",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotel a Cambridge",
+  "description": "Scopri i migliori hotel a Cambridge, United States. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/0hpkyzib6a0zu1lf119",
+  "hotels": [
+    {
+      "vendor_name": "Kimpton Marlowe",
+      "offer_country_name": "United States",
+      "location_heading": "Cambridge",
+      "title": "Boston City Stay Near Harvard Square With Onsite Restaurant & Bar",
+      "description": "Dive headfirst into Boston's hub of excellence at Kimpton Marlowe; a stunningly opulent Cambridge stay just minutes from Harvard Square and storied cultural destinations. Convene in the Cambridge Lobby Bar for chats around the fire and savour globally-inspired American fare at Bambara Kitchen. Walk the campuses of the worlds finest universities, discover Downtown Boston's spirited sporting culture or stroll along the USA's oldest public park, the Boston Commons, during your stay.",
+      "location_subheading": "United States",
+      "price": 172,
+      "original_price": 172,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EdKFgAAN",
+      "hero_image": "https://images.luxuryescapes.com/0hpkyzib6a0zu1lf119",
+      "image_two": "https://images.luxuryescapes.com/1oerkrf2559qe6eb34pj",
+      "image_three": "https://images.luxuryescapes.com/564xugm80q1n400tonql",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Cambridge - Stati Uniti Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Cambridge, United States con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "cambridge hotels",
+      "cambridge travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/cambridge",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/cambridge",
+      "es": "https://mondoexplora.com/es/destination/cambridge",
+      "fr": "https://mondoexplora.com/fr/destination/cambridge",
+      "it": "https://mondoexplora.com/it/destination/cambridge"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 172,
+    "average_discount": 0
+  }
+}

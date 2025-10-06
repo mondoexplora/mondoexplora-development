@@ -1,0 +1,50 @@
+{
+  "city": "Healdsburg",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hoteles en Healdsburg",
+  "description": "Descubre los mejores hoteles en Healdsburg, United States. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/w8mivtv1chkoyd12wr3",
+  "hotels": [
+    {
+      "vendor_name": "Montage Healdsburg",
+      "offer_country_name": "United States",
+      "location_heading": "Healdsburg",
+      "title": "Refined Sonoma Valley Wine Retreat with 1,000sqm Wellness Centre & Adults-Only Infinity Pool",
+      "description": "In the heart of California's sun-kissed Sonoma wine country is a vineyard retreat that epitomises refined elegance: Montage Healdsburg. This top-rated, world-class Californian resort is enveloped in 258 acres of vineyards and heritage oak forests, with the Mayacamas Mountains as a breathtaking backdrop. The incredible natural setting is at the forefront in the property's design, with each of the tranquil earth-toned rooms featuring a spacious balcony with awe-inspiring vistas. Quiet moments under the California sun are best spent floating in the resort's pools - a family pool and a zero-edge adults-only pool overlooking the vineyard. Culinary flair and local ingredients are celebrated at the three dining venues, while a trip to the 1,000-square-metre spa is a journey into wellness with treatments inspired by the land.",
+      "location_subheading": "United States",
+      "price": 530,
+      "original_price": 530,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000C261OAAR",
+      "hero_image": "https://images.luxuryescapes.com/w8mivtv1chkoyd12wr3",
+      "image_two": "https://images.luxuryescapes.com/szbe4ogh9zq1fbgsm55rfn",
+      "image_three": "https://images.luxuryescapes.com/kg8s8mcav193m1zrou21x",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Healdsburg - Estados Unidos Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Healdsburg, United States con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "healdsburg hotels",
+      "healdsburg travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/healdsburg",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/healdsburg",
+      "es": "https://mondoexplora.com/es/destination/healdsburg",
+      "fr": "https://mondoexplora.com/fr/destination/healdsburg",
+      "it": "https://mondoexplora.com/it/destination/healdsburg"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 530,
+    "average_discount": 0
+  }
+}

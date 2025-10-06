@@ -1,0 +1,61 @@
+{
+  "name": "Greece",
+  "code": "GR",
+  "hero_title": "Greece Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Greece.",
+  "hero_image": "https://images.luxuryescapes.com/1nmg8xjeejgui0s5oek",
+  "popular_destinations": [
+    {
+      "name": "Crete",
+      "slug": "crete",
+      "image": "https://images.luxuryescapes.com/1nmg8xjeejgui0s5oek",
+      "description": "Explore Crete with luxury accommodations"
+    },
+    {
+      "name": "Mykonos",
+      "slug": "mykonos",
+      "image": "https://images.luxuryescapes.com/41ehtzlieve3inhf216",
+      "description": "Explore Mykonos with luxury accommodations"
+    },
+    {
+      "name": "Rhodes",
+      "slug": "rhodes",
+      "image": "https://images.luxuryescapes.com/2xh0vorua3i46gn59tx",
+      "description": "Explore Rhodes with luxury accommodations"
+    },
+    {
+      "name": "Santorini",
+      "slug": "santorini",
+      "image": "https://images.luxuryescapes.com/ihmrd2s48bity9ctuo",
+      "description": "Explore Santorini with luxury accommodations"
+    },
+    {
+      "name": "Sounio",
+      "slug": "sounio",
+      "image": "https://images.luxuryescapes.com/g89nn3syn8cv12ebvm5k",
+      "description": "Explore Sounio with luxury accommodations"
+    },
+    {
+      "name": "Athens",
+      "slug": "athens",
+      "image": "https://images.luxuryescapes.com/u9n7trsgglbz0483z16r",
+      "description": "Explore Athens with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Greece Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Greece avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "greece hotels",
+      "greece travel",
+      "greece luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/gr",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/gr",
+      "es": "https://mondoexplora.com/es/country/gr",
+      "fr": "https://mondoexplora.com/fr/country/gr",
+      "it": "https://mondoexplora.com/it/country/gr"
+    }
+  }
+}

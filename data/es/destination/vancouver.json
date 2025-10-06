@@ -1,0 +1,86 @@
+{
+  "city": "Vancouver",
+  "country": "Canada",
+  "country_code": "CA",
+  "hero_title": "Hoteles en Vancouver",
+  "description": "Descubre los mejores hoteles en Vancouver, Canada. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/5fcqyfaafdcpsgnucgj7",
+  "hotels": [
+    {
+      "vendor_name": "Fairmont Hotel Vancouver",
+      "offer_country_name": "Canada",
+      "location_heading": "Vancouver",
+      "title": "Five-Star Vancouver Fairmont Elegance with Pool and Skyline Views in the Heart of Downtown",
+      "description": "Experience the grandeur of Fairmont Hotel Vancouver, majestically standing in the heart of the city's bustling shopping and cultural district. Known as the 'Castle in the City', this hotel opened in 1939 and is where timeless elegance meets modern luxury. Relax in the hotel's state-of-the-art health club before retreating to the acclaimed Notch8 Restaurant & Bar for a sumptuous meal. Beyond the hotel explore the nearby Vancouver Art Gallery or shop at the high-end boutiques on Robson Street and refuel at the Granville Island Public Market, where a diverse assortment of fresh, local produce awaits. Your central launchpad is a short stroll from the stunning Stanley Park, where you can enjoy a leisurely walk along the Vancouver Seawall or visit the Vancouver Aquarium.",
+      "location_subheading": "Canada",
+      "price": 285,
+      "original_price": 285,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000GRlZWYA1",
+      "hero_image": "https://images.luxuryescapes.com/5fcqyfaafdcpsgnucgj7",
+      "image_two": "https://images.luxuryescapes.com/vu7zalpmpmmzsgsxskub",
+      "image_three": "https://images.luxuryescapes.com/scrvqexe4dxwlab61my",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Fairmont Pacific Rim",
+      "offer_country_name": "Canada",
+      "location_heading": "Vancouver",
+      "title": "Five-Star Harbourfront Vancouver Stay with Award-Winning Cocktail Bar & World-Class Spa",
+      "description": "Experience the height of Vancouver's luxury at this elegant retreat, located in the city's vibrant downtown and offering breathtaking views of the mountains and harbour. Fairmont Pacific Rim is all about new experiences: savour fresh Pacific Northwest cuisine at Botanist, or enjoy a handcrafted cocktail at the Lobby Lounge and RawBar, known for sushi and live music. Venture out to explore the nearby historic Gastown, with its cobbled streets and unique boutiques, or take a stroll along the picturesque Stanley Park seawall. For art enthusiasts, the Vancouver Art Gallery is just a short walk away. After a day of exploring, rejuvenate at the tranquil Fairmont Spa, or take a refreshing dip in the rooftop pool with panoramic city views.",
+      "location_subheading": "Canada",
+      "price": 412,
+      "original_price": 412,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000GRlw5YAD",
+      "hero_image": "https://images.luxuryescapes.com/2vk37khd86hzkyz03ge",
+      "image_two": "https://images.luxuryescapes.com/s4qyj6n8pbjveql70ac",
+      "image_three": "https://images.luxuryescapes.com/jfmrgxulublf3mlkpauf",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Fairmont Vancouver Airport",
+      "offer_country_name": "Canada",
+      "location_heading": "Vancouver",
+      "title": "Fairmont Vancouver Airport Stay Located Within International Terminal with Onsite Restaurants",
+      "description": "Experience the best of Vancouver with a luxurious Fairmont stay at the only hotel in Vancouver International Airport. Perfectly positioned for those in transit or looking to explore the city, this hotel offers easy access to the vibrant downtown area, the stunning Stanley Park, and the historic Gastown district. After a day of exploring, retreat to the hotel's award-winning Globe@YVR Restaurant, which celebrates flavours of the Pacific Northwest. For those seeking relaxation, the onsite Health Club and Spa offers a range of rejuvenating treatments including saunas and a childrens pool. To end your day, retreat to your soundproofed room or suite, where floor-to-ceiling windows offer breathtaking views of the runway and Vancouver's dramatic mountainscape.",
+      "location_subheading": "Canada",
+      "price": 284,
+      "original_price": 284,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnPBFYA3",
+      "hero_image": "https://images.luxuryescapes.com/gpsll5vqljhe850zfah",
+      "image_two": "https://images.luxuryescapes.com/x6fx72pk6e0aj6fgk39",
+      "image_three": "https://images.luxuryescapes.com/rrswj22zvozthygsf3hg",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Vancouver - Canada Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Vancouver, Canada con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "vancouver hotels",
+      "vancouver travel",
+      "canada hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/vancouver",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/vancouver",
+      "es": "https://mondoexplora.com/es/destination/vancouver",
+      "fr": "https://mondoexplora.com/fr/destination/vancouver",
+      "it": "https://mondoexplora.com/it/destination/vancouver"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 3,
+    "average_price": 327,
+    "average_discount": 0
+  }
+}

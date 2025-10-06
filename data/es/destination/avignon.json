@@ -1,0 +1,50 @@
+{
+  "city": "Avignon",
+  "country": "France",
+  "country_code": "FR",
+  "hero_title": "Hoteles en Avignon",
+  "description": "Descubre los mejores hoteles en Avignon, France. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/kyp15wnc8go2e1cga49d",
+  "hotels": [
+    {
+      "vendor_name": "Auberge de Cassagne & Spa",
+      "offer_country_name": "France",
+      "location_heading": "Avignon",
+      "title": "Five-Star Avignon Historic Farmhouse in Captivating Provence with Acclaimed Restaurant",
+      "description": "Escape to the heart of Provençal France with a stay at the five-star Auberge de Cassagne & Spa, within historic castle grounds in Le Pontet and surrounded by vineyards, villages and Avignon's breathtaking Papal architecture. Repurposing a 1850 farmhouse among Cassagne Castle's outbuildings, the hotel offers guests exquisite French luxury elevated by flawless service. Enjoy every moment spent by the lavender-bordered swimming pool, indulge with a treatment at the sprawling Homerta Spa, savour foie gras and fillet of Saint Pierre at the onsite restaurant or sip your way through the hotel’s exceptional wine cellar - whatever your taste, Auberge de Cassagne & Spa delivers.",
+      "location_subheading": "France",
+      "price": 277,
+      "original_price": 277,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000009DfYzAAK",
+      "hero_image": "https://images.luxuryescapes.com/kyp15wnc8go2e1cga49d",
+      "image_two": "https://images.luxuryescapes.com/60tl96kr8phg8tcbmfa",
+      "image_three": "https://images.luxuryescapes.com/ahpi2i1b59ghoee9ikef",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Avignon - France Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Avignon, France con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "avignon hotels",
+      "avignon travel",
+      "france hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/avignon",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/avignon",
+      "es": "https://mondoexplora.com/es/destination/avignon",
+      "fr": "https://mondoexplora.com/fr/destination/avignon",
+      "it": "https://mondoexplora.com/it/destination/avignon"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 277,
+    "average_discount": 0
+  }
+}

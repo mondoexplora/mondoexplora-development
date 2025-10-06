@@ -1,0 +1,50 @@
+{
+  "city": "Malacca",
+  "country": "Malaysia",
+  "country_code": "MY",
+  "hero_title": "Hoteles en Malacca",
+  "description": "Descubre los mejores hoteles en Malacca, Malaysia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/9v7enyufnjf71uj4sy9q",
+  "hotels": [
+    {
+      "vendor_name": "The Majestic Malacca",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Malacca",
+      "title": "Malacca Five-Star Heritage Mansion Stay",
+      "description": "Experience old-world elegance and timeless opulence at The Majestic Malacca, a beautifully restored 1920s mansion and member of the prestigious Small Luxury Hotels of the World group. Steeped in history in the UNESCO World Heritage-listed city of Malacca, this boutique hotel invites you to discover the beauty of this 600-year-old coastal port city, before returning to the five-star grandeur hidden within the walls of this beguiling mansion. Pull up a seat at the mansion’s European-style saloon bar and sip a glass of whiskey neat, sink into the leather-bound chairs of The Lounge at The Mansion, curl up with a good book in the light-filled Library, and let the rare Malaccan cultural delicacies of The Mansion restaurant transport you on a culinary journey.",
+      "location_subheading": "Malaysia",
+      "price": 142,
+      "original_price": 142,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000006C7TuAAK",
+      "hero_image": "https://images.luxuryescapes.com/9v7enyufnjf71uj4sy9q",
+      "image_two": "https://images.luxuryescapes.com/g7wj5pzv0c5ivadntd46",
+      "image_three": "https://images.luxuryescapes.com/72kh9aky3batv4gv99ed",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Malacca - Malaysia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Malacca, Malaysia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "malacca hotels",
+      "malacca travel",
+      "malaysia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/malacca",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/malacca",
+      "es": "https://mondoexplora.com/es/destination/malacca",
+      "fr": "https://mondoexplora.com/fr/destination/malacca",
+      "it": "https://mondoexplora.com/it/destination/malacca"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 142,
+    "average_discount": 0
+  }
+}

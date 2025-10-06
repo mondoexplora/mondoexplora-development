@@ -1,0 +1,79 @@
+{
+  "name": "Indonesia",
+  "code": "ID",
+  "hero_title": "Indonesia Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Indonesia.",
+  "hero_image": "https://images.luxuryescapes.com/x6qzsz5wvs97lp9oeone",
+  "popular_destinations": [
+    {
+      "name": "Seminyak",
+      "slug": "seminyak",
+      "image": "https://images.luxuryescapes.com/x6qzsz5wvs97lp9oeone",
+      "description": "Explore Seminyak with luxury accommodations",
+      "hotel_count": 27,
+      "hotel_deals": 27,
+      "avg_price": 260
+    },
+    {
+      "name": "Ubud",
+      "slug": "ubud",
+      "image": "https://images.luxuryescapes.com/fiql6kbr0be9e41p66vd",
+      "description": "Explore Ubud with luxury accommodations",
+      "hotel_count": 26,
+      "hotel_deals": 26,
+      "avg_price": 359
+    },
+    {
+      "name": "Jakarta",
+      "slug": "jakarta",
+      "image": "https://images.luxuryescapes.com/g326vag85lcu5dgpscfk",
+      "description": "Explore Jakarta with luxury accommodations",
+      "hotel_count": 21,
+      "hotel_deals": 21,
+      "avg_price": 91
+    },
+    {
+      "name": "Nusa Dua",
+      "slug": "nusa-dua",
+      "image": "https://images.luxuryescapes.com/ojy1foyvo3kpqqeug",
+      "description": "Explore Nusa Dua with luxury accommodations",
+      "hotel_count": 17,
+      "hotel_deals": 17,
+      "avg_price": 399
+    },
+    {
+      "name": "Jimbaran",
+      "slug": "jimbaran",
+      "image": "https://images.luxuryescapes.com/i1icudtgtge0g5wilww",
+      "description": "Explore Jimbaran with luxury accommodations",
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 398
+    },
+    {
+      "name": "Canggu",
+      "slug": "canggu",
+      "image": "https://images.luxuryescapes.com/tevrx905b6b224ur4ao",
+      "description": "Explore Canggu with luxury accommodations",
+      "hotel_count": 10,
+      "hotel_deals": 10,
+      "avg_price": 191
+    }
+  ],
+  "seo": {
+    "title": "Indonesia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Indonesia with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "indonesia hotels",
+      "indonesia travel",
+      "indonesia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/indonesia",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/indonesia",
+      "es": "https://mondoexplora.com/es/country/indonesia",
+      "fr": "https://mondoexplora.com/fr/country/indonesia",
+      "it": "https://mondoexplora.com/it/country/indonesia"
+    }
+  }
+}

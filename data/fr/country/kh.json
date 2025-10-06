@@ -1,0 +1,55 @@
+{
+  "name": "Cambodia",
+  "code": "KH",
+  "hero_title": "Cambodia Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Cambodia.",
+  "hero_image": "https://images.luxuryescapes.com/c4ii6mzayenpepqviu5",
+  "popular_destinations": [
+    {
+      "name": "Koh Rong Archipelago",
+      "slug": "koh-rong-archipelago",
+      "image": "https://images.luxuryescapes.com/c4ii6mzayenpepqviu5",
+      "description": "Explore Koh Rong Archipelago with luxury accommodations"
+    },
+    {
+      "name": "Phnom Penh",
+      "slug": "phnom-penh",
+      "image": "https://images.luxuryescapes.com/bens338tjg8606ezosx",
+      "description": "Explore Phnom Penh with luxury accommodations"
+    },
+    {
+      "name": "Preah Sihanouk Province",
+      "slug": "preah-sihanouk-province",
+      "image": "https://images.luxuryescapes.com/ahjaxlix7paj93uljazb",
+      "description": "Explore Preah Sihanouk Province with luxury accommodations"
+    },
+    {
+      "name": "Siem Reap",
+      "slug": "siem-reap",
+      "image": "https://images.luxuryescapes.com/ffvgcfgnah9lwqwg3vc",
+      "description": "Explore Siem Reap with luxury accommodations"
+    },
+    {
+      "name": "Sihanoukville",
+      "slug": "sihanoukville",
+      "image": "https://images.luxuryescapes.com/0eliln9cpd1i4h1wzjqo",
+      "description": "Explore Sihanoukville with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Cambodia Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Cambodia avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "cambodia hotels",
+      "cambodia travel",
+      "cambodia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/kh",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/kh",
+      "es": "https://mondoexplora.com/es/country/kh",
+      "fr": "https://mondoexplora.com/fr/country/kh",
+      "it": "https://mondoexplora.com/it/country/kh"
+    }
+  }
+}

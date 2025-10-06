@@ -1,0 +1,50 @@
+{
+  "city": "Park City",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hoteles en Park City",
+  "description": "Descubre los mejores hoteles en Park City, United States. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/l8chu73trvlyq40aqug",
+  "hotels": [
+    {
+      "vendor_name": "Pendry Park City",
+      "offer_country_name": "United States",
+      "location_heading": "Park City",
+      "title": "Brand-New Sophisticated Park City Ski-In, Ski-Out Escape",
+      "description": "Ensconced in the breathtaking Rocky Mountains, only a one-minute glide from the nearest ski lift, the brand-new Pendry Park City offers exclusive ski-in, ski-out sophistication backed by world-class service. After a day on Utah's celebrated slopes, there’s après-ski entertainment in abundance - savour live music and fireside cocktails at Après Pendry, indulge in wagyu and omakase at KITA restaurant, or head to Spa Pendry for signature treatments and soothing repose.",
+      "location_subheading": "United States",
+      "price": 271,
+      "original_price": 271,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000BfEElAAN",
+      "hero_image": "https://images.luxuryescapes.com/l8chu73trvlyq40aqug",
+      "image_two": "https://images.luxuryescapes.com/dsdqk8m2m28y0w1329olq",
+      "image_three": "https://images.luxuryescapes.com/287z1srxk9crra43c3r8",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Park City - Estados Unidos Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Park City, United States con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "park city hotels",
+      "park city travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/park-city",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/park-city",
+      "es": "https://mondoexplora.com/es/destination/park-city",
+      "fr": "https://mondoexplora.com/fr/destination/park-city",
+      "it": "https://mondoexplora.com/it/destination/park-city"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 271,
+    "average_discount": 0
+  }
+}

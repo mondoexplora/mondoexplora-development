@@ -1,0 +1,50 @@
+{
+  "city": "Herceg Novi",
+  "country": "Montenegro",
+  "country_code": "ME",
+  "hero_title": "Hotels in Herceg Novi",
+  "description": "Discover the best hotels in Herceg Novi, Montenegro. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/f2d1lc5hzemxxm11fa3",
+  "hotels": [
+    {
+      "vendor_name": "One&Only Portonovi",
+      "offer_country_name": "Montenegro",
+      "location_heading": "Herceg Novi",
+      "title": "One&Only Montenegro Beachfront Indulgence with Adriatic Sea Vistas",
+      "description": "Set on a dreamy stretch of coastline on Montenegro's Boka Bay is the five-star One&Only Portonovi, a secluded resort with mountainous Adriatic vistas. The stunning location allows for fresh air adventures through sapphire waters, dramatic forests and medieval towns. With One&Only's signature bespoke service, wellness programs and exquisite dining in one of the world's dreamiest locations, this is a true paradise. Spend blissful days on the water, dine at Sabia al fresco restaurant (or any of the other three exquisite restaurants) or simply lounge poolside. For utter indulgence, the Chenot Espace spa is heaven on Earth for bespoke treatments and head-to-toe pampering.",
+      "location_subheading": "Montenegro",
+      "price": 432,
+      "original_price": 432,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000004OdxSAAS",
+      "hero_image": "https://images.luxuryescapes.com/f2d1lc5hzemxxm11fa3",
+      "image_two": "https://images.luxuryescapes.com/dx6qbcyahsgxcuca51d",
+      "image_three": "https://images.luxuryescapes.com/fzxo8ex7kqj0a8g2h71a",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Herceg Novi - Montenegro Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Herceg Novi, Montenegro with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "herceg novi hotels",
+      "herceg novi travel",
+      "montenegro hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/herceg-novi",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/herceg-novi",
+      "es": "https://mondoexplora.com/es/destination/herceg-novi",
+      "fr": "https://mondoexplora.com/fr/destination/herceg-novi",
+      "it": "https://mondoexplora.com/it/destination/herceg-novi"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 432,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Taiwan (Province of China)",
+  "code": "TW",
+  "hero_title": "Taiwan (Province of China) Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Taiwan (Province of China).",
+  "hero_image": "https://images.luxuryescapes.com/w0wq2vkz1o8unrj2uz9o",
+  "popular_destinations": [
+    {
+      "name": "Chiayi County",
+      "slug": "chiayi-county",
+      "image": "https://images.luxuryescapes.com/w0wq2vkz1o8unrj2uz9o",
+      "description": "Explore Chiayi County with luxury accommodations"
+    },
+    {
+      "name": "Kaohsiung",
+      "slug": "kaohsiung",
+      "image": "https://images.luxuryescapes.com/f5uimy0ynotv9esxb4ge",
+      "description": "Explore Kaohsiung with luxury accommodations"
+    },
+    {
+      "name": "Taipei",
+      "slug": "taipei",
+      "image": "https://images.luxuryescapes.com/je1jbbjewhl3n1raarqm",
+      "description": "Explore Taipei with luxury accommodations"
+    },
+    {
+      "name": "Taipei City",
+      "slug": "taipei-city",
+      "image": "https://images.luxuryescapes.com/bwra7naogpn7mu10mnzp",
+      "description": "Explore Taipei City with luxury accommodations"
+    },
+    {
+      "name": "Taoyuan",
+      "slug": "taoyuan",
+      "image": "https://images.luxuryescapes.com/85h3yt7ps193t2pnsgo",
+      "description": "Explore Taoyuan with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Taiwan (Province of China) Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Taiwan (Province of China) avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "taiwan (province of china) hotels",
+      "taiwan (province of china) travel",
+      "taiwan (province of china) luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/tw",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/tw",
+      "es": "https://mondoexplora.com/es/country/tw",
+      "fr": "https://mondoexplora.com/fr/country/tw",
+      "it": "https://mondoexplora.com/it/country/tw"
+    }
+  }
+}

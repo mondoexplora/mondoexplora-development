@@ -1,0 +1,79 @@
+{
+  "name": "Vietnam",
+  "code": "VN",
+  "hero_title": "Vietnam Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Vietnam.",
+  "hero_image": "https://images.luxuryescapes.com/nnh9yk2v6lfv03bcedz",
+  "popular_destinations": [
+    {
+      "name": "Hanoi",
+      "slug": "hanoi",
+      "image": "https://images.luxuryescapes.com/nnh9yk2v6lfv03bcedz",
+      "description": "Explore Hanoi with luxury accommodations",
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 125
+    },
+    {
+      "name": "Phu Quoc",
+      "slug": "phu-quoc",
+      "image": "https://images.luxuryescapes.com/mxzvu1v9lj8416lzx4t",
+      "description": "Explore Phu Quoc with luxury accommodations",
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 183
+    },
+    {
+      "name": "Nha Trang",
+      "slug": "nha-trang",
+      "image": "https://images.luxuryescapes.com/76ulxpbdglr88rnr03wg",
+      "description": "Explore Nha Trang with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 128
+    },
+    {
+      "name": "Ho Chi Minh City",
+      "slug": "ho-chi-minh-city",
+      "image": "https://images.luxuryescapes.com/i34a1107l9o86dfdcfg",
+      "description": "Explore Ho Chi Minh City with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 121
+    },
+    {
+      "name": "Hoi An",
+      "slug": "hoi-an",
+      "image": "https://images.luxuryescapes.com/zhrbgth3hm4ocx6jxxf",
+      "description": "Explore Hoi An with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 247
+    },
+    {
+      "name": "Ho Chi Minh",
+      "slug": "ho-chi-minh",
+      "image": "https://images.luxuryescapes.com/x7veh0vv3q9f11orhkuw",
+      "description": "Explore Ho Chi Minh with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 132
+    }
+  ],
+  "seo": {
+    "title": "Vietnam Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Vietnam with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "vietnam hotels",
+      "vietnam travel",
+      "vietnam luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/vn",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/vn",
+      "es": "https://mondoexplora.com/es/country/vn",
+      "fr": "https://mondoexplora.com/fr/country/vn",
+      "it": "https://mondoexplora.com/it/country/vn"
+    }
+  }
+}

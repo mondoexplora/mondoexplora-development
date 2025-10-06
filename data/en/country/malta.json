@@ -1,0 +1,61 @@
+{
+  "name": "Malta",
+  "code": "MT",
+  "hero_title": "Malta Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Malta.",
+  "hero_image": "https://images.luxuryescapes.com/e6empblilv93kzkf9i6b",
+  "popular_destinations": [
+    {
+      "name": "Sliema",
+      "slug": "sliema",
+      "image": "https://images.luxuryescapes.com/e6empblilv93kzkf9i6b",
+      "description": "Explore Sliema with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 95
+    },
+    {
+      "name": "Valletta",
+      "slug": "valletta",
+      "image": "https://images.luxuryescapes.com/92y0unzqydwmbcm7q38l",
+      "description": "Explore Valletta with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 188
+    },
+    {
+      "name": "Saint Julian's",
+      "slug": "saint-julian's",
+      "image": "https://images.luxuryescapes.com/sfkc7httoakge93pc9s",
+      "description": "Explore Saint Julian's with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 87
+    },
+    {
+      "name": "Senglea",
+      "slug": "senglea",
+      "image": "https://images.luxuryescapes.com/wx9lpdhswrym2umj6anv",
+      "description": "Explore Senglea with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 161
+    }
+  ],
+  "seo": {
+    "title": "Malta Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Malta with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "malta hotels",
+      "malta travel",
+      "malta luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/malta",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/malta",
+      "es": "https://mondoexplora.com/es/country/malta",
+      "fr": "https://mondoexplora.com/fr/country/malta",
+      "it": "https://mondoexplora.com/it/country/malta"
+    }
+  }
+}

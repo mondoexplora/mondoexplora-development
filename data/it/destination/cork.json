@@ -1,0 +1,50 @@
+{
+  "city": "Cork",
+  "country": "Ireland",
+  "country_code": "IE",
+  "hero_title": "Hotel a Cork",
+  "description": "Scopri i migliori hotel a Cork, Ireland. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/cxkj7oz77rxqedp2bl",
+  "hotels": [
+    {
+      "vendor_name": "Hayfield Manor",
+      "offer_country_name": "Ireland",
+      "location_heading": "Cork",
+      "title": "Five-Star Manor Stay in the Heart of Historic Cork",
+      "description": "Period-style elegance and unrivalled luxury await at Hayfield Manor, an exceptional escape in the heart of Cork, Ireland. Wrapped in a historic 1815 façade and lush green vines, this manor maintains its boutique charms thanks to stylish touches throughout the property, including an original marble fireplace and Georgian-style windows illuminating the ornate artworks and antiques. The manor’s excellent facilities include Beautique Spa, Orchids fine dining restaurant and Perrots Garden Bistro. Venture a little further away to visit the Blarney Castle and Gardens, Cork City Gaol or Saint Fin Barre's Cathedral before visiting the popular English Markets.",
+      "location_subheading": "Ireland",
+      "price": 315,
+      "original_price": 315,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000009CpXYAA0",
+      "hero_image": "https://images.luxuryescapes.com/cxkj7oz77rxqedp2bl",
+      "image_two": "https://images.luxuryescapes.com/f4iczg4uh68i35gn0zp",
+      "image_three": "https://images.luxuryescapes.com/ig9jv06290sqffp8kf",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Cork - Ireland Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Cork, Ireland con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "cork hotels",
+      "cork travel",
+      "ireland hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/cork",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/cork",
+      "es": "https://mondoexplora.com/es/destination/cork",
+      "fr": "https://mondoexplora.com/fr/destination/cork",
+      "it": "https://mondoexplora.com/it/destination/cork"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 315,
+    "average_discount": 0
+  }
+}

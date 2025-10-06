@@ -1,0 +1,43 @@
+{
+  "name": "Kenya",
+  "code": "KE",
+  "hero_title": "Kenya Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Kenya.",
+  "hero_image": "https://images.luxuryescapes.com/byv49cz8x9ca2li56q",
+  "popular_destinations": [
+    {
+      "name": "Nairobi",
+      "slug": "nairobi",
+      "image": "https://images.luxuryescapes.com/byv49cz8x9ca2li56q",
+      "description": "Explore Nairobi with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 150
+    },
+    {
+      "name": "Masai Mara",
+      "slug": "masai-mara",
+      "image": "https://images.luxuryescapes.com/q9ck0a9kk6m654hn6mvf",
+      "description": "Explore Masai Mara with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 1151
+    }
+  ],
+  "seo": {
+    "title": "Kenya Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Kenya with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "kenya hotels",
+      "kenya travel",
+      "kenya luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/ke",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ke",
+      "es": "https://mondoexplora.com/es/country/ke",
+      "fr": "https://mondoexplora.com/fr/country/ke",
+      "it": "https://mondoexplora.com/it/country/ke"
+    }
+  }
+}

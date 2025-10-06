@@ -1,0 +1,50 @@
+{
+  "city": "Magenta",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hoteles en Magenta",
+  "description": "Descubre los mejores hoteles en Magenta, Australia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/cu7dubgo4cvvo7vngam",
+  "hotels": [
+    {
+      "vendor_name": "Pullman Magenta Shores Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Magenta",
+      "title": "Central Coast Premium Apartment-Style Pullman Escape 90 Minutes from Sydney with Onsite Spa & Golf Course",
+      "description": "Experience beachside Pullman luxury on the New South Wales Central Coast at this peaceful retreat, located on the premium ribbon of land dividing the pristine Pacific Ocean from Tuggerah Lake. These stunning apartment-style studios and villas offer the perfect escape just 90 minutes north of Sydney. The property is set on 52 beautifully landscaped acres and features an 18-hole championship golf course designed by the acclaimed Ross Watson. Take advantage of the serene seaside setting and hire one of the resort's e-bikes to explore beautiful beaches, pristine national parks, stunning waterways and thriving coastal towns. When you're done practising your putt and exploring the surrounds, settle in for a delicious meal at the newly renovated Barretts Restaurant or a cocktail at Shallows Bar, take a dip in one of three swimming pools - a 20-metre indoor heated lap pool, rock pools and a sparkling lagoon pool - or indulge in a luxurious treatment at Vie Spa.",
+      "location_subheading": "Australia",
+      "price": 117,
+      "original_price": 117,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002IlvRIAS",
+      "hero_image": "https://images.luxuryescapes.com/cu7dubgo4cvvo7vngam",
+      "image_two": "https://images.luxuryescapes.com/nwldch467iesxmpqeg06",
+      "image_three": "https://images.luxuryescapes.com/yn6opirvvv2odiqjy8tw",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Magenta - Australia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Magenta, Australia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "magenta hotels",
+      "magenta travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/magenta",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/magenta",
+      "es": "https://mondoexplora.com/es/destination/magenta",
+      "fr": "https://mondoexplora.com/fr/destination/magenta",
+      "it": "https://mondoexplora.com/it/destination/magenta"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 117,
+    "average_discount": 0
+  }
+}

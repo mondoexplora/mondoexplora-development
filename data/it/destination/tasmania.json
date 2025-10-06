@@ -1,0 +1,50 @@
+{
+  "city": "Tasmania",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotel a Tasmania",
+  "description": "Scopri i migliori hotel a Tasmania, Australia. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/9tztxv1ueeo42lyig0bs",
+  "hotels": [
+    {
+      "vendor_name": "Country Club Villas",
+      "offer_country_name": "Australia",
+      "location_heading": "Tasmania",
+      "title": "Explore Tasmania's North with Onsite Dining, Bar & Indoor Pool",
+      "description": "Escape to the enchanting charm of this unique hotel boasting self-contained havens in the heart of Launceston. Nestled 10 minutes from the city and a stone's throw away from breathtaking nature like Cataract Gorge and the Tamar Island Wetlands, Country Club Villas blends comfort and convenience with unique Tasmanian beauty. Step outside to find parking at your door, a playground for little adventurers and a serene BBQ area for memorable evenings. Indulge in dining delights at the onsite restaurant and pizzeria, or dive into relaxation in the indoor pool. Set within 300 acres of parkland, lakes and rolling paddocks, this idyllic retreat offers a perfect escape. Explore nearby bush trails, then hop on a complimentary shuttle to Country Club Resort, which hosts more restaurants and bars.",
+      "location_subheading": "Australia",
+      "price": 81,
+      "original_price": 81,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000E2zDpYAJ",
+      "hero_image": "https://images.luxuryescapes.com/9tztxv1ueeo42lyig0bs",
+      "image_two": "https://images.luxuryescapes.com/hj1i1wvuxebtmppcg7a",
+      "image_three": "https://images.luxuryescapes.com/5mwrc1eaml8m75jh05",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Tasmania - Australia Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Tasmania, Australia con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "tasmania hotels",
+      "tasmania travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/tasmania",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/tasmania",
+      "es": "https://mondoexplora.com/es/destination/tasmania",
+      "fr": "https://mondoexplora.com/fr/destination/tasmania",
+      "it": "https://mondoexplora.com/it/destination/tasmania"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 81,
+    "average_discount": 0
+  }
+}

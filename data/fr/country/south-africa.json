@@ -1,0 +1,43 @@
+{
+  "name": "South Africa",
+  "code": "ZA",
+  "hero_title": "South Africa Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en South Africa.",
+  "hero_image": "https://images.luxuryescapes.com/wqlnvgdridgnyx3ka6bh",
+  "popular_destinations": [
+    {
+      "name": "Cape Town",
+      "slug": "cape-town",
+      "image": "https://images.luxuryescapes.com/wqlnvgdridgnyx3ka6bh",
+      "description": "Explore Cape Town with luxury accommodations"
+    },
+    {
+      "name": "Franschhoek",
+      "slug": "franschhoek",
+      "image": "https://images.luxuryescapes.com/l846egk9fgmgyzo8qb6",
+      "description": "Explore Franschhoek with luxury accommodations"
+    },
+    {
+      "name": "Johannesburg",
+      "slug": "johannesburg",
+      "image": "https://images.luxuryescapes.com/652gyr1fmict9yfmbbdp",
+      "description": "Explore Johannesburg with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "South Africa Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en South Africa avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "south africa hotels",
+      "south africa travel",
+      "south africa luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/za",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/za",
+      "es": "https://mondoexplora.com/es/country/za",
+      "fr": "https://mondoexplora.com/fr/country/za",
+      "it": "https://mondoexplora.com/it/country/za"
+    }
+  }
+}

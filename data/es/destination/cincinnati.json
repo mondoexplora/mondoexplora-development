@@ -1,0 +1,50 @@
+{
+  "city": "Cincinnati",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hoteles en Cincinnati",
+  "description": "Descubre los mejores hoteles en Cincinnati, United States. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/r079pbxgdy1nmpdtfm",
+  "hotels": [
+    {
+      "vendor_name": "21c Museum Hotel Cincinnati",
+      "offer_country_name": "United States",
+      "location_heading": "Cincinnati",
+      "title": "Downtown Cincinnati Historic Haven with Onsite Museum, Restaurant & Spa",
+      "description": "Step into a world where contemporary art and historic architecture meet in the heart of downtown Cincinnati, just steps from the Aronoff Center for the Arts and the bustling Over-the-Rhine neighbourhood. Each room is adorned with original artworks, while the onsite 21c Museum offers ever-changing exhibitions open day and night. Dine at Metropole, where wood-fired dishes showcase local ingredients in a chic, gallery-inspired setting. Explore nearby Findlay Market, the city’s oldest public market, or stroll to Washington Park for live music and cultural events. Back at the hotel, retreat to The Spa at 21c Cincinnati for soothing massages and facials.",
+      "location_subheading": "United States",
+      "price": 172,
+      "original_price": 172,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000JjrFAYAZ",
+      "hero_image": "https://images.luxuryescapes.com/r079pbxgdy1nmpdtfm",
+      "image_two": "https://images.luxuryescapes.com/w6vgqxxh94vseitzacf",
+      "image_three": "https://images.luxuryescapes.com/z7l9iig41ksdmovrjm2s",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Cincinnati - Estados Unidos Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Cincinnati, United States con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "cincinnati hotels",
+      "cincinnati travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/cincinnati",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/cincinnati",
+      "es": "https://mondoexplora.com/es/destination/cincinnati",
+      "fr": "https://mondoexplora.com/fr/destination/cincinnati",
+      "it": "https://mondoexplora.com/it/destination/cincinnati"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 172,
+    "average_discount": 0
+  }
+}

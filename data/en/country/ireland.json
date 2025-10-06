@@ -1,0 +1,70 @@
+{
+  "name": "Ireland",
+  "code": "IE",
+  "hero_title": "Ireland Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Ireland.",
+  "hero_image": "https://images.luxuryescapes.com/m96esyk8gmvpvldfybiq",
+  "popular_destinations": [
+    {
+      "name": "Dublin",
+      "slug": "dublin",
+      "image": "https://images.luxuryescapes.com/m96esyk8gmvpvldfybiq",
+      "description": "Explore Dublin with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 207
+    },
+    {
+      "name": "Cork",
+      "slug": "cork",
+      "image": "https://images.luxuryescapes.com/cxkj7oz77rxqedp2bl",
+      "description": "Explore Cork with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 315
+    },
+    {
+      "name": "County Mayo",
+      "slug": "county-mayo",
+      "image": "https://images.luxuryescapes.com/zr3811uchexm4w37c1i",
+      "description": "Explore County Mayo with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 225
+    },
+    {
+      "name": "Galway",
+      "slug": "galway",
+      "image": "https://images.luxuryescapes.com/5gtybwilyqb8sjlq4g1l",
+      "description": "Explore Galway with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 203
+    },
+    {
+      "name": "Kilkenny",
+      "slug": "kilkenny",
+      "image": "https://images.luxuryescapes.com/zv1943mpulqly0zcno07",
+      "description": "Explore Kilkenny with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 190
+    }
+  ],
+  "seo": {
+    "title": "Ireland Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Ireland with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "ireland hotels",
+      "ireland travel",
+      "ireland luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/ireland",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ireland",
+      "es": "https://mondoexplora.com/es/country/ireland",
+      "fr": "https://mondoexplora.com/fr/country/ireland",
+      "it": "https://mondoexplora.com/it/country/ireland"
+    }
+  }
+}

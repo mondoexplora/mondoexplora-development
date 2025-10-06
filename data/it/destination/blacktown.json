@@ -1,0 +1,50 @@
+{
+  "city": "Blacktown",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotel a Blacktown",
+  "description": "Scopri i migliori hotel a Blacktown, Australia. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/zotm2xe2qrlts0j9xifd",
+  "hotels": [
+    {
+      "vendor_name": "Mercure Blacktown",
+      "offer_country_name": "Australia",
+      "location_heading": "Blacktown",
+      "title": "Blacktown Sydney Family-Friendly Stay near Sydney Zoo & with Onsite Cafe",
+      "description": "Discover the best of Sydney's west with a stay at this modern hotel, perfectly positioned near the WRaging Waters water park and the expansive Sydney Zoo. This contemporary hotel offers the ideal base for family-friendly adventures, with an onsite cafe and parking available. If you’re seeking retail therapy, the bustling Westpoint Blacktown shopping centre is just a short drive away, and sports fans will delight at the Blacktown International Sportspark. After a day of exploring, retreat to the comfortable rooms to relax and unwind.",
+      "location_subheading": "Australia",
+      "price": 95,
+      "original_price": 95,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002J2z4IAC",
+      "hero_image": "https://images.luxuryescapes.com/zotm2xe2qrlts0j9xifd",
+      "image_two": "https://images.luxuryescapes.com/gkp2ra6c5ghdwgoxhwj",
+      "image_three": "https://images.luxuryescapes.com/pgtxdypg7qtwtinqwpsc",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Blacktown - Australia Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Blacktown, Australia con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "blacktown hotels",
+      "blacktown travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/blacktown",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/blacktown",
+      "es": "https://mondoexplora.com/es/destination/blacktown",
+      "fr": "https://mondoexplora.com/fr/destination/blacktown",
+      "it": "https://mondoexplora.com/it/destination/blacktown"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 95,
+    "average_discount": 0
+  }
+}

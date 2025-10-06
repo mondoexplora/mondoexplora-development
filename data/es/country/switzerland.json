@@ -1,0 +1,61 @@
+{
+  "name": "Switzerland",
+  "code": "CH",
+  "hero_title": "Switzerland Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Switzerland.",
+  "hero_image": "https://images.luxuryescapes.com/t4lviawequ61lc6d4bq",
+  "popular_destinations": [
+    {
+      "name": "Bern",
+      "slug": "bern",
+      "image": "https://images.luxuryescapes.com/t4lviawequ61lc6d4bq",
+      "description": "Explore Bern with luxury accommodations"
+    },
+    {
+      "name": "Crans-Montana",
+      "slug": "crans-montana",
+      "image": "https://images.luxuryescapes.com/c7gioeg1ff1s9rp7iv5b",
+      "description": "Explore Crans-Montana with luxury accommodations"
+    },
+    {
+      "name": "Engelberg",
+      "slug": "engelberg",
+      "image": "https://images.luxuryescapes.com/l57tybstwrwgd6w4dw9j",
+      "description": "Explore Engelberg with luxury accommodations"
+    },
+    {
+      "name": "Geneva",
+      "slug": "geneva",
+      "image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
+      "description": "Explore Geneva with luxury accommodations"
+    },
+    {
+      "name": "Grindelwald",
+      "slug": "grindelwald",
+      "image": "https://images.luxuryescapes.com/htdvplf3m6pbqgfd6mhc",
+      "description": "Explore Grindelwald with luxury accommodations"
+    },
+    {
+      "name": "Gstaad",
+      "slug": "gstaad",
+      "image": "https://images.luxuryescapes.com/g4yn46fvl917lkcrztdd",
+      "description": "Explore Gstaad with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Switzerland Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Switzerland con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "switzerland hotels",
+      "switzerland travel",
+      "switzerland luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/ch",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ch",
+      "es": "https://mondoexplora.com/es/country/ch",
+      "fr": "https://mondoexplora.com/fr/country/ch",
+      "it": "https://mondoexplora.com/it/country/ch"
+    }
+  }
+}

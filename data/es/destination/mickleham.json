@@ -1,0 +1,50 @@
+{
+  "city": "Mickleham",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hoteles en Mickleham",
+  "description": "Descubre los mejores hoteles en Mickleham, Australia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/ofjox2aejpvaw7aft8d8",
+  "hotels": [
+    {
+      "vendor_name": "Marnong Estate",
+      "offer_country_name": "Australia",
+      "location_heading": "Mickleham",
+      "title": "Central Victoria Vineyard Studio & Apartment Luxury with Wine Tastings, Dining Credit & Daily Breakfast",
+      "description": "Escape to Marnong Estate, a luxury retreat and the ultimate haven for wine lovers, set amid 1,200 acres of breathtaking vineyards in the heart of central Victoria. Just a short drive from Melbourne, this hidden gem offers sweeping countryside views, award-winning wines and an experience that lingers long after you leave. Start your day with a freshly brewed coffee at Caffe Vista before indulging in an authentic Italian lunch at Cucina 3064. As evening falls, elevate the experience at the chef-hatted La Vètta, where the finest local ingredients are transformed into an unforgettable dining affair. At the Cellar Door, immerse yourself in a curated tasting of estate-grown, award-winning wines. Wander the estate’s picturesque grounds, bask in the golden hour glow or watch the sunset paint the Macedon Ranges in warm hues from The Main Lawn. Unwind on your private balcony, where vineyard views stretch endlessly before you. Whether you're strolling through romantic vines, savouring a glass of the finest vintage or simply embracing the tranquility of the countryside, Marnong Estate is the perfect escape from the everyday.",
+      "location_subheading": "Australia",
+      "price": 339,
+      "original_price": 721,
+      "discount_percentage": 53,
+      "link": "https://luxuryescapes.com/offer/006RF00000EEV8jYAH",
+      "hero_image": "https://images.luxuryescapes.com/ofjox2aejpvaw7aft8d8",
+      "image_two": "https://images.luxuryescapes.com/5qqlnm54180q5l5122k",
+      "image_three": "https://images.luxuryescapes.com/fkncrqn58cc0zuibu3",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 2,
+      "end_date_utc": "2025-08-04 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Mickleham - Australia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Mickleham, Australia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "mickleham hotels",
+      "mickleham travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/mickleham",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/mickleham",
+      "es": "https://mondoexplora.com/es/destination/mickleham",
+      "fr": "https://mondoexplora.com/fr/destination/mickleham",
+      "it": "https://mondoexplora.com/it/destination/mickleham"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 339,
+    "average_discount": 53
+  }
+}

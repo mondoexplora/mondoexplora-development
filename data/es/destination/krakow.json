@@ -1,0 +1,50 @@
+{
+  "city": "Krakow",
+  "country": "Poland",
+  "country_code": "PL",
+  "hero_title": "Hoteles en Krakow",
+  "description": "Descubre los mejores hoteles en Krakow, Poland. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/2iwdu7rhrk2ckcgrcqmr",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Indigo Krakow - Old Town",
+      "offer_country_name": "Poland",
+      "location_heading": "Krakow",
+      "title": "Krakow Art Hotel near Florian Gate and Old Town",
+      "description": "Mere steps from the picturesque Old Town, enjoy a stay at Hotel Indigo Krakow - Old Town, an IHG Hotel, where heritage architecture merges with inspired design. Wake in a stylish guest room boasting artistic flair inspired by renowned painters. Experience a modern twist on traditional Polish cuisine at Filipa 18 restaurant or stop in for a hearty lunch at Bistro Filipa 18. Wander charming side streets and verdant gardens as you experience the cultural and culinary treasures of Poland.",
+      "location_subheading": "Poland",
+      "price": 94,
+      "original_price": 94,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CuiRdAAJ",
+      "hero_image": "https://images.luxuryescapes.com/2iwdu7rhrk2ckcgrcqmr",
+      "image_two": "https://images.luxuryescapes.com/ifcp694kpr85od0932d4",
+      "image_three": "https://images.luxuryescapes.com/ai1ox4m1tssjdt2m1twq",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Krakow - Poland Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Krakow, Poland con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "krakow hotels",
+      "krakow travel",
+      "poland hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/krakow",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/krakow",
+      "es": "https://mondoexplora.com/es/destination/krakow",
+      "fr": "https://mondoexplora.com/fr/destination/krakow",
+      "it": "https://mondoexplora.com/it/destination/krakow"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 94,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "x",
+  "country": "Thailand",
+  "country_code": "TH",
+  "hero_title": "Hotels in x",
+  "description": "Discover the best hotels in x, Thailand. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/qmrnvui569y8jrc2i54n",
+  "hotels": [
+    {
+      "vendor_name": "Aleenta Hua Hin - Pranburi Resort & Spa",
+      "offer_country_name": "Thailand",
+      "location_heading": "x",
+      "title": "Ultimate Hua Hin Secluded Luxury Near Khao Sam Roi Yot National Park with Onsite Spa",
+      "description": "Unwind in the lap of sophistication at the Aleenta property that started it all - the five-star Aleenta Hua Hin - Pranburi Resort & Spa, part of the acclaimed Small Luxury Hotels of the World collection. Nestled in captivating Paknampran Bay, close to Hua Hin town and just 40 minutes from the soaring limestone mountains, otherworldly caves and champagne beaches of Khao Sam Roi Yot National Park, this resort is the ultimate secluded escape overlooking the Gulf of Thailand. Tucked away within Thailand’s historical royal seaside retreat, Hua Hin, and home to just 25 impeccable residences - some just steps from the crystal-clear ocean and others with private plunge pools - this boutique resort is nothing short of spectacular. Let this exquisite hideaway lure you in with an extensive menu of wellness treatments at Ayurah Spa, including nourishing mud treatments, body polishes, therapeutic massages and more. As part of the Ayurah Wellness retreat offerings guests can enjoy complimentary wellness classes along with personalised exercise programs led by trainers.",
+      "location_subheading": "Thailand",
+      "price": 125,
+      "original_price": 125,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000003GnmRAAS",
+      "hero_image": "https://images.luxuryescapes.com/qmrnvui569y8jrc2i54n",
+      "image_two": "https://images.luxuryescapes.com/88nikzikql0n16jb3zq",
+      "image_three": "https://images.luxuryescapes.com/qzsh5be1zreomf7frgnv",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in x - Thailand Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in x, Thailand with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "x hotels",
+      "x travel",
+      "thailand hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/x",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/x",
+      "es": "https://mondoexplora.com/es/destination/x",
+      "fr": "https://mondoexplora.com/fr/destination/x",
+      "it": "https://mondoexplora.com/it/destination/x"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 125,
+    "average_discount": 0
+  }
+}

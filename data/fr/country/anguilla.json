@@ -1,0 +1,31 @@
+{
+  "name": "Anguilla",
+  "code": "AI",
+  "hero_title": "Anguilla Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Anguilla.",
+  "hero_image": "https://images.luxuryescapes.com/ewob3rvg9jj08krkyrm8",
+  "popular_destinations": [
+    {
+      "name": "Anguilla",
+      "slug": "anguilla",
+      "image": "https://images.luxuryescapes.com/ewob3rvg9jj08krkyrm8",
+      "description": "Explore Anguilla with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Anguilla Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Anguilla avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "anguilla hotels",
+      "anguilla travel",
+      "anguilla luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/ai",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ai",
+      "es": "https://mondoexplora.com/es/country/ai",
+      "fr": "https://mondoexplora.com/fr/country/ai",
+      "it": "https://mondoexplora.com/it/country/ai"
+    }
+  }
+}

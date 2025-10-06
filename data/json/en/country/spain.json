@@ -1,0 +1,79 @@
+{
+  "name": "Spain",
+  "code": "ES",
+  "hero_title": "Spain Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Spain.",
+  "hero_image": "https://images.luxuryescapes.com/39uj6sqptnjdu6h50aqe",
+  "popular_destinations": [
+    {
+      "name": "Barcelona",
+      "slug": "barcelona",
+      "image": "https://images.luxuryescapes.com/39uj6sqptnjdu6h50aqe",
+      "description": "Explore Barcelona with luxury accommodations",
+      "hotel_count": 20,
+      "hotel_deals": 20,
+      "avg_price": 270
+    },
+    {
+      "name": "Madrid",
+      "slug": "madrid",
+      "image": "https://images.luxuryescapes.com/ll1nxp35znu0yvtzex",
+      "description": "Explore Madrid with luxury accommodations",
+      "hotel_count": 14,
+      "hotel_deals": 14,
+      "avg_price": 246
+    },
+    {
+      "name": "Mallorca",
+      "slug": "mallorca",
+      "image": "https://images.luxuryescapes.com/x6nplgbr7meet166drit",
+      "description": "Explore Mallorca with luxury accommodations",
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 323
+    },
+    {
+      "name": "Ibiza",
+      "slug": "ibiza",
+      "image": "https://images.luxuryescapes.com/idkf1de0esyesav4vtro",
+      "description": "Explore Ibiza with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 260
+    },
+    {
+      "name": "Marbella",
+      "slug": "marbella",
+      "image": "https://images.luxuryescapes.com/di2hjl53fdqkt549zx8",
+      "description": "Explore Marbella with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 562
+    },
+    {
+      "name": "Salamanca",
+      "slug": "salamanca",
+      "image": "https://images.luxuryescapes.com/7d8pbn30khhfecyjwm8j",
+      "description": "Explore Salamanca with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 152
+    }
+  ],
+  "seo": {
+    "title": "Spain Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Spain with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "spain hotels",
+      "spain travel",
+      "spain luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/es",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/es",
+      "es": "https://mondoexplora.com/es/country/es",
+      "fr": "https://mondoexplora.com/fr/country/es",
+      "it": "https://mondoexplora.com/it/country/es"
+    }
+  }
+}

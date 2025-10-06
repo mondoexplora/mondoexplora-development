@@ -1,0 +1,55 @@
+{
+  "name": "Ireland",
+  "code": "IE",
+  "hero_title": "Ireland Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Ireland.",
+  "hero_image": "https://images.luxuryescapes.com/cxkj7oz77rxqedp2bl",
+  "popular_destinations": [
+    {
+      "name": "Cork",
+      "slug": "cork",
+      "image": "https://images.luxuryescapes.com/cxkj7oz77rxqedp2bl",
+      "description": "Explore Cork with luxury accommodations"
+    },
+    {
+      "name": "County Mayo",
+      "slug": "county-mayo",
+      "image": "https://images.luxuryescapes.com/zr3811uchexm4w37c1i",
+      "description": "Explore County Mayo with luxury accommodations"
+    },
+    {
+      "name": "Dublin",
+      "slug": "dublin",
+      "image": "https://images.luxuryescapes.com/cpkploqz1a71k6cr088",
+      "description": "Explore Dublin with luxury accommodations"
+    },
+    {
+      "name": "Galway",
+      "slug": "galway",
+      "image": "https://images.luxuryescapes.com/5gtybwilyqb8sjlq4g1l",
+      "description": "Explore Galway with luxury accommodations"
+    },
+    {
+      "name": "Kilkenny",
+      "slug": "kilkenny",
+      "image": "https://images.luxuryescapes.com/zv1943mpulqly0zcno07",
+      "description": "Explore Kilkenny with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Ireland Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Ireland con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "ireland hotels",
+      "ireland travel",
+      "ireland luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/ie",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ie",
+      "es": "https://mondoexplora.com/es/country/ie",
+      "fr": "https://mondoexplora.com/fr/country/ie",
+      "it": "https://mondoexplora.com/it/country/ie"
+    }
+  }
+}

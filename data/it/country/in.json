@@ -1,0 +1,61 @@
+{
+  "name": "India",
+  "code": "IN",
+  "hero_title": "India Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in India.",
+  "hero_image": "https://images.luxuryescapes.com/8yehf8e4l7btyvp7wrr",
+  "popular_destinations": [
+    {
+      "name": "Agra",
+      "slug": "agra",
+      "image": "https://images.luxuryescapes.com/8yehf8e4l7btyvp7wrr",
+      "description": "Explore Agra with luxury accommodations"
+    },
+    {
+      "name": "Ahmedabad",
+      "slug": "ahmedabad",
+      "image": "https://images.luxuryescapes.com/72av8wuuzxugbcg7t4",
+      "description": "Explore Ahmedabad with luxury accommodations"
+    },
+    {
+      "name": "Amritsar",
+      "slug": "amritsar",
+      "image": "https://images.luxuryescapes.com/8wp84jk5jnkqwbkbgaqn",
+      "description": "Explore Amritsar with luxury accommodations"
+    },
+    {
+      "name": "Bangalore",
+      "slug": "bangalore",
+      "image": "https://images.luxuryescapes.com/q0svw0m1iehwmpepyc5",
+      "description": "Explore Bangalore with luxury accommodations"
+    },
+    {
+      "name": "Bengaluru",
+      "slug": "bengaluru",
+      "image": "https://images.luxuryescapes.com/z153qu0onlm5vlw53om",
+      "description": "Explore Bengaluru with luxury accommodations"
+    },
+    {
+      "name": "Chennai",
+      "slug": "chennai",
+      "image": "https://images.luxuryescapes.com/avo0b5jwtemmci253n2",
+      "description": "Explore Chennai with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "India Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in India con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "india hotels",
+      "india travel",
+      "india luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/in",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/in",
+      "es": "https://mondoexplora.com/es/country/in",
+      "fr": "https://mondoexplora.com/fr/country/in",
+      "it": "https://mondoexplora.com/it/country/in"
+    }
+  }
+}

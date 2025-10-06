@@ -1,0 +1,61 @@
+{
+  "name": "Australia",
+  "code": "AU",
+  "hero_title": "Australia Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Australia.",
+  "hero_image": "https://images.luxuryescapes.com/lo1509bzq4qd4ks8duvd",
+  "popular_destinations": [
+    {
+      "name": "Adelaide",
+      "slug": "adelaide",
+      "image": "https://images.luxuryescapes.com/lo1509bzq4qd4ks8duvd",
+      "description": "Explore Adelaide with luxury accommodations"
+    },
+    {
+      "name": "Adelaide Hills",
+      "slug": "adelaide-hills",
+      "image": "https://images.luxuryescapes.com/e053ukvmk99r4ixcw0ia",
+      "description": "Explore Adelaide Hills with luxury accommodations"
+    },
+    {
+      "name": "Beechworth",
+      "slug": "beechworth",
+      "image": "https://images.luxuryescapes.com/onnfus38yqywtnrh8mc",
+      "description": "Explore Beechworth with luxury accommodations"
+    },
+    {
+      "name": "Brisbane",
+      "slug": "brisbane",
+      "image": "https://images.luxuryescapes.com/bke655prx8tpmsvjk29",
+      "description": "Explore Brisbane with luxury accommodations"
+    },
+    {
+      "name": "Broadbeach",
+      "slug": "broadbeach",
+      "image": "https://images.luxuryescapes.com/0azsy1b4fi52ouc0zob",
+      "description": "Explore Broadbeach with luxury accommodations"
+    },
+    {
+      "name": "Byron Bay",
+      "slug": "byron-bay",
+      "image": "https://images.luxuryescapes.com/pg3sv2lp793ohowe5em",
+      "description": "Explore Byron Bay with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Australia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Australia con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "australia hotels",
+      "australia travel",
+      "australia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/au",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/au",
+      "es": "https://mondoexplora.com/es/country/au",
+      "fr": "https://mondoexplora.com/fr/country/au",
+      "it": "https://mondoexplora.com/it/country/au"
+    }
+  }
+}

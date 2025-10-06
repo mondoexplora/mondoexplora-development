@@ -1,0 +1,50 @@
+{
+  "city": "St Moritz",
+  "country": "Switzerland",
+  "country_code": "CH",
+  "hero_title": "Hotel a St Moritz",
+  "description": "Scopri i migliori hotel a St Moritz, Switzerland. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/9gvn5wwy2zsf4qcgu3",
+  "hotels": [
+    {
+      "vendor_name": "Kempinski Grand Hotel des Bains St Moritz",
+      "offer_country_name": "Switzerland",
+      "location_heading": "St Moritz",
+      "title": "Swiss Alps Ski-In Ski-Out Kempinski Retreat with Two-Michelin-Starred Restaurant",
+      "description": "Hidden high in the tremendously spectacular Swiss Alps is the historic Grand Hotel des Bains Kempinski St Moritz, a winter oasis that redefines five-star luxury in the heart of the world-famous Engadin Valley. Explore the valley’s light-filled, mythical expanses, an adventurer’s paradise brimming with untouched natural vistas, world-class galleries, peerless ski slopes and the UNESCO World Heritage-listed Rhaetian Railway - an engineering masterpiece that crosses spectacular viaducts as it heads from St Moritz to the lonely heights of Alp Grüm. Grand Hotel des Bains Kempinski St Moritz is the perfect ski-in, ski-out base to savour these many delights, with a sprawling onsite spa and four excellent dining venues, including Cà d’Oro, whose flawless Mediterranean cuisine has earned them 17 Gault Millau points and two coveted Michelin Stars.",
+      "location_subheading": "Switzerland",
+      "price": 545,
+      "original_price": 545,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000003IA9nAAG",
+      "hero_image": "https://images.luxuryescapes.com/9gvn5wwy2zsf4qcgu3",
+      "image_two": "https://images.luxuryescapes.com/8yeal9thoxvecwjrkfsbi",
+      "image_three": "https://images.luxuryescapes.com/jau7ss5qk68a9ofhe",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a St Moritz - Switzerland Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a St Moritz, Switzerland con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "st moritz hotels",
+      "st moritz travel",
+      "switzerland hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/st-moritz",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/st-moritz",
+      "es": "https://mondoexplora.com/es/destination/st-moritz",
+      "fr": "https://mondoexplora.com/fr/destination/st-moritz",
+      "it": "https://mondoexplora.com/it/destination/st-moritz"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 545,
+    "average_discount": 0
+  }
+}

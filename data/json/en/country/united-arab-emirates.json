@@ -1,0 +1,79 @@
+{
+  "name": "United Arab Emirates",
+  "code": "AE",
+  "hero_title": "United Arab Emirates Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in United Arab Emirates.",
+  "hero_image": "https://images.luxuryescapes.com/tiedmdvapvo1mf2u3sr",
+  "popular_destinations": [
+    {
+      "name": "Dubai",
+      "slug": "dubai",
+      "image": "https://images.luxuryescapes.com/tiedmdvapvo1mf2u3sr",
+      "description": "Explore Dubai with luxury accommodations",
+      "hotel_count": 84,
+      "hotel_deals": 84,
+      "avg_price": 193
+    },
+    {
+      "name": "Abu Dhabi",
+      "slug": "abu-dhabi",
+      "image": "https://images.luxuryescapes.com/x1l5jkvmq3nn47016p9t",
+      "description": "Explore Abu Dhabi with luxury accommodations",
+      "hotel_count": 18,
+      "hotel_deals": 18,
+      "avg_price": 296
+    },
+    {
+      "name": "Ras Al Khaimah",
+      "slug": "ras-al-khaimah",
+      "image": "https://images.luxuryescapes.com/z1twobe4uqt038zvfrml",
+      "description": "Explore Ras Al Khaimah with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 148
+    },
+    {
+      "name": "Fujairah",
+      "slug": "fujairah",
+      "image": "https://images.luxuryescapes.com/x3wuas11fa2ma5cmuz16",
+      "description": "Explore Fujairah with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 100
+    },
+    {
+      "name": "Sharjah",
+      "slug": "sharjah",
+      "image": "https://images.luxuryescapes.com/b8vnjm9zxi2tzba40xg",
+      "description": "Explore Sharjah with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 51
+    },
+    {
+      "name": "Ajman",
+      "slug": "ajman",
+      "image": "https://images.luxuryescapes.com/gf586qrpa3aara4wbm29",
+      "description": "Explore Ajman with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 114
+    }
+  ],
+  "seo": {
+    "title": "United Arab Emirates Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in United Arab Emirates with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "united arab emirates hotels",
+      "united arab emirates travel",
+      "united arab emirates luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/ae",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ae",
+      "es": "https://mondoexplora.com/es/country/ae",
+      "fr": "https://mondoexplora.com/fr/country/ae",
+      "it": "https://mondoexplora.com/it/country/ae"
+    }
+  }
+}

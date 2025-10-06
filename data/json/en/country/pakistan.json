@@ -1,0 +1,34 @@
+{
+  "name": "Pakistan",
+  "code": "PK",
+  "hero_title": "Pakistan Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Pakistan.",
+  "hero_image": "https://images.luxuryescapes.com/44l64n9x2qj6mu0doko7",
+  "popular_destinations": [
+    {
+      "name": "Karachi",
+      "slug": "karachi",
+      "image": "https://images.luxuryescapes.com/44l64n9x2qj6mu0doko7",
+      "description": "Explore Karachi with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 88
+    }
+  ],
+  "seo": {
+    "title": "Pakistan Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Pakistan with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "pakistan hotels",
+      "pakistan travel",
+      "pakistan luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/pk",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/pk",
+      "es": "https://mondoexplora.com/es/country/pk",
+      "fr": "https://mondoexplora.com/fr/country/pk",
+      "it": "https://mondoexplora.com/it/country/pk"
+    }
+  }
+}

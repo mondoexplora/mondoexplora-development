@@ -1,0 +1,34 @@
+{
+  "name": "Bangladesh",
+  "code": "BD",
+  "hero_title": "Bangladesh Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Bangladesh.",
+  "hero_image": "https://images.luxuryescapes.com/h5gy3mvz3pbfeskdely",
+  "popular_destinations": [
+    {
+      "name": "Dhaka",
+      "slug": "dhaka",
+      "image": "https://images.luxuryescapes.com/h5gy3mvz3pbfeskdely",
+      "description": "Explore Dhaka with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 118
+    }
+  ],
+  "seo": {
+    "title": "Bangladesh Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Bangladesh with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "bangladesh hotels",
+      "bangladesh travel",
+      "bangladesh luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/bangladesh",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/bangladesh",
+      "es": "https://mondoexplora.com/es/country/bangladesh",
+      "fr": "https://mondoexplora.com/fr/country/bangladesh",
+      "it": "https://mondoexplora.com/it/country/bangladesh"
+    }
+  }
+}

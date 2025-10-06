@@ -1,0 +1,50 @@
+{
+  "city": "Gemenos",
+  "country": "France",
+  "country_code": "FR",
+  "hero_title": "Hotel a Gemenos",
+  "description": "Scopri i migliori hotel a Gemenos, France. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/qabe5yniyra1yd2535sl",
+  "hotels": [
+    {
+      "vendor_name": "La Magdeleine Mathias Dandine",
+      "offer_country_name": "France",
+      "location_heading": "Gemenos",
+      "title": "Boutique 18th Century Bastide in Charming Provence with Michelin-Starred Dining",
+      "description": "Experience all the rustic charm of Southern France at La Magdeleine - Mathias Dandine, a boutique hotel nestled in the heart of Bouches-du-Rhône. The 18th-century bastide is the perfect blend of classic French flair and modern comfort, offering a serene and inviting atmosphere for couples, families and groups. Spend your days exploring nearby attractions, or stay close to home with a stroll through the hotel's park gardens before indulging in a meal at the onsite Michelin-starred restaurant.",
+      "location_subheading": "France",
+      "price": 215,
+      "original_price": 215,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EdplvAAB",
+      "hero_image": "https://images.luxuryescapes.com/qabe5yniyra1yd2535sl",
+      "image_two": "https://images.luxuryescapes.com/qpdali2dasrcdi7u2ggi",
+      "image_three": "https://images.luxuryescapes.com/in5f4154y11pf07l0j",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Gemenos - France Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Gemenos, France con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "gemenos hotels",
+      "gemenos travel",
+      "france hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/gemenos",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/gemenos",
+      "es": "https://mondoexplora.com/es/destination/gemenos",
+      "fr": "https://mondoexplora.com/fr/destination/gemenos",
+      "it": "https://mondoexplora.com/it/destination/gemenos"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 215,
+    "average_discount": 0
+  }
+}

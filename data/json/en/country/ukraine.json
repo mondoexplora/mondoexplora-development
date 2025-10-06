@@ -1,0 +1,34 @@
+{
+  "name": "Ukraine",
+  "code": "UA",
+  "hero_title": "Ukraine Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Ukraine.",
+  "hero_image": "https://images.luxuryescapes.com/az80qkwjklyyvu6hls3",
+  "popular_destinations": [
+    {
+      "name": "Kyiv",
+      "slug": "kyiv",
+      "image": "https://images.luxuryescapes.com/az80qkwjklyyvu6hls3",
+      "description": "Explore Kyiv with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 171
+    }
+  ],
+  "seo": {
+    "title": "Ukraine Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Ukraine with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "ukraine hotels",
+      "ukraine travel",
+      "ukraine luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/ua",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ua",
+      "es": "https://mondoexplora.com/es/country/ua",
+      "fr": "https://mondoexplora.com/fr/country/ua",
+      "it": "https://mondoexplora.com/it/country/ua"
+    }
+  }
+}

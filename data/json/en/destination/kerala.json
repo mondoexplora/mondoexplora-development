@@ -1,0 +1,68 @@
+{
+  "city": "Kerala",
+  "country": "India",
+  "country_code": "IN",
+  "hero_title": "Hotels in Kerala",
+  "description": "Discover the best hotels in Kerala, India. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/tiv6vwcrct0kumexm8tm",
+  "hotels": [
+    {
+      "vendor_name": "The Leela Ashtamudi - A Raviz Hotel",
+      "offer_country_name": "India",
+      "location_heading": "Kerala",
+      "title": "Five-Star Kerala Boutique Lakeside Resort with Ayurvedic Spa",
+      "description": "Overlooking soothing Lake Ashtamudi and surrounded by nature, The Raviz Ashtamudi is a tranquil oasis perfect for a restful retreat. Enjoy vivid natural vistas while savouring culinary delights in the four atmospheric restaurants and bars. Reconnect with nature and enjoy panoramic views, rejuvenate your mind and body at the Kerala Ayurveda & Spa, refresh with a dip in the pool or retire to a spacious guestroom for a restful slumber.",
+      "location_subheading": "India",
+      "price": 97,
+      "original_price": 97,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000BdtbtAAB",
+      "hero_image": "https://images.luxuryescapes.com/tiv6vwcrct0kumexm8tm",
+      "image_two": "https://images.luxuryescapes.com/7aes4nqc28w8d86g78qj",
+      "image_three": "https://images.luxuryescapes.com/7efyjmac2gpdao1is58",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Leela Kovalam, A Raviz Hotel",
+      "offer_country_name": "India",
+      "location_heading": "Kerala",
+      "title": "Top-Rated Kerala Clifftop Hideaway with Private Beach & Ocean-View Infinity Pool",
+      "description": "Perfectly positioned overlooking the Arabian Sea and surrounded by lush coconut groves, The Leela Kovalam, A Raviz Hotel is an idyllic five-star Kerala retreat. Spread over 67 acres of unique landscape, with unparalleled views of the ocean, this clifftop resort offers the best of both worlds, perched less than a 30-minute drive from Kerala's capital, Thiruvananthapuram. Embrace the beauty of the swaying palms, awe-inspiring sunsets and opulent facilities at this award-winning escape, where you'll find luxurious accommodation, five restaurants and bars and a tranquil day spa inspired by ancient Ayurvedic traditions. Dive into the depths of the Arabian Sea and let the colourful marine life enchant you or kick-back poolside to make the most of this romantic or family-friendly holiday.",
+      "location_subheading": "India",
+      "price": 150,
+      "original_price": 150,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000BdtW5AAJ",
+      "hero_image": "https://images.luxuryescapes.com/8zxfc9q9xf8incpa6cswh",
+      "image_two": "https://images.luxuryescapes.com/cds278v1km0ae84g6f8",
+      "image_three": "https://images.luxuryescapes.com/vpfk20y2jk5mqlwlmfvl",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Kerala - India Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Kerala, India with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "kerala hotels",
+      "kerala travel",
+      "india hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/kerala",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/kerala",
+      "es": "https://mondoexplora.com/es/destination/kerala",
+      "fr": "https://mondoexplora.com/fr/destination/kerala",
+      "it": "https://mondoexplora.com/it/destination/kerala"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 124,
+    "average_discount": 0
+  }
+}

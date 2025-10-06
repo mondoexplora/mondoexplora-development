@@ -1,0 +1,50 @@
+{
+  "city": "Pylos",
+  "country": "Greece",
+  "country_code": "GR",
+  "hero_title": "Hoteles en Pylos",
+  "description": "Descubre los mejores hoteles en Pylos, Greece. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/rscoy1egijvqzdmvpnza",
+  "hotels": [
+    {
+      "vendor_name": "Mandarin Oriental Costa Navarino",
+      "offer_country_name": "Greece",
+      "location_heading": "Pylos",
+      "title": "Beachfront Navarino Bay Five-Star Luxury with Private Beach Club",
+      "description": "Slip into low-key luxury at Mandarin Oriental's very first Greece property, Mandarin Oriental, Costa Navarino. Discover pristine landscapes along this quiet corner of the Mediterranean and enjoy classic Peloponnesian sunsets, which bring travellers from across the globe. The seven onsite restaurants and bars provide an immersion into local and international cuisines: savour a dizzying concoction of traditional Greek flavours while admiring views across the sparkling Navarino Bay when you dine at Oliviera, or enjoy freshly baked calzone and focaccia at Pizza Sapienza.",
+      "location_subheading": "Greece",
+      "price": 1125,
+      "original_price": 1125,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DHTwWAAX",
+      "hero_image": "https://images.luxuryescapes.com/rscoy1egijvqzdmvpnza",
+      "image_two": "https://images.luxuryescapes.com/s621enss5ml9kqfmn3ga",
+      "image_three": "https://images.luxuryescapes.com/wvawp3040q6i5qrxl6jn",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Pylos - Greece Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Pylos, Greece con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "pylos hotels",
+      "pylos travel",
+      "greece hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/pylos",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/pylos",
+      "es": "https://mondoexplora.com/es/destination/pylos",
+      "fr": "https://mondoexplora.com/fr/destination/pylos",
+      "it": "https://mondoexplora.com/it/destination/pylos"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 1125,
+    "average_discount": 0
+  }
+}

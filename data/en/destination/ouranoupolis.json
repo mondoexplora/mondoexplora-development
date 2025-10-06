@@ -1,0 +1,50 @@
+{
+  "city": "Ouranoupolis",
+  "country": "Greece",
+  "country_code": "GR",
+  "hero_title": "Hotels in Ouranoupolis",
+  "description": "Discover the best hotels in Ouranoupolis, Greece. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/zmlshq5rbnlk0flxfrvm",
+  "hotels": [
+    {
+      "vendor_name": "Eagles Villas",
+      "offer_country_name": "Greece",
+      "location_heading": "Ouranoupolis",
+      "title": "Five-star Luxury Villas in Halkidiki with Six Restaurants & Four Bars",
+      "description": "Discover rich cobalt waters and unsurpassed hospitality at Eagles Villas Halkidiki, Greece. Hooked on the island's most charming peninsula, this all-villa destination boasts a marriage of dramatic landscapes and coastal lifestyle. Have evening cocktails brought to you on your beachside lounge, be thrilled by water sports, admire breathtaking sights, and wine and dine your way through the abundance of onsite restaurants and bars, including modern Mediterranean bites at Lofos.",
+      "location_subheading": "Greece",
+      "price": 586,
+      "original_price": 586,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000C4B8BAAV",
+      "hero_image": "https://images.luxuryescapes.com/zmlshq5rbnlk0flxfrvm",
+      "image_two": "https://images.luxuryescapes.com/53yf1w5b9u7offsd6w",
+      "image_three": "https://images.luxuryescapes.com/ob073isos5vbfd3y9b9",
+      "deal_tier": "",
+      "min_duration": 2,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Ouranoupolis - Greece Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Ouranoupolis, Greece with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "ouranoupolis hotels",
+      "ouranoupolis travel",
+      "greece hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/ouranoupolis",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/ouranoupolis",
+      "es": "https://mondoexplora.com/es/destination/ouranoupolis",
+      "fr": "https://mondoexplora.com/fr/destination/ouranoupolis",
+      "it": "https://mondoexplora.com/it/destination/ouranoupolis"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 586,
+    "average_discount": 0
+  }
+}

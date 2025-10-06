@@ -1,0 +1,68 @@
+{
+  "city": "Fort Worth",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Fort Worth",
+  "description": "Discover the best hotels in Fort Worth, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/4e0ia7mhzejfhqnj8apl",
+  "hotels": [
+    {
+      "vendor_name": "Kimpton Harper Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Fort Worth",
+      "title": "Fort Worth Downtown Stay in Heritage Building With Top-Floor Bar",
+      "description": "Located in a renowned Fort Worth heritage structure erected in 1921, Kimpton Harper Hotel, an IHG Hotel, seamlessly merges the city's storied past with contemporary flair. Take to the 24th-floor bar and sip craft cocktails while looking out onto the Texas plains, and delight in the flavours of modern Italian cuisine at il Modo, the bustling ground-floor restaurant. Beyond the hotel, discover wild rodeos, the historic Stockyards and the laidback streets of Downtown, just steps away.",
+      "location_subheading": "United States",
+      "price": 134,
+      "original_price": 134,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EdKEUAA3",
+      "hero_image": "https://images.luxuryescapes.com/4e0ia7mhzejfhqnj8apl",
+      "image_two": "https://images.luxuryescapes.com/6abfh5xw9vl1zc9yyeda",
+      "image_three": "https://images.luxuryescapes.com/7sjrbrfw8oyeawy9szsn",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Omni Fort Worth Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Fort Worth",
+      "title": "Elegant Fort Worth Downtown Stay with Six Dining Outlets & Rooftop Heated Pool",
+      "description": "Succumb to the call of Texas with a stay in the heart of Downtown Fort Worth, known as the birthplace of boot-scootin' cowboy country. Experience the charm of a bygone era with a trip to the Stockyards Museum, brimming with old-school memorabilia, catch the excitement of an authentic rodeo, and hoedown with the locals at the liveliest honky-tonk in town - Billy Bob’s. When it's time to feast, Omni Fort Worth Hotel is home to two quintessentially Texas restaurants, Bob's Steak & Chop House and Cast Iron Restaurant, both serving the flavours of the south. Enjoy a tipple at the Wine Thief wine bar, sip top-shelf liquor at Whisky & Rye, and savour a refreshing cocktail poolside at Water Horse Pool Bar.",
+      "location_subheading": "United States",
+      "price": 171,
+      "original_price": 171,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002HiI8IAK",
+      "hero_image": "https://images.luxuryescapes.com/vkvse190dsunb68e8jj6",
+      "image_two": "https://images.luxuryescapes.com/fqumpp28ej62x828lnm",
+      "image_three": "https://images.luxuryescapes.com/tdmrlqoolhxs6acxux4a",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Fort Worth - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Fort Worth, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "fort worth hotels",
+      "fort worth travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/fort-worth",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/fort-worth",
+      "es": "https://mondoexplora.com/es/destination/fort-worth",
+      "fr": "https://mondoexplora.com/fr/destination/fort-worth",
+      "it": "https://mondoexplora.com/it/destination/fort-worth"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 153,
+    "average_discount": 0
+  }
+}

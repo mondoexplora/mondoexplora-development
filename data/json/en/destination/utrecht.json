@@ -1,0 +1,50 @@
+{
+  "city": "Utrecht",
+  "country": "Netherlands",
+  "country_code": "NL",
+  "hero_title": "Hotels in Utrecht",
+  "description": "Discover the best hotels in Utrecht, Netherlands. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/ddak3fz988dnikma7d2",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Utrecht - Central Station",
+      "offer_country_name": "Netherlands",
+      "location_heading": "Utrecht",
+      "title": "Cosmopolitan Netherlands Stay in Historic Utrecht",
+      "description": "Experience the perfect combination of heritage and cosmopolitan living in centuries-old Utrecht, situated between Rotterdam and Amsterdam (just a 30-minute train ride away). At Crowne Plaza Utrecht - Central Station, an IHG Hotel, you'll be within easy reach of the city's classic cobblestoned streets, lined with vintage bookstores, boutiques and endless coffee stops - as well as Utrecht Centraal station and the attractions of the surrounding Hoog Catharijne mall.",
+      "location_subheading": "Netherlands",
+      "price": 117,
+      "original_price": 117,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJcLAAX",
+      "hero_image": "https://images.luxuryescapes.com/ddak3fz988dnikma7d2",
+      "image_two": "https://images.luxuryescapes.com/ysji7bexsl0iru5rz1ke",
+      "image_three": "https://images.luxuryescapes.com/k1zkcrb9bgr5dftmw2fd",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Utrecht - Netherlands Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Utrecht, Netherlands with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "utrecht hotels",
+      "utrecht travel",
+      "netherlands hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/utrecht",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/utrecht",
+      "es": "https://mondoexplora.com/es/destination/utrecht",
+      "fr": "https://mondoexplora.com/fr/destination/utrecht",
+      "it": "https://mondoexplora.com/it/destination/utrecht"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 117,
+    "average_discount": 0
+  }
+}

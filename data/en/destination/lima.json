@@ -1,0 +1,50 @@
+{
+  "city": "Lima",
+  "country": "Peru",
+  "country_code": "PE",
+  "hero_title": "Hotels in Lima",
+  "description": "Discover the best hotels in Lima, Peru. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/ojrk9dr9kl6cvrrjjw7",
+  "hotels": [
+    {
+      "vendor_name": "Los Delfines",
+      "offer_country_name": "Peru",
+      "location_heading": "Lima",
+      "title": "Peru Five-Star Oasis in Lima's San Isidro District",
+      "description": "Flaunting five-star luxe and a spectacular location in the heart of Lima, Delfines Hotel & Convention Center is a city oasis for avid adventures eager to explore the best of Peru. Surrounded by a beautiful juxtaposition of modern restaurants and historic ruins, and adjacent to Lima Golf Club's sweeping greens, this premier San Isidro District hotel features an array of first-class amenities. Facilities include a sun-kissed swimming pool, an indulgent spa, four restaurants and bars, and even a heliport on the 14th floor. Lima's central position makes it the perfect starting point for your Peru adventures. Discover the cultural hub of Cusco, where the mesmerising relics of Machu Picchu await, or venture south to the colourful floating villages of Lake Titicaca, both a direct 1.5-hour flight from Lima Airport.",
+      "location_subheading": "Peru",
+      "price": 125,
+      "original_price": 125,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000007lmABAAY",
+      "hero_image": "https://images.luxuryescapes.com/ojrk9dr9kl6cvrrjjw7",
+      "image_two": "https://images.luxuryescapes.com/lqz1g7rfodjttyw6lfrd",
+      "image_three": "https://images.luxuryescapes.com/j7audsz9gg3f1wvt7c5j",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Lima - Peru Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Lima, Peru with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "lima hotels",
+      "lima travel",
+      "peru hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/lima",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/lima",
+      "es": "https://mondoexplora.com/es/destination/lima",
+      "fr": "https://mondoexplora.com/fr/destination/lima",
+      "it": "https://mondoexplora.com/it/destination/lima"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 125,
+    "average_discount": 0
+  }
+}

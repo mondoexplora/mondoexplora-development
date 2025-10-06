@@ -1,0 +1,79 @@
+{
+  "name": "Maldives",
+  "code": "MV",
+  "hero_title": "Maldives Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Maldives.",
+  "hero_image": "https://images.luxuryescapes.com/ugz0dlpe39jgdoy3cbfq",
+  "popular_destinations": [
+    {
+      "name": "Baa Atoll",
+      "slug": "baa-atoll",
+      "image": "https://images.luxuryescapes.com/ugz0dlpe39jgdoy3cbfq",
+      "description": "Explore Baa Atoll with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 1296
+    },
+    {
+      "name": "Malé",
+      "slug": "malé",
+      "image": "https://images.luxuryescapes.com/9toeoabgjizcazk930l2",
+      "description": "Explore Malé with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 3199
+    },
+    {
+      "name": "Raa Atoll",
+      "slug": "raa-atoll",
+      "image": "https://images.luxuryescapes.com/9271eriqk8a808iernh",
+      "description": "Explore Raa Atoll with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 1338
+    },
+    {
+      "name": "South Ari Atoll",
+      "slug": "south-ari-atoll",
+      "image": "https://images.luxuryescapes.com/f6gbs4r6djocmjy6ikb8",
+      "description": "Explore South Ari Atoll with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 1569
+    },
+    {
+      "name": "North Malé Atoll",
+      "slug": "north-malé-atoll",
+      "image": "https://images.luxuryescapes.com/p4llf3rj9g5ls7hpskbg",
+      "description": "Explore North Malé Atoll with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 1847
+    },
+    {
+      "name": "South Atoll",
+      "slug": "south-atoll",
+      "image": "https://images.luxuryescapes.com/tj97yo7ieuytdm5ipe85",
+      "description": "Explore South Atoll with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 566
+    }
+  ],
+  "seo": {
+    "title": "Maldives Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Maldives with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "maldives hotels",
+      "maldives travel",
+      "maldives luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/maldives",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/maldives",
+      "es": "https://mondoexplora.com/es/country/maldives",
+      "fr": "https://mondoexplora.com/fr/country/maldives",
+      "it": "https://mondoexplora.com/it/country/maldives"
+    }
+  }
+}

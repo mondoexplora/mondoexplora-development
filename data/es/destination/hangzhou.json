@@ -1,0 +1,50 @@
+{
+  "city": "Hangzhou",
+  "country": "China",
+  "country_code": "CN",
+  "hero_title": "Hoteles en Hangzhou",
+  "description": "Descubre los mejores hoteles en Hangzhou, China. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/6kpwo1gemjtwmopnbc1",
+  "hotels": [
+    {
+      "vendor_name": "Park Hyatt Hangzhou",
+      "offer_country_name": "China",
+      "location_heading": "Hangzhou",
+      "title": "Stylish Hangzhou Escape Near Shanghai with Onsite Dining, Indoor Pool & Rooftop Entertainment Complex",
+      "description": "Bask in the opulence of Hangzhou's prestigious Qianjiang New Town Central Business District, with a stay at this retreat that effortlessly blends modern luxury with traditional Chinese elegance. This architectural marvel towers above the Qiantang River, offering breathtaking views of the city's skyline and the mesmerising river tide. Savour authentic local Zhejiang and Cantonese cuisine at the Dining Room, or sip on handcrafted cocktails at Forty8 Bar. Venture beyond the hotel to explore the city's rich cultural heritage, with West Lake, China National Silk Museum and the Grand Canal within easy reach.",
+      "location_subheading": "China",
+      "price": 220,
+      "original_price": 220,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000HicEzYAJ",
+      "hero_image": "https://images.luxuryescapes.com/6kpwo1gemjtwmopnbc1",
+      "image_two": "https://images.luxuryescapes.com/bxs5pmbegud8n88r57lt",
+      "image_three": "https://images.luxuryescapes.com/gg6gxhwwergjxn0czb9",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Hangzhou - China Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Hangzhou, China con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "hangzhou hotels",
+      "hangzhou travel",
+      "china hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/hangzhou",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/hangzhou",
+      "es": "https://mondoexplora.com/es/destination/hangzhou",
+      "fr": "https://mondoexplora.com/fr/destination/hangzhou",
+      "it": "https://mondoexplora.com/it/destination/hangzhou"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 220,
+    "average_discount": 0
+  }
+}

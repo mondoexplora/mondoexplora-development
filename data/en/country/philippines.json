@@ -1,0 +1,79 @@
+{
+  "name": "Philippines",
+  "code": "PH",
+  "hero_title": "Philippines Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Philippines.",
+  "hero_image": "https://images.luxuryescapes.com/fc1cpbcf78fqkoecf73",
+  "popular_destinations": [
+    {
+      "name": "Manila",
+      "slug": "manila",
+      "image": "https://images.luxuryescapes.com/fc1cpbcf78fqkoecf73",
+      "description": "Explore Manila with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 127
+    },
+    {
+      "name": "Boracay",
+      "slug": "boracay",
+      "image": "https://images.luxuryescapes.com/gj4o01hubz6pn19ozmo",
+      "description": "Explore Boracay with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 363
+    },
+    {
+      "name": "Cebu",
+      "slug": "cebu",
+      "image": "https://images.luxuryescapes.com/owtefzap3cyguysypil",
+      "description": "Explore Cebu with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 162
+    },
+    {
+      "name": "El Nido",
+      "slug": "el-nido",
+      "image": "https://images.luxuryescapes.com/urvra0h68exxohzvsec",
+      "description": "Explore El Nido with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 336
+    },
+    {
+      "name": "Mactan",
+      "slug": "mactan",
+      "image": "https://images.luxuryescapes.com/knnnzjxymhmebrefd4w",
+      "description": "Explore Mactan with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 204
+    },
+    {
+      "name": "Mactan Island",
+      "slug": "mactan-island",
+      "image": "https://images.luxuryescapes.com/6jkt2zpu4driz1nkvjj",
+      "description": "Explore Mactan Island with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 92
+    }
+  ],
+  "seo": {
+    "title": "Philippines Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Philippines with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "philippines hotels",
+      "philippines travel",
+      "philippines luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/philippines",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/philippines",
+      "es": "https://mondoexplora.com/es/country/philippines",
+      "fr": "https://mondoexplora.com/fr/country/philippines",
+      "it": "https://mondoexplora.com/it/country/philippines"
+    }
+  }
+}

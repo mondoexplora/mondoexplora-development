@@ -1,0 +1,50 @@
+{
+  "city": "Wuxi",
+  "country": "China",
+  "country_code": "CN",
+  "hero_title": "Hotels in Wuxi",
+  "description": "Discover the best hotels in Wuxi, China. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/esfc971lrcvwl0msuwh",
+  "hotels": [
+    {
+      "vendor_name": "Pullman Wuxi New Lake",
+      "offer_country_name": "China",
+      "location_heading": "Wuxi",
+      "title": "China Wuxi Lakeside Hotel with Indoor Pool, Spa & Two Restaurants",
+      "description": "Set within Wuxi's vibrant Xinwu District, this contemporary retreat places you moments from the tranquil Taihu Lake and the lush greenery of Liyuan gardens. Explore the architectural marvels of Nanchan Temple or stroll the picturesque Grand Canal, both just a short drive away from your elegant urban retreat. Return to refined interiors where you can savour Jiangnan cuisine at the sophisticated La Cuisine or sample Cantonese delicacies at Le Chinois Chinese Restaurant. When it's time to relax, the hotel features a shimmering heated indoor pool and a state-of-the-art spa offering indulgent treatments.",
+      "location_subheading": "China",
+      "price": 65,
+      "original_price": 65,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000IazW3YAJ",
+      "hero_image": "https://images.luxuryescapes.com/esfc971lrcvwl0msuwh",
+      "image_two": "https://images.luxuryescapes.com/tqrgtjqbijgh9f76vp",
+      "image_three": "https://images.luxuryescapes.com/dy8rdapw1e3jgork37k",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Wuxi - China Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Wuxi, China with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "wuxi hotels",
+      "wuxi travel",
+      "china hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/wuxi",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/wuxi",
+      "es": "https://mondoexplora.com/es/destination/wuxi",
+      "fr": "https://mondoexplora.com/fr/destination/wuxi",
+      "it": "https://mondoexplora.com/it/destination/wuxi"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 65,
+    "average_discount": 0
+  }
+}

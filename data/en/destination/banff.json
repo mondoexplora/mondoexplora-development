@@ -1,0 +1,50 @@
+{
+  "city": "Banff",
+  "country": "Canada",
+  "country_code": "CA",
+  "hero_title": "Hotels in Banff",
+  "description": "Discover the best hotels in Banff, Canada. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/m200j04ip0ufk6c5b7ij",
+  "hotels": [
+    {
+      "vendor_name": "Fairmont Banff Springs",
+      "offer_country_name": "Canada",
+      "location_heading": "Banff",
+      "title": "Banff Alpine Majesty in National Park with Two Golf Courses, Nine Restaurants & Onsite Bowling Alley",
+      "description": "Experience the grandeur of the Canadian Rockies at this heritage retreat. This castle-like resort is a stunning blend of timeless elegance and natural beauty, offering guests an unforgettable experience. Explore the surrounding Banff National Park, a UNESCO World Heritage site, with its pristine lakes, dense forests and serene alpine landscapes. For a truly memorable meal, visit the 1888 Chop House, where you can savour prime Alberta beef and fresh seafood, or the Waldhaus Restaurant to sample German-inspired delicacies. Alternatively, relax in the heated outdoor pool, indulge in a rejuvenating treatment at the Fairmont Spa or challenge yourself on the renowned Stanley Thompson-designed golf course.",
+      "location_subheading": "Canada",
+      "price": 426,
+      "original_price": 426,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000GRlcjYAD",
+      "hero_image": "https://images.luxuryescapes.com/m200j04ip0ufk6c5b7ij",
+      "image_two": "https://images.luxuryescapes.com/zys3qbvtsrl50u64kum",
+      "image_three": "https://images.luxuryescapes.com/kycnxwtnwgwocxmimu",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Banff - Canada Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Banff, Canada with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "banff hotels",
+      "banff travel",
+      "canada hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/banff",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/banff",
+      "es": "https://mondoexplora.com/es/destination/banff",
+      "fr": "https://mondoexplora.com/fr/destination/banff",
+      "it": "https://mondoexplora.com/it/destination/banff"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 426,
+    "average_discount": 0
+  }
+}

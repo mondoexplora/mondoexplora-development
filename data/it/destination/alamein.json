@@ -1,0 +1,50 @@
+{
+  "city": "Alamein",
+  "country": "Egypt",
+  "country_code": "EG",
+  "hero_title": "Hotel a Alamein",
+  "description": "Scopri i migliori hotel a Alamein, Egypt. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/m1x2y9po5v963ctkd7i",
+  "hotels": [
+    {
+      "vendor_name": "Rixos Premium Alamein",
+      "offer_country_name": "Egypt",
+      "location_heading": "Alamein",
+      "title": "Luxurious Egypt Beachfront Retreat With Three Restaurants and Direct Beach Access",
+      "description": "Experience the epitome of Egyptian luxury at this retreat, located on the pristine sands of the North Coast. This resort is a jewel of the Mediterranean, offering breathtaking views of the turquoise sea from its elegant rooms and suites. Savour a culinary journey across three exquisite restaurants, serving everything from traditional Egyptian cuisine to international favourites. Indulge in a world of relaxation at the opulent spa, offering a range of rejuvenating treatments. For those seeking adventure, the resort is just a short drive from the historic city of El Alamein, home to fascinating World War II museums and memorials. Alternatively, take a leisurely stroll along the stunning beachfront promenade, dotted with restaurants.",
+      "location_subheading": "Egypt",
+      "price": 151,
+      "original_price": 151,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000Ib18IYAR",
+      "hero_image": "https://images.luxuryescapes.com/m1x2y9po5v963ctkd7i",
+      "image_two": "https://images.luxuryescapes.com/6xpjemza6zjfx47wueg",
+      "image_three": "https://images.luxuryescapes.com/p9sqvxyp9pcs4inosd2",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Alamein - Egypt Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Alamein, Egypt con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "alamein hotels",
+      "alamein travel",
+      "egypt hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/alamein",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/alamein",
+      "es": "https://mondoexplora.com/es/destination/alamein",
+      "fr": "https://mondoexplora.com/fr/destination/alamein",
+      "it": "https://mondoexplora.com/it/destination/alamein"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 151,
+    "average_discount": 0
+  }
+}

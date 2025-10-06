@@ -1,0 +1,627 @@
+{
+  "South East Asia": {
+    "countries": {
+      "Indonesia": {
+        "hotelCount": 1220,
+        "destinations": {
+          "Seminyak": 219,
+          "Nusa DUa": 191,
+          "Ubud": 135,
+          "Jimbaran": 77,
+          "BALI": 59,
+          "Lombok": 59,
+          "Legian": 57,
+          "Uluwatu": 56,
+          "Canggu": 53,
+          "Sanur": 41
+        }
+      },
+      "Thailand": {
+        "hotelCount": 906,
+        "destinations": {
+          "Phuket": 267,
+          "Bangkok": 159,
+          "Khao Lak": 148,
+          "Koh Samui": 134,
+          "Hua Hin": 35,
+          "Chiang Mai": 27,
+          "Pattaya": 26,
+          "Krabi": 25,
+          "Koh Yao Noi": 15,
+          "Koh Phangan": 12
+        }
+      },
+      "Vietnam": {
+        "hotelCount": 255,
+        "destinations": {
+          "Hoi An": 42,
+          "Phu Quoc": 25,
+          "Nha Trang": 24,
+          "Ho Chi Minh City": 22,
+          "Da Nang": 21,
+          "Cam Ranh": 18,
+          "Hanoi": 14,
+          "Danang": 13,
+          "Ho Tram": 10,
+          "Quy Nhon": 7
+        }
+      },
+      "Malaysia": {
+        "hotelCount": 170,
+        "destinations": {
+          "Kuala Lumpur": 47,
+          "Kota Kinabalu": 24,
+          "Langkawi": 22,
+          "Penang": 14,
+          "Sepang": 6,
+          "Gaya Island": 5,
+          "Kuching": 5,
+          "Borneo": 2,
+          "Johor Bahru": 2,
+          "Malacca": 2
+        }
+      },
+      "Singapore": {
+        "hotelCount": 127,
+        "destinations": {
+          "Singapore": 105,
+          "Sentosa Island": 5,
+          "Orchard": 1,
+          "Orchard Road": 1,
+          "Tanglin": 1
+        }
+      },
+      "Cambodia": {
+        "hotelCount": 47,
+        "destinations": {
+          "Siem Reap": 25,
+          "Phnom Penh": 11,
+          "Koh Rong Archipelago": 1,
+          "Preah Sihanouk Province": 1,
+          "Sihanoukville": 1
+        }
+      },
+      "Philippines": {
+        "hotelCount": 25,
+        "destinations": {
+          "Manila": 7,
+          "Boracay": 4,
+          "Cebu": 3,
+          "El Nido": 2,
+          "Panglao": 2,
+          "Mactan": 1,
+          "Mactan Island": 1,
+          "Makati": 1,
+          "Pasig": 1
+        }
+      },
+      "Laos": {
+        "hotelCount": 13,
+        "destinations": {
+          "Luang Prabang": 11,
+          "Vientiane": 2
+        }
+      },
+      "Myanmar": {
+        "hotelCount": 11,
+        "destinations": {
+          "Yangon": 3
+        }
+      }
+    },
+    "totalHotels": 2774
+  },
+  "Japan & South Korea": {
+    "countries": {
+      "Japan": {
+        "hotelCount": 163,
+        "destinations": {
+          "Hokkaido": 25,
+          "Tokyo": 19,
+          "Osaka": 11,
+          "Kyoto": 10,
+          "Myoko": 8,
+          "Sapporo": 4,
+          "Niigata": 3,
+          "Okinawa": 3,
+          "Hachimantai-shi": 2,
+          "Ishikawa": 2
+        }
+      },
+      "South Korea": {
+        "hotelCount": 28,
+        "destinations": {
+          "Seoul": 21,
+          "Pyeongchang": 2,
+          "Busan": 1,
+          "Incheon": 1,
+          "Jeju": 1,
+          "Suwon": 1
+        }
+      }
+    },
+    "totalHotels": 191
+  },
+  "US, Canada & Mexico": {
+    "countries": {
+      "United States": {
+        "hotelCount": 692,
+        "destinations": {
+          "New York": 74,
+          "Hawaii": 46,
+          "California": 40,
+          "San Francisco": 35,
+          "Los Angeles": 30,
+          "Anaheim": 22,
+          "Chicago": 22,
+          "Florida": 21,
+          "Miami": 17,
+          "New Orleans": 16
+        }
+      },
+      "Mexico": {
+        "hotelCount": 123,
+        "destinations": {
+          "Cancun": 22,
+          "Los Cabos": 17,
+          "Cabo San Lucas": 14,
+          "Tulum": 12,
+          "Playa del Carmen": 10,
+          "Mexico City": 5,
+          "Nuevo Vallarta": 4,
+          "Puebla": 3,
+          "Puerto Vallarta": 3,
+          "Acapulco": 2
+        }
+      },
+      "Canada": {
+        "hotelCount": 42,
+        "destinations": {
+          "Toronto": 7,
+          "Vancouver": 7,
+          "Montreal": 4,
+          "Banff": 2,
+          "Alberta": 1,
+          "Calgary": 1,
+          "Edmonton": 1,
+          "Jasper": 1,
+          "Lake Louise": 1,
+          "Montebello": 1
+        }
+      }
+    },
+    "totalHotels": 857
+  },
+  "Australia & New Zealand": {
+    "countries": {
+      "Australia": {
+        "hotelCount": 3555,
+        "destinations": {
+          "Melbourne": 289,
+          "Sydney": 269,
+          "Gold Coast": 181,
+          "Brisbane": 162,
+          "Canberra": 108,
+          "Perth": 93,
+          "Adelaide": 92,
+          "Port Douglas": 86,
+          "Hobart": 71,
+          "Cairns": 68
+        }
+      },
+      "New Zealand": {
+        "hotelCount": 376,
+        "destinations": {
+          "Queenstown": 60,
+          "Auckland": 59,
+          "Christchurch": 28,
+          "Wellington": 21,
+          "Rotorua": 19,
+          "Nelson": 13,
+          "Bay of Islands": 8,
+          "Franz Josef": 8,
+          "Lake Tekapo": 8,
+          "Te Anau": 8
+        }
+      },
+      "Fiji": {
+        "hotelCount": 206,
+        "destinations": {
+          "Denarau Island": 26,
+          "Coral Coast": 19,
+          "Yasawa Island": 14,
+          "Viti Levu": 13,
+          "Malolo Lailai": 9,
+          "Pacific Harbour": 9,
+          "Tokoriki Island": 9,
+          "Malolo Island": 8,
+          "Beachcomber Island": 7,
+          "Vanua Levu": 7
+        }
+      },
+      "Vanuatu": {
+        "hotelCount": 33,
+        "destinations": {
+          "Port Vila": 18,
+          "Efate": 3,
+          "Espiritu Santo": 2,
+          "Tanna": 2,
+          "Eratap": 1,
+          "Santo Espiritu": 1
+        }
+      },
+      "Papua New Guinea": {
+        "hotelCount": 1,
+        "destinations": {}
+      }
+    },
+    "totalHotels": 4171
+  },
+  "Europe": {
+    "countries": {
+      "United Kingdom": {
+        "hotelCount": 362,
+        "destinations": {
+          "London": 158,
+          "Edinburgh": 21,
+          "Bath": 9,
+          "Cambridge": 7,
+          "Reading": 7,
+          "Birmingham": 6,
+          "Glasgow": 6,
+          "Liverpool": 6,
+          "Manchester": 6,
+          "Stratford-Upon-Avon": 5
+        }
+      },
+      "Greece": {
+        "hotelCount": 259,
+        "destinations": {
+          "Crete": 57,
+          "Mykonos": 40,
+          "Santorini": 38,
+          "Athens": 23,
+          "Rhodes": 16,
+          "Corfu": 15,
+          "Sounio": 8,
+          "Paros": 7,
+          "Thessaloniki": 6,
+          "Halkidiki": 5
+        }
+      },
+      "Italy": {
+        "hotelCount": 256,
+        "destinations": {
+          "Rome": 50,
+          "Tuscany": 36,
+          "Venice": 18,
+          "Milan": 13,
+          "Florence": 12,
+          "Umbria": 5,
+          "Genoa": 3,
+          "Capri": 2,
+          "Verona": 2,
+          "Anacapri": 1
+        }
+      },
+      "France": {
+        "hotelCount": 249,
+        "destinations": {
+          "Paris": 106,
+          "Provence": 10,
+          "Burgundy": 9,
+          "Corsica": 6,
+          "Bordeaux": 5,
+          "Lyon": 5,
+          "Marseille": 5,
+          "Cannes": 4,
+          "Nice": 4,
+          "Strasbourg": 4
+        }
+      },
+      "Spain": {
+        "hotelCount": 248,
+        "destinations": {
+          "Barcelona": 77,
+          "Madrid": 27,
+          "Mallorca": 23,
+          "Ibiza": 18,
+          "Costa Brava": 10,
+          "Salamanca": 9,
+          "Granada": 7,
+          "Marbella": 5,
+          "Girona": 3,
+          "Palma de Mallorca": 3
+        }
+      },
+      "Portugal": {
+        "hotelCount": 81,
+        "destinations": {
+          "Lisbon": 33,
+          "Porto": 20,
+          "Madeira": 5,
+          "Arcos de Valdevez": 3,
+          "Douro Valley": 3,
+          "Alentejo": 2,
+          "Ericeira": 1,
+          "Estoril": 1,
+          "Vilamoura": 1
+        }
+      },
+      "Germany": {
+        "hotelCount": 70,
+        "destinations": {
+          "Berlin": 25,
+          "Frankfurt": 6,
+          "Hamburg": 6,
+          "Munich": 5,
+          "Dusseldorf": 3,
+          "Baden-Baden": 2,
+          "Bad Reichenhall": 1,
+          "Bremen": 1,
+          "City West": 1,
+          "Dresden": 1
+        }
+      },
+      "Switzerland": {
+        "hotelCount": 39,
+        "destinations": {
+          "Geneva": 7,
+          "Zurich": 5,
+          "Gstaad": 3,
+          "St. Moritz": 3,
+          "Crans-Montana": 2,
+          "Engelberg": 2,
+          "Verbier": 2,
+          "Bern": 1,
+          "Grindelwald": 1,
+          "St Moritz": 1
+        }
+      },
+      "Turkey": {
+        "hotelCount": 38,
+        "destinations": {
+          "Istanbul": 22,
+          "Bodrum": 4,
+          "Bursa": 2,
+          "Ankara": 1,
+          "Antalya": 1,
+          "Buyukada": 1,
+          "Cappadocia": 1,
+          "Milas": 1,
+          "Nevsehir": 1
+        }
+      },
+      "Netherlands": {
+        "hotelCount": 24,
+        "destinations": {
+          "Amsterdam": 17,
+          "The Hague": 3,
+          "Maastricht": 2,
+          "Utrecht": 1
+        }
+      },
+      "Croatia": {
+        "hotelCount": 22,
+        "destinations": {
+          "Dubrovnik": 7,
+          "Sibenik": 1
+        }
+      },
+      "Ireland": {
+        "hotelCount": 19,
+        "destinations": {
+          "Dublin": 8,
+          "Cork": 2,
+          "County Mayo": 1,
+          "Galway": 1,
+          "Kilkenny": 1
+        }
+      },
+      "Austria": {
+        "hotelCount": 18,
+        "destinations": {
+          "Vienna": 16,
+          "Salzburg": 1,
+          "Villach": 1
+        }
+      },
+      "Belgium": {
+        "hotelCount": 17,
+        "destinations": {
+          "Brussels": 10,
+          "Antwerp": 3,
+          "Brugge": 1,
+          "Vilvoorde": 1
+        }
+      },
+      "Montenegro": {
+        "hotelCount": 17,
+        "destinations": {
+          "Tivat": 4,
+          "Herceg Novi": 1,
+          "Perast": 1,
+          "Podgorica": 1
+        }
+      },
+      "Hungary": {
+        "hotelCount": 16,
+        "destinations": {
+          "Budapest": 16
+        }
+      },
+      "Malta": {
+        "hotelCount": 15,
+        "destinations": {
+          "Sliema": 3,
+          "Senglea": 2,
+          "Valletta": 2
+        }
+      },
+      "Czech Republic": {
+        "hotelCount": 13,
+        "destinations": {
+          "Prague": 11
+        }
+      },
+      "Iceland": {
+        "hotelCount": 13,
+        "destinations": {}
+      },
+      "Poland": {
+        "hotelCount": 8,
+        "destinations": {
+          "Warsaw": 5,
+          "Krakow": 1
+        }
+      },
+      "Cyprus": {
+        "hotelCount": 4,
+        "destinations": {
+          "Larnaca": 1,
+          "Limassol": 1
+        }
+      },
+      "Romania": {
+        "hotelCount": 2,
+        "destinations": {
+          "Bucharest": 2
+        }
+      },
+      "Denmark": {
+        "hotelCount": 2,
+        "destinations": {
+          "Copenhagen": 2
+        }
+      },
+      "Sweden": {
+        "hotelCount": 2,
+        "destinations": {}
+      },
+      "Finland": {
+        "hotelCount": 2,
+        "destinations": {
+          "Helsinki": 2
+        }
+      },
+      "Luxembourg": {
+        "hotelCount": 2,
+        "destinations": {
+          "LUXEMBOURG": 2
+        }
+      },
+      "Serbia": {
+        "hotelCount": 2,
+        "destinations": {}
+      },
+      "Slovenia": {
+        "hotelCount": 1,
+        "destinations": {
+          "Ljubljana": 1
+        }
+      },
+      "Slovakia": {
+        "hotelCount": 1,
+        "destinations": {
+          "Bratislava": 1
+        }
+      },
+      "Bulgaria": {
+        "hotelCount": 1,
+        "destinations": {}
+      },
+      "Latvia": {
+        "hotelCount": 1,
+        "destinations": {
+          "Riga": 1
+        }
+      },
+      "Lithuania": {
+        "hotelCount": 1,
+        "destinations": {}
+      },
+      "Andorra": {
+        "hotelCount": 1,
+        "destinations": {}
+      },
+      "Albania": {
+        "hotelCount": 1,
+        "destinations": {}
+      },
+      "Belarus": {
+        "hotelCount": 1,
+        "destinations": {}
+      },
+      "Ukraine": {
+        "hotelCount": 1,
+        "destinations": {
+          "Kyiv": 1
+        }
+      }
+    },
+    "totalHotels": 1809
+  },
+  "Latin America": {
+    "countries": {
+      "Dominican Republic": {
+        "hotelCount": 8,
+        "destinations": {
+          "La Romana": 1,
+          "Samana": 1
+        }
+      },
+      "Brazil": {
+        "hotelCount": 7,
+        "destinations": {
+          "Sao Paulo": 2,
+          "PORTO ALEGRE": 1,
+          "Recife": 1
+        }
+      },
+      "Colombia": {
+        "hotelCount": 6,
+        "destinations": {
+          "Medellin": 2
+        }
+      },
+      "Jamaica": {
+        "hotelCount": 5,
+        "destinations": {
+          "Montego Bay": 3,
+          "Port Antonio": 1
+        }
+      },
+      "Costa Rica": {
+        "hotelCount": 2,
+        "destinations": {
+          "Las Catalinas": 1
+        }
+      },
+      "Chile": {
+        "hotelCount": 1,
+        "destinations": {
+          "Santiago": 1
+        }
+      },
+      "Peru": {
+        "hotelCount": 1,
+        "destinations": {
+          "Lima": 1
+        }
+      },
+      "Honduras": {
+        "hotelCount": 1,
+        "destinations": {}
+      },
+      "El Salvador": {
+        "hotelCount": 1,
+        "destinations": {}
+      },
+      "Trinidad and Tobago": {
+        "hotelCount": 1,
+        "destinations": {}
+      }
+    },
+    "totalHotels": 33
+  }
+}

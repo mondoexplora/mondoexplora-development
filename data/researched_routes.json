@@ -1,0 +1,221 @@
+{
+  "popular_routes": [
+    {
+      "origin": "koh_tao",
+      "destination": "koh_phi_phi",
+      "type": "island_hopping",
+      "distance": "150 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {
+              "name": "Bangkok Airways",
+              "website": "https://www.bangkokair.com",
+              "direct": false
+            },
+            {
+              "name": "Thai Airways",
+              "website": "https://www.thaiairways.com",
+              "direct": false
+            }
+          ],
+          "airports": {
+            "origin": "Koh Samui Airport (USM)",
+            "destination": "Krabi Airport (KBV)"
+          }
+        },
+        "ferry": {
+          "providers": [
+            {
+              "name": "Lomprayah",
+              "website": "https://www.lomprayah.com",
+              "direct": false
+            },
+            {
+              "name": "Seatran Discovery",
+              "website": "https://www.seatrandiscovery.com",
+              "direct": false
+            },
+            {
+              "name": "Raja Ferry",
+              "website": "https://www.rajaferryport.com",
+              "direct": false
+            }
+          ],
+          "ports": {
+            "origin": "Koh Tao Pier",
+            "destination": "Koh Phi Phi Pier"
+          }
+        }
+      }
+    },
+    {
+      "origin": "bangkok",
+      "destination": "chiang_mai",
+      "type": "domestic_major",
+      "distance": "700 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {
+              "name": "Thai Airways",
+              "website": "https://www.thaiairways.com",
+              "direct": true
+            },
+            {
+              "name": "Bangkok Airways",
+              "website": "https://www.bangkokair.com",
+              "direct": true
+            },
+            {
+              "name": "AirAsia",
+              "website": "https://www.airasia.com",
+              "direct": true
+            },
+            {
+              "name": "Nok Air",
+              "website": "https://www.nokair.com",
+              "direct": true
+            }
+          ],
+          "airports": {
+            "origin": "Bangkok Suvarnabhumi (BKK)",
+            "destination": "Chiang Mai International (CNX)"
+          }
+        },
+        "bus": {
+          "providers": [
+            {
+              "name": "Transport Co. Ltd",
+              "website": "https://www.transport.co.th",
+              "direct": true
+            },
+            {
+              "name": "Nakhonchai Air",
+              "website": "https://www.nakhonchaiair.com",
+              "direct": true
+            }
+          ]
+        },
+        "train": {
+          "providers": [
+            {
+              "name": "State Railway of Thailand",
+              "website": "https://www.railway.co.th",
+              "direct": true
+            }
+          ],
+          "stations": {
+            "origin": "Bangkok Hua Lamphong",
+            "destination": "Chiang Mai Station"
+          }
+        }
+      }
+    },
+    {
+      "origin": "phuket",
+      "destination": "krabi",
+      "type": "domestic_major",
+      "distance": "80 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {
+              "name": "Bangkok Airways",
+              "website": "https://www.bangkokair.com",
+              "direct": true
+            },
+            {
+              "name": "Thai Airways",
+              "website": "https://www.thaiairways.com",
+              "direct": true
+            }
+          ],
+          "airports": {
+            "origin": "Phuket International (HKT)",
+            "destination": "Krabi International (KBV)"
+          }
+        },
+        "ferry": {
+          "providers": [
+            {
+              "name": "Andaman Wave Master",
+              "website": "https://www.andamanwavemaster.com",
+              "direct": true
+            },
+            {
+              "name": "Phuket Ferries",
+              "website": "https://www.phuketferries.com",
+              "direct": true
+            }
+          ],
+          "ports": {
+            "origin": "Phuket Rassada Pier",
+            "destination": "Krabi Pier"
+          }
+        },
+        "bus": {
+          "providers": [
+            {
+              "name": "Phuket Travel",
+              "website": "https://www.phukettravel.com",
+              "direct": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "origin": "pattaya",
+      "destination": "koh_samui",
+      "type": "domestic_major",
+      "distance": "300-800 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {
+              "name": "National Airlines",
+              "website": "https://www.example.com",
+              "direct": true
+            }
+          ]
+        },
+        "bus": {
+          "providers": [
+            {
+              "name": "National Bus",
+              "website": "https://www.example.com",
+              "direct": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "origin": "chiang_rai",
+      "destination": "mae_hong_son",
+      "type": "domestic_major",
+      "distance": "300-800 km",
+      "providers": {
+        "flight": {
+          "providers": [
+            {
+              "name": "National Airlines",
+              "website": "https://www.example.com",
+              "direct": true
+            }
+          ]
+        },
+        "bus": {
+          "providers": [
+            {
+              "name": "National Bus",
+              "website": "https://www.example.com",
+              "direct": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

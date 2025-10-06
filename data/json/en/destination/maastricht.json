@@ -1,0 +1,50 @@
+{
+  "city": "Maastricht",
+  "country": "Netherlands",
+  "country_code": "NL",
+  "hero_title": "Hotels in Maastricht",
+  "description": "Discover the best hotels in Maastricht, Netherlands. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/c5ey95ptdjv50pljmu",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Maastricht, Netherlands.",
+      "offer_country_name": "Netherlands",
+      "location_heading": "Maastricht",
+      "title": "Sophisticated Netherlands Stay in Maastricht Overlooking Picturesque Meuse River",
+      "description": "Experience a lively Netherlands stay at Crowne Plaza Maastricht, an IHG Hotel, situated on the banks of the Meuse River. This modern base in the heart of the city is the perfect escape near the historic old town and high-end boutiques along Hoogbrugstraat and Rechtstraat. Discover the ancient limestone underground tunnels used in the 13th century and soak in the unique ancestry of the city, then enjoy dinner at the onsite restaurants and bar lounge.",
+      "location_subheading": "Netherlands",
+      "price": 115,
+      "original_price": 115,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJYtAAP",
+      "hero_image": "https://images.luxuryescapes.com/c5ey95ptdjv50pljmu",
+      "image_two": "https://images.luxuryescapes.com/gqgk4fslzmti09c7mxp9",
+      "image_three": "https://images.luxuryescapes.com/y40tudmxno72epsil2mk",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Maastricht - Netherlands Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Maastricht, Netherlands with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "maastricht hotels",
+      "maastricht travel",
+      "netherlands hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/maastricht",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/maastricht",
+      "es": "https://mondoexplora.com/es/destination/maastricht",
+      "fr": "https://mondoexplora.com/fr/destination/maastricht",
+      "it": "https://mondoexplora.com/it/destination/maastricht"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 115,
+    "average_discount": 0
+  }
+}

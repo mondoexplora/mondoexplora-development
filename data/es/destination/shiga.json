@@ -1,0 +1,50 @@
+{
+  "city": "Shiga",
+  "country": "Japan",
+  "country_code": "JP",
+  "hero_title": "Hoteles en Shiga",
+  "description": "Descubre los mejores hoteles en Shiga, Japan. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/fmrihe28t8iqd9xwy79w",
+  "hotels": [
+    {
+      "vendor_name": "Grand Mercure Lake Biwa",
+      "offer_country_name": "Japan",
+      "location_heading": "Shiga",
+      "title": "Japanese Retreat on Lake Biwa Waterfront with Outdoor Hot Spring & Indoor Onsen",
+      "description": "Escape to the serene shores of Lake Biwa, nestled in the heart of the historical Tokaido region, just 90 minutes northeast of Kyoto. Blending Japanese tradition with contemporary comforts, this five-star resort boasts a stone-lined, open-air hot spring, an indoor mineral bath and a gently lit post-osen relaxation room. Start your day with a bountiful buffet breakfast of Western and Japanese cuisine at Le SENSORIEL overlooking the sparkling lake, before exploring the heritage-rich surroundings, like the Nagahama Castle and Kurokabe Square. During cherry blossom season, the area transforms into a stunning sea of pink hues.",
+      "location_subheading": "Japan",
+      "price": 54,
+      "original_price": 54,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnP3IYAV",
+      "hero_image": "https://images.luxuryescapes.com/fmrihe28t8iqd9xwy79w",
+      "image_two": "https://images.luxuryescapes.com/wi8qu2rghvf08ewgn3n",
+      "image_three": "https://images.luxuryescapes.com/ujpln68k2frfk3cfqfqm",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Shiga - Japan Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Shiga, Japan con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "shiga hotels",
+      "shiga travel",
+      "japan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/shiga",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/shiga",
+      "es": "https://mondoexplora.com/es/destination/shiga",
+      "fr": "https://mondoexplora.com/fr/destination/shiga",
+      "it": "https://mondoexplora.com/it/destination/shiga"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 54,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Peru",
+  "code": "PE",
+  "hero_title": "Peru Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Peru.",
+  "hero_image": "https://images.luxuryescapes.com/ojrk9dr9kl6cvrrjjw7",
+  "popular_destinations": [
+    {
+      "name": "Lima",
+      "slug": "lima",
+      "image": "https://images.luxuryescapes.com/ojrk9dr9kl6cvrrjjw7",
+      "description": "Explore Lima with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Peru Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Peru avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "peru hotels",
+      "peru travel",
+      "peru luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/pe",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/pe",
+      "es": "https://mondoexplora.com/es/country/pe",
+      "fr": "https://mondoexplora.com/fr/country/pe",
+      "it": "https://mondoexplora.com/it/country/pe"
+    }
+  }
+}

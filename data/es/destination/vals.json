@@ -1,0 +1,50 @@
+{
+  "city": "Vals",
+  "country": "Switzerland",
+  "country_code": "CH",
+  "hero_title": "Hoteles en Vals",
+  "description": "Descubre los mejores hoteles en Vals, Switzerland. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/o2pguhoclh6cnayuyia",
+  "hotels": [
+    {
+      "vendor_name": "7132 Hotel",
+      "offer_country_name": "Switzerland",
+      "location_heading": "Vals",
+      "title": "Swiss Alps Serene Mountain Luxury with Thermal Spa & Two-Michelin-Starred Restaurant",
+      "description": "Escape to the Swiss Alps at 7132 Hotel, an architectural masterpiece part of the prestigious Preferred Hotels and Resorts group. The crown jewel of the resort is the ultra-luxurious thermal spa designed by Peter Zumthor, crafted using 60,000 slabs of local quartzite. When you're not swimming in the 30-degree indoor or outdoor pool or taking healing dips in the fire and ice pools, journey into fine dining at the two-Michelin-starred 7132 Silver restaurant, where Chef Mitja Birlo has curated a menu that celebrates local produce. The hotel enjoys a jaw-dropping location amid the dramatic alpine scenery of the Graubünden canton bordering Italy, Austria, and Switzerland. Thanks to 7132's thoughtful design, enjoy views of the majestic mountain range from almost every point thanks to an abundance of floor-to-ceiling windows and mountain-facing terraces.",
+      "location_subheading": "Switzerland",
+      "price": 740,
+      "original_price": 740,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000008nYOsAAM",
+      "hero_image": "https://images.luxuryescapes.com/o2pguhoclh6cnayuyia",
+      "image_two": "https://images.luxuryescapes.com/knipufbtjpwhra7peu",
+      "image_three": "https://images.luxuryescapes.com/3zdqvcs1ebqxr7dy7v8",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Vals - Switzerland Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Vals, Switzerland con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "vals hotels",
+      "vals travel",
+      "switzerland hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/vals",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/vals",
+      "es": "https://mondoexplora.com/es/destination/vals",
+      "fr": "https://mondoexplora.com/fr/destination/vals",
+      "it": "https://mondoexplora.com/it/destination/vals"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 740,
+    "average_discount": 0
+  }
+}

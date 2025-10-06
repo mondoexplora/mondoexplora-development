@@ -1,0 +1,50 @@
+{
+  "city": "Bankstown",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hoteles en Bankstown",
+  "description": "Descubre los mejores hoteles en Bankstown, Australia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/3lu61p6ibjurw1o6aj",
+  "hotels": [
+    {
+      "vendor_name": "Mercure Sydney Bankstown",
+      "offer_country_name": "Australia",
+      "location_heading": "Bankstown",
+      "title": "Sydney Urban Retreat in Bankstown with 14 Onsite Restaurants & Rooftop Bar",
+      "description": "Dive into the vibrant energy of Sydney's west with a stay in the multicultural hub of Bankstown. Enjoy everything on offer in this colourful corner of the city, serving an array of international cuisines, or for those seeking retail therapy, the expansive Bankstown Central Shopping Centre is just a short walk down the road. Head into Sydney to witness the iconic sites and landmarks, including the Sydney Opera House, the Harbour Bridge and the impressive Royal Botanical Gardens. Spend a day basking in the sunshine at Bondi Beach or unlock your adventurous side at Luna Park.",
+      "location_subheading": "Australia",
+      "price": 95,
+      "original_price": 95,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002J2z2IAC",
+      "hero_image": "https://images.luxuryescapes.com/3lu61p6ibjurw1o6aj",
+      "image_two": "https://images.luxuryescapes.com/gzvegdvruttyv8tux8md",
+      "image_three": "https://images.luxuryescapes.com/265w5jxmzgkpoq8d1j5w",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Bankstown - Australia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Bankstown, Australia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "bankstown hotels",
+      "bankstown travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/bankstown",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/bankstown",
+      "es": "https://mondoexplora.com/es/destination/bankstown",
+      "fr": "https://mondoexplora.com/fr/destination/bankstown",
+      "it": "https://mondoexplora.com/it/destination/bankstown"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 95,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "city": "Beirut",
+  "country": "Lebanon",
+  "country_code": "LB",
+  "hero_title": "Hoteles en Beirut",
+  "description": "Descubre los mejores hoteles en Beirut, Lebanon. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/vw8afsl3zvh4vquecy",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Beirut",
+      "offer_country_name": "Lebanon",
+      "location_heading": "Beirut",
+      "title": "Beirut City Centre Escape over Hamra Street Entertainment District",
+      "description": "Overlooking Hamra Street, Crowne Plaza Beirut, an IHG Hotel, is a gateway to shopping and dining in the heart of Lebanon's capital. Gaze over Beirut while savouring delightful dishes from the highest rooftop in Hamra at Top 21 restaurant or seek entertainment at the amusement and bowling centre. Venture out onto Hamra Street to seek out retail treasures or traditional Lebanese cuisine from lively restaurants and busy cafes or explore the vibrant Beirut nightlife in bars and clubs.",
+      "location_subheading": "Lebanon",
+      "price": 84,
+      "original_price": 84,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJZlAAP",
+      "hero_image": "https://images.luxuryescapes.com/vw8afsl3zvh4vquecy",
+      "image_two": "https://images.luxuryescapes.com/98xu6fb2uu3mo6npmckd",
+      "image_three": "https://images.luxuryescapes.com/0fusesflm6f7uthusi19",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
+    {
+      "vendor_name": "Movenpick Hotel Beirut",
+      "offer_country_name": "Lebanon",
+      "location_heading": "Beirut",
+      "title": "Beirut Coastal Luxury with Onsite Dining, Four Pools & Spa",
+      "description": "Experience the epitome of Middle Eastern luxury at this five-star retreat, located in the heart of Beirut. Indulge in world-class cuisine at the hotel's Mediterranean restaurant, or enjoy a cocktail by the shimmering pool with panoramic views of the Mediterranean Sea. Recharge at the onsite spa, boasting a traditional Turkish bath and sauna. Venture out to explore the vibrant city, with its rich history and culture. Visit the nearby National Museum of Beirut or the stunning Mohammad Al-Amin Mosque. For shopping enthusiasts, the famous Beirut Souks are just a short drive away, offering a wide array of local and international brands.",
+      "location_subheading": "Lebanon",
+      "price": 186,
+      "original_price": 186,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000Ib17sYAB",
+      "hero_image": "https://images.luxuryescapes.com/cba9bfndrhnwgfzklvmk",
+      "image_two": "https://images.luxuryescapes.com/8lbmag129ehjyjagb6ga",
+      "image_three": "https://images.luxuryescapes.com/1i5a9alckhfj1yaff2b8p",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Intercontinental Phoenica Beirut",
+      "offer_country_name": "Lebanon",
+      "location_heading": "Beirut",
+      "title": "Five-Star Beirut Escape Overlooking Zaitunay Bay with Four Onsite Eateries",
+      "description": "Experience the best of Lebanon from the five-star InterContinental Phoenicia Beirut, an IHG Hotel. Soaring above the dazzling Zaitunay Bay with shimmering Mediterranean Sea vistas, this ambient hotel sets the standard with glittering pools, an onsite fitness centre and four unique dining venues to suit every taste. Be spoilt for choice when seeking historic locations and shopping areas to uncover - this is the perfect base from which to explore this cosmopolitan city.",
+      "location_subheading": "Lebanon",
+      "price": 246,
+      "original_price": 246,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CNPmdAAH",
+      "hero_image": "https://images.luxuryescapes.com/69m7cyagac9m27tbg3",
+      "image_two": "https://images.luxuryescapes.com/yg0tsmf09raijc7u0uyda",
+      "image_three": "https://images.luxuryescapes.com/h0fqfdo6s1qge7pigq",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Beirut - Lebanon Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Beirut, Lebanon con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "beirut hotels",
+      "beirut travel",
+      "lebanon hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/beirut",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/beirut",
+      "es": "https://mondoexplora.com/es/destination/beirut",
+      "fr": "https://mondoexplora.com/fr/destination/beirut",
+      "it": "https://mondoexplora.com/it/destination/beirut"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 3,
+    "average_price": 172,
+    "average_discount": 0
+  }
+}

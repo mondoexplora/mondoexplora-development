@@ -1,0 +1,50 @@
+{
+  "city": "Valencia",
+  "country": "Spain",
+  "country_code": "ES",
+  "hero_title": "Hotel a Valencia",
+  "description": "Scopri i migliori hotel a Valencia, Spain. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/qeafbx6i38iib50gei4",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Hospes Palau de la Mar",
+      "offer_country_name": "Spain",
+      "location_heading": "Valencia",
+      "title": "Valencia Five-Star Boutique Stay within a 19th-Century Manor House",
+      "description": "Trace your way to Valencia on the coast of Spain where a palatial, five-star stay at Hospes Palau de La Mar awaits. This glamorous boutique hotel housed in a 19th-century manor exudes sophistication and charm from all angles, and the striking lobby boasting pristine white pillars is sure to impress. Indulge in a treatment at the Bodyna Spa, savour a refreshing horchata and Mediterranean cuisine at Ampar Restaurant, or venture out to explore high-end boutiques outside your doorstep.",
+      "location_subheading": "Spain",
+      "price": 148,
+      "original_price": 148,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000BeUMaAAN",
+      "hero_image": "https://images.luxuryescapes.com/qeafbx6i38iib50gei4",
+      "image_two": "https://images.luxuryescapes.com/f8at7e1stsheukpjjgc",
+      "image_three": "https://images.luxuryescapes.com/uokx5fap49gs4ftfny",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Valencia - Spain Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Valencia, Spain con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "valencia hotels",
+      "valencia travel",
+      "spain hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/valencia",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/valencia",
+      "es": "https://mondoexplora.com/es/destination/valencia",
+      "fr": "https://mondoexplora.com/fr/destination/valencia",
+      "it": "https://mondoexplora.com/it/destination/valencia"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 148,
+    "average_discount": 0
+  }
+}

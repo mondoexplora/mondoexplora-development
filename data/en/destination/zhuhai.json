@@ -1,0 +1,50 @@
+{
+  "city": "Zhuhai",
+  "country": "China",
+  "country_code": "CN",
+  "hero_title": "Hotels in Zhuhai",
+  "description": "Discover the best hotels in Zhuhai, China. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/z6gn34metriee84lqfvd",
+  "hotels": [
+    {
+      "vendor_name": "Hyatt Regency Hengqin",
+      "offer_country_name": "China",
+      "location_heading": "Zhuhai",
+      "title": "Hyatt Zhuhai Retreat with Indoor & Outdoor Pools, Rooftop Bar & Spa",
+      "description": "Experience the allure of China's Greater Bay Area with a stay at this luxurious retreat. Situated in the heart of Hengqin Island in Zhuhai, the hotel offers a sophisticated escape in a vibrant destination. Discover the nearby Chimelong Ocean Kingdom, one of the world's largest marine theme parks, or indulge in retail therapy at the Hengqin Port Commercial Plaza. The hotel's world-class facilities ensure an unforgettable stay. Dine and drink at one of the many on-site restaurants and bars, each offering a unique culinary journey with a selection of drinks, or keep active at the fitness centre. Venture beyond the hotel to explore the area's cultural heritage, or take a short ferry ride to the bustling metropolis of Macau.",
+      "location_subheading": "China",
+      "price": 73,
+      "original_price": 73,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000Hifh4YAB",
+      "hero_image": "https://images.luxuryescapes.com/z6gn34metriee84lqfvd",
+      "image_two": "https://images.luxuryescapes.com/fzrbinosigu6q4krool9",
+      "image_three": "https://images.luxuryescapes.com/t9l36hgvg6648zhsrme",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Zhuhai - China Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Zhuhai, China with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "zhuhai hotels",
+      "zhuhai travel",
+      "china hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/zhuhai",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/zhuhai",
+      "es": "https://mondoexplora.com/es/destination/zhuhai",
+      "fr": "https://mondoexplora.com/fr/destination/zhuhai",
+      "it": "https://mondoexplora.com/it/destination/zhuhai"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 73,
+    "average_discount": 0
+  }
+}

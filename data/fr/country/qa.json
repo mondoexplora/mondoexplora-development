@@ -1,0 +1,37 @@
+{
+  "name": "Qatar",
+  "code": "QA",
+  "hero_title": "Qatar Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Qatar.",
+  "hero_image": "https://images.luxuryescapes.com/gt8pwdvwt1xqd3o9ttc",
+  "popular_destinations": [
+    {
+      "name": "Al Wakrah",
+      "slug": "al-wakrah",
+      "image": "https://images.luxuryescapes.com/gt8pwdvwt1xqd3o9ttc",
+      "description": "Explore Al Wakrah with luxury accommodations"
+    },
+    {
+      "name": "Doha",
+      "slug": "doha",
+      "image": "https://images.luxuryescapes.com/zswcq0h7z5o1krnsx8wj",
+      "description": "Explore Doha with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Qatar Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Qatar avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "qatar hotels",
+      "qatar travel",
+      "qatar luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/qa",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/qa",
+      "es": "https://mondoexplora.com/es/country/qa",
+      "fr": "https://mondoexplora.com/fr/country/qa",
+      "it": "https://mondoexplora.com/it/country/qa"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Brazil",
+  "code": "BR",
+  "hero_title": "Brazil Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Brazil.",
+  "hero_image": "https://images.luxuryescapes.com/ey5ifq9ie3kexcfj2dw",
+  "popular_destinations": [
+    {
+      "name": "Porto Alegre",
+      "slug": "porto-alegre",
+      "image": "https://images.luxuryescapes.com/ey5ifq9ie3kexcfj2dw",
+      "description": "Explore Porto Alegre with luxury accommodations"
+    },
+    {
+      "name": "Recife",
+      "slug": "recife",
+      "image": "https://images.luxuryescapes.com/dihal64w8m6oehm3flglg",
+      "description": "Explore Recife with luxury accommodations"
+    },
+    {
+      "name": "Sao Paulo",
+      "slug": "sao-paulo",
+      "image": "https://images.luxuryescapes.com/xpzxj6x2hnnqjl0jwlwq",
+      "description": "Explore Sao Paulo with luxury accommodations"
+    },
+    {
+      "name": "São Paulo",
+      "slug": "são-paulo",
+      "image": "https://images.luxuryescapes.com/oaf3c3hq7794hddhf142",
+      "description": "Explore São Paulo with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Brazil Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Brazil avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "brazil hotels",
+      "brazil travel",
+      "brazil luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/br",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/br",
+      "es": "https://mondoexplora.com/es/country/br",
+      "fr": "https://mondoexplora.com/fr/country/br",
+      "it": "https://mondoexplora.com/it/country/br"
+    }
+  }
+}

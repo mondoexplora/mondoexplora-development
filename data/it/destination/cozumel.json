@@ -1,0 +1,50 @@
+{
+  "city": "Cozumel",
+  "country": "Mexico",
+  "country_code": "MX",
+  "hero_title": "Hotel a Cozumel",
+  "description": "Scopri i migliori hotel a Cozumel, Mexico. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/ugzaiehcqt9makmv6l0l",
+  "hotels": [
+    {
+      "vendor_name": "InterContinental Presidente Cozumel Resort Spa",
+      "offer_country_name": "Mexico",
+      "location_heading": "Cozumel",
+      "title": "Five-Star Beachfront Oasis on Mexico's Cozumel Island with Beach Club & Day Spa",
+      "description": "Experience the vibrant spirit of Mexico at the InterContinental Presidente Cozumel Resort Spa, an IHG Hotel, a luxurious beachfront oasis on the idyllic island of Cozumel. This five-star haven offers a stunning blend of modern luxury and traditional Mexican hospitality. Unwind in the world-class spa, savour authentic Mexican cuisine at El Caribeno Restaurant, sip on refreshing cocktails at Le Cap Beach Club, or dive into the sparkling Caribbean Sea from the resort's stretch of private beach.",
+      "location_subheading": "Mexico",
+      "price": 301,
+      "original_price": 301,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Bdt7LAAR",
+      "hero_image": "https://images.luxuryescapes.com/ugzaiehcqt9makmv6l0l",
+      "image_two": "https://images.luxuryescapes.com/kxgfk7wlnhbn2t9w4us",
+      "image_three": "https://images.luxuryescapes.com/1l454ihb11hj3gmbko",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Cozumel - Mexico Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Cozumel, Mexico con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "cozumel hotels",
+      "cozumel travel",
+      "mexico hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/cozumel",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/cozumel",
+      "es": "https://mondoexplora.com/es/destination/cozumel",
+      "fr": "https://mondoexplora.com/fr/destination/cozumel",
+      "it": "https://mondoexplora.com/it/destination/cozumel"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 301,
+    "average_discount": 0
+  }
+}

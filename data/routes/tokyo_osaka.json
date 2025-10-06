@@ -1,0 +1,142 @@
+{
+  "route": {
+    "origin": "tokyo",
+    "destination": "osaka",
+    "distance": "400 km",
+    "available_modes": [
+      "flight",
+      "train",
+      "bus",
+      "car"
+    ]
+  },
+  "travel_modes": [
+    {
+      "icon": "✈️",
+      "name": "Flight",
+      "description": "Fastest option for long distances",
+      "estimated_time": "2-8 hours",
+      "estimated_cost": "$200-800",
+      "frequency": "Daily",
+      "notes": "Most popular for international travel",
+      "booking_links": {
+        "skyscanner": "https://www.skyscanner.com",
+        "kayak": "https://www.kayak.com",
+        "google_flights": "https://www.google.com/travel/flights"
+      },
+      "providers": [
+        {
+          "name": "Japan Airlines",
+          "website": "https://www.jal.com",
+          "direct": true
+        },
+        {
+          "name": "All Nippon Airways",
+          "website": "https://www.ana.co.jp",
+          "direct": true
+        },
+        {
+          "name": "Peach Aviation",
+          "website": "https://www.flypeach.com",
+          "direct": true
+        }
+      ],
+      "airports": {
+        "origin": "Tokyo Haneda (HND)",
+        "destination": "Osaka Kansai (KIX)"
+      }
+    },
+    {
+      "icon": "🚄",
+      "name": "Train",
+      "description": "Scenic and comfortable for medium distances",
+      "estimated_time": "4-12 hours",
+      "estimated_cost": "$50-300",
+      "frequency": "Daily",
+      "notes": "Great for scenic routes",
+      "booking_links": {
+        "trainline": "https://www.trainline.com",
+        "raileurope": "https://www.raileurope.com",
+        "seat61": "https://www.seat61.com"
+      },
+      "providers": [
+        {
+          "name": "JR Shinkansen",
+          "website": "https://japanrailpass.net",
+          "direct": true
+        }
+      ],
+      "stations": {
+        "origin": "Tokyo Station",
+        "destination": "Shin-Osaka Station"
+      }
+    },
+    {
+      "icon": "🚌",
+      "name": "Bus",
+      "description": "Budget-friendly option for shorter distances",
+      "estimated_time": "6-24 hours",
+      "estimated_cost": "$20-100",
+      "frequency": "Multiple daily",
+      "notes": "Cheapest option available",
+      "booking_links": {
+        "flixbus": "https://www.flixbus.com",
+        "megabus": "https://www.megabus.com",
+        "greyhound": "https://www.greyhound.com"
+      },
+      "providers": [
+        {
+          "name": "Willer Express",
+          "website": "https://willerexpress.com",
+          "direct": true
+        },
+        {
+          "name": "JR Bus",
+          "website": "https://www.jrbuskanto.co.jp",
+          "direct": true
+        }
+      ],
+      "stations": {
+        "origin": "Tokyo Station",
+        "destination": "Osaka Station"
+      }
+    },
+    {
+      "icon": "🚗",
+      "name": "Car",
+      "description": "Flexible and convenient for road trips",
+      "estimated_time": "8-20 hours",
+      "estimated_cost": "$100-400",
+      "frequency": "Anytime",
+      "notes": "Maximum flexibility and freedom",
+      "booking_links": {
+        "rentalcars": "https://www.rentalcars.com",
+        "kayak_cars": "https://www.kayak.com/cars",
+        "expedia_cars": "https://www.expedia.com/cars"
+      },
+      "providers": [
+        {
+          "name": "Toyota Rent a Car",
+          "website": "https://rent.toyota.co.jp",
+          "airport": true
+        },
+        {
+          "name": "Nissan Rent a Car",
+          "website": "https://nissan-rentacar.com",
+          "airport": true
+        },
+        {
+          "name": "Times Car Rental",
+          "website": "https://www.timescar-rental.com",
+          "airport": true
+        }
+      ]
+    }
+  ],
+  "quick_tips": [
+    "Shinkansen bullet train is fastest and most comfortable",
+    "Flights are quick but require airport transfers",
+    "Bus is budget-friendly alternative",
+    "Car allows exploration of countryside"
+  ]
+}

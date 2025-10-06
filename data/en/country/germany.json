@@ -1,0 +1,79 @@
+{
+  "name": "Germany",
+  "code": "DE",
+  "hero_title": "Germany Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Germany.",
+  "hero_image": "https://images.luxuryescapes.com/0oy6xqew8xpwpq8fijn",
+  "popular_destinations": [
+    {
+      "name": "Berlin",
+      "slug": "berlin",
+      "image": "https://images.luxuryescapes.com/0oy6xqew8xpwpq8fijn",
+      "description": "Explore Berlin with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 150
+    },
+    {
+      "name": "Frankfurt",
+      "slug": "frankfurt",
+      "image": "https://images.luxuryescapes.com/b0mh4h6emqmhswfkmkb",
+      "description": "Explore Frankfurt with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 123
+    },
+    {
+      "name": "Munich",
+      "slug": "munich",
+      "image": "https://images.luxuryescapes.com/2upplwii1id6x1znrges",
+      "description": "Explore Munich with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 306
+    },
+    {
+      "name": "Dusseldorf",
+      "slug": "dusseldorf",
+      "image": "https://images.luxuryescapes.com/0a7yiewi4pi9egm9i2eh",
+      "description": "Explore Dusseldorf with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 88
+    },
+    {
+      "name": "Hamburg",
+      "slug": "hamburg",
+      "image": "https://images.luxuryescapes.com/zbugy45qbt17kdx7jj",
+      "description": "Explore Hamburg with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 101
+    },
+    {
+      "name": "Bad Reichenhall",
+      "slug": "bad-reichenhall",
+      "image": "https://images.luxuryescapes.com/glaz7ro1nd8lvnfzrnc",
+      "description": "Explore Bad Reichenhall with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 64
+    }
+  ],
+  "seo": {
+    "title": "Germany Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Germany with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "germany hotels",
+      "germany travel",
+      "germany luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/germany",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/germany",
+      "es": "https://mondoexplora.com/es/country/germany",
+      "fr": "https://mondoexplora.com/fr/country/germany",
+      "it": "https://mondoexplora.com/it/country/germany"
+    }
+  }
+}

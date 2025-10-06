@@ -1,0 +1,151 @@
+{
+  "name": "Thailand",
+  "code": "thailand",
+  "stats": {
+    "routes": 25,
+    "cities": 12,
+    "providers": 45
+  },
+  "popular_routes": [
+    {
+      "origin": "Bangkok",
+      "destination": "Chiang Mai",
+      "distance": "700 km",
+      "providers": {
+        "flight": true,
+        "train": true,
+        "bus": true
+      }
+    },
+    {
+      "origin": "Bangkok",
+      "destination": "Phuket",
+      "distance": "800 km",
+      "providers": {
+        "flight": true,
+        "bus": true
+      }
+    },
+    {
+      "origin": "Phuket",
+      "destination": "Krabi",
+      "distance": "80 km",
+      "providers": {
+        "flight": true,
+        "ferry": true,
+        "bus": true
+      }
+    },
+    {
+      "origin": "Koh Tao",
+      "destination": "Koh Phi Phi",
+      "distance": "150 km",
+      "providers": {
+        "flight": true,
+        "ferry": true
+      }
+    },
+    {
+      "origin": "Bangkok",
+      "destination": "Koh Samui",
+      "distance": "500 km",
+      "providers": {
+        "flight": true,
+        "bus": true
+      }
+    },
+    {
+      "origin": "Chiang Mai",
+      "destination": "Chiang Rai",
+      "distance": "200 km",
+      "providers": {
+        "flight": true,
+        "bus": true
+      }
+    }
+  ],
+  "major_cities": [
+    {
+      "name": "Bangkok",
+      "description": "The vibrant capital city with rich history, modern attractions, and world-class cuisine",
+      "image": "bangkok.jpg"
+    },
+    {
+      "name": "Chiang Mai",
+      "description": "Cultural heart of Northern Thailand with ancient temples and mountain scenery",
+      "image": "chiang_mai.jpg"
+    },
+    {
+      "name": "Phuket",
+      "description": "Thailand's largest island with stunning beaches and vibrant nightlife",
+      "image": "phuket.jpg"
+    },
+    {
+      "name": "Krabi",
+      "description": "Province known for dramatic limestone cliffs and pristine beaches",
+      "image": "krabi.jpg"
+    },
+    {
+      "name": "Koh Samui",
+      "description": "Tropical paradise island with luxury resorts and coconut groves",
+      "image": "koh_samui.jpg"
+    },
+    {
+      "name": "Pattaya",
+      "description": "Coastal resort city with entertainment and water activities",
+      "image": "pattaya.jpg"
+    }
+  ],
+  "transport_modes": {
+    "flight": {
+      "description": "Extensive domestic network with major airlines",
+      "providers": ["Thai Airways", "Bangkok Airways", "AirAsia", "Nok Air"],
+      "features": ["Multiple daily flights", "Budget and premium options", "Online booking available"]
+    },
+    "train": {
+      "description": "Comfortable rail travel operated by State Railway of Thailand",
+      "providers": ["State Railway of Thailand"],
+      "features": ["High-speed and regional trains", "Scenic routes available", "Advance booking recommended"]
+    },
+    "bus": {
+      "description": "Affordable bus services connecting all major cities",
+      "providers": ["Transport Co. Ltd", "Nakhonchai Air", "Phuket Travel"],
+      "features": ["Regular departures", "VIP and standard classes", "Online ticket booking"]
+    },
+    "ferry": {
+      "description": "Island hopping and coastal connections",
+      "providers": ["Lomprayah", "Seatran Discovery", "Raja Ferry", "Andaman Wave Master"],
+      "features": ["Island destinations", "Scenic sea routes", "Weather dependent"]
+    }
+  },
+  "travel_tips": {
+    "best_time": "November to April (dry season) offers the best weather for travel across Thailand",
+    "transport": "Book transport in advance during peak season (Dec-Mar). Use official websites for best prices",
+    "booking": "Book flights 30-60 days in advance for best prices. Bus tickets available 30 days ahead",
+    "customs": "Respect local customs, dress modestly at temples, and remove shoes when entering homes"
+  },
+  "seo_keywords": [
+    "Thailand travel",
+    "Thailand transport",
+    "Thailand routes",
+    "flights Thailand",
+    "trains Thailand",
+    "buses Thailand",
+    "Thailand travel guide",
+    "Bangkok to Chiang Mai",
+    "Phuket to Krabi",
+    "Thailand island hopping",
+    "Thailand domestic flights",
+    "Thailand bus routes",
+    "Thailand train routes",
+    "Thailand ferry routes"
+  ],
+  "meta_description": "Discover the best travel routes in Thailand. Find flights, trains, buses and ferries between Bangkok, Chiang Mai, Phuket, Krabi and more. Plan your perfect Thailand trip with our comprehensive transport guide.",
+  "page_title": "Travel to Thailand - Best Routes, Destinations & Transport Guide",
+  "social_media": {
+    "facebook_title": "Travel to Thailand - Complete Transport Guide",
+    "facebook_description": "Plan your trip to Thailand with our comprehensive transport guide. Find the best routes between cities.",
+    "twitter_title": "Travel to Thailand - Complete Transport Guide",
+    "twitter_description": "Plan your trip to Thailand with our comprehensive transport guide. Find the best routes between cities."
+  }
+} 

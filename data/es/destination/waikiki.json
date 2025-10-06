@@ -1,0 +1,50 @@
+{
+  "city": "Waikiki",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hoteles en Waikiki",
+  "description": "Descubre los mejores hoteles en Waikiki, United States. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/5ulvvb8gv10tzczeoei",
+  "hotels": [
+    {
+      "vendor_name": "Outrigger Waikiki Beachcomber Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Waikiki",
+      "title": "Hawaii Glamour: Waikiki Escape near Waikiki Beach with Daily Breakfast & Cocktails",
+      "description": "Just steps from one of the world’s most iconic shorelines, OUTRIGGER Waikiki Beachcomber Hotel is Hawaii’s first and only craft hotel - a tropical haven located near Waikiki Beach. Following a US$35 million renovation, the hotel blends contemporary island style with relaxed luxury, offering family-friendly accommodation for up to six guests, with children staying free. Brought to you by the iconic OUTRIGGER Resorts & Hotels, curated by local artists and reflecting Hawaii's unique natural landscapes and rich culture, OUTRIGGER Waikiki Beachcomber Hotel is an iconic destination set right on Kalakaua Avenue - Honolulu's vibrant shopping and entertainment precinct. The wait is over: Cirque du Soleil’s 'Auana is now open at the hotel, bringing breathtaking acrobatics, side-splitting comedy, live music and hula dancers together in a dazzling celebration of Hawai‘i’s spirit - and a 10% discount means you'll be perfectly placed to savour the spectacle. When you’ve had your fill of exploring, be sure to take advantage of the hotel's glorious pool for a refreshing dip. Grab a well-deserved pint at Maui Brewing Co. - an incredible craft brewery and bar, offering locally brewed beers, artisan cocktails and island cuisine - and savour locally grown Kona coffee and acai bowls at Hawaiian Aroma Caffe, Waikiki’s most Instagrammable coffee shop.",
+      "location_subheading": "United States",
+      "price": 1349,
+      "original_price": 2933,
+      "discount_percentage": 54,
+      "link": "https://luxuryescapes.com/offer/006RF00000KCcafYAD",
+      "hero_image": "https://images.luxuryescapes.com/5ulvvb8gv10tzczeoei",
+      "image_two": "https://images.luxuryescapes.com/ldbo4hg0kfgyij02s2u7",
+      "image_three": "https://images.luxuryescapes.com/oevbkbufq4zv842krfd",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2025-08-21 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Waikiki - Estados Unidos Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Waikiki, United States con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "waikiki hotels",
+      "waikiki travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/waikiki",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/waikiki",
+      "es": "https://mondoexplora.com/es/destination/waikiki",
+      "fr": "https://mondoexplora.com/fr/destination/waikiki",
+      "it": "https://mondoexplora.com/it/destination/waikiki"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 1349,
+    "average_discount": 54
+  }
+}

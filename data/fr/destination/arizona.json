@@ -1,0 +1,50 @@
+{
+  "city": "Arizona",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hôtels à Arizona",
+  "description": "Découvrez les meilleurs hôtels à Arizona, United States. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/h0rmsoo7rc4a1upiz00a",
+  "hotels": [
+    {
+      "vendor_name": "Omni Tempe Hotel at ASU",
+      "offer_country_name": "United States",
+      "location_heading": "Arizona",
+      "title": "Vibrant Downtown Tempe Escape with Rooftop Pool & Four Restaurant & Bars",
+      "description": "Experience the vibrant energy of Arizona with a stay at this stylish and beautifully designed hotel, perfectly positioned in the heart of Tempe. Offering easy access to the Arizona State University campus, the eclectic Mill Avenue for shopping and dining, and the Tempe Town Lake for scenic strolls, it couldn't be better located for days spent exploring this revitalised town. Indulge in authentic American cuisine at Neighbourhood Services restaurant, or refresh yourself with a dip in the rooftop pool, complete with private cabanas and poolside loungers. Start each day at Library Rules, where you'll find specialty coffee and pastries, before embarking on a daily adventure - both the breathtaking Papago Park and Desert Botanical Garden are just a short drive away.",
+      "location_subheading": "United States",
+      "price": 113,
+      "original_price": 113,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002HiIOIA0",
+      "hero_image": "https://images.luxuryescapes.com/h0rmsoo7rc4a1upiz00a",
+      "image_two": "https://images.luxuryescapes.com/tttrhep2zuhvk08bdw5da",
+      "image_three": "https://images.luxuryescapes.com/vb1tjrl9ilq9hpzadkf",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Arizona - États-Unis Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Arizona, United States avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "arizona hotels",
+      "arizona travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/arizona",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/arizona",
+      "es": "https://mondoexplora.com/es/destination/arizona",
+      "fr": "https://mondoexplora.com/fr/destination/arizona",
+      "it": "https://mondoexplora.com/it/destination/arizona"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 113,
+    "average_discount": 0
+  }
+}

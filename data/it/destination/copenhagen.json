@@ -1,0 +1,50 @@
+{
+  "city": "Copenhagen",
+  "country": "Denmark",
+  "country_code": "DK",
+  "hero_title": "Hotel a Copenhagen",
+  "description": "Scopri i migliori hotel a Copenhagen, Denmark. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/xtg9pin2lpvnj22wvak",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Copenhagen Towers",
+      "offer_country_name": "Denmark",
+      "location_heading": "Copenhagen",
+      "title": "Copenhagen Sustainable Retreat near Denmark's Largest Shopping Mall",
+      "description": "A pioneer in Danish sustainability without sacrificing style or comfort, Crowne Plaza Copenhagen Towers, an IHG Hotel, is minutes from the city centre and the airport. Savour locally-sourced Nordic cuisine in true American diner fashion at BARK restaurant. Then, splurge on some retail therapy at Field's, Denmark's largest shopping mall, less than a five-minute walk from the hotel, or head out to soak up the picturesque architecture and canals of this modern Scandinavian city.",
+      "location_subheading": "Denmark",
+      "price": 134,
+      "original_price": 134,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJZQAA5",
+      "hero_image": "https://images.luxuryescapes.com/xtg9pin2lpvnj22wvak",
+      "image_two": "https://images.luxuryescapes.com/uiztt9kara2h7engwbzac",
+      "image_three": "https://images.luxuryescapes.com/l66v767r3mkxshjw4t0g",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Copenhagen - Denmark Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Copenhagen, Denmark con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "copenhagen hotels",
+      "copenhagen travel",
+      "denmark hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/copenhagen",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/copenhagen",
+      "es": "https://mondoexplora.com/es/destination/copenhagen",
+      "fr": "https://mondoexplora.com/fr/destination/copenhagen",
+      "it": "https://mondoexplora.com/it/destination/copenhagen"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 134,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Inuyama",
+  "country": "Japan",
+  "country_code": "JP",
+  "hero_title": "Hotels in Inuyama",
+  "description": "Discover the best hotels in Inuyama, Japan. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/rx571hfucf1pan6u5ll",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Indigo Inuyama Urakuen Garden",
+      "offer_country_name": "Japan",
+      "location_heading": "Inuyama",
+      "title": "Japanese Riverside Spa Escape at Urakuen Garden",
+      "description": "Overlooking the serene Kiso river, Hotel Indigo Inuyama Urakuen Garden, an IHG Hotel is a tranquil retreat showcasing the soothing sights of Inuyama. Savour dishes prepared with seasonal produce at the Indigo Home Kitchen Yamateras, soak the stress away at the Onsen Hot Spring bath or invigorate your body and mind at the fitness centre. As the sun sets, partake in a sophisticated tipple at the Bar Yoyama before retiring to a stylish suite or room to appreciate picturesque balcony views.",
+      "location_subheading": "Japan",
+      "price": 126,
+      "original_price": 126,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CugHEAAZ",
+      "hero_image": "https://images.luxuryescapes.com/rx571hfucf1pan6u5ll",
+      "image_two": "https://images.luxuryescapes.com/sgzkwjlnnv2yvga4j4so",
+      "image_three": "https://images.luxuryescapes.com/d9mq8xl17uiz2ysg0pls",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Inuyama - Japan Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Inuyama, Japan with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "inuyama hotels",
+      "inuyama travel",
+      "japan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/inuyama",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/inuyama",
+      "es": "https://mondoexplora.com/es/destination/inuyama",
+      "fr": "https://mondoexplora.com/fr/destination/inuyama",
+      "it": "https://mondoexplora.com/it/destination/inuyama"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 126,
+    "average_discount": 0
+  }
+}

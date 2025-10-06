@@ -1,0 +1,50 @@
+{
+  "city": "Omaha",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Omaha",
+  "description": "Discover the best hotels in Omaha, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/a3kdsjwpbbtej0kc0tu",
+  "hotels": [
+    {
+      "vendor_name": "Kimpton Cottonwood Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Omaha",
+      "title": "Midwest Getaway in Historic Omaha Hotel",
+      "description": "Experience the Midwest at the Kimpton Cottonwood Hotel, an IHG Hotel in Omaha’s historic Blackstone District. A reimagining of the famed Blackstone Hotel - built in 1916 and rumoured to be the birthplace of the Reuben sandwich - this city escape places you in the centre of Omaha’s most lively neighbourhood. Enjoy contemporary dining at The Committee Chophouse, then grab a nightcap at the tastefully decorated Cottonwood Room.",
+      "location_subheading": "United States",
+      "price": 153,
+      "original_price": 153,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EdKFoAAN",
+      "hero_image": "https://images.luxuryescapes.com/a3kdsjwpbbtej0kc0tu",
+      "image_two": "https://images.luxuryescapes.com/mi7wa1r2x06ckvbhjsc",
+      "image_three": "https://images.luxuryescapes.com/rom4w83lzpvix0ortb3l",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Omaha - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Omaha, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "omaha hotels",
+      "omaha travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/omaha",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/omaha",
+      "es": "https://mondoexplora.com/es/destination/omaha",
+      "fr": "https://mondoexplora.com/fr/destination/omaha",
+      "it": "https://mondoexplora.com/it/destination/omaha"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 153,
+    "average_discount": 0
+  }
+}

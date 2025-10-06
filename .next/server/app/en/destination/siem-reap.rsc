@@ -1,0 +1,218 @@
+1:"$Sreact.fragment"
+2:I[7555,[],""]
+3:I[1295,[],""]
+6:I[9665,[],"OutletBoundary"]
+8:I[4911,[],"AsyncMetadataOutlet"]
+a:I[9665,[],"ViewportBoundary"]
+c:I[9665,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[8393,[],""]
+:HL["/_next/static/media/4cf2300e9c8272f7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/8fb98cb587914de9.css","style"]
+0:{"P":null,"b":"xPRLP5eucW-PGQyZGiq0q","p":"","c":["","en","destination","siem-reap",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":["destination",{"children":[["city","siem-reap","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8fb98cb587914de9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_188709 __variable_9a8899 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,"$L4"]}],{"children":["destination",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["city","siem-reap","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+4:["$","div",null,{"data-lang":"en","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+10:I[8175,[],"IconMark"]
+11:I[7587,["244","static/chunks/244-75f77586f1edfee3.js","420","static/chunks/app/%5Blang%5D/destination/%5Bcity%5D/page-30a0d79e28789164.js"],"default"]
+9:{"metadata":[["$","title","0",{"children":"Best Hotels in Siem Reap, Cambodia | 6+ Luxury Accommodations | MondoExplora | MondoExplora"}],["$","meta","1",{"name":"description","content":"Discover the best luxury hotels in Siem Reap, Cambodia. Compare 6+ hotels with exclusive deals, read reviews, and book with confidence. Best rates guaranteed with up to 60% off."}],["$","meta","2",{"name":"author","content":"MondoExplora Team"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"keywords","content":"Siem Reap hotels,luxury hotels Siem Reap,hotels in Siem Reap,Siem Reap Cambodia hotels,best hotels Siem Reap,hotel deals Siem Reap,Siem Reap accommodation,luxury accommodation Siem Reap,Siem Reap hotels"}],["$","meta","5",{"name":"creator","content":"MondoExplora"}],["$","meta","6",{"name":"publisher","content":"MondoExplora"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","9",{"name":"category","content":"travel"}],["$","meta","10",{"name":"classification","content":"Travel and Tourism"}],["$","meta","11",{"name":"geo.region","content":"Cambodia"}],["$","meta","12",{"name":"geo.placename","content":"Siem Reap"}],["$","link","13",{"rel":"canonical","href":"https://mondoexplora.com/en/destination/siem-reap/"}],["$","meta","14",{"name":"google-site-verification","content":"google-site-verification-code"}],["$","meta","15",{"property":"og:title","content":"Best Hotels in Siem Reap, Cambodia | 6+ Luxury Accommodations | MondoExplora"}],["$","meta","16",{"property":"og:description","content":"Discover the best luxury hotels in Siem Reap, Cambodia. Compare 6+ hotels with exclusive deals, read reviews, and book with confidence. Best rates guaranteed with up to 60% off."}],["$","meta","17",{"property":"og:url","content":"https://mondoexplora.com/en/destination/siem-reap/"}],["$","meta","18",{"property":"og:site_name","content":"MondoExplora"}],["$","meta","19",{"property":"og:locale","content":"en_US"}],["$","meta","20",{"property":"og:image","content":"https://images.luxuryescapes.com/1oegjegyjfyagek9tcrq"}],["$","meta","21",{"property":"og:image:width","content":"1200"}],["$","meta","22",{"property":"og:image:height","content":"630"}],["$","meta","23",{"property":"og:image:alt","content":"Best Hotels in Siem Reap, Cambodia"}],["$","meta","24",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","25",{"name":"twitter:title","content":"Best Hotels in Siem Reap, Cambodia | 6+ Luxury Accommodations | MondoExplora"}],["$","meta","26",{"name":"twitter:description","content":"Discover the best luxury hotels in Siem Reap, Cambodia. Compare 6+ hotels with exclusive deals, read reviews, and book with confidence. Best rates guaranteed with up to 60% off."}],["$","meta","27",{"name":"twitter:image","content":"https://images.luxuryescapes.com/1oegjegyjfyagek9tcrq"}],["$","link","28",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","29",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link","30",{"rel":"icon","href":"/favicon.ico","sizes":"32x32"}],["$","link","31",{"rel":"apple-touch-icon","href":"/favicon.svg","sizes":"180x180","type":"image/svg+xml"}],["$","$L10","32",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"
+12:T2a0b,{
+  "@context": "https://schema.org",
+  "@type": "TouristDestination",
+  "name": "Siem Reap",
+  "description": "Discover the best hotels in Siem Reap, Cambodia. Find exclusive deals and luxury accommodations.",
+  "containedInPlace": {
+    "@type": "Country",
+    "name": "Cambodia"
+  },
+  "url": "https://mondoexplora.com/en/destination/siem-reap",
+  "image": "https://images.luxuryescapes.com/1oegjegyjfyagek9tcrq",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Hotels in Siem Reap",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "LodgingBusiness",
+          "description": "Unearth a new level of Cambodian luxury at The Aviary Hotel, a stylish hotel in the heart of Siem Reap. Just a few minutes' stroll from the bars and restaurants of lively Pub Steet, this boutique bolthole combines the latest in luxury with an aesthetic inspired by nature and Cambodia’s rich history of crafts. Take to the streets on two feet to find most of the city’s attractions - the rest, like Angkor Wat, are an affordable remork (tuk-tuk) ride away. When it comes time to nest, The Aviary Hotel has a flock of options. Rotate between the ground-floor and rooftop pools, both with poolside drinks and snacks, or embrace the serenity of Amret Spa with a treatment or two. Pop by The Flock Café for a coffee and light meal, admire the city’s skyline from the rooftop Glide Bar or settle in for a Japanese feast at Fumizen. Browse the boutiques of Aviary Square to find high-end fashion and artisanal goods, or lift and lunge in the state-of-the-art gym. **Luxury Escapes inclusions (select nights only)** - Feast every morning with **daily breakfast** at Plumage Restaurant - Work your way through the drinks offering with a **daily cocktail each** (for stays of 2+ nights) - Sample local and international flavours with a **set two-course lunch or dinner** (for stays of 4+ nights) - Travel stress-free with **one-way airport transfers** (for stays of 6+ nights) **Travelling with family?** Choose the Family Package for two adults and two children (11 and under).",
+          "image": "https://images.luxuryescapes.com/1oegjegyjfyagek9tcrq",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Siem Reap",
+            "addressCountry": "Cambodia"
+          },
+          "priceRange": "$63",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Free WiFi"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Luxury Accommodation"
+            }
+          ]
+        },
+        "price": 63,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mondoexplora.com/en/destination/siem-reap"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "LodgingBusiness",
+          "description": "Discover the magic of Cambodia with a luxurious boutique escape to Shinta Mani Angkor and Bensley Collection Pool Villas, located in the heart of Siem Reap's French Quarter near the famed Angkor Wat temple complex. Designed by acclaimed architect Bill Bensley, this upscale accommodation sits next to the Siem Reap River, within easy reach of the vibrant downtown area, Kandal Village's cafés and galleries and the Royal Residence and Royal Independence Gardens. Onsite, you'll find a luxurious spa with six treatment rooms, along with five restaurants and bars offering a range of delicious fare, including burgers and sandwiches at Baitong, international bites with locally sourced ingredients at Kroya and 30 gins with thoughtful tonic pairings at Bensley's Bar.",
+          "image": "https://images.luxuryescapes.com/jlcah5umq0zg5b99cac",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Siem Reap",
+            "addressCountry": "Cambodia"
+          },
+          "priceRange": "$14",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Free WiFi"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Luxury Accommodation"
+            }
+          ]
+        },
+        "price": 14,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mondoexplora.com/en/destination/siem-reap"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "LodgingBusiness",
+          "description": "Snuggled amid tropical gardens just moments from the legendary temples of Angkor, this tranquil Sofitel hideaway in Siem Reap invites you to embrace the rich spirit of Khmer culture, with a French twist. By day, explore ancient ruins and sacred relics. By night, return to French elegance and warm Cambodian hospitality. Indulge in soothing treatments at the award-winning Sofitel Spa, where traditional rituals meet modern wellness, or take a leisurely dip in the expansive, free-form pool. Gourmands are in for a treat with refined Khmer cuisine and French-inspired gastronomy served across the resort's five restaurants and bars. Plus, golf enthusiasts can tee off at the nearby 18-hole championship golf course.",
+          "image": "https://images.luxuryescapes.com/jigmm32nrth3bm2rqb3i",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Siem Reap",
+            "addressCountry": "Cambodia"
+          },
+          "priceRange": "$176",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Free WiFi"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Luxury Accommodation"
+            }
+          ]
+        },
+        "price": 176,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mondoexplora.com/en/destination/siem-reap"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "LodgingBusiness",
+          "description": "Experience one of the world's most luxurious hotel brands with a stay at Anantara Angkor Resort, a five-star, all-suite sanctuary a stone’s throw from the UNESCO World Heritage-listed Angkor Archaeological Park. Discover tranquility at Anantara Spa, where treatments combine traditional Cambodian techniques with modern wellness knowledge. Sample the finest dining at Chi, the Khmer-inspired restaurant, international favourites at Road6, Bar & Lounge, or casual dining at the poolside Salt.",
+          "image": "https://images.luxuryescapes.com/84yrpn0gis08sef4jydq",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Siem Reap",
+            "addressCountry": "Cambodia"
+          },
+          "priceRange": "$220",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Free WiFi"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Luxury Accommodation"
+            }
+          ]
+        },
+        "price": 220,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mondoexplora.com/en/destination/siem-reap"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "LodgingBusiness",
+          "description": "Discover the timeless beauty of Siem Reap at Memoire Palace Resort & Spa: a stunning resort draped in contemporary art and Cambodian charm, located minutes from the UNESCO World Heritage Site of Angkor Wat. Combining contemporary architecture, traditional art and five-star service has led this stunning resort to be named among Tripadvisor's top 1% worldwide, with a Travellers' Choice Best of the Best 2020 mention among the Top 25 Hotels - Asia. Make the most of Memoire Palace's incredible location, placing you within easy reach of top Siem Reap attractions including Bayon Temple, Angkor Thom and the national museum. Adorned with Cambodian paintings and historical pieces, the resort is set around an impressive pool surrounded by nature. Expect a long list of state-of-the-art facilities including a luxurious spa, temple-inspired restaurant and a stylish pool bar with bean bags and sunbeds.",
+          "image": "https://images.luxuryescapes.com/ffvgcfgnah9lwqwg3vc",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Siem Reap",
+            "addressCountry": "Cambodia"
+          },
+          "priceRange": "$85",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Free WiFi"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Luxury Accommodation"
+            }
+          ]
+        },
+        "price": 85,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mondoexplora.com/en/destination/siem-reap"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "LodgingBusiness",
+          "description": "Discover the unique beauty of Cambodia at the elegant FCC Angkor by Avani, located in Siem Reap's Old French Quarter and surrounded by ancient wonders and nature's marvels. This neocolonial-style hotel boasts The Mansion restaurant, where Khmer and international dishes are crafted with locally sourced ingredients to take your tastebuds on an unforgettable journey. After eating your fill, head to Scribe bar to indulge in imaginative cocktails in a stylish outdoor setting.",
+          "image": "https://images.luxuryescapes.com/1d42m3w0zi75mas24",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Siem Reap",
+            "addressCountry": "Cambodia"
+          },
+          "priceRange": "$108",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Free WiFi"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Luxury Accommodation"
+            }
+          ]
+        },
+        "price": 108,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mondoexplora.com/en/destination/siem-reap"
+      }
+    ]
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": 6,
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}5:["$","main",null,{"className":"min-h-screen","children":[["$","$L11",null,{"pageType":"destination","destination":"Siem Reap","country":"Cambodia","hotelCount":6,"minPrice":14}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$12"}}],"$L13","$L14","$L15"]}]
+16:I[2737,["244","static/chunks/244-75f77586f1edfee3.js","420","static/chunks/app/%5Blang%5D/destination/%5Bcity%5D/page-30a0d79e28789164.js"],"default"]
+18:I[7294,["244","static/chunks/244-75f77586f1edfee3.js","420","static/chunks/app/%5Blang%5D/destination/%5Bcity%5D/page-30a0d79e28789164.js"],"default"]
+13:["$","div",null,{"className":"hero-section","style":{"backgroundImage":"linear-gradient(135deg, rgba(0, 0, 0, 0.6) 0%, rgba(42, 63, 89, 0.8) 100%), url(https://images.luxuryescapes.com/1oegjegyjfyagek9tcrq)"},"children":["$","div",null,{"className":"page-header","children":[["$","div",null,{"className":"logo-overlay","children":[["$","span",null,{"children":"Mondo"}],["$","span",null,{"children":"Explora"}]]}],["$","div",null,{"className":"text-white","children":[["$","h1",null,{"className":"page-header h1","children":"Hotels in Siem Reap"}],["$","p",null,{"className":"page-header p","children":"Discover the best hotels in Siem Reap, Cambodia. Find exclusive deals and luxury accommodations."}],"$undefined"]}]]}]}]
+17:T5c4,Unearth a new level of Cambodian luxury at The Aviary Hotel, a stylish hotel in the heart of Siem Reap. Just a few minutes' stroll from the bars and restaurants of lively Pub Steet, this boutique bolthole combines the latest in luxury with an aesthetic inspired by nature and Cambodia’s rich history of crafts. Take to the streets on two feet to find most of the city’s attractions - the rest, like Angkor Wat, are an affordable remork (tuk-tuk) ride away. When it comes time to nest, The Aviary Hotel has a flock of options. Rotate between the ground-floor and rooftop pools, both with poolside drinks and snacks, or embrace the serenity of Amret Spa with a treatment or two. Pop by The Flock Café for a coffee and light meal, admire the city’s skyline from the rooftop Glide Bar or settle in for a Japanese feast at Fumizen. Browse the boutiques of Aviary Square to find high-end fashion and artisanal goods, or lift and lunge in the state-of-the-art gym. **Luxury Escapes inclusions (select nights only)** - Feast every morning with **daily breakfast** at Plumage Restaurant - Work your way through the drinks offering with a **daily cocktail each** (for stays of 2+ nights) - Sample local and international flavours with a **set two-course lunch or dinner** (for stays of 4+ nights) - Travel stress-free with **one-way airport transfers** (for stays of 6+ nights) **Travelling with family?** Choose the Family Package for two adults and two children (11 and under).14:["$","div",null,{"className":"main-content","children":["$","$L16",null,{"hotels":[{"vendor_name":"The Aviary Hotel","offer_country_name":"Cambodia","location_heading":"Siem Reap","title":"Elegant Siem Reap Escape with Daily Breakfast & Rooftop Pool","description":"$17","location_subheading":"Cambodia","price":63,"original_price":63,"discount_percentage":0,"link":"https://luxuryescapes.com/offer/0062y000004zka3AAA","hero_image":"https://images.luxuryescapes.com/1oegjegyjfyagek9tcrq","image_two":"https://images.luxuryescapes.com/tdcu4luhjlci9zeeh1p","image_three":"https://images.luxuryescapes.com/98ppzd3lbqrgeplpfzou","deal_tier":"Luxury Escapes - Tier 2","min_duration":1,"end_date_utc":"2026-12-31 12:59:00"},{"vendor_name":"Shinta Mani Angkor and Bensley Collection Pool Villas","offer_country_name":"Cambodia","location_heading":"Siem Reap","title":"Boutique Cambodia Escape near Angkor Wat with Five Restaurants & Bars","description":"Discover the magic of Cambodia with a luxurious boutique escape to Shinta Mani Angkor and Bensley Collection Pool Villas, located in the heart of Siem Reap's French Quarter near the famed Angkor Wat temple complex. Designed by acclaimed architect Bill Bensley, this upscale accommodation sits next to the Siem Reap River, within easy reach of the vibrant downtown area, Kandal Village's cafés and galleries and the Royal Residence and Royal Independence Gardens. Onsite, you'll find a luxurious spa with six treatment rooms, along with five restaurants and bars offering a range of delicious fare, including burgers and sandwiches at Baitong, international bites with locally sourced ingredients at Kroya and 30 gins with thoughtful tonic pairings at Bensley's Bar.","location_subheading":"Cambodia","price":14,"original_price":14,"discount_percentage":0,"link":"https://luxuryescapes.com/offer/0062y000009E5AOAA0","hero_image":"https://images.luxuryescapes.com/jlcah5umq0zg5b99cac","image_two":"https://images.luxuryescapes.com/nl9e6kg8fa4hcmm4c59j","image_three":"https://images.luxuryescapes.com/n87q1eytuq2jl91hkgq","deal_tier":"Luxury Escapes - Tier 3","min_duration":1,"end_date_utc":"2026-12-31 12:59:00"},{"vendor_name":"Sofitel Angkor Phokeethra Golf & Spa Resort","offer_country_name":"Cambodia","location_heading":"Siem Reap","title":"Five-Star Siem Reap French-Inspired Luxury near UNESCO-listed Angkor Wat with Five Restaurants, Free-Form Pool & Golf Course","description":"Snuggled amid tropical gardens just moments from the legendary temples of Angkor, this tranquil Sofitel hideaway in Siem Reap invites you to embrace the rich spirit of Khmer culture, with a French twist. By day, explore ancient ruins and sacred relics. By night, return to French elegance and warm Cambodian hospitality. Indulge in soothing treatments at the award-winning Sofitel Spa, where traditional rituals meet modern wellness, or take a leisurely dip in the expansive, free-form pool. Gourmands are in for a treat with refined Khmer cuisine and French-inspired gastronomy served across the resort's five restaurants and bars. Plus, golf enthusiasts can tee off at the nearby 18-hole championship golf course.","location_subheading":"Cambodia","price":176,"original_price":176,"discount_percentage":0,"link":"https://luxuryescapes.com/offer/006RF00000CnP59YAF","hero_image":"https://images.luxuryescapes.com/jigmm32nrth3bm2rqb3i","image_two":"https://images.luxuryescapes.com/w0flcvk09f647yxxz4ph","image_three":"https://images.luxuryescapes.com/9j045kekq87gzrndpavn","deal_tier":"","min_duration":1,"end_date_utc":"2050-12-31 12:59:00"},{"vendor_name":"Anantara Angkor","offer_country_name":"Cambodia","location_heading":"Siem Reap","title":"Siem Reap Five-Star Award-Winning Retreat near UNESCO World Heritage-Listed Angkor Wat","description":"Experience one of the world's most luxurious hotel brands with a stay at Anantara Angkor Resort, a five-star, all-suite sanctuary a stone’s throw from the UNESCO World Heritage-listed Angkor Archaeological Park. Discover tranquility at Anantara Spa, where treatments combine traditional Cambodian techniques with modern wellness knowledge. Sample the finest dining at Chi, the Khmer-inspired restaurant, international favourites at Road6, Bar & Lounge, or casual dining at the poolside Salt.","location_subheading":"Cambodia","price":220,"original_price":220,"discount_percentage":0,"link":"https://luxuryescapes.com/offer/0062y000009BT7sAAG","hero_image":"https://images.luxuryescapes.com/84yrpn0gis08sef4jydq","image_two":"https://images.luxuryescapes.com/xoyja2go5q7xtxivah","image_three":"https://images.luxuryescapes.com/z0wg989mtp4phdcyqhv","deal_tier":"Luxury Escapes - Tier 3","min_duration":1,"end_date_utc":"2050-12-31 12:59:00"},{"vendor_name":"Memoire Palace Resort & Spa","offer_country_name":"Cambodia","location_heading":"Siem Reap","title":"Award-Winning Siem Reap Suite Escape near Angkor Wat","description":"Discover the timeless beauty of Siem Reap at Memoire Palace Resort & Spa: a stunning resort draped in contemporary art and Cambodian charm, located minutes from the UNESCO World Heritage Site of Angkor Wat. Combining contemporary architecture, traditional art and five-star service has led this stunning resort to be named among Tripadvisor's top 1% worldwide, with a Travellers' Choice Best of the Best 2020 mention among the Top 25 Hotels - Asia. Make the most of Memoire Palace's incredible location, placing you within easy reach of top Siem Reap attractions including Bayon Temple, Angkor Thom and the national museum. Adorned with Cambodian paintings and historical pieces, the resort is set around an impressive pool surrounded by nature. Expect a long list of state-of-the-art facilities including a luxurious spa, temple-inspired restaurant and a stylish pool bar with bean bags and sunbeds.","location_subheading":"Cambodia","price":85,"original_price":85,"discount_percentage":0,"link":"https://luxuryescapes.com/offer/0062y000003Hv1nAAC","hero_image":"https://images.luxuryescapes.com/ffvgcfgnah9lwqwg3vc","image_two":"https://images.luxuryescapes.com/zmxlotrfmbm4h6ujfqa9","image_three":"https://images.luxuryescapes.com/og4v78e8cc45543w2k6h","deal_tier":"Luxury Escapes - Tier 3","min_duration":1,"end_date_utc":"2026-12-31 12:59:00"},{"vendor_name":"FCC Angkor by Avani","offer_country_name":"Cambodia","location_heading":"Siem Reap","title":"French Colonial Charm in the Heart of Siem Reap with Outstanding Khmer Restaurant","description":"Discover the unique beauty of Cambodia at the elegant FCC Angkor by Avani, located in Siem Reap's Old French Quarter and surrounded by ancient wonders and nature's marvels. This neocolonial-style hotel boasts The Mansion restaurant, where Khmer and international dishes are crafted with locally sourced ingredients to take your tastebuds on an unforgettable journey. After eating your fill, head to Scribe bar to indulge in imaginative cocktails in a stylish outdoor setting.","location_subheading":"Cambodia","price":108,"original_price":108,"discount_percentage":0,"link":"https://luxuryescapes.com/offer/0062y000009BT87AAG","hero_image":"https://images.luxuryescapes.com/1d42m3w0zi75mas24","image_two":"https://images.luxuryescapes.com/u27n0hsnljda7braf3io","image_three":"https://images.luxuryescapes.com/haegbk8ljplm5a8i348","deal_tier":"Luxury Escapes - Tier 3","min_duration":1,"end_date_utc":"2026-12-31 01:59:00"}],"lang":"en"}]}]
+15:["$","footer",null,{"children":["$","div",null,{"className":"max-w-7xl mx-auto px-4","children":[["$","div",null,{"className":"flex flex-col md:flex-row justify-between items-center gap-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-lg font-light","children":"Mondo"}],["$","span",null,{"className":"text-lg font-bold bg-white/30 text-blue-900 px-2 py-1 rounded","children":"Explora"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-sm text-gray-300","children":"Idioma / Language:"}],["$","$L18",null,{"currentLang":"en"}]]}]]}],["$","div",null,{"className":"mt-6 pt-6 border-t border-gray-700 text-center text-sm text-gray-400","children":[["$","p",null,{"children":"© 2024 MondoExplora. Todos los derechos reservados. | All rights reserved."}],["$","p",null,{"className":"mt-1","children":"Encuentra las mejores ofertas de hoteles y viajes | Find the best hotel and travel deals"}]]}]]}]}]

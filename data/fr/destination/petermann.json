@@ -1,0 +1,50 @@
+{
+  "city": "Petermann",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hôtels à Petermann",
+  "description": "Découvrez les meilleurs hôtels à Petermann, Australia. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/rwxwacuivfnl98psxg1w",
+  "hotels": [
+    {
+      "vendor_name": "Kings Creek Station",
+      "offer_country_name": "Australia",
+      "location_heading": "Petermann",
+      "title": "Unmissable Outback Luxury Glamping Retreat near Kings Canyon",
+      "description": "Experience the majesty of Northern Territory's rugged outback with an opulent glamping stay at Kings Creek Station, nestled at the foot of stunning Watarrka (Kings Canyon). Traverse the Mars-like landscape of the hugely significant Watarrka National Park, take a day trip to awe-inspiring Uluru or relax in the comforts of your unique accommodation, which combines the iconic Australian camping experience with luxurious creature comforts. Soak up the breathtaking beauty of the awe-inspiring terrain as you enjoy the incredible onsite facilities of this cattle station, including a refreshing swimming pool with unparalleled views.",
+      "location_subheading": "Australia",
+      "price": 303,
+      "original_price": 303,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQXysAAH",
+      "hero_image": "https://images.luxuryescapes.com/rwxwacuivfnl98psxg1w",
+      "image_two": "https://images.luxuryescapes.com/27t1a6uslkceaiyvf7la",
+      "image_three": "https://images.luxuryescapes.com/tv8u64y3ulyz1y123v5or",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Petermann - Australie Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Petermann, Australia avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "petermann hotels",
+      "petermann travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/petermann",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/petermann",
+      "es": "https://mondoexplora.com/es/destination/petermann",
+      "fr": "https://mondoexplora.com/fr/destination/petermann",
+      "it": "https://mondoexplora.com/it/destination/petermann"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 303,
+    "average_discount": 0
+  }
+}

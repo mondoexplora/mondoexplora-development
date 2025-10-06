@@ -1,0 +1,70 @@
+{
+  "name": "Cambodia",
+  "code": "KH",
+  "hero_title": "Cambodia Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Cambodia.",
+  "hero_image": "https://images.luxuryescapes.com/1oegjegyjfyagek9tcrq",
+  "popular_destinations": [
+    {
+      "name": "Siem Reap",
+      "slug": "siem-reap",
+      "image": "https://images.luxuryescapes.com/1oegjegyjfyagek9tcrq",
+      "description": "Explore Siem Reap with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 111
+    },
+    {
+      "name": "Phnom Penh",
+      "slug": "phnom-penh",
+      "image": "https://images.luxuryescapes.com/89ex9djaacttlsbknqdb",
+      "description": "Explore Phnom Penh with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 102
+    },
+    {
+      "name": "Koh Rong Archipelago",
+      "slug": "koh-rong-archipelago",
+      "image": "https://images.luxuryescapes.com/c4ii6mzayenpepqviu5",
+      "description": "Explore Koh Rong Archipelago with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1033
+    },
+    {
+      "name": "Preah Sihanouk Province",
+      "slug": "preah-sihanouk-province",
+      "image": "https://images.luxuryescapes.com/ahjaxlix7paj93uljazb",
+      "description": "Explore Preah Sihanouk Province with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 521
+    },
+    {
+      "name": "Sihanoukville",
+      "slug": "sihanoukville",
+      "image": "https://images.luxuryescapes.com/0eliln9cpd1i4h1wzjqo",
+      "description": "Explore Sihanoukville with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 107
+    }
+  ],
+  "seo": {
+    "title": "Cambodia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Cambodia with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "cambodia hotels",
+      "cambodia travel",
+      "cambodia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/kh",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/kh",
+      "es": "https://mondoexplora.com/es/country/kh",
+      "fr": "https://mondoexplora.com/fr/country/kh",
+      "it": "https://mondoexplora.com/it/country/kh"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Poland",
+  "code": "PL",
+  "hero_title": "Poland Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Poland.",
+  "hero_image": "https://images.luxuryescapes.com/2iwdu7rhrk2ckcgrcqmr",
+  "popular_destinations": [
+    {
+      "name": "Krakow",
+      "slug": "krakow",
+      "image": "https://images.luxuryescapes.com/2iwdu7rhrk2ckcgrcqmr",
+      "description": "Explore Krakow with luxury accommodations"
+    },
+    {
+      "name": "Kraków",
+      "slug": "kraków",
+      "image": "https://images.luxuryescapes.com/wrah7xlqdognui7xau4",
+      "description": "Explore Kraków with luxury accommodations"
+    },
+    {
+      "name": "Warsaw",
+      "slug": "warsaw",
+      "image": "https://images.luxuryescapes.com/cr2qqcy277jrkb42g3ma",
+      "description": "Explore Warsaw with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Poland Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Poland con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "poland hotels",
+      "poland travel",
+      "poland luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/pl",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/pl",
+      "es": "https://mondoexplora.com/es/country/pl",
+      "fr": "https://mondoexplora.com/fr/country/pl",
+      "it": "https://mondoexplora.com/it/country/pl"
+    }
+  }
+}

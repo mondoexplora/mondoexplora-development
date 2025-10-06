@@ -1,0 +1,68 @@
+{
+  "city": "Alentejo",
+  "country": "Portugal",
+  "country_code": "PT",
+  "hero_title": "Hôtels à Alentejo",
+  "description": "Découvrez les meilleurs hôtels à Alentejo, Portugal. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/6bbjg526ghig1vh7009s",
+  "hotels": [
+    {
+      "vendor_name": "Quinta do Paral",
+      "offer_country_name": "Portugal",
+      "location_heading": "Alentejo",
+      "title": "Boutique Vineyard Retreat in Portugal's Wine Region with Two Restaurants & Rooftop Bar",
+      "description": "Escape to where the rolling hills are draped in vineyards, the sun kisses terracotta paths and gourmet delights await your every turn. Nestled in Portugal's sprawling wine region of Alentejo, Quinta do Paral doubles as a 56-hectare vineyard and boutique luxury hotel. With its whitewashed façade, intricate details and a vineyard-view infinity pool, the hotel is a dreamscape of the Portuguese countryside. Sip local wine as the sun sets over The Grape Rooftop, feast on local delicacies at The Wine Restaurant and sample Quinta do Paral’s extra virgin olive oil at The Estate Lounge.",
+      "location_subheading": "Portugal",
+      "price": 270,
+      "original_price": 270,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000DXLuFYAX",
+      "hero_image": "https://images.luxuryescapes.com/6bbjg526ghig1vh7009s",
+      "image_two": "https://images.luxuryescapes.com/dio73fifnabs15nzfcxr",
+      "image_three": "https://images.luxuryescapes.com/6gk2uguyhfy2hfaawq3r",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "AlmaLusa Comporta",
+      "offer_country_name": "Portugal",
+      "location_heading": "Alentejo",
+      "title": "Luxurious Portugal Coastal Stay with Day Spa, Rooftop Bar & Pool Terrace",
+      "description": "Experience the epitome of Portuguese luxury at AlmaLusa Comporta, a chic hideaway nestled in the heart of Comporta's idyllic countryside. This enchanting retreat offers a seamless blend of traditional charm and modern sophistication, inviting you to unwind in its stylish rooms, dine at the laid-back AlmaLusa Café and explore the nearby artisanal boutiques. Venture out to discover the beaches of the Troia Peninsula, before returning to take a dip in the sparkling pool.",
+      "location_subheading": "Portugal",
+      "price": 141,
+      "original_price": 141,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000FdRYHAA3",
+      "hero_image": "https://images.luxuryescapes.com/9p6lek7m1jtlzyr6z78",
+      "image_two": "https://images.luxuryescapes.com/ic8ytg0r5ogrrsoranjx",
+      "image_three": "https://images.luxuryescapes.com/i28iy3p4r9juv895m95f",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Alentejo - Portugal Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Alentejo, Portugal avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "alentejo hotels",
+      "alentejo travel",
+      "portugal hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/alentejo",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/alentejo",
+      "es": "https://mondoexplora.com/es/destination/alentejo",
+      "fr": "https://mondoexplora.com/fr/destination/alentejo",
+      "it": "https://mondoexplora.com/it/destination/alentejo"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 206,
+    "average_discount": 0
+  }
+}

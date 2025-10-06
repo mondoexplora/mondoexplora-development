@@ -1,0 +1,50 @@
+{
+  "city": "Winchester",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hoteles en Winchester",
+  "description": "Descubre los mejores hoteles en Winchester, United Kingdom. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/kff8jtb4pw0n72f4ettt",
+  "hotels": [
+    {
+      "vendor_name": "Norton Park Hotel & Spa",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Winchester",
+      "title": "Historic Countryside Manor Retreat near Winchester",
+      "description": "Experience old-world glamour and modern comfort with a relaxing stay at Norton Park Hotel & Spa, a lovingly restored manor house awash with historic charm. Set across 54 acres of glorious Hampshire countryside, with the historic city of Winchester close by, this serene hotel invites you to embrace the countryside lifestyle - with the UK's south coast, London and historic Bath all within driving distance. Here you’ll find a collection of tastefully renovated, boutique-inspired rooms, spread across the original 16th-century manor house and a contemporary wing. Each one boasts antique décor and historic allure, including feature wallpapers, statement beds, and dark wood headboards - as well as modern luxuries. A host of amenities awaits to wow you, including the tranquil spa and health club, heated pool, gym and a large restaurant.",
+      "location_subheading": "United Kingdom",
+      "price": 92,
+      "original_price": 92,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000007lrcBAAQ",
+      "hero_image": "https://images.luxuryescapes.com/kff8jtb4pw0n72f4ettt",
+      "image_two": "https://images.luxuryescapes.com/1dotxy6jkf84nhs8w25k",
+      "image_three": "https://images.luxuryescapes.com/pyon5ypb47j8wla0koqu",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Winchester - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Winchester, United Kingdom con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "winchester hotels",
+      "winchester travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/winchester",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/winchester",
+      "es": "https://mondoexplora.com/es/destination/winchester",
+      "fr": "https://mondoexplora.com/fr/destination/winchester",
+      "it": "https://mondoexplora.com/it/destination/winchester"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 92,
+    "average_discount": 0
+  }
+}

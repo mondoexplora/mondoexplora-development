@@ -1,0 +1,50 @@
+{
+  "city": "Alberta",
+  "country": "Canada",
+  "country_code": "CA",
+  "hero_title": "Hotels in Alberta",
+  "description": "Discover the best hotels in Alberta, Canada. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/cufe3bdfv23fr6f673u",
+  "hotels": [
+    {
+      "vendor_name": "The Rimrock Resort Hotel",
+      "offer_country_name": "Canada",
+      "location_heading": "Alberta",
+      "title": "Alpine Retreat in Banff National Park with Five Restaurants & Bars & Shuttle Service",
+      "description": "Tucked in Banff’s peaceful wilderness, experience the grandeur of the Canadian Rockies with a luxury stay at The Rimrock Resort Hotel Banff. Perched on the side of Sulphur Mountain, this stunning property offers unparalleled views of the snow-capped peaks and verdant valleys. The resort's elegant rooms and suites are tastefully furnished, providing a cosy retreat after a day of mountain adventures. Venture beyond the resort to explore the world-renowned Banff National Park, or take a short drive to the charming town of Banff, brimming with boutique shops, art galleries and quaint cafes. At the resort, savour award-winning fine dining at Eden Restaurant, renowned for international cuisine influenced by local ingredients.",
+      "location_subheading": "Canada",
+      "price": 587,
+      "original_price": 587,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnPBHYA3",
+      "hero_image": "https://images.luxuryescapes.com/cufe3bdfv23fr6f673u",
+      "image_two": "https://images.luxuryescapes.com/fc8crjk5tsvc0n7qdgd",
+      "image_three": "https://images.luxuryescapes.com/kw3fbnymk4ph2j69gz4",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Alberta - Canada Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Alberta, Canada with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "alberta hotels",
+      "alberta travel",
+      "canada hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/alberta",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/alberta",
+      "es": "https://mondoexplora.com/es/destination/alberta",
+      "fr": "https://mondoexplora.com/fr/destination/alberta",
+      "it": "https://mondoexplora.com/it/destination/alberta"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 587,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Ballarat",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hoteles en Ballarat",
+  "description": "Descubre los mejores hoteles en Ballarat, Australia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/u4baqx75scbegx71sepn",
+  "hotels": [
+    {
+      "vendor_name": "Club Wyndham Ballarat",
+      "offer_country_name": "Australia",
+      "location_heading": "Ballarat",
+      "title": "Heritage Ballarat Apartments near City Centre with Lake Activities, Heated Pool & Spa",
+      "description": "Strike gold with a retreat at Club Wyndham Ballarat, a heritage-listed mansion in the heart of Victoria's famous goldfields. Set within 55-acre grounds encompassing manicured gardens and a lake, this magnificent property is adorned with Victorian-era furnishings blending historic beauty and modern luxuries. Explore the area's vibrant dining scene and popular sites (including Sovereign Hill!) on one of the hotel's e-bikes and enjoy a friendly hit of tennis, finishing with a dip in the heated pool.",
+      "location_subheading": "Australia",
+      "price": 170,
+      "original_price": 170,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EeM7LAAV",
+      "hero_image": "https://images.luxuryescapes.com/u4baqx75scbegx71sepn",
+      "image_two": "https://images.luxuryescapes.com/l148kf5p4ooqnicvr1d",
+      "image_three": "https://images.luxuryescapes.com/yuph2ilcoo8tllf3b5vn",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Ballarat - Australia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Ballarat, Australia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "ballarat hotels",
+      "ballarat travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/ballarat",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/ballarat",
+      "es": "https://mondoexplora.com/es/destination/ballarat",
+      "fr": "https://mondoexplora.com/fr/destination/ballarat",
+      "it": "https://mondoexplora.com/it/destination/ballarat"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 170,
+    "average_discount": 0
+  }
+}

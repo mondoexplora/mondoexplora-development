@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title id="dynamic-title">Travel Landing Page | Compare Travel Modes & Book Hotels</title>
+  <meta name="description" id="dynamic-description" content="Plan your travel routes and book top hotel deals with ExploraMondo. Discover routes, compare travel modes, and explore luxury hotel promotions near top destinations.">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #f8f9fa;
+    }
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem 2rem;
+      background-color: #2a3f59;
+      color: #f7f5ef;
+    }
+    header .logo {
+      font-size: 1.5rem;
+      color: #f7f5ef;
+    }
+    header .logo span:first-child {
+      font-weight: 100;
+    }
+    header .logo span:last-child {
+      font-weight: 700;
+      background: #f7f5ef;
+      color: #2a3f59;
+      padding: 0 .25rem;
+      border-radius: 0;
+    }
+    header nav {
+      display: flex;
+    }
+    header nav a {
+      margin: 0 1rem;
+      text-decoration: none;
+      color: #f7f5ef;
+      font-weight: 600;
+    }
+    header nav a:hover {
+      text-decoration: underline;
+    }
+    .hero {
+      background: url('https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=1748&&auto=format&fit=crop&w=1600&q=80') no-repeat center center/cover;
+      height: 400px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+    .search-box {
+      background-color: rgba(255,255,255,0.95);
+      padding: 2rem;
+      border-radius: 8px;
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      max-width: 800px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+      z-index: 2;
+    }
+    .search-box input {
+      padding: 1rem;
+      font-size: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      flex: 1;
+      min-width: 200px;
+    }
+    .search-box button {
+      padding: 1rem 2rem;
+      background-color: #ff5a5f;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    .affiliate-inline {
+      color: white;
+      font-size: 0.8rem;
+      font-weight: 600;
+      margin-top: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      justify-content: flex-end;
+      width: 800px;
+      max-width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .affiliate-inline input[type="checkbox"] {
+      width: 16px;
+      height: 16px;
+      margin: 0;
+    }
+    .main-content {
+      padding: 2rem;
+    }
+    .hotel-card-container {
+      display: flex;
+      gap: 1.5rem;
+      flex-wrap: nowrap;
+      justify-content: space-between;
+      padding: 0 2rem 2rem 2rem;
+    }
+    .hotel-card {
+      background: white;
+      border-radius: 6px;
+      overflow: hidden;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+      flex: 0 0 24%;
+      display: flex;
+      flex-direction: column;
+    }
+    .hotel-card img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+    }
+    .hotel-card-content {
+      padding: 1rem;
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .hotel-card h4, .hotel-card p, .hotel-card a {
+      color: #000;
+      text-decoration: none;
+    }
+    .hotel-card h4 {
+      margin: 0.5rem 0;
+      font-size: 1.1rem;
+    }
+    .hotel-card p {
+      margin: 0.5rem 0 1rem;
+      font-size: 0.9rem;
+    }
+    .hotel-price {
+      font-size: 1rem;
+      font-weight: bold;
+      color: #28a745;
+    }
+    .hotel-price del {
+      color: #999;
+      margin-right: 0.5rem;
+    }
+    footer {
+      background-color: #2a3f59;
+      color: #f7f5ef;
+      padding: 3rem 2rem;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+    footer nav.footer-column {
+      flex: 1 1 200px;
+      padding: 0 1rem;
+    }
+    footer h4 {
+      margin-bottom: 1rem;
+      font-size: 1.1rem;
+    }
+    footer ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    footer ul li a {
+      color: #f7f5ef;
+      text-decoration: none;
+      display: block;
+      padding: 0.25rem 0;
+    }
+    footer ul li a:hover {
+      text-decoration: underline;
+    }
+    footer p {
+      width: 100%;
+      text-align: center;
+      margin-top: 2rem;
+    }
+
+    /* Mobile Responsive Styles */
+    @media (max-width: 768px) {
+      header {
+        padding: 0.5rem 1rem;
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+      
+      header nav {
+        gap: 0.5rem;
+      }
+      
+      header nav a {
+        font-size: 0.9rem;
+        margin: 0 0.5rem;
+      }
+      
+      .hero {
+        height: auto;
+        min-height: 300px;
+        padding: 2rem 1rem;
+      }
+      
+      .search-box {
+        flex-direction: column;
+        gap: 1rem;
+        padding: 1.5rem;
+        width: 90%;
+        max-width: 400px;
+      }
+      
+      .search-box input {
+        min-width: auto;
+        width: 100%;
+      }
+      
+      .search-box button {
+        width: 100%;
+        margin-top: 0.5rem;
+      }
+      
+      .affiliate-inline {
+        width: 90%;
+        max-width: 400px;
+        justify-content: center;
+        margin-top: 1rem;
+      }
+      
+      .main-content {
+        padding: 1rem;
+      }
+      
+      .hotel-card-container {
+        flex-direction: column;
+        gap: 1rem;
+        padding: 0 0 1rem 0;
+      }
+      
+      .hotel-card {
+        flex: none;
+        width: 100%;
+        height: auto;
+        min-height: 350px;
+      }
+      
+      .hotel-card-content {
+        height: auto;
+        min-height: 150px;
+      }
+      
+      .hotel-price {
+        position: static;
+        margin-top: 1rem;
+        text-align: right;
+      }
+      
+      footer {
+        padding: 2rem 1rem;
+        text-align: center;
+      }
+      
+      footer nav.footer-column {
+        flex: 1 1 100%;
+        margin-bottom: 1.5rem;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .search-box {
+        padding: 1rem;
+      }
+      
+      .hotel-card h4 {
+        font-size: 1rem;
+      }
+      
+      .hotel-card p {
+        font-size: 0.8rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo"><span>EXPLORA</span><span>MONDO</span></div>
+    <nav>
+      <a href="#">Routes</a>
+      <a href="#">Hotels</a>
+      <a href="#">Blog</a>
+      <a href="#">Packages</a>
+    </nav>
+  </header>
+  <section class="hero">
+    <div class="search-box">
+      <input type="text" placeholder="Origin">
+      <input type="text" placeholder="Destination">
+      <button id="compareBtn">Compare Travel Modes</button>
+    </div>
+    <div class="affiliate-inline">
+      <input type="checkbox" id="affiliateToggle" checked>
+      <label for="affiliateToggle">Search hotel deals on LuxuryEscapes.com</label>
+    </div>
+  </section>
+  <section class="main-content" role="main">
+    <h2 id="deal-title">Best Hotel Deals</h2>
+    <p id="deal-subtitle"></p>
+    <div class="hotel-card-container" id="hotel-container"></div>
+  </section>
+  <footer>
+    <nav class="footer-column">
+      <h4>About ExploraMondo</h4>
+      <ul>
+        <li><a href="#">Our Story</a></li>
+        <li><a href="#">Terms & Conditions</a></li>
+        <li><a href="#">Privacy Policy</a></li>
+      </ul>
+    </nav>
+    <nav class="footer-column">
+      <h4>Destinations</h4>
+      <ul>
+        <li><a href="#">Bangkok</a></li>
+        <li><a href="#">Phuket</a></li>
+        <li><a href="#">Bali</a></li>
+        <li><a href="#">Tokyo</a></li>
+      </ul>
+    </nav>
+    <nav class="footer-column">
+      <h4>Get Help</h4>
+      <ul>
+        <li><a href="#">Support</a></li>
+        <li><a href="#">FAQs</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+    <p>&copy; 2025 ExploraMondo. All rights reserved.</p>
+  </footer>
+  <script>
+    // Function to format destination name (replace underscores with spaces and maintain capitalization)
+    function formatDestinationName(dest) {
+      return dest.replace(/_/g, ' ');
+    }
+
+    const pathParts = window.location.pathname.split('/').filter(Boolean);
+    const origin = decodeURIComponent(pathParts[pathParts.length - 2] || '');
+    const destination = decodeURIComponent(pathParts[pathParts.length - 1] || '');
+    
+    // Format the destination name for display
+    const formattedDestination = formatDestinationName(destination);
+    
+    const jsonUrl = `https://franciscojaviernunez.github.io/pruebatravel/data/hotels_${destination.toLowerCase()}.json`;
+
+    const inputs = document.querySelectorAll('.search-box input');
+    if (inputs.length >= 2) {
+      inputs[0].value = origin;
+      inputs[1].value = formattedDestination;
+    }
+
+    document.title = `${origin} to ${formattedDestination} | Compare Travel Modes & Hotel deals`;
+    document.querySelector('meta[name="description"]').setAttribute(
+      'content',
+      `Compare travel modes from ${origin} to ${formattedDestination} in ExploraMondo. Discover routes, compare travel modes, and explore luxury hotel promotions in ${formattedDestination}`
+    );
+    document.getElementById('deal-title').textContent = `Best Hotel Deals in ${formattedDestination}`;
+    document.getElementById('deal-subtitle').textContent = `Explore top-rated luxury hotel deals and discounts near ${formattedDestination}. Stay in comfort, close to key locations including beaches, hospitals, and city centers.`;
+
+    fetch(jsonUrl)
+      .then(response => {
+        if (!response.ok) throw new Error("Hotel data not found");
+        return response.json();
+      })
+      .then(hotels => {
+        const container = document.getElementById('hotel-container');
+        container.innerHTML = '';
+        hotels.slice(0, 4).forEach(hotel => {
+          const card = document.createElement('div');
+          card.className = 'hotel-card';
+          card.innerHTML = `
+            <a href="${hotel.link}" target="_blank">
+              <img src="${hotel.hero_image}" alt="${hotel.vendor_name}" />
+              <div class="hotel-card-content">
+                <h4>${hotel.vendor_name}</h4>
+                <p>${hotel.title}</p>
+                <div class="hotel-price"><del>${hotel.value}</del> ${hotel.price}</div>
+              </div>
+            </a>`;
+          container.appendChild(card);
+        });
+      })
+      .catch(error => {
+        console.warn("Hotel fetch error:", error);
+      });
+
+    document.getElementById('compareBtn').addEventListener('click', function () {
+      const openAffiliate = document.getElementById('affiliateToggle').checked;
+      const rome2rioUrl = `https://www.rome2rio.com/s/${origin}/${destination}`;
+      const luxuryUrl = `https://luxuryescapes.com/us/hotels`;
+
+      if (openAffiliate) {
+        window.location.href = luxuryUrl;
+        setTimeout(() => {
+          window.open(rome2rioUrl, '_blank');
+        }, 100);
+      } else {
+        window.open(rome2rioUrl, '_blank');
+      }
+    });
+  </script>
+</body>
+</html>

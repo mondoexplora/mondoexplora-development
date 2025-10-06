@@ -1,0 +1,50 @@
+{
+  "city": "Qingdao",
+  "country": "China",
+  "country_code": "CN",
+  "hero_title": "Hoteles en Qingdao",
+  "description": "Descubre los mejores hoteles en Qingdao, China. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/88g98j1wir588ovb581yi",
+  "hotels": [
+    {
+      "vendor_name": "Hyatt Regency Qingdao",
+      "offer_country_name": "China",
+      "location_heading": "Qingdao",
+      "title": "Lavish Five-Star Qingdao Urban Resort with Beach Access & Five Restaurants & Bars",
+      "description": "Experience five-star luxury at this Hyatt Regency property, situated in the heart of Qingdao's vibrant Laoshan District. This seaside sanctuary offers guests a unique blend of urban sophistication and coastal charm, sitting in between Shilaoren Beach and the city's commercial centre. Indulge in an array of culinary delights at the hotel's gourmet restaurants, serving everything from traditional Shandong cuisine to international dishes. Explore the nearby Laoshan Mountain, known for its stunning natural beauty and historic Taoist temples. After a day of sightseeing, retreat to the hotel's tranquil spa for a rejuvenating treatment or enjoy a seasonally inspired afternoon tea at Bay Lounge, complete with panoramic views over Shilaoren Beach and the Yellow Sea.",
+      "location_subheading": "China",
+      "price": 100,
+      "original_price": 100,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000HicEsYAJ",
+      "hero_image": "https://images.luxuryescapes.com/88g98j1wir588ovb581yi",
+      "image_two": "https://images.luxuryescapes.com/au7xt2d7o85cvx9yr0h",
+      "image_three": "https://images.luxuryescapes.com/jqno66720k1vftmk30gq",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Qingdao - China Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Qingdao, China con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "qingdao hotels",
+      "qingdao travel",
+      "china hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/qingdao",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/qingdao",
+      "es": "https://mondoexplora.com/es/destination/qingdao",
+      "fr": "https://mondoexplora.com/fr/destination/qingdao",
+      "it": "https://mondoexplora.com/it/destination/qingdao"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 100,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Hiroshima",
+  "country": "Japan",
+  "country_code": "JP",
+  "hero_title": "Hoteles en Hiroshima",
+  "description": "Descubre los mejores hoteles en Hiroshima, Japan. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/ab27g1qa8dlde8mpna7m",
+  "hotels": [
+    {
+      "vendor_name": "ANA Crowne Plaza Hiroshima",
+      "offer_country_name": "Japan",
+      "location_heading": "Hiroshima",
+      "title": "Hiroshima Lavish Urban Escape within the Commercial District",
+      "description": "The ANA Crowne Plaza Hiroshima, an IHG Hotel is a serene urban escape in the heart of this beautiful city's commercial district. Experience Hiroshima's turbulent heritage at the Hiroshima Peace Memorial Park, shop in stylish boutiques or devour Hiroshima-style okonomiyaki from street vendors. As the sun sets, retire to the hotel for a lavish dining experience at one of the many onsite dining options before a soothing slumber in a refined guest room.",
+      "location_subheading": "Japan",
+      "price": 65,
+      "original_price": 65,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CPuelAAD",
+      "hero_image": "https://images.luxuryescapes.com/ab27g1qa8dlde8mpna7m",
+      "image_two": "https://images.luxuryescapes.com/wtcb0nj5utp1z33epdo",
+      "image_three": "https://images.luxuryescapes.com/5izopnacskmakab4a02s",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Hiroshima - Japan Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Hiroshima, Japan con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "hiroshima hotels",
+      "hiroshima travel",
+      "japan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/hiroshima",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/hiroshima",
+      "es": "https://mondoexplora.com/es/destination/hiroshima",
+      "fr": "https://mondoexplora.com/fr/destination/hiroshima",
+      "it": "https://mondoexplora.com/it/destination/hiroshima"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 65,
+    "average_discount": 0
+  }
+}

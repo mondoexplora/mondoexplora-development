@@ -1,0 +1,50 @@
+{
+  "city": "Rioja",
+  "country": "Spain",
+  "country_code": "ES",
+  "hero_title": "Hoteles en Rioja",
+  "description": "Descubre los mejores hoteles en Rioja, Spain. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/1jbbary7c7smmeixar41j",
+  "hotels": [
+    {
+      "vendor_name": "Palacio de Samaniego",
+      "offer_country_name": "Spain",
+      "location_heading": "Rioja",
+      "title": "Luxe Spain Escape in the Heart of Rioja Wine Country",
+      "description": "Discover a luxurious home-away-from-home in the heart of Spain's wine country at Palacio de Samaniego. Perched among the vines of Spain’s oldest wine region, Rioja Alavesa, this heritage hotel is a postcard-perfect base for food, wine and cultural adventures, explored by foot, horseback, kayak or car. Conviviality and comfort take centre stage in this intimate oasis, with design elements that mirror the familiarity of a family home. Relax in the sophisticated communal sitting areas, or beat the Spanish heat with a dip in the outdoor pool. Sip a cocktail on one of two garden terraces before enjoying lunch or dinner at Tierra y Vino bistro, where locally sourced ingredients are transformed into Spanish and Basque specialities with classic French techniques.",
+      "location_subheading": "Spain",
+      "price": 242,
+      "original_price": 242,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000004hPiuAAE",
+      "hero_image": "https://images.luxuryescapes.com/1jbbary7c7smmeixar41j",
+      "image_two": "https://images.luxuryescapes.com/pecyq1wpzod8s885c3w",
+      "image_three": "https://images.luxuryescapes.com/nv59sl3zvfl72esdqor",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Rioja - Spain Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Rioja, Spain con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "rioja hotels",
+      "rioja travel",
+      "spain hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/rioja",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/rioja",
+      "es": "https://mondoexplora.com/es/destination/rioja",
+      "fr": "https://mondoexplora.com/fr/destination/rioja",
+      "it": "https://mondoexplora.com/it/destination/rioja"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 242,
+    "average_discount": 0
+  }
+}

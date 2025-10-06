@@ -1,0 +1,52 @@
+{
+  "name": "South Africa",
+  "code": "ZA",
+  "hero_title": "South Africa Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in South Africa.",
+  "hero_image": "https://images.luxuryescapes.com/wqlnvgdridgnyx3ka6bh",
+  "popular_destinations": [
+    {
+      "name": "Cape Town",
+      "slug": "cape-town",
+      "image": "https://images.luxuryescapes.com/wqlnvgdridgnyx3ka6bh",
+      "description": "Explore Cape Town with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 836
+    },
+    {
+      "name": "Johannesburg",
+      "slug": "johannesburg",
+      "image": "https://images.luxuryescapes.com/652gyr1fmict9yfmbbdp",
+      "description": "Explore Johannesburg with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 150
+    },
+    {
+      "name": "Franschhoek",
+      "slug": "franschhoek",
+      "image": "https://images.luxuryescapes.com/l846egk9fgmgyzo8qb6",
+      "description": "Explore Franschhoek with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 742
+    }
+  ],
+  "seo": {
+    "title": "South Africa Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in South Africa with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "south africa hotels",
+      "south africa travel",
+      "south africa luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/south-africa",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/south-africa",
+      "es": "https://mondoexplora.com/es/country/south-africa",
+      "fr": "https://mondoexplora.com/fr/country/south-africa",
+      "it": "https://mondoexplora.com/it/country/south-africa"
+    }
+  }
+}

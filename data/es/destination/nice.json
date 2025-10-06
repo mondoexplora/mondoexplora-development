@@ -1,0 +1,68 @@
+{
+  "city": "Nice",
+  "country": "France",
+  "country_code": "FR",
+  "hero_title": "Hoteles en Nice",
+  "description": "Descubre los mejores hoteles en Nice, France. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/jwrnssfq6sbguiqj8fi8",
+  "hotels": [
+    {
+      "vendor_name": "Chateau Saint-Martin & Spa - an Oetker Collection Hotel",
+      "offer_country_name": "France",
+      "location_heading": "Nice",
+      "title": "Southern France Hillside Chateau Suites & Villas with Michelin-Starred Restaurant & Award-Winning Spa",
+      "description": "Step into Provençal paradise at Chateau Saint Martin & Spa, and unwind with award-winning treatments at Spa Saint-Martin by La Prairie in garden cabanas adorned with flowers. Head to Le Saint-Martin for an evening of Michelin-starred dining on a panoramic terrace, or discover L'Oliveraie for fresh Mediterranean flavours in a shady olive grove setting. Perched atop a hill, the property overlooks the sparkling French Riviera for sweeping views of the Mediterranean. Just a short drive away guests can explore the medieval city of Saint-Paul-de-Vence, the iconic seaside town of Nice, the perfume capital of Grasse and the stunning Verdon Gorge - one of France's most breathtaking natural wonders.",
+      "location_subheading": "France",
+      "price": 660,
+      "original_price": 660,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002IJtvIAG",
+      "hero_image": "https://images.luxuryescapes.com/jwrnssfq6sbguiqj8fi8",
+      "image_two": "https://images.luxuryescapes.com/m7hpvgtu3qdn1ey3sn2i",
+      "image_three": "https://images.luxuryescapes.com/0nzdslcdqne82ns1kf8k",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Nice Grand Arenas",
+      "offer_country_name": "France",
+      "location_heading": "Nice",
+      "title": "Sophisticated French-Chic Stay near Nice International Airport",
+      "description": "The glittering cobalt seas and pebbled beaches of Nice are a stone's throw away when you stay at Crowne Plaza Nice - Grand Arenas, an IHG Hotel, a modern escape conveniently located by the city's international airport. When you're not dining on Niçois gourmet delights or losing yourself in the art museums, indulge in a bistro meal or evening cocktail at BALM restaurant and bar. Or, head to the top floor, where the well-equipped fitness centre and sauna will keep you both active and relaxed.",
+      "location_subheading": "France",
+      "price": 111,
+      "original_price": 111,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CPuntAAD",
+      "hero_image": "https://images.luxuryescapes.com/cdw3w48y7e1d81619e7h",
+      "image_two": "https://images.luxuryescapes.com/yspgae8uea8kikvoc1vb",
+      "image_three": "https://images.luxuryescapes.com/sa6z5n4s7snvlzil7r3a",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Nice - France Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Nice, France con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "nice hotels",
+      "nice travel",
+      "france hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/nice",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/nice",
+      "es": "https://mondoexplora.com/es/destination/nice",
+      "fr": "https://mondoexplora.com/fr/destination/nice",
+      "it": "https://mondoexplora.com/it/destination/nice"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 386,
+    "average_discount": 0
+  }
+}

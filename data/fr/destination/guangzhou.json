@@ -1,0 +1,50 @@
+{
+  "city": "Guangzhou",
+  "country": "China",
+  "country_code": "CN",
+  "hero_title": "Hôtels à Guangzhou",
+  "description": "Découvrez les meilleurs hôtels à Guangzhou, China. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/9wvfmugb4unzl51mo7d",
+  "hotels": [
+    {
+      "vendor_name": "Park Hyatt Guangzhou",
+      "offer_country_name": "China",
+      "location_heading": "Guangzhou",
+      "title": "Sky-High South China Hyatt Elegance with Infinity Pool, Onsite Dining & Spa",
+      "description": "Towering above Guangzhou's CBD, Park Hyatt provides breathtaking views of Pearl River. This architectural masterpiece offers contemporary rooms, a stunning 60th-floor infinity pool and a world-class spa. Impeccable service meets exquisite design, creating an urban sanctuary for both business and leisure travellers amidst the city's dynamic energy. Strategically positioned in Zhujiang New Town, the hotel offers easy access to Guangzhou Opera House and premier shopping. Culinary excellence awaits at three signature restaurants and a rooftop bar, where chefs and mixologists transform local ingredients into artistic creations. After exploring nearby Canton Tower, return to your elegant haven high above the city.",
+      "location_subheading": "China",
+      "price": 146,
+      "original_price": 146,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000HicErYAJ",
+      "hero_image": "https://images.luxuryescapes.com/9wvfmugb4unzl51mo7d",
+      "image_two": "https://images.luxuryescapes.com/wwq7e2aom8764tpv31j",
+      "image_three": "https://images.luxuryescapes.com/7wj6401wmwa3ha93plm",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Guangzhou - China Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Guangzhou, China avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "guangzhou hotels",
+      "guangzhou travel",
+      "china hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/guangzhou",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/guangzhou",
+      "es": "https://mondoexplora.com/es/destination/guangzhou",
+      "fr": "https://mondoexplora.com/fr/destination/guangzhou",
+      "it": "https://mondoexplora.com/it/destination/guangzhou"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 146,
+    "average_discount": 0
+  }
+}

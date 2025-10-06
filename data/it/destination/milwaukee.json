@@ -1,0 +1,50 @@
+{
+  "city": "Milwaukee",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotel a Milwaukee",
+  "description": "Scopri i migliori hotel a Milwaukee, United States. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/dkavi46ktesmom5t1y9j",
+  "hotels": [
+    {
+      "vendor_name": "Kimpton Journeyman Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Milwaukee",
+      "title": "Eclectic Milwuakee Escape in Historic Third Ward Neighbourhood with Rooftop Bar & Restaurant",
+      "description": "Kimpton The Journeyman Hotel, an IHG Hotel, in the heart Milwaukee's Historic Third Ward neighbourhood, puts you at the doorstep of galleries, art studios, breweries and eateries galore. Onsite, enjoy exquisite Mediterranean-inspired Modern American dining at Tre Rivali - on fine days, sit on the outdoor patio for a spot of people-watching along Broadway. As night falls, head to The Outsider rooftop with cabana-style seats and firepits to stay toasty warm as you watch the sunset.",
+      "location_subheading": "United States",
+      "price": 147,
+      "original_price": 147,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EdKEeAAN",
+      "hero_image": "https://images.luxuryescapes.com/dkavi46ktesmom5t1y9j",
+      "image_two": "https://images.luxuryescapes.com/fv4nhj069fc7ffc2fezf",
+      "image_three": "https://images.luxuryescapes.com/ku2tibl6y2yswcs71b",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Milwaukee - Stati Uniti Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Milwaukee, United States con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "milwaukee hotels",
+      "milwaukee travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/milwaukee",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/milwaukee",
+      "es": "https://mondoexplora.com/es/destination/milwaukee",
+      "fr": "https://mondoexplora.com/fr/destination/milwaukee",
+      "it": "https://mondoexplora.com/it/destination/milwaukee"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 147,
+    "average_discount": 0
+  }
+}

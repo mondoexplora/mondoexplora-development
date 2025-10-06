@@ -1,0 +1,50 @@
+{
+  "city": "Borneo",
+  "country": "Malaysia",
+  "country_code": "MY",
+  "hero_title": "Hotels in Borneo",
+  "description": "Discover the best hotels in Borneo, Malaysia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/mb3nh9oqcvei9jz0h2tt",
+  "hotels": [
+    {
+      "vendor_name": "Borneo Eagle Resort",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Borneo",
+      "title": "Secluded Borneo Island Bliss with Infinity Pool & Romantic In-Villa Dining",
+      "description": "Located on the pristine island of Pulau Tiga, off the west coast of Malaysia, Borneo Eagle Resort is an enchanting retreat surrounded by sparkling turquoise waters and magnificent coral reefs. Experience complete tranquility in a luxurious villa, blending seamlessly into the lush rainforest, as you discover the true meaning of island paradise. Enjoy refined Western and Asian-inspired dishes at The Eagle's Nest Restaurant or indulge in a romantic dinner on your villa's private open-air terrace.",
+      "location_subheading": "Malaysia",
+      "price": 1697,
+      "original_price": 1697,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EdRcAAAV",
+      "hero_image": "https://images.luxuryescapes.com/mb3nh9oqcvei9jz0h2tt",
+      "image_two": "https://images.luxuryescapes.com/l8c1fzkf2am9yjqlo9ot",
+      "image_three": "https://images.luxuryescapes.com/6x5el7l2h6oa85ykt4xw6",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Borneo - Malaysia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Borneo, Malaysia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "borneo hotels",
+      "borneo travel",
+      "malaysia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/borneo",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/borneo",
+      "es": "https://mondoexplora.com/es/destination/borneo",
+      "fr": "https://mondoexplora.com/fr/destination/borneo",
+      "it": "https://mondoexplora.com/it/destination/borneo"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 1697,
+    "average_discount": 0
+  }
+}

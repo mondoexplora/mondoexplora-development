@@ -1,0 +1,50 @@
+{
+  "city": "Xi'an",
+  "country": "China",
+  "country_code": "CN",
+  "hero_title": "Hotels in Xi'an",
+  "description": "Discover the best hotels in Xi'an, China. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/45mzrck0wvdw4qd5voiq",
+  "hotels": [
+    {
+      "vendor_name": "Grand Hyatt Xi'An",
+      "offer_country_name": "China",
+      "location_heading": "Xi'an",
+      "title": "China Sky-High Opulence in Xi’an with Five Eateries & Mountain-View Rooftop Garden",
+      "description": "Take in Xi’an from new heights at Grand Hyatt Xi’an, a glamorous retreat in the heart of the city’s CBD. Wake to skyline views from your floor-to-ceiling windows, take a dip in the sparkling indoor pool, keep up with your routine in the fitness centre or recharge with an indulgent treatment at the spa. In between exploring the city’s historic treasures - including the Terracotta Warriors - refuel at one of the hotel’s dining venues. Savour Cantonese dishes at Chang'an Bridge, complete with a wood-fired duck oven, or dive into hot pot at Maple House. Enjoy international fare at Grand Café and enjoy live cooking stations, linger over afternoon tea at The Lounge, or settle in at Allegro for cocktails and live music.",
+      "location_subheading": "China",
+      "price": 94,
+      "original_price": 94,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000HifgyYAB",
+      "hero_image": "https://images.luxuryescapes.com/45mzrck0wvdw4qd5voiq",
+      "image_two": "https://images.luxuryescapes.com/bnlbqlwmde23ubre7b85",
+      "image_three": "https://images.luxuryescapes.com/z2zja4dhqzejkjqf7c8t",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Xi'an - China Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Xi'an, China with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "xi'an hotels",
+      "xi'an travel",
+      "china hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/xi'an",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/xi'an",
+      "es": "https://mondoexplora.com/es/destination/xi'an",
+      "fr": "https://mondoexplora.com/fr/destination/xi'an",
+      "it": "https://mondoexplora.com/it/destination/xi'an"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 94,
+    "average_discount": 0
+  }
+}

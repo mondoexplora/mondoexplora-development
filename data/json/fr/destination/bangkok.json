@@ -1,0 +1,46 @@
+{
+  "city": "Bangkok",
+  "country": "Thaïlande",
+  "country_code": "TH",
+  "description": "Découvrez la capitale vibrante de la Thaïlande avec ses temples magnifiques, ses marchés animés et ses hôtels de classe mondiale. Bangkok offre le mélange parfait de culture traditionnelle et de luxe moderne.",
+  "hero_title": "Hôtels à Bangkok",
+  "hero_image": "https://images.unsplash.com/photo-1508009603885-50cf7c079365?w=1200&h=600&fit=crop",
+  "seo": {
+    "title": "Hôtels à Bangkok et Guide de Voyage 2024 | Meilleures Offres et Attractions",
+    "description": "Trouvez les meilleurs hôtels à Bangkok avec des offres exclusives. Explorez temples, marchés et attractions. Réservez votre escapade parfaite à Bangkok avec jusqu'à 60% de réduction.",
+    "keywords": ["hôtels bangkok", "voyage bangkok", "hôtels thaïlande", "offres bangkok", "attractions bangkok", "temples bangkok", "shopping bangkok"],
+    "canonical": "https://mondoexplora.com/fr/destination/bangkok",
+    "hreflang": {
+      "es": "https://mondoexplora.com/es/destination/bangkok",
+      "en": "https://mondoexplora.com/en/destination/bangkok",
+      "fr": "https://mondoexplora.com/fr/destination/bangkok",
+      "it": "https://mondoexplora.com/it/destination/bangkok"
+    }
+  },
+  "hotels": [
+    {
+      "id": "bangkok-mandarin-oriental",
+      "link": "https://www.booking.com/hotel/th/mandarin-oriental-bangkok.html?aid=123456&utm_source=mondoexplora&utm_medium=affiliate&utm_campaign=bangkok-hotels",
+      "hero_image": "https://images.luxuryescapes.com/q_auto:good,f_auto,w_1200,h_800,c_fill,g_auto/leh-common/leh-luxury-escapes/leh-luxury-escapes-hotel-images/leh-luxury-escapes-hotel-images-mandarin-oriental-bangkok-1.jpg",
+      "vendor_name": "booking",
+      "title": "Mandarin Oriental Bangkok",
+      "description": "Hôtel de luxe 5 étoiles sur les rives du fleuve Chao Phraya. Comprend un spa de classe mondiale, plusieurs restaurants et des vues imprenables sur le fleuve.",
+      "location_heading": "Bangkok",
+      "location_subheading": "Riverside",
+      "price": 450,
+      "value": 650,
+      "original_price": 650,
+      "discount_percentage": 31,
+      "amenities": ["Spa", "Piscine", "Restaurant", "Vue sur le Fleuve", "WiFi Gratuit"],
+      "rating": 4.8,
+      "review_count": 1247
+    }
+  ],
+  "meta": {
+    "last_updated": "2024-07-27",
+    "hotel_count": 1,
+    "average_price": 450,
+    "average_discount": 31,
+    "popular_seasons": ["Novembre-Mars", "Juillet-Septembre"]
+  }
+} 

@@ -1,0 +1,61 @@
+{
+  "name": "Hong Kong",
+  "code": "HK",
+  "hero_title": "Hong Kong Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Hong Kong.",
+  "hero_image": "https://images.luxuryescapes.com/bs2wnia0jljog5v2inag",
+  "popular_destinations": [
+    {
+      "name": "Hong Kong",
+      "slug": "hong-kong",
+      "image": "https://images.luxuryescapes.com/bs2wnia0jljog5v2inag",
+      "description": "Explore Hong Kong with luxury accommodations"
+    },
+    {
+      "name": "Kowloon",
+      "slug": "kowloon",
+      "image": "https://images.luxuryescapes.com/txlovkzc5phpvsfnc3i",
+      "description": "Explore Kowloon with luxury accommodations"
+    },
+    {
+      "name": "Causeway Bay",
+      "slug": "causeway-bay",
+      "image": "https://images.luxuryescapes.com/uvpm85ne8u02wh4teql",
+      "description": "Explore Causeway Bay with luxury accommodations"
+    },
+    {
+      "name": "Central",
+      "slug": "central",
+      "image": "https://images.luxuryescapes.com/vwz7k3hbokme0g8jlce",
+      "description": "Explore Central with luxury accommodations"
+    },
+    {
+      "name": "Hong Kong Island",
+      "slug": "hong-kong-island",
+      "image": "https://images.luxuryescapes.com/iop8g266e8du2if8n4r",
+      "description": "Explore Hong Kong Island with luxury accommodations"
+    },
+    {
+      "name": "Hung Hom Bay",
+      "slug": "hung-hom-bay",
+      "image": "https://images.luxuryescapes.com/z8gma4zv6cgyq9h0gmt",
+      "description": "Explore Hung Hom Bay with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Hong Kong Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Hong Kong con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "hong kong hotels",
+      "hong kong travel",
+      "hong kong luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/hk",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/hk",
+      "es": "https://mondoexplora.com/es/country/hk",
+      "fr": "https://mondoexplora.com/fr/country/hk",
+      "it": "https://mondoexplora.com/it/country/hk"
+    }
+  }
+}

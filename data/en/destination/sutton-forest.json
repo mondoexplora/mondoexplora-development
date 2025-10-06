@@ -1,0 +1,50 @@
+{
+  "city": "Sutton Forest",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Sutton Forest",
+  "description": "Discover the best hotels in Sutton Forest, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/nqa8jiyokaq37yv2mgw",
+  "hotels": [
+    {
+      "vendor_name": "Peppers Manor House",
+      "offer_country_name": "Australia",
+      "location_heading": "Sutton Forest",
+      "title": "Peppers Heritage Southern Highlands Escape 90 Minutes From Sydney",
+      "description": "You won’t have to venture far from Sydney’s CBD to experience old-world charm and country tranquility in this boutique manor-style stay. Surrounded by Southern Highland flora and adjacent to a championship golf course, guests are spoiled with opportunities to embrace nature. For dining, the award-winning Katers Restaurant is close at hand, serving nostalgic country fare against roaring wood fireplaces, and the onsite bar and pool table make for a cosy wind-down.",
+      "location_subheading": "Australia",
+      "price": 105,
+      "original_price": 105,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000JRewMAAT",
+      "hero_image": "https://images.luxuryescapes.com/nqa8jiyokaq37yv2mgw",
+      "image_two": "https://images.luxuryescapes.com/tokokhoczeryc8yfsgrh",
+      "image_three": "https://images.luxuryescapes.com/c25qcvetd8501e2gdej",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Sutton Forest - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Sutton Forest, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "sutton forest hotels",
+      "sutton forest travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/sutton-forest",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/sutton-forest",
+      "es": "https://mondoexplora.com/es/destination/sutton-forest",
+      "fr": "https://mondoexplora.com/fr/destination/sutton-forest",
+      "it": "https://mondoexplora.com/it/destination/sutton-forest"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 105,
+    "average_discount": 0
+  }
+}

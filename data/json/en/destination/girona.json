@@ -1,0 +1,50 @@
+{
+  "city": "Girona",
+  "country": "Spain",
+  "country_code": "ES",
+  "hero_title": "Hotels in Girona",
+  "description": "Discover the best hotels in Girona, Spain. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/kytm7niwoc8wuj4lu7d1b",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Peralada Wine Spa & Golf",
+      "offer_country_name": "Spain",
+      "location_heading": "Girona",
+      "title": "Five-Star Costa Brava Wine & Golf Retreat Just Two Hours From Barcelona",
+      "description": "Escape to Spain's Costa Brava to embrace a new type of healthy hedonism at the five-star Hotel Peralada Wine Spa & Golf. Spend your days teeing off at the Peralada Golf Club, sipping on Spanish wines at the Perelada Winery, or indulging in a sensory journey at the Wine Spa, where treatments are inspired by the surrounding vineyards. Come evening, choose between five dining options, including the Michelin-starred Castell Peralada Restaurant, before returning to your warm and elegant accommodation for a tranquil night's sleep.",
+      "location_subheading": "Spain",
+      "price": 201,
+      "original_price": 201,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Ezrm9AAB",
+      "hero_image": "https://images.luxuryescapes.com/kytm7niwoc8wuj4lu7d1b",
+      "image_two": "https://images.luxuryescapes.com/asrtou8ex9exsh8m0q6j",
+      "image_three": "https://images.luxuryescapes.com/nwn8h0qm56d1ddiclfx5a",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 14:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Girona - Spain Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Girona, Spain with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "girona hotels",
+      "girona travel",
+      "spain hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/girona",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/girona",
+      "es": "https://mondoexplora.com/es/destination/girona",
+      "fr": "https://mondoexplora.com/fr/destination/girona",
+      "it": "https://mondoexplora.com/it/destination/girona"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 201,
+    "average_discount": 0
+  }
+}

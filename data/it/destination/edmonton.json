@@ -1,0 +1,50 @@
+{
+  "city": "Edmonton",
+  "country": "Canada",
+  "country_code": "CA",
+  "hero_title": "Hotel a Edmonton",
+  "description": "Scopri i migliori hotel a Edmonton, Canada. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/c2xubymtd5xtemqhof2",
+  "hotels": [
+    {
+      "vendor_name": "Fairmont Hotel Macdonald",
+      "offer_country_name": "Canada",
+      "location_heading": "Edmonton",
+      "title": "Elegant Edmonton Heritage Luxury with Stunning River Valley Views, Award-Winning Restaurant & Health Club",
+      "description": "Perched on the banks of the North Saskatchewan River in Edmonton, this heritage icon has been delivering timeless luxury to its guests since 1915. The grand château-style retreat blends heritage elegance with modern comfort, offering a sophisticated escape in the city’s vibrant downtown. Indulge in refined dining at The Harvest Room, unwind at the luxurious onsite Health Club, or take in panoramic River Valley views from the lush private gardens. With its stately architecture, premium amenities, and prime location, Fairmont Hotel Macdonald is the perfect base for exploring Edmonton’s cultural scene, shopping districts, and scenic outdoor trails.",
+      "location_subheading": "Canada",
+      "price": 197,
+      "original_price": 197,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnPA0YAN",
+      "hero_image": "https://images.luxuryescapes.com/c2xubymtd5xtemqhof2",
+      "image_two": "https://images.luxuryescapes.com/9kswxz1ev5kptbc1ldf",
+      "image_three": "https://images.luxuryescapes.com/em4t8mp4ec8py60tf0f",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Edmonton - Canada Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Edmonton, Canada con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "edmonton hotels",
+      "edmonton travel",
+      "canada hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/edmonton",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/edmonton",
+      "es": "https://mondoexplora.com/es/destination/edmonton",
+      "fr": "https://mondoexplora.com/fr/destination/edmonton",
+      "it": "https://mondoexplora.com/it/destination/edmonton"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 197,
+    "average_discount": 0
+  }
+}

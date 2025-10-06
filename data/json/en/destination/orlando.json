@@ -1,0 +1,68 @@
+{
+  "city": "Orlando",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Orlando",
+  "description": "Discover the best hotels in Orlando, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/5wqteza0uis81x0ercup",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Orlando - Downtown",
+      "offer_country_name": "United States",
+      "location_heading": "Orlando",
+      "title": "Contemporary Downtown Orlando Escape 15 Minutes from Universal Orlando Resort",
+      "description": "Embrace the vibrant pulse of Florida with a stay at Crowne Plaza Orlando-Downtown, an IHG Hotel. Perfectly positioned to explore the best of downtown, this stylish retreat is just a short drive to Universal Orlando Resort - making it perfect for family adventures. Sports enthusiasts will relish the hotel's proximity to Kia Center, Exploria Stadium and Camping World Stadium. After a day of adventure, unwind by the serene outdoor pool, or indulge on culinary delights at the hotel's onsite bistro.",
+      "location_subheading": "United States",
+      "price": 106,
+      "original_price": 106,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000GxYXAAA3",
+      "hero_image": "https://images.luxuryescapes.com/5wqteza0uis81x0ercup",
+      "image_two": "https://images.luxuryescapes.com/upy1sczryhukmyn4nd",
+      "image_three": "https://images.luxuryescapes.com/6g2nn46dak75shlnmlla",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Orlando - Lake Buena Vista",
+      "offer_country_name": "United States",
+      "location_heading": "Orlando",
+      "title": "Family-Friendly Orlando Stay near Walt Disney World® with Complimentary Theme Park Shuttle & Waterfall Pool",
+      "description": "Treat the whole family to the escape of their dreams with a stay at Crowne Plaza Orlando - Lake Buena Vista, an IHG Hotel. Create lasting memories with day trips to Orlando’s best theme parks, including Walt Disney World®, made easier with a complimentary daily shuttle service. After a day of sunshine and laughter, return to the comfort of this hotel to enjoy a splash in the outdoor pool, featuring an enchanting waterfall, and enjoy a juicy steak at H Street Grille & Lounge.",
+      "location_subheading": "United States",
+      "price": 89,
+      "original_price": 89,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000GxYXBAA3",
+      "hero_image": "https://images.luxuryescapes.com/vrpuvns92hxwqrr1xt1d",
+      "image_two": "https://images.luxuryescapes.com/bzoc6qvl1k7vl02wezn",
+      "image_three": "https://images.luxuryescapes.com/srhwgfvxi0w16ycby1g",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Orlando - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Orlando, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "orlando hotels",
+      "orlando travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/orlando",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/orlando",
+      "es": "https://mondoexplora.com/es/destination/orlando",
+      "fr": "https://mondoexplora.com/fr/destination/orlando",
+      "it": "https://mondoexplora.com/it/destination/orlando"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 98,
+    "average_discount": 0
+  }
+}

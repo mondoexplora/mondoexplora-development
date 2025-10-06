@@ -1,0 +1,50 @@
+{
+  "city": "Calgary",
+  "country": "Canada",
+  "country_code": "CA",
+  "hero_title": "Hoteles en Calgary",
+  "description": "Descubre los mejores hoteles en Calgary, Canada. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/r43tjsw3sjcy1u106n",
+  "hotels": [
+    {
+      "vendor_name": "Fairmont Palliser",
+      "offer_country_name": "Canada",
+      "location_heading": "Calgary",
+      "title": "Canadian Heritage Opulence in the Heart of Calgary with Onsite Restaurant & Spa",
+      "description": "Step into timeless elegance at Fairmont Palliser, a historic downtown icon that has set the standard for luxury in Calgary for over a century. With its grand architecture and elegant interiors, this hotel blends old-world charm with modern comfort - perfect for those seeking city sophistication while still within reach of Alberta’s natural wonders, including the majestic Canadian Rockies. Savour elevated dining at Hawthorn Dining Room & Bar, where seasonally-inspired menus and local produce shine. Stay on top of your routine at the fitness centre or unwind with a swim in the indoor pool. Relax in the hot tub or treat yourself to a rejuvenating spa experience at rnr Wellness - the perfect stop between your Calgary adventures.",
+      "location_subheading": "Canada",
+      "price": 189,
+      "original_price": 189,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000GRn53YAD",
+      "hero_image": "https://images.luxuryescapes.com/r43tjsw3sjcy1u106n",
+      "image_two": "https://images.luxuryescapes.com/mp4rth2e9a2r8e03eg3a",
+      "image_three": "https://images.luxuryescapes.com/1a34nys8i79wzliboa5",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Calgary - Canada Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Calgary, Canada con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "calgary hotels",
+      "calgary travel",
+      "canada hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/calgary",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/calgary",
+      "es": "https://mondoexplora.com/es/destination/calgary",
+      "fr": "https://mondoexplora.com/fr/destination/calgary",
+      "it": "https://mondoexplora.com/it/destination/calgary"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 189,
+    "average_discount": 0
+  }
+}

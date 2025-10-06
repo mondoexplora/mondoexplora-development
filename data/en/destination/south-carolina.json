@@ -1,0 +1,50 @@
+{
+  "city": "South Carolina",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in South Carolina",
+  "description": "Discover the best hotels in South Carolina, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/oan52ocw7fwi3bnma9lx",
+  "hotels": [
+    {
+      "vendor_name": "Montage Palmetto Bluff",
+      "offer_country_name": "United States",
+      "location_heading": "South Carolina",
+      "title": "World-Class South Carolina Riverfront Luxury with Jack Nicklaus Signature Golf Course",
+      "description": "Warm southern hospitality is the cherry on top of the five-star Montage Palmetto Bluff, a world-class inn resting on the banks of the scenic May River in South Carolina’s Lowcountry. The tranquil setting is an invitation to press pause on the everyday and discover true luxury and indulgence, whether that looks like a leisurely putt on the Jack Nicklaus Signature Golf Course or a premium bourbon at Hush, the River House's best-kept secret. Allow the spa therapists to pamper you with a hydra-facial using luxury Tata Harper organic products at the Spa Montage, or pack a bottle of Veuve Clicquot and pedal to a pristine picnic location for a sun-drenched afternoon tea. For those who love the outdoors, three swimming pools, kayaking and fishing cruises are sure to keep you entertained.",
+      "location_subheading": "United States",
+      "price": 386,
+      "original_price": 386,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000C1ihIAAR",
+      "hero_image": "https://images.luxuryescapes.com/oan52ocw7fwi3bnma9lx",
+      "image_two": "https://images.luxuryescapes.com/asn1nj74infydw64q5ls",
+      "image_three": "https://images.luxuryescapes.com/cp9w0xwcyqbpr7upjv6",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in South Carolina - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in South Carolina, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "south carolina hotels",
+      "south carolina travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/south-carolina",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/south-carolina",
+      "es": "https://mondoexplora.com/es/destination/south-carolina",
+      "fr": "https://mondoexplora.com/fr/destination/south-carolina",
+      "it": "https://mondoexplora.com/it/destination/south-carolina"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 386,
+    "average_discount": 0
+  }
+}

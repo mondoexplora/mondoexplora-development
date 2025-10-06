@@ -1,0 +1,50 @@
+{
+  "city": "Forster",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hoteles en Forster",
+  "description": "Descubre los mejores hoteles en Forster, Australia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/terok8vl551resjg4ybh",
+  "hotels": [
+    {
+      "vendor_name": "Laurina Estate",
+      "offer_country_name": "Australia",
+      "location_heading": "Forster",
+      "title": "Exclusive Forster Garden Estate with Outdoor Bath and Private Pool",
+      "description": "Let serenity find you at Laurina Estate, a charming retreat in New South Wales’ Mid North Coast. Easily reachable from Port Macquarie or Newcastle, this is the perfect destination for an escape filled with outdoor adventures and good wines. Enjoy exclusive access to the property and its gardens, where your only neighbours are alpacas and nature. Your cosy firepit and outdoor bathhouse with free-standing tub share uninterrupted views of the absolute seclusion day or night.",
+      "location_subheading": "Australia",
+      "price": 235,
+      "original_price": 235,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Ebw1iAAB",
+      "hero_image": "https://images.luxuryescapes.com/terok8vl551resjg4ybh",
+      "image_two": "https://images.luxuryescapes.com/f02q14va5ojujoafsr",
+      "image_three": "https://images.luxuryescapes.com/80xmrv7cubrth3eej8ei",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 14:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Forster - Australia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Forster, Australia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "forster hotels",
+      "forster travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/forster",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/forster",
+      "es": "https://mondoexplora.com/es/destination/forster",
+      "fr": "https://mondoexplora.com/fr/destination/forster",
+      "it": "https://mondoexplora.com/it/destination/forster"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 235,
+    "average_discount": 0
+  }
+}

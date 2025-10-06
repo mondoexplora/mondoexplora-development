@@ -1,0 +1,50 @@
+{
+  "city": "Kochi",
+  "country": "Japan",
+  "country_code": "JP",
+  "hero_title": "Hoteles en Kochi",
+  "description": "Descubre los mejores hoteles en Kochi, Japan. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/83m7w56yw0cz6xuj1nr",
+  "hotels": [
+    {
+      "vendor_name": "Mercure Kochi Tosa",
+      "offer_country_name": "Japan",
+      "location_heading": "Kochi",
+      "title": "Tranquil Kochi Coastal Resort Overlooking the Pacific Ocean with Traditional Onsen",
+      "description": "Succumb to the allure of coastal Japan at this resort in Kochi, mere moments from the Pacific Ocean and surrounded by rugged mountain ranges. Seemlessly blending together traditional Japanese and contemporary Western styles, this serene stay boasts a traditional Japanese onsen, a relaxing bathhouse with a natural hot spring that's sure to soothe. Between moments of relaxation, enjoy a buffet meal at the Locavore restaurant, make a splash in the sprawling outdoor pool or simply retreat to your room designed with comfort in mind. Set out to explore Kochi and pay a visit to the Kochi Castle, stroll the Hirome Market or admire the coastline at Katsurahama Beach.",
+      "location_subheading": "Japan",
+      "price": 78,
+      "original_price": 78,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnP1qYAF",
+      "hero_image": "https://images.luxuryescapes.com/83m7w56yw0cz6xuj1nr",
+      "image_two": "https://images.luxuryescapes.com/yobbbh93trmqoit4t9dm",
+      "image_three": "https://images.luxuryescapes.com/vmy2ngg6kitb5rt5n8",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Kochi - Japan Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Kochi, Japan con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "kochi hotels",
+      "kochi travel",
+      "japan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/kochi",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/kochi",
+      "es": "https://mondoexplora.com/es/destination/kochi",
+      "fr": "https://mondoexplora.com/fr/destination/kochi",
+      "it": "https://mondoexplora.com/it/destination/kochi"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 78,
+    "average_discount": 0
+  }
+}

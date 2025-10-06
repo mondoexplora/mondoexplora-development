@@ -1,0 +1,50 @@
+{
+  "city": "Macau",
+  "country": "Macao",
+  "country_code": "MO",
+  "hero_title": "Hotel a Macau",
+  "description": "Scopri i migliori hotel a Macau, Macao. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/6ki8hw3puo679udx72h",
+  "hotels": [
+    {
+      "vendor_name": "Mandarin Oriental Macau",
+      "offer_country_name": "Macao",
+      "location_heading": "Macau",
+      "title": "Five-Star Macau Waterfront Stay with Swimming Pool Overlooking South China Sea",
+      "description": "Pure style and sophistication are the focus of the five-star Mandarin Oriental Macau, which boasts an unbeatable location on the prestigious Macau waterfront. Incredible facilities ensure a memorable stay, including four world-class restaurants and bars, an artisan cake shop, a swimming pool overlooking the South China Sea, and a harbourfront fitness centre. For a dose of relaxation, the onsite spa offers a range of treatments designed to pamper you from top to toe.",
+      "location_subheading": "Macao",
+      "price": 238,
+      "original_price": 238,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000009DMM4AAO",
+      "hero_image": "https://images.luxuryescapes.com/6ki8hw3puo679udx72h",
+      "image_two": "https://images.luxuryescapes.com/69l2tnfn8k0pijjv9wwl",
+      "image_three": "https://images.luxuryescapes.com/53md8a7gud7qgym8n7pq",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Macau - Macao Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Macau, Macao con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "macau hotels",
+      "macau travel",
+      "macao hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/macau",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/macau",
+      "es": "https://mondoexplora.com/es/destination/macau",
+      "fr": "https://mondoexplora.com/fr/destination/macau",
+      "it": "https://mondoexplora.com/it/destination/macau"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 238,
+    "average_discount": 0
+  }
+}

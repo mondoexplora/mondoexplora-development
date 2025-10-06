@@ -1,0 +1,50 @@
+{
+  "city": "Woollamia",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Woollamia",
+  "description": "Discover the best hotels in Woollamia, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/10o0e3755fw7e3p29bm",
+  "hotels": [
+    {
+      "vendor_name": "Bay and Bush Cottages",
+      "offer_country_name": "Australia",
+      "location_heading": "Woollamia",
+      "title": "Boutique Cottage Escape Hidden Amid NSW Native Bushland",
+      "description": "Discover the turquoise waters and abundant wildlife of the New South Wales coast with a luxurious stay at the romantic Bay and Bush Cottages. Situated under the iconic Australian gum trees, these self-contained cottages offer a charming combination of country and coastal living. Spend your days soaking in the sunshine at the picturesque Hyams Beach, or snuggle up on the sofa with a book and glass of wine in hand as you gaze out into the endless native bushland that surrounds you.",
+      "location_subheading": "Australia",
+      "price": 519,
+      "original_price": 519,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000008gbthAAA",
+      "hero_image": "https://images.luxuryescapes.com/10o0e3755fw7e3p29bm",
+      "image_two": "https://images.luxuryescapes.com/fj5ydo52ivdqtcqhvn3tc",
+      "image_three": "https://images.luxuryescapes.com/9shg54jplsee8suh8gt",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Woollamia - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Woollamia, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "woollamia hotels",
+      "woollamia travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/woollamia",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/woollamia",
+      "es": "https://mondoexplora.com/es/destination/woollamia",
+      "fr": "https://mondoexplora.com/fr/destination/woollamia",
+      "it": "https://mondoexplora.com/it/destination/woollamia"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 519,
+    "average_discount": 0
+  }
+}

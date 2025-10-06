@@ -1,0 +1,50 @@
+{
+  "city": "Berry",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hôtels à Berry",
+  "description": "Découvrez les meilleurs hôtels à Berry, Australia. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/11qcyzuespww1ci2temy",
+  "hotels": [
+    {
+      "vendor_name": "Mt Hay Retreat",
+      "offer_country_name": "Australia",
+      "location_heading": "Berry",
+      "title": "Boutique Adults-Only Berry Suites Just Two Hours from Sydney",
+      "description": "Mt Hay Retreat, located just two hours from Sydney on the NSW South Coast, offers an exclusive adults-only getaway for those seeking tranquility and relaxation. Nestled amidst the picturesque landscapes of Berry, this suite-only retreat offers the best of both worlds, allowing guests to unwind in the privacy of self-contained spaces, or by the 33m heated indoor pool and spa, sky-scraping 'Cloud Swing' or kitchen garden.",
+      "location_subheading": "Australia",
+      "price": 280,
+      "original_price": 280,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EeLG7AAN",
+      "hero_image": "https://images.luxuryescapes.com/11qcyzuespww1ci2temy",
+      "image_two": "https://images.luxuryescapes.com/8uouak3djguhvfcyo3",
+      "image_three": "https://images.luxuryescapes.com/6uxxij0fnyek89eug9",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Berry - Australie Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Berry, Australia avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "berry hotels",
+      "berry travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/berry",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/berry",
+      "es": "https://mondoexplora.com/es/destination/berry",
+      "fr": "https://mondoexplora.com/fr/destination/berry",
+      "it": "https://mondoexplora.com/it/destination/berry"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 280,
+    "average_discount": 0
+  }
+}

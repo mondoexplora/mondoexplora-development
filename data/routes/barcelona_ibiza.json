@@ -1,0 +1,83 @@
+{
+  "route": {
+    "origin": "barcelona",
+    "destination": "ibiza",
+    "distance": "200 km",
+    "available_modes": [
+      "flight",
+      "ferry"
+    ]
+  },
+  "travel_modes": [
+    {
+      "icon": "✈️",
+      "name": "Flight",
+      "description": "Fastest option for long distances",
+      "estimated_time": "2-8 hours",
+      "estimated_cost": "$200-800",
+      "frequency": "Daily",
+      "notes": "Most popular for international travel",
+      "booking_links": {
+        "skyscanner": "https://www.skyscanner.com",
+        "kayak": "https://www.kayak.com",
+        "google_flights": "https://www.google.com/travel/flights"
+      },
+      "providers": [
+        {
+          "name": "Iberia",
+          "website": "https://www.iberia.com",
+          "direct": true
+        },
+        {
+          "name": "Vueling",
+          "website": "https://www.vueling.com",
+          "direct": true
+        },
+        {
+          "name": "Air Europa",
+          "website": "https://www.aireuropa.com",
+          "direct": true
+        }
+      ],
+      "airports": {
+        "origin": "Barcelona El Prat (BCN)",
+        "destination": "Ibiza Airport (IBZ)"
+      }
+    },
+    {
+      "icon": "⛴️",
+      "name": "Ferry",
+      "description": "Scenic water travel between coastal destinations",
+      "estimated_time": "1-6 hours",
+      "estimated_cost": "$30-150",
+      "frequency": "Daily/Weekly",
+      "notes": "Scenic but weather dependent",
+      "booking_links": {
+        "directferries": "https://www.directferries.com",
+        "ferryhopper": "https://www.ferryhopper.com"
+      },
+      "providers": [
+        {
+          "name": "Balearia",
+          "website": "https://www.balearia.com",
+          "direct": true
+        },
+        {
+          "name": "Trasmediterranea",
+          "website": "https://www.trasmediterranea.es",
+          "direct": true
+        }
+      ],
+      "ports": {
+        "origin": "Barcelona Port",
+        "destination": "Ibiza Port"
+      }
+    }
+  ],
+  "quick_tips": [
+    "Ferries are scenic but slower than flights",
+    "Flights are faster but more expensive",
+    "Check ferry schedules in advance",
+    "Best time to visit: May to October"
+  ]
+}

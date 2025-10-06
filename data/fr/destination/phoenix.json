@@ -1,0 +1,50 @@
+{
+  "city": "Phoenix",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hôtels à Phoenix",
+  "description": "Découvrez les meilleurs hôtels à Phoenix, United States. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/pms0s47249b6re7gb11d",
+  "hotels": [
+    {
+      "vendor_name": "Kimpton Hotel Palomar Phoenix Cityscape",
+      "offer_country_name": "United States",
+      "location_heading": "Phoenix",
+      "title": "Stylish Downtown Phoenix Stay next to Sporting Arena with Rooftop Pool, Bar & Restaurant",
+      "description": "Discover sophisticated stylings and unrivalled luxury right in the heart of Phoenix with a stay at Kimpton Hotel Palomar Phoenix, an IHG Hotel. Anchored by the buzzing shopping destination, CityScape, this hotel claims an incredible city-centre locale that invites guests to explore invigorating sports, unique shows, tempting stores and dining experiences. For panoramic views of the city, relaxing poolside on the rooftop is ideal, or take your tastebuds on a culinary journey with a booking at Blue Hound Kitchen & Cocktails.",
+      "location_subheading": "United States",
+      "price": 176,
+      "original_price": 176,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EdKEgAAN",
+      "hero_image": "https://images.luxuryescapes.com/pms0s47249b6re7gb11d",
+      "image_two": "https://images.luxuryescapes.com/e74jcjxjm81cng9gcid",
+      "image_three": "https://images.luxuryescapes.com/16b3p4sjisb78uxryi5",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Phoenix - États-Unis Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Phoenix, United States avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "phoenix hotels",
+      "phoenix travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/phoenix",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/phoenix",
+      "es": "https://mondoexplora.com/es/destination/phoenix",
+      "fr": "https://mondoexplora.com/fr/destination/phoenix",
+      "it": "https://mondoexplora.com/it/destination/phoenix"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 176,
+    "average_discount": 0
+  }
+}

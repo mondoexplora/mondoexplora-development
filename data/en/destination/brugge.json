@@ -1,0 +1,50 @@
+{
+  "city": "Brugge",
+  "country": "Belgium",
+  "country_code": "BE",
+  "hero_title": "Hotels in Brugge",
+  "description": "Discover the best hotels in Brugge, Belgium. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/fzjzxo3qimi7xi1mbkn",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Brugge",
+      "offer_country_name": "Belgium",
+      "location_heading": "Brugge",
+      "title": "Brugge Hotel Built on Heritage Cathedral Ruins near Market Square",
+      "description": "In a timeless medieval city of canals and cobblestone streets, Crowne Plaza Brugge, an IHG Hotel is a refined retreat offering modern comfort and service just five minutes from the bustling Market Square. Enjoy outstanding locally-sourced dishes at the PlazaCafe restaurant, refresh and renew yourself at the indoor pool and fitness centre or take a trip through time as you gaze upon the heritage ruins of Saint Donatian's cathedral, located in the basement of the hotel.",
+      "location_subheading": "Belgium",
+      "price": 118,
+      "original_price": 118,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJZrAAP",
+      "hero_image": "https://images.luxuryescapes.com/fzjzxo3qimi7xi1mbkn",
+      "image_two": "https://images.luxuryescapes.com/039t5g8mfkcmgi4dbhve",
+      "image_three": "https://images.luxuryescapes.com/5wjgo5v95r0gfq0kvrxj",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Brugge - Belgium Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Brugge, Belgium with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "brugge hotels",
+      "brugge travel",
+      "belgium hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/brugge",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/brugge",
+      "es": "https://mondoexplora.com/es/destination/brugge",
+      "fr": "https://mondoexplora.com/fr/destination/brugge",
+      "it": "https://mondoexplora.com/it/destination/brugge"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 118,
+    "average_discount": 0
+  }
+}

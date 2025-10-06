@@ -1,0 +1,50 @@
+{
+  "city": "Vermont",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Vermont",
+  "description": "Discover the best hotels in Vermont, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/nqzxcsbtpymvys2982k",
+  "hotels": [
+    {
+      "vendor_name": "Woodstock Inn & Resort",
+      "offer_country_name": "United States",
+      "location_heading": "Vermont",
+      "title": "Elegant New England Countryside Escape in the Heart of Woodstock",
+      "description": "Discover quintessential New England charm at Woodstock Inn & Resort, Vermont. Part of the prestigious Preferred Hotels & Resorts brand, this elegant property embraces the vision of Laurance and Mary Rockefeller, who established the original inn. Guests can enjoy a selection of cosy restaurants, including the award-winning The Red Rooster and Richardson's Tavern, and the seasonal Fairway Grill and Perley's Pourhouse. Hit the Athletic Club for a round of tennis, take a swing on the golf course, then visit The Spa for restorative treatments. Explore the area's covered bridges, the Ottauquechee River, Quechee Gorge, Marsh-Billings-Rockefeller National Historical Park and surrounding picturesque New England countryside. A wonderful collection of country stores, boutiques, bookstores and art galleries line the village, enticing visitors to wander its charming streets. In winter, the area becomes a paradise for skiers and snow sports enthusiasts, who head to the family-friendly Saskadena Six Ski Area, which welcomes skiers and snowboarders of all abilities, or to the Nordic Center, which boasts more than 45 km of groomed trails.",
+      "location_subheading": "United States",
+      "price": 324,
+      "original_price": 324,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000007lIw4AAE",
+      "hero_image": "https://images.luxuryescapes.com/nqzxcsbtpymvys2982k",
+      "image_two": "https://images.luxuryescapes.com/yswiti532eohd4nj8gf7",
+      "image_three": "https://images.luxuryescapes.com/izoxj0ekjrdda56atk",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Vermont - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Vermont, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "vermont hotels",
+      "vermont travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/vermont",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/vermont",
+      "es": "https://mondoexplora.com/es/destination/vermont",
+      "fr": "https://mondoexplora.com/fr/destination/vermont",
+      "it": "https://mondoexplora.com/it/destination/vermont"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 324,
+    "average_discount": 0
+  }
+}

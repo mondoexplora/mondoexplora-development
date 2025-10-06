@@ -1,0 +1,50 @@
+{
+  "city": "Nanjing",
+  "country": "China",
+  "country_code": "CN",
+  "hero_title": "Hoteles en Nanjing",
+  "description": "Descubre los mejores hoteles en Nanjing, China. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/gvsdz403ypcablm3zqft",
+  "hotels": [
+    {
+      "vendor_name": "Sofitel Nanjing Galaxy Suning",
+      "offer_country_name": "China",
+      "location_heading": "Nanjing",
+      "title": "Downtown Nanjing Sofitel Retreat with Two Restaurants, Indoor Pool & Spa",
+      "description": "Rising above Nanjing's glittering skyline, Sofitel Nanjing Galaxy Suning enchants with its perfect fusion of French elegance and Chinese grandeur. This urban sanctuary captivates with sumptuous suites, mesmerising city vistas and close proximity to historic treasures. Surrender to indulgence as expert chefs craft culinary masterpieces, from refined Huaiyhang cuisine to international all-day dining. Let the blissful onsite spa melt away your worldly cares while attentive staff anticipate your desires before they're even spoken. Welcome to a place where ancient dynasties once ruled and modern China hums with possibility.",
+      "location_subheading": "China",
+      "price": 83,
+      "original_price": 83,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000IazVkYAJ",
+      "hero_image": "https://images.luxuryescapes.com/gvsdz403ypcablm3zqft",
+      "image_two": "https://images.luxuryescapes.com/viqy73pfidypca39fwuc",
+      "image_three": "https://images.luxuryescapes.com/q2to0haqg99kwjf76vv",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Nanjing - China Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Nanjing, China con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "nanjing hotels",
+      "nanjing travel",
+      "china hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/nanjing",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/nanjing",
+      "es": "https://mondoexplora.com/es/destination/nanjing",
+      "fr": "https://mondoexplora.com/fr/destination/nanjing",
+      "it": "https://mondoexplora.com/it/destination/nanjing"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 83,
+    "average_discount": 0
+  }
+}

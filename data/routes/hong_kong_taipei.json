@@ -1,0 +1,48 @@
+{
+  "route": {
+    "origin": "hong_kong",
+    "destination": "taipei",
+    "distance": "800 km",
+    "available_modes": [
+      "flight"
+    ]
+  },
+  "travel_modes": [
+    {
+      "icon": "✈️",
+      "name": "Flight",
+      "description": "Fastest option for long distances",
+      "estimated_time": "2-8 hours",
+      "estimated_cost": "$200-800",
+      "frequency": "Daily",
+      "notes": "Most popular for international travel",
+      "booking_links": {
+        "skyscanner": "https://www.skyscanner.com",
+        "kayak": "https://www.kayak.com",
+        "google_flights": "https://www.google.com/travel/flights"
+      },
+      "providers": [
+        {
+          "name": "Cathay Pacific",
+          "website": "https://www.cathaypacific.com",
+          "direct": true
+        },
+        {
+          "name": "China Airlines",
+          "website": "https://www.china-airlines.com",
+          "direct": true
+        },
+        {
+          "name": "EVA Air",
+          "website": "https://www.evaair.com",
+          "direct": true
+        }
+      ]
+    }
+  ],
+  "quick_tips": [
+    "Book flights 2-3 months in advance for best prices",
+    "Check visa requirements for your destination",
+    "Consider travel insurance for international trips"
+  ]
+}

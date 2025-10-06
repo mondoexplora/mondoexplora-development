@@ -1,0 +1,50 @@
+{
+  "city": "Telford",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hoteles en Telford",
+  "description": "Descubre los mejores hoteles en Telford, United Kingdom. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/vte98xwmyaz0mb0zuz52",
+  "hotels": [
+    {
+      "vendor_name": "The Telford Hotel & Golf Resort",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Telford",
+      "title": "Elegant Shropshire Countryside Manor Close to Ironbridge with 18-Hole Golf Course",
+      "description": "The elegance of the English countryside is yours to enjoy at The Telford Hotel & Golf Resort, a stunning restored 17th-century Darby House set within sweeping gardens. Whether it's a romantic getaway, a golfing weekend, or a spontaneous countryside escape, The Telford Hotel suits every traveller. Spend days on the green at the superb 18-hole golf course practicing your swing, indulge at the award-winning day spa with a pampering treatment, and treat your tastebuds to a journey into fine dining at Restaurant 1779 or Gorge Bar & Lounge. When you can tear yourself away from the exceptional facilities, the charms of historic Shropshire are at your fingertips. Right outside your door is the UNESCO World Heritage listed-site of Ironbridge Gorge, while Severn Valley (known as the birthplace of industry) is brimming with picturesque towns like Shrewsbury, Ludlow and Bridgnorth.",
+      "location_subheading": "United Kingdom",
+      "price": 90,
+      "original_price": 90,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000007lrjMAAQ",
+      "hero_image": "https://images.luxuryescapes.com/vte98xwmyaz0mb0zuz52",
+      "image_two": "https://images.luxuryescapes.com/92ielhecjk0f5e2gy2kw",
+      "image_three": "https://images.luxuryescapes.com/h5jg3e4bh778q1sfsn32",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Telford - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Telford, United Kingdom con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "telford hotels",
+      "telford travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/telford",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/telford",
+      "es": "https://mondoexplora.com/es/destination/telford",
+      "fr": "https://mondoexplora.com/fr/destination/telford",
+      "it": "https://mondoexplora.com/it/destination/telford"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 90,
+    "average_discount": 0
+  }
+}

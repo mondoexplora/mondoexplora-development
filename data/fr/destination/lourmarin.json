@@ -1,0 +1,50 @@
+{
+  "city": "Lourmarin",
+  "country": "France",
+  "country_code": "FR",
+  "hero_title": "Hôtels à Lourmarin",
+  "description": "Découvrez les meilleurs hôtels à Lourmarin, France. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/h3g26q35rhgjbi4yt5n",
+  "hotels": [
+    {
+      "vendor_name": "Le Moulin",
+      "offer_country_name": "France",
+      "location_heading": "Lourmarin",
+      "title": "Charming French Countryside Heritage Escape with Outdoor Pool & Gourmet Dining",
+      "description": "A meticulously restored 18th-century mill sitting opposite Château de Lourmarin, this boutique hotel is in the charming village of Lourmarin, Provence. Embrace authentic French countryside with yellow-painted houses, lavender fields, markets and lively streets. Verdant gardens and a serene swimming pool create a picturesque backdrop for relaxing moments and quiet contemplation. Indulge in gastronomic delights at Bacheto, where the day's harvest and catch decide what's on the menu, and enjoy specialty coffee at The Bar. After a day of exploration, retreat to your elegantly appointed suite, where antique furnishings and modern amenities harmoniously coexist.",
+      "location_subheading": "France",
+      "price": 165,
+      "original_price": 165,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000HSytuYAD",
+      "hero_image": "https://images.luxuryescapes.com/h3g26q35rhgjbi4yt5n",
+      "image_two": "https://images.luxuryescapes.com/wswthpxiskq9xodf0aw",
+      "image_three": "https://images.luxuryescapes.com/giefqnhlb54mjv1ox2f",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Lourmarin - France Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Lourmarin, France avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "lourmarin hotels",
+      "lourmarin travel",
+      "france hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/lourmarin",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/lourmarin",
+      "es": "https://mondoexplora.com/es/destination/lourmarin",
+      "fr": "https://mondoexplora.com/fr/destination/lourmarin",
+      "it": "https://mondoexplora.com/it/destination/lourmarin"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 165,
+    "average_discount": 0
+  }
+}

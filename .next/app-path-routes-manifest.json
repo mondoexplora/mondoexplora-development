@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/page": "/",
+  "/[lang]/destination/[city]/page": "/[lang]/destination/[city]",
+  "/[lang]/page": "/[lang]",
+  "/[lang]/travel_modes/[origin]/[destination]/page": "/[lang]/travel_modes/[origin]/[destination]",
+  "/[lang]/route/[origin]/[destination]/page": "/[lang]/route/[origin]/[destination]",
+  "/[lang]/country/[country]/page": "/[lang]/country/[country]"
+}

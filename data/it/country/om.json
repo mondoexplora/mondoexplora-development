@@ -1,0 +1,61 @@
+{
+  "name": "Oman",
+  "code": "OM",
+  "hero_title": "Oman Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Oman.",
+  "hero_image": "https://images.luxuryescapes.com/uk7w0bdj1a1d01r42lo9",
+  "popular_destinations": [
+    {
+      "name": "Bandar Jissah",
+      "slug": "bandar-jissah",
+      "image": "https://images.luxuryescapes.com/uk7w0bdj1a1d01r42lo9",
+      "description": "Explore Bandar Jissah with luxury accommodations"
+    },
+    {
+      "name": "Dibba",
+      "slug": "dibba",
+      "image": "https://images.luxuryescapes.com/d3qhs63x3vrhcdmcj8",
+      "description": "Explore Dibba with luxury accommodations"
+    },
+    {
+      "name": "Duqm",
+      "slug": "duqm",
+      "image": "https://images.luxuryescapes.com/3452llm8vdhhafaqqwl",
+      "description": "Explore Duqm with luxury accommodations"
+    },
+    {
+      "name": "Muscat",
+      "slug": "muscat",
+      "image": "https://images.luxuryescapes.com/t5scc4j17op651jx42yk",
+      "description": "Explore Muscat with luxury accommodations"
+    },
+    {
+      "name": "Nizwa",
+      "slug": "nizwa",
+      "image": "https://images.luxuryescapes.com/9xqq8s2mvixghzhmfpp",
+      "description": "Explore Nizwa with luxury accommodations"
+    },
+    {
+      "name": "Salalah",
+      "slug": "salalah",
+      "image": "https://images.luxuryescapes.com/pdl1so0qmpm6etusra2f",
+      "description": "Explore Salalah with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Oman Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Oman con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "oman hotels",
+      "oman travel",
+      "oman luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/om",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/om",
+      "es": "https://mondoexplora.com/es/country/om",
+      "fr": "https://mondoexplora.com/fr/country/om",
+      "it": "https://mondoexplora.com/it/country/om"
+    }
+  }
+}

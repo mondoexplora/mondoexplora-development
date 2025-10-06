@@ -1,0 +1,43 @@
+{
+  "name": "Rwanda",
+  "code": "RW",
+  "hero_title": "Rwanda Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Rwanda.",
+  "hero_image": "https://images.luxuryescapes.com/1ven5nf84xafczb6boz",
+  "popular_destinations": [
+    {
+      "name": "Kinigi",
+      "slug": "kinigi",
+      "image": "https://images.luxuryescapes.com/1ven5nf84xafczb6boz",
+      "description": "Explore Kinigi with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 3976
+    },
+    {
+      "name": "Nyamasheke",
+      "slug": "nyamasheke",
+      "image": "https://images.luxuryescapes.com/pab581yl98oocwzs6tu",
+      "description": "Explore Nyamasheke with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 2162
+    }
+  ],
+  "seo": {
+    "title": "Rwanda Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Rwanda with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "rwanda hotels",
+      "rwanda travel",
+      "rwanda luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/rwanda",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/rwanda",
+      "es": "https://mondoexplora.com/es/country/rwanda",
+      "fr": "https://mondoexplora.com/fr/country/rwanda",
+      "it": "https://mondoexplora.com/it/country/rwanda"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Thailand",
+  "code": "TH",
+  "hero_title": "Thailand Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Thailand.",
+  "hero_image": "https://images.luxuryescapes.com/k8poq69wndgino863vk",
+  "popular_destinations": [
+    {
+      "name": "Bangkok",
+      "slug": "bangkok",
+      "image": "https://images.luxuryescapes.com/k8poq69wndgino863vk",
+      "description": "Explore Bangkok with luxury accommodations",
+      "hotel_count": 45,
+      "hotel_deals": 45,
+      "avg_price": 186
+    },
+    {
+      "name": "Phuket",
+      "slug": "phuket",
+      "image": "https://images.luxuryescapes.com/lld2vawldvt7ff0hs5s",
+      "description": "Explore Phuket with luxury accommodations",
+      "hotel_count": 44,
+      "hotel_deals": 44,
+      "avg_price": 303
+    },
+    {
+      "name": "Koh Samui",
+      "slug": "koh-samui",
+      "image": "https://images.luxuryescapes.com/bwde8oms87e4lp8re2aa",
+      "description": "Explore Koh Samui with luxury accommodations",
+      "hotel_count": 16,
+      "hotel_deals": 16,
+      "avg_price": 426
+    },
+    {
+      "name": "Hua Hin",
+      "slug": "hua-hin",
+      "image": "https://images.luxuryescapes.com/6j78i99gf4wtvcvciqg8",
+      "description": "Explore Hua Hin with luxury accommodations",
+      "hotel_count": 11,
+      "hotel_deals": 11,
+      "avg_price": 171
+    },
+    {
+      "name": "Khao Lak",
+      "slug": "khao-lak",
+      "image": "https://images.luxuryescapes.com/7l13kkeqiq8vz78ycn",
+      "description": "Explore Khao Lak with luxury accommodations",
+      "hotel_count": 10,
+      "hotel_deals": 10,
+      "avg_price": 177
+    },
+    {
+      "name": "Pattaya",
+      "slug": "pattaya",
+      "image": "https://images.luxuryescapes.com/0b2ts9ou9s1h9wrmuzp",
+      "description": "Explore Pattaya with luxury accommodations",
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 173
+    }
+  ],
+  "seo": {
+    "title": "Thailand Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Thailand with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "thailand hotels",
+      "thailand travel",
+      "thailand luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/thailand",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/thailand",
+      "es": "https://mondoexplora.com/es/country/thailand",
+      "fr": "https://mondoexplora.com/fr/country/thailand",
+      "it": "https://mondoexplora.com/it/country/thailand"
+    }
+  }
+}

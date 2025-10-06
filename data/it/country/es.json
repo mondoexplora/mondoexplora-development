@@ -1,0 +1,61 @@
+{
+  "name": "Spain",
+  "code": "ES",
+  "hero_title": "Spain Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Spain.",
+  "hero_image": "https://images.luxuryescapes.com/19khg02a69wxpjyz301",
+  "popular_destinations": [
+    {
+      "name": "Barcelona",
+      "slug": "barcelona",
+      "image": "https://images.luxuryescapes.com/19khg02a69wxpjyz301",
+      "description": "Explore Barcelona with luxury accommodations"
+    },
+    {
+      "name": "Mallorca",
+      "slug": "mallorca",
+      "image": "https://images.luxuryescapes.com/x6nplgbr7meet166drit",
+      "description": "Explore Mallorca with luxury accommodations"
+    },
+    {
+      "name": "Marbella",
+      "slug": "marbella",
+      "image": "https://images.luxuryescapes.com/di2hjl53fdqkt549zx8",
+      "description": "Explore Marbella with luxury accommodations"
+    },
+    {
+      "name": "Santo Tomás",
+      "slug": "santo-tomás",
+      "image": "https://images.luxuryescapes.com/b4pv70ucvo7i5fz6gx35",
+      "description": "Explore Santo Tomás with luxury accommodations"
+    },
+    {
+      "name": "Analucia",
+      "slug": "analucia",
+      "image": "https://images.luxuryescapes.com/3khpetlbt8zc1np8nbn",
+      "description": "Explore Analucia with luxury accommodations"
+    },
+    {
+      "name": "Basque Country",
+      "slug": "basque-country",
+      "image": "https://images.luxuryescapes.com/ay36zu70bb3gk4pypa2",
+      "description": "Explore Basque Country with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Spain Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Spain con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "spain hotels",
+      "spain travel",
+      "spain luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/es",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/es",
+      "es": "https://mondoexplora.com/es/country/es",
+      "fr": "https://mondoexplora.com/fr/country/es",
+      "it": "https://mondoexplora.com/it/country/es"
+    }
+  }
+}

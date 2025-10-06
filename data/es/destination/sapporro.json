@@ -1,0 +1,50 @@
+{
+  "city": "Sapporro",
+  "country": "Japan",
+  "country_code": "JP",
+  "hero_title": "Hoteles en Sapporro",
+  "description": "Descubre los mejores hoteles en Sapporro, Japan. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/2c1hdb72udhic6uhw92s",
+  "hotels": [
+    {
+      "vendor_name": "Holiday Inn Sapporo Susukino",
+      "offer_country_name": "Japan",
+      "location_heading": "Sapporro",
+      "title": "Stylish Sapporo Susukino City Break Near Odori Park",
+      "description": "Located at the heart of Sapporo’s vivacious entertainment district, ANA Holiday Inn Sapporo Susukino, an IHG Hotel offers guests the perfect base to explore Hokkaido’s beguiling capital. Just a five-minute walk from the iconic flower gardens of Odori Park - site of the world-famous Sapporo Snow festival - and a plethora of nightclubs, bars and izakayas, return after days spent in snow or sunshine to laidback Japanese favourites at All Day Dining Verve.",
+      "location_subheading": "Japan",
+      "price": 34,
+      "original_price": 34,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DI5viAAD",
+      "hero_image": "https://images.luxuryescapes.com/2c1hdb72udhic6uhw92s",
+      "image_two": "https://images.luxuryescapes.com/4nttixzpuq5yjlyrtv06",
+      "image_three": "https://images.luxuryescapes.com/xus9xqh39wg637216v8e",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Sapporro - Japan Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Sapporro, Japan con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "sapporro hotels",
+      "sapporro travel",
+      "japan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/sapporro",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/sapporro",
+      "es": "https://mondoexplora.com/es/destination/sapporro",
+      "fr": "https://mondoexplora.com/fr/destination/sapporro",
+      "it": "https://mondoexplora.com/it/destination/sapporro"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 34,
+    "average_discount": 0
+  }
+}

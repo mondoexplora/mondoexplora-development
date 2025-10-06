@@ -1,0 +1,61 @@
+{
+  "name": "South Korea",
+  "code": "KR",
+  "hero_title": "South Korea Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en South Korea.",
+  "hero_image": "https://images.luxuryescapes.com/1josvjc6h3t6on38wem",
+  "popular_destinations": [
+    {
+      "name": "Busan",
+      "slug": "busan",
+      "image": "https://images.luxuryescapes.com/1josvjc6h3t6on38wem",
+      "description": "Explore Busan with luxury accommodations"
+    },
+    {
+      "name": "Incheon",
+      "slug": "incheon",
+      "image": "https://images.luxuryescapes.com/2k92v6vx6oo52top7gy7v",
+      "description": "Explore Incheon with luxury accommodations"
+    },
+    {
+      "name": "Jeju",
+      "slug": "jeju",
+      "image": "https://images.luxuryescapes.com/6yxj9ykpkouarbv213yi",
+      "description": "Explore Jeju with luxury accommodations"
+    },
+    {
+      "name": "Pyeongchang",
+      "slug": "pyeongchang",
+      "image": "https://images.luxuryescapes.com/npmejqgghskp0x4ux6qi",
+      "description": "Explore Pyeongchang with luxury accommodations"
+    },
+    {
+      "name": "Seoul",
+      "slug": "seoul",
+      "image": "https://images.luxuryescapes.com/ajgt2jjmgw1uwzqw59z9",
+      "description": "Explore Seoul with luxury accommodations"
+    },
+    {
+      "name": "Suwon",
+      "slug": "suwon",
+      "image": "https://images.luxuryescapes.com/qddud8bshi7oqvuimtz",
+      "description": "Explore Suwon with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "South Korea Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en South Korea con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "south korea hotels",
+      "south korea travel",
+      "south korea luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/kr",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/kr",
+      "es": "https://mondoexplora.com/es/country/kr",
+      "fr": "https://mondoexplora.com/fr/country/kr",
+      "it": "https://mondoexplora.com/it/country/kr"
+    }
+  }
+}

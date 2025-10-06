@@ -1,0 +1,50 @@
+{
+  "city": "Cordoba",
+  "country": "Spain",
+  "country_code": "ES",
+  "hero_title": "Hôtels à Cordoba",
+  "description": "Découvrez les meilleurs hôtels à Cordoba, Spain. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/j0n5h663swiges9sqgd",
+  "hotels": [
+    {
+      "vendor_name": "Hospes Palacio del Bailío",
+      "offer_country_name": "Spain",
+      "location_heading": "Cordoba",
+      "title": "Five-Star Cordoba Stay within a Roman-Style Villa",
+      "description": "Built with a thoughtfully resorted Roman-style villa, Hospes Palacio del Bailío is an oasis in the centre of Cordoba that combines old-world luxury with modern touches. Escape to this urban retreat in city's heart and explore nearby sights including the Cordoba mosque just a short walk away. Plunge into a crystal-clear pool framed by fruit trees, dine on locally inspired dishes at Arbequina restaurant, be pampered with soothing massage at Bodnya Spa or soak at the hotel's indoor Roman Baths.",
+      "location_subheading": "Spain",
+      "price": 155,
+      "original_price": 155,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000BeZZZAA3",
+      "hero_image": "https://images.luxuryescapes.com/j0n5h663swiges9sqgd",
+      "image_two": "https://images.luxuryescapes.com/99zm3jxos8nii5ia7yun",
+      "image_three": "https://images.luxuryescapes.com/cdwsw9hniy4y44ziudo",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Cordoba - Spain Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Cordoba, Spain avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "cordoba hotels",
+      "cordoba travel",
+      "spain hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/cordoba",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/cordoba",
+      "es": "https://mondoexplora.com/es/destination/cordoba",
+      "fr": "https://mondoexplora.com/fr/destination/cordoba",
+      "it": "https://mondoexplora.com/it/destination/cordoba"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 155,
+    "average_discount": 0
+  }
+}

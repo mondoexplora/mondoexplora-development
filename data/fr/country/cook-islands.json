@@ -1,0 +1,37 @@
+{
+  "name": "Cook Islands",
+  "code": "CK",
+  "hero_title": "Cook Islands Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Cook Islands.",
+  "hero_image": "https://images.luxuryescapes.com/1kwjzsnq7ql852b3h2u",
+  "popular_destinations": [
+    {
+      "name": "Aitutaki",
+      "slug": "aitutaki",
+      "image": "https://images.luxuryescapes.com/1kwjzsnq7ql852b3h2u",
+      "description": "Explore Aitutaki with luxury accommodations"
+    },
+    {
+      "name": "Rarotonga",
+      "slug": "rarotonga",
+      "image": "https://images.luxuryescapes.com/n5pqu2pqliy98acsl56e",
+      "description": "Explore Rarotonga with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Cook Islands Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Cook Islands avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "cook islands hotels",
+      "cook islands travel",
+      "cook islands luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/ck",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ck",
+      "es": "https://mondoexplora.com/es/country/ck",
+      "fr": "https://mondoexplora.com/fr/country/ck",
+      "it": "https://mondoexplora.com/it/country/ck"
+    }
+  }
+}

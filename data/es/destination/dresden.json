@@ -1,0 +1,50 @@
+{
+  "city": "Dresden",
+  "country": "Germany",
+  "country_code": "DE",
+  "hero_title": "Hoteles en Dresden",
+  "description": "Descubre los mejores hoteles en Dresden, Germany. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/2azoqsxwtqodzq0p48ytf",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Indigo Dresden - Wettiner Platz",
+      "offer_country_name": "Germany",
+      "location_heading": "Dresden",
+      "title": "Dresden Stylish City Stay Minutes from Royal Palace",
+      "description": "A contemporary stay in the heart of Dresden's historical centre, Hotel Indigo Dresden - Wettiner Platz, an IHG Hotel, brings the treasures of this heritage city within easy reach. Wake refreshed in a stylish guest room with sumptuous bedding before starting your morning revitalising your body at the fitness centre. End your day with a tasty snack or cocktail at VOLT bar. Experience the art and culture Dresden has to offer from this cultured gateway.",
+      "location_subheading": "Germany",
+      "price": 81,
+      "original_price": 81,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CuiRLAAZ",
+      "hero_image": "https://images.luxuryescapes.com/2azoqsxwtqodzq0p48ytf",
+      "image_two": "https://images.luxuryescapes.com/nxszwtoa4w3th0xy44f",
+      "image_three": "https://images.luxuryescapes.com/jlh1osqfw9t14rur6jwv",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Dresden - Germany Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Dresden, Germany con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "dresden hotels",
+      "dresden travel",
+      "germany hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/dresden",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/dresden",
+      "es": "https://mondoexplora.com/es/destination/dresden",
+      "fr": "https://mondoexplora.com/fr/destination/dresden",
+      "it": "https://mondoexplora.com/it/destination/dresden"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 81,
+    "average_discount": 0
+  }
+}

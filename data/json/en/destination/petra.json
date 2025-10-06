@@ -1,0 +1,50 @@
+{
+  "city": "Petra",
+  "country": "Jordan",
+  "country_code": "JO",
+  "hero_title": "Hotels in Petra",
+  "description": "Discover the best hotels in Petra, Jordan. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/oucqhxejd6kir3hty13c",
+  "hotels": [
+    {
+      "vendor_name": "Mövenpick Resort Petra",
+      "offer_country_name": "Jordan",
+      "location_heading": "Petra",
+      "title": "Opulent Petra Five-Star Indulgence Steps from Rose-Red City with Seven Restaurants & Luxe Spa",
+      "description": "Immerse yourself in Petra’s ancient majesty from this exquisite retreat, just steps from the UNESCO-listed site’s entrance. Inside, ornate Arabesque design, handcrafted woodwork and warm stone accents create an atmosphere of refined Middle Eastern charm. After a day exploring Petra’s rose-red wonders, retreat to the serene outdoor pool or rejuvenate at the tranquil Zara Spa. Savour Jordanian, Mediterranean flavours and diverse culinary experiences across seven dining venues, from the rooftop Al Ghadeer Garden with panoramic views, to the ornate Al Maqa’ad Bar, reminiscent of Syrian palaces. Don't miss the resort's daily chocolate hour for a sweet indulgence. With unmatched access to Petra, this resort is a perfect gateway to exploring Jordan’s iconic wonder.",
+      "location_subheading": "Jordan",
+      "price": 93,
+      "original_price": 93,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000Ib17yYAB",
+      "hero_image": "https://images.luxuryescapes.com/oucqhxejd6kir3hty13c",
+      "image_two": "https://images.luxuryescapes.com/jjl2l0lyomyjo7fhmtyt",
+      "image_three": "https://images.luxuryescapes.com/nka5ksyjtpv7f9pk1fnf",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Petra - Jordan Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Petra, Jordan with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "petra hotels",
+      "petra travel",
+      "jordan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/petra",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/petra",
+      "es": "https://mondoexplora.com/es/destination/petra",
+      "fr": "https://mondoexplora.com/fr/destination/petra",
+      "it": "https://mondoexplora.com/it/destination/petra"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 93,
+    "average_discount": 0
+  }
+}

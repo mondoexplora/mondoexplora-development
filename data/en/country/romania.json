@@ -1,0 +1,34 @@
+{
+  "name": "Romania",
+  "code": "RO",
+  "hero_title": "Romania Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Romania.",
+  "hero_image": "https://images.luxuryescapes.com/kyiene3j3mywlnoydzmb",
+  "popular_destinations": [
+    {
+      "name": "Bucharest",
+      "slug": "bucharest",
+      "image": "https://images.luxuryescapes.com/kyiene3j3mywlnoydzmb",
+      "description": "Explore Bucharest with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 127
+    }
+  ],
+  "seo": {
+    "title": "Romania Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Romania with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "romania hotels",
+      "romania travel",
+      "romania luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/romania",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/romania",
+      "es": "https://mondoexplora.com/es/country/romania",
+      "fr": "https://mondoexplora.com/fr/country/romania",
+      "it": "https://mondoexplora.com/it/country/romania"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Saudi Arabia",
+  "code": "SA",
+  "hero_title": "Saudi Arabia Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Saudi Arabia.",
+  "hero_image": "https://images.luxuryescapes.com/0vs6z6jdlvlr0hlv7fy4",
+  "popular_destinations": [
+    {
+      "name": "Riyadh",
+      "slug": "riyadh",
+      "image": "https://images.luxuryescapes.com/0vs6z6jdlvlr0hlv7fy4",
+      "description": "Explore Riyadh with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 182
+    },
+    {
+      "name": "Makkah",
+      "slug": "makkah",
+      "image": "https://images.luxuryescapes.com/c1ke84zdaydoxm1b4ov",
+      "description": "Explore Makkah with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 183
+    },
+    {
+      "name": "Al Khobar",
+      "slug": "al-khobar",
+      "image": "https://images.luxuryescapes.com/uq4dj4oy59k6qqa89z",
+      "description": "Explore Al Khobar with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 115
+    },
+    {
+      "name": "Jeddah",
+      "slug": "jeddah",
+      "image": "https://images.luxuryescapes.com/21hcr3hlpih7q9uu5m7",
+      "description": "Explore Jeddah with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 106
+    },
+    {
+      "name": "Madinah",
+      "slug": "madinah",
+      "image": "https://images.luxuryescapes.com/jh71czm4z2sj6neby02",
+      "description": "Explore Madinah with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 150
+    },
+    {
+      "name": "Mecca",
+      "slug": "mecca",
+      "image": "https://images.luxuryescapes.com/ytlcwjut4qegkvzn0v8",
+      "description": "Explore Mecca with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 81
+    }
+  ],
+  "seo": {
+    "title": "Saudi Arabia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Saudi Arabia with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "saudi arabia hotels",
+      "saudi arabia travel",
+      "saudi arabia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/saudi-arabia",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/saudi-arabia",
+      "es": "https://mondoexplora.com/es/country/saudi-arabia",
+      "fr": "https://mondoexplora.com/fr/country/saudi-arabia",
+      "it": "https://mondoexplora.com/it/country/saudi-arabia"
+    }
+  }
+}

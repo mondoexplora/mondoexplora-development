@@ -1,0 +1,79 @@
+{
+  "name": "Hong Kong",
+  "code": "HK",
+  "hero_title": "Hong Kong Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Hong Kong.",
+  "hero_image": "https://images.luxuryescapes.com/bs2wnia0jljog5v2inag",
+  "popular_destinations": [
+    {
+      "name": "Hong Kong",
+      "slug": "hong-kong",
+      "image": "https://images.luxuryescapes.com/bs2wnia0jljog5v2inag",
+      "description": "Explore Hong Kong with luxury accommodations",
+      "hotel_count": 10,
+      "hotel_deals": 10,
+      "avg_price": 249
+    },
+    {
+      "name": "Kowloon",
+      "slug": "kowloon",
+      "image": "https://images.luxuryescapes.com/txlovkzc5phpvsfnc3i",
+      "description": "Explore Kowloon with luxury accommodations",
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 241
+    },
+    {
+      "name": "Hong Kong Island",
+      "slug": "hong-kong-island",
+      "image": "https://images.luxuryescapes.com/0aoy9vxd7f2i0n1pa135",
+      "description": "Explore Hong Kong Island with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 207
+    },
+    {
+      "name": "Causeway Bay",
+      "slug": "causeway-bay",
+      "image": "https://images.luxuryescapes.com/uvpm85ne8u02wh4teql",
+      "description": "Explore Causeway Bay with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 156
+    },
+    {
+      "name": "Central",
+      "slug": "central",
+      "image": "https://images.luxuryescapes.com/vwz7k3hbokme0g8jlce",
+      "description": "Explore Central with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 176
+    },
+    {
+      "name": "Hung Hom Bay",
+      "slug": "hung-hom-bay",
+      "image": "https://images.luxuryescapes.com/z8gma4zv6cgyq9h0gmt",
+      "description": "Explore Hung Hom Bay with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 166
+    }
+  ],
+  "seo": {
+    "title": "Hong Kong Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Hong Kong with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "hong kong hotels",
+      "hong kong travel",
+      "hong kong luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/hong-kong",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/hong-kong",
+      "es": "https://mondoexplora.com/es/country/hong-kong",
+      "fr": "https://mondoexplora.com/fr/country/hong-kong",
+      "it": "https://mondoexplora.com/it/country/hong-kong"
+    }
+  }
+}

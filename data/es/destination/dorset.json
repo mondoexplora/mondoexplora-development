@@ -1,0 +1,50 @@
+{
+  "city": "Dorset",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hoteles en Dorset",
+  "description": "Descubre los mejores hoteles en Dorset, United Kingdom. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/qou8ug5cre0wsik53d47",
+  "hotels": [
+    {
+      "vendor_name": "Moonfleet Manor Hotel",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Dorset",
+      "title": "Charming Dorset Georgian Manor Escape along Jurassic Coast with Daily Breakfast & Tranquil Spa",
+      "description": "Step back in time and discover the timeless charm of England's UNESCO World Heritage-listed Jurassic Coast with a stay at Moonfleet Manor. The generously restored Georgian homestead overlooking shingled Chesil Beach in Dorset offers a blend of old-world elegance and modern comfort. Relish refined dishes at the onsite restaurant, find refreshment at the indoor pool and day spa or just sit back and soak up jaw-dropping vistas over the English Channel.",
+      "location_subheading": "United Kingdom",
+      "price": 183,
+      "original_price": 183,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Gvp4KAAR",
+      "hero_image": "https://images.luxuryescapes.com/qou8ug5cre0wsik53d47",
+      "image_two": "https://images.luxuryescapes.com/9eqmnq01sc1kma4texu",
+      "image_three": "https://images.luxuryescapes.com/k9ir4jz01vlvvkmy471g",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Dorset - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Dorset, United Kingdom con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "dorset hotels",
+      "dorset travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/dorset",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/dorset",
+      "es": "https://mondoexplora.com/es/destination/dorset",
+      "fr": "https://mondoexplora.com/fr/destination/dorset",
+      "it": "https://mondoexplora.com/it/destination/dorset"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 183,
+    "average_discount": 0
+  }
+}

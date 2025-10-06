@@ -1,0 +1,79 @@
+{
+  "name": "Switzerland",
+  "code": "CH",
+  "hero_title": "Switzerland Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Switzerland.",
+  "hero_image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
+  "popular_destinations": [
+    {
+      "name": "Geneva",
+      "slug": "geneva",
+      "image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
+      "description": "Explore Geneva with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 402
+    },
+    {
+      "name": "Crans-Montana",
+      "slug": "crans-montana",
+      "image": "https://images.luxuryescapes.com/zrs5vhg3cpilfr5qk0j",
+      "description": "Explore Crans-Montana with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 513
+    },
+    {
+      "name": "Zurich",
+      "slug": "zurich",
+      "image": "https://images.luxuryescapes.com/avlbg2ent9eqezmxvv6nh",
+      "description": "Explore Zurich with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 148
+    },
+    {
+      "name": "Bern",
+      "slug": "bern",
+      "image": "https://images.luxuryescapes.com/t4lviawequ61lc6d4bq",
+      "description": "Explore Bern with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 369
+    },
+    {
+      "name": "Engelberg",
+      "slug": "engelberg",
+      "image": "https://images.luxuryescapes.com/l57tybstwrwgd6w4dw9j",
+      "description": "Explore Engelberg with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 540
+    },
+    {
+      "name": "Grindelwald",
+      "slug": "grindelwald",
+      "image": "https://images.luxuryescapes.com/htdvplf3m6pbqgfd6mhc",
+      "description": "Explore Grindelwald with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 413
+    }
+  ],
+  "seo": {
+    "title": "Switzerland Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Switzerland with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "switzerland hotels",
+      "switzerland travel",
+      "switzerland luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/switzerland",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/switzerland",
+      "es": "https://mondoexplora.com/es/country/switzerland",
+      "fr": "https://mondoexplora.com/fr/country/switzerland",
+      "it": "https://mondoexplora.com/it/country/switzerland"
+    }
+  }
+}

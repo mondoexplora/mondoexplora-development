@@ -1,0 +1,50 @@
+{
+  "city": "Carolina",
+  "country": "Puerto Rico",
+  "country_code": "PR",
+  "hero_title": "Hotels in Carolina",
+  "description": "Discover the best hotels in Carolina, Puerto Rico. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/l15mttyqsagbwin2jgj",
+  "hotels": [
+    {
+      "vendor_name": "Royal Sonesta San Juan Puerto Rico Resort",
+      "offer_country_name": "Puerto Rico",
+      "location_heading": "Carolina",
+      "title": "Luxurious Puerto Rico Beachfront Escape with Seven Restaurants & Bars",
+      "description": "White sand beaches and the turquoise waters of the Atlantic Ocean are just metres away with a stay at The Royal Sonesta San Juan. Overlooking Isla Verde Beach, this modern resort is your one-stop shop for any type of holiday - foodies can indulge at the seven restaurants and bars, spa savants will slip in serenity at Zen Spa Brisas, and sun-and-sand seekers are spoilt for choice, with a lagoon-style pool sitting metres from Isla Verde's shores. Should you be able to pull yourself away, vibrant nightlife options and glamorous shopping all await nearby.",
+      "location_subheading": "Puerto Rico",
+      "price": 250,
+      "original_price": 250,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000007m4kwAAA",
+      "hero_image": "https://images.luxuryescapes.com/l15mttyqsagbwin2jgj",
+      "image_two": "https://images.luxuryescapes.com/dleycsnq9xhhx5tfcx3",
+      "image_three": "https://images.luxuryescapes.com/s49avv0pipfete6jqvpi",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Carolina - Puerto Rico Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Carolina, Puerto Rico with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "carolina hotels",
+      "carolina travel",
+      "puerto rico hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/carolina",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/carolina",
+      "es": "https://mondoexplora.com/es/destination/carolina",
+      "fr": "https://mondoexplora.com/fr/destination/carolina",
+      "it": "https://mondoexplora.com/it/destination/carolina"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 250,
+    "average_discount": 0
+  }
+}

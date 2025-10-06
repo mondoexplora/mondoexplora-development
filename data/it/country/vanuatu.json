@@ -1,0 +1,61 @@
+{
+  "name": "Vanuatu",
+  "code": "VU",
+  "hero_title": "Vanuatu Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Vanuatu.",
+  "hero_image": "https://images.luxuryescapes.com/4hinh53vil5qmh6me5a",
+  "popular_destinations": [
+    {
+      "name": "Espiritu Santo",
+      "slug": "espiritu-santo",
+      "image": "https://images.luxuryescapes.com/4hinh53vil5qmh6me5a",
+      "description": "Explore Espiritu Santo with luxury accommodations"
+    },
+    {
+      "name": "Port Vila",
+      "slug": "port-vila",
+      "image": "https://images.luxuryescapes.com/rl7etknqx95a8c0ops9c",
+      "description": "Explore Port Vila with luxury accommodations"
+    },
+    {
+      "name": "Efate",
+      "slug": "efate",
+      "image": "https://images.luxuryescapes.com/4kdff5t96skkyxrw224",
+      "description": "Explore Efate with luxury accommodations"
+    },
+    {
+      "name": "Eratap",
+      "slug": "eratap",
+      "image": "https://images.luxuryescapes.com/tztcyx70boyo7bpzsila",
+      "description": "Explore Eratap with luxury accommodations"
+    },
+    {
+      "name": "Santo Espiritu",
+      "slug": "santo-espiritu",
+      "image": "https://images.luxuryescapes.com/bukvjvhxltmcj38y8e0i",
+      "description": "Explore Santo Espiritu with luxury accommodations"
+    },
+    {
+      "name": "Tanna",
+      "slug": "tanna",
+      "image": "https://images.luxuryescapes.com/ttw9qumpleuc74tcuhgi",
+      "description": "Explore Tanna with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Vanuatu Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Vanuatu con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "vanuatu hotels",
+      "vanuatu travel",
+      "vanuatu luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/vu",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/vu",
+      "es": "https://mondoexplora.com/es/country/vu",
+      "fr": "https://mondoexplora.com/fr/country/vu",
+      "it": "https://mondoexplora.com/it/country/vu"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Kiama",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hoteles en Kiama",
+  "description": "Descubre los mejores hoteles en Kiama, Australia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/md9t2vew39gw9csn0ea",
+  "hotels": [
+    {
+      "vendor_name": "The Sebel Harbourside Kiama",
+      "offer_country_name": "Australia",
+      "location_heading": "Kiama",
+      "title": "South Coast NSW Kiama Harbourside Hotel with Restaurant",
+      "description": "Escape to harbourside charm at this serene hotel, ideally located in the picturesque seaside town of Kiama. This elegant retreat offers beautifully appointed rooms and a state-of-the-art fitness centre. Plus, tuck into a mouth-watering selection of local produce at Yves bar and bistro as you look out over the Pacific Ocean. Just a stone's throw away, you'll find the Kiama Blowhole, a natural spectacle that's a must-visit, and the thrilling Jamberoo Action Park. Savour the region's fresh seafood at local eateries, explore the stunning Minnamurra Rainforest, or stroll along the Kiama Coastal Walk for breathtaking ocean views.",
+      "location_subheading": "Australia",
+      "price": 135,
+      "original_price": 135,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002J2xlIAC",
+      "hero_image": "https://images.luxuryescapes.com/md9t2vew39gw9csn0ea",
+      "image_two": "https://images.luxuryescapes.com/kgtptkgidejhr7ks31ln",
+      "image_three": "https://images.luxuryescapes.com/xp7lw3fbtamlpbn05ce",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Kiama - Australia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Kiama, Australia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "kiama hotels",
+      "kiama travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/kiama",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/kiama",
+      "es": "https://mondoexplora.com/es/destination/kiama",
+      "fr": "https://mondoexplora.com/fr/destination/kiama",
+      "it": "https://mondoexplora.com/it/destination/kiama"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 135,
+    "average_discount": 0
+  }
+}

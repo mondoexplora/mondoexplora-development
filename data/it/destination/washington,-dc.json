@@ -1,0 +1,50 @@
+{
+  "city": "Washington, DC",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotel a Washington, DC",
+  "description": "Scopri i migliori hotel a Washington, DC, United States. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/0xcie9f4ylirfkpwvq0d",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Zena",
+      "offer_country_name": "United States",
+      "location_heading": "Washington, DC",
+      "title": "Bold Washington DC Art Hotel near Logan Circle with Rooftop Pool",
+      "description": "Leave ordinary at the door the moment you enter Hotel Zena, A Viceroy Urban Retreat in Washington DC, a ‘herstory’-defining hotel located on vibrant 14th Street, near Logan Circle. In an area already buzzing with renowned chef-helmed restaurants and stylish bars, this eclectic hotel is poised to spark conversation. Its powerful 8,000-piece art collection, simply titled ‘Her’, guarantees it. Enter and be blown away by thought-provoking art that leaves room for contemplation, luxurious settings that invite relaxation and a location that affords easy access to DC’s most storied and iconic locations. Discover U Street, The White House and thriving Logan Circle, packed with shops, galleries and distilleries, then return to the hotel and enjoy craft cocktails with a modern twist at Figleaf Bar & Lounge or Hedy's Rooftop (seasonal), where a pool and bar await.",
+      "location_subheading": "United States",
+      "price": 166,
+      "original_price": 166,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000003HLU0AAO",
+      "hero_image": "https://images.luxuryescapes.com/0xcie9f4ylirfkpwvq0d",
+      "image_two": "https://images.luxuryescapes.com/dvfuowp7ljoithlbwlg9",
+      "image_three": "https://images.luxuryescapes.com/vv7u9t0xrfpzngvwni7d",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Washington, DC - Stati Uniti Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Washington, DC, United States con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "washington, dc hotels",
+      "washington, dc travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/washington,-dc",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/washington,-dc",
+      "es": "https://mondoexplora.com/es/destination/washington,-dc",
+      "fr": "https://mondoexplora.com/fr/destination/washington,-dc",
+      "it": "https://mondoexplora.com/it/destination/washington,-dc"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 166,
+    "average_discount": 0
+  }
+}

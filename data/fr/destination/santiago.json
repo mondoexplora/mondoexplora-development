@@ -1,0 +1,50 @@
+{
+  "city": "Santiago",
+  "country": "Chile",
+  "country_code": "CL",
+  "hero_title": "Hôtels à Santiago",
+  "description": "Découvrez les meilleurs hôtels à Santiago, Chile. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/dnbradw7cdpp8afboqzkd",
+  "hotels": [
+    {
+      "vendor_name": "Mandarin Oriental Santiago",
+      "offer_country_name": "Chile",
+      "location_heading": "Santiago",
+      "title": "Sophisticated Five-Star Retreat in the Heart of Santiago with Oasis-Inspired Pool",
+      "description": "Discover the perfect combination of welcoming locals and bustling nightlife with a luxurious stay at Mandarin Oriental Santiago. Lose yourself in the beautiful streets as you explore the historic cultural landmarks, indulge in authentic street food cuisine and discover the vibrant party lifestyle of the Bellavista district. This lavish resort is an oasis to escape the Chile heat, with an extravagant pool featuring a tropical-inspired waterfall, and three onsite restaurants to please any appetite.",
+      "location_subheading": "Chile",
+      "price": 152,
+      "original_price": 152,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CO7cGAAT",
+      "hero_image": "https://images.luxuryescapes.com/dnbradw7cdpp8afboqzkd",
+      "image_two": "https://images.luxuryescapes.com/zgzrnuyargh4jq88ygnm",
+      "image_three": "https://images.luxuryescapes.com/jj31t9eavfgqkklp5b1j",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Santiago - Chile Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Santiago, Chile avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "santiago hotels",
+      "santiago travel",
+      "chile hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/santiago",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/santiago",
+      "es": "https://mondoexplora.com/es/destination/santiago",
+      "fr": "https://mondoexplora.com/fr/destination/santiago",
+      "it": "https://mondoexplora.com/it/destination/santiago"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 152,
+    "average_discount": 0
+  }
+}

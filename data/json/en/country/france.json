@@ -1,0 +1,79 @@
+{
+  "name": "France",
+  "code": "FR",
+  "hero_title": "France Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in France.",
+  "hero_image": "https://images.luxuryescapes.com/7he4ufg73dxmsans6e",
+  "popular_destinations": [
+    {
+      "name": "Paris",
+      "slug": "paris",
+      "image": "https://images.luxuryescapes.com/7he4ufg73dxmsans6e",
+      "description": "Explore Paris with luxury accommodations",
+      "hotel_count": 26,
+      "hotel_deals": 26,
+      "avg_price": 482
+    },
+    {
+      "name": "Lyon",
+      "slug": "lyon",
+      "image": "https://images.luxuryescapes.com/f1xh8vumeq649231cg7k",
+      "description": "Explore Lyon with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 153
+    },
+    {
+      "name": "Bordeaux",
+      "slug": "bordeaux",
+      "image": "https://images.luxuryescapes.com/e4numb74ohjtqxhumpx",
+      "description": "Explore Bordeaux with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 180
+    },
+    {
+      "name": "Cannes",
+      "slug": "cannes",
+      "image": "https://images.luxuryescapes.com/flt6lr5q45awf39h8db5",
+      "description": "Explore Cannes with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 230
+    },
+    {
+      "name": "Strasbourg",
+      "slug": "strasbourg",
+      "image": "https://images.luxuryescapes.com/np24d5zldf4ymaqeexhs",
+      "description": "Explore Strasbourg with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 120
+    },
+    {
+      "name": "Biarritz",
+      "slug": "biarritz",
+      "image": "https://images.luxuryescapes.com/z6lmqhrfcd3v345u2sqa",
+      "description": "Explore Biarritz with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 224
+    }
+  ],
+  "seo": {
+    "title": "France Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in France with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "france hotels",
+      "france travel",
+      "france luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/fr",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/fr",
+      "es": "https://mondoexplora.com/es/country/fr",
+      "fr": "https://mondoexplora.com/fr/country/fr",
+      "it": "https://mondoexplora.com/it/country/fr"
+    }
+  }
+}

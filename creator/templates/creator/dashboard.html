@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Content Creator Dashboard - MondoExplora</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #f8fafc;
+            color: #1f2937;
+        }
+        
+        .dashboard-container {
+            display: flex;
+            min-height: 100vh;
+        }
+        
+        .sidebar {
+            width: 280px;
+            background: white;
+            border-right: 1px solid #e5e7eb;
+            padding: 2rem 0;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+        }
+        
+        .sidebar-header {
+            padding: 0 2rem 2rem;
+            border-bottom: 1px solid #e5e7eb;
+            margin-bottom: 2rem;
+        }
+        
+        .sidebar-header h1 {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: #ff5a5f;
+            margin-bottom: 0.5rem;
+        }
+        
+        .sidebar-header p {
+            color: #6b7280;
+            font-size: 0.875rem;
+        }
+        
+        .nav-menu {
+            list-style: none;
+            padding: 0 2rem;
+        }
+        
+        .nav-item {
+            margin-bottom: 0.5rem;
+        }
+        
+        .nav-link {
+            display: flex;
+            align-items: center;
+            padding: 0.75rem 1rem;
+            color: #374151;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: all 0.2s;
+            font-weight: 500;
+        }
+        
+        .nav-link:hover {
+            background: #f3f4f6;
+            color: #ff5a5f;
+        }
+        
+        .nav-link.active {
+            background: #ff5a5f;
+            color: white;
+        }
+        
+        .nav-link i {
+            margin-right: 0.75rem;
+            width: 20px;
+        }
+        
+        .main-content {
+            flex: 1;
+            margin-left: 280px;
+            padding: 2rem;
+        }
+        
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+        
+        .header h2 {
+            font-size: 1.875rem;
+            font-weight: 700;
+            color: #1f2937;
+        }
+        
+        .user-menu {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+        
+        .user-avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: #ff5a5f;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: 600;
+        }
+        
+        .logout-btn {
+            padding: 0.5rem 1rem;
+            background: #f3f4f6;
+            color: #374151;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 0.875rem;
+            transition: background 0.2s;
+        }
+        
+        .logout-btn:hover {
+            background: #e5e7eb;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            border: 1px solid #e5e7eb;
+        }
+        
+        .stat-card h3 {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: #6b7280;
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #1f2937;
+            margin-bottom: 0.25rem;
+        }
+        
+        .stat-change {
+            font-size: 0.875rem;
+            color: #059669;
+        }
+        
+        .recent-posts {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            border: 1px solid #e5e7eb;
+            overflow: hidden;
+        }
+        
+        .recent-posts-header {
+            padding: 1.5rem;
+            border-bottom: 1px solid #e5e7eb;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .recent-posts-header h3 {
+            font-size: 1.125rem;
+            font-weight: 600;
+            color: #1f2937;
+        }
+        
+        .view-all-btn {
+            padding: 0.5rem 1rem;
+            background: #ff5a5f;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 0.875rem;
+            font-weight: 500;
+            transition: background 0.2s;
+        }
+        
+        .view-all-btn:hover {
+            background: #e53e3e;
+        }
+        
+        .post-item {
+            padding: 1.5rem;
+            border-bottom: 1px solid #e5e7eb;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .post-item:last-child {
+            border-bottom: none;
+        }
+        
+        .post-info h4 {
+            font-size: 1rem;
+            font-weight: 600;
+            color: #1f2937;
+            margin-bottom: 0.25rem;
+        }
+        
+        .post-meta {
+            display: flex;
+            gap: 1rem;
+            font-size: 0.875rem;
+            color: #6b7280;
+        }
+        
+        .post-status {
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        
+        .status-draft {
+            background: #fef3c7;
+            color: #92400e;
+        }
+        
+        .status-published {
+            background: #d1fae5;
+            color: #065f46;
+        }
+        
+        .status-submitted {
+            background: #dbeafe;
+            color: #1e40af;
+        }
+        
+        .quick-actions {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        
+        .action-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            border: 1px solid #e5e7eb;
+            text-align: center;
+            text-decoration: none;
+            color: inherit;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .action-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        
+        .action-card i {
+            font-size: 2rem;
+            color: #ff5a5f;
+            margin-bottom: 1rem;
+        }
+        
+        .action-card h3 {
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+        
+        .action-card p {
+            font-size: 0.875rem;
+            color: #6b7280;
+        }
+        
+        @media (max-width: 768px) {
+            .sidebar {
+                transform: translateX(-100%);
+                transition: transform 0.3s;
+            }
+            
+            .main-content {
+                margin-left: 0;
+            }
+            
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .quick-actions {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard-container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h1><i class="fas fa-pen-fancy"></i> Creator Portal</h1>
+                <p>Welcome back, {{ creator.full_name }}</p>
+            </div>
+            
+            <nav class="nav-menu">
+                <div class="nav-item">
+                    <a href="{{ url_for('creator.dashboard') }}" class="nav-link active">
+                        <i class="fas fa-tachometer-alt"></i>
+                        Dashboard
+                    </a>
+                </div>
+                <div class="nav-item">
+                    <a href="{{ url_for('creator.posts') }}" class="nav-link">
+                        <i class="fas fa-file-alt"></i>
+                        My Posts
+                    </a>
+                </div>
+                <div class="nav-item">
+                    <a href="{{ url_for('creator.create_post') }}" class="nav-link">
+                        <i class="fas fa-plus"></i>
+                        Create Post
+                    </a>
+                </div>
+                <div class="nav-item">
+                    <a href="{{ url_for('creator.profile') }}" class="nav-link">
+                        <i class="fas fa-user"></i>
+                        Profile
+                    </a>
+                </div>
+                <div class="nav-item">
+                    <a href="{{ url_for('creator.analytics') }}" class="nav-link">
+                        <i class="fas fa-chart-bar"></i>
+                        Analytics
+                    </a>
+                </div>
+            </nav>
+        </aside>
+        
+        <main class="main-content">
+            <div class="header">
+                <h2>Dashboard</h2>
+                <div class="user-menu">
+                    <div class="user-avatar">
+                        {{ creator.full_name[0] }}
+                    </div>
+                    <a href="{{ url_for('creator.logout') }}" class="logout-btn">
+                        <i class="fas fa-sign-out-alt"></i> Logout
+                    </a>
+                </div>
+            </div>
+            
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <h3>Total Posts</h3>
+                    <div class="stat-value">{{ stats.total_posts }}</div>
+                    <div class="stat-change">All time</div>
+                </div>
+                <div class="stat-card">
+                    <h3>Published Posts</h3>
+                    <div class="stat-value">{{ stats.published_posts }}</div>
+                    <div class="stat-change">Live on site</div>
+                </div>
+                <div class="stat-card">
+                    <h3>Draft Posts</h3>
+                    <div class="stat-value">{{ stats.draft_posts }}</div>
+                    <div class="stat-change">In progress</div>
+                </div>
+                <div class="stat-card">
+                    <h3>Total Views</h3>
+                    <div class="stat-value">{{ stats.total_views }}</div>
+                    <div class="stat-change">All posts</div>
+                </div>
+            </div>
+            
+            <div class="quick-actions">
+                <a href="{{ url_for('creator.create_post') }}" class="action-card">
+                    <i class="fas fa-plus-circle"></i>
+                    <h3>Create New Post</h3>
+                    <p>Start writing your next travel story</p>
+                </a>
+                <a href="{{ url_for('creator.posts') }}" class="action-card">
+                    <i class="fas fa-edit"></i>
+                    <h3>Edit Posts</h3>
+                    <p>Manage and update your existing posts</p>
+                </a>
+                <a href="{{ url_for('creator.profile') }}" class="action-card">
+                    <i class="fas fa-user-edit"></i>
+                    <h3>Update Profile</h3>
+                    <p>Keep your profile information current</p>
+                </a>
+                <a href="{{ url_for('creator.analytics') }}" class="action-card">
+                    <i class="fas fa-chart-line"></i>
+                    <h3>View Analytics</h3>
+                    <p>Track your post performance</p>
+                </a>
+            </div>
+            
+            <div class="recent-posts">
+                <div class="recent-posts-header">
+                    <h3>Recent Posts</h3>
+                    <a href="{{ url_for('creator.posts') }}" class="view-all-btn">View All</a>
+                </div>
+                
+                {% if posts %}
+                    {% for post in posts %}
+                    <div class="post-item">
+                        <div class="post-info">
+                            <h4>{{ post.title }}</h4>
+                            <div class="post-meta">
+                                <span>{{ post.created_at.strftime('%B %d, %Y') }}</span>
+                                <span>{{ post.views }} views</span>
+                            </div>
+                        </div>
+                        <div class="post-status status-{{ post.status }}">
+                            {{ post.status }}
+                        </div>
+                    </div>
+                    {% endfor %}
+                {% else %}
+                    <div class="post-item">
+                        <div class="post-info">
+                            <h4>No posts yet</h4>
+                            <div class="post-meta">
+                                <span>Start by creating your first post</span>
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+            </div>
+        </main>
+    </div>
+</body>
+</html> 

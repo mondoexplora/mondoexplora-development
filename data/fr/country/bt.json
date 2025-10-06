@@ -1,0 +1,31 @@
+{
+  "name": "Bhutan",
+  "code": "BT",
+  "hero_title": "Bhutan Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Bhutan.",
+  "hero_image": "https://images.luxuryescapes.com/3o5h7ksvwk9vz587ynsn",
+  "popular_destinations": [
+    {
+      "name": "Paro",
+      "slug": "paro",
+      "image": "https://images.luxuryescapes.com/3o5h7ksvwk9vz587ynsn",
+      "description": "Explore Paro with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Bhutan Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Bhutan avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "bhutan hotels",
+      "bhutan travel",
+      "bhutan luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/bt",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/bt",
+      "es": "https://mondoexplora.com/es/country/bt",
+      "fr": "https://mondoexplora.com/fr/country/bt",
+      "it": "https://mondoexplora.com/it/country/bt"
+    }
+  }
+}

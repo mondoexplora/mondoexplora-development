@@ -1,0 +1,50 @@
+{
+  "city": "Providence",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hoteles en Providence",
+  "description": "Descubre los mejores hoteles en Providence, United States. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/kfw4xfbf0jxwpwivym3",
+  "hotels": [
+    {
+      "vendor_name": "Omni Providence Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Providence",
+      "title": "Sophisticated Rhode Island Providence Escape with Onsite Steakhouse & Fine Dining Restaurant",
+      "description": "Stay in the heart of Rhode Island at this sophisticated and an elegant retreat in the downtown Providence. You'll have the best of Providence at your fingertips, ideally positioned to explore the city's food scene, known for its fresh seafood, and connected to both the Rhode Island Convention Center and the Providence Place Mall. Savour a delectable menu at Fleming’s Steakhouse, featuring prime cuts of meat and an extensive wine list, or refine your palette at Fleur Providence, serving elegant plates of Parisian-Mediterranean cuisine.",
+      "location_subheading": "United States",
+      "price": 154,
+      "original_price": 154,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002HiITIA0",
+      "hero_image": "https://images.luxuryescapes.com/kfw4xfbf0jxwpwivym3",
+      "image_two": "https://images.luxuryescapes.com/g6anw9e5pn8omh9ri9o",
+      "image_three": "https://images.luxuryescapes.com/2ly5ew02qym3546pujob",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Providence - Estados Unidos Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Providence, United States con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "providence hotels",
+      "providence travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/providence",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/providence",
+      "es": "https://mondoexplora.com/es/destination/providence",
+      "fr": "https://mondoexplora.com/fr/destination/providence",
+      "it": "https://mondoexplora.com/it/destination/providence"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 154,
+    "average_discount": 0
+  }
+}

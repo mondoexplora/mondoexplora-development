@@ -1,0 +1,246 @@
+1:"$Sreact.fragment"
+2:I[7555,[],""]
+3:I[1295,[],""]
+6:I[9665,[],"OutletBoundary"]
+8:I[4911,[],"AsyncMetadataOutlet"]
+a:I[9665,[],"ViewportBoundary"]
+c:I[9665,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[8393,[],""]
+:HL["/_next/static/media/4cf2300e9c8272f7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/8fb98cb587914de9.css","style"]
+0:{"P":null,"b":"xPRLP5eucW-PGQyZGiq0q","p":"","c":["","en","destination","sanur",""],"i":false,"f":[[["",{"children":[["lang","en","d"],{"children":["destination",{"children":[["city","sanur","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8fb98cb587914de9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_188709 __variable_9a8899 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["lang","en","d"],["$","$1","c",{"children":[null,"$L4"]}],{"children":["destination",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["city","sanur","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+4:["$","div",null,{"data-lang":"en","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+10:I[8175,[],"IconMark"]
+11:I[7587,["244","static/chunks/244-75f77586f1edfee3.js","420","static/chunks/app/%5Blang%5D/destination/%5Bcity%5D/page-30a0d79e28789164.js"],"default"]
+9:{"metadata":[["$","title","0",{"children":"Best Hotels in Sanur, Indonesia | 7+ Luxury Accommodations | MondoExplora | MondoExplora"}],["$","meta","1",{"name":"description","content":"Discover the best luxury hotels in Sanur, Indonesia. Compare 7+ hotels with exclusive deals, read reviews, and book with confidence. Best rates guaranteed with up to 60% off."}],["$","meta","2",{"name":"author","content":"MondoExplora Team"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"keywords","content":"Sanur hotels,luxury hotels Sanur,hotels in Sanur,Sanur Indonesia hotels,best hotels Sanur,hotel deals Sanur,Sanur accommodation,luxury accommodation Sanur,Sanur hotels"}],["$","meta","5",{"name":"creator","content":"MondoExplora"}],["$","meta","6",{"name":"publisher","content":"MondoExplora"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","9",{"name":"category","content":"travel"}],["$","meta","10",{"name":"classification","content":"Travel and Tourism"}],["$","meta","11",{"name":"geo.region","content":"Indonesia"}],["$","meta","12",{"name":"geo.placename","content":"Sanur"}],["$","link","13",{"rel":"canonical","href":"https://mondoexplora.com/en/destination/sanur/"}],["$","meta","14",{"name":"google-site-verification","content":"google-site-verification-code"}],["$","meta","15",{"property":"og:title","content":"Best Hotels in Sanur, Indonesia | 7+ Luxury Accommodations | MondoExplora"}],["$","meta","16",{"property":"og:description","content":"Discover the best luxury hotels in Sanur, Indonesia. Compare 7+ hotels with exclusive deals, read reviews, and book with confidence. Best rates guaranteed with up to 60% off."}],["$","meta","17",{"property":"og:url","content":"https://mondoexplora.com/en/destination/sanur/"}],["$","meta","18",{"property":"og:site_name","content":"MondoExplora"}],["$","meta","19",{"property":"og:locale","content":"en_US"}],["$","meta","20",{"property":"og:image","content":"https://images.luxuryescapes.com/ii6bt0mf63uxfrx7pi2u"}],["$","meta","21",{"property":"og:image:width","content":"1200"}],["$","meta","22",{"property":"og:image:height","content":"630"}],["$","meta","23",{"property":"og:image:alt","content":"Best Hotels in Sanur, Indonesia"}],["$","meta","24",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","25",{"name":"twitter:title","content":"Best Hotels in Sanur, Indonesia | 7+ Luxury Accommodations | MondoExplora"}],["$","meta","26",{"name":"twitter:description","content":"Discover the best luxury hotels in Sanur, Indonesia. Compare 7+ hotels with exclusive deals, read reviews, and book with confidence. Best rates guaranteed with up to 60% off."}],["$","meta","27",{"name":"twitter:image","content":"https://images.luxuryescapes.com/ii6bt0mf63uxfrx7pi2u"}],["$","link","28",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","29",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link","30",{"rel":"icon","href":"/favicon.ico","sizes":"32x32"}],["$","link","31",{"rel":"apple-touch-icon","href":"/favicon.svg","sizes":"180x180","type":"image/svg+xml"}],["$","$L10","32",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"
+12:T3777,{
+  "@context": "https://schema.org",
+  "@type": "TouristDestination",
+  "name": "Sanur",
+  "description": "Discover the best hotels in Sanur, Indonesia. Find exclusive deals and luxury accommodations.",
+  "containedInPlace": {
+    "@type": "Country",
+    "name": "Indonesia"
+  },
+  "url": "https://mondoexplora.com/en/destination/sanur",
+  "image": "https://images.luxuryescapes.com/ii6bt0mf63uxfrx7pi2u",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Hotels in Sanur",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "LodgingBusiness",
+          "description": "Unrivalled luxury awaits at this beachfront resort, set along Sanur’s pristine shores. Debuting in 2024 and now featuring even more high-end facilities - including another esteemed restaurant - The Meru Sanur has redefined resort opulence in the region. Suites are designed for indulgence, with intricate hand-carved millwork, striking traditional art, and private terraces overlooking lush Balinese gardens. A magnificent central pool sits just steps from the azure waters of Sanur Beach, while the ultra-sleek fitness centre and dedicated kids’ club cater to every type of traveller. Dining takes centre stage, with Arunika Restaurant offering international cuisines and live cooking stations, while Roso Restaurant celebrates Indonesian flavours. Sutasoma Lounge doubles as a library, where expert mixologists craft cocktails. The indulgence continues at Svasana Spa, with treatments ranging from relaxation massages to Balinese purification rituals. To top it off, there are complimentary wellness programs, including boxing, adventure cycling and sunrise yoga.",
+          "image": "https://images.luxuryescapes.com/ii6bt0mf63uxfrx7pi2u",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sanur",
+            "addressCountry": "Indonesia"
+          },
+          "priceRange": "$1209",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Free WiFi"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Luxury Accommodation"
+            }
+          ]
+        },
+        "price": 1209,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mondoexplora.com/en/destination/sanur"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "LodgingBusiness",
+          "description": "Discover a tropical oasis a short stroll from white-sand beaches and the seaside town of Sanur at The Pavilions Bali, ranked within the top 10% of properties on Tripadvisor. An idyllic honeymoon location or relaxed family destination, this exclusive villa complex is within easy reach of the area’s restaurants, markets and independent boutiques, filled with unique artisan gifts. Intimate and authentic, The Pavilions Bali is home to a collection of traditional Balinese-style villas, each nestled within the confines of a walled garden, most with private pools and all with butler service. This seclusion offers a heightened sense of privacy and romance. Cool off in your private pool (villa depending), work on your tan on your sundeck or have a night of romance dining under the stars in your private garden. While leaving your sumptuous sanctuary is optional, there’s more to explore. Discover true tranquility at The Pavilions Spa, where all-natural wellness rituals and treatments will leave you with a renewed feeling of comfort and peace. Sample local specialities and international favourites at Jahe Restaurant, which combines fresh ingredients and time-tested spices to create mouth-watering dishes, or opt for something a little more relaxed with cocktails and snacks served at the Poolside Bar.",
+          "image": "https://images.luxuryescapes.com/zsohf9cj9n0gqx8sgva9",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sanur",
+            "addressCountry": "Indonesia"
+          },
+          "priceRange": "$132",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Free WiFi"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Luxury Accommodation"
+            }
+          ]
+        },
+        "price": 132,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mondoexplora.com/en/destination/sanur"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "LodgingBusiness",
+          "description": "Bask in the intimate charms and experience uninterrupted tranquillity from this Sanur oasis, tucked away in a quaint spot near the Sanur Harbour. Kindle the romance as you retreat within the terracotta-toned walls of your expansive suite or villa, each complete with earthy designer interiors and luxurious amenities. Spend your days soaking up the Balinese sun, relax in the resort's exotic outdoor pool and pamper yourself with soul-soothing massages at Svaha Spa for a truly romantic escape. Savour a myriad of Japanese delicacies, including crunchy unagi maki and toro foiegrass sashimi, at the sophisticated Tsune Restaurant and sip on delicious cocktails. If you manage to tear away from the resort, the renowned beaches of Sanur and the Sindhu Night Market are within easy reach.",
+          "image": "https://images.luxuryescapes.com/zwu3qbbpbnwolyaj0s4",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sanur",
+            "addressCountry": "Indonesia"
+          },
+          "priceRange": "$80",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Free WiFi"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Luxury Accommodation"
+            }
+          ]
+        },
+        "price": 80,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mondoexplora.com/en/destination/sanur"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "LodgingBusiness",
+          "description": "Tap into eco-luxury along the glistening shores of Sanur's pristine beachfront at Maya Sanur Resort & Spa, a zen-inducing, five-star oasis where you can watch the sunrise over the ocean every morning. Then, watch it melt into the horizon every evening from the beachfront bar. This award-winning resort - winner of the 2020 Tripadvisor Travellers' Choice Award - is an architectural marvel with a wide choice of accommodation to suit guests’ preferences, from the nature-inspired rooms to private suites and pool retreats. Within five minutes’ walk, there is a myriad of world-class restaurants, while the swish onsite facilities offer everything you’d expect from a high-end beach resort. The award-winning spa promises holistic healing while the sunbeds surrounding the 158m lagoon pool - one of three resort pools - are the perfect place to while the day away. The resort is distinguished by its eco-green rooftop, a tranquil spot where guests can feel at one with nature. Enjoy complimentary access to the kids' club for your little ones and, in the fading hours of daylight, indulge at one of the four onsite dining venues.",
+          "image": "https://images.luxuryescapes.com/rw77c8x2ypua9v54ag89",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sanur",
+            "addressCountry": "Indonesia"
+          },
+          "priceRange": "$130",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Free WiFi"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Luxury Accommodation"
+            }
+          ]
+        },
+        "price": 130,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mondoexplora.com/en/destination/sanur"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "LodgingBusiness",
+          "description": "Immerse yourself in ultimate relaxation of the mind, body, and soul at The Samata by LifestyleRetreats on the island's East Coast. Designed for the health-conscious traveller, this stunning resort which featured in Tripadvisor's Traveller's Choice Awards for 2021, offers indulgent spa treatments, pilates, yoga, and meditation. If you want to get your heart rate up, there's a fully equipped gym, boxing ring and boot camp-style workouts. Take a dip in one of three stunning swimming pools, or reward yourself after a good workout with a cheeky afternoon mojito or piña colada poolside. Dine at Zenso restaurant, where organic and healthy food takes the spotlight. The nearby seaside town of Sanur has an easygoing vibe, local bars, restaurants and picture-perfect golden sand beach. The east-facing coastline makes for a breathtaking sunrise - a must-do during your dreamy wellness escape. **Luxury Escapes inclusions (select packages):** - Wake to a delicious **daily à la carte breakfast** - Toast a day in paradise with **one daily drink per person** - Keep active with a **one-time 60-minute water pilates class or personal training session** (for stays of 3+ nights) - Enjoy the ease of a **roundtrip airport transfer** (for stays of 5+ nights) - Indulge in a delicious **private BBQ dinner** in the privacy of your own villa (for stays of 7+ nights) **Travelling with family or in a group?** Upgrade to the Two-Bedroom Villa or the ultra-luxurious three-bedroom The Samata Residence for the ultimate group holiday (for up to four guests). Both options include a private pool and sundeck with loungers.",
+          "image": "https://images.luxuryescapes.com/bs1tr2qzvu2zmf89cob",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sanur",
+            "addressCountry": "Indonesia"
+          },
+          "priceRange": "$73",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Free WiFi"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Luxury Accommodation"
+            }
+          ]
+        },
+        "price": 73,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mondoexplora.com/en/destination/sanur"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "LodgingBusiness",
+          "description": "Welcome to Kayumanis Sanur Private Villa & Spa, your own slice of Bali paradise enveloped in lush tropical greenery. Positioned in the charming seaside village of Sanur, this exclusive villa complex is within easy reach of the area’s restaurants, vibrant nightlife, markets, and independent boutiques, filled with unique artisan gifts. Intimate and authentic, Kayumanis Sanur Private Villa & Spa is home to a collection of one, two and three-bedroom villas, each nestled within the confines of a walled garden, with private pools and dedicated butler service. While leaving your sumptuous sanctuary is optional, there’s more to explore. Discover true tranquility at Kayumanis Spa Sanur, where treatments combine traditional Balinese techniques with modern wellness knowledge. Sample Sanur's finest at Gong Restaurant, which combines market-fresh ingredients and seasonal delicacies infused with local herbs and spices, or opt for something a little more relaxed with beach-inspired bites at Kayumanis Seaside Restaurant.",
+          "image": "https://images.luxuryescapes.com/sn9v9pl1kmanxqluthig8",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sanur",
+            "addressCountry": "Indonesia"
+          },
+          "priceRange": "$212",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Free WiFi"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Luxury Accommodation"
+            }
+          ]
+        },
+        "price": 212,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mondoexplora.com/en/destination/sanur"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "LodgingBusiness",
+          "description": "Bali’s sandy beaches and aquamarine oceans are calling - why not answer with a stay at these idyllic villas set in sought-after Sanur? This secluded slice of heaven guarantees romance and tranquillity, with each spacious villa boasting its own sparkling pool and gorgeous tropical greenery. Start with a sumptuous breakfast before heading out to explore laidback Sanur, turning things up with free entry to Tropical Temptations Beach Club in Uluwatu or lounging poolside, at home in your private oasis.",
+          "image": "https://images.luxuryescapes.com/mmcop4alfak7y3wzbs5r",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sanur",
+            "addressCountry": "Indonesia"
+          },
+          "priceRange": "$157",
+          "amenityFeature": [
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Free WiFi"
+            },
+            {
+              "@type": "LocationFeatureSpecification",
+              "name": "Luxury Accommodation"
+            }
+          ]
+        },
+        "price": 157,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://mondoexplora.com/en/destination/sanur"
+      }
+    ]
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": 7,
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}5:["$","main",null,{"className":"min-h-screen","children":[["$","$L11",null,{"pageType":"destination","destination":"Sanur","country":"Indonesia","hotelCount":7,"minPrice":73}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$12"}}],"$L13","$L14","$L15"]}]
+16:I[2737,["244","static/chunks/244-75f77586f1edfee3.js","420","static/chunks/app/%5Blang%5D/destination/%5Bcity%5D/page-30a0d79e28789164.js"],"default"]
+1b:I[7294,["244","static/chunks/244-75f77586f1edfee3.js","420","static/chunks/app/%5Blang%5D/destination/%5Bcity%5D/page-30a0d79e28789164.js"],"default"]
+13:["$","div",null,{"className":"hero-section","style":{"backgroundImage":"linear-gradient(135deg, rgba(0, 0, 0, 0.6) 0%, rgba(42, 63, 89, 0.8) 100%), url(https://images.luxuryescapes.com/ii6bt0mf63uxfrx7pi2u)"},"children":["$","div",null,{"className":"page-header","children":[["$","div",null,{"className":"logo-overlay","children":[["$","span",null,{"children":"Mondo"}],["$","span",null,{"children":"Explora"}]]}],["$","div",null,{"className":"text-white","children":[["$","h1",null,{"className":"page-header h1","children":"Hotels in Sanur"}],["$","p",null,{"className":"page-header p","children":"Discover the best hotels in Sanur, Indonesia. Find exclusive deals and luxury accommodations."}],"$undefined"]}]]}]}]
+17:T42d,Unrivalled luxury awaits at this beachfront resort, set along Sanur’s pristine shores. Debuting in 2024 and now featuring even more high-end facilities - including another esteemed restaurant - The Meru Sanur has redefined resort opulence in the region. Suites are designed for indulgence, with intricate hand-carved millwork, striking traditional art, and private terraces overlooking lush Balinese gardens. A magnificent central pool sits just steps from the azure waters of Sanur Beach, while the ultra-sleek fitness centre and dedicated kids’ club cater to every type of traveller. Dining takes centre stage, with Arunika Restaurant offering international cuisines and live cooking stations, while Roso Restaurant celebrates Indonesian flavours. Sutasoma Lounge doubles as a library, where expert mixologists craft cocktails. The indulgence continues at Svasana Spa, with treatments ranging from relaxation massages to Balinese purification rituals. To top it off, there are complimentary wellness programs, including boxing, adventure cycling and sunrise yoga.18:T520,Discover a tropical oasis a short stroll from white-sand beaches and the seaside town of Sanur at The Pavilions Bali, ranked within the top 10% of properties on Tripadvisor. An idyllic honeymoon location or relaxed family destination, this exclusive villa complex is within easy reach of the area’s restaurants, markets and independent boutiques, filled with unique artisan gifts. Intimate and authentic, The Pavilions Bali is home to a collection of traditional Balinese-style villas, each nestled within the confines of a walled garden, most with private pools and all with butler service. This seclusion offers a heightened sense of privacy and romance. Cool off in your private pool (villa depending), work on your tan on your sundeck or have a night of romance dining under the stars in your private garden. While leaving your sumptuous sanctuary is optional, there’s more to explore. Discover true tranquility at The Pavilions Spa, where all-natural wellness rituals and treatments will leave you with a renewed feeling of comfort and peace. Sample local specialities and international favourites at Jahe Restaurant, which combines fresh ingredients and time-tested spices to create mouth-watering dishes, or opt for something a little more relaxed with cocktails and snacks served at the Poolside Bar.19:T46e,Tap into eco-luxury along the glistening shores of Sanur's pristine beachfront at Maya Sanur Resort & Spa, a zen-inducing, five-star oasis where you can watch the sunrise over the ocean every morning. Then, watch it melt into the horizon every evening from the beachfront bar. This award-winning resort - winner of the 2020 Tripadvisor Travellers' Choice Award - is an architectural marvel with a wide choice of accommodation to suit guests’ preferences, from the nature-inspired rooms to private suites and pool retreats. Within five minutes’ walk, there is a myriad of world-class restaurants, while the swish onsite facilities offer everything you’d expect from a high-end beach resort. The award-winning spa promises holistic healing while the sunbeds surrounding the 158m lagoon pool - one of three resort pools - are the perfect place to while the day away. The resort is distinguished by its eco-green rooftop, a tranquil spot where guests can feel at one with nature. Enjoy complimentary access to the kids' club for your little ones and, in the fading hours of daylight, indulge at one of the four onsite dining venues.1a:T64b,Immerse yourself in ultimate relaxation of the mind, body, and soul at The Samata by LifestyleRetreats on the island's East Coast. Designed for the health-conscious traveller, this stunning resort which featured in Tripadvisor's Traveller's Choice Awards for 2021, offers indulgent spa treatments, pilates, yoga, and meditation. If you want to get your heart rate up, there's a fully equipped gym, boxing ring and boot camp-style workouts. Take a dip in one of three stunning swimming pools, or reward yourself after a good workout with a cheeky afternoon mojito or piña colada poolside. Dine at Zenso restaurant, where organic and healthy food takes the spotlight. The nearby seaside town of Sanur has an easygoing vibe, local bars, restaurants and picture-perfect golden sand beach. The east-facing coastline makes for a breathtaking sunrise - a must-do during your dreamy wellness escape. **Luxury Escapes inclusions (select packages):** - Wake to a delicious **daily à la carte breakfast** - Toast a day in paradise with **one daily drink per person** - Keep active with a **one-time 60-minute water pilates class or personal training session** (for stays of 3+ nights) - Enjoy the ease of a **roundtrip airport transfer** (for stays of 5+ nights) - Indulge in a delicious **private BBQ dinner** in the privacy of your own villa (for stays of 7+ nights) **Travelling with family or in a group?** Upgrade to the Two-Bedroom Villa or the ultra-luxurious three-bedroom The Samata Residence for the ultimate group holiday (for up to four guests). Both options include a private pool and sundeck with loungers.14:["$","div",null,{"className":"main-content","children":["$","$L16",null,{"hotels":[{"vendor_name":"The MERU Sanur","offer_country_name":"Indonesia","location_heading":"Sanur","title":"Sanur All-Suite Opulence with Daily Breakfast, Daily Lunch or Dinner, Massages & Butler Service","description":"$17","location_subheading":"Indonesia","price":1209,"original_price":2121,"discount_percentage":43,"link":"https://luxuryescapes.com/offer/006RF00000Cium0YAB","hero_image":"https://images.luxuryescapes.com/ii6bt0mf63uxfrx7pi2u","image_two":"https://images.luxuryescapes.com/eh7bkql60bxr9joag2m","image_three":"https://images.luxuryescapes.com/8op8vm2e0gaq5kgqci3c","deal_tier":"Luxury Escapes - Tier 1","min_duration":5,"end_date_utc":"2025-07-29 13:59:00"},{"vendor_name":"The Pavilions Bali","offer_country_name":"Indonesia","location_heading":"Sanur","title":"Private Balinese Villa Haven in Sanur","description":"$18","location_subheading":"Indonesia","price":132,"original_price":132,"discount_percentage":0,"link":"https://luxuryescapes.com/offer/0062y000006ziaFAAQ","hero_image":"https://images.luxuryescapes.com/zsohf9cj9n0gqx8sgva9","image_two":"https://images.luxuryescapes.com/1hkgh8gbwgk1x95m0nrk","image_three":"https://images.luxuryescapes.com/j793xx3uf4l6vngturri","deal_tier":"Luxury Escapes - Tier 2","min_duration":1,"end_date_utc":"2026-12-31 12:59:00"},{"vendor_name":"Seascape Resort Sanur","offer_country_name":"Indonesia","location_heading":"Sanur","title":"Romantic Sanur Suites & Villas Hideaway with Nightly Cocktails","description":"Bask in the intimate charms and experience uninterrupted tranquillity from this Sanur oasis, tucked away in a quaint spot near the Sanur Harbour. Kindle the romance as you retreat within the terracotta-toned walls of your expansive suite or villa, each complete with earthy designer interiors and luxurious amenities. Spend your days soaking up the Balinese sun, relax in the resort's exotic outdoor pool and pamper yourself with soul-soothing massages at Svaha Spa for a truly romantic escape. Savour a myriad of Japanese delicacies, including crunchy unagi maki and toro foiegrass sashimi, at the sophisticated Tsune Restaurant and sip on delicious cocktails. If you manage to tear away from the resort, the renowned beaches of Sanur and the Sindhu Night Market are within easy reach.","location_subheading":"Indonesia","price":80,"original_price":80,"discount_percentage":0,"link":"https://luxuryescapes.com/offer/006RF00000C3mHMYAZ","hero_image":"https://images.luxuryescapes.com/zwu3qbbpbnwolyaj0s4","image_two":"https://images.luxuryescapes.com/i6hi7ugsnk6ss36a292w","image_three":"https://images.luxuryescapes.com/2gd504rgm5dyu4q67nlr4r","deal_tier":"Luxury Escapes - Tier 3","min_duration":1,"end_date_utc":"2050-12-31 12:59:00"},{"vendor_name":"Maya Sanur Resort & Spa","offer_country_name":"Indonesia","location_heading":"Sanur","title":"Five-Star Sanur Beachfront Eco Oasis","description":"$19","location_subheading":"Indonesia","price":130,"original_price":130,"discount_percentage":0,"link":"https://luxuryescapes.com/offer/0062y000003GPkWAAW","hero_image":"https://images.luxuryescapes.com/rw77c8x2ypua9v54ag89","image_two":"https://images.luxuryescapes.com/o263e7pb2uk2uixyfi7","image_three":"https://images.luxuryescapes.com/03l0fa12rdw5t060u6k","deal_tier":"Luxury Escapes - Tier 1","min_duration":1,"end_date_utc":"2026-12-31 12:59:00"},{"vendor_name":"The Samata Sanur, Bali","offer_country_name":"Indonesia","location_heading":"Sanur","title":"Secluded Wellness Escape on Bali's Serene East Coast","description":"$1a","location_subheading":"Indonesia","price":73,"original_price":73,"discount_percentage":0,"link":"https://luxuryescapes.com/offer/0062y000005HaArAAK","hero_image":"https://images.luxuryescapes.com/bs1tr2qzvu2zmf89cob","image_two":"https://images.luxuryescapes.com/tnvsodj54jx8rqmckyop","image_three":"https://images.luxuryescapes.com/guyjpg9ynn0hveirwh2","deal_tier":"Luxury Escapes - Tier 3","min_duration":1,"end_date_utc":"2026-12-31 12:59:00"},{"vendor_name":"Kayumanis Sanur Private Villa & Spa","offer_country_name":"Indonesia","location_heading":"Sanur","title":"Sanur Five-Star Private Pool Villas & Spa Moments from the Beach","description":"Welcome to Kayumanis Sanur Private Villa & Spa, your own slice of Bali paradise enveloped in lush tropical greenery. Positioned in the charming seaside village of Sanur, this exclusive villa complex is within easy reach of the area’s restaurants, vibrant nightlife, markets, and independent boutiques, filled with unique artisan gifts. Intimate and authentic, Kayumanis Sanur Private Villa & Spa is home to a collection of one, two and three-bedroom villas, each nestled within the confines of a walled garden, with private pools and dedicated butler service. While leaving your sumptuous sanctuary is optional, there’s more to explore. Discover true tranquility at Kayumanis Spa Sanur, where treatments combine traditional Balinese techniques with modern wellness knowledge. Sample Sanur's finest at Gong Restaurant, which combines market-fresh ingredients and seasonal delicacies infused with local herbs and spices, or opt for something a little more relaxed with beach-inspired bites at Kayumanis Seaside Restaurant.","location_subheading":"Indonesia","price":212,"original_price":212,"discount_percentage":0,"link":"https://luxuryescapes.com/offer/0062y0000070HU6AAM","hero_image":"https://images.luxuryescapes.com/sn9v9pl1kmanxqluthig8","image_two":"https://images.luxuryescapes.com/i1eop9i3k151bix9aej","image_three":"https://images.luxuryescapes.com/w996o3e9iawze82r6rr","deal_tier":"Luxury Escapes - Tier 1","min_duration":1,"end_date_utc":"2050-12-31 12:59:00"},{"vendor_name":"Sanora Villa Sanur","offer_country_name":"Indonesia","location_heading":"Sanur","title":"Idyllic Sanur Private Pool Villas with Daily Breakfast & Beach Club Entry","description":"Bali’s sandy beaches and aquamarine oceans are calling - why not answer with a stay at these idyllic villas set in sought-after Sanur? This secluded slice of heaven guarantees romance and tranquillity, with each spacious villa boasting its own sparkling pool and gorgeous tropical greenery. Start with a sumptuous breakfast before heading out to explore laidback Sanur, turning things up with free entry to Tropical Temptations Beach Club in Uluwatu or lounging poolside, at home in your private oasis.","location_subheading":"Indonesia","price":157,"original_price":157,"discount_percentage":0,"link":"https://luxuryescapes.com/offer/0062y00000CQQ15AAH","hero_image":"https://images.luxuryescapes.com/mmcop4alfak7y3wzbs5r","image_two":"https://images.luxuryescapes.com/3kj9jtqyu9ox34c5lpzr5","image_three":"https://images.luxuryescapes.com/wz76f7afhpqztrmad465","deal_tier":"Luxury Escapes - Tier 2","min_duration":1,"end_date_utc":"2026-12-31 12:59:00"}],"lang":"en"}]}]
+15:["$","footer",null,{"children":["$","div",null,{"className":"max-w-7xl mx-auto px-4","children":[["$","div",null,{"className":"flex flex-col md:flex-row justify-between items-center gap-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-lg font-light","children":"Mondo"}],["$","span",null,{"className":"text-lg font-bold bg-white/30 text-blue-900 px-2 py-1 rounded","children":"Explora"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-sm text-gray-300","children":"Idioma / Language:"}],["$","$L1b",null,{"currentLang":"en"}]]}]]}],["$","div",null,{"className":"mt-6 pt-6 border-t border-gray-700 text-center text-sm text-gray-400","children":[["$","p",null,{"children":"© 2024 MondoExplora. Todos los derechos reservados. | All rights reserved."}],["$","p",null,{"className":"mt-1","children":"Encuentra las mejores ofertas de hoteles y viajes | Find the best hotel and travel deals"}]]}]]}]}]

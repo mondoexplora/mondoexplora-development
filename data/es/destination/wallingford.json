@@ -1,0 +1,50 @@
+{
+  "city": "Wallingford",
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "hero_title": "Hoteles en Wallingford",
+  "description": "Descubre los mejores hoteles en Wallingford, New Zealand. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/yq9gayr04580ppxo7j",
+  "hotels": [
+    {
+      "vendor_name": "Wallingford Homestead",
+      "offer_country_name": "New Zealand",
+      "location_heading": "Wallingford",
+      "title": "Luxurious 5-Star Hawke's Bay Countryside Escape with Fine-Dining Restaurant",
+      "description": "Experience the rustic charm of Wallingford Homestead, a luxurious stay nestled in lush farmland near picturesque Hawke's Bay. Enjoy a secluded yet stylish escape near pristine rivers and with opportunities for bush walking and mountain biking. Sample the flavours of local artisan producers at the highly-acclaimed slow-concept fine-dining Wallingford Kitchen and spend your days lounging by the pool or at Porangahau Beach.",
+      "location_subheading": "New Zealand",
+      "price": 374,
+      "original_price": 374,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Ex1ylAAB",
+      "hero_image": "https://images.luxuryescapes.com/yq9gayr04580ppxo7j",
+      "image_two": "https://images.luxuryescapes.com/p9hknw1shlwonm6a79h",
+      "image_three": "https://images.luxuryescapes.com/cf2uyy1mzdpv0al0ko7h",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Wallingford - New Zealand Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Wallingford, New Zealand con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "wallingford hotels",
+      "wallingford travel",
+      "new zealand hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/wallingford",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/wallingford",
+      "es": "https://mondoexplora.com/es/destination/wallingford",
+      "fr": "https://mondoexplora.com/fr/destination/wallingford",
+      "it": "https://mondoexplora.com/it/destination/wallingford"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 374,
+    "average_discount": 0
+  }
+}

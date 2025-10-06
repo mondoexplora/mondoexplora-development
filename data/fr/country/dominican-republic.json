@@ -1,0 +1,37 @@
+{
+  "name": "Dominican Republic",
+  "code": "DO",
+  "hero_title": "Dominican Republic Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Dominican Republic.",
+  "hero_image": "https://images.luxuryescapes.com/rfa9lz4zp5uf5m4vm5k",
+  "popular_destinations": [
+    {
+      "name": "La Romana",
+      "slug": "la-romana",
+      "image": "https://images.luxuryescapes.com/rfa9lz4zp5uf5m4vm5k",
+      "description": "Explore La Romana with luxury accommodations"
+    },
+    {
+      "name": "Samana",
+      "slug": "samana",
+      "image": "https://images.luxuryescapes.com/6ck34qontzjydfommeuyr",
+      "description": "Explore Samana with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Dominican Republic Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Dominican Republic avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "dominican republic hotels",
+      "dominican republic travel",
+      "dominican republic luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/do",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/do",
+      "es": "https://mondoexplora.com/es/country/do",
+      "fr": "https://mondoexplora.com/fr/country/do",
+      "it": "https://mondoexplora.com/it/country/do"
+    }
+  }
+}

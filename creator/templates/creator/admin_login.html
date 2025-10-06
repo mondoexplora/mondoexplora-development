@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Login - MondoExplora</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+        
+        .login-container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            padding: 3rem;
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+        }
+        
+        .logo {
+            margin-bottom: 2rem;
+        }
+        
+        .logo i {
+            font-size: 3rem;
+            color: #ff5a5f;
+            margin-bottom: 1rem;
+        }
+        
+        .logo h1 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #1f2937;
+            margin-bottom: 0.5rem;
+        }
+        
+        .logo p {
+            color: #6b7280;
+            font-size: 0.875rem;
+        }
+        
+        .form-group {
+            margin-bottom: 1.5rem;
+            text-align: left;
+        }
+        
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+            color: #374151;
+            font-size: 0.875rem;
+        }
+        
+        .form-group input {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            border: 2px solid #e5e7eb;
+            border-radius: 10px;
+            font-size: 1rem;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+        
+        .form-group input:focus {
+            outline: none;
+            border-color: #ff5a5f;
+            box-shadow: 0 0 0 3px rgba(255, 90, 95, 0.1);
+        }
+        
+        .input-icon {
+            position: relative;
+        }
+        
+        .input-icon i {
+            position: absolute;
+            left: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #9ca3af;
+        }
+        
+        .input-icon input {
+            padding-left: 2.5rem;
+        }
+        
+        .btn-login {
+            width: 100%;
+            padding: 0.875rem;
+            background: linear-gradient(135deg, #ff5a5f 0%, #ff8a8e 100%);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            margin-bottom: 1.5rem;
+        }
+        
+        .btn-login:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(255, 90, 95, 0.3);
+        }
+        
+        .btn-login:active {
+            transform: translateY(0);
+        }
+        
+        .flash-messages {
+            margin-bottom: 1.5rem;
+        }
+        
+        .flash-message {
+            padding: 0.75rem 1rem;
+            border-radius: 8px;
+            margin-bottom: 0.5rem;
+            font-size: 0.875rem;
+            font-weight: 500;
+        }
+        
+        .flash-success {
+            background: #d1fae5;
+            color: #065f46;
+            border: 1px solid #a7f3d0;
+        }
+        
+        .flash-error {
+            background: #fee2e2;
+            color: #991b1b;
+            border: 1px solid #fecaca;
+        }
+        
+        .flash-info {
+            background: #dbeafe;
+            color: #1e40af;
+            border: 1px solid #bfdbfe;
+        }
+        
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: #6b7280;
+            text-decoration: none;
+            font-size: 0.875rem;
+            transition: color 0.2s;
+        }
+        
+        .back-link:hover {
+            color: #374151;
+        }
+        
+        .security-notice {
+            background: #fef3c7;
+            border: 1px solid #fde68a;
+            border-radius: 8px;
+            padding: 1rem;
+            margin-top: 1.5rem;
+            text-align: left;
+        }
+        
+        .security-notice h3 {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: #92400e;
+            margin-bottom: 0.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .security-notice p {
+            font-size: 0.75rem;
+            color: #92400e;
+            line-height: 1.4;
+        }
+        
+        @media (max-width: 480px) {
+            .login-container {
+                padding: 2rem;
+                margin: 1rem;
+            }
+            
+            .logo i {
+                font-size: 2.5rem;
+            }
+            
+            .logo h1 {
+                font-size: 1.25rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <div class="logo">
+            <i class="fas fa-shield-alt"></i>
+            <h1>Admin Portal</h1>
+            <p>MondoExplora Content Management</p>
+        </div>
+        
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                <div class="flash-messages">
+                    {% for category, message in messages %}
+                        <div class="flash-message flash-{{ category }}">
+                            {{ message }}
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        {% endwith %}
+        
+        <form method="POST">
+            <div class="form-group">
+                <label for="username">Username</label>
+                <div class="input-icon">
+                    <i class="fas fa-user"></i>
+                    <input type="text" id="username" name="username" required placeholder="Enter your username">
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <label for="password">Password</label>
+                <div class="input-icon">
+                    <i class="fas fa-lock"></i>
+                    <input type="password" id="password" name="password" required placeholder="Enter your password">
+                </div>
+            </div>
+            
+            <button type="submit" class="btn-login">
+                <i class="fas fa-sign-in-alt"></i> Sign In
+            </button>
+        </form>
+        
+        <a href="/" class="back-link">
+            <i class="fas fa-arrow-left"></i>
+            Back to MondoExplora
+        </a>
+        
+        <div class="security-notice">
+            <h3>
+                <i class="fas fa-shield-alt"></i>
+                Secure Access
+            </h3>
+            <p>
+                This is a restricted admin area. Only authorized administrators can access this portal. 
+                All login attempts are logged for security purposes.
+            </p>
+        </div>
+    </div>
+</body>
+</html> 

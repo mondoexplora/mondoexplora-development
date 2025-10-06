@@ -1,0 +1,61 @@
+{
+  "name": "Turkey",
+  "code": "TR",
+  "hero_title": "Turkey Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Turkey.",
+  "hero_image": "https://images.luxuryescapes.com/dec898behrdewoq1ft8b",
+  "popular_destinations": [
+    {
+      "name": "Ankara",
+      "slug": "ankara",
+      "image": "https://images.luxuryescapes.com/dec898behrdewoq1ft8b",
+      "description": "Explore Ankara with luxury accommodations"
+    },
+    {
+      "name": "Antalya",
+      "slug": "antalya",
+      "image": "https://images.luxuryescapes.com/ebm4lc0z06rf8xo5w8ve",
+      "description": "Explore Antalya with luxury accommodations"
+    },
+    {
+      "name": "Bodrum",
+      "slug": "bodrum",
+      "image": "https://images.luxuryescapes.com/5ln5suqgnituu5z9alh",
+      "description": "Explore Bodrum with luxury accommodations"
+    },
+    {
+      "name": "Bursa",
+      "slug": "bursa",
+      "image": "https://images.luxuryescapes.com/zr1647ogauz5q1mvn0d",
+      "description": "Explore Bursa with luxury accommodations"
+    },
+    {
+      "name": "Buyukada",
+      "slug": "buyukada",
+      "image": "https://images.luxuryescapes.com/r2i2jmyjh55tgs92owm",
+      "description": "Explore Buyukada with luxury accommodations"
+    },
+    {
+      "name": "Cappadocia",
+      "slug": "cappadocia",
+      "image": "https://images.luxuryescapes.com/bjq5b8z0e1o1zk7jw9",
+      "description": "Explore Cappadocia with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Turkey Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Turkey avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "turkey hotels",
+      "turkey travel",
+      "turkey luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/tr",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/tr",
+      "es": "https://mondoexplora.com/es/country/tr",
+      "fr": "https://mondoexplora.com/fr/country/tr",
+      "it": "https://mondoexplora.com/it/country/tr"
+    }
+  }
+}

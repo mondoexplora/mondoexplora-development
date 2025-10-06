@@ -1,0 +1,31 @@
+{
+  "name": "Azerbaijan",
+  "code": "AZ",
+  "hero_title": "Azerbaijan Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Azerbaijan.",
+  "hero_image": "https://images.luxuryescapes.com/bhtslk87zo2ty940qhqv",
+  "popular_destinations": [
+    {
+      "name": "Baku",
+      "slug": "baku",
+      "image": "https://images.luxuryescapes.com/bhtslk87zo2ty940qhqv",
+      "description": "Explore Baku with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Azerbaijan Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Azerbaijan avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "azerbaijan hotels",
+      "azerbaijan travel",
+      "azerbaijan luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/az",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/az",
+      "es": "https://mondoexplora.com/es/country/az",
+      "fr": "https://mondoexplora.com/fr/country/az",
+      "it": "https://mondoexplora.com/it/country/az"
+    }
+  }
+}

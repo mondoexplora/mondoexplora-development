@@ -1,0 +1,79 @@
+{
+  "name": "India",
+  "code": "IN",
+  "hero_title": "India Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in India.",
+  "hero_image": "https://images.luxuryescapes.com/j9ted3f2nr19jamntgjj",
+  "popular_destinations": [
+    {
+      "name": "New Delhi",
+      "slug": "new-delhi",
+      "image": "https://images.luxuryescapes.com/j9ted3f2nr19jamntgjj",
+      "description": "Explore New Delhi with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 72
+    },
+    {
+      "name": "Jaipur",
+      "slug": "jaipur",
+      "image": "https://images.luxuryescapes.com/r7b7ksebjuctoqee4nr",
+      "description": "Explore Jaipur with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 188
+    },
+    {
+      "name": "Mumbai",
+      "slug": "mumbai",
+      "image": "https://images.luxuryescapes.com/drp3lhbidsu5v193ogqg",
+      "description": "Explore Mumbai with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 95
+    },
+    {
+      "name": "Gurugram",
+      "slug": "gurugram",
+      "image": "https://images.luxuryescapes.com/h5iwm94l6yeqxgappyaf",
+      "description": "Explore Gurugram with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 61
+    },
+    {
+      "name": "Bangalore",
+      "slug": "bangalore",
+      "image": "https://images.luxuryescapes.com/nb30au5a2dy7a6pph38e",
+      "description": "Explore Bangalore with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 70
+    },
+    {
+      "name": "Delhi",
+      "slug": "delhi",
+      "image": "https://images.luxuryescapes.com/2mbfcspvnag20nhtxaw5",
+      "description": "Explore Delhi with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 158
+    }
+  ],
+  "seo": {
+    "title": "India Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in India with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "india hotels",
+      "india travel",
+      "india luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/in",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/in",
+      "es": "https://mondoexplora.com/es/country/in",
+      "fr": "https://mondoexplora.com/fr/country/in",
+      "it": "https://mondoexplora.com/it/country/in"
+    }
+  }
+}

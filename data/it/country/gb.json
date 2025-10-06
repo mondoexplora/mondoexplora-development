@@ -1,0 +1,61 @@
+{
+  "name": "United Kingdom",
+  "code": "GB",
+  "hero_title": "United Kingdom Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in United Kingdom.",
+  "hero_image": "https://images.luxuryescapes.com/3kmdfesxpveo94d4ygu",
+  "popular_destinations": [
+    {
+      "name": "Devon",
+      "slug": "devon",
+      "image": "https://images.luxuryescapes.com/3kmdfesxpveo94d4ygu",
+      "description": "Explore Devon with luxury accommodations"
+    },
+    {
+      "name": "London",
+      "slug": "london",
+      "image": "https://images.luxuryescapes.com/u9y5nnik7dxmjmz4c2qd",
+      "description": "Explore London with luxury accommodations"
+    },
+    {
+      "name": "Aberdeen",
+      "slug": "aberdeen",
+      "image": "https://images.luxuryescapes.com/xf5eng205iuda616sbsw",
+      "description": "Explore Aberdeen with luxury accommodations"
+    },
+    {
+      "name": "Ashford",
+      "slug": "ashford",
+      "image": "https://images.luxuryescapes.com/mrm3zx92ei4op9pl3rzk",
+      "description": "Explore Ashford with luxury accommodations"
+    },
+    {
+      "name": "Ballymena",
+      "slug": "ballymena",
+      "image": "https://images.luxuryescapes.com/3cq95w3xq54i2b1w2oi",
+      "description": "Explore Ballymena with luxury accommodations"
+    },
+    {
+      "name": "Bath",
+      "slug": "bath",
+      "image": "https://images.luxuryescapes.com/zt9v98nri88tuq5l4de",
+      "description": "Explore Bath with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "United Kingdom Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in United Kingdom con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "united kingdom hotels",
+      "united kingdom travel",
+      "united kingdom luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/gb",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/gb",
+      "es": "https://mondoexplora.com/es/country/gb",
+      "fr": "https://mondoexplora.com/fr/country/gb",
+      "it": "https://mondoexplora.com/it/country/gb"
+    }
+  }
+}

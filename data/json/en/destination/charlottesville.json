@@ -1,0 +1,50 @@
+{
+  "city": "Charlottesville",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Charlottesville",
+  "description": "Discover the best hotels in Charlottesville, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/feynfd497105euhagxhv",
+  "hotels": [
+    {
+      "vendor_name": "Omni Charlottesville Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Charlottesville",
+      "title": "Chic Charlottesville Retreat near Downtown Mall with Two Pools & Onsite Restaurant",
+      "description": "Experience the vibrant heart of Charlottesville with a sumptuous stay at this refined hotel. Situated in the historic downtown district, find yourself just moments from the Downtown Mall, a pedestrian-friendly hub filled with shops, restaurants and entertainment venues. Savour local flavours at the onsite Hillock Neighbourhood Kitchen and unwind with innovative cocktails at The Conservatory. For history buffs, Monticello, the home of Thomas Jefferson, is only a short drive away. After a day of exploration, return to the comfort of your hotel's well-appointed rooms and cool off with a refreshing dip in the indoor or outdoor pool.",
+      "location_subheading": "United States",
+      "price": 153,
+      "original_price": 153,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002HiI0IAK",
+      "hero_image": "https://images.luxuryescapes.com/feynfd497105euhagxhv",
+      "image_two": "https://images.luxuryescapes.com/srw4ha5a1mc82jhu4tk",
+      "image_three": "https://images.luxuryescapes.com/n1vjh4pdqmo0t4jecr",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Charlottesville - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Charlottesville, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "charlottesville hotels",
+      "charlottesville travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/charlottesville",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/charlottesville",
+      "es": "https://mondoexplora.com/es/destination/charlottesville",
+      "fr": "https://mondoexplora.com/fr/destination/charlottesville",
+      "it": "https://mondoexplora.com/it/destination/charlottesville"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 153,
+    "average_discount": 0
+  }
+}

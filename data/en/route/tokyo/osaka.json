@@ -1,0 +1,51 @@
+{
+  "origin": "Tokyo",
+  "destination": "Osaka",
+  "origin_country": "Japan",
+  "destination_country": "Japan",
+  "transport_modes": {
+    "flight": {
+      "duration": "3h 45m",
+      "price_range": "$150 - $400",
+      "providers": [
+        "Skyscanner",
+        "Kayak",
+        "Expedia"
+      ]
+    },
+    "train": {
+      "duration": "3h 15m",
+      "price_range": "$80 - $200",
+      "providers": [
+        "Rail Europe",
+        "Eurail",
+        "Trainline"
+      ]
+    },
+    "bus": {
+      "duration": "5h 30m",
+      "price_range": "$20 - $50",
+      "providers": [
+        "FlixBus",
+        "Greyhound",
+        "Megabus"
+      ]
+    },
+    "car": {
+      "duration": "4h 15m",
+      "distance": "420 km",
+      "price_range": "$45 - $110"
+    }
+  },
+  "seo": {
+    "title": "Tokyo to Osaka - Transport Guide 2024",
+    "description": "Compare transport options from tokyo to osaka. Find the best deals on flights, trains, buses and car rentals.",
+    "keywords": [
+      "tokyo to osaka",
+      "transport",
+      "travel",
+      "flights",
+      "trains"
+    ]
+  }
+}

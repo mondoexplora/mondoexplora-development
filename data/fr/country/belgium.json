@@ -1,0 +1,49 @@
+{
+  "name": "Belgium",
+  "code": "BE",
+  "hero_title": "Belgium Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Belgium.",
+  "hero_image": "https://images.luxuryescapes.com/e2bl0axhzlp6fg9n144k",
+  "popular_destinations": [
+    {
+      "name": "Antwerp",
+      "slug": "antwerp",
+      "image": "https://images.luxuryescapes.com/e2bl0axhzlp6fg9n144k",
+      "description": "Explore Antwerp with luxury accommodations"
+    },
+    {
+      "name": "Brugge",
+      "slug": "brugge",
+      "image": "https://images.luxuryescapes.com/fzjzxo3qimi7xi1mbkn",
+      "description": "Explore Brugge with luxury accommodations"
+    },
+    {
+      "name": "Brussels",
+      "slug": "brussels",
+      "image": "https://images.luxuryescapes.com/ypi7oph1a7olcavkatyc",
+      "description": "Explore Brussels with luxury accommodations"
+    },
+    {
+      "name": "Vilvoorde",
+      "slug": "vilvoorde",
+      "image": "https://images.luxuryescapes.com/3jd6z3778hikvzh8hvc",
+      "description": "Explore Vilvoorde with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Belgium Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Belgium avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "belgium hotels",
+      "belgium travel",
+      "belgium luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/be",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/be",
+      "es": "https://mondoexplora.com/es/country/be",
+      "fr": "https://mondoexplora.com/fr/country/be",
+      "it": "https://mondoexplora.com/it/country/be"
+    }
+  }
+}

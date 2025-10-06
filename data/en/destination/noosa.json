@@ -1,0 +1,68 @@
+{
+  "city": "Noosa",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Noosa",
+  "description": "Discover the best hotels in Noosa, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/ie0apv5sho29621169tr",
+  "hotels": [
+    {
+      "vendor_name": "Jacaranda Noosa Apartments",
+      "offer_country_name": "Australia",
+      "location_heading": "Noosa",
+      "title": "Stylish Noosa Apartment Escape on Hastings Street",
+      "description": "Discover the magic of the Sunshine Coast with a stay at Jacaranda Noosa Apartments, perfectly positioned in its most iconic shopping precinct and offering unrivalled access to the region's spectacular surf beaches, charming coastal towns and sprawling wilderness. Between moments spent by the resort’s outdoor pool, wave to the dolphins at Noosa National Park or savour sunset cocktails and Laguna Bay views on Hastings Street, surrounded by fairy lights.",
+      "location_subheading": "Australia",
+      "price": 344,
+      "original_price": 344,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CNEJoAAP",
+      "hero_image": "https://images.luxuryescapes.com/ie0apv5sho29621169tr",
+      "image_two": "https://images.luxuryescapes.com/f42zd45tiuovplh2zi4",
+      "image_three": "https://images.luxuryescapes.com/h27gpfz5enbl4zhleqju",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Sofitel Noosa Pacific Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Noosa",
+      "title": "Chic Noosa Escape on Hastings Street with Outdoor Pool, Spa & Onsite Dining",
+      "description": "Nestled in the heart of Noosa on iconic Hastings Street, this luxurious stay offers a blend of coastal charm and sophisticated elegance. Sofitel Noosa Pacific Resort invites you to unwind with a meal at Noosa Beach House Restaurant, sip a spritz at the Riviera Bar & Lounge while watching the sunset over the Noosa River, or relax by the lagoon-style pool with a swim-up bar. Venture out to explore boutiques and local eateries along Hastings Street, or take a leisurely river cruise. For food lovers, the Noosa Farmers Market is a must-visit, offering fresh local produce and artisanal treats. This resort is the perfect base to experience the natural beauty and vibrant lifestyle of one of Australia’s most sought-after beach destinations.",
+      "location_subheading": "Australia",
+      "price": 275,
+      "original_price": 275,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000GRR69YAH",
+      "hero_image": "https://images.luxuryescapes.com/6oizfste8imykj6gji2d",
+      "image_two": "https://images.luxuryescapes.com/n1qvpp6xia9pe7mqsxa",
+      "image_three": "https://images.luxuryescapes.com/kfmd3xjem8byhcevy1a",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Noosa - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Noosa, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "noosa hotels",
+      "noosa travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/noosa",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/noosa",
+      "es": "https://mondoexplora.com/es/destination/noosa",
+      "fr": "https://mondoexplora.com/fr/destination/noosa",
+      "it": "https://mondoexplora.com/it/destination/noosa"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 310,
+    "average_discount": 0
+  }
+}

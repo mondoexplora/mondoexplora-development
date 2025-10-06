@@ -1,0 +1,50 @@
+{
+  "city": "Megève",
+  "country": "France",
+  "country_code": "FR",
+  "hero_title": "Hôtels à Megève",
+  "description": "Découvrez les meilleurs hôtels à Megève, France. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/f1hvwof1wbmiqqdezqzi",
+  "hotels": [
+    {
+      "vendor_name": "L'Alpaga",
+      "offer_country_name": "France",
+      "location_heading": "Megève",
+      "title": "French Alps Elegance Near Mont Blanc with Two Restaurants & Onsite Spa",
+      "description": "Nestled in the most exclusive corner of the French Alps, L'Alpaga, Megève, a Beaumier Hotel is your next ultra-stylish mountain hideaway. Think gorgeous wooden chalets that exude traditional Alpine charm. Collapse into sumptuous rooms with Mont Blanc views, soak your ski-weary muscles in the heavenly spa, or treat your taste buds to Michelin-worthy cuisine. Just a stone's throw from Megève's glitzy centre, this hotel puts you right where the action is. Hit the perfectly groomed slopes by day, then strut your stuff through designer boutiques and après-ski hotspots come evening. Fancy summer adventures? The backdoor leads straight to hiking trails and championship golf courses.",
+      "location_subheading": "France",
+      "price": 262,
+      "original_price": 262,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000HSbu7YAD",
+      "hero_image": "https://images.luxuryescapes.com/f1hvwof1wbmiqqdezqzi",
+      "image_two": "https://images.luxuryescapes.com/ep6don3rnw1kv2iqo8bf",
+      "image_three": "https://images.luxuryescapes.com/6xsfx5m4n74kl3zebrl",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Megève - France Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Megève, France avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "megève hotels",
+      "megève travel",
+      "france hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/megève",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/megève",
+      "es": "https://mondoexplora.com/es/destination/megève",
+      "fr": "https://mondoexplora.com/fr/destination/megève",
+      "it": "https://mondoexplora.com/it/destination/megève"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 262,
+    "average_discount": 0
+  }
+}

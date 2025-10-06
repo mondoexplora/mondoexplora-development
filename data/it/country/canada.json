@@ -1,0 +1,61 @@
+{
+  "name": "Canada",
+  "code": "CA",
+  "hero_title": "Canada Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Canada.",
+  "hero_image": "https://images.luxuryescapes.com/cufe3bdfv23fr6f673u",
+  "popular_destinations": [
+    {
+      "name": "Alberta",
+      "slug": "alberta",
+      "image": "https://images.luxuryescapes.com/cufe3bdfv23fr6f673u",
+      "description": "Explore Alberta with luxury accommodations"
+    },
+    {
+      "name": "Banff",
+      "slug": "banff",
+      "image": "https://images.luxuryescapes.com/m200j04ip0ufk6c5b7ij",
+      "description": "Explore Banff with luxury accommodations"
+    },
+    {
+      "name": "Calgary",
+      "slug": "calgary",
+      "image": "https://images.luxuryescapes.com/r43tjsw3sjcy1u106n",
+      "description": "Explore Calgary with luxury accommodations"
+    },
+    {
+      "name": "Edmonton",
+      "slug": "edmonton",
+      "image": "https://images.luxuryescapes.com/c2xubymtd5xtemqhof2",
+      "description": "Explore Edmonton with luxury accommodations"
+    },
+    {
+      "name": "Jasper",
+      "slug": "jasper",
+      "image": "https://images.luxuryescapes.com/9rpswkju93b6i1s4ammq",
+      "description": "Explore Jasper with luxury accommodations"
+    },
+    {
+      "name": "Lake Louise",
+      "slug": "lake-louise",
+      "image": "https://images.luxuryescapes.com/zgny6ml988jq6mwcw2k8",
+      "description": "Explore Lake Louise with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Canada Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Canada con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "canada hotels",
+      "canada travel",
+      "canada luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/ca",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ca",
+      "es": "https://mondoexplora.com/es/country/ca",
+      "fr": "https://mondoexplora.com/fr/country/ca",
+      "it": "https://mondoexplora.com/it/country/ca"
+    }
+  }
+}

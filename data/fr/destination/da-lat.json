@@ -1,0 +1,50 @@
+{
+  "city": "Da Lat",
+  "country": "Vietnam",
+  "country_code": "VN",
+  "hero_title": "Hôtels à Da Lat",
+  "description": "Découvrez les meilleurs hôtels à Da Lat, Vietnam. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/y87tncwdz87q5tlrc0mr",
+  "hotels": [
+    {
+      "vendor_name": "Mercure Dalat Resort",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Da Lat",
+      "title": "Vietnam French-Inspired Elegance in the Heart of Dalat with Three Restaurants & Bars",
+      "description": "Nestled amid picturesque gardens, this serene sanctuary offers a charming escape in the 'City of Eternal Spring.' Mercure Dalat Resort marries French colonial architecture with Vietnamese heritage, all in the vibrant heart of Dalat. Indulge in a variety of Eastern and Western dishes at Deux Amants Restaurant, or venture out to explore nearby attractions, such as Xuan Huong Lake. The resort’s central location makes it easy to immerse yourself in Dalat’s French-era nostalgia, while the surrounding highlands provide access to the stunning Datanla Waterfall and the thrill of soaring above the landscape on the Dalat Cable Car.",
+      "location_subheading": "Vietnam",
+      "price": 101,
+      "original_price": 101,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000Ib17jYAB",
+      "hero_image": "https://images.luxuryescapes.com/y87tncwdz87q5tlrc0mr",
+      "image_two": "https://images.luxuryescapes.com/hhstlgs5hdxohtfd4uge",
+      "image_three": "https://images.luxuryescapes.com/ihxqw01hm9drgg6ks42f",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Da Lat - Vietnam Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Da Lat, Vietnam avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "da lat hotels",
+      "da lat travel",
+      "vietnam hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/da-lat",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/da-lat",
+      "es": "https://mondoexplora.com/es/destination/da-lat",
+      "fr": "https://mondoexplora.com/fr/destination/da-lat",
+      "it": "https://mondoexplora.com/it/destination/da-lat"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 101,
+    "average_discount": 0
+  }
+}

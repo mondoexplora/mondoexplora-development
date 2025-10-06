@@ -1,0 +1,43 @@
+{
+  "name": "Lebanon",
+  "code": "LB",
+  "hero_title": "Lebanon Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Lebanon.",
+  "hero_image": "https://images.luxuryescapes.com/vw8afsl3zvh4vquecy",
+  "popular_destinations": [
+    {
+      "name": "Beirut",
+      "slug": "beirut",
+      "image": "https://images.luxuryescapes.com/vw8afsl3zvh4vquecy",
+      "description": "Explore Beirut with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 172
+    },
+    {
+      "name": "Mzaar",
+      "slug": "mzaar",
+      "image": "https://images.luxuryescapes.com/ku00xvdgdfhdur2s5oy",
+      "description": "Explore Mzaar with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 121
+    }
+  ],
+  "seo": {
+    "title": "Lebanon Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Lebanon with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "lebanon hotels",
+      "lebanon travel",
+      "lebanon luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/lebanon",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/lebanon",
+      "es": "https://mondoexplora.com/es/country/lebanon",
+      "fr": "https://mondoexplora.com/fr/country/lebanon",
+      "it": "https://mondoexplora.com/it/country/lebanon"
+    }
+  }
+}

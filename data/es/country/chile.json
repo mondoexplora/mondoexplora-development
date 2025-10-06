@@ -1,0 +1,31 @@
+{
+  "name": "Chile",
+  "code": "CL",
+  "hero_title": "Chile Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Chile.",
+  "hero_image": "https://images.luxuryescapes.com/dnbradw7cdpp8afboqzkd",
+  "popular_destinations": [
+    {
+      "name": "Santiago",
+      "slug": "santiago",
+      "image": "https://images.luxuryescapes.com/dnbradw7cdpp8afboqzkd",
+      "description": "Explore Santiago with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Chile Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Chile con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "chile hotels",
+      "chile travel",
+      "chile luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/cl",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/cl",
+      "es": "https://mondoexplora.com/es/country/cl",
+      "fr": "https://mondoexplora.com/fr/country/cl",
+      "it": "https://mondoexplora.com/it/country/cl"
+    }
+  }
+}

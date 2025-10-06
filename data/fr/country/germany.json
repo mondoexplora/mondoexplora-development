@@ -1,0 +1,61 @@
+{
+  "name": "Germany",
+  "code": "DE",
+  "hero_title": "Germany Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Germany.",
+  "hero_image": "https://images.luxuryescapes.com/glaz7ro1nd8lvnfzrnc",
+  "popular_destinations": [
+    {
+      "name": "Bad Reichenhall",
+      "slug": "bad-reichenhall",
+      "image": "https://images.luxuryescapes.com/glaz7ro1nd8lvnfzrnc",
+      "description": "Explore Bad Reichenhall with luxury accommodations"
+    },
+    {
+      "name": "Baden-Baden",
+      "slug": "baden-baden",
+      "image": "https://images.luxuryescapes.com/rn70di3xnho0u70zux6r",
+      "description": "Explore Baden-Baden with luxury accommodations"
+    },
+    {
+      "name": "Berlin",
+      "slug": "berlin",
+      "image": "https://images.luxuryescapes.com/0oy6xqew8xpwpq8fijn",
+      "description": "Explore Berlin with luxury accommodations"
+    },
+    {
+      "name": "Bremen",
+      "slug": "bremen",
+      "image": "https://images.luxuryescapes.com/lh3tqpxo1ah58qxmml5",
+      "description": "Explore Bremen with luxury accommodations"
+    },
+    {
+      "name": "City West",
+      "slug": "city-west",
+      "image": "https://images.luxuryescapes.com/3bn4iiwhv5eurkgu16lw",
+      "description": "Explore City West with luxury accommodations"
+    },
+    {
+      "name": "Dresden",
+      "slug": "dresden",
+      "image": "https://images.luxuryescapes.com/2azoqsxwtqodzq0p48ytf",
+      "description": "Explore Dresden with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Germany Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Germany avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "germany hotels",
+      "germany travel",
+      "germany luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/de",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/de",
+      "es": "https://mondoexplora.com/es/country/de",
+      "fr": "https://mondoexplora.com/fr/country/de",
+      "it": "https://mondoexplora.com/it/country/de"
+    }
+  }
+}

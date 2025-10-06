@@ -1,0 +1,50 @@
+{
+  "city": "Sanya",
+  "country": "China",
+  "country_code": "CN",
+  "hero_title": "Hotels in Sanya",
+  "description": "Discover the best hotels in Sanya, China. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/33afy3e4ur2ve6b245jk",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Resort Sanya Bay",
+      "offer_country_name": "China",
+      "location_heading": "Sanya",
+      "title": "Sanya Bay Beachfront Resort with Magnificent Swimming Pool",
+      "description": "Picturesque coastlines and palm-fringed beaches await at Crowne Plaza Resort Sanya Bay, an IHG Hotel, a glamorous gateway to the turquoise tides of the South China Sea. Attain peak relaxation as you float in the magnificent pool or bask on sun loungers with a colourful cocktail in hand. As the sun goes down, watch the waves with sand between your toes, sample Cantonese delicacies at Shan Hai Lou restaurant or venture out to get your heart racing at the Love World amusement park.",
+      "location_subheading": "China",
+      "price": 60,
+      "original_price": 60,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJbyAAH",
+      "hero_image": "https://images.luxuryescapes.com/33afy3e4ur2ve6b245jk",
+      "image_two": "https://images.luxuryescapes.com/wrtvq69wtsvjo64fgnvk",
+      "image_three": "https://images.luxuryescapes.com/chfp95rmjycctj30b3",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Sanya - China Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Sanya, China with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "sanya hotels",
+      "sanya travel",
+      "china hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/sanya",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/sanya",
+      "es": "https://mondoexplora.com/es/destination/sanya",
+      "fr": "https://mondoexplora.com/fr/destination/sanya",
+      "it": "https://mondoexplora.com/it/destination/sanya"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 60,
+    "average_discount": 0
+  }
+}

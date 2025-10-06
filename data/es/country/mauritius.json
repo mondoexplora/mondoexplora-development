@@ -1,0 +1,61 @@
+{
+  "name": "Mauritius",
+  "code": "MU",
+  "hero_title": "Mauritius Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Mauritius.",
+  "hero_image": "https://images.luxuryescapes.com/d94763igr6gtm91dz07z8",
+  "popular_destinations": [
+    {
+      "name": "Balaclava",
+      "slug": "balaclava",
+      "image": "https://images.luxuryescapes.com/d94763igr6gtm91dz07z8",
+      "description": "Explore Balaclava with luxury accommodations"
+    },
+    {
+      "name": "Bel Ombre",
+      "slug": "bel-ombre",
+      "image": "https://images.luxuryescapes.com/rwlyooy26kjodlidgioe",
+      "description": "Explore Bel Ombre with luxury accommodations"
+    },
+    {
+      "name": "Belle Mare",
+      "slug": "belle-mare",
+      "image": "https://images.luxuryescapes.com/niq27g5fsaj1frcxz04i",
+      "description": "Explore Belle Mare with luxury accommodations"
+    },
+    {
+      "name": "Flic En Flac",
+      "slug": "flic-en-flac",
+      "image": "https://images.luxuryescapes.com/8l8xhc3kr8uuuvei0a",
+      "description": "Explore Flic En Flac with luxury accommodations"
+    },
+    {
+      "name": "Plaine Magnien",
+      "slug": "plaine-magnien",
+      "image": "https://images.luxuryescapes.com/nb28x86bqf9ax3ali5gj",
+      "description": "Explore Plaine Magnien with luxury accommodations"
+    },
+    {
+      "name": "Trou d'Eau Douce",
+      "slug": "trou-d'eau-douce",
+      "image": "https://images.luxuryescapes.com/qvkjj1kn4d3evzdg7a",
+      "description": "Explore Trou d'Eau Douce with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Mauritius Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Mauritius con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "mauritius hotels",
+      "mauritius travel",
+      "mauritius luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/mu",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/mu",
+      "es": "https://mondoexplora.com/es/country/mu",
+      "fr": "https://mondoexplora.com/fr/country/mu",
+      "it": "https://mondoexplora.com/it/country/mu"
+    }
+  }
+}

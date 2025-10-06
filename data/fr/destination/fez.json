@@ -1,0 +1,50 @@
+{
+  "city": "Fez",
+  "country": "Morocco",
+  "country_code": "MA",
+  "hero_title": "Hôtels à Fez",
+  "description": "Découvrez les meilleurs hôtels à Fez, Morocco. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/v3bved8j44t0ey2z7lqk",
+  "hotels": [
+    {
+      "vendor_name": "Riad Fes - Relais & Châteaux",
+      "offer_country_name": "Morocco",
+      "location_heading": "Fez",
+      "title": "Five-Star Fez Relais & Châteaux Elegance with Medina & Atlas Mountains Views",
+      "description": "Step into a world where authentic Moroccan culture and contemporary luxuries collide at the five-star Riad Fès - Relais & Châteaux, a beautifully restored retreat in the heart of Fez, Morocco's oldest medina. Framed by Spanish-Moorish architecture, inspired by the city's prestigious history and draped in décor reminiscent of Arabian Nights, this palatial abode invites you to enjoy an opulent lifestyle once reserved for Fassi nobility. Boasting unrivalled vistas across the UNESCO World Heritage-listed Medina of Fez and spectacular Atlas Mountains, the intimate rooftop terrace is the ideal spot to watch the sunset, while the luxurious spa and wellness centre promises absolute rejuvenation through its effortless blend of traditional techniques and world-class technology. Choose to learn the secrets behind Moroccan flavours with an onsite cooking class or by dining at the boutique Gayza restaurant, where locally inspired dishes are individually curated to your taste. Slip into the luxurious outdoor pool, relax on the panoramic terrace or plunge into the medieval labyrinth of myriad souks and ancient sights that interlace the surrounding medina, from the ornate Blue Gate to the Palais Royal Dar El Makhzen and Marinid Tombs.",
+      "location_subheading": "Morocco",
+      "price": 302,
+      "original_price": 302,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000004LM7qAAG",
+      "hero_image": "https://images.luxuryescapes.com/v3bved8j44t0ey2z7lqk",
+      "image_two": "https://images.luxuryescapes.com/zayvraces6e1xzfeccgc",
+      "image_three": "https://images.luxuryescapes.com/qjxdmhtsxowz51sz3ow",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Fez - Morocco Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Fez, Morocco avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "fez hotels",
+      "fez travel",
+      "morocco hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/fez",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/fez",
+      "es": "https://mondoexplora.com/es/destination/fez",
+      "fr": "https://mondoexplora.com/fr/destination/fez",
+      "it": "https://mondoexplora.com/it/destination/fez"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 302,
+    "average_discount": 0
+  }
+}

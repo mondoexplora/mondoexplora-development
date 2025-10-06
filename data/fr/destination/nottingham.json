@@ -1,0 +1,50 @@
+{
+  "city": "Nottingham",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hôtels à Nottingham",
+  "description": "Découvrez les meilleurs hôtels à Nottingham, United Kingdom. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/c06qjd1phiehks8gg79b",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Nottingham",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Nottingham",
+      "title": "UK Sophisticated Nottingham Escape in City Centre",
+      "description": "Follow the spirited locals of Nottingham in search of hilltop heritage sites, eclectic music and vibrant venues with a stay at Crowne Plaza Nottingham, an IHG Hotel. Stroll where your heart takes you in the city made famous by Robin Hood - from high-end shopping to the Theatre Royal Concert Hall, it's all within reach. Indulge in locally sourced steak and gourmet fish and chips at Swatch Restaurant or experience a blissful treatment at Urban Escape Spa.",
+      "location_subheading": "United Kingdom",
+      "price": 87,
+      "original_price": 87,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJbnAAH",
+      "hero_image": "https://images.luxuryescapes.com/c06qjd1phiehks8gg79b",
+      "image_two": "https://images.luxuryescapes.com/mjdpbodkfgcg18t5z6r",
+      "image_three": "https://images.luxuryescapes.com/7dafnzf2ol7vtxpfpgbf",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2027-01-06 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Nottingham - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Nottingham, United Kingdom avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "nottingham hotels",
+      "nottingham travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/nottingham",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/nottingham",
+      "es": "https://mondoexplora.com/es/destination/nottingham",
+      "fr": "https://mondoexplora.com/fr/destination/nottingham",
+      "it": "https://mondoexplora.com/it/destination/nottingham"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 87,
+    "average_discount": 0
+  }
+}

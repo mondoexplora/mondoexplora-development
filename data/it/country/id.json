@@ -1,0 +1,61 @@
+{
+  "name": "Indonesia",
+  "code": "ID",
+  "hero_title": "Indonesia Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Indonesia.",
+  "hero_image": "https://images.luxuryescapes.com/8csidbf7pgl12j8fzft",
+  "popular_destinations": [
+    {
+      "name": "Batam",
+      "slug": "batam",
+      "image": "https://images.luxuryescapes.com/8csidbf7pgl12j8fzft",
+      "description": "Explore Batam with luxury accommodations"
+    },
+    {
+      "name": "Jimbaran",
+      "slug": "jimbaran",
+      "image": "https://images.luxuryescapes.com/i1icudtgtge0g5wilww",
+      "description": "Explore Jimbaran with luxury accommodations"
+    },
+    {
+      "name": "Kuta",
+      "slug": "kuta",
+      "image": "https://images.luxuryescapes.com/jroxsmhdh5skt7kn29v6",
+      "description": "Explore Kuta with luxury accommodations"
+    },
+    {
+      "name": "Nusa Dua",
+      "slug": "nusa-dua",
+      "image": "https://images.luxuryescapes.com/ojy1foyvo3kpqqeug",
+      "description": "Explore Nusa Dua with luxury accommodations"
+    },
+    {
+      "name": "Sanur",
+      "slug": "sanur",
+      "image": "https://images.luxuryescapes.com/ii6bt0mf63uxfrx7pi2u",
+      "description": "Explore Sanur with luxury accommodations"
+    },
+    {
+      "name": "Seminyak",
+      "slug": "seminyak",
+      "image": "https://images.luxuryescapes.com/nt999r588if0oaaxbhp",
+      "description": "Explore Seminyak with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Indonesia Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Indonesia con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "indonesia hotels",
+      "indonesia travel",
+      "indonesia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/id",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/id",
+      "es": "https://mondoexplora.com/es/country/id",
+      "fr": "https://mondoexplora.com/fr/country/id",
+      "it": "https://mondoexplora.com/it/country/id"
+    }
+  }
+}

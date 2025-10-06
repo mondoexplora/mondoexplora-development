@@ -1,0 +1,43 @@
+{
+  "name": "Laos",
+  "code": "LA",
+  "hero_title": "Laos Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Laos.",
+  "hero_image": "https://images.luxuryescapes.com/nbg1uwcqmmg8nydupf6i",
+  "popular_destinations": [
+    {
+      "name": "Luang Prabang",
+      "slug": "luang-prabang",
+      "image": "https://images.luxuryescapes.com/nbg1uwcqmmg8nydupf6i",
+      "description": "Explore Luang Prabang with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 169
+    },
+    {
+      "name": "Vientiane",
+      "slug": "vientiane",
+      "image": "https://images.luxuryescapes.com/zd64vws63oxdwfo8tr6d",
+      "description": "Explore Vientiane with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 87
+    }
+  ],
+  "seo": {
+    "title": "Laos Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Laos with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "laos hotels",
+      "laos travel",
+      "laos luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/la",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/la",
+      "es": "https://mondoexplora.com/es/country/la",
+      "fr": "https://mondoexplora.com/fr/country/la",
+      "it": "https://mondoexplora.com/it/country/la"
+    }
+  }
+}

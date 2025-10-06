@@ -1,0 +1,50 @@
+{
+  "city": "Maroochydore",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Maroochydore",
+  "description": "Discover the best hotels in Maroochydore, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/40regs9xvd137vzgm6b9",
+  "hotels": [
+    {
+      "vendor_name": "Holiday Inn Express & Suites Sunshine Coast",
+      "offer_country_name": "Australia",
+      "location_heading": "Maroochydore",
+      "title": "Contemporary Sunshine Coast Escape with Rooftop Pool",
+      "description": "Explore Australia’s glorious Queensland coast with a stay at Holiday Inn Express & Suites Sunshine Coast, an IHG Hotel. Immerse yourself in the beauty that drapes this coastal city, from the flawless beaches to the calming laid-back vibe of the locals. Wander through the national parks, discover secret swimming holes and endless stretches of beach, before returning to your modern room in the heart of Maroochydore City's CBD.",
+      "location_subheading": "Australia",
+      "price": 88,
+      "original_price": 88,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DH7KaAAL",
+      "hero_image": "https://images.luxuryescapes.com/40regs9xvd137vzgm6b9",
+      "image_two": "https://images.luxuryescapes.com/tfloy3kaxne01qlj5cd",
+      "image_three": "https://images.luxuryescapes.com/cwxee598qmvsl6256gri",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Maroochydore - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Maroochydore, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "maroochydore hotels",
+      "maroochydore travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/maroochydore",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/maroochydore",
+      "es": "https://mondoexplora.com/es/destination/maroochydore",
+      "fr": "https://mondoexplora.com/fr/destination/maroochydore",
+      "it": "https://mondoexplora.com/it/destination/maroochydore"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 88,
+    "average_discount": 0
+  }
+}

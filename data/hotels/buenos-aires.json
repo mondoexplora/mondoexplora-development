@@ -1,0 +1,46 @@
+[
+  {
+    "vendor_name": "Hotel Madero",
+    "title": "Luxury waterfront hotel in Puerto Madero",
+    "description": "Experience luxury in the heart of Buenos Aires' most exclusive neighborhood. Hotel Madero offers stunning river views, world-class dining, and easy access to the city's top attractions.",
+    "price": "189",
+    "value": "320",
+    "hero_image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "link": "https://luxuryescapes.com/us/hotels",
+    "location_heading": "Puerto Madero",
+    "location_subheading": "Buenos Aires, Argentina"
+  },
+  {
+    "vendor_name": "Palacio Duhau",
+    "title": "Historic palace turned luxury hotel",
+    "description": "Stay in a beautifully restored 1930s palace in the elegant Recoleta neighborhood. Palacio Duhau combines historic charm with modern luxury amenities.",
+    "price": "245",
+    "value": "410",
+    "hero_image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "link": "https://luxuryescapes.com/us/hotels",
+    "location_heading": "Recoleta",
+    "location_subheading": "Buenos Aires, Argentina"
+  },
+  {
+    "vendor_name": "Faena Hotel",
+    "title": "Artistic luxury in Puerto Madero",
+    "description": "A masterpiece of design and luxury, Faena Hotel Buenos Aires offers an artistic retreat with stunning architecture, fine dining, and world-class service.",
+    "price": "298",
+    "value": "520",
+    "hero_image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "link": "https://luxuryescapes.com/us/hotels",
+    "location_heading": "Puerto Madero",
+    "location_subheading": "Buenos Aires, Argentina"
+  },
+  {
+    "vendor_name": "Alvear Palace Hotel",
+    "title": "Iconic luxury in the heart of Recoleta",
+    "description": "The legendary Alvear Palace Hotel offers timeless elegance and impeccable service in one of Buenos Aires' most prestigious addresses.",
+    "price": "365",
+    "value": "650",
+    "hero_image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "link": "https://luxuryescapes.com/us/hotels",
+    "location_heading": "Recoleta",
+    "location_subheading": "Buenos Aires, Argentina"
+  }
+] 

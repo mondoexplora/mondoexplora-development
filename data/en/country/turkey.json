@@ -1,0 +1,79 @@
+{
+  "name": "Turkey",
+  "code": "TR",
+  "hero_title": "Turkey Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Turkey.",
+  "hero_image": "https://images.luxuryescapes.com/upahecqtcc9o3fk7zse",
+  "popular_destinations": [
+    {
+      "name": "Istanbul",
+      "slug": "istanbul",
+      "image": "https://images.luxuryescapes.com/upahecqtcc9o3fk7zse",
+      "description": "Explore Istanbul with luxury accommodations",
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 235
+    },
+    {
+      "name": "Bodrum",
+      "slug": "bodrum",
+      "image": "https://images.luxuryescapes.com/5ln5suqgnituu5z9alh",
+      "description": "Explore Bodrum with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 489
+    },
+    {
+      "name": "Bursa",
+      "slug": "bursa",
+      "image": "https://images.luxuryescapes.com/zr1647ogauz5q1mvn0d",
+      "description": "Explore Bursa with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 108
+    },
+    {
+      "name": "Ankara",
+      "slug": "ankara",
+      "image": "https://images.luxuryescapes.com/dec898behrdewoq1ft8b",
+      "description": "Explore Ankara with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 105
+    },
+    {
+      "name": "Antalya",
+      "slug": "antalya",
+      "image": "https://images.luxuryescapes.com/ebm4lc0z06rf8xo5w8ve",
+      "description": "Explore Antalya with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 142
+    },
+    {
+      "name": "Buyukada",
+      "slug": "buyukada",
+      "image": "https://images.luxuryescapes.com/r2i2jmyjh55tgs92owm",
+      "description": "Explore Buyukada with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 650
+    }
+  ],
+  "seo": {
+    "title": "Turkey Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Turkey with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "turkey hotels",
+      "turkey travel",
+      "turkey luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/turkey",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/turkey",
+      "es": "https://mondoexplora.com/es/country/turkey",
+      "fr": "https://mondoexplora.com/fr/country/turkey",
+      "it": "https://mondoexplora.com/it/country/turkey"
+    }
+  }
+}

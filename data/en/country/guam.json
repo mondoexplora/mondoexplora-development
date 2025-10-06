@@ -1,0 +1,34 @@
+{
+  "name": "Guam",
+  "code": "GU",
+  "hero_title": "Guam Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Guam.",
+  "hero_image": "https://images.luxuryescapes.com/o9yut6iijljupoevgd1",
+  "popular_destinations": [
+    {
+      "name": "Tamuning",
+      "slug": "tamuning",
+      "image": "https://images.luxuryescapes.com/o9yut6iijljupoevgd1",
+      "description": "Explore Tamuning with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 166
+    }
+  ],
+  "seo": {
+    "title": "Guam Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Guam with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "guam hotels",
+      "guam travel",
+      "guam luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/guam",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/guam",
+      "es": "https://mondoexplora.com/es/country/guam",
+      "fr": "https://mondoexplora.com/fr/country/guam",
+      "it": "https://mondoexplora.com/it/country/guam"
+    }
+  }
+}

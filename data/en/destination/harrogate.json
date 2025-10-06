@@ -1,0 +1,50 @@
+{
+  "city": "Harrogate",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hotels in Harrogate",
+  "description": "Discover the best hotels in Harrogate, United Kingdom. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/ayynqrzts9hbtpositkjn",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Harrogate",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Harrogate",
+      "title": "North Yorkshire Charming Retreat within Harrogate Spa Town",
+      "description": "Walk in the footsteps of European royalty who once flocked to Harrogate for their famous natural springs and lose yourself in this charming city with a stay at Crowne Plaza Harrogate, an IHG Hotel. There’s no better place to promenade along tree-lined boulevards in search of plentiful spas and elegant eats than from your central launchpad. Spend a while admiring views of the Yorkshire Dales while sipping on tea at Springs Bar and Terrace or savour a delectable meal at Springs Restaurant.",
+      "location_subheading": "United Kingdom",
+      "price": 57,
+      "original_price": 57,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJb7AAH",
+      "hero_image": "https://images.luxuryescapes.com/ayynqrzts9hbtpositkjn",
+      "image_two": "https://images.luxuryescapes.com/uh69vgtzt79xy69m41b7",
+      "image_three": "https://images.luxuryescapes.com/muhiehnqws0ud110uoxwh",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Harrogate - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Harrogate, United Kingdom with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "harrogate hotels",
+      "harrogate travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/harrogate",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/harrogate",
+      "es": "https://mondoexplora.com/es/destination/harrogate",
+      "fr": "https://mondoexplora.com/fr/destination/harrogate",
+      "it": "https://mondoexplora.com/it/destination/harrogate"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 57,
+    "average_discount": 0
+  }
+}

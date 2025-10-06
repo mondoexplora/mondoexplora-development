@@ -1,0 +1,37 @@
+{
+  "name": "Macao",
+  "code": "MO",
+  "hero_title": "Macao Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Macao.",
+  "hero_image": "https://images.luxuryescapes.com/37tj1pa37kkpl7pcyzr",
+  "popular_destinations": [
+    {
+      "name": "Cotai Central",
+      "slug": "cotai-central",
+      "image": "https://images.luxuryescapes.com/37tj1pa37kkpl7pcyzr",
+      "description": "Explore Cotai Central with luxury accommodations"
+    },
+    {
+      "name": "Macau",
+      "slug": "macau",
+      "image": "https://images.luxuryescapes.com/6ki8hw3puo679udx72h",
+      "description": "Explore Macau with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Macao Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Macao con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "macao hotels",
+      "macao travel",
+      "macao luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/mo",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/mo",
+      "es": "https://mondoexplora.com/es/country/mo",
+      "fr": "https://mondoexplora.com/fr/country/mo",
+      "it": "https://mondoexplora.com/it/country/mo"
+    }
+  }
+}

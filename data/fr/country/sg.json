@@ -1,0 +1,55 @@
+{
+  "name": "Singapore",
+  "code": "SG",
+  "hero_title": "Singapore Travel Guide",
+  "description": "Découvrez le mélange parfait de culture, luxe et aventure en Singapore.",
+  "hero_image": "https://images.luxuryescapes.com/irsjo9b9plntssjc21c",
+  "popular_destinations": [
+    {
+      "name": "Singapore",
+      "slug": "singapore",
+      "image": "https://images.luxuryescapes.com/irsjo9b9plntssjc21c",
+      "description": "Explore Singapore with luxury accommodations"
+    },
+    {
+      "name": "Orchard",
+      "slug": "orchard",
+      "image": "https://images.luxuryescapes.com/qj5cju4deee36sve9f1i",
+      "description": "Explore Orchard with luxury accommodations"
+    },
+    {
+      "name": "Orchard Road",
+      "slug": "orchard-road",
+      "image": "https://images.luxuryescapes.com/nx6opw39eu63mgajzn2n",
+      "description": "Explore Orchard Road with luxury accommodations"
+    },
+    {
+      "name": "Sentosa Island",
+      "slug": "sentosa-island",
+      "image": "https://images.luxuryescapes.com/n3qtvkd4jr262m8r5x1",
+      "description": "Explore Sentosa Island with luxury accommodations"
+    },
+    {
+      "name": "Tanglin",
+      "slug": "tanglin",
+      "image": "https://images.luxuryescapes.com/b7nhyral4nkxczom6iwv",
+      "description": "Explore Tanglin with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Singapore Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels en Singapore avec des offres exclusives. Explorez des hébergements de luxe et des guides de voyage.",
+    "keywords": [
+      "singapore hotels",
+      "singapore travel",
+      "singapore luxury"
+    ],
+    "canonical": "https://mondoexplora.com/fr/country/sg",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/sg",
+      "es": "https://mondoexplora.com/es/country/sg",
+      "fr": "https://mondoexplora.com/fr/country/sg",
+      "it": "https://mondoexplora.com/it/country/sg"
+    }
+  }
+}

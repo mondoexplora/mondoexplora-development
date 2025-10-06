@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Blog Post - MondoExplora</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key={{ GOOGLE_MAPS_API_KEY }}&libraries=places"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 300;
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .form-container {
+            padding: 40px;
+        }
+
+        .form-section {
+            margin-bottom: 40px;
+            padding: 30px;
+            background: #f8f9fa;
+            border-radius: 15px;
+            border-left: 5px solid #667eea;
+        }
+
+        .section-title {
+            font-size: 1.5rem;
+            color: #333;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .form-group {
+            margin-bottom: 25px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #555;
+        }
+
+        .form-control {
+            width: 100%;
+            padding: 15px;
+            border: 2px solid #e1e5e9;
+            border-radius: 10px;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+
+        .form-control:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .textarea {
+            min-height: 120px;
+            resize: vertical;
+        }
+
+        /* Map Section */
+        .map-section {
+            background: white;
+            border: 2px solid #e1e5e9;
+            border-radius: 15px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        .destination-inputs {
+            display: grid;
+            grid-template-columns: 1fr 1fr auto;
+            gap: 15px;
+            align-items: end;
+            margin-bottom: 20px;
+        }
+
+        .destination-item {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 10px;
+            border: 1px solid #e1e5e9;
+            margin-bottom: 10px;
+        }
+
+        .destination-header {
+            display: flex;
+            justify-content: between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .destination-number {
+            background: #667eea;
+            color: white;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+        }
+
+        .destination-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+
+        .destination-content.expanded {
+            grid-template-columns: 1fr;
+        }
+
+        .destination-content textarea {
+            min-height: 100px;
+        }
+
+        .destination-content.collapsed textarea {
+            min-height: 40px;
+            resize: none;
+        }
+
+        .map-preview {
+            height: 400px;
+            background: #f0f0f0;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #666;
+            font-size: 1.1rem;
+        }
+
+        /* Image Upload */
+        .image-upload-section {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+
+        .image-upload-item {
+            border: 2px dashed #ddd;
+            border-radius: 15px;
+            padding: 30px;
+            text-align: center;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .image-upload-item:hover {
+            border-color: #667eea;
+            background: #f8f9ff;
+        }
+
+        .image-upload-item i {
+            font-size: 3rem;
+            color: #ddd;
+            margin-bottom: 15px;
+        }
+
+        .image-upload-item input[type="file"] {
+            position: absolute;
+            opacity: 0;
+            width: 100%;
+            height: 100%;
+            cursor: pointer;
+        }
+
+        .image-preview {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 10px;
+            display: none;
+        }
+
+        /* Countries and Tags */
+        .countries-tags {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+        }
+
+        .tag-input {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            padding: 10px;
+            border: 2px solid #e1e5e9;
+            border-radius: 10px;
+            min-height: 50px;
+        }
+
+        .tag {
+            background: #667eea;
+            color: white;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .tag i {
+            cursor: pointer;
+            font-size: 12px;
+        }
+
+        .tag-input input {
+            border: none;
+            outline: none;
+            flex: 1;
+            min-width: 100px;
+        }
+
+        /* Buttons */
+        .btn {
+            padding: 12px 25px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+        }
+
+        .btn-secondary {
+            background: #6c757d;
+            color: white;
+        }
+
+        .btn-danger {
+            background: #dc3545;
+            color: white;
+        }
+
+        .btn-sm {
+            padding: 8px 15px;
+            font-size: 14px;
+        }
+
+        .form-actions {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            margin-top: 40px;
+            padding-top: 30px;
+            border-top: 2px solid #e1e5e9;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .destination-inputs {
+                grid-template-columns: 1fr;
+            }
+            
+            .destination-content {
+                grid-template-columns: 1fr;
+            }
+            
+            .image-upload-section {
+                grid-template-columns: 1fr;
+            }
+            
+            .countries-tags {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Loading states */
+        .loading {
+            opacity: 0.6;
+            pointer-events: none;
+        }
+
+        .spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #667eea;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Google Maps Autocomplete Styling */
+        .pac-container {
+            border-radius: 10px;
+            border: 2px solid #667eea;
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.2);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .pac-item {
+            padding: 10px 15px;
+            border-bottom: 1px solid #f0f0f0;
+            cursor: pointer;
+        }
+
+        .pac-item:hover {
+            background-color: #f8f9ff;
+        }
+
+        .pac-item-selected {
+            background-color: #667eea !important;
+            color: white !important;
+        }
+
+        .pac-item-query {
+            font-weight: 600;
+            color: #333;
+        }
+
+        .pac-item-selected .pac-item-query {
+            color: white !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1><i class="fas fa-edit"></i> Create New Blog Post</h1>
+            <p>Share your travel adventures with the world</p>
+        </div>
+
+        <form class="form-container" id="createPostForm" enctype="multipart/form-data">
+            <!-- Basic Information -->
+            <div class="form-section">
+                <h2 class="section-title">
+                    <i class="fas fa-info-circle"></i>
+                    Basic Information
+                </h2>
+                
+                <div class="form-group">
+                    <label for="title">Post Title *</label>
+                    <input type="text" id="title" name="title" class="form-control" required 
+                           placeholder="Enter an engaging title for your post">
+                </div>
+
+                <div class="form-group">
+                    <label for="description">Description *</label>
+                    <textarea id="description" name="description" class="form-control textarea" required
+                              placeholder="Write a brief description of your journey (this will appear in search results)"></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label for="slug">URL Slug</label>
+                    <input type="text" id="slug" name="slug" class="form-control" 
+                           placeholder="your-awesome-journey (leave empty for auto-generation)">
+                    <small style="color: #666; margin-top: 5px; display: block;">
+                        This will create the URL: /blog/{{ session.get('creator_username', 'username') }}/your-slug
+                    </small>
+                </div>
+            </div>
+
+            <!-- Journey Map -->
+            <div class="form-section">
+                <h2 class="section-title">
+                    <i class="fas fa-map-marked-alt"></i>
+                    Journey Map
+                </h2>
+                
+                <div class="destination-inputs">
+                    <div class="form-group">
+                        <label for="destination1">Destination 1 *</label>
+                        <input type="text" id="destination1" name="destinations[]" class="form-control destination-input" 
+                               placeholder="Start typing a destination..." required>
+                    </div>
+                    <div class="form-group">
+                        <label for="destination1_content">What you did there</label>
+                        <textarea id="destination1_content" name="destination_contents[]" class="form-control" 
+                                  placeholder="Describe your experience at this destination"></textarea>
+                    </div>
+                    <button type="button" class="btn btn-secondary btn-sm" onclick="addDestination()">
+                        <i class="fas fa-plus"></i> Add Stop
+                    </button>
+                </div>
+
+                <div id="additionalDestinations"></div>
+
+                <div class="map-section">
+                    <h3 style="margin-bottom: 15px; color: #333;">
+                        <i class="fas fa-map"></i> Route Preview
+                    </h3>
+                    <div class="map-preview" id="mapPreview">
+                        <div id="map" style="width: 100%; height: 400px; border-radius: 10px;"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Main Content -->
+            <div class="form-section">
+                <h2 class="section-title">
+                    <i class="fas fa-pen-fancy"></i>
+                    Main Content
+                </h2>
+                
+                <div class="form-group">
+                    <label for="content">Your Story *</label>
+                    <textarea id="content" name="content" class="form-control textarea" required
+                              placeholder="Tell your travel story..."></textarea>
+                </div>
+            </div>
+
+            <!-- Images -->
+            <div class="form-section">
+                <h2 class="section-title">
+                    <i class="fas fa-images"></i>
+                    Images (3 required)
+                </h2>
+                
+                <div class="image-upload-section">
+                    <div class="image-upload-item" onclick="document.getElementById('image1').click()">
+                        <input type="file" id="image1" name="images[]" accept="image/*" required>
+                        <i class="fas fa-cloud-upload-alt"></i>
+                        <p>Upload Image 1</p>
+                        <img class="image-preview" id="preview1">
+                    </div>
+                    
+                    <div class="image-upload-item" onclick="document.getElementById('image2').click()">
+                        <input type="file" id="image2" name="images[]" accept="image/*" required>
+                        <i class="fas fa-cloud-upload-alt"></i>
+                        <p>Upload Image 2</p>
+                        <img class="image-preview" id="preview2">
+                    </div>
+                    
+                    <div class="image-upload-item" onclick="document.getElementById('image3').click()">
+                        <input type="file" id="image3" name="images[]" accept="image/*" required>
+                        <i class="fas fa-cloud-upload-alt"></i>
+                        <p>Upload Image 3</p>
+                        <img class="image-preview" id="preview3">
+                    </div>
+                </div>
+            </div>
+
+            <!-- SEO & Categories -->
+            <div class="form-section">
+                <h2 class="section-title">
+                    <i class="fas fa-search"></i>
+                    SEO & Categories
+                </h2>
+                
+                <div class="countries-tags">
+                    <div class="form-group">
+                        <label>Countries Visited *</label>
+                        <div class="tag-input" id="countriesContainer">
+                            <input type="text" id="countryInput" placeholder="Start typing a country...">
+                        </div>
+                        <small style="color: #666;">Select countries from the dropdown</small>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label>Tags</label>
+                        <div class="tag-input" id="tagsContainer">
+                            <input type="text" id="tagInput" placeholder="Add tags...">
+                        </div>
+                        <small style="color: #666;">Press Enter to add a tag</small>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Form Actions -->
+            <div class="form-actions">
+                <button type="button" class="btn btn-secondary" onclick="window.history.back()">
+                    <i class="fas fa-arrow-left"></i> Cancel
+                </button>
+                <button type="submit" class="btn btn-primary" id="submitBtn">
+                    <i class="fas fa-paper-plane"></i> Publish Post
+                </button>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        // Initialize TinyMCE
+        tinymce.init({
+            selector: '#content',
+            height: 400,
+            plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount',
+            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table | align lineheight | numlist bullist indent outdent | emoticons charmap | removeformat',
+            content_style: 'body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 16px; }'
+        });
+
+        // Image preview functionality
+        function setupImagePreview(inputId, previewId) {
+            const input = document.getElementById(inputId);
+            const preview = document.getElementById(previewId);
+            const container = input.parentElement;
+
+            input.addEventListener('change', function(e) {
+                const file = e.target.files[0];
+                if (file) {
+                    const reader = new FileReader();
+                    reader.onload = function(e) {
+                        preview.src = e.target.result;
+                        preview.style.display = 'block';
+                        container.querySelector('i').style.display = 'none';
+                        container.querySelector('p').style.display = 'none';
+                    };
+                    reader.readAsDataURL(file);
+                }
+            });
+        }
+
+        setupImagePreview('image1', 'preview1');
+        setupImagePreview('image2', 'preview2');
+        setupImagePreview('image3', 'preview3');
+
+        // Destination management
+        let destinationCount = 1;
+
+        function addDestination() {
+            destinationCount++;
+            if (destinationCount > 15) {
+                alert('Maximum 15 destinations allowed');
+                return;
+            }
+
+            const container = document.getElementById('additionalDestinations');
+            const destinationDiv = document.createElement('div');
+            destinationDiv.className = 'destination-inputs';
+            destinationDiv.innerHTML = `
+                <div class="form-group">
+                    <label for="destination${destinationCount}">Destination ${destinationCount}</label>
+                    <input type="text" id="destination${destinationCount}" name="destinations[]" class="form-control destination-input" 
+                           placeholder="Start typing a destination...">
+                </div>
+                <div class="form-group">
+                    <label for="destination${destinationCount}_content">What you did there</label>
+                    <textarea id="destination${destinationCount}_content" name="destination_contents[]" class="form-control" 
+                              placeholder="Describe your experience at this destination"></textarea>
+                </div>
+                <button type="button" class="btn btn-danger btn-sm" onclick="removeDestination(this)">
+                    <i class="fas fa-trash"></i> Remove
+                </button>
+            `;
+            container.appendChild(destinationDiv);
+        }
+
+        function removeDestination(button) {
+            button.parentElement.remove();
+            destinationCount--;
+        }
+
+        // Countries and tags management
+        const countries = [];
+        const tags = [];
+
+        document.getElementById('countryInput').addEventListener('keydown', function(e) {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                const country = this.value.trim();
+                if (country && !countries.includes(country)) {
+                    countries.push(country);
+                    updateCountriesDisplay();
+                }
+                this.value = '';
+            }
+        });
+
+        document.getElementById('tagInput').addEventListener('keydown', function(e) {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                const tag = this.value.trim();
+                if (tag && !tags.includes(tag)) {
+                    tags.push(tag);
+                    updateTagsDisplay();
+                }
+                this.value = '';
+            }
+        });
+
+        function updateCountriesDisplay() {
+            const container = document.getElementById('countriesContainer');
+            const input = document.getElementById('countryInput');
+            
+            // Remove existing tags
+            container.querySelectorAll('.tag').forEach(tag => tag.remove());
+            
+            // Add country tags
+            countries.forEach(country => {
+                const tag = document.createElement('span');
+                tag.className = 'tag';
+                tag.innerHTML = `${country} <i class="fas fa-times" onclick="removeCountry('${country}')"></i>`;
+                container.insertBefore(tag, input);
+            });
+        }
+
+        function updateTagsDisplay() {
+            const container = document.getElementById('tagsContainer');
+            const input = document.getElementById('tagInput');
+            
+            // Remove existing tags
+            container.querySelectorAll('.tag').forEach(tag => tag.remove());
+            
+            // Add tag elements
+            tags.forEach(tag => {
+                const tagElement = document.createElement('span');
+                tagElement.className = 'tag';
+                tagElement.innerHTML = `${tag} <i class="fas fa-times" onclick="removeTag('${tag}')"></i>`;
+                container.insertBefore(tagElement, input);
+            });
+        }
+
+        function removeCountry(country) {
+            const index = countries.indexOf(country);
+            if (index > -1) {
+                countries.splice(index, 1);
+                updateCountriesDisplay();
+            }
+        }
+
+        function removeTag(tag) {
+            const index = tags.indexOf(tag);
+            if (index > -1) {
+                tags.splice(index, 1);
+                updateTagsDisplay();
+            }
+        }
+
+        // Form submission
+        document.getElementById('createPostForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const submitBtn = document.getElementById('submitBtn');
+            submitBtn.innerHTML = '<div class="spinner"></div> Publishing...';
+            submitBtn.disabled = true;
+            
+            // Add countries and tags to form data
+            const formData = new FormData(this);
+            formData.append('countries', JSON.stringify(countries));
+            formData.append('tags', JSON.stringify(tags));
+            
+            // Add coordinates to form data
+            const destinationInputs = document.querySelectorAll('input[name="destinations[]"]');
+            destinationInputs.forEach((input, index) => {
+                const lat = input.getAttribute('data-lat');
+                const lng = input.getAttribute('data-lng');
+                if (lat && lng) {
+                    formData.append(`destination${index + 1}_lat`, lat);
+                    formData.append(`destination${index + 1}_lng`, lng);
+                }
+            });
+
+            // Submit form
+            fetch('/creator/create', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    alert('Post created successfully!');
+                    window.location.href = '/creator/dashboard';
+                } else {
+                    alert('Error: ' + data.message);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('An error occurred while creating the post');
+            })
+            .finally(() => {
+                submitBtn.innerHTML = '<i class="fas fa-paper-plane"></i> Publish Post';
+                submitBtn.disabled = false;
+            });
+        });
+
+        // Google Maps functionality
+        let map;
+        let markers = [];
+        let directionsService;
+        let directionsRenderer;
+        let autocompleteInstances = [];
+
+        // Initialize Google Maps
+        function initMap() {
+            // Initialize the map centered on Europe
+            map = new google.maps.Map(document.getElementById('map'), {
+                center: { lat: 48.8566, lng: 2.3522 }, // Paris
+                zoom: 4,
+                styles: [
+                    {
+                        featureType: 'poi',
+                        elementType: 'labels',
+                        stylers: [{ visibility: 'off' }]
+                    }
+                ]
+            });
+
+            directionsService = new google.maps.DirectionsService();
+            directionsRenderer = new google.maps.DirectionsRenderer({
+                suppressMarkers: true,
+                polylineOptions: {
+                    strokeColor: '#667eea',
+                    strokeWeight: 4
+                }
+            });
+            directionsRenderer.setMap(map);
+        }
+
+        // Initialize autocomplete for destination inputs
+        function initializeAutocomplete(inputId) {
+            const input = document.getElementById(inputId);
+            if (!input) return;
+
+            const autocomplete = new google.maps.places.Autocomplete(input, {
+                types: ['(cities)'],
+                fields: ['place_id', 'geometry', 'name', 'formatted_address']
+            });
+
+            autocomplete.addListener('place_changed', function() {
+                const place = autocomplete.getPlace();
+                if (place.geometry) {
+                    updateMap();
+                }
+            });
+
+            autocompleteInstances.push(autocomplete);
+        }
+
+        // Update map with current destinations
+        function updateMap() {
+            // Clear existing markers
+            markers.forEach(marker => marker.setMap(null));
+            markers = [];
+
+            const destinations = [];
+            const destinationInputs = document.querySelectorAll('input[name="destinations[]"]');
+            
+            destinationInputs.forEach((input, index) => {
+                if (input.value.trim()) {
+                    destinations.push({
+                        input: input,
+                        index: index + 1,
+                        address: input.value
+                    });
+                }
+            });
+
+            if (destinations.length === 0) {
+                // Show default map
+                map.setCenter({ lat: 48.8566, lng: 2.3522 });
+                map.setZoom(4);
+                return;
+            }
+
+            // Geocode destinations and create markers
+            const geocoder = new google.maps.Geocoder();
+            let geocodedCount = 0;
+            const bounds = new google.maps.LatLngBounds();
+
+            destinations.forEach((dest, index) => {
+                geocoder.geocode({ address: dest.address }, function(results, status) {
+                    if (status === 'OK' && results[0]) {
+                        const location = results[0].geometry.location;
+                        
+                        // Create marker
+                        const marker = new google.maps.Marker({
+                            position: location,
+                            map: map,
+                            title: dest.address,
+                            label: {
+                                text: dest.index.toString(),
+                                color: 'white',
+                                fontWeight: 'bold'
+                            },
+                            icon: {
+                                path: google.maps.SymbolPath.CIRCLE,
+                                scale: 12,
+                                fillColor: '#667eea',
+                                fillOpacity: 1,
+                                strokeColor: '#ffffff',
+                                strokeWeight: 2
+                            }
+                        });
+
+                        markers.push(marker);
+                        bounds.extend(location);
+
+                        // Store coordinates in input data attribute
+                        dest.input.setAttribute('data-lat', location.lat());
+                        dest.input.setAttribute('data-lng', location.lng());
+
+                        geocodedCount++;
+                        
+                        if (geocodedCount === destinations.length) {
+                            // All destinations geocoded, fit bounds and draw route
+                            map.fitBounds(bounds);
+                            if (destinations.length > 1) {
+                                drawRoute(destinations);
+                            }
+                        }
+                    }
+                });
+            });
+        }
+
+        // Draw route between destinations
+        function drawRoute(destinations) {
+            if (destinations.length < 2) return;
+
+            const waypoints = [];
+            let origin = null;
+            let destination = null;
+
+            destinations.forEach((dest, index) => {
+                const lat = parseFloat(dest.input.getAttribute('data-lat'));
+                const lng = parseFloat(dest.input.getAttribute('data-lng'));
+                
+                if (index === 0) {
+                    origin = { lat: lat, lng: lng };
+                } else if (index === destinations.length - 1) {
+                    destination = { lat: lat, lng: lng };
+                } else {
+                    waypoints.push({
+                        location: { lat: lat, lng: lng },
+                        stopover: true
+                    });
+                }
+            });
+
+            const request = {
+                origin: origin,
+                destination: destination,
+                waypoints: waypoints,
+                optimizeWaypoints: false,
+                travelMode: google.maps.TravelMode.DRIVING
+            };
+
+            directionsService.route(request, function(result, status) {
+                if (status === 'OK') {
+                    directionsRenderer.setDirections(result);
+                }
+            });
+        }
+
+        // Initialize map when page loads
+        window.addEventListener('load', function() {
+            initMap();
+            initializeAutocomplete('destination1');
+        });
+
+        // Auto-generate slug from title
+        document.getElementById('title').addEventListener('input', function() {
+            const slugInput = document.getElementById('slug');
+            if (!slugInput.value) {
+                const slug = this.value
+                    .toLowerCase()
+                    .replace(/[^a-z0-9 -]/g, '')
+                    .replace(/\s+/g, '-')
+                    .replace(/-+/g, '-')
+                    .trim('-');
+                slugInput.value = slug;
+            }
+        });
+
+        // Update destination management to include autocomplete
+        function addDestination() {
+            destinationCount++;
+            if (destinationCount > 15) {
+                alert('Maximum 15 destinations allowed');
+                return;
+            }
+
+            const container = document.getElementById('additionalDestinations');
+            const destinationDiv = document.createElement('div');
+            destinationDiv.className = 'destination-inputs';
+            destinationDiv.innerHTML = `
+                <div class="form-group">
+                    <label for="destination${destinationCount}">Destination ${destinationCount}</label>
+                    <input type="text" id="destination${destinationCount}" name="destinations[]" class="form-control destination-input" 
+                           placeholder="Start typing a destination..." autocomplete="off">
+                </div>
+                <div class="form-group">
+                    <label for="destination${destinationCount}_content">What you did there</label>
+                    <textarea id="destination${destinationCount}_content" name="destination_contents[]" class="form-control" 
+                              placeholder="Describe your experience at this destination"></textarea>
+                </div>
+                <button type="button" class="btn btn-danger btn-sm" onclick="removeDestination(this)">
+                    <i class="fas fa-trash"></i> Remove
+                </button>
+            `;
+            container.appendChild(destinationDiv);
+            
+            // Initialize autocomplete for new input
+            initializeAutocomplete(`destination${destinationCount}`);
+        }
+
+        function removeDestination(button) {
+            button.parentElement.remove();
+            destinationCount--;
+            updateMap();
+        }
+
+        // Add event listeners for destination inputs
+        document.addEventListener('input', function(e) {
+            if (e.target.name === 'destinations[]') {
+                // Debounce the map update
+                clearTimeout(window.mapUpdateTimeout);
+                window.mapUpdateTimeout = setTimeout(updateMap, 1000);
+            }
+        });
+    </script>
+</body>
+</html> 

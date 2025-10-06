@@ -1,0 +1,50 @@
+{
+  "city": "Honolulu",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Honolulu",
+  "description": "Discover the best hotels in Honolulu, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/a32bcsio5l40t8f0iwi",
+  "hotels": [
+    {
+      "vendor_name": "Outrigger Waikiki Beachcomber Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Honolulu",
+      "title": "Hawaii Beachcomber by OUTRIGGER Escape Overlooking Waikiki Beach",
+      "description": "Steps from one of the world's most famous shorelines, you'll find Hawaii's first and only craft hotel, brought to you by the iconic OUTRIGGER Hotels & Resorts. Placing you just moments from Waikiki Beach and the palm-lined Kalakaua Avenue, Honolulu's best is right on your doorstep. Curated by local artists and reflecting the island's natural landscapes and rich culture, the hotel's interiors feature surf photography and indigenous art that embody the laidback Hawaiian lifestyle. You'll be spoiled with the luxe facilities onsite, including a glorious pool, sun-drenched deck and its very own OUTRIGGER Theater, showcasing acrobatics and soul-stirring music. Begin each day with artisanal coffee and Acai bowls at Hawaiian Aroma Caffé, which doubles as a cocktail bar, and sample one of the 35+ craft beers on tap at Maui Brewing Co. - Hawaii’s largest craft brewery.",
+      "location_subheading": "United States",
+      "price": 229,
+      "original_price": 229,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000004SYjXAAW",
+      "hero_image": "https://images.luxuryescapes.com/a32bcsio5l40t8f0iwi",
+      "image_two": "https://images.luxuryescapes.com/9vpy0mjmko88uakrnk",
+      "image_three": "https://images.luxuryescapes.com/uvko891o992j9veosqhs",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Honolulu - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Honolulu, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "honolulu hotels",
+      "honolulu travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/honolulu",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/honolulu",
+      "es": "https://mondoexplora.com/es/destination/honolulu",
+      "fr": "https://mondoexplora.com/fr/destination/honolulu",
+      "it": "https://mondoexplora.com/it/destination/honolulu"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 229,
+    "average_discount": 0
+  }
+}

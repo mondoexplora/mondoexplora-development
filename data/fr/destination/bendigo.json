@@ -1,0 +1,50 @@
+{
+  "city": "Bendigo",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hôtels à Bendigo",
+  "description": "Découvrez les meilleurs hôtels à Bendigo, Australia. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/z3gjeuviz4hmx66e4369",
+  "hotels": [
+    {
+      "vendor_name": "Mercure Bendigo Schaller (Formerly Art Series)",
+      "offer_country_name": "Australia",
+      "location_heading": "Bendigo",
+      "title": "Bendigo Art-Inspired Hotel near City Centre with Onsite Cafe & Bar",
+      "description": "Experience the bustling city of Bendigo at Mercure Bendigo Schaller, where historic architecture and modern creativity collide to form a cultural precinct filled with restaurants, theatres and art galleries. Only a short stroll from the celebrated Bendigo Art Gallery, serene Lake Weeroona and Golden Dragon Museum, this hotel is perfectly positioned for exploring the area. Start your day with freshly brewed cup of coffee and cafe favourites at the hotel's onsite eatery, The Pantry, and when the sun comes down, treat yourself to a tipple of local beer and wine at the bar.",
+      "location_subheading": "Australia",
+      "price": 85,
+      "original_price": 85,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002IlwJIAS",
+      "hero_image": "https://images.luxuryescapes.com/z3gjeuviz4hmx66e4369",
+      "image_two": "https://images.luxuryescapes.com/9j0yonzegcd86csjxk8x",
+      "image_three": "https://images.luxuryescapes.com/ix7ak5m8e4vy0wjyjyyi",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Bendigo - Australie Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Bendigo, Australia avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "bendigo hotels",
+      "bendigo travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/bendigo",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/bendigo",
+      "es": "https://mondoexplora.com/es/destination/bendigo",
+      "fr": "https://mondoexplora.com/fr/destination/bendigo",
+      "it": "https://mondoexplora.com/it/destination/bendigo"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 85,
+    "average_discount": 0
+  }
+}

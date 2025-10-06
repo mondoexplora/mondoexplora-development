@@ -1,0 +1,86 @@
+{
+  "city": "Geneva",
+  "country": "Switzerland",
+  "country_code": "CH",
+  "hero_title": "Hoteles en Geneva",
+  "description": "Descubre los mejores hoteles en Geneva, Switzerland. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Geneva",
+      "offer_country_name": "Switzerland",
+      "location_heading": "Geneva",
+      "title": "Gorgeous Geneva Alpine Stay near the Airport",
+      "description": "Close to the heart of the commercial centre, Crown Plaza Geneva, an IHG Hotel, is a refined stay on the doorstep of gorgeous Geneva. Savour a delectable seasonal meal at restaurant Seventy5 or indulge in an intimate gastronomic experience at the Fondue Chalet. Enjoy the crisp Alpine air while taking in the many boutiques and chocolatiers of this cosmopolitan city, walk the cobblestone streets and discover historic buildings or lose yourself in the city's famous secret passages.",
+      "location_subheading": "Switzerland",
+      "price": 149,
+      "original_price": 149,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CPtF9AAL",
+      "hero_image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
+      "image_two": "https://images.luxuryescapes.com/1qvyke39vf9qx5y9pggq",
+      "image_three": "https://images.luxuryescapes.com/cmrjkkvxckwb3kcn2oyk",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mandarin Oriental Hotel Geneva",
+      "offer_country_name": "Switzerland",
+      "location_heading": "Geneva",
+      "title": "Five-Star Geneva Riverside Retreat within Landmark Heritage Hotel",
+      "description": "Peaceful river scenes and a majestic mountain backdrop make for a picturesque escape at the five-star Mandarin Oriental, Geneva, Europe's first luxury hotel built after WWII. Thanks to the hotel's impeccable location on the River Rhône, you'll be within walking distance of St. Peter’s Cathedral, as well as Geneva's Old Town with its charming boutiques. Gourmands seeking their next fine-dining adventure can tantalise their tastebuds at the three outstanding onsite eateries. Enjoy exquisite Omakase at SACHI, a stylish Japanese restaurant and bar, or for mouthwatering Peruvian cuisine, dine at Yakumanka, where the Pisco Bar serves up cocktails inspired by South America. The all-day MO Bar is the perfect spot for wine and Mediterranean bites.",
+      "location_subheading": "Switzerland",
+      "price": 700,
+      "original_price": 700,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Bdks3AAB",
+      "hero_image": "https://images.luxuryescapes.com/ez80lhylspdemxbr5qq",
+      "image_two": "https://images.luxuryescapes.com/yj0cb97xic37wwsexcu9",
+      "image_three": "https://images.luxuryescapes.com/4s5ipq7znjbh0gb67fg",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "InterContinental Geneva",
+      "offer_country_name": "Switzerland",
+      "location_heading": "Geneva",
+      "title": "Geneva Five-Star InterContinental Escape with Lavish Outdoor Pool",
+      "description": "Immerse yourself in Geneva's staggering alpine beauty with an opulent stay at InterContinental Genève - ideally positioned on the scenic Left Bank, moments from the world-renowned Lake Geneva and the Palais des Nations. Beyond the crystal chandeliers and classic décor of this exceptional hotel is a lavish outdoor pool with breathtaking views of the snow-capped Mont Blanc. Three chic restaurants await gourmands and a tranquil day spa and fitness centre will keep you rejuvenated.",
+      "location_subheading": "Switzerland",
+      "price": 341,
+      "original_price": 341,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Bdt5yAAB",
+      "hero_image": "https://images.luxuryescapes.com/1tbouyf877b3391bloan",
+      "image_two": "https://images.luxuryescapes.com/loxhfv3fjojmauzn1tdh",
+      "image_three": "https://images.luxuryescapes.com/q04881sbncm20v3eb75",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Geneva - Switzerland Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Geneva, Switzerland con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "geneva hotels",
+      "geneva travel",
+      "switzerland hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/geneva",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/geneva",
+      "es": "https://mondoexplora.com/es/destination/geneva",
+      "fr": "https://mondoexplora.com/fr/destination/geneva",
+      "it": "https://mondoexplora.com/it/destination/geneva"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 3,
+    "average_price": 397,
+    "average_discount": 0
+  }
+}

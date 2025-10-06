@@ -1,0 +1,50 @@
+{
+  "city": "Bogota",
+  "country": "Colombia",
+  "country_code": "CO",
+  "hero_title": "Hoteles en Bogota",
+  "description": "Descubre los mejores hoteles en Bogota, Colombia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/wdwumxf61bdm5xw7kvz",
+  "hotels": [
+    {
+      "vendor_name": "Sofitel Bogota Victoria Regia",
+      "offer_country_name": "Colombia",
+      "location_heading": "Bogota",
+      "title": "Colombia: Charming Bogota Sofitel Stay with Onsite Restaurant, Bar & Spa",
+      "description": "Step into sophisticated comfort at Sofitel Bogota Victoria Regia, where French elegance meets Colombian warmth in the heart of the capital. This gem offers comfortable rooms with modern amenities, plus the acclaimed Basilic Restaurant serving local Colombian cuisine. Unwind at Bar Basilic with a craft cocktail or rejuvenate in the massage parlour. Perched 2,600 metres above sea level in trendy Zona Rosa, you're a stone's throw from Zona T's restaurant and bar scene. Stroll through leafy Parque Virrey, explore colourful La Candelaria's street art, or delve into history at the National Museum of Colombia. Here, you're perfectly positioned to experience Bogota's culture and world-class gastronomy.",
+      "location_subheading": "Colombia",
+      "price": 164,
+      "original_price": 164,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000Jjs32YAB",
+      "hero_image": "https://images.luxuryescapes.com/wdwumxf61bdm5xw7kvz",
+      "image_two": "https://images.luxuryescapes.com/2renp5v9qokcm8jx1bd",
+      "image_three": "https://images.luxuryescapes.com/uklrvy3capzffl2h6cip",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Bogota - Colombia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Bogota, Colombia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "bogota hotels",
+      "bogota travel",
+      "colombia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/bogota",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/bogota",
+      "es": "https://mondoexplora.com/es/destination/bogota",
+      "fr": "https://mondoexplora.com/fr/destination/bogota",
+      "it": "https://mondoexplora.com/it/destination/bogota"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 164,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Brazil",
+  "code": "BR",
+  "hero_title": "Brazil Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Brazil.",
+  "hero_image": "https://images.luxuryescapes.com/ain54wmnrsoqqvcf6t5d",
+  "popular_destinations": [
+    {
+      "name": "Sao Paulo",
+      "slug": "sao-paulo",
+      "image": "https://images.luxuryescapes.com/ain54wmnrsoqqvcf6t5d",
+      "description": "Explore Sao Paulo with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 60
+    },
+    {
+      "name": "Porto Alegre",
+      "slug": "porto-alegre",
+      "image": "https://images.luxuryescapes.com/ey5ifq9ie3kexcfj2dw",
+      "description": "Explore Porto Alegre with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 38
+    },
+    {
+      "name": "Recife",
+      "slug": "recife",
+      "image": "https://images.luxuryescapes.com/dihal64w8m6oehm3flglg",
+      "description": "Explore Recife with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 90
+    },
+    {
+      "name": "São Paulo",
+      "slug": "são-paulo",
+      "image": "https://images.luxuryescapes.com/oaf3c3hq7794hddhf142",
+      "description": "Explore São Paulo with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 70
+    }
+  ],
+  "seo": {
+    "title": "Brazil Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Brazil with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "brazil hotels",
+      "brazil travel",
+      "brazil luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/brazil",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/brazil",
+      "es": "https://mondoexplora.com/es/country/brazil",
+      "fr": "https://mondoexplora.com/fr/country/brazil",
+      "it": "https://mondoexplora.com/it/country/brazil"
+    }
+  }
+}

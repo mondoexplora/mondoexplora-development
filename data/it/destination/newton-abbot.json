@@ -1,0 +1,50 @@
+{
+  "city": "Newton Abbot",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hotel a Newton Abbot",
+  "description": "Scopri i migliori hotel a Newton Abbot, United Kingdom. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/khwpk38gkkylybxvcv1p",
+  "hotels": [
+    {
+      "vendor_name": "Bovey Castle Hotel",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Newton Abbot",
+      "title": "Lavish Five-Star English Castle Escape Overlooking Dartmoor National Park",
+      "description": "Treat yourself to a stay fit for royalty at the boutique Bovey Castle Hotel, a luxurious historic estate nestled on 275 acres of pristine countryside. A collection of intimate rooms, perfect for a romantic getaway or cosy family escape, is peppered throughout the original manor house and surrounding mews. After the day's adventures, indulge in fine dining at the award-winning Great Western Grill restaurant, serving traditional dishes with fresh local produce.",
+      "location_subheading": "United Kingdom",
+      "price": 239,
+      "original_price": 239,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000BeGJYAA3",
+      "hero_image": "https://images.luxuryescapes.com/khwpk38gkkylybxvcv1p",
+      "image_two": "https://images.luxuryescapes.com/pm0pp0aocaaevcaue2ta",
+      "image_three": "https://images.luxuryescapes.com/0ar7azo7up9nzlpzs8l",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Newton Abbot - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Newton Abbot, United Kingdom con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "newton abbot hotels",
+      "newton abbot travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/newton-abbot",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/newton-abbot",
+      "es": "https://mondoexplora.com/es/destination/newton-abbot",
+      "fr": "https://mondoexplora.com/fr/destination/newton-abbot",
+      "it": "https://mondoexplora.com/it/destination/newton-abbot"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 239,
+    "average_discount": 0
+  }
+}

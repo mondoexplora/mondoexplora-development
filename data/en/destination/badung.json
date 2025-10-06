@@ -1,0 +1,50 @@
+{
+  "city": "Badung",
+  "country": "Indonesia",
+  "country_code": "ID",
+  "hero_title": "Hotels in Badung",
+  "description": "Discover the best hotels in Badung, Indonesia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/tm209sz6y3u66xr0f7zf",
+  "hotels": [
+    {
+      "vendor_name": "Umalas Creek",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Badung",
+      "title": "Tranquil Self-Contained Villas Near Canggu with Private Pool and Garden Views",
+      "description": "Experience the tranquillity of these modern private villas at this secluded sanctuary. Nestled in the heart of Badung, each villa is the epitome of curated Balinese design, with stark stone walls and refined wooden furniture contrasting against the azure waters of the private pool. Wake up to the gentle sounds of the nearby creek, recline on your private terrace with a lush garden, and then take full advantage of Umalas Creek's sauna, jacuzzi and cold-plunge pool. End your day by venturing out of your villa to savour authentic Indonesian cuisine at the nearby warungs and restaurants.",
+      "location_subheading": "Indonesia",
+      "price": 97,
+      "original_price": 97,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CR9t8YAD",
+      "hero_image": "https://images.luxuryescapes.com/tm209sz6y3u66xr0f7zf",
+      "image_two": "https://images.luxuryescapes.com/gq75vu2mqvodyvsjn5",
+      "image_three": "https://images.luxuryescapes.com/81afpowixdwio9rbmot7",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Badung - Indonesia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Badung, Indonesia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "badung hotels",
+      "badung travel",
+      "indonesia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/badung",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/badung",
+      "es": "https://mondoexplora.com/es/destination/badung",
+      "fr": "https://mondoexplora.com/fr/destination/badung",
+      "it": "https://mondoexplora.com/it/destination/badung"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 97,
+    "average_discount": 0
+  }
+}

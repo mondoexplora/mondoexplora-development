@@ -1,0 +1,50 @@
+{
+  "city": "North Carolina",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in North Carolina",
+  "description": "Discover the best hotels in North Carolina, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/p80keoyo7x6tf6men60q",
+  "hotels": [
+    {
+      "vendor_name": "Omni Charlotte Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "North Carolina",
+      "title": "Sophisticated North Carolina Escape in Uptown Charlotte with Rooftop Pool & Luxury Fitness Centre",
+      "description": "Discover the pulsating energy of North Carolina's largest city with a stay at this elegant urban oasis, nestled in the heart of Charlotte's finanical district, with exciting sporting, dining and entertainment hubs nearby. Take advantage of the prime location and explore the Queen City's top attractions, including the NASCAR Hall of Fame and the Mint Museum of Art. Indulge in locally inspired cuisine at the Trade Restaurant & Bar, cool off with refreshing cocktails at the rooftop Coin Bar and tune into seasonal sports and live entertainment on the massive LED television on the pool deck. If fitness is on your mind, head to One Athletics, a luxe health club offering fitness classes, indoor basketball, pickleball and yoga. For a little retail therapy, wander over to Overstreet Mall, directly connected to the hotel.",
+      "location_subheading": "United States",
+      "price": 161,
+      "original_price": 161,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002HiI1IAK",
+      "hero_image": "https://images.luxuryescapes.com/p80keoyo7x6tf6men60q",
+      "image_two": "https://images.luxuryescapes.com/c6g8rfnymsjf57bk9nb",
+      "image_three": "https://images.luxuryescapes.com/jhljss5x7ndq8lpfvq9y",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in North Carolina - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in North Carolina, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "north carolina hotels",
+      "north carolina travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/north-carolina",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/north-carolina",
+      "es": "https://mondoexplora.com/es/destination/north-carolina",
+      "fr": "https://mondoexplora.com/fr/destination/north-carolina",
+      "it": "https://mondoexplora.com/it/destination/north-carolina"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 161,
+    "average_discount": 0
+  }
+}

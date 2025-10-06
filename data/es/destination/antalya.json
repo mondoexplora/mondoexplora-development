@@ -1,0 +1,50 @@
+{
+  "city": "Antalya",
+  "country": "Turkey",
+  "country_code": "TR",
+  "hero_title": "Hoteles en Antalya",
+  "description": "Descubre los mejores hoteles en Antalya, Turkey. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/ebm4lc0z06rf8xo5w8ve",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Hotel Antalya",
+      "offer_country_name": "Turkey",
+      "location_heading": "Antalya",
+      "title": "Lavish Beachfront Resort Overlooking Turkish Riviera",
+      "description": "Discover the turquoise waters of the Turkish Riviera with an ultra-luxurious stay at the Crown Plaza Antalya, an IHG Hotel. This beachfront resort celebrates the stunning landscape, with views of the Mediterranean Sea, making it the perfect getaway for soaking up the sunshine, indulging in local cuisine and exploring the picturesque city. Allow yourself to relax with a trip to the beach and unwind at the two onsite spas, before enjoying a meal at the Neapolis Fine Dining restaurant.",
+      "location_subheading": "Turkey",
+      "price": 142,
+      "original_price": 142,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CPz2hAAD",
+      "hero_image": "https://images.luxuryescapes.com/ebm4lc0z06rf8xo5w8ve",
+      "image_two": "https://images.luxuryescapes.com/rtgixylwvmc1pwvdy4i",
+      "image_three": "https://images.luxuryescapes.com/ihwmy9ujg8ljobb6zn39",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Antalya - Turkey Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Antalya, Turkey con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "antalya hotels",
+      "antalya travel",
+      "turkey hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/antalya",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/antalya",
+      "es": "https://mondoexplora.com/es/destination/antalya",
+      "fr": "https://mondoexplora.com/fr/destination/antalya",
+      "it": "https://mondoexplora.com/it/destination/antalya"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 142,
+    "average_discount": 0
+  }
+}

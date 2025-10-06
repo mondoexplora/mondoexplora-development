@@ -1,0 +1,50 @@
+{
+  "city": "Monterey",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Monterey",
+  "description": "Discover the best hotels in Monterey, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/lv18s90rwe6p9unb7ird",
+  "hotels": [
+    {
+      "vendor_name": "Intercontinental The Clement Monterey",
+      "offer_country_name": "United States",
+      "location_heading": "Monterey",
+      "title": "Coastal California Escape Overlooking Monterey Bay with Hot Tub, Day Spa & Waterfront Dining",
+      "description": "Breathe in the Californian sea breeze with a cosy coastal stay at InterContinental The Clement Monterey, an IHG Hotel. Set along the historic Cannery Row and overlooking the breathtaking Monterey Bay, you'll be all set to savour fresh, locally sourced seafood at waterfront C Restaurant + Bar, and sip handcrafted cocktails alfresco style at C Patio. For an extra slice of head-to-toe rejuvenation, head to the hotel's tranquil day spa, heated pool or hot tub.",
+      "location_subheading": "United States",
+      "price": 231,
+      "original_price": 231,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Bdt7pAAB",
+      "hero_image": "https://images.luxuryescapes.com/lv18s90rwe6p9unb7ird",
+      "image_two": "https://images.luxuryescapes.com/pc2quy0vhnii5tpmky3zw",
+      "image_three": "https://images.luxuryescapes.com/zbwashwqvp75ekf8g7aa",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Monterey - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Monterey, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "monterey hotels",
+      "monterey travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/monterey",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/monterey",
+      "es": "https://mondoexplora.com/es/destination/monterey",
+      "fr": "https://mondoexplora.com/fr/destination/monterey",
+      "it": "https://mondoexplora.com/it/destination/monterey"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 231,
+    "average_discount": 0
+  }
+}

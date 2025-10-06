@@ -1,0 +1,50 @@
+{
+  "city": "x",
+  "country": "Mexico",
+  "country_code": "MX",
+  "hero_title": "Hôtels à x",
+  "description": "Découvrez les meilleurs hôtels à x, Mexico. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/ojva3k03xpn7tuqwf1u",
+  "hotels": [
+    {
+      "vendor_name": "One & Only Mandarina",
+      "offer_country_name": "Mexico",
+      "location_heading": "x",
+      "title": "Mexico One&Only All-Villa Luxury with Beach Club & Celebrity Chef Dining",
+      "description": "Set on a dreamy stretch of coastline on Mexico's Riviera Nayarit is the five-star One&Only Mandarina, a secluded resort overlooking the Pacific Ocean. Be wined and dined at three celebrity chef-led restaurants, or enjoy local, sustainably made tipples at The Treetop bar and savour each captivating sunset. The One&Only Spa is heaven on Earth, serving up a range of treatments using Tata Harper products designed to pamper you into bliss. A dedicated butler will take care of everything during your stay, leaving you free to enjoy the world-class facilities, including six swimming pools, a pristine beach with crystal-clear swimmable water and immersive nature activities. Did we mention the resort's beach club? This oceanfront haven invites you to pad barefoot from your cabana to the warm waters of the ocean, feast on fresh oysters and sip on expertly-mixed drinks in the sunshine.",
+      "location_subheading": "Mexico",
+      "price": 850,
+      "original_price": 850,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000008gJJzAAM",
+      "hero_image": "https://images.luxuryescapes.com/ojva3k03xpn7tuqwf1u",
+      "image_two": "https://images.luxuryescapes.com/tcgb5d7p6pdnd6w20iqh",
+      "image_three": "https://images.luxuryescapes.com/86p1lqs4s8q9nseuph34",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à x - Mexico Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à x, Mexico avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "x hotels",
+      "x travel",
+      "mexico hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/x",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/x",
+      "es": "https://mondoexplora.com/es/destination/x",
+      "fr": "https://mondoexplora.com/fr/destination/x",
+      "it": "https://mondoexplora.com/it/destination/x"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 850,
+    "average_discount": 0
+  }
+}

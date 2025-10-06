@@ -1,0 +1,50 @@
+{
+  "city": "Darwin City",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hoteles en Darwin City",
+  "description": "Descubre los mejores hoteles en Darwin City, Australia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/0gepp494uwdttcaz79rg9b",
+  "hotels": [
+    {
+      "vendor_name": "Vibe Hotel Darwin Waterfront",
+      "offer_country_name": "Australia",
+      "location_heading": "Darwin City",
+      "title": "Vibrant Darwin Waterfront Escape near CBD",
+      "description": "Set your sights on the Northern Territory and enjoy the wonders of the capital with a stylish stay at Vibe Hotel Darwin Waterfront. The location doesn't get better than this: you'll be perfectly placed in the heart of Darwin's exciting seafront promenade opposite the Darwin Waterfront Lagoon, and within easy reach of the CBD. Recharge after hours of exploring and plunge into the onsite pool, head to Curve Café and Bar to sample innovative Australian cuisine or retreat to your stylish room.",
+      "location_subheading": "Australia",
+      "price": 44,
+      "original_price": 44,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000009DMiPAAW",
+      "hero_image": "https://images.luxuryescapes.com/0gepp494uwdttcaz79rg9b",
+      "image_two": "https://images.luxuryescapes.com/1o3l5o19wvpas3dgit8",
+      "image_three": "https://images.luxuryescapes.com/lfh299zqjgw668uhwlp",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Darwin City - Australia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Darwin City, Australia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "darwin city hotels",
+      "darwin city travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/darwin-city",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/darwin-city",
+      "es": "https://mondoexplora.com/es/destination/darwin-city",
+      "fr": "https://mondoexplora.com/fr/destination/darwin-city",
+      "it": "https://mondoexplora.com/it/destination/darwin-city"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 44,
+    "average_discount": 0
+  }
+}

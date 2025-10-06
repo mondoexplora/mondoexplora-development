@@ -1,0 +1,50 @@
+{
+  "city": "Devon",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hôtels à Devon",
+  "description": "Découvrez les meilleurs hôtels à Devon, United Kingdom. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/3kmdfesxpveo94d4ygu",
+  "hotels": [
+    {
+      "vendor_name": "Saunton Sands",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Devon",
+      "title": "Iconic North Devon Beachfront Escape with Daily Breakfast & Three-Course Dinner",
+      "description": "Immerse yourself in a world where opulence meets untamed coastal beauty, perched high above North Devon's stunning golden shores. Relish the flavours of Devon with a locally sourced ribeye steak, unwind with rejuvenating treatments at Source Spa or relax in the heated indoor and outdoor pools that seamlessly combine serenity and adventure. Set above the UNESCO World Heritage-protected North Devon Coast Area of Outstanding Natural Beauty, Saunton Sands Hotel & Source Spa is your gateway to unforgettable experiences. Just steps away, legendary surf breaks await at Saunton Beach, while the sprawling Braunton Burrows - England's largest dune system - offers endless opportunities for exploration and discovery.",
+      "location_subheading": "United Kingdom",
+      "price": 359,
+      "original_price": 835,
+      "discount_percentage": 57,
+      "link": "https://luxuryescapes.com/offer/006RF00000IyyerYAB",
+      "hero_image": "https://images.luxuryescapes.com/3kmdfesxpveo94d4ygu",
+      "image_two": "https://images.luxuryescapes.com/q2sffrmkfbt9xog85y1r",
+      "image_three": "https://images.luxuryescapes.com/stb5usc5frmyxjlv6qa",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2025-08-04 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Devon - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Devon, United Kingdom avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "devon hotels",
+      "devon travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/devon",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/devon",
+      "es": "https://mondoexplora.com/es/destination/devon",
+      "fr": "https://mondoexplora.com/fr/destination/devon",
+      "it": "https://mondoexplora.com/it/destination/devon"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 359,
+    "average_discount": 57
+  }
+}

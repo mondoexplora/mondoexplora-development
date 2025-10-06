@@ -1,0 +1,61 @@
+{
+  "name": "France",
+  "code": "FR",
+  "hero_title": "France Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en France.",
+  "hero_image": "https://images.luxuryescapes.com/fth1v1kizrxxz1a6kmdc",
+  "popular_destinations": [
+    {
+      "name": "Castéra-Verduzan",
+      "slug": "castéra-verduzan",
+      "image": "https://images.luxuryescapes.com/fth1v1kizrxxz1a6kmdc",
+      "description": "Explore Castéra-Verduzan with luxury accommodations"
+    },
+    {
+      "name": "Paris",
+      "slug": "paris",
+      "image": "https://images.luxuryescapes.com/7he4ufg73dxmsans6e",
+      "description": "Explore Paris with luxury accommodations"
+    },
+    {
+      "name": "Avignon",
+      "slug": "avignon",
+      "image": "https://images.luxuryescapes.com/kyp15wnc8go2e1cga49d",
+      "description": "Explore Avignon with luxury accommodations"
+    },
+    {
+      "name": "Biarritz",
+      "slug": "biarritz",
+      "image": "https://images.luxuryescapes.com/z6lmqhrfcd3v345u2sqa",
+      "description": "Explore Biarritz with luxury accommodations"
+    },
+    {
+      "name": "Bordeaux",
+      "slug": "bordeaux",
+      "image": "https://images.luxuryescapes.com/kt2nq7sxw25f5g4e9sb",
+      "description": "Explore Bordeaux with luxury accommodations"
+    },
+    {
+      "name": "Burgundy",
+      "slug": "burgundy",
+      "image": "https://images.luxuryescapes.com/a4u08rxjar9aaby1sens",
+      "description": "Explore Burgundy with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "France Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en France con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "france hotels",
+      "france travel",
+      "france luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/fr",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/fr",
+      "es": "https://mondoexplora.com/es/country/fr",
+      "fr": "https://mondoexplora.com/fr/country/fr",
+      "it": "https://mondoexplora.com/it/country/fr"
+    }
+  }
+}

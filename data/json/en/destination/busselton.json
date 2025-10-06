@@ -1,0 +1,50 @@
+{
+  "city": "Busselton",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Busselton",
+  "description": "Discover the best hotels in Busselton, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/pahb3ojpje9fr0n56maa",
+  "hotels": [
+    {
+      "vendor_name": "The Sebel Busselton",
+      "offer_country_name": "Australia",
+      "location_heading": "Busselton",
+      "title": "Beachfront Apartment Escape near Margaret River Wine Region",
+      "description": "Experience the enchanting, laidback vibes of one of Australia's most famous gourmet food and wine regions with a stay at The Sebel Busselton - a hidden sanctuary nestled on the pristine Western Australia coastline. The resort caters to all with two inviting pools, a fitness centre, games room, jacuzzi and squash and tennis courts. Enjoy staying in a prime spot for fishing and diving, with easy access to the heritage-listed Busselton Jetty. Venture further to explore Margaret River's renowned wineries and gourmet markets, or simply soak in the beauty of Geographe Bay from this picturesque base.",
+      "location_subheading": "Australia",
+      "price": 120,
+      "original_price": 120,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnOvEYAV",
+      "hero_image": "https://images.luxuryescapes.com/pahb3ojpje9fr0n56maa",
+      "image_two": "https://images.luxuryescapes.com/v6asjbz0acah9buv5w3",
+      "image_three": "https://images.luxuryescapes.com/ucf5fmh6gp8aolrjv7jsj",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Busselton - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Busselton, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "busselton hotels",
+      "busselton travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/busselton",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/busselton",
+      "es": "https://mondoexplora.com/es/destination/busselton",
+      "fr": "https://mondoexplora.com/fr/destination/busselton",
+      "it": "https://mondoexplora.com/it/destination/busselton"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 120,
+    "average_discount": 0
+  }
+}

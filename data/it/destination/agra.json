@@ -1,0 +1,50 @@
+{
+  "city": "Agra",
+  "country": "India",
+  "country_code": "IN",
+  "hero_title": "Hotel a Agra",
+  "description": "Scopri i migliori hotel a Agra, India. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/8yehf8e4l7btyvp7wrr",
+  "hotels": [
+    {
+      "vendor_name": "Holiday Inn Agra Mg Road",
+      "offer_country_name": "India",
+      "location_heading": "Agra",
+      "title": "Central Agra Stay Minutes from Wonder of the World Taj Mahal",
+      "description": "Holiday Inn Agra MG Road, an IHG Hotel, is a convenient city sanctuary only minutes from one of the eight wonders of the world. Situated within the Sanjay Place commercial district, the best shops and restaurants are close at hand. Take a refreshing dip in the pool, get energised at the fitness centre or discover the immense Taj Mahal - a marble mausoleum and UNESCO World Heritage Site famous as a testament to love - before returning for a smooth scotch at the lobby bar.",
+      "location_subheading": "India",
+      "price": 28,
+      "original_price": 28,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DI6EgAAL",
+      "hero_image": "https://images.luxuryescapes.com/8yehf8e4l7btyvp7wrr",
+      "image_two": "https://images.luxuryescapes.com/bx59eam2mj11gmwh24r",
+      "image_three": "https://images.luxuryescapes.com/nwrgcqhrscsa98gcpih",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Agra - India Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Agra, India con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "agra hotels",
+      "agra travel",
+      "india hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/agra",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/agra",
+      "es": "https://mondoexplora.com/es/destination/agra",
+      "fr": "https://mondoexplora.com/fr/destination/agra",
+      "it": "https://mondoexplora.com/it/destination/agra"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 28,
+    "average_discount": 0
+  }
+}

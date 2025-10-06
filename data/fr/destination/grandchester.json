@@ -1,0 +1,50 @@
+{
+  "city": "Grandchester",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hôtels à Grandchester",
+  "description": "Découvrez les meilleurs hôtels à Grandchester, Australia. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/i90znae5eaiwnk8zc8om",
+  "hotels": [
+    {
+      "vendor_name": "Spicers Hidden Vale",
+      "offer_country_name": "Australia",
+      "location_heading": "Grandchester",
+      "title": "Blissful Spicers Country Retreat Just One Hour from Brisbane",
+      "description": "Breathe in fresh country air at Spicers Hidden Vale, set on 12,000 acres of pristine native bushland. The property harks back to the charm of a bygone era with a collection of luxurious suites and sophisticated colonial cottages, restored to embrace the authentic farmhouse atmosphere. Just one hour from Brisbane, the retreat offers tranquil days exploring nature, followed by paddock-to-plate modern Australian cuisine at the award-winning Homage Restaurant, all while soaking in the spectacular valley views.",
+      "location_subheading": "Australia",
+      "price": 515,
+      "original_price": 515,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000C2QQhAAN",
+      "hero_image": "https://images.luxuryescapes.com/i90znae5eaiwnk8zc8om",
+      "image_two": "https://images.luxuryescapes.com/v2xl7bz9y8h689lvfni",
+      "image_three": "https://images.luxuryescapes.com/jqhtykm2ascytchujvpg5",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Grandchester - Australie Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Grandchester, Australia avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "grandchester hotels",
+      "grandchester travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/grandchester",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/grandchester",
+      "es": "https://mondoexplora.com/es/destination/grandchester",
+      "fr": "https://mondoexplora.com/fr/destination/grandchester",
+      "it": "https://mondoexplora.com/it/destination/grandchester"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 515,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>View Creator - {{ creator.full_name }}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #f8fafc;
+            color: #1f2937;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid #e5e7eb;
+        }
+        
+        .header h1 {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #ff5a5f;
+        }
+        
+        .back-btn {
+            padding: 0.75rem 1.5rem;
+            background: #6b7280;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 500;
+            transition: background 0.2s;
+        }
+        
+        .back-btn:hover {
+            background: #4b5563;
+        }
+        
+        .creator-profile {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            border: 1px solid #e5e7eb;
+            margin-bottom: 2rem;
+            overflow: hidden;
+        }
+        
+        .profile-header {
+            background: linear-gradient(135deg, #ff5a5f 0%, #ff8a8e 100%);
+            color: white;
+            padding: 2rem;
+            text-align: center;
+        }
+        
+        .profile-avatar {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.2);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin: 0 auto 1rem;
+        }
+        
+        .profile-name {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+        
+        .profile-username {
+            opacity: 0.9;
+            font-size: 1rem;
+        }
+        
+        .profile-details {
+            padding: 2rem;
+        }
+        
+        .detail-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        .detail-item {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+        
+        .detail-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 8px;
+            background: #f3f4f6;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #ff5a5f;
+        }
+        
+        .detail-content h3 {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: #6b7280;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.25rem;
+        }
+        
+        .detail-content p {
+            font-size: 1rem;
+            color: #1f2937;
+            font-weight: 500;
+        }
+        
+        .status-badge {
+            padding: 0.5rem 1rem;
+            border-radius: 9999px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        
+        .status-pending {
+            background: #fef3c7;
+            color: #92400e;
+        }
+        
+        .status-approved {
+            background: #d1fae5;
+            color: #065f46;
+        }
+        
+        .status-active {
+            background: #dbeafe;
+            color: #1e40af;
+        }
+        
+        .status-inactive {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+        
+        .creator-posts {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            border: 1px solid #e5e7eb;
+            overflow: hidden;
+        }
+        
+        .posts-header {
+            padding: 1.5rem;
+            border-bottom: 1px solid #e5e7eb;
+            background: #f9fafb;
+        }
+        
+        .posts-header h2 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #1f2937;
+        }
+        
+        .post-item {
+            padding: 1.5rem;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        
+        .post-item:last-child {
+            border-bottom: none;
+        }
+        
+        .post-title {
+            font-size: 1.125rem;
+            font-weight: 600;
+            color: #1f2937;
+            margin-bottom: 0.5rem;
+        }
+        
+        .post-meta {
+            display: flex;
+            gap: 1rem;
+            font-size: 0.875rem;
+            color: #6b7280;
+            margin-bottom: 0.5rem;
+        }
+        
+        .post-status {
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        
+        .status-draft {
+            background: #fef3c7;
+            color: #92400e;
+        }
+        
+        .status-published {
+            background: #d1fae5;
+            color: #065f46;
+        }
+        
+        .status-submitted {
+            background: #dbeafe;
+            color: #1e40af;
+        }
+        
+        .empty-posts {
+            text-align: center;
+            padding: 3rem;
+            color: #6b7280;
+        }
+        
+        .empty-posts i {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            opacity: 0.5;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+            
+            .header {
+                flex-direction: column;
+                gap: 1rem;
+                align-items: flex-start;
+            }
+            
+            .detail-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1><i class="fas fa-user"></i> Creator Profile</h1>
+            <a href="{{ url_for('creator.admin_dashboard') }}" class="back-btn">
+                <i class="fas fa-arrow-left"></i> Back to Admin
+            </a>
+        </div>
+        
+        <div class="creator-profile">
+            <div class="profile-header">
+                <div class="profile-avatar">
+                    {{ creator.full_name[0] }}
+                </div>
+                <div class="profile-name">{{ creator.full_name }}</div>
+                <div class="profile-username">@{{ creator.username }}</div>
+            </div>
+            
+            <div class="profile-details">
+                <div class="detail-grid">
+                    <div class="detail-item">
+                        <div class="detail-icon">
+                            <i class="fas fa-envelope"></i>
+                        </div>
+                        <div class="detail-content">
+                            <h3>Email</h3>
+                            <p>{{ creator.email }}</p>
+                        </div>
+                    </div>
+                    
+                    <div class="detail-item">
+                        <div class="detail-icon">
+                            <i class="fas fa-flag"></i>
+                        </div>
+                        <div class="detail-content">
+                            <h3>Nationality</h3>
+                            <p>{{ creator.nationality or 'Not specified' }}</p>
+                        </div>
+                    </div>
+                    
+                    <div class="detail-item">
+                        <div class="detail-icon">
+                            <i class="fas fa-calendar"></i>
+                        </div>
+                        <div class="detail-content">
+                            <h3>Joined</h3>
+                            <p>{{ creator.created_at.strftime('%B %d, %Y') }}</p>
+                        </div>
+                    </div>
+                    
+                    <div class="detail-item">
+                        <div class="detail-icon">
+                            <i class="fas fa-chart-line"></i>
+                        </div>
+                        <div class="detail-content">
+                            <h3>Posts</h3>
+                            <p>{{ posts|length }} total posts</p>
+                        </div>
+                    </div>
+                    
+                    <div class="detail-item">
+                        <div class="detail-icon">
+                            <i class="fas fa-clock"></i>
+                        </div>
+                        <div class="detail-content">
+                            <h3>Last Login</h3>
+                            <p>{{ creator.last_login.strftime('%B %d, %Y at %I:%M %p') if creator.last_login else 'Never' }}</p>
+                        </div>
+                    </div>
+                    
+                    <div class="detail-item">
+                        <div class="detail-icon">
+                            <i class="fas fa-shield-alt"></i>
+                        </div>
+                        <div class="detail-content">
+                            <h3>Status</h3>
+                            <div>
+                                {% if creator.is_approved and creator.is_active %}
+                                    <span class="status-badge status-active">Active</span>
+                                {% elif creator.is_approved and not creator.is_active %}
+                                    <span class="status-badge status-inactive">Inactive</span>
+                                {% else %}
+                                    <span class="status-badge status-pending">Pending Approval</span>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                {% if creator.bio %}
+                <div class="detail-item" style="margin-bottom: 1rem;">
+                    <div class="detail-icon">
+                        <i class="fas fa-info-circle"></i>
+                    </div>
+                    <div class="detail-content">
+                        <h3>Bio</h3>
+                        <p>{{ creator.bio }}</p>
+                    </div>
+                </div>
+                {% endif %}
+                
+                {% if creator.interests %}
+                <div class="detail-item">
+                    <div class="detail-icon">
+                        <i class="fas fa-heart"></i>
+                    </div>
+                    <div class="detail-content">
+                        <h3>Interests</h3>
+                        <p>{{ creator.interests|replace('"', '')|replace('[', '')|replace(']', '')|replace(',', ', ') }}</p>
+                    </div>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+        
+        <div class="creator-posts">
+            <div class="posts-header">
+                <h2><i class="fas fa-file-alt"></i> Posts by {{ creator.full_name }}</h2>
+            </div>
+            
+            {% if posts %}
+                {% for post in posts %}
+                <div class="post-item">
+                    <div class="post-title">{{ post.title }}</div>
+                    <div class="post-meta">
+                        <span><i class="fas fa-calendar"></i> {{ post.created_at.strftime('%B %d, %Y') }}</span>
+                        <span><i class="fas fa-eye"></i> {{ post.views }} views</span>
+                        <span><i class="fas fa-edit"></i> {{ post.updated_at.strftime('%B %d, %Y') if post.updated_at else 'Not updated' }}</span>
+                    </div>
+                    <div class="post-status status-{{ post.status }}">
+                        {{ post.status }}
+                    </div>
+                </div>
+                {% endfor %}
+            {% else %}
+                <div class="empty-posts">
+                    <i class="fas fa-file-alt"></i>
+                    <h3>No posts yet</h3>
+                    <p>This creator hasn't published any posts yet.</p>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html> 

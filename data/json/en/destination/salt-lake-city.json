@@ -1,0 +1,50 @@
+{
+  "city": "Salt Lake City",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Salt Lake City",
+  "description": "Discover the best hotels in Salt Lake City, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/lod18g2p9u5adsopdmyd",
+  "hotels": [
+    {
+      "vendor_name": "Kimpton Hotel Monaco Salt Lake City",
+      "offer_country_name": "United States",
+      "location_heading": "Salt Lake City",
+      "title": "Sophisticated Salt Lake City Stay with Onsite Restaurant & Bar",
+      "description": "Experience the ultimate fusion of cosmopolitan city life and the wonders of Mother Nature from your base at Kimpton Hotel Monaco Salt Lake City. A prime central location, allows you to set off to the city’s revered ski slopes or catch a show at a local concert arena with ease. If your adventures have worked up an appetite, dine in contemporary elegance at Bambara or meet in the dimly lit ambiance of The Vault for a post-dinner nightcap.",
+      "location_subheading": "United States",
+      "price": 144,
+      "original_price": 144,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EdKEXAA3",
+      "hero_image": "https://images.luxuryescapes.com/lod18g2p9u5adsopdmyd",
+      "image_two": "https://images.luxuryescapes.com/zds810w4ztg171mtq7",
+      "image_three": "https://images.luxuryescapes.com/b6e6dhkxyknrdr2o4fg",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Salt Lake City - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Salt Lake City, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "salt lake city hotels",
+      "salt lake city travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/salt-lake-city",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/salt-lake-city",
+      "es": "https://mondoexplora.com/es/destination/salt-lake-city",
+      "fr": "https://mondoexplora.com/fr/destination/salt-lake-city",
+      "it": "https://mondoexplora.com/it/destination/salt-lake-city"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 144,
+    "average_discount": 0
+  }
+}

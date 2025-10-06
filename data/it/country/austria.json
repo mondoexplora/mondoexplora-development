@@ -1,0 +1,43 @@
+{
+  "name": "Austria",
+  "code": "AT",
+  "hero_title": "Austria Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Austria.",
+  "hero_image": "https://images.luxuryescapes.com/29vn3ior68dvy0je4it9",
+  "popular_destinations": [
+    {
+      "name": "Salzburg",
+      "slug": "salzburg",
+      "image": "https://images.luxuryescapes.com/29vn3ior68dvy0je4it9",
+      "description": "Explore Salzburg with luxury accommodations"
+    },
+    {
+      "name": "Vienna",
+      "slug": "vienna",
+      "image": "https://images.luxuryescapes.com/zvua4rtsv6c9o2oxia6n",
+      "description": "Explore Vienna with luxury accommodations"
+    },
+    {
+      "name": "Villach",
+      "slug": "villach",
+      "image": "https://images.luxuryescapes.com/t890em2kccap9oqbpot",
+      "description": "Explore Villach with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Austria Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Austria con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "austria hotels",
+      "austria travel",
+      "austria luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/at",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/at",
+      "es": "https://mondoexplora.com/es/country/at",
+      "fr": "https://mondoexplora.com/fr/country/at",
+      "it": "https://mondoexplora.com/it/country/at"
+    }
+  }
+}

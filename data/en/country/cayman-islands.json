@@ -1,0 +1,43 @@
+{
+  "name": "Cayman Islands",
+  "code": "KY",
+  "hero_title": "Cayman Islands Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Cayman Islands.",
+  "hero_image": "https://images.luxuryescapes.com/q3ogzcnf28w9ah269g0m",
+  "popular_destinations": [
+    {
+      "name": "Grand Cayman",
+      "slug": "grand-cayman",
+      "image": "https://images.luxuryescapes.com/q3ogzcnf28w9ah269g0m",
+      "description": "Explore Grand Cayman with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 533
+    },
+    {
+      "name": "Seven Mile Beach",
+      "slug": "seven-mile-beach",
+      "image": "https://images.luxuryescapes.com/kg9h82mso6ox9ysnwpl",
+      "description": "Explore Seven Mile Beach with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 361
+    }
+  ],
+  "seo": {
+    "title": "Cayman Islands Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Cayman Islands with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "cayman islands hotels",
+      "cayman islands travel",
+      "cayman islands luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/cayman-islands",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/cayman-islands",
+      "es": "https://mondoexplora.com/es/country/cayman-islands",
+      "fr": "https://mondoexplora.com/fr/country/cayman-islands",
+      "it": "https://mondoexplora.com/it/country/cayman-islands"
+    }
+  }
+}

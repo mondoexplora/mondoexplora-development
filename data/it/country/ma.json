@@ -1,0 +1,49 @@
+{
+  "name": "Morocco",
+  "code": "MA",
+  "hero_title": "Morocco Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Morocco.",
+  "hero_image": "https://images.luxuryescapes.com/bwg0xm1ggeowkd7yulv",
+  "popular_destinations": [
+    {
+      "name": "El Jadida",
+      "slug": "el-jadida",
+      "image": "https://images.luxuryescapes.com/bwg0xm1ggeowkd7yulv",
+      "description": "Explore El Jadida with luxury accommodations"
+    },
+    {
+      "name": "Fez",
+      "slug": "fez",
+      "image": "https://images.luxuryescapes.com/v3bved8j44t0ey2z7lqk",
+      "description": "Explore Fez with luxury accommodations"
+    },
+    {
+      "name": "Fnideq",
+      "slug": "fnideq",
+      "image": "https://images.luxuryescapes.com/d7xcqpou6w04havun9",
+      "description": "Explore Fnideq with luxury accommodations"
+    },
+    {
+      "name": "Marrakech",
+      "slug": "marrakech",
+      "image": "https://images.luxuryescapes.com/qaq9ke22tmroeyt6ru",
+      "description": "Explore Marrakech with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Morocco Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Morocco con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "morocco hotels",
+      "morocco travel",
+      "morocco luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/ma",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ma",
+      "es": "https://mondoexplora.com/es/country/ma",
+      "fr": "https://mondoexplora.com/fr/country/ma",
+      "it": "https://mondoexplora.com/it/country/ma"
+    }
+  }
+}

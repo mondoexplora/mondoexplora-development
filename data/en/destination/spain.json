@@ -1,0 +1,50 @@
+{
+  "city": "Spain",
+  "country": "Spain",
+  "country_code": "ES",
+  "hero_title": "Hotels in Spain",
+  "description": "Discover the best hotels in Spain, Spain. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/wwu3vki1ajqvmfk5kts",
+  "hotels": [
+    {
+      "vendor_name": "H10 villa de la reina",
+      "offer_country_name": "Spain",
+      "location_heading": "Spain",
+      "title": "Award-Winning Boutique Luxury in the Heart of Madrid",
+      "description": "Escape to the heart of Madrid with a unique stay at H10 Villa de la Reina, winner of a Tripadvisor Travellers' Choice Award 2020. This French-inspired hotel is housed in a former 20th-century bank and has been lovingly restored to become one of the city’s most majestic accommodation options. Situated on the buzzing Gran Via esplanade, it’s a short wander to some of the Spanish capital’s most iconic landmarks, including the Puerta del Sol and Prado squares and Reina Sofía museum. Explore the city’s best restaurants and bars, shop until your drop on Gran Via or spend your days getting lost within the city streets - with such a rich history, there’s something new to discover on every corner. Rooms and suites at H10 Villa de la Reina are classic and contemporary, with original features sitting alongside all the mod-cons required for a relaxing stay. Start the day at Las Infantas Restaurant, where a huge selection of breakfast dishes is served (or choose the continental option for early risers instead). After a day exploring Madrid’s sights, take a break at La Villa Bar, where you can unwind with a cocktail or two. You’ll find comfort in the elegant and peaceful rooms, where soundproofing and plush bedding make for a great night’s sleep.",
+      "location_subheading": "Spain",
+      "price": 130,
+      "original_price": 130,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000003GrVuAAK",
+      "hero_image": "https://images.luxuryescapes.com/wwu3vki1ajqvmfk5kts",
+      "image_two": "https://images.luxuryescapes.com/gcqlw2qggfcd1en8y72",
+      "image_three": "https://images.luxuryescapes.com/qb67zuk174u7bxyx7bt",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Spain - Spain Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Spain, Spain with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "spain hotels",
+      "spain travel",
+      "spain hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/spain",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/spain",
+      "es": "https://mondoexplora.com/es/destination/spain",
+      "fr": "https://mondoexplora.com/fr/destination/spain",
+      "it": "https://mondoexplora.com/it/destination/spain"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 130,
+    "average_discount": 0
+  }
+}

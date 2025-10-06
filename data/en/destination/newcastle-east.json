@@ -1,0 +1,50 @@
+{
+  "city": "Newcastle East",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Newcastle East",
+  "description": "Discover the best hotels in Newcastle East, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/yblfj921epl2a0k9s8e",
+  "hotels": [
+    {
+      "vendor_name": "Noahs on the Beach",
+      "offer_country_name": "Australia",
+      "location_heading": "Newcastle East",
+      "title": "Contemporary NSW Coastal Escape Steps from Newcastle Beach",
+      "description": "Breathe in fresh sea air and bask in spectacular ocean views when you stay at Newcastle's only beachfront hotel, Noah's on the Beach. Just steps away from the city centre and harbour, along the shores of Newcastle Beach, this contemporary haven is perfectly appointed to explore the sites from land and sea. Dine on ocean-fresh seafood at Noah's restaurant, take long walks along the coast and experience the best of the city's after-hours fun in the heart of the city from this central base.",
+      "location_subheading": "Australia",
+      "price": 115,
+      "original_price": 115,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EDn0iAAD",
+      "hero_image": "https://images.luxuryescapes.com/yblfj921epl2a0k9s8e",
+      "image_two": "https://images.luxuryescapes.com/2m8efwtjqx6686cjna",
+      "image_three": "https://images.luxuryescapes.com/e71gistr2o2wnpfdh32",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Newcastle East - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Newcastle East, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "newcastle east hotels",
+      "newcastle east travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/newcastle-east",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/newcastle-east",
+      "es": "https://mondoexplora.com/es/destination/newcastle-east",
+      "fr": "https://mondoexplora.com/fr/destination/newcastle-east",
+      "it": "https://mondoexplora.com/it/destination/newcastle-east"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 115,
+    "average_discount": 0
+  }
+}

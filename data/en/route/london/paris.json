@@ -1,0 +1,51 @@
+{
+  "origin": "London",
+  "destination": "Paris",
+  "origin_country": "United Kingdom",
+  "destination_country": "France",
+  "transport_modes": {
+    "flight": {
+      "duration": "3h 45m",
+      "price_range": "$89 - $250",
+      "providers": [
+        "Skyscanner",
+        "Kayak",
+        "Expedia"
+      ]
+    },
+    "train": {
+      "duration": "4h 45m",
+      "price_range": "$80 - $200",
+      "providers": [
+        "Rail Europe",
+        "Eurail",
+        "Trainline"
+      ]
+    },
+    "bus": {
+      "duration": "7h 20m",
+      "price_range": "$40 - $100",
+      "providers": [
+        "FlixBus",
+        "Greyhound",
+        "Megabus"
+      ]
+    },
+    "car": {
+      "duration": "3h 30m",
+      "distance": "350 km",
+      "price_range": "$40 - $95"
+    }
+  },
+  "seo": {
+    "title": "London to Paris - Transport Guide 2024",
+    "description": "Compare transport options from london to paris. Find the best deals on flights, trains, buses and car rentals.",
+    "keywords": [
+      "london to paris",
+      "transport",
+      "travel",
+      "flights",
+      "trains"
+    ]
+  }
+}

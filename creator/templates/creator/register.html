@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Content Creator Registration - MondoExplora</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+        
+        .register-container {
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+            width: 100%;
+            max-width: 500px;
+        }
+        
+        .register-header {
+            background: linear-gradient(135deg, #ff5a5f 0%, #ff8a8e 100%);
+            color: white;
+            padding: 2rem;
+            text-align: center;
+        }
+        
+        .register-header h1 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+        
+        .register-header p {
+            opacity: 0.9;
+            font-size: 0.9rem;
+        }
+        
+        .register-form {
+            padding: 2rem;
+        }
+        
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+        
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+            color: #374151;
+            font-size: 0.9rem;
+        }
+        
+        .form-group input {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            font-size: 1rem;
+            transition: border-color 0.2s;
+        }
+        
+        .form-group input:focus {
+            outline: none;
+            border-color: #ff5a5f;
+        }
+        
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+        }
+        
+        .btn-register {
+            width: 100%;
+            background: linear-gradient(135deg, #ff5a5f 0%, #ff8a8e 100%);
+            color: white;
+            padding: 0.75rem 1rem;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+        
+        .btn-register:hover {
+            transform: translateY(-2px);
+        }
+        
+        .register-footer {
+            text-align: center;
+            padding: 1rem 2rem 2rem;
+            border-top: 1px solid #e5e7eb;
+        }
+        
+        .register-footer a {
+            color: #ff5a5f;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .register-footer a:hover {
+            text-decoration: underline;
+        }
+        
+        .flash-messages {
+            margin-bottom: 1rem;
+        }
+        
+        .flash-message {
+            padding: 0.75rem 1rem;
+            border-radius: 6px;
+            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+        }
+        
+        .flash-success {
+            background: #d1fae5;
+            color: #065f46;
+            border: 1px solid #a7f3d0;
+        }
+        
+        .flash-error {
+            background: #fee2e2;
+            color: #991b1b;
+            border: 1px solid #fecaca;
+        }
+        
+        .flash-info {
+            background: #dbeafe;
+            color: #1e40af;
+            border: 1px solid #bfdbfe;
+        }
+        
+        .back-to-site {
+            position: absolute;
+            top: 2rem;
+            left: 2rem;
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .back-to-site:hover {
+            text-decoration: underline;
+        }
+        
+        .invitation-info {
+            background: #f3f4f6;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .invitation-info h3 {
+            color: #374151;
+            font-size: 0.9rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+        
+        .invitation-info p {
+            color: #6b7280;
+            font-size: 0.8rem;
+            line-height: 1.4;
+        }
+        
+        @media (max-width: 480px) {
+            body {
+                padding: 1rem;
+            }
+            
+            .register-container {
+                border-radius: 12px;
+            }
+            
+            .back-to-site {
+                position: relative;
+                top: auto;
+                left: auto;
+                margin-bottom: 2rem;
+                justify-content: center;
+            }
+            
+            .form-row {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <a href="/" class="back-to-site">
+        <i class="fas fa-arrow-left"></i>
+        Back to MondoExplora
+    </a>
+    
+    <div class="register-container">
+        <div class="register-header">
+            <h1><i class="fas fa-user-plus"></i> Join Our Content Team</h1>
+            <p>Become a travel content creator and share your stories</p>
+        </div>
+        
+        <div class="register-form">
+            <div class="invitation-info">
+                <h3><i class="fas fa-info-circle"></i> Invitation Required</h3>
+                <p>You need a valid invitation code to register as a content creator. If you don't have one, please contact us to request access.</p>
+            </div>
+            
+            {% with messages = get_flashed_messages(with_categories=true) %}
+                {% if messages %}
+                    <div class="flash-messages">
+                        {% for category, message in messages %}
+                            <div class="flash-message flash-{{ category }}">
+                                {{ message }}
+                            </div>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+            {% endwith %}
+            
+            <form method="POST">
+                <div class="form-group">
+                    <label for="invitation_code">Invitation Code *</label>
+                    <input type="text" id="invitation_code" name="invitation_code" required placeholder="Enter your invitation code">
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="username">Username *</label>
+                        <input type="text" id="username" name="username" required placeholder="Choose a username">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="email">Email Address *</label>
+                        <input type="email" id="email" name="email" required placeholder="your@email.com">
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="password">Password *</label>
+                    <input type="password" id="password" name="password" required placeholder="Create a strong password">
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="full_name">Full Name *</label>
+                        <input type="text" id="full_name" name="full_name" required placeholder="Your full name">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="nationality">Nationality</label>
+                        <input type="text" id="nationality" name="nationality" placeholder="Your nationality">
+                    </div>
+                </div>
+                
+                <button type="submit" class="btn-register">
+                    <i class="fas fa-user-plus"></i> Create Account
+                </button>
+            </form>
+        </div>
+        
+        <div class="register-footer">
+            <p>Already have an account? <a href="{{ url_for('creator.login') }}">Sign in here</a></p>
+        </div>
+    </div>
+</body>
+</html> 

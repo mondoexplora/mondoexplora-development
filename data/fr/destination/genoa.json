@@ -1,0 +1,50 @@
+{
+  "city": "Genoa",
+  "country": "Italy",
+  "country_code": "IT",
+  "hero_title": "Hôtels à Genoa",
+  "description": "Découvrez les meilleurs hôtels à Genoa, Italy. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/jhhft90vfumow6eaqxb",
+  "hotels": [
+    {
+      "vendor_name": "Melia Genova",
+      "offer_country_name": "Italy",
+      "location_heading": "Genoa",
+      "title": "Genoa Elegance near Portofino with Daily Breakfast, Welcome Cocktails & Spa Access",
+      "description": "Tucked away in the leafy heart of Genoa, you'll find a five-star Meliá collection hotel dripping with Italian elegance. Moments from the city’s historic centre and a stone’s throw from the sparkling Italian Riviera, this refined retreat is your gateway to Cinque Terre’s pastel-hued villages and the glamour of Portofino. From the moment you step into the sleek, art-adorned lobby, you’ll feel the city’s rich maritime heritage woven into every detail. Unwind in spacious, designer-styled rooms before indulging in Ligurian cuisine at Blue Lounge & Restaurant. The expansive YHI Wellness spa, complete with a heated indoor pool and Turkish bath, offers the perfect reset after a day of city exploration.",
+      "location_subheading": "Italy",
+      "price": 359,
+      "original_price": 665,
+      "discount_percentage": 46,
+      "link": "https://luxuryescapes.com/offer/006RF00000GaY6nYAF",
+      "hero_image": "https://images.luxuryescapes.com/jhhft90vfumow6eaqxb",
+      "image_two": "https://images.luxuryescapes.com/z0fa6g0lc1dsx8d26go",
+      "image_three": "https://images.luxuryescapes.com/n4g55bmo9dfghan9slv",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2025-08-29 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Genoa - Italy Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Genoa, Italy avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "genoa hotels",
+      "genoa travel",
+      "italy hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/genoa",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/genoa",
+      "es": "https://mondoexplora.com/es/destination/genoa",
+      "fr": "https://mondoexplora.com/fr/destination/genoa",
+      "it": "https://mondoexplora.com/it/destination/genoa"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 359,
+    "average_discount": 46
+  }
+}

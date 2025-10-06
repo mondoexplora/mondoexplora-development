@@ -1,0 +1,50 @@
+{
+  "city": "Kraków",
+  "country": "Poland",
+  "country_code": "PL",
+  "hero_title": "Hotels in Kraków",
+  "description": "Discover the best hotels in Kraków, Poland. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/wrah7xlqdognui7xau4",
+  "hotels": [
+    {
+      "vendor_name": "Bachleda Luxury Hotel Kraków - MGallery Collection",
+      "offer_country_name": "Poland",
+      "location_heading": "Kraków",
+      "title": "Krakow Art-Deco Escape with Onsite Restaurant, Bar & Indoor Pool",
+      "description": "Tucked away in the heart of Kraków’s Old Town, Bachleda Luxury Hotel Kraków serves up old-world charm with a seriously modern twist. Think polished marble, plush velvet and crystal chandeliers - all wrapped up in warm Polish hospitality. Just a short stroll from Wawel Castle and the Market Square, it’s your gateway to the city’s historic soul. Inside, rich dark wood accents and leather furnishings set the tone as you sip cocktails in the speakeasy-style Opus Lounge Bar. Savour refined Polish cuisine and European favourites at Gavi restaurant, or unwind in your room or suite where no detail has been overlooked. Whether you're here to explore or just exhale, this place knows how to impress.",
+      "location_subheading": "Poland",
+      "price": 146,
+      "original_price": 146,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnP9nYAF",
+      "hero_image": "https://images.luxuryescapes.com/wrah7xlqdognui7xau4",
+      "image_two": "https://images.luxuryescapes.com/slu1jkj4bpup42t8imld",
+      "image_three": "https://images.luxuryescapes.com/8voysx60uamy4agaeenb",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Kraków - Poland Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Kraków, Poland with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "kraków hotels",
+      "kraków travel",
+      "poland hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/kraków",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/kraków",
+      "es": "https://mondoexplora.com/es/destination/kraków",
+      "fr": "https://mondoexplora.com/fr/destination/kraków",
+      "it": "https://mondoexplora.com/it/destination/kraków"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 146,
+    "average_discount": 0
+  }
+}

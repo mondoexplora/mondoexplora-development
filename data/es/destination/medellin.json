@@ -1,0 +1,50 @@
+{
+  "city": "Medellin",
+  "country": "Colombia",
+  "country_code": "CO",
+  "hero_title": "Hoteles en Medellin",
+  "description": "Descubre los mejores hoteles en Medellin, Colombia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/myrjdmqt6ub7op4hlnp",
+  "hotels": [
+    {
+      "vendor_name": "Novotel Medellín El Tesoro",
+      "offer_country_name": "Colombia",
+      "location_heading": "Medellin",
+      "title": "Colombia: Medellin City Escape with Two Restaurants, Rooftop Pool & Spa",
+      "description": "Located where emerald mountains meet azure skies, Novotel Medellin El Tesoro is perched high above the city in El Tesoro Shopping Park. Stretch out in spacious rooms, unwind in the spa, or float in the rooftop pool as the city sparkles below. Whether you're here for work, wellness or a weekend escape, this is Medellín at its most effortlessly stylish. Step outside to shops, bites and buzz or stay in and savour it all. From rooftop cocktails, yoga and Turkish baths to Latin American cuisine with a twist, this hotel is all about balance. Find your space to breathe easy, stretch out and soak up the views. This is where city energy meets hillside serenity.",
+      "location_subheading": "Colombia",
+      "price": 126,
+      "original_price": 126,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000Jjs35YAB",
+      "hero_image": "https://images.luxuryescapes.com/myrjdmqt6ub7op4hlnp",
+      "image_two": "https://images.luxuryescapes.com/52emyl8r3q4gi0veatck",
+      "image_three": "https://images.luxuryescapes.com/ful5mtx8kpw4bysyf7h",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2025-08-16 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Medellin - Colombia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Medellin, Colombia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "medellin hotels",
+      "medellin travel",
+      "colombia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/medellin",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/medellin",
+      "es": "https://mondoexplora.com/es/destination/medellin",
+      "fr": "https://mondoexplora.com/fr/destination/medellin",
+      "it": "https://mondoexplora.com/it/destination/medellin"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 126,
+    "average_discount": 0
+  }
+}

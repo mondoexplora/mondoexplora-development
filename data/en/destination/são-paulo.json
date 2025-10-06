@@ -1,0 +1,50 @@
+{
+  "city": "São Paulo",
+  "country": "Brazil",
+  "country_code": "BR",
+  "hero_title": "Hotels in São Paulo",
+  "description": "Discover the best hotels in São Paulo, Brazil. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/oaf3c3hq7794hddhf142",
+  "hotels": [
+    {
+      "vendor_name": "Novotel São Paulo Jardins",
+      "offer_country_name": "Brazil",
+      "location_heading": "São Paulo",
+      "title": "Modern São Paulo City Escape with Outdoor Pool & Onsite Dining",
+      "description": "Experience refined sophistication in the heart of São Paulo’s elegant Jardins district, surrounded by leafy boulevards and designer boutiques. Just steps away, discover the renowned Rua Oscar Freire, home to luxury fashion houses and chic cafes, or wander to Ibirapuera Park for tranquil lakes, sculpture gardens and the Museum of Modern Art. Return to contemporary comfort, where the onsite restaurant serves Brazilian classics with a cosmopolitan twist, and the outdoor pool offers sun-soaked relaxation. Explore nearby culinary gems such as D.O.M. by acclaimed chef Alex Atala or enjoy artisanal pastries at Pão bakery on Alameda Lorena.",
+      "location_subheading": "Brazil",
+      "price": 70,
+      "original_price": 70,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000Jjv7sYAB",
+      "hero_image": "https://images.luxuryescapes.com/oaf3c3hq7794hddhf142",
+      "image_two": "https://images.luxuryescapes.com/kdfoqcz7np4hycq5q57",
+      "image_three": "https://images.luxuryescapes.com/zplxnz70us6o4ng04qvd",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in São Paulo - Brazil Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in São Paulo, Brazil with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "são paulo hotels",
+      "são paulo travel",
+      "brazil hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/são-paulo",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/são-paulo",
+      "es": "https://mondoexplora.com/es/destination/são-paulo",
+      "fr": "https://mondoexplora.com/fr/destination/são-paulo",
+      "it": "https://mondoexplora.com/it/destination/são-paulo"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 70,
+    "average_discount": 0
+  }
+}

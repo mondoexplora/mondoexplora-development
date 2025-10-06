@@ -1,0 +1,50 @@
+{
+  "city": "Tamworth",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Tamworth",
+  "description": "Discover the best hotels in Tamworth, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/r39eedibareyirbngc8u",
+  "hotels": [
+    {
+      "vendor_name": "Powerhouse Hotel Tamworth By Rydges",
+      "offer_country_name": "Australia",
+      "location_heading": "Tamworth",
+      "title": "Five-Star Tamworth Luxury with Top-Rated Restaurant",
+      "description": "An escape to regional NSW doesn't get much better than a stay at Powerhouse Hotel Tamworth by Rydges, the region's only five-star property. After a day of exploring, head back to your hotel to be wined and dined at The Workshop Kitchen, one of Tamworth's top restaurants, or pull up a seat at the classy-cool Coal Bunker Bar. Take a dip in the swimming pool, relax at the spa or sauna, or hit the gym. This contemporary abode even has Tesla charging stations for the modern traveller.",
+      "location_subheading": "Australia",
+      "price": 139,
+      "original_price": 139,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000004v1XJAAY",
+      "hero_image": "https://images.luxuryescapes.com/r39eedibareyirbngc8u",
+      "image_two": "https://images.luxuryescapes.com/gv0ux3falaqz7lwv5tk",
+      "image_three": "https://images.luxuryescapes.com/w7vyja4owgsn0hlklqts",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Tamworth - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Tamworth, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "tamworth hotels",
+      "tamworth travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/tamworth",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/tamworth",
+      "es": "https://mondoexplora.com/es/destination/tamworth",
+      "fr": "https://mondoexplora.com/fr/destination/tamworth",
+      "it": "https://mondoexplora.com/it/destination/tamworth"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 139,
+    "average_discount": 0
+  }
+}

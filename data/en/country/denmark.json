@@ -1,0 +1,34 @@
+{
+  "name": "Denmark",
+  "code": "DK",
+  "hero_title": "Denmark Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Denmark.",
+  "hero_image": "https://images.luxuryescapes.com/xtg9pin2lpvnj22wvak",
+  "popular_destinations": [
+    {
+      "name": "Copenhagen",
+      "slug": "copenhagen",
+      "image": "https://images.luxuryescapes.com/xtg9pin2lpvnj22wvak",
+      "description": "Explore Copenhagen with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 134
+    }
+  ],
+  "seo": {
+    "title": "Denmark Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Denmark with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "denmark hotels",
+      "denmark travel",
+      "denmark luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/denmark",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/denmark",
+      "es": "https://mondoexplora.com/es/country/denmark",
+      "fr": "https://mondoexplora.com/fr/country/denmark",
+      "it": "https://mondoexplora.com/it/country/denmark"
+    }
+  }
+}

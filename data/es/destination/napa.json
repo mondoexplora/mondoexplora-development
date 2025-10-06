@@ -1,0 +1,50 @@
+{
+  "city": "Napa",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hoteles en Napa",
+  "description": "Descubre los mejores hoteles en Napa, United States. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/3xesersi0ciw0k2jjmy",
+  "hotels": [
+    {
+      "vendor_name": "The Meritage Resort and Spa",
+      "offer_country_name": "United States",
+      "location_heading": "Napa",
+      "title": "Lavish Napa Valley Vineyard Retreat with Fine-Dining Restaurant & Spa",
+      "description": "Stay in the epitome of Californian elegance at The Meritage Resort and Spa, a sumptuous sanctuary nestled amidst the world-renowned grapevines of the Napa Valley. This exclusive haven boasts an onsite spa, a fine-dining restaurant serving delectable farm-to-table cuisine, and a chic bowling alley for a touch of playful luxury. Venture out to explore the picturesque wine trails, basking in the beauty of the surrounding vineyards, and indulge in a sunset dinner with panoramic views of the Napa Valley.",
+      "location_subheading": "United States",
+      "price": 240,
+      "original_price": 240,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EyGIkAAN",
+      "hero_image": "https://images.luxuryescapes.com/3xesersi0ciw0k2jjmy",
+      "image_two": "https://images.luxuryescapes.com/scedr2iytqd44y5qo788",
+      "image_three": "https://images.luxuryescapes.com/nz633e5slntl0wxw2dh",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Napa - Estados Unidos Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Napa, United States con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "napa hotels",
+      "napa travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/napa",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/napa",
+      "es": "https://mondoexplora.com/es/destination/napa",
+      "fr": "https://mondoexplora.com/fr/destination/napa",
+      "it": "https://mondoexplora.com/it/destination/napa"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 240,
+    "average_discount": 0
+  }
+}

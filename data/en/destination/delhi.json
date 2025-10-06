@@ -1,0 +1,68 @@
+{
+  "city": "Delhi",
+  "country": "India",
+  "country_code": "IN",
+  "hero_title": "Hotels in Delhi",
+  "description": "Discover the best hotels in Delhi, India. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/2mbfcspvnag20nhtxaw5",
+  "hotels": [
+    {
+      "vendor_name": "The Leela Ambience Convention Hotel Delhi",
+      "offer_country_name": "India",
+      "location_heading": "Delhi",
+      "title": "New Delhi Five-Star Stay within One of India's Largest Convention Centres",
+      "description": "Flaunting five-star elegance and a spectacular location in the heart of Delhi, The Leela Ambience Convention Hotel Delhi is the city oasis you've been searching for. Discover the colourful markets, ancient monuments and bustling culinary scene of India's vibrant capital at this sophisticated refuge, and when business calls, you'll find yourself with easy access to one of India’s largest convention facilities, Mahatma Mandir Convention and Exhibition Centre. Within the sprawling hotel, you will find a long list of stunning facilities, including exquisite onsite eateries such as Jamavar for authentic Indian fare, Le Cirque for flavoursome Italian dishes and Megu for Japanese-inspired fine dining. You'll also find a rejuvenating spa, a mesmerising infinity pool, and a state-of-the-art fitness centre.",
+      "location_subheading": "India",
+      "price": 131,
+      "original_price": 131,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000009DPgxAAG",
+      "hero_image": "https://images.luxuryescapes.com/2mbfcspvnag20nhtxaw5",
+      "image_two": "https://images.luxuryescapes.com/00j8rbu3bg1mp1nbndjk",
+      "image_three": "https://images.luxuryescapes.com/tqrhohv3wfgnvgj5h1m7",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Leela Palace New Delhi",
+      "offer_country_name": "India",
+      "location_heading": "Delhi",
+      "title": "Five-Star New Delhi City Opulence in the Diplomatic Quarter",
+      "description": "Maharaja majesty awaits with a five-star stay at The Leela Palace New Delhi, an iconic symbol of ultra-opulence rising high above Chanakyapuri, the capital’s leafy diplomatic quarter. A modern-day palace brilliantly drawing on the signature style of nearby Lutyens' Delhi, the hotel also doubles as a world-class gallery, its traditional and contemporary art collection celebrated by guests and visitors alike. Dine at six world-class restaurants and bars - including Japanese fine dining at Megu and classic cocktails at The Library Bar - and savour moments spent lazing by the breathtaking rooftop infinity pool, indulging in ayurvedic treatments at The Spa or witnessing a traditional twilight ceremony in the inner courtyard.",
+      "location_subheading": "India",
+      "price": 185,
+      "original_price": 185,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000009DPafAAG",
+      "hero_image": "https://images.luxuryescapes.com/ushwgy66qqib2n5h0hcjk",
+      "image_two": "https://images.luxuryescapes.com/fxty2035eu88blplnkl",
+      "image_three": "https://images.luxuryescapes.com/1td8eb01payrat82srus",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Delhi - India Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Delhi, India with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "delhi hotels",
+      "delhi travel",
+      "india hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/delhi",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/delhi",
+      "es": "https://mondoexplora.com/es/destination/delhi",
+      "fr": "https://mondoexplora.com/fr/destination/delhi",
+      "it": "https://mondoexplora.com/it/destination/delhi"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 158,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Anacapri",
+  "country": "Italy",
+  "country_code": "IT",
+  "hero_title": "Hoteles en Anacapri",
+  "description": "Descubre los mejores hoteles en Anacapri, Italy. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/857elovfxbxuetmo24",
+  "hotels": [
+    {
+      "vendor_name": "Jumeirah Capri Palace",
+      "offer_country_name": "Italy",
+      "location_heading": "Anacapri",
+      "title": "Idyllic Five-Star Capri Island Retreat with Michelin-Starred Dining, Spa & Pool",
+      "description": "Set sail across the pristine Gulf of Naples and become immersed in the epitome of Italian excellence at Jumeirah Capri Palace, a five-star sanctuary nestled in the heart of Capri's Anacapri. Explore art-lined interiors, inspired by the contemporary artists of the 20th century, and take a moment to breathe in fresh sea air as you steal a look at the waves lapping at the pristine coastline. Indulge in Michelin-starred dining at L'Olivo, bask in the Mediterranean sun by the glittering outdoor pool, or immerse yourself in complete bliss at the holistic Capri Medical Spa. Experience the allure of Capri, where luxury and culture intertwine on a breathtaking Italian island escape.",
+      "location_subheading": "Italy",
+      "price": 590,
+      "original_price": 590,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000ExP0aAAF",
+      "hero_image": "https://images.luxuryescapes.com/857elovfxbxuetmo24",
+      "image_two": "https://images.luxuryescapes.com/8hvniqrqeqw5981osy",
+      "image_three": "https://images.luxuryescapes.com/flt926pillymwn64gudv",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Anacapri - Italy Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Anacapri, Italy con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "anacapri hotels",
+      "anacapri travel",
+      "italy hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/anacapri",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/anacapri",
+      "es": "https://mondoexplora.com/es/destination/anacapri",
+      "fr": "https://mondoexplora.com/fr/destination/anacapri",
+      "it": "https://mondoexplora.com/it/destination/anacapri"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 590,
+    "average_discount": 0
+  }
+}

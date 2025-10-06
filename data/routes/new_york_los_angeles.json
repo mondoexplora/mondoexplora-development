@@ -1,0 +1,101 @@
+{
+  "route": {
+    "origin": "new_york",
+    "destination": "los_angeles",
+    "distance": "4000 km",
+    "available_modes": [
+      "flight",
+      "train",
+      "bus",
+      "car"
+    ]
+  },
+  "travel_modes": [
+    {
+      "icon": "✈️",
+      "name": "Flight",
+      "description": "Fastest option for long distances",
+      "estimated_time": "2-8 hours",
+      "estimated_cost": "$200-800",
+      "frequency": "Daily",
+      "notes": "Most popular for international travel",
+      "booking_links": {
+        "skyscanner": "https://www.skyscanner.com",
+        "kayak": "https://www.kayak.com",
+        "google_flights": "https://www.google.com/travel/flights"
+      },
+      "providers": [
+        {
+          "name": "American Airlines",
+          "website": "https://www.aa.com",
+          "direct": true
+        },
+        {
+          "name": "Delta",
+          "website": "https://www.delta.com",
+          "direct": true
+        },
+        {
+          "name": "United",
+          "website": "https://www.united.com",
+          "direct": true
+        }
+      ]
+    },
+    {
+      "icon": "🚄",
+      "name": "Train",
+      "description": "Scenic and comfortable for medium distances",
+      "estimated_time": "4-12 hours",
+      "estimated_cost": "$50-300",
+      "frequency": "Daily",
+      "notes": "Great for scenic routes",
+      "booking_links": {
+        "trainline": "https://www.trainline.com",
+        "raileurope": "https://www.raileurope.com",
+        "seat61": "https://www.seat61.com"
+      }
+    },
+    {
+      "icon": "🚌",
+      "name": "Bus",
+      "description": "Budget-friendly option for shorter distances",
+      "estimated_time": "6-24 hours",
+      "estimated_cost": "$20-100",
+      "frequency": "Multiple daily",
+      "notes": "Cheapest option available",
+      "booking_links": {
+        "flixbus": "https://www.flixbus.com",
+        "megabus": "https://www.megabus.com",
+        "greyhound": "https://www.greyhound.com"
+      },
+      "providers": [
+        {
+          "name": "Greyhound",
+          "website": "https://www.greyhound.com",
+          "direct": true
+        }
+      ]
+    },
+    {
+      "icon": "🚗",
+      "name": "Car",
+      "description": "Flexible and convenient for road trips",
+      "estimated_time": "8-20 hours",
+      "estimated_cost": "$100-400",
+      "frequency": "Anytime",
+      "notes": "Maximum flexibility and freedom",
+      "booking_links": {
+        "rentalcars": "https://www.rentalcars.com",
+        "kayak_cars": "https://www.kayak.com/cars",
+        "expedia_cars": "https://www.expedia.com/cars"
+      }
+    }
+  ],
+  "quick_tips": [
+    "Flights are fastest for long distances",
+    "Trains offer scenic routes and comfort",
+    "Buses are cheapest but slowest",
+    "Car gives you flexibility to explore"
+  ]
+}

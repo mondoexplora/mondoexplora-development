@@ -1,0 +1,82 @@
+{
+  "route": {
+    "origin": "koh_tao",
+    "destination": "koh_phi_phi",
+    "distance": "150 km",
+    "available_modes": [
+      "flight",
+      "ferry"
+    ]
+  },
+  "travel_modes": [
+    {
+      "icon": "✈️",
+      "name": "Flight",
+      "description": "Fastest option for long distances",
+      "estimated_time": "2-8 hours",
+      "estimated_cost": "$200-800",
+      "frequency": "Daily",
+      "notes": "Most popular for international travel",
+      "booking_links": {
+        "skyscanner": "https://www.skyscanner.com",
+        "kayak": "https://www.kayak.com",
+        "google_flights": "https://www.google.com/travel/flights"
+      },
+      "providers": [
+        {
+          "name": "Bangkok Airways",
+          "website": "https://www.bangkokair.com",
+          "direct": false
+        },
+        {
+          "name": "Thai Airways",
+          "website": "https://www.thaiairways.com",
+          "direct": false
+        }
+      ],
+      "airports": {
+        "origin": "Koh Samui Airport (USM)",
+        "destination": "Krabi Airport (KBV)"
+      }
+    },
+    {
+      "icon": "⛴️",
+      "name": "Ferry",
+      "description": "Scenic water travel between coastal destinations",
+      "estimated_time": "1-6 hours",
+      "estimated_cost": "$30-150",
+      "frequency": "Daily/Weekly",
+      "notes": "Scenic but weather dependent",
+      "booking_links": {
+        "directferries": "https://www.directferries.com",
+        "ferryhopper": "https://www.ferryhopper.com"
+      },
+      "providers": [
+        {
+          "name": "Lomprayah",
+          "website": "https://www.lomprayah.com",
+          "direct": false
+        },
+        {
+          "name": "Seatran Discovery",
+          "website": "https://www.seatrandiscovery.com",
+          "direct": false
+        },
+        {
+          "name": "Raja Ferry",
+          "website": "https://www.rajaferryport.com",
+          "direct": false
+        }
+      ],
+      "ports": {
+        "origin": "Koh Tao Pier",
+        "destination": "Koh Phi Phi Pier"
+      }
+    }
+  ],
+  "quick_tips": [
+    "Ferries are scenic but slower",
+    "Flights are faster but more expensive",
+    "Check ferry schedules in advance"
+  ]
+}

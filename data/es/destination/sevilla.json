@@ -1,0 +1,50 @@
+{
+  "city": "Sevilla",
+  "country": "Spain",
+  "country_code": "ES",
+  "hero_title": "Hoteles en Sevilla",
+  "description": "Descubre los mejores hoteles en Sevilla, Spain. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/24vyhgvaqnebccaqio78",
+  "hotels": [
+    {
+      "vendor_name": "Hospes Las Casas Del Rey De Baeza",
+      "offer_country_name": "Spain",
+      "location_heading": "Sevilla",
+      "title": "Seville Dreamy Retreat in 18th-Century Spanish Farmhouse",
+      "description": "Immerse yourself in true Spanish opulence with a stay in Hospes Las Casas del Rey de Baeza, a stunning 18th-century converted farmhouse. The aromas of orange blossoms will dazzle your senses as you wander the surrounding streets, soaking in the culture and history of the city. Retreat to this classically inspired resort and observe the city from above with a dip in the glistening rooftop pool. When evening falls, indulge in culinary delights at the Azahar Restaurant.",
+      "location_subheading": "Spain",
+      "price": 140,
+      "original_price": 140,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000BeZ71AAF",
+      "hero_image": "https://images.luxuryescapes.com/24vyhgvaqnebccaqio78",
+      "image_two": "https://images.luxuryescapes.com/azz9st72lqxeoearh6",
+      "image_three": "https://images.luxuryescapes.com/kngtlkkbkayflzy46fba",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 00:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Sevilla - Spain Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Sevilla, Spain con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "sevilla hotels",
+      "sevilla travel",
+      "spain hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/sevilla",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/sevilla",
+      "es": "https://mondoexplora.com/es/destination/sevilla",
+      "fr": "https://mondoexplora.com/fr/destination/sevilla",
+      "it": "https://mondoexplora.com/it/destination/sevilla"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 140,
+    "average_discount": 0
+  }
+}

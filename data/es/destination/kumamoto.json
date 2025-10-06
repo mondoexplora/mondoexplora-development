@@ -1,0 +1,50 @@
+{
+  "city": "Kumamoto",
+  "country": "Japan",
+  "country_code": "JP",
+  "hero_title": "Hoteles en Kumamoto",
+  "description": "Descubre los mejores hoteles en Kumamoto, Japan. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/em77i6639iwhgghlzxu",
+  "hotels": [
+    {
+      "vendor_name": "ANA Crowne Plaza Kumamoto New Sky",
+      "offer_country_name": "Japan",
+      "location_heading": "Kumamoto",
+      "title": "Contemporary Japan Waterfront Hotel near Kumamoto Castle",
+      "description": "On the banks of the Shirakawa River, ANA Crowne Plaza Hotel Kumamoto New Sky, an IHG Hotel towers over the city, showcasing sweeping skyline views. Savour sophisticated dining options at the onsite restaurants, visit the striking Kumamoto Castle for an insight into the history of Japan or take a soothing stroll through the gardens of Suizenji Park. Return to the hotel for a good night's sleep or spend the evening in quiet contemplation enjoying the neon vistas of Kumamoto.",
+      "location_subheading": "Japan",
+      "price": 65,
+      "original_price": 65,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJZIAA5",
+      "hero_image": "https://images.luxuryescapes.com/em77i6639iwhgghlzxu",
+      "image_two": "https://images.luxuryescapes.com/wfa5ieaixv32g8otzn",
+      "image_three": "https://images.luxuryescapes.com/1ybz9u51t97l4flr85u",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Kumamoto - Japan Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Kumamoto, Japan con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "kumamoto hotels",
+      "kumamoto travel",
+      "japan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/kumamoto",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/kumamoto",
+      "es": "https://mondoexplora.com/es/destination/kumamoto",
+      "fr": "https://mondoexplora.com/fr/destination/kumamoto",
+      "it": "https://mondoexplora.com/it/destination/kumamoto"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 65,
+    "average_discount": 0
+  }
+}

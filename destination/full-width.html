@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title id="dynamic-title">Best Hotel Deals in [Destination] | Luxury Hotels & Resorts | ExploraMondo</title>
+  <meta name="description" id="dynamic-description" content="Find the best hotel deals in [Destination]. Compare prices, read reviews, and book luxury hotels with exclusive discounts. Best rates guaranteed.">
+  <meta name="keywords" id="dynamic-keywords" content="hotels in [Destination], [Destination] hotel deals, luxury hotels [Destination], best hotels [Destination], hotel booking [Destination]">
+  <meta property="og:title" id="og-title" content="Best Hotel Deals in [Destination] | ExploraMondo">
+  <meta property="og:description" id="og-description" content="Discover amazing hotel deals in [Destination]. Book luxury accommodations with exclusive discounts and special offers.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" id="og-url" content="">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" id="twitter-title" content="Best Hotel Deals in [Destination]">
+  <meta name="twitter:description" id="twitter-description" content="Find luxury hotels in [Destination] with exclusive deals and discounts.">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #f8f9fa;
+    }
+    
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem 2rem;
+      background-color: #2a3f59;
+      color: #f7f5ef;
+    }
+    
+    header .logo {
+      font-size: 1.5rem;
+      color: #f7f5ef;
+    }
+    
+    header .logo span:first-child {
+      font-weight: 100;
+    }
+    
+    header .logo span:last-child {
+      font-weight: 700;
+      background: #f7f5ef;
+      color: #2a3f59;
+      padding: 0 .25rem;
+      border-radius: 0;
+    }
+    
+    header nav {
+      display: flex;
+    }
+    
+    header nav a {
+      margin: 0 1rem;
+      text-decoration: none;
+      color: #f7f5ef;
+      font-weight: 600;
+    }
+    
+    header nav a:hover {
+      text-decoration: underline;
+    }
+    
+    .main-content {
+      padding: 3rem 2rem;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+    
+    .page-header {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+    
+    .page-header h1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: #2a3f59;
+      margin-bottom: 1rem;
+    }
+    
+    .page-header p {
+      font-size: 1.1rem;
+      color: #666;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    
+    .hotel-list {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+      margin-top: 2rem;
+    }
+    
+    .hotel-card {
+      background: white;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      transition: all 0.3s ease;
+      display: flex;
+      flex-direction: row;
+      min-height: 240px;
+    }
+    
+    .hotel-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 30px rgba(0,0,0,0.15);
+    }
+    
+    .hotel-image-carousel {
+      position: relative;
+      width: 240px;
+      height: 240px;
+      overflow: hidden;
+      flex-shrink: 0;
+    }
+    
+    .carousel-container {
+      display: flex;
+      width: 300%;
+      height: 100%;
+      transition: transform 0.5s ease;
+    }
+    
+    .carousel-slide {
+      width: 33.333%;
+      height: 100%;
+    }
+    
+    .carousel-slide img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    
+    .carousel-nav {
+      position: absolute;
+      bottom: 1rem;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      gap: 0.5rem;
+      z-index: 10;
+    }
+    
+    .carousel-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.5);
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    
+    .carousel-dot.active {
+      background: white;
+    }
+    
+    .carousel-arrow {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(0, 0, 0, 0.5);
+      color: white;
+      border: none;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      cursor: pointer;
+      font-size: 1.2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background-color 0.3s ease;
+      z-index: 10;
+    }
+    
+    .carousel-arrow:hover {
+      background: rgba(0, 0, 0, 0.7);
+    }
+    
+    .carousel-arrow.prev {
+      left: 1rem;
+    }
+    
+    .carousel-arrow.next {
+      right: 1rem;
+    }
+    
+    .hotel-content {
+      padding: 1.5rem;
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+    }
+    
+    .hotel-header {
+      margin-bottom: 1rem;
+    }
+    
+    .hotel-title {
+      font-size: 1.6rem;
+      font-weight: 800;
+      color: #2a3f59;
+      margin-bottom: 0.25rem;
+      line-height: 1.2;
+    }
+    
+    .hotel-subtitle {
+      font-size: 1rem;
+      color: #666;
+      margin-bottom: 0.75rem;
+      font-weight: 500;
+    }
+    
+    .hotel-description {
+      color: #666;
+      font-size: 0.9rem;
+      line-height: 1.5;
+      margin-bottom: 1rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    
+    .hotel-details {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1rem;
+      margin-bottom: 1rem;
+      padding: 1rem;
+      background: #f8f9fa;
+      border-radius: 8px;
+    }
+    
+    .detail-item {
+      text-align: center;
+    }
+    
+    .detail-label {
+      font-size: 0.7rem;
+      color: #666;
+      text-transform: uppercase;
+      font-weight: 600;
+      margin-bottom: 0.2rem;
+    }
+    
+    .detail-value {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #2a3f59;
+    }
+    
+    .discount-badge {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      background: #ff5a5f;
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 20px;
+      font-weight: 700;
+      font-size: 0.9rem;
+      z-index: 10;
+    }
+    
+    .hotel-price {
+      position: absolute;
+      top: 1.5rem;
+      right: 1.5rem;
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: #28a745;
+      text-align: right;
+    }
+    
+    .hotel-price del {
+      font-size: 1.1rem;
+      color: #999;
+      margin-right: 0.5rem;
+      display: block;
+    }
+    
+    .hotel-link {
+      position: absolute;
+      bottom: 1.5rem;
+      right: 1.5rem;
+      background: #ff5a5f;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: 600;
+      transition: background-color 0.3s ease;
+      font-size: 1rem;
+    }
+    
+    .hotel-link:hover {
+      background: #e04a4f;
+    }
+    
+    .loading {
+      text-align: center;
+      padding: 3rem;
+      color: #666;
+    }
+    
+    .loading-spinner {
+      border: 4px solid #f3f3f3;
+      border-top: 4px solid #ff5a5f;
+      border-radius: 50%;
+      width: 40px;
+      height: 40px;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 1rem;
+    }
+    
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    
+    .error-message {
+      text-align: center;
+      padding: 3rem;
+      color: #dc3545;
+      background: #f8d7da;
+      border-radius: 8px;
+      margin: 2rem 0;
+    }
+    
+    footer {
+      background-color: #2a3f59;
+      color: #f7f5ef;
+      padding: 3rem 2rem;
+      margin-top: 4rem;
+    }
+    
+    footer .footer-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 2rem;
+    }
+    
+    footer h4 {
+      margin-bottom: 1rem;
+      font-weight: 600;
+    }
+    
+    footer ul {
+      list-style: none;
+      padding: 0;
+    }
+    
+    footer ul li {
+      margin-bottom: 0.5rem;
+    }
+    
+    footer ul li a {
+      color: #f7f5ef;
+      text-decoration: none;
+    }
+    
+    footer ul li a:hover {
+      text-decoration: underline;
+    }
+    
+    /* Mobile Responsive Styles */
+    @media (max-width: 768px) {
+      header {
+        padding: 0.5rem 1rem;
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+      
+      header nav {
+        gap: 0.5rem;
+      }
+      
+      header nav a {
+        font-size: 0.9rem;
+        margin: 0 0.5rem;
+      }
+      
+      .main-content {
+        padding: 2rem 1rem;
+      }
+      
+      .page-header h1 {
+        font-size: 2rem;
+      }
+      
+             .hotel-card {
+         flex-direction: column;
+         min-height: auto;
+       }
+       
+       .hotel-image-carousel {
+         width: 100%;
+         height: 200px;
+       }
+      
+             .hotel-content {
+         padding: 1rem;
+       }
+      
+             .hotel-title {
+         font-size: 1.3rem;
+       }
+      
+             .hotel-details {
+         grid-template-columns: repeat(2, 1fr);
+         gap: 0.75rem;
+         padding: 0.75rem;
+       }
+       
+       .hotel-price {
+         position: static;
+         text-align: center;
+         margin-bottom: 1rem;
+       }
+       
+       .hotel-link {
+         position: static;
+         text-align: center;
+         width: 100%;
+       }
+    }
+    
+    @media (max-width: 480px) {
+      .page-header h1 {
+        font-size: 1.5rem;
+      }
+      
+             .hotel-image-carousel {
+         height: 180px;
+       }
+      
+      .hotel-details {
+        grid-template-columns: 1fr;
+        gap: 0.75rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo"><span>EXPLORA</span><span>MONDO</span></div>
+    <nav>
+      <a href="../index.html">Home</a>
+      <a href="../route/">Routes</a>
+      <a href="#">Hotels</a>
+      <a href="#">Blog</a>
+      <a href="#">Packages</a>
+    </nav>
+  </header>
+
+  <section class="main-content">
+    <div class="page-header">
+      <h1 id="page-title">Best Hotel Deals</h1>
+      <p id="page-subtitle">Discover incredible accommodations and exclusive offers</p>
+    </div>
+    
+    <div id="hotel-container" class="hotel-list">
+      <div class="loading">
+        <div class="loading-spinner"></div>
+        <p>Loading amazing hotel deals...</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="footer-content">
+      <nav class="footer-column">
+        <h4>About ExploraMondo</h4>
+        <ul>
+          <li><a href="#">Our Story</a></li>
+          <li><a href="#">Terms & Conditions</a></li>
+          <li><a href="#">Privacy Policy</a></li>
+        </ul>
+      </nav>
+      <nav class="footer-column">
+        <h4>Destinations</h4>
+        <ul>
+          <li><a href="#">Bangkok</a></li>
+          <li><a href="#">Phuket</a></li>
+          <li><a href="#">Bali</a></li>
+          <li><a href="#">Tokyo</a></li>
+        </ul>
+      </nav>
+      <nav class="footer-column">
+        <h4>Get Help</h4>
+        <ul>
+          <li><a href="#">Support</a></li>
+          <li><a href="#">FAQs</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <p style="text-align: center; margin-top: 2rem;">© 2025 ExploraMondo. All rights reserved.</p>
+  </footer>
+
+  <script>
+    // Function to format location name (replace underscores and hyphens with spaces and capitalize properly)
+    function formatLocationName(location) {
+      return location.replace(/_/g, ' ').replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+    }
+
+    // Function to get location from URL parameter
+    function getLocationFromURL() {
+      const params = new URLSearchParams(window.location.search);
+      return params.get('d') || '';
+    }
+
+    // Function to load and display hotels
+    async function loadHotels() {
+      const location = getLocationFromURL();
+      
+      if (!location) {
+        showError('No location specified. Please add ?d=LocationName to the URL.');
+        return;
+      }
+
+      const formattedLocation = formatLocationName(location);
+      
+      // Update page content with SEO-optimized titles and descriptions
+      const seoTitle = `Best Hotel Deals in ${formattedLocation} | Luxury Hotels & Resorts | ExploraMondo`;
+      const seoDescription = `Find the best hotel deals in ${formattedLocation}. Compare prices, read reviews, and book luxury hotels with exclusive discounts. Best rates guaranteed.`;
+      const seoKeywords = `hotels in ${formattedLocation}, ${formattedLocation} hotel deals, luxury hotels ${formattedLocation}, best hotels ${formattedLocation}, hotel booking ${formattedLocation}`;
+      
+      // Update all meta tags
+      document.title = seoTitle;
+      document.querySelector('meta[name="description"]').setAttribute('content', seoDescription);
+      document.querySelector('meta[name="keywords"]').setAttribute('content', seoKeywords);
+      document.querySelector('meta[property="og:title"]').setAttribute('content', `Best Hotel Deals in ${formattedLocation} | ExploraMondo`);
+      document.querySelector('meta[property="og:description"]').setAttribute('content', `Discover amazing hotel deals in ${formattedLocation}. Book luxury accommodations with exclusive discounts and special offers.`);
+      document.querySelector('meta[property="og:url"]').setAttribute('content', window.location.href);
+      document.querySelector('meta[name="twitter:title"]').setAttribute('content', `Best Hotel Deals in ${formattedLocation}`);
+      document.querySelector('meta[name="twitter:description"]').setAttribute('content', `Find luxury hotels in ${formattedLocation} with exclusive deals and discounts.`);
+      
+      // Update page content
+      document.getElementById('page-title').textContent = `Best Hotel Deals in ${formattedLocation}`;
+      document.getElementById('page-subtitle').textContent = `Discover incredible accommodations in ${formattedLocation} with exclusive offers`;
+
+      try {
+        // Convert location to lowercase and replace spaces with underscores for JSON filename
+        const locationLower = location.toLowerCase().replace(/ /g, '_');
+        const jsonUrl = `../data/hotels/${locationLower}.json`;
+        
+        console.log(`Loading hotels for ${location} from: ${jsonUrl}`);
+        
+        const response = await fetch(jsonUrl);
+        
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
+        const hotels = await response.json();
+        console.log(`Found ${hotels.length} hotels for ${location}`);
+        
+        displayHotels(hotels);
+        
+      } catch (error) {
+        console.error('Error loading hotels:', error);
+        showError(`Could not load hotels for ${formattedLocation}. Please check the location name and try again.`);
+      }
+    }
+
+    // Function to display hotels
+    function displayHotels(hotels) {
+      const container = document.getElementById('hotel-container');
+      
+      if (hotels.length === 0) {
+        container.innerHTML = `
+          <div class="error-message">
+            <h3>No hotels found</h3>
+            <p>Sorry, no hotel deals are currently available for this location.</p>
+          </div>
+        `;
+        return;
+      }
+      
+      container.innerHTML = '';
+      
+      hotels.forEach((hotel, index) => {
+        const card = document.createElement('div');
+        card.className = 'hotel-card';
+        
+        // Create image carousel
+        const images = [hotel.hero_image, hotel.image_two, hotel.image_three].filter(img => img);
+        const carouselSlides = images.map((img, imgIndex) => 
+          `<div class="carousel-slide">
+            <img src="${img}" alt="${hotel.vendor_name} - Image ${imgIndex + 1}" />
+          </div>`
+        ).join('');
+        
+        const carouselDots = images.map((_, imgIndex) => 
+          `<div class="carousel-dot ${imgIndex === 0 ? 'active' : ''}" data-slide="${imgIndex}"></div>`
+        ).join('');
+        
+        // Format duration text
+        const durationText = hotel.min_duration === hotel.max_duration 
+          ? `${hotel.min_duration} night${hotel.min_duration > 1 ? 's' : ''}`
+          : `${hotel.min_duration}-${hotel.max_duration} nights`;
+        
+        card.innerHTML = `
+          <div class="hotel-image-carousel">
+            <div class="discount-badge">${hotel.percentage_discount}% OFF</div>
+            ${images.length > 1 ? '<button class="carousel-arrow prev">‹</button>' : ''}
+            ${images.length > 1 ? '<button class="carousel-arrow next">›</button>' : ''}
+            <div class="carousel-container" data-hotel="${index}">
+              ${carouselSlides}
+            </div>
+            ${images.length > 1 ? `<div class="carousel-nav">${carouselDots}</div>` : ''}
+          </div>
+          <div class="hotel-content">
+            <div class="hotel-header">
+              <h3 class="hotel-title">${hotel.vendor_name}</h3>
+              <p class="hotel-subtitle">${hotel.title}</p>
+              <p class="hotel-description">${hotel.description}</p>
+            </div>
+            <div class="hotel-details">
+              <div class="detail-item">
+                <div class="detail-label">Country</div>
+                <div class="detail-value">${hotel.offer_country_name}</div>
+              </div>
+              <div class="detail-item">
+                <div class="detail-label">Duration</div>
+                <div class="detail-value">${durationText}</div>
+              </div>
+              <div class="detail-item">
+                <div class="detail-label">Discount</div>
+                <div class="detail-value">${hotel.percentage_discount}%</div>
+              </div>
+              <div class="detail-item">
+                <div class="detail-label">Location</div>
+                <div class="detail-value">${hotel.location_heading}</div>
+              </div>
+            </div>
+                         <div class="hotel-price">
+               <del>$${hotel.value}</del>
+               <span>$${hotel.price}</span>
+             </div>
+             <a href="${hotel.link}" target="_blank" class="hotel-link">View Deal</a>
+          </div>
+        `;
+        
+        container.appendChild(card);
+        
+        // Add carousel functionality if multiple images
+        if (images.length > 1) {
+          addCarouselFunctionality(card, index);
+        }
+      });
+    }
+    
+    // Function to add carousel functionality
+    function addCarouselFunctionality(card, hotelIndex) {
+      const container = card.querySelector('.carousel-container');
+      const dots = card.querySelectorAll('.carousel-dot');
+      const prevBtn = card.querySelector('.carousel-arrow.prev');
+      const nextBtn = card.querySelector('.carousel-arrow.next');
+      let currentSlide = 0;
+      const totalSlides = dots.length;
+      
+      function updateCarousel() {
+        container.style.transform = `translateX(-${currentSlide * 33.333}%)`;
+        
+        // Update dots
+        dots.forEach((dot, index) => {
+          dot.classList.toggle('active', index === currentSlide);
+        });
+      }
+      
+      // Dot navigation
+      dots.forEach((dot, index) => {
+        dot.addEventListener('click', () => {
+          currentSlide = index;
+          updateCarousel();
+        });
+      });
+      
+      // Arrow navigation
+      if (prevBtn) {
+        prevBtn.addEventListener('click', () => {
+          currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+          updateCarousel();
+        });
+      }
+      
+      if (nextBtn) {
+        nextBtn.addEventListener('click', () => {
+          currentSlide = (currentSlide + 1) % totalSlides;
+          updateCarousel();
+        });
+      }
+      
+      // Auto-advance carousel every 5 seconds
+      setInterval(() => {
+        currentSlide = (currentSlide + 1) % totalSlides;
+        updateCarousel();
+      }, 5000);
+    }
+
+    // Function to show error message
+    function showError(message) {
+      const container = document.getElementById('hotel-container');
+      container.innerHTML = `
+        <div class="error-message">
+          <h3>Oops! Something went wrong</h3>
+          <p>${message}</p>
+        </div>
+      `;
+    }
+
+    // Load hotels when page loads
+    document.addEventListener('DOMContentLoaded', loadHotels);
+  </script>
+</body>
+</html> 

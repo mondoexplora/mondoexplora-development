@@ -1,0 +1,50 @@
+{
+  "city": "Coventry",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hotels in Coventry",
+  "description": "Discover the best hotels in Coventry, United Kingdom. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/0ezudhnm5ewsih3y0sku",
+  "hotels": [
+    {
+      "vendor_name": "Hotel Indigo Coventry, an IHG Hotel",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Coventry",
+      "title": "Elegant Coventry City Break near Medieval Cathedral",
+      "description": "Experience the rich history and vibrant culture of Coventry with a stay at the luxurious Hotel Indigo Coventry, an IHG Hotel. This elegant hotel is a stone's throw from the city's iconic landmarks, including the Coventry Cathedral. Immerse yourself in the local scene by exploring Fargo Village, a creative hub filled with independent shops and eateries. At the end of the day, retreat to Cogs Restaurant and Bar for a signature cocktail, or indulge in a gourmet meal.",
+      "location_subheading": "United Kingdom",
+      "price": 86,
+      "original_price": 86,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000G2xr0AAB",
+      "hero_image": "https://images.luxuryescapes.com/0ezudhnm5ewsih3y0sku",
+      "image_two": "https://images.luxuryescapes.com/edovecm5rhp0o9hc0dq",
+      "image_three": "https://images.luxuryescapes.com/wcbxgib8polx1cc4w7",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Coventry - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Coventry, United Kingdom with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "coventry hotels",
+      "coventry travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/coventry",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/coventry",
+      "es": "https://mondoexplora.com/es/destination/coventry",
+      "fr": "https://mondoexplora.com/fr/destination/coventry",
+      "it": "https://mondoexplora.com/it/destination/coventry"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 86,
+    "average_discount": 0
+  }
+}

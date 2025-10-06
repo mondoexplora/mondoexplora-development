@@ -1,0 +1,50 @@
+{
+  "city": "Sheffield",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hotel a Sheffield",
+  "description": "Scopri i migliori hotel a Sheffield, United Kingdom. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/gove15b31bf0x84so346",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Sheffield",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Sheffield",
+      "title": "UK Heritage Sheffield Retreat with Onsite Cocktail Lounge",
+      "description": "Discover regal splendour in the heart of South Yorkshire with a stay at the historic Crowne Plaza Royal Victoria Sheffield, an IHG Hotel. Originally built in 1862 and still proudly serving guests today, this sanctuary features just 105 rooms, each offering a tantalising glimpse into the idyllic charms of yesteryear. Head to Cunningham’s Restaurant for scones and seasonal high tea or sink into a fireside leather chesterfield at the Grand Lounge and sip the evening away.",
+      "location_subheading": "United Kingdom",
+      "price": 77,
+      "original_price": 77,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJcBAAX",
+      "hero_image": "https://images.luxuryescapes.com/gove15b31bf0x84so346",
+      "image_two": "https://images.luxuryescapes.com/6qvddkix79wyod56v18r",
+      "image_three": "https://images.luxuryescapes.com/60htza6vkdn1xatihsho",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Sheffield - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Sheffield, United Kingdom con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "sheffield hotels",
+      "sheffield travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/sheffield",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/sheffield",
+      "es": "https://mondoexplora.com/es/destination/sheffield",
+      "fr": "https://mondoexplora.com/fr/destination/sheffield",
+      "it": "https://mondoexplora.com/it/destination/sheffield"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 77,
+    "average_discount": 0
+  }
+}

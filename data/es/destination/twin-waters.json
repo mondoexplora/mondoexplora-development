@@ -1,0 +1,50 @@
+{
+  "city": "Twin Waters",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hoteles en Twin Waters",
+  "description": "Descubre los mejores hoteles en Twin Waters, Australia. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/bu2ewsy1t64nttizqao",
+  "hotels": [
+    {
+      "vendor_name": "The Sebel Twin Waters",
+      "offer_country_name": "Australia",
+      "location_heading": "Twin Waters",
+      "title": "Relaxed Sunshine Coast Self-Contained Apartment Stay with Beach Access",
+      "description": "Gather friends and family and escape to the Sunshine Coast for a relaxing stay at the The Sebel Twin Waters. Just moments from the sands of Mudjimba Beach, and boasting a private saltwater lagoon, you'll be in an unbeatable location close to everything the Sunshine Coast has on offer. Enjoy the convenience of self-contained apartment living together with the facilities of the adjacent Novotel Sunshine Coast Resort, including its restaurants, bars and pools.",
+      "location_subheading": "Australia",
+      "price": 132,
+      "original_price": 132,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Gw9hTAAR",
+      "hero_image": "https://images.luxuryescapes.com/bu2ewsy1t64nttizqao",
+      "image_two": "https://images.luxuryescapes.com/gf60hmc2qlwsiybxr15",
+      "image_three": "https://images.luxuryescapes.com/5eoaxim8je1mopjg5p0l",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Twin Waters - Australia Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Twin Waters, Australia con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "twin waters hotels",
+      "twin waters travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/twin-waters",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/twin-waters",
+      "es": "https://mondoexplora.com/es/destination/twin-waters",
+      "fr": "https://mondoexplora.com/fr/destination/twin-waters",
+      "it": "https://mondoexplora.com/it/destination/twin-waters"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 132,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "city": "Marseille",
+  "country": "France",
+  "country_code": "FR",
+  "hero_title": "Hotel a Marseille",
+  "description": "Scopri i migliori hotel a Marseille, France. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/b67oggevm8oixzbei7jx",
+  "hotels": [
+    {
+      "vendor_name": "InterContinental Marseille - Hotel Dieu",
+      "offer_country_name": "France",
+      "location_heading": "Marseille",
+      "title": "Palatial Five-Star Mediterranean Escape on France's South Coast with Michelin-Starred Restaurant",
+      "description": "Opulence, charm and history go hand-in-hand at the InterContinental Marseille - Hotel Dieu, housed in a restored 12th-century building set amid the spectacular Panier neighbourhood. Indulge in a rejuvenating facial at the acclaimed Spa by Clarins or enjoy a decadent meal inspired by local cuisine at the Michelin-starred Alcyone restaurant. For an inspiring night out, explore the Vieux Port, stunning architecture and world-class dining options on your doorstep.",
+      "location_subheading": "France",
+      "price": 222,
+      "original_price": 222,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000Bdt66AAB",
+      "hero_image": "https://images.luxuryescapes.com/b67oggevm8oixzbei7jx",
+      "image_two": "https://images.luxuryescapes.com/bsiugwutrkrsr708hbcj",
+      "image_three": "https://images.luxuryescapes.com/d6evwib6xbrva115x6",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Marseille - Le Dôme",
+      "offer_country_name": "France",
+      "location_heading": "Marseille",
+      "title": "Elegant Marseille France Stay near Le Dôme Concert Hall",
+      "description": "Uncover the captivating history of France's oldest city from the refined elegance of Crowne Plaza Marseille - Le Dôme, an IHG Hotel. Delight in a culinary journey at Cucina Victoria restaurant, tantalizing your taste buds with exquisite wines and gastronomic flare. Indulge in a refreshing dip in the seasonal outdoor swimming pool. Beyond your doors, immerse yourself in the vibrant music scene at the nearby Le Dôme concert hall or meander through the ancient streets of Marseille.",
+      "location_subheading": "France",
+      "price": 85,
+      "original_price": 85,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DNPghAAH",
+      "hero_image": "https://images.luxuryescapes.com/q4lvsyhbdcdqj6v24iju",
+      "image_two": "https://images.luxuryescapes.com/mpvj58jqogqbmhio8owo",
+      "image_three": "https://images.luxuryescapes.com/7l8pjnghletyl3i2xlq",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Marseille - France Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Marseille, France con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "marseille hotels",
+      "marseille travel",
+      "france hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/marseille",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/marseille",
+      "es": "https://mondoexplora.com/es/destination/marseille",
+      "fr": "https://mondoexplora.com/fr/destination/marseille",
+      "it": "https://mondoexplora.com/it/destination/marseille"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 154,
+    "average_discount": 0
+  }
+}

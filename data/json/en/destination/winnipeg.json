@@ -1,0 +1,50 @@
+{
+  "city": "Winnipeg",
+  "country": "Canada",
+  "country_code": "CA",
+  "hero_title": "Hotels in Winnipeg",
+  "description": "Discover the best hotels in Winnipeg, Canada. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/lkpr24go1cksdmojstbi",
+  "hotels": [
+    {
+      "vendor_name": "Fairmont Winnipeg",
+      "offer_country_name": "Canada",
+      "location_heading": "Winnipeg",
+      "title": "Elegant Central Winnipeg Retreat near Red River with Three Restaurants & Indoor Pool",
+      "description": "Nestled in the heart of downtown Winnipeg, this refined hotel is the city's grand dame of hospitality. With plush accommodations, a rejuvenating fitness centre with indoor pool and sauna, and acclaimed Velvet Glove Restaurant serving up local favourites, this urban retreat is the perfect combination of sophistication and warmth that'll make you feel right at home. Just steps from the heritage Exchange District, you're perfectly located to explore the city. Whether you're catching a Winnipeg Jets game at the Canada Life Centre, exploring local museums, walking along the banks of the Red River or just taking in the sights, this hotel puts you exactly where you want to be.",
+      "location_subheading": "Canada",
+      "price": 139,
+      "original_price": 139,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnPBGYA3",
+      "hero_image": "https://images.luxuryescapes.com/lkpr24go1cksdmojstbi",
+      "image_two": "https://images.luxuryescapes.com/bhwpcf0y2lhoxkjonjhw",
+      "image_three": "https://images.luxuryescapes.com/2ocyfk8vuapd5d2ghf0t",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Winnipeg - Canada Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Winnipeg, Canada with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "winnipeg hotels",
+      "winnipeg travel",
+      "canada hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/winnipeg",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/winnipeg",
+      "es": "https://mondoexplora.com/es/destination/winnipeg",
+      "fr": "https://mondoexplora.com/fr/destination/winnipeg",
+      "it": "https://mondoexplora.com/it/destination/winnipeg"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 139,
+    "average_discount": 0
+  }
+}

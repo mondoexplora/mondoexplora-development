@@ -1,0 +1,50 @@
+{
+  "city": "Puerto Rico",
+  "country": "Puerto Rico",
+  "country_code": "PR",
+  "hero_title": "Hotel a Puerto Rico",
+  "description": "Scopri i migliori hotel a Puerto Rico, Puerto Rico. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/rbb9cqp5dvzjlvpm8ajp",
+  "hotels": [
+    {
+      "vendor_name": "Fairmont El San Juan Hotel",
+      "offer_country_name": "Puerto Rico",
+      "location_heading": "Puerto Rico",
+      "title": "San Juan Beachfront Opulence with Four Pools & Wellness Spa",
+      "description": "This opulent Puerto Rican resort has been a beachfront gem since 1958, occupying a glittering location in the heart of the Parque Isla Verde. This haven boasts four pools, a state-of-the-art fitness centre, swim-up bar, casino and night club. Here, you'll find a selection of exquisite dining options, including the Meat Market, a modern steakhouse offering prime cuts and fresh seafood. Spend your days exploring the heritage Old San Juan, with its colourful Spanish colonial buildings and ancient fortresses, or swim in the ocean at the nearby Playa Isla Verde. After a long day of exploring, retreat to the hotel's exquisite wellness spa to rest and rejuvenate.",
+      "location_subheading": "Puerto Rico",
+      "price": 1076,
+      "original_price": 1076,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000IGwqUYAT",
+      "hero_image": "https://images.luxuryescapes.com/rbb9cqp5dvzjlvpm8ajp",
+      "image_two": "https://images.luxuryescapes.com/f83sl463e087ou0ous9wt",
+      "image_three": "https://images.luxuryescapes.com/t2l5221j84rpb67ho07d",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Puerto Rico - Puerto Rico Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Puerto Rico, Puerto Rico con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "puerto rico hotels",
+      "puerto rico travel",
+      "puerto rico hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/puerto-rico",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/puerto-rico",
+      "es": "https://mondoexplora.com/es/destination/puerto-rico",
+      "fr": "https://mondoexplora.com/fr/destination/puerto-rico",
+      "it": "https://mondoexplora.com/it/destination/puerto-rico"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 1076,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Mexico",
+  "code": "MX",
+  "hero_title": "Mexico Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Mexico.",
+  "hero_image": "https://images.luxuryescapes.com/6b1gs8mt3551bpgoadb",
+  "popular_destinations": [
+    {
+      "name": "Cabo San Lucas",
+      "slug": "cabo-san-lucas",
+      "image": "https://images.luxuryescapes.com/6b1gs8mt3551bpgoadb",
+      "description": "Explore Cabo San Lucas with luxury accommodations",
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 574
+    },
+    {
+      "name": "Cancun",
+      "slug": "cancun",
+      "image": "https://images.luxuryescapes.com/qnfrsvqzyzsh9f4687",
+      "description": "Explore Cancun with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 364
+    },
+    {
+      "name": "Los Cabos",
+      "slug": "los-cabos",
+      "image": "https://images.luxuryescapes.com/pjzycoe1992jwln0fzwi",
+      "description": "Explore Los Cabos with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 603
+    },
+    {
+      "name": "Mexico City",
+      "slug": "mexico-city",
+      "image": "https://images.luxuryescapes.com/y847ppxetfapajmd0ekn",
+      "description": "Explore Mexico City with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 199
+    },
+    {
+      "name": "Tulum",
+      "slug": "tulum",
+      "image": "https://images.luxuryescapes.com/1c2ttu4dm2uyi364bxr",
+      "description": "Explore Tulum with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 520
+    },
+    {
+      "name": "Nuevo Vallarta",
+      "slug": "nuevo-vallarta",
+      "image": "https://images.luxuryescapes.com/llvan5dafh8sxozcqwl9",
+      "description": "Explore Nuevo Vallarta with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 299
+    }
+  ],
+  "seo": {
+    "title": "Mexico Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Mexico with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "mexico hotels",
+      "mexico travel",
+      "mexico luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/mx",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/mx",
+      "es": "https://mondoexplora.com/es/country/mx",
+      "fr": "https://mondoexplora.com/fr/country/mx",
+      "it": "https://mondoexplora.com/it/country/mx"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Mascot",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hôtels à Mascot",
+  "description": "Découvrez les meilleurs hôtels à Mascot, Australia. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/5porueazul0zx96rlehq",
+  "hotels": [
+    {
+      "vendor_name": "Pullman Sydney Airport",
+      "offer_country_name": "Australia",
+      "location_heading": "Mascot",
+      "title": "Five-Star Pullman Sydney Escape near Airport & Mascot Train Station with Onsite Restaurant",
+      "description": "Embrace the cosmopolitan charms of the Harbour City with a lavish five-star stay at this Pullman hotel, perfectly positioned for seamless travel, mere moments from the Sydney Airport and a short train ride from the CBD. From a light-filled lobby to aesthetically designed rooms, this hotel acts as an ideal base for a Sydney stopover, combining convenience with signature Pullman luxury. Explore the vibrant restaurant and cafe scene of Alexandria, including local favourites like Da Mario Pizza and Gelato Messina Rosebery, or go sightseeing at iconic attractions such as the Opera House and the Harbour Bridge, all a short drive away. After a day of exploration, return to your hotel to enjoy a live wok station and signature grilled delicacies at the Mobius Bar & Grill, best paired with cocktails.",
+      "location_subheading": "Australia",
+      "price": 99,
+      "original_price": 99,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002IlwUIAS",
+      "hero_image": "https://images.luxuryescapes.com/5porueazul0zx96rlehq",
+      "image_two": "https://images.luxuryescapes.com/g4ys82e357987pzgxmds",
+      "image_three": "https://images.luxuryescapes.com/nlwufpqlq78bsws6kcik",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Mascot - Australie Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Mascot, Australia avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "mascot hotels",
+      "mascot travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/mascot",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/mascot",
+      "es": "https://mondoexplora.com/es/destination/mascot",
+      "fr": "https://mondoexplora.com/fr/destination/mascot",
+      "it": "https://mondoexplora.com/it/destination/mascot"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 99,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Slovenia",
+  "code": "SI",
+  "hero_title": "Slovenia Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Slovenia.",
+  "hero_image": "https://images.luxuryescapes.com/hkgcc5kesvftdn9ffn3n",
+  "popular_destinations": [
+    {
+      "name": "Ljubljana",
+      "slug": "ljubljana",
+      "image": "https://images.luxuryescapes.com/hkgcc5kesvftdn9ffn3n",
+      "description": "Explore Ljubljana with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Slovenia Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Slovenia con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "slovenia hotels",
+      "slovenia travel",
+      "slovenia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/si",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/si",
+      "es": "https://mondoexplora.com/es/country/si",
+      "fr": "https://mondoexplora.com/fr/country/si",
+      "it": "https://mondoexplora.com/it/country/si"
+    }
+  }
+}

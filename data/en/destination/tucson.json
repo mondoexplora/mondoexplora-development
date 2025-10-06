@@ -1,0 +1,68 @@
+{
+  "city": "Tucson",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Tucson",
+  "description": "Discover the best hotels in Tucson, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/59pd7o5z4xzhd57msnb9",
+  "hotels": [
+    {
+      "vendor_name": "Omni Tucson National Resort",
+      "offer_country_name": "United States",
+      "location_heading": "Tucson",
+      "title": "Luxurious Tucson Mountain Resort with Two Championship Golf Courses, Six Eateries & Day Spa",
+      "description": "Escape to the desert oasis of this glorious resort, a lavish retreat set against the stunning backdrop of the Santa Catalina Mountains. Tee off on one of two championship golf courses and between swings savour delicious meals and refreshing drinks across the resort's six eateries, including Southwestern cuisine at Bob's Steak & Chop House and breezy cocktails at the al fresco Sweetwater Cabana Bar. Rejuvenate with a treatment at the onsite spa, cool off in the sparkling infinity pool or embark on an exciting hike or cycle through the mountains. Explore the vibrant city of Tucson, with its unique blend of Mexican and Native American cultures, or venture further afield to the stunning surrounds of the Saguaro National Park.",
+      "location_subheading": "United States",
+      "price": 194,
+      "original_price": 194,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002HiIbIAK",
+      "hero_image": "https://images.luxuryescapes.com/59pd7o5z4xzhd57msnb9",
+      "image_two": "https://images.luxuryescapes.com/skxspp0d49ib4ge3ul9",
+      "image_three": "https://images.luxuryescapes.com/mtowjm2f5jsq80e1wmb9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Hacienda Del Sol",
+      "offer_country_name": "United States",
+      "location_heading": "Tucson",
+      "title": "Historic Arizona Desert Escape",
+      "description": "Get your fix of southwest charms in one of Arizona's most picturesque spots at the Hacienda Del Sol Guest Ranch Resort. This idyllic, 34-acre refuge dates back to 1929 and perfectly combines rustic touches with modern charms and is set in the shadows of the stunning Santa Catalina Mountain Range. Make the most of your superb location by exploring the nearby Finger Rock Canyon, Arizona-Sonora Desert Museum or Colossal Cave Mountain Park and hitting the shops at La Encantada. Later, recharge within the resort and make use of the luxurious facilities onsite. Indulge at either of the two fine dining restaurants, The Grill and Terraza Garden Patio & Lounge, dive into three sparkling pools, or be treated to a luxurious spa treatment. For an active escape, drop into the 24-hour fitness centre or go horseback riding along the many trails that wrap around the resort.",
+      "location_subheading": "United States",
+      "price": 145,
+      "original_price": 145,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000007lpaIAAQ",
+      "hero_image": "https://images.luxuryescapes.com/jxfnnn6dvl888qe8jpsf",
+      "image_two": "https://images.luxuryescapes.com/5lf697wm8q9zoydypj0o",
+      "image_three": "https://images.luxuryescapes.com/vpyuzh0nfbl150rtbrbg",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Tucson - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Tucson, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "tucson hotels",
+      "tucson travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/tucson",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/tucson",
+      "es": "https://mondoexplora.com/es/destination/tucson",
+      "fr": "https://mondoexplora.com/fr/destination/tucson",
+      "it": "https://mondoexplora.com/it/destination/tucson"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 170,
+    "average_discount": 0
+  }
+}

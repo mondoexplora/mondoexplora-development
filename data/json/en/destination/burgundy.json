@@ -1,0 +1,50 @@
+{
+  "city": "Burgundy",
+  "country": "France",
+  "country_code": "FR",
+  "hero_title": "Hotels in Burgundy",
+  "description": "Discover the best hotels in Burgundy, France. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/a4u08rxjar9aaby1sens",
+  "hotels": [
+    {
+      "vendor_name": "Domaine de Rymska - Relais & Châteaux",
+      "offer_country_name": "France",
+      "location_heading": "Burgundy",
+      "title": "World-Renowned Relais & Châteaux Luxury in the Heart of Burgundy",
+      "description": "Explore the French region of Burgundy, famed the world over for its wines, at Domaine de Rymska - Relais & Châteaux, a beautifully refurbished and intimate residence set amid lush green hills in manicured surrounds. Leave the hustle and bustle behind and soak up the serenity of this picturesque part of the world with a stay at this five-star paradise of 10 rooms and suites. Days are spent exploring the sprawling 80 hectares of ground and nearby vineyards, sampling gourmet local produce, or taking in the historic landscapes. Onsite you'll find a heated swimming pool, wine cellar, Porsche and electric bike rental (surcharges apply), majestic thoroughbred horses at the property’s stud farm, and the sophisticated La Table de Rymska - offering traditional cuisine created from the estate’s own livestock farm, vegetable garden and orchard.",
+      "location_subheading": "France",
+      "price": 463,
+      "original_price": 463,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000006zbOeAAI",
+      "hero_image": "https://images.luxuryescapes.com/a4u08rxjar9aaby1sens",
+      "image_two": "https://images.luxuryescapes.com/b02vvknrgdhwqe4uch2",
+      "image_three": "https://images.luxuryescapes.com/wiwphvbr6k9p6kqbgqfa",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Burgundy - France Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Burgundy, France with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "burgundy hotels",
+      "burgundy travel",
+      "france hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/burgundy",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/burgundy",
+      "es": "https://mondoexplora.com/es/destination/burgundy",
+      "fr": "https://mondoexplora.com/fr/destination/burgundy",
+      "it": "https://mondoexplora.com/it/destination/burgundy"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 463,
+    "average_discount": 0
+  }
+}

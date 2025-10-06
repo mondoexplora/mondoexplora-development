@@ -1,0 +1,50 @@
+{
+  "city": "Vientiane",
+  "country": "Laos",
+  "country_code": "LA",
+  "hero_title": "Hoteles en Vientiane",
+  "description": "Descubre los mejores hoteles en Vientiane, Laos. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/zd64vws63oxdwfo8tr6d",
+  "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Vientiane",
+      "offer_country_name": "Laos",
+      "location_heading": "Vientiane",
+      "title": "Laos Five-Star Luxury in Elegant Vientiane with Glittering Infinity Pool",
+      "description": "Experience the perfect combination of traditional culture and cosmopolitan living with a charming stay at Crowne Plaza Vientiane, an IHG Hotel. Experience the wonders of Laos' largest city, dotted with gleaming Buddhist temples, elegant malls and prestigious golf courses. When you're not exploring, unwind in the infinity edge outdoor pool or at the tranquil spa, and savour the local cuisine at the onsite restaurants.",
+      "location_subheading": "Laos",
+      "price": 87,
+      "original_price": 87,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000CQJcMAAX",
+      "hero_image": "https://images.luxuryescapes.com/zd64vws63oxdwfo8tr6d",
+      "image_two": "https://images.luxuryescapes.com/z6ny4s7zl5vtnccqist",
+      "image_three": "https://images.luxuryescapes.com/4539209nmrpps5cz5qe",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Vientiane - Laos Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Vientiane, Laos con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "vientiane hotels",
+      "vientiane travel",
+      "laos hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/vientiane",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/vientiane",
+      "es": "https://mondoexplora.com/es/destination/vientiane",
+      "fr": "https://mondoexplora.com/fr/destination/vientiane",
+      "it": "https://mondoexplora.com/it/destination/vientiane"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 87,
+    "average_discount": 0
+  }
+}

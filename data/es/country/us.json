@@ -1,0 +1,61 @@
+{
+  "name": "Estados Unidos",
+  "code": "US",
+  "hero_title": "Estados Unidos Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en United States.",
+  "hero_image": "https://images.luxuryescapes.com/dqom1wf0pcc4gt4a7x3b",
+  "popular_destinations": [
+    {
+      "name": "Boston",
+      "slug": "boston",
+      "image": "https://images.luxuryescapes.com/dqom1wf0pcc4gt4a7x3b",
+      "description": "Explore Boston with luxury accommodations"
+    },
+    {
+      "name": "California",
+      "slug": "california",
+      "image": "https://images.luxuryescapes.com/spdn7gwrtcav7c41o0dj",
+      "description": "Explore California with luxury accommodations"
+    },
+    {
+      "name": "Hawaii",
+      "slug": "hawaii",
+      "image": "https://images.luxuryescapes.com/f3c5wjvvhc94sw1v0wh7",
+      "description": "Explore Hawaii with luxury accommodations"
+    },
+    {
+      "name": "Los Angeles",
+      "slug": "los-angeles",
+      "image": "https://images.luxuryescapes.com/4avqw12g7lsj70h8dmvl",
+      "description": "Explore Los Angeles with luxury accommodations"
+    },
+    {
+      "name": "Miami",
+      "slug": "miami",
+      "image": "https://images.luxuryescapes.com/kihc83x18lw2pmoqxcy",
+      "description": "Explore Miami with luxury accommodations"
+    },
+    {
+      "name": "Nashville",
+      "slug": "nashville",
+      "image": "https://images.luxuryescapes.com/1xubkskrlob5k70xzz3j",
+      "description": "Explore Nashville with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Estados Unidos Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en United States con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "united states hotels",
+      "united states travel",
+      "united states luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/us",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/us",
+      "es": "https://mondoexplora.com/es/country/us",
+      "fr": "https://mondoexplora.com/fr/country/us",
+      "it": "https://mondoexplora.com/it/country/us"
+    }
+  }
+}

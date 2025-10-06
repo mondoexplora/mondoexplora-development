@@ -1,0 +1,50 @@
+{
+  "city": "Lijiang",
+  "country": "China",
+  "country_code": "CN",
+  "hero_title": "Hoteles en Lijiang",
+  "description": "Descubre los mejores hoteles en Lijiang, China. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/rrnqwjnxvm6mjcgnh2t9",
+  "hotels": [
+    {
+      "vendor_name": "Pullman Lijiang Resort And Spa",
+      "offer_country_name": "China",
+      "location_heading": "Lijiang",
+      "title": "Contemporary China Mountain Retreat with Breathtaking Views & Live-Chef Dining",
+      "description": "Set just beyond the cobbled lanes of Lijiang's old town, this refined retreat puts Yunnan's wild beauty on full display, with views that stretch across quiet villages to the jagged peaks of China's Jade Dragon Snow Mountain. Explore the region’s UNESCO-listed heritage, famous bridges and highland landscapes, or simply steep in the seclusion of your well-appointed room. The architecture nods to traditional design, with sloping rooftops and a serene central pond reflecting the mountain above. Inside, the aesthetic shifts to crisp modern minimalism, where clean lines, soft tones and floor-to-ceiling glass offer a fresh counterpoint. Days here might begin with a tea body scrub at the Mandara spa, followed by lunch at Open Kitchen where chefs slice, stir and sear your meal in full view. In the evening, head to ZUN for regional delicacies or dine outdoors at XI as the sun sinks behind the mountains.",
+      "location_subheading": "China",
+      "price": 116,
+      "original_price": 116,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000IazW0YAJ",
+      "hero_image": "https://images.luxuryescapes.com/rrnqwjnxvm6mjcgnh2t9",
+      "image_two": "https://images.luxuryescapes.com/n00hzkqobs0shbr93mrc",
+      "image_three": "https://images.luxuryescapes.com/mx42djf3yixmn9fbhpi",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Lijiang - China Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Lijiang, China con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "lijiang hotels",
+      "lijiang travel",
+      "china hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/lijiang",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/lijiang",
+      "es": "https://mondoexplora.com/es/destination/lijiang",
+      "fr": "https://mondoexplora.com/fr/destination/lijiang",
+      "it": "https://mondoexplora.com/it/destination/lijiang"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 116,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Scottsdale",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hoteles en Scottsdale",
+  "description": "Descubre los mejores hoteles en Scottsdale, United States. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/2omkb11fdowkrtld9nd",
+  "hotels": [
+    {
+      "vendor_name": "Omni Scottsdale Resort & Spa at Montelucia",
+      "offer_country_name": "United States",
+      "location_heading": "Scottsdale",
+      "title": "Spanish-Inspired Scottsdale Retreat with Three Resort Pools, Day Spa & Five Restaurants",
+      "description": "Escape to a five-star oasis framed by the majestic Camelback Mountain, ideally positioned between Scottsdale and Phoenix. Savour Spanish tapas at Prado, sip a handcrafted cocktail at Mbar or indulge in holistic treatments at Joya Spa. For the adventurous, nearby hiking trails beckon, while the resort's three sparkling pools provide a refreshing respite from the Arizona heat. Venture beyond the resort to explore Scottsdale's vibrant arts district, upscale shopping centres and renowned golf courses. For a taste of local culture, visit the nearby Musical Instrument Museum or the Desert Botanical Garden.",
+      "location_subheading": "United States",
+      "price": 217,
+      "original_price": 217,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006Ii000002HiIPIA0",
+      "hero_image": "https://images.luxuryescapes.com/2omkb11fdowkrtld9nd",
+      "image_two": "https://images.luxuryescapes.com/77d4ohjum8ertodrz5h",
+      "image_three": "https://images.luxuryescapes.com/6qwbdk8tn5olaukb1ry",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Scottsdale - Estados Unidos Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Scottsdale, United States con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "scottsdale hotels",
+      "scottsdale travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/scottsdale",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/scottsdale",
+      "es": "https://mondoexplora.com/es/destination/scottsdale",
+      "fr": "https://mondoexplora.com/fr/destination/scottsdale",
+      "it": "https://mondoexplora.com/it/destination/scottsdale"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 217,
+    "average_discount": 0
+  }
+}

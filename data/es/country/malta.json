@@ -1,0 +1,49 @@
+{
+  "name": "Malta",
+  "code": "MT",
+  "hero_title": "Malta Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Malta.",
+  "hero_image": "https://images.luxuryescapes.com/sfkc7httoakge93pc9s",
+  "popular_destinations": [
+    {
+      "name": "Saint Julian's",
+      "slug": "saint-julian's",
+      "image": "https://images.luxuryescapes.com/sfkc7httoakge93pc9s",
+      "description": "Explore Saint Julian's with luxury accommodations"
+    },
+    {
+      "name": "Senglea",
+      "slug": "senglea",
+      "image": "https://images.luxuryescapes.com/wx9lpdhswrym2umj6anv",
+      "description": "Explore Senglea with luxury accommodations"
+    },
+    {
+      "name": "Sliema",
+      "slug": "sliema",
+      "image": "https://images.luxuryescapes.com/t7j30f962iskqvrl9y2i",
+      "description": "Explore Sliema with luxury accommodations"
+    },
+    {
+      "name": "Valletta",
+      "slug": "valletta",
+      "image": "https://images.luxuryescapes.com/jca13axphcbq4lbvbtm",
+      "description": "Explore Valletta with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Malta Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Malta con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "malta hotels",
+      "malta travel",
+      "malta luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/mt",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/mt",
+      "es": "https://mondoexplora.com/es/country/mt",
+      "fr": "https://mondoexplora.com/fr/country/mt",
+      "it": "https://mondoexplora.com/it/country/mt"
+    }
+  }
+}

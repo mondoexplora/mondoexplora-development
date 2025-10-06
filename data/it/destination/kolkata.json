@@ -1,0 +1,50 @@
+{
+  "city": "Kolkata",
+  "country": "India",
+  "country_code": "IN",
+  "hero_title": "Hotel a Kolkata",
+  "description": "Scopri i migliori hotel a Kolkata, India. Trova offerte esclusive e alloggi di lusso.",
+  "hero_image": "https://images.luxuryescapes.com/i05ebg3n6arsob25mmf",
+  "hotels": [
+    {
+      "vendor_name": "Holiday Inn Kolkata Airport",
+      "offer_country_name": "India",
+      "location_heading": "Kolkata",
+      "title": "Kolkata Escape with Outdoor Swimming Pool",
+      "description": "Immerse yourself in the whirlwind energy of Kolkata when you stay at Holiday Inn Kolkata Airport, a modern gem located within close proximity to the city's popular sights. Stay a stone's throw from Eco Park, New Town Coffee House and Mother's Wax Museum, returning to your hotel between expeditions to cool off in the refreshing outdoor swimming pool. When hunger strikes, Social Kitchen serves everything from authentic Indian cuisine to European delights.",
+      "location_subheading": "India",
+      "price": 41,
+      "original_price": 41,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000DI6EbAAL",
+      "hero_image": "https://images.luxuryescapes.com/i05ebg3n6arsob25mmf",
+      "image_two": "https://images.luxuryescapes.com/016yisuctqyayguewf2r",
+      "image_three": "https://images.luxuryescapes.com/mf53tj2yxjjk0qon8n2h",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotel a Kolkata - India Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel a Kolkata, India con offerte esclusive. Prenota la tua fuga perfetta con fino al 60% di sconto.",
+    "keywords": [
+      "kolkata hotels",
+      "kolkata travel",
+      "india hotels"
+    ],
+    "canonical": "https://mondoexplora.com/it/destination/kolkata",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/kolkata",
+      "es": "https://mondoexplora.com/es/destination/kolkata",
+      "fr": "https://mondoexplora.com/fr/destination/kolkata",
+      "it": "https://mondoexplora.com/it/destination/kolkata"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 41,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "China",
+  "code": "CN",
+  "hero_title": "China Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in China.",
+  "hero_image": "https://images.luxuryescapes.com/njnoovom3udeosjdj9fo",
+  "popular_destinations": [
+    {
+      "name": "Dongguan",
+      "slug": "dongguan",
+      "image": "https://images.luxuryescapes.com/njnoovom3udeosjdj9fo",
+      "description": "Explore Dongguan with luxury accommodations"
+    },
+    {
+      "name": "Shanghai",
+      "slug": "shanghai",
+      "image": "https://images.luxuryescapes.com/d8g2jo833gt3c2dcwpw",
+      "description": "Explore Shanghai with luxury accommodations"
+    },
+    {
+      "name": "Shenzhen",
+      "slug": "shenzhen",
+      "image": "https://images.luxuryescapes.com/o2j06shasya2znt6cw",
+      "description": "Explore Shenzhen with luxury accommodations"
+    },
+    {
+      "name": "Beijing",
+      "slug": "beijing",
+      "image": "https://images.luxuryescapes.com/wc7guov2q5n8zi8ywozd",
+      "description": "Explore Beijing with luxury accommodations"
+    },
+    {
+      "name": "Changbaishan",
+      "slug": "changbaishan",
+      "image": "https://images.luxuryescapes.com/vp8pzwodupb3cw7cn7",
+      "description": "Explore Changbaishan with luxury accommodations"
+    },
+    {
+      "name": "Chengdu",
+      "slug": "chengdu",
+      "image": "https://images.luxuryescapes.com/q6tliml7ss08i9s4afj8",
+      "description": "Explore Chengdu with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "China Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in China con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "china hotels",
+      "china travel",
+      "china luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/cn",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/cn",
+      "es": "https://mondoexplora.com/es/country/cn",
+      "fr": "https://mondoexplora.com/fr/country/cn",
+      "it": "https://mondoexplora.com/it/country/cn"
+    }
+  }
+}

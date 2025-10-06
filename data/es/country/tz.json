@@ -1,0 +1,31 @@
+{
+  "name": "Tanzania, United Republic of",
+  "code": "TZ",
+  "hero_title": "Tanzania, United Republic of Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Tanzania, United Republic of.",
+  "hero_image": "https://images.luxuryescapes.com/qdn0nx5cippupwh6c8m",
+  "popular_destinations": [
+    {
+      "name": "Dar Es Salaam",
+      "slug": "dar-es-salaam",
+      "image": "https://images.luxuryescapes.com/qdn0nx5cippupwh6c8m",
+      "description": "Explore Dar Es Salaam with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Tanzania, United Republic of Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Tanzania, United Republic of con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "tanzania, united republic of hotels",
+      "tanzania, united republic of travel",
+      "tanzania, united republic of luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/tz",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/tz",
+      "es": "https://mondoexplora.com/es/country/tz",
+      "fr": "https://mondoexplora.com/fr/country/tz",
+      "it": "https://mondoexplora.com/it/country/tz"
+    }
+  }
+}

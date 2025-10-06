@@ -1,0 +1,50 @@
+{
+  "city": "Wan Chai",
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "hero_title": "Hotels in Wan Chai",
+  "description": "Discover the best hotels in Wan Chai, Hong Kong. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/4374u90jxi90inl2rha",
+  "hotels": [
+    {
+      "vendor_name": "AKI Hong Kong - MGallery",
+      "offer_country_name": "Hong Kong",
+      "location_heading": "Wan Chai",
+      "title": "Ultra-Modern Hong Kong Retreat with Rooftop Whiskey Bar & Onsite Restaurant",
+      "description": "Fall in love with Hong Kong at this sophisticated stay - a modern sanctuary in the vibrant district of Wan Chai. With soaring ceilings and warm wood accents, each room is a peaceful retreat that perfectly complements the neighbourhood's mix of sleek urban living and pulsing energy. Discover an exquisite French-Hong Kong fusion at TANGRAM Bistro or sip rare, herb-infused cocktails high above the skyline at the popular Uncle Ming’s rooftop whisky bar. Unwind at the elegant lobby lounge, keep up with our routine in the 24-hour fitness centre and take in the city lights from your room as the day winds down.",
+      "location_subheading": "Hong Kong",
+      "price": 143,
+      "original_price": 143,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnP1dYAF",
+      "hero_image": "https://images.luxuryescapes.com/4374u90jxi90inl2rha",
+      "image_two": "https://images.luxuryescapes.com/0ayins0bg9t7hhdwofk7",
+      "image_three": "https://images.luxuryescapes.com/t4al86i8ip91buz474np",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Wan Chai - Hong Kong Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Wan Chai, Hong Kong with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "wan chai hotels",
+      "wan chai travel",
+      "hong kong hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/wan-chai",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/wan-chai",
+      "es": "https://mondoexplora.com/es/destination/wan-chai",
+      "fr": "https://mondoexplora.com/fr/destination/wan-chai",
+      "it": "https://mondoexplora.com/it/destination/wan-chai"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 143,
+    "average_discount": 0
+  }
+}

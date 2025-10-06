@@ -1,0 +1,50 @@
+{
+  "city": "Jupiter",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Jupiter",
+  "description": "Discover the best hotels in Jupiter, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/b6smxl2eo3eqltn697q",
+  "hotels": [
+    {
+      "vendor_name": "Timbers Jupiter",
+      "offer_country_name": "United States",
+      "location_heading": "Jupiter",
+      "title": "Sunny Florida Escape with Onsite Golf Club, Restaurants & Spa",
+      "description": "Tee off the perfect family holiday with a luxuriously relaxing stay in a Timbers Jupiter Mediterranean-styled home set on the edge of one of Florida’s best golf courses. Swing the days away on the world-class, Jack Nicklaus-designed 18-hole golf course, or take a short walk to the vibrant beachfront and take a tranquil dip in the sparkling Atlantic. When you’re not out adventuring, find respite in your impeccably designed residence, cook a delicious meal for the family on the BBQ, or splash around in the private backyard pool, heated year-round. Step up your rejuvenating experience even further with a treatment at the resort’s spa, sink your worries away in one of the bubbling hot tubs or enjoy a delicious dinner poolside at Oasis Bar & Grill.",
+      "location_subheading": "United States",
+      "price": 6230,
+      "original_price": 6230,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EwvHLAAZ",
+      "hero_image": "https://images.luxuryescapes.com/b6smxl2eo3eqltn697q",
+      "image_two": "https://images.luxuryescapes.com/b7rwqe8b6k5y18zrahkq",
+      "image_three": "https://images.luxuryescapes.com/6s235booltq05025mcg",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Jupiter - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Jupiter, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "jupiter hotels",
+      "jupiter travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/jupiter",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/jupiter",
+      "es": "https://mondoexplora.com/es/destination/jupiter",
+      "fr": "https://mondoexplora.com/fr/destination/jupiter",
+      "it": "https://mondoexplora.com/it/destination/jupiter"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 6230,
+    "average_discount": 0
+  }
+}

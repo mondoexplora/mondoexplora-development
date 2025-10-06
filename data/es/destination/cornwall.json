@@ -1,0 +1,50 @@
+{
+  "city": "Cornwall",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hoteles en Cornwall",
+  "description": "Descubre los mejores hoteles en Cornwall, United Kingdom. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/waskukocdotlfa5gva1b",
+  "hotels": [
+    {
+      "vendor_name": "Fowey Hall Hotel",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Cornwall",
+      "title": "Idyllic UK Family-Friendly Escape along Cornish Coast with Complimentary Kids Club Sessions",
+      "description": "Experience the elegant charms of a quintessential Victorian mansion at Fowey Hall , a family-friendly retreat on the picturesque Cornish coast. Overlooking the stunning Fowey estuary, the historic manor house is a joyful abode, with facilities to capture the imaginations of both big and little travellers. Parents can savour the taste of Cornwall with locally sourced dishes at the hotel's onsite restaurant, go for a refreshing swim in the pool or pamper with a massage at the luxury spa, all while the little ones are entertained at the Four Bears Den kids' club. If you wish to explore, the iconic Eden Project and the Lost Gardens of Heligan are moments away.",
+      "location_subheading": "United Kingdom",
+      "price": 203,
+      "original_price": 203,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000GvezrAAB",
+      "hero_image": "https://images.luxuryescapes.com/waskukocdotlfa5gva1b",
+      "image_two": "https://images.luxuryescapes.com/l9qdoq6zvnpzdhof9qja",
+      "image_three": "https://images.luxuryescapes.com/wyofhak3bjretjydrwpg",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Cornwall - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Cornwall, United Kingdom con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "cornwall hotels",
+      "cornwall travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/cornwall",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/cornwall",
+      "es": "https://mondoexplora.com/es/destination/cornwall",
+      "fr": "https://mondoexplora.com/fr/destination/cornwall",
+      "it": "https://mondoexplora.com/it/destination/cornwall"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 203,
+    "average_discount": 0
+  }
+}

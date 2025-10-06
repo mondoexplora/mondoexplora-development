@@ -1,0 +1,86 @@
+{
+  "city": "Playa del Carmen",
+  "country": "Mexico",
+  "country_code": "MX",
+  "hero_title": "Hoteles en Playa del Carmen",
+  "description": "Descubre los mejores hoteles en Playa del Carmen, Mexico. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/acteyk3as9c0gja6heks",
+  "hotels": [
+    {
+      "vendor_name": "Banyan Tree Mayakoba",
+      "offer_country_name": "Mexico",
+      "location_heading": "Playa del Carmen",
+      "title": "Mexico Five-Star Award-Winning Oceanfront Escape in Playa del Carmen",
+      "description": "Retreat to the five-star haven of Banyan Tree Mayakoba - a hidden sanctuary just moments from the excitement of Mexico's Playa del Carmen. Tucked comfortably between white sands and the famed El Camaleon PGA Championship Golf Course, this idyllic hideaway invites you into a world of lush mangrove forests and pristine coastlines imbued with the charm of the Riviera Maya. The location is flawless, and the resort is perfectly positioned for guests to unearth Playa del Carmen’s wealth of must-see sights, including Mayan ruins and impressive snorkelling spots. For those looking for an elevated stay, the resort offers a wide range of spa treatments. Treat yourself to massages at Banyan Tree Spa, where Asian and Mexican traditions converge for the ultimate relaxation experience. If fine cuisine is more your cure, gourmands will find no shortage of impeccable dining at any of the resort’s 12 diverse restaurants.",
+      "location_subheading": "Mexico",
+      "price": 549,
+      "original_price": 549,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000004URTkAAO",
+      "hero_image": "https://images.luxuryescapes.com/acteyk3as9c0gja6heks",
+      "image_two": "https://images.luxuryescapes.com/fn3gnrdvqk8u195mumr",
+      "image_three": "https://images.luxuryescapes.com/yjl604wsbopyvq78zgwd",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Viceroy Riviera Maya, a Luxury Villa Resort",
+      "offer_country_name": "Mexico",
+      "location_heading": "Playa del Carmen",
+      "title": "Luxury Mexico Beachfront Resort on the Tropical Riviera Maya",
+      "description": "Escape to Viceroy Riviera Maya, a Luxury Villa Resort, an exquisite top-rated beachfront retreat that immerses guests in luxury and tranquility on Mexico's verdant Riviera Maya. With a classic combination of lush tropical flora, turquoise waters and pristine powder-white sand, you'll feel like you've stepped into a daydream at this stylish escape - perfect for couples. Take the romance to the next level with alfresco dining and nightlife at the Coral Restaurant + Bar or a wellness treatment at the WAYAK spa.",
+      "location_subheading": "Mexico",
+      "price": 515,
+      "original_price": 515,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000EDE3nAAH",
+      "hero_image": "https://images.luxuryescapes.com/h0juviw14ompfk81zca",
+      "image_two": "https://images.luxuryescapes.com/agc6cu5p84z33gg2yclh",
+      "image_three": "https://images.luxuryescapes.com/h3fo63iogqssovs705d",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2027-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mahekal Beach Resort",
+      "offer_country_name": "Mexico",
+      "location_heading": "Playa del Carmen",
+      "title": "Boutique Mexico Beachfront Luxury on Playa del Carmen with Mayan-Inspired Spa",
+      "description": "Experience the barefoot elegance of Mexico's Playa del Carmen at the enchanting Mahekal Beach Resort. This beachfront oasis offers thatched-roof bungalows and bohemian-chic suites nestled among lush jungle gardens, four glittering pools and the Mayan-inspired Revive Spa. Relish traditional Mexican cuisine and sip on cocktails across the hotel's eight restaurants, eateries and bars. Marvel at the Riviera Maya and explore the ancient Mayan ruins of Tulum, a short drive away.",
+      "location_subheading": "Mexico",
+      "price": 209,
+      "original_price": 209,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y00000GuiPgAAJ",
+      "hero_image": "https://images.luxuryescapes.com/o9czyma12lmvzapzmaa",
+      "image_two": "https://images.luxuryescapes.com/s4jpn3fiaarvwhtddmm8",
+      "image_three": "https://images.luxuryescapes.com/dmqp84azoqsnbrce0iz",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Playa del Carmen - Mexico Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Playa del Carmen, Mexico con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "playa del carmen hotels",
+      "playa del carmen travel",
+      "mexico hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/playa-del-carmen",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/playa-del-carmen",
+      "es": "https://mondoexplora.com/es/destination/playa-del-carmen",
+      "fr": "https://mondoexplora.com/fr/destination/playa-del-carmen",
+      "it": "https://mondoexplora.com/it/destination/playa-del-carmen"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 3,
+    "average_price": 424,
+    "average_discount": 0
+  }
+}

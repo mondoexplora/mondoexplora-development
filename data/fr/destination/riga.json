@@ -1,0 +1,50 @@
+{
+  "city": "Riga",
+  "country": "Latvia",
+  "country_code": "LV",
+  "hero_title": "Hôtels à Riga",
+  "description": "Découvrez les meilleurs hôtels à Riga, Latvia. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/ihh42krxgmuhmcjnoqb",
+  "hotels": [
+    {
+      "vendor_name": "Grand Hotel Kempinski Riga",
+      "offer_country_name": "Latvia",
+      "location_heading": "Riga",
+      "title": "Kempinski Riga Heritage with Rooftop Bar Opposite National Opera House",
+      "description": "Discover the magic of Eastern Europe from the luxurious, five-star Grand Hotel Kempinski Riga, originally built in the 19th century and superbly poised in the heart of the Latvian capital with breathtaking views of the Old Town. Positioned directly opposite the National Opera House and mere footsteps away from the town’s centre, Riga's most acclaimed attractions are all within close reach. After days filled with sightseeing, return to your stylish accommodation and rejuvenate at Kempinski The Spa. Dive into the glistening swimming pool or stretch at the state-of-the-art fitness centre, or head to Stage 22 on the rooftop for panoramic views.",
+      "location_subheading": "Latvia",
+      "price": 225,
+      "original_price": 225,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000003H8e7AAC",
+      "hero_image": "https://images.luxuryescapes.com/ihh42krxgmuhmcjnoqb",
+      "image_two": "https://images.luxuryescapes.com/plf211ita7wkz19trra",
+      "image_three": "https://images.luxuryescapes.com/j3x16nqe8nu7bm0nwgd",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Riga - Latvia Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Riga, Latvia avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "riga hotels",
+      "riga travel",
+      "latvia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/riga",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/riga",
+      "es": "https://mondoexplora.com/es/destination/riga",
+      "fr": "https://mondoexplora.com/fr/destination/riga",
+      "it": "https://mondoexplora.com/it/destination/riga"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 225,
+    "average_discount": 0
+  }
+}

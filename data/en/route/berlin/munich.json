@@ -1,0 +1,51 @@
+{
+  "origin": "Berlin",
+  "destination": "Munich",
+  "origin_country": "Germany",
+  "destination_country": "Germany",
+  "transport_modes": {
+    "flight": {
+      "duration": "2h 15m",
+      "price_range": "$89 - $250",
+      "providers": [
+        "Skyscanner",
+        "Kayak",
+        "Expedia"
+      ]
+    },
+    "train": {
+      "duration": "2h 30m",
+      "price_range": "$80 - $200",
+      "providers": [
+        "Rail Europe",
+        "Eurail",
+        "Trainline"
+      ]
+    },
+    "bus": {
+      "duration": "5h 15m",
+      "price_range": "$25 - $60",
+      "providers": [
+        "FlixBus",
+        "Greyhound",
+        "Megabus"
+      ]
+    },
+    "car": {
+      "duration": "3h 55m",
+      "distance": "310 km",
+      "price_range": "$35 - $85"
+    }
+  },
+  "seo": {
+    "title": "Berlin to Munich - Transport Guide 2024",
+    "description": "Compare transport options from berlin to munich. Find the best deals on flights, trains, buses and car rentals.",
+    "keywords": [
+      "berlin to munich",
+      "transport",
+      "travel",
+      "flights",
+      "trains"
+    ]
+  }
+}

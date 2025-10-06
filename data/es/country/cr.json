@@ -1,0 +1,31 @@
+{
+  "name": "Costa Rica",
+  "code": "CR",
+  "hero_title": "Costa Rica Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Costa Rica.",
+  "hero_image": "https://images.luxuryescapes.com/hwca5e5h4nmnahz5kg53",
+  "popular_destinations": [
+    {
+      "name": "Las Catalinas",
+      "slug": "las-catalinas",
+      "image": "https://images.luxuryescapes.com/hwca5e5h4nmnahz5kg53",
+      "description": "Explore Las Catalinas with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Costa Rica Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Costa Rica con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "costa rica hotels",
+      "costa rica travel",
+      "costa rica luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/cr",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/cr",
+      "es": "https://mondoexplora.com/es/country/cr",
+      "fr": "https://mondoexplora.com/fr/country/cr",
+      "it": "https://mondoexplora.com/it/country/cr"
+    }
+  }
+}

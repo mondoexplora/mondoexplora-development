@@ -1,0 +1,50 @@
+{
+  "city": "Shizuoka",
+  "country": "Japan",
+  "country_code": "JP",
+  "hero_title": "Hoteles en Shizuoka",
+  "description": "Descubre los mejores hoteles en Shizuoka, Japan. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/9pti9xyewe83p1su07kq",
+  "hotels": [
+    {
+      "vendor_name": "Grand Mercure Lake Hamana",
+      "offer_country_name": "Japan",
+      "location_heading": "Shizuoka",
+      "title": "Stylish Shizuoka Waterfront Escape on Lake Hamana with Onsen & Lakeside Pool",
+      "description": "Experience waterfront relaxation at this modern hotel, elegantly positioned on the shores of Japan's serene Lake Hamana. Explore the local area's natural beauty, including the vibrant Hamanako Garden Park and incredible Flower Museum that's bursting with colourful blooms. After a day of exploring everything that the Shizuoka prefecture has to offer, savour exquisite buffet cuisine at La Sensoriel - the hotel's elegant restaurant - swim in the lakeside pool or head to the tranquil onsite spa and onsen for a rejuvenating soak.",
+      "location_subheading": "Japan",
+      "price": 63,
+      "original_price": 63,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000CnP1vYAF",
+      "hero_image": "https://images.luxuryescapes.com/9pti9xyewe83p1su07kq",
+      "image_two": "https://images.luxuryescapes.com/9i4tk2xhmagcaytku8t",
+      "image_three": "https://images.luxuryescapes.com/4tr08hll4ain5uwr1onh",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Shizuoka - Japan Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Shizuoka, Japan con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "shizuoka hotels",
+      "shizuoka travel",
+      "japan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/shizuoka",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/shizuoka",
+      "es": "https://mondoexplora.com/es/destination/shizuoka",
+      "fr": "https://mondoexplora.com/fr/destination/shizuoka",
+      "it": "https://mondoexplora.com/it/destination/shizuoka"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 63,
+    "average_discount": 0
+  }
+}

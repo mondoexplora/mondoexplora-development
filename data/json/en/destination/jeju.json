@@ -1,0 +1,50 @@
+{
+  "city": "Jeju",
+  "country": "South Korea",
+  "country_code": "KR",
+  "hero_title": "Hotels in Jeju",
+  "description": "Discover the best hotels in Jeju, South Korea. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/6yxj9ykpkouarbv213yi",
+  "hotels": [
+    {
+      "vendor_name": "Grand Hyatt Jeju",
+      "offer_country_name": "South Korea",
+      "location_heading": "Jeju",
+      "title": "Korea: Jeju Island Sky-High Grandeur with Onsite Dining, Two Spas & Rooftop Infinity Pool",
+      "description": "Perched on South Korea's enchanting island paradise, Grand Hyatt Jeju is a coastal sanctuary that captures Jeju's natural splendour while offering an unparalleled escape. Twelve restaurants and bars showcase local and international cuisine, while the two spas invite you to indulge like never before. Discover island tranquility that showcases Jeju's unique charm while cocooning you in sophisticated comfort, where a rooftop infinity pool creates a shimmering oasis against the island backdrop. Whether exploring the island's volcanic wonders or sampling local seafood, you'll return to a hotel that balances adventure with indulgence.",
+      "location_subheading": "South Korea",
+      "price": 159,
+      "original_price": 159,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/006RF00000HicEbYAJ",
+      "hero_image": "https://images.luxuryescapes.com/6yxj9ykpkouarbv213yi",
+      "image_two": "https://images.luxuryescapes.com/rcwz9zm588ykrr21xd7j",
+      "image_three": "https://images.luxuryescapes.com/is3rz2w1jke1z7ckw1xc",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Jeju - South Korea Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Jeju, South Korea with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "jeju hotels",
+      "jeju travel",
+      "south korea hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/jeju",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/jeju",
+      "es": "https://mondoexplora.com/es/destination/jeju",
+      "fr": "https://mondoexplora.com/fr/destination/jeju",
+      "it": "https://mondoexplora.com/it/destination/jeju"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 159,
+    "average_discount": 0
+  }
+}

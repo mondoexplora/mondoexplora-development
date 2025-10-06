@@ -1,0 +1,61 @@
+{
+  "name": "Philippines",
+  "code": "PH",
+  "hero_title": "Philippines Travel Guide",
+  "description": "Scopri la perfetta fusione di cultura, lusso e avventura in Philippines.",
+  "hero_image": "https://images.luxuryescapes.com/uzgzolew5iamm95qz29s",
+  "popular_destinations": [
+    {
+      "name": "Boracay",
+      "slug": "boracay",
+      "image": "https://images.luxuryescapes.com/uzgzolew5iamm95qz29s",
+      "description": "Explore Boracay with luxury accommodations"
+    },
+    {
+      "name": "Cebu",
+      "slug": "cebu",
+      "image": "https://images.luxuryescapes.com/owtefzap3cyguysypil",
+      "description": "Explore Cebu with luxury accommodations"
+    },
+    {
+      "name": "El Nido",
+      "slug": "el-nido",
+      "image": "https://images.luxuryescapes.com/urvra0h68exxohzvsec",
+      "description": "Explore El Nido with luxury accommodations"
+    },
+    {
+      "name": "Mactan",
+      "slug": "mactan",
+      "image": "https://images.luxuryescapes.com/knnnzjxymhmebrefd4w",
+      "description": "Explore Mactan with luxury accommodations"
+    },
+    {
+      "name": "Mactan Island",
+      "slug": "mactan-island",
+      "image": "https://images.luxuryescapes.com/6jkt2zpu4driz1nkvjj",
+      "description": "Explore Mactan Island with luxury accommodations"
+    },
+    {
+      "name": "Makati",
+      "slug": "makati",
+      "image": "https://images.luxuryescapes.com/132zwnjfe11lkswo4df85u",
+      "description": "Explore Makati with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Philippines Hotels & Travel Guide 2024",
+    "description": "Trova i migliori hotel in Philippines con offerte esclusive. Esplora alloggi di lusso e guide di viaggio.",
+    "keywords": [
+      "philippines hotels",
+      "philippines travel",
+      "philippines luxury"
+    ],
+    "canonical": "https://mondoexplora.com/it/country/ph",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/ph",
+      "es": "https://mondoexplora.com/es/country/ph",
+      "fr": "https://mondoexplora.com/fr/country/ph",
+      "it": "https://mondoexplora.com/it/country/ph"
+    }
+  }
+}

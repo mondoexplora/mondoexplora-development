@@ -1,0 +1,50 @@
+{
+  "city": "Normandy",
+  "country": "France",
+  "country_code": "FR",
+  "hero_title": "Hôtels à Normandy",
+  "description": "Découvrez les meilleurs hôtels à Normandy, France. Trouvez des offres exclusives et des hébergements de luxe.",
+  "hero_image": "https://images.luxuryescapes.com/qqlz29ubdow3vzhz73of",
+  "hotels": [
+    {
+      "vendor_name": "Château d'Audrieu",
+      "offer_country_name": "France",
+      "location_heading": "Normandy",
+      "title": "Normandy Five-Star Heritage Grandeur by Relais & Châteaux",
+      "description": "Leave it all behind for the glorious French countryside, staying in palatial luxury at Château d’Audrieu - part of the prestigious Relais & Châteaux collection. A jewel at the heart of Normandy, this grand five-star hotel is just a 30-minute drive from the seaside and D-Day beaches, and 20 minutes from Bayeux, home of the legendary Bayeux tapestry. Nestled within 25 acres of parkland, this spectacular historic chateau, which dates back to 1715, invites you to step back in time to the French Regency era. Fine gastronomy is served beneath glittering chandeliers and luxurious treatments are delivered at the Spa by Sothys. The splendour doesn’t stop in the gilt-trimmed halls: a stroll through the grounds unveils a heated swimming pool at the edge of the forest and a collection of beautifully manicured gardens, including a French formal garden, rose garden and vegetable garden. There is no finer place to immerse yourself in the famous French joie de vivre.",
+      "location_subheading": "France",
+      "price": 316,
+      "original_price": 316,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000004i7RVAAY",
+      "hero_image": "https://images.luxuryescapes.com/qqlz29ubdow3vzhz73of",
+      "image_two": "https://images.luxuryescapes.com/d9gszgsbzodhq03uf4l",
+      "image_three": "https://images.luxuryescapes.com/qypkqlnrgxu7rbmsarr5",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hôtels à Normandy - France Hotels & Travel Guide 2024",
+    "description": "Trouvez les meilleurs hôtels à Normandy, France avec des offres exclusives. Réservez votre escapade parfaite avec jusqu'à 60% de réduction.",
+    "keywords": [
+      "normandy hotels",
+      "normandy travel",
+      "france hotels"
+    ],
+    "canonical": "https://mondoexplora.com/fr/destination/normandy",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/normandy",
+      "es": "https://mondoexplora.com/es/destination/normandy",
+      "fr": "https://mondoexplora.com/fr/destination/normandy",
+      "it": "https://mondoexplora.com/it/destination/normandy"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 1,
+    "average_price": 316,
+    "average_discount": 0
+  }
+}

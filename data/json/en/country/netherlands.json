@@ -1,0 +1,61 @@
+{
+  "name": "Netherlands",
+  "code": "NL",
+  "hero_title": "Netherlands Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Netherlands.",
+  "hero_image": "https://images.luxuryescapes.com/tb2l17b5vh0s4j6n0bn",
+  "popular_destinations": [
+    {
+      "name": "Amsterdam",
+      "slug": "amsterdam",
+      "image": "https://images.luxuryescapes.com/tb2l17b5vh0s4j6n0bn",
+      "description": "Explore Amsterdam with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 251
+    },
+    {
+      "name": "The Hague",
+      "slug": "the-hague",
+      "image": "https://images.luxuryescapes.com/unypaln6268621e7lz2j",
+      "description": "Explore The Hague with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 107
+    },
+    {
+      "name": "Maastricht",
+      "slug": "maastricht",
+      "image": "https://images.luxuryescapes.com/c5ey95ptdjv50pljmu",
+      "description": "Explore Maastricht with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 115
+    },
+    {
+      "name": "Utrecht",
+      "slug": "utrecht",
+      "image": "https://images.luxuryescapes.com/ddak3fz988dnikma7d2",
+      "description": "Explore Utrecht with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 117
+    }
+  ],
+  "seo": {
+    "title": "Netherlands Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Netherlands with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "netherlands hotels",
+      "netherlands travel",
+      "netherlands luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/nl",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/nl",
+      "es": "https://mondoexplora.com/es/country/nl",
+      "fr": "https://mondoexplora.com/fr/country/nl",
+      "it": "https://mondoexplora.com/it/country/nl"
+    }
+  }
+}

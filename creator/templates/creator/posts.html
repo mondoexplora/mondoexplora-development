@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Posts - MondoExplora</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            font-weight: 300;
+        }
+
+        .btn {
+            padding: 12px 25px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-primary {
+            background: white;
+            color: #667eea;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(255,255,255,0.3);
+        }
+
+        .content {
+            padding: 40px;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+
+        .stat-card {
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 15px;
+            text-align: center;
+            border-left: 5px solid #667eea;
+        }
+
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+
+        .stat-label {
+            color: #666;
+            font-size: 1.1rem;
+        }
+
+        .posts-grid {
+            display: grid;
+            gap: 25px;
+        }
+
+        .post-card {
+            background: white;
+            border: 2px solid #e1e5e9;
+            border-radius: 15px;
+            padding: 25px;
+            transition: all 0.3s ease;
+        }
+
+        .post-card:hover {
+            border-color: #667eea;
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.1);
+            transform: translateY(-2px);
+        }
+
+        .post-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 15px;
+        }
+
+        .post-title {
+            font-size: 1.4rem;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 8px;
+        }
+
+        .post-meta {
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 15px;
+        }
+
+        .post-excerpt {
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+
+        .post-status {
+            display: inline-block;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .status-draft {
+            background: #fff3cd;
+            color: #856404;
+        }
+
+        .status-submitted {
+            background: #d1ecf1;
+            color: #0c5460;
+        }
+
+        .status-approved {
+            background: #d4edda;
+            color: #155724;
+        }
+
+        .status-published {
+            background: #d1e7dd;
+            color: #0f5132;
+        }
+
+        .post-actions {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .btn-sm {
+            padding: 8px 15px;
+            font-size: 14px;
+        }
+
+        .btn-secondary {
+            background: #6c757d;
+            color: white;
+        }
+
+        .btn-danger {
+            background: #dc3545;
+            color: white;
+        }
+
+        .btn-success {
+            background: #28a745;
+            color: white;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: #666;
+        }
+
+        .empty-state i {
+            font-size: 4rem;
+            color: #ddd;
+            margin-bottom: 20px;
+        }
+
+        .empty-state h3 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .empty-state p {
+            font-size: 1.1rem;
+            margin-bottom: 30px;
+        }
+
+        @media (max-width: 768px) {
+            .header {
+                flex-direction: column;
+                gap: 20px;
+                text-align: center;
+            }
+            
+            .stats {
+                grid-template-columns: 1fr;
+            }
+            
+            .post-header {
+                flex-direction: column;
+                gap: 15px;
+            }
+            
+            .post-actions {
+                flex-wrap: wrap;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1><i class="fas fa-newspaper"></i> My Posts</h1>
+            <a href="{{ url_for('creator.create_post') }}" class="btn btn-primary">
+                <i class="fas fa-plus"></i> Create New Post
+            </a>
+        </div>
+
+        <div class="content">
+            <!-- Stats -->
+            <div class="stats">
+                <div class="stat-card">
+                    <div class="stat-number">{{ stats.total_posts }}</div>
+                    <div class="stat-label">Total Posts</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">{{ stats.published_posts }}</div>
+                    <div class="stat-label">Published</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">{{ stats.draft_posts }}</div>
+                    <div class="stat-label">Drafts</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">{{ stats.total_views }}</div>
+                    <div class="stat-label">Total Views</div>
+                </div>
+            </div>
+
+            <!-- Posts List -->
+            {% if posts %}
+                <div class="posts-grid">
+                    {% for post in posts %}
+                        <div class="post-card">
+                            <div class="post-header">
+                                <div>
+                                    <h3 class="post-title">{{ post.title }}</h3>
+                                    <div class="post-meta">
+                                        <i class="fas fa-calendar"></i> {{ post.created_at.strftime('%B %d, %Y') }}
+                                        <span style="margin: 0 10px;">•</span>
+                                        <i class="fas fa-eye"></i> {{ post.views }} views
+                                        {% if post.published_at %}
+                                            <span style="margin: 0 10px;">•</span>
+                                            <i class="fas fa-globe"></i> Published {{ post.published_at.strftime('%B %d, %Y') }}
+                                        {% endif %}
+                                    </div>
+                                </div>
+                                <span class="post-status status-{{ post.status }}">
+                                    {{ post.status.title() }}
+                                </span>
+                            </div>
+                            
+                            {% if post.excerpt %}
+                                <p class="post-excerpt">{{ post.excerpt[:200] }}{% if post.excerpt|length > 200 %}...{% endif %}</p>
+                            {% endif %}
+                            
+                            <div class="post-actions">
+                                <a href="{{ url_for('creator.edit_post', post_id=post.id) }}" class="btn btn-secondary btn-sm">
+                                    <i class="fas fa-edit"></i> Edit
+                                </a>
+                                <a href="{{ url_for('blog.post', slug=post.slug) }}" class="btn btn-primary btn-sm" target="_blank">
+                                    <i class="fas fa-external-link-alt"></i> View
+                                </a>
+                                <form method="POST" action="{{ url_for('creator.delete_post', post_id=post.id) }}" 
+                                      style="display: inline;" onsubmit="return confirm('Are you sure you want to delete this post?')">
+                                    <button type="submit" class="btn btn-danger btn-sm">
+                                        <i class="fas fa-trash"></i> Delete
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            {% else %}
+                <div class="empty-state">
+                    <i class="fas fa-newspaper"></i>
+                    <h3>No posts yet</h3>
+                    <p>Start sharing your travel adventures with the world!</p>
+                    <a href="{{ url_for('creator.create_post') }}" class="btn btn-primary">
+                        <i class="fas fa-plus"></i> Create Your First Post
+                    </a>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html> 

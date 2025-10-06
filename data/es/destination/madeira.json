@@ -1,0 +1,68 @@
+{
+  "city": "Madeira",
+  "country": "Portugal",
+  "country_code": "PT",
+  "hero_title": "Hoteles en Madeira",
+  "description": "Descubre los mejores hoteles en Madeira, Portugal. Encuentra ofertas exclusivas y alojamientos de lujo.",
+  "hero_image": "https://images.luxuryescapes.com/7ttach93i95pfsq4zluh",
+  "hotels": [
+    {
+      "vendor_name": "Saccharum Resort",
+      "offer_country_name": "Portugal",
+      "location_heading": "Madeira",
+      "title": "Madeira Oceanfront Luxury near Funchal with Rooftop Infinity Pool",
+      "description": "Watch the wonders of Madeira unfurl before you from this cliffside luxury retreat on the Portuguese island’s shimmering southern coast. Come for the unrivalled Portuguese culture and rich iridescent sunsets and stay for the luxe facilities, including a restorative spa, squash court, outdoor swimming pools - including a breathtaking infinity pool - and shuttle bus to and from Funchal. Sharpen your appetite with bold, authentic flavours at Alambique Restaurant. For something more casual, Engenho Restaurant is ideal for a feast overlooking the ocean. In the evening, enjoy a drink at Fly Lounge Bar, Trapiche Bar or Calhau Bar overlooking the sunset, while unforgettable nights are forged at Rhum Bar. A luxuriously serene escape, this private oasis ensures every moment will be one to remember.",
+      "location_subheading": "Portugal",
+      "price": 221,
+      "original_price": 221,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000005J1u5AAC",
+      "hero_image": "https://images.luxuryescapes.com/7ttach93i95pfsq4zluh",
+      "image_two": "https://images.luxuryescapes.com/8t8basm0yse0cz37inu6",
+      "image_three": "https://images.luxuryescapes.com/eoj0zrl0s2yazj19lg6",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "VidaMar Resort Hotel Madeira",
+      "offer_country_name": "Portugal",
+      "location_heading": "Madeira",
+      "title": "Oceanfront Madeira Bliss with Onsite Wellness Spa, Three Saltwater Pools, Six Restaurants & Bars",
+      "description": "Ready for a blissful escape where you can relax to the sound of the Atlantic Ocean waves crashing on the beach? Rejuvenate at this five-star retreat on the southern coast of Portugal’s most charming island. Spend days dipping in and out of one of three saltwater pools, eat your weight's worth of delicious cuisine at four onsite restaurants, sip a cocktail while listening to live music at Lisboa Bar or indulge in a luxurious treatment at Thalasso Sea Spa.",
+      "location_subheading": "Portugal",
+      "price": 199,
+      "original_price": 199,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.com/offer/0062y000005I2vpAAC",
+      "hero_image": "https://images.luxuryescapes.com/ue43xqq3tfamr31mi7vp",
+      "image_two": "https://images.luxuryescapes.com/kd3tflyzuqgjxa9oiy7g",
+      "image_three": "https://images.luxuryescapes.com/i8bgnzpanbfbtdw1ngyi",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hoteles en Madeira - Portugal Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Madeira, Portugal con ofertas exclusivas. Reserva tu escapada perfecta con hasta 60% de descuento.",
+    "keywords": [
+      "madeira hotels",
+      "madeira travel",
+      "portugal hotels"
+    ],
+    "canonical": "https://mondoexplora.com/es/destination/madeira",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/madeira",
+      "es": "https://mondoexplora.com/es/destination/madeira",
+      "fr": "https://mondoexplora.com/fr/destination/madeira",
+      "it": "https://mondoexplora.com/it/destination/madeira"
+    }
+  },
+  "meta": {
+    "last_updated": "2025-07-27",
+    "hotel_count": 2,
+    "average_price": 210,
+    "average_discount": 0
+  }
+}

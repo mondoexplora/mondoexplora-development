@@ -1,0 +1,61 @@
+{
+  "name": "Portugal",
+  "code": "PT",
+  "hero_title": "Portugal Travel Guide",
+  "description": "Descubre la mezcla perfecta de cultura, lujo y aventura en Portugal.",
+  "hero_image": "https://images.luxuryescapes.com/6bbjg526ghig1vh7009s",
+  "popular_destinations": [
+    {
+      "name": "Alentejo",
+      "slug": "alentejo",
+      "image": "https://images.luxuryescapes.com/6bbjg526ghig1vh7009s",
+      "description": "Explore Alentejo with luxury accommodations"
+    },
+    {
+      "name": "Arcos de Valdevez",
+      "slug": "arcos-de-valdevez",
+      "image": "https://images.luxuryescapes.com/r4t8fgh3nkbxjfv57vdx",
+      "description": "Explore Arcos de Valdevez with luxury accommodations"
+    },
+    {
+      "name": "Douro Valley",
+      "slug": "douro-valley",
+      "image": "https://images.luxuryescapes.com/u5ect5vjuu6tilzs6zwq",
+      "description": "Explore Douro Valley with luxury accommodations"
+    },
+    {
+      "name": "Ericeira",
+      "slug": "ericeira",
+      "image": "https://images.luxuryescapes.com/pb1jl1v8ujfvjeq2d4c",
+      "description": "Explore Ericeira with luxury accommodations"
+    },
+    {
+      "name": "Estoril",
+      "slug": "estoril",
+      "image": "https://images.luxuryescapes.com/4qavxyezwfdxbmqd858r",
+      "description": "Explore Estoril with luxury accommodations"
+    },
+    {
+      "name": "Lisbon",
+      "slug": "lisbon",
+      "image": "https://images.luxuryescapes.com/5yckyvfavi9x20wjcmm",
+      "description": "Explore Lisbon with luxury accommodations"
+    }
+  ],
+  "seo": {
+    "title": "Portugal Hotels & Travel Guide 2024",
+    "description": "Encuentra los mejores hoteles en Portugal con ofertas exclusivas. Explora alojamientos de lujo y guías de viaje.",
+    "keywords": [
+      "portugal hotels",
+      "portugal travel",
+      "portugal luxury"
+    ],
+    "canonical": "https://mondoexplora.com/es/country/pt",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/pt",
+      "es": "https://mondoexplora.com/es/country/pt",
+      "fr": "https://mondoexplora.com/fr/country/pt",
+      "it": "https://mondoexplora.com/it/country/pt"
+    }
+  }
+}

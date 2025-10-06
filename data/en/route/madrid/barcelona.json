@@ -1,0 +1,51 @@
+{
+  "origin": "Madrid",
+  "destination": "Barcelona",
+  "origin_country": "Spain",
+  "destination_country": "Spain",
+  "transport_modes": {
+    "flight": {
+      "duration": "4h 20m",
+      "price_range": "$89 - $250",
+      "providers": [
+        "Skyscanner",
+        "Kayak",
+        "Expedia"
+      ]
+    },
+    "train": {
+      "duration": "5h 20m",
+      "price_range": "$55 - $130",
+      "providers": [
+        "Rail Europe",
+        "Eurail",
+        "Trainline"
+      ]
+    },
+    "bus": {
+      "duration": "4h 30m",
+      "price_range": "$40 - $100",
+      "providers": [
+        "FlixBus",
+        "Greyhound",
+        "Megabus"
+      ]
+    },
+    "car": {
+      "duration": "5h 45m",
+      "distance": "380 km",
+      "price_range": "$40 - $95"
+    }
+  },
+  "seo": {
+    "title": "Madrid to Barcelona - Transport Guide 2024",
+    "description": "Compare transport options from madrid to barcelona. Find the best deals on flights, trains, buses and car rentals.",
+    "keywords": [
+      "madrid to barcelona",
+      "transport",
+      "travel",
+      "flights",
+      "trains"
+    ]
+  }
+}
