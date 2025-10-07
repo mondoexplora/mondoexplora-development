@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link';
 import { ReactNode } from 'react';
 
 interface HeroProps {
@@ -14,10 +15,10 @@ export default function Hero({ title, subtitle, backgroundImage, location, cta }
     <div className="hero-section" style={{ backgroundImage: `linear-gradient(135deg, rgba(0, 0, 0, 0.6) 0%, rgba(42, 63, 89, 0.8) 100%), url(${backgroundImage})` }}>
       <div className="page-header">
         {/* Logo en la esquina superior derecha */}
-        <div className="logo-overlay">
+        <Link className="logo-overlay" href="/en/" aria-label="MondoExplora Home">
           <span>Mondo</span>
           <span>Explora</span>
-        </div>
+        </Link>
         
         <div className="text-white">
           <h1 className="page-header h1">
