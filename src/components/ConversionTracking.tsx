@@ -186,6 +186,16 @@ export function trackHotelBooking(hotelName: string, price: number, destination:
     });
   }
 
+  // Google Ads Conversion Tracking
+  if (typeof window !== 'undefined' && (window as any).gtag) {
+    (window as any).gtag('event', 'conversion', {
+      send_to: `${process.env.NEXT_PUBLIC_GOOGLE_ADS_ACCOUNT_ID}/${process.env.NEXT_PUBLIC_GOOGLE_ADS_CONVERSION_ID}/${process.env.NEXT_PUBLIC_GOOGLE_ADS_CONVERSION_LABEL}`,
+      value: price,
+      currency: 'USD',
+      transaction_id: `booking_${Date.now()}`
+    });
+  }
+
   // Facebook Pixel Purchase
   if (typeof window !== 'undefined' && (window as any).fbq) {
     (window as any).fbq('track', 'Purchase', {
