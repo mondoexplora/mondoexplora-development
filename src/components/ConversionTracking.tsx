@@ -21,23 +21,25 @@ export default function ConversionTracking({
 }: ConversionTrackingProps) {
   
   useEffect(() => {
-    // Google Analytics 4 Enhanced Ecommerce
-    if (typeof window !== 'undefined' && (window as any).gtag) {
-      const gtag = (window as any).gtag;
-      
-      // Page view with custom parameters
-      gtag('event', 'page_view', {
-        page_title: document.title,
-        page_location: window.location.href,
-        page_type: pageType,
-        destination: destination || '',
-        country: country || '',
-        origin: origin || '',
-        hotel_count: hotelCount || 0,
-        min_price: minPrice || 0,
-        currency: 'USD',
-        value: minPrice || 0
-      });
+    // Wait for tracking scripts to load
+    const initializeTracking = () => {
+      // Google Analytics 4 Enhanced Ecommerce
+      if (typeof window !== 'undefined' && (window as any).gtag) {
+        const gtag = (window as any).gtag;
+        
+        // Page view with custom parameters
+        gtag('event', 'page_view', {
+          page_title: document.title,
+          page_location: window.location.href,
+          page_type: pageType,
+          destination: destination || '',
+          country: country || '',
+          origin: origin || '',
+          hotel_count: hotelCount || 0,
+          min_price: minPrice || 0,
+          currency: 'USD',
+          value: minPrice || 0
+        });
 
       // Custom conversion events based on page type
       switch (pageType) {
@@ -109,14 +111,22 @@ export default function ConversionTracking({
       });
     }
 
-    // Microsoft Clarity for user behavior tracking
-    if (typeof window !== 'undefined' && (window as any).clarity) {
-      const clarity = (window as any).clarity;
-      clarity('set', 'pageType', pageType);
-      clarity('set', 'destination', destination || '');
-      clarity('set', 'country', country || '');
-    }
+      // Microsoft Clarity for user behavior tracking
+      if (typeof window !== 'undefined' && (window as any).clarity) {
+        const clarity = (window as any).clarity;
+        clarity('set', 'pageType', pageType);
+        clarity('set', 'destination', destination || '');
+        clarity('set', 'country', country || '');
+      }
+    };
 
+    // Initialize tracking immediately if scripts are already loaded
+    initializeTracking();
+    
+    // Also try after a short delay to ensure scripts are loaded
+    const timeoutId = setTimeout(initializeTracking, 100);
+
+    return () => clearTimeout(timeoutId);
   }, [pageType, destination, country, origin, hotelCount, minPrice]);
 
   return null;
