@@ -2,12 +2,12 @@
   "/_not-found/page": "/_not-found",
   "/robots.txt/route": "/robots.txt",
   "/sitemap.xml/route": "/sitemap.xml",
-  "/page": "/",
-  "/[lang]/page": "/[lang]",
-  "/[lang]/country/[country]/page": "/[lang]/country/[country]",
   "/[lang]/destination/[city]/page": "/[lang]/destination/[city]",
+  "/page": "/",
+  "/[lang]/privacy/page": "/[lang]/privacy",
   "/[lang]/travel_modes/[origin]/[destination]/page": "/[lang]/travel_modes/[origin]/[destination]",
-  "/[lang]/route/[origin]/[destination]/page": "/[lang]/route/[origin]/[destination]",
+  "/[lang]/country/[country]/page": "/[lang]/country/[country]",
   "/[lang]/home/page": "/[lang]/home",
-  "/[lang]/privacy/page": "/[lang]/privacy"
+  "/[lang]/page": "/[lang]",
+  "/[lang]/route/[origin]/[destination]/page": "/[lang]/route/[origin]/[destination]"
 }

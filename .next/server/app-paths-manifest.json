@@ -2,12 +2,12 @@
   "/_not-found/page": "app/_not-found/page.js",
   "/robots.txt/route": "app/robots.txt/route.js",
   "/sitemap.xml/route": "app/sitemap.xml/route.js",
-  "/page": "app/page.js",
-  "/[lang]/page": "app/[lang]/page.js",
-  "/[lang]/country/[country]/page": "app/[lang]/country/[country]/page.js",
   "/[lang]/destination/[city]/page": "app/[lang]/destination/[city]/page.js",
+  "/page": "app/page.js",
+  "/[lang]/privacy/page": "app/[lang]/privacy/page.js",
   "/[lang]/travel_modes/[origin]/[destination]/page": "app/[lang]/travel_modes/[origin]/[destination]/page.js",
-  "/[lang]/route/[origin]/[destination]/page": "app/[lang]/route/[origin]/[destination]/page.js",
+  "/[lang]/country/[country]/page": "app/[lang]/country/[country]/page.js",
   "/[lang]/home/page": "app/[lang]/home/page.js",
-  "/[lang]/privacy/page": "app/[lang]/privacy/page.js"
+  "/[lang]/page": "app/[lang]/page.js",
+  "/[lang]/route/[origin]/[destination]/page": "app/[lang]/route/[origin]/[destination]/page.js"
 }
