@@ -84,6 +84,15 @@
       "namedRegex": "^/(?<nxtPlang>[^/]+?)(?:/)?$"
     },
     {
+      "page": "/[lang]/article/[slug]",
+      "regex": "^/([^/]+?)/article/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPlang": "nxtPlang",
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/(?<nxtPlang>[^/]+?)/article/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
       "page": "/[lang]/country/[country]",
       "regex": "^/([^/]+?)/country/([^/]+?)(?:/)?$",
       "routeKeys": {

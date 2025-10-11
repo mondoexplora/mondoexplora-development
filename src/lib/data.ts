@@ -1,4 +1,4 @@
-import { DestinationData, RouteData, CountryData, DealData, SupportedLanguage } from '@/types';
+import { DestinationData, RouteData, CountryData, DealData, SupportedLanguage, Article } from '@/types';
 import fs from 'fs';
 import path from 'path';
 
@@ -219,6 +219,51 @@ export async function getFeaturedDeals(lang: SupportedLanguage, limit: number = 
     return featuredDeals.slice(0, limit);
   } catch (error) {
     console.error(`Error loading featured deals for ${lang}:`, error);
+    return [];
+  }
+}
+
+// Article data loading functions
+export async function getArticleData(lang: SupportedLanguage, slug: string): Promise<Article | null> {
+  try {
+    const filePath = path.join(DATA_DIR, lang, 'article', `${slug}.json`);
+    const fileContent = await fs.promises.readFile(filePath, 'utf-8');
+    return JSON.parse(fileContent);
+  } catch (error) {
+    console.error(`Error loading article data for ${slug}:`, error);
+    return null;
+  }
+}
+
+export async function getAllArticles(lang: SupportedLanguage): Promise<Article[]> {
+  try {
+    const articlesDir = path.join(DATA_DIR, lang, 'article');
+    const files = await fs.promises.readdir(articlesDir);
+    const articles: Article[] = [];
+    
+    for (const file of files) {
+      if (file.endsWith('.json')) {
+        const slug = file.replace('.json', '');
+        const article = await getArticleData(lang, slug);
+        if (article) {
+          articles.push(article);
+        }
+      }
+    }
+    
+    return articles.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  } catch (error) {
+    console.error(`Error loading all articles for ${lang}:`, error);
+    return [];
+  }
+}
+
+export async function getFeaturedArticles(lang: SupportedLanguage, limit: number = 3): Promise<Article[]> {
+  try {
+    const allArticles = await getAllArticles(lang);
+    return allArticles.filter(article => article.featured).slice(0, limit);
+  } catch (error) {
+    console.error(`Error loading featured articles for ${lang}:`, error);
     return [];
   }
 } 

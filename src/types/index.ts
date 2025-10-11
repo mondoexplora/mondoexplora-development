@@ -49,4 +49,29 @@ export interface DealData {
   link: string;
 }
 
-export type SupportedLanguage = 'en' | 'es' | 'fr' | 'it'; 
+export type SupportedLanguage = 'en' | 'es' | 'fr' | 'it';
+
+// Article types
+export interface ArticleContentBlock {
+  type: 'heading' | 'text' | 'image' | 'quote' | 'list';
+  level?: number; // for headings
+  content?: string; // for text, quote, heading
+  src?: string; // for images
+  alt?: string; // for images
+  caption?: string; // for images
+  credit_url?: string; // for images
+  items?: string[]; // for lists
+}
+
+export interface Article {
+  id: number;
+  title: string;
+  slug: string;
+  summary: string;
+  author: string;
+  date: string;
+  featured: boolean;
+  featured_image: string;
+  content_blocks: ArticleContentBlock[];
+  tags: string[];
+} 

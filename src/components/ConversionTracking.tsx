@@ -3,7 +3,7 @@
 import { useEffect } from 'react';
 
 interface ConversionTrackingProps {
-  pageType: 'homepage' | 'destination' | 'country' | 'route';
+  pageType: 'homepage' | 'destination' | 'country' | 'route' | 'article';
   destination?: string;
   country?: string;
   origin?: string;
