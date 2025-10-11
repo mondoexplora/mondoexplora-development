@@ -1,0 +1,61 @@
+{
+  "name": "MondoExplora - Luxury Hotel Deals Worldwide",
+  "short_name": "MondoExplora",
+  "description": "Discover luxury hotels with exclusive deals in 65+ countries worldwide. Compare prices, read reviews, and book with confidence.",
+  "start_url": "/en",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["travel", "lifestyle", "business"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/og-image-homepage.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "MondoExplora Homepage"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Search Hotels",
+      "short_name": "Search",
+      "description": "Search for luxury hotels worldwide",
+      "url": "/en?search=true",
+      "icons": [
+        {
+          "src": "/favicon.svg",
+          "sizes": "any"
+        }
+      ]
+    },
+    {
+      "name": "Popular Destinations",
+      "short_name": "Destinations",
+      "description": "Browse popular destinations",
+      "url": "/en",
+      "icons": [
+        {
+          "src": "/favicon.svg",
+          "sizes": "any"
+        }
+      ]
+    }
+  ]
+}

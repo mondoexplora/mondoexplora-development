@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { trackingManager } from "@/lib/trackingManager";
 import PrivacyConsentBox from "@/components/PrivacyConsentBox";
 
 export const metadata: Metadata = {
@@ -11,14 +10,23 @@ export const metadata: Metadata = {
   },
 };
 
-interface PrivacyPageProps {
-  params: {
-    lang: string;
-  };
+export async function generateStaticParams() {
+  return [
+    { lang: 'en' },
+    { lang: 'es' },
+    { lang: 'fr' },
+    { lang: 'it' },
+  ];
 }
 
-export default function PrivacyPage({ params }: PrivacyPageProps) {
-  const { lang } = params;
+interface PrivacyPageProps {
+  params: Promise<{
+    lang: string;
+  }>;
+}
+
+export default async function PrivacyPage({ params }: PrivacyPageProps) {
+  const { lang } = await params;
 
   const getContent = () => {
     switch (lang) {
@@ -274,7 +282,7 @@ export default function PrivacyPage({ params }: PrivacyPageProps) {
               <p className="text-gray-700 leading-relaxed">
                 We may update this Privacy Policy from time to time. We will notify you of 
                 any changes by posting the new Privacy Policy on this page and updating the 
-                "Last updated" date.
+                &quot;Last updated&quot; date.
               </p>
             </div>
 
