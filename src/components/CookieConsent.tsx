@@ -10,39 +10,14 @@ interface CookieConsentProps {
 
 export default function CookieConsent({ onAccept, onDecline, lang = 'en' }: CookieConsentProps) {
   const [isVisible, setIsVisible] = useState(false);
-  const [hasInteracted, setHasInteracted] = useState(false);
 
   useEffect(() => {
     // Check if user has already made a choice
     const consent = localStorage.getItem('cookie-consent');
     if (!consent) {
       setIsVisible(true);
-      
-      // Set up implicit consent tracking
-      const handleUserInteraction = () => {
-        if (!hasInteracted) {
-          setHasInteracted(true);
-          // Auto-accept consent after user interaction
-          localStorage.setItem('cookie-consent', 'accepted');
-          setIsVisible(false);
-          onAccept();
-        }
-      };
-
-      // Track user interactions as implicit consent (only clicks and touches, not scrolls)
-      const events = ['click', 'touchstart', 'keydown'];
-      events.forEach(event => {
-        document.addEventListener(event, handleUserInteraction, { once: true });
-      });
-
-      // Cleanup event listeners
-      return () => {
-        events.forEach(event => {
-          document.removeEventListener(event, handleUserInteraction);
-        });
-      };
     }
-  }, [onAccept, hasInteracted]);
+  }, []);
 
   const handleAccept = () => {
     localStorage.setItem('cookie-consent', 'accepted');

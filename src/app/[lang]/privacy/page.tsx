@@ -1,4 +1,15 @@
-import { Metadata } from 'next';
+import type { Metadata } from "next";
+import { trackingManager } from "@/lib/trackingManager";
+import PrivacyConsentBox from "@/components/PrivacyConsentBox";
+
+export const metadata: Metadata = {
+  title: "Privacy Policy - MondoExplora",
+  description: "Learn how MondoExplora collects, uses, and protects your personal information. GDPR compliant privacy policy.",
+  robots: {
+    index: true,
+    follow: true,
+  },
+};
 
 interface PrivacyPageProps {
   params: {
@@ -6,336 +17,116 @@ interface PrivacyPageProps {
   };
 }
 
-export const dynamicParams = false;
-export function generateStaticParams() {
-  return [{ lang: 'en' }, { lang: 'es' }, { lang: 'fr' }, { lang: 'it' }];
-}
-
-// Using parent metadata; page content provides localized headings
-
-export default function PrivacyPage({ params }: any) {
+export default function PrivacyPage({ params }: PrivacyPageProps) {
   const { lang } = params;
-  const acceptUrl = `/${lang}`;
 
   const getContent = () => {
     switch (lang) {
       case 'es':
         return {
           title: 'Política de Privacidad',
-          lastUpdated: 'Última actualización: 7 de octubre de 2024',
+          lastUpdated: 'Última actualización: 16 de enero de 2025',
           sections: [
             {
               title: '1. Información que Recopilamos',
-              content: `Recopilamos información que nos proporciona directamente, como cuando crea una cuenta, hace una reserva o se comunica con nosotros. También recopilamos información automáticamente cuando utiliza nuestro sitio web, incluyendo:
-              
-              • Información de navegación (páginas visitadas, tiempo en el sitio)
-              • Información del dispositivo (tipo de dispositivo, navegador, dirección IP)
-              • Cookies y tecnologías similares
-              • Datos de ubicación (si los permite)`
+              content: 'Recopilamos información personal cuando usted utiliza nuestro sitio web, incluyendo:'
             },
             {
               title: '2. Cómo Utilizamos su Información',
-              content: `Utilizamos su información para:
-              
-              • Proporcionar y mejorar nuestros servicios
-              • Procesar reservas y transacciones
-              • Personalizar su experiencia
-              • Enviar comunicaciones de marketing (con su consentimiento)
-              • Analizar el uso del sitio web
-              • Cumplir con obligaciones legales`
+              content: 'Utilizamos su información personal para:'
             },
             {
               title: '3. Cookies y Tecnologías de Seguimiento',
-              content: `Utilizamos cookies y tecnologías similares para:
-              
-              • Recordar sus preferencias
-              • Analizar el tráfico del sitio web
-              • Personalizar contenido y anuncios
-              • Medir la efectividad de nuestras campañas
-              
-              Puede controlar las cookies a través de la configuración de su navegador.`
+              content: 'Utilizamos cookies y tecnologías similares para mejorar su experiencia.'
             },
             {
-              title: '4. Compartir Información',
-              content: `Podemos compartir su información con:
-              
-              • Proveedores de servicios de confianza
-              • Socios comerciales (con su consentimiento)
-              • Autoridades legales (cuando sea requerido por ley)
-              
-              No vendemos su información personal a terceros.`
+              title: '4. Google Analytics y Marketing',
+              content: 'Utilizamos Google Analytics y herramientas de marketing para análisis y publicidad.'
             },
             {
               title: '5. Sus Derechos',
-              content: `Tiene derecho a:
-              
-              • Acceder a su información personal
-              • Corregir información inexacta
-              • Eliminar su información
-              • Restringir el procesamiento
-              • Portabilidad de datos
-              • Oponerse al procesamiento
-              
-              Para ejercer estos derechos, contáctenos.`
-            },
-            {
-              title: '6. Seguridad de Datos',
-              content: `Implementamos medidas de seguridad técnicas y organizativas apropiadas para proteger su información personal contra acceso no autorizado, alteración, divulgación o destrucción.`
-            },
-            {
-              title: '7. Retención de Datos',
-              content: `Conservamos su información personal solo durante el tiempo necesario para cumplir con los propósitos descritos en esta política, a menos que la ley requiera un período de retención más largo.`
-            },
-            {
-              title: '8. Cambios a esta Política',
-              content: `Podemos actualizar esta política de privacidad ocasionalmente. Le notificaremos sobre cambios significativos publicando la nueva política en nuestro sitio web.`
-            },
-            {
-              title: '9. Contacto',
-              content: `Si tiene preguntas sobre esta política de privacidad, puede contactarnos en:
-              
-              Email: privacy@mondoexplora.com
-              Dirección: MondoExplora Privacy Team`
+              content: 'Tiene derecho a acceder, rectificar o eliminar sus datos personales.'
             }
           ]
         };
       case 'fr':
         return {
           title: 'Politique de Confidentialité',
-          lastUpdated: 'Dernière mise à jour : 7 octobre 2024',
+          lastUpdated: 'Dernière mise à jour: 16 janvier 2025',
           sections: [
             {
-              title: '1. Informations que Nous Collectons',
-              content: `Nous collectons les informations que vous nous fournissez directement, comme lorsque vous créez un compte, effectuez une réservation ou communiquez avec nous. Nous collectons également automatiquement des informations lorsque vous utilisez notre site web, notamment :
-              
-              • Informations de navigation (pages visitées, temps sur le site)
-              • Informations sur l'appareil (type d'appareil, navigateur, adresse IP)
-              • Cookies et technologies similaires
-              • Données de localisation (si autorisées)`
+              title: '1. Informations que nous Collectons',
+              content: 'Nous collectons des informations personnelles lorsque vous utilisez notre site web.'
             },
             {
-              title: '2. Comment Nous Utilisons Vos Informations',
-              content: `Nous utilisons vos informations pour :
-              
-              • Fournir et améliorer nos services
-              • Traiter les réservations et transactions
-              • Personnaliser votre expérience
-              • Envoyer des communications marketing (avec votre consentement)
-              • Analyser l'utilisation du site web
-              • Respecter les obligations légales`
+              title: '2. Comment nous Utilisons vos Informations',
+              content: 'Nous utilisons vos informations personnelles pour:'
             },
             {
               title: '3. Cookies et Technologies de Suivi',
-              content: `Nous utilisons des cookies et technologies similaires pour :
-              
-              • Mémoriser vos préférences
-              • Analyser le trafic du site web
-              • Personnaliser le contenu et les publicités
-              • Mesurer l'efficacité de nos campagnes
-              
-              Vous pouvez contrôler les cookies via les paramètres de votre navigateur.`
+              content: 'Nous utilisons des cookies et technologies similaires pour améliorer votre expérience.'
             },
             {
-              title: '4. Partage d\'Informations',
-              content: `Nous pouvons partager vos informations avec :
-              
-              • Des fournisseurs de services de confiance
-              • Des partenaires commerciaux (avec votre consentement)
-              • Des autorités légales (lorsque requis par la loi)
-              
-              Nous ne vendons pas vos informations personnelles à des tiers.`
+              title: '4. Google Analytics et Marketing',
+              content: 'Nous utilisons Google Analytics et outils de marketing pour analyse et publicité.'
             },
             {
               title: '5. Vos Droits',
-              content: `Vous avez le droit de :
-              
-              • Accéder à vos informations personnelles
-              • Corriger les informations inexactes
-              • Supprimer vos informations
-              • Restreindre le traitement
-              • Portabilité des données
-              • Vous opposer au traitement
-              
-              Pour exercer ces droits, contactez-nous.`
-            },
-            {
-              title: '6. Sécurité des Données',
-              content: `Nous mettons en place des mesures de sécurité techniques et organisationnelles appropriées pour protéger vos informations personnelles contre l'accès non autorisé, l'altération, la divulgation ou la destruction.`
-            },
-            {
-              title: '7. Conservation des Données',
-              content: `Nous conservons vos informations personnelles uniquement le temps nécessaire pour accomplir les objectifs décrits dans cette politique, sauf si la loi exige une période de conservation plus longue.`
-            },
-            {
-              title: '8. Modifications de cette Politique',
-              content: `Nous pouvons mettre à jour cette politique de confidentialité occasionnellement. Nous vous informerons des changements significatifs en publiant la nouvelle politique sur notre site web.`
-            },
-            {
-              title: '9. Contact',
-              content: `Si vous avez des questions sur cette politique de confidentialité, vous pouvez nous contacter à :
-              
-              Email : privacy@mondoexplora.com
-              Adresse : MondoExplora Privacy Team`
+              content: 'Vous avez le droit d\'accéder, rectifier ou supprimer vos données personnelles.'
             }
           ]
         };
       case 'it':
         return {
           title: 'Politica sulla Privacy',
-          lastUpdated: 'Ultimo aggiornamento: 7 ottobre 2024',
+          lastUpdated: 'Ultimo aggiornamento: 16 gennaio 2025',
           sections: [
             {
               title: '1. Informazioni che Raccogliamo',
-              content: `Raccogliamo le informazioni che ci fornisci direttamente, come quando crei un account, effettui una prenotazione o comunichi con noi. Raccogliamo anche automaticamente informazioni quando utilizzi il nostro sito web, inclusi:
-              
-              • Informazioni di navigazione (pagine visitate, tempo sul sito)
-              • Informazioni sul dispositivo (tipo di dispositivo, browser, indirizzo IP)
-              • Cookie e tecnologie simili
-              • Dati di localizzazione (se autorizzati)`
+              content: 'Raccogliamo informazioni personali quando utilizzi il nostro sito web.'
             },
             {
               title: '2. Come Utilizziamo le Tue Informazioni',
-              content: `Utilizziamo le tue informazioni per:
-              
-              • Fornire e migliorare i nostri servizi
-              • Elaborare prenotazioni e transazioni
-              • Personalizzare la tua esperienza
-              • Inviare comunicazioni di marketing (con il tuo consenso)
-              • Analizzare l'utilizzo del sito web
-              • Rispettare gli obblighi legali`
+              content: 'Utilizziamo le tue informazioni personali per:'
             },
             {
               title: '3. Cookie e Tecnologie di Tracciamento',
-              content: `Utilizziamo cookie e tecnologie simili per:
-              
-              • Ricordare le tue preferenze
-              • Analizzare il traffico del sito web
-              • Personalizzare contenuti e annunci
-              • Misurare l'efficacia delle nostre campagne
-              
-              Puoi controllare i cookie tramite le impostazioni del tuo browser.`
+              content: 'Utilizziamo cookie e tecnologie simili per migliorare la tua esperienza.'
             },
             {
-              title: '4. Condivisione di Informazioni',
-              content: `Possiamo condividere le tue informazioni con:
-              
-              • Fornitori di servizi fidati
-              • Partner commerciali (con il tuo consenso)
-              • Autorità legali (quando richiesto dalla legge)
-              
-              Non vendiamo le tue informazioni personali a terze parti.`
+              title: '4. Google Analytics e Marketing',
+              content: 'Utilizziamo Google Analytics e strumenti di marketing per analisi e pubblicità.'
             },
             {
               title: '5. I Tuoi Diritti',
-              content: `Hai il diritto di:
-              
-              • Accedere alle tue informazioni personali
-              • Correggere informazioni inesatte
-              • Eliminare le tue informazioni
-              • Limitare l'elaborazione
-              • Portabilità dei dati
-              • Opporti all'elaborazione
-              
-              Per esercitare questi diritti, contattaci.`
-            },
-            {
-              title: '6. Sicurezza dei Dati',
-              content: `Implementiamo misure di sicurezza tecniche e organizzative appropriate per proteggere le tue informazioni personali da accesso non autorizzato, alterazione, divulgazione o distruzione.`
-            },
-            {
-              title: '7. Conservazione dei Dati',
-              content: `Conserviamo le tue informazioni personali solo per il tempo necessario per raggiungere gli scopi descritti in questa politica, a meno che la legge non richieda un periodo di conservazione più lungo.`
-            },
-            {
-              title: '8. Modifiche a questa Politica',
-              content: `Possiamo aggiornare questa politica sulla privacy occasionalmente. Ti informeremo sui cambiamenti significativi pubblicando la nuova politica sul nostro sito web.`
-            },
-            {
-              title: '9. Contatto',
-              content: `Se hai domande su questa politica sulla privacy, puoi contattarci a:
-              
-              Email: privacy@mondoexplora.com
-              Indirizzo: MondoExplora Privacy Team`
+              content: 'Hai il diritto di accedere, rettificare o eliminare i tuoi dati personali.'
             }
           ]
         };
       default:
         return {
           title: 'Privacy Policy',
-          lastUpdated: 'Last updated: October 7, 2024',
+          lastUpdated: 'Last updated: January 16, 2025',
           sections: [
             {
               title: '1. Information We Collect',
-              content: `We collect information you provide directly to us, such as when you create an account, make a booking, or communicate with us. We also automatically collect information when you use our website, including:
-              
-              • Browsing information (pages visited, time on site)
-              • Device information (device type, browser, IP address)
-              • Cookies and similar technologies
-              • Location data (if permitted)`
+              content: 'We collect personal information when you use our website, including:'
             },
             {
               title: '2. How We Use Your Information',
-              content: `We use your information to:
-              
-              • Provide and improve our services
-              • Process bookings and transactions
-              • Personalize your experience
-              • Send marketing communications (with your consent)
-              • Analyze website usage
-              • Comply with legal obligations`
+              content: 'We use your personal information to:'
             },
             {
               title: '3. Cookies and Tracking Technologies',
-              content: `We use cookies and similar technologies to:
-              
-              • Remember your preferences
-              • Analyze website traffic
-              • Personalize content and ads
-              • Measure campaign effectiveness
-              
-              You can control cookies through your browser settings.`
+              content: 'We use cookies and similar technologies to improve your experience.'
             },
             {
-              title: '4. Information Sharing',
-              content: `We may share your information with:
-              
-              • Trusted service providers
-              • Business partners (with your consent)
-              • Legal authorities (when required by law)
-              
-              We do not sell your personal information to third parties.`
+              title: '4. Google Analytics and Marketing',
+              content: 'We use Google Analytics and marketing tools for analysis and advertising.'
             },
             {
               title: '5. Your Rights',
-              content: `You have the right to:
-              
-              • Access your personal information
-              • Correct inaccurate information
-              • Delete your information
-              • Restrict processing
-              • Data portability
-              • Object to processing
-              
-              To exercise these rights, please contact us.`
-            },
-            {
-              title: '6. Data Security',
-              content: `We implement appropriate technical and organizational security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction.`
-            },
-            {
-              title: '7. Data Retention',
-              content: `We retain your personal information only for as long as necessary to fulfill the purposes described in this policy, unless the law requires a longer retention period.`
-            },
-            {
-              title: '8. Changes to This Policy',
-              content: `We may update this privacy policy occasionally. We will notify you of significant changes by posting the new policy on our website.`
-            },
-            {
-              title: '9. Contact',
-              content: `If you have questions about this privacy policy, you can contact us at:
-              
-              Email: privacy@mondoexplora.com
-              Address: MondoExplora Privacy Team`
+              content: 'You have the right to access, rectify, or delete your personal data.'
             }
           ]
         };
@@ -345,26 +136,171 @@ export default function PrivacyPage({ params }: any) {
   const content = getContent();
 
   return (
-    <div className="privacy-page">
-      <div className="container">
-        <h1>{content.title}</h1>
-        <p className="last-updated">{content.lastUpdated}</p>
-        
-        {content.sections.map((section, index) => (
-          <section key={index} className="privacy-section">
-            <h2>{section.title}</h2>
-            <div className="privacy-content">
-              {section.content.split('\n').map((paragraph, pIndex) => (
-                <p key={pIndex}>{paragraph}</p>
-              ))}
+    <div className="min-h-screen bg-white">
+      <div className="max-w-4xl mx-auto px-4 py-8">
+        <div className="bg-white rounded-lg shadow-lg p-8">
+          <h1 className="text-3xl font-bold text-gray-900 mb-4">{content.title}</h1>
+          <p className="text-gray-600 mb-8">{content.lastUpdated}</p>
+          
+          <div className="prose prose-lg max-w-none">
+            <div className="mb-8">
+              <h2 className="text-xl font-semibold text-gray-900 mb-4">Introduction</h2>
+              <p className="text-gray-700 leading-relaxed">
+                At MondoExplora, we are committed to protecting your privacy and personal information. 
+                This Privacy Policy explains how we collect, use, disclose, and safeguard your information 
+                when you visit our website mondoexplora.com.
+              </p>
             </div>
-          </section>
-        ))}
 
-        {/* Consent box */}
-        <ConsentBox lang={lang} redirectUrl={acceptUrl} />
+            <div className="mb-8">
+              <h2 className="text-xl font-semibold text-gray-900 mb-4">1. Information We Collect</h2>
+              <p className="text-gray-700 leading-relaxed mb-4">
+                We collect personal information when you use our website, including:
+              </p>
+              <ul className="list-disc list-inside text-gray-700 space-y-2">
+                <li>Contact information (email address, name)</li>
+                <li>Usage data (pages visited, time spent, clicks)</li>
+                <li>Device information (browser type, IP address, device type)</li>
+                <li>Location data (country, city based on IP)</li>
+                <li>Search queries and preferences</li>
+                <li>Cookies and tracking technologies data</li>
+              </ul>
+            </div>
+
+            <div className="mb-8">
+              <h2 className="text-xl font-semibold text-gray-900 mb-4">2. How We Use Your Information</h2>
+              <p className="text-gray-700 leading-relaxed mb-4">
+                We use your personal information to:
+              </p>
+              <ul className="list-disc list-inside text-gray-700 space-y-2">
+                <li>Provide and improve our hotel booking services</li>
+                <li>Personalize your experience and recommendations</li>
+                <li>Process transactions and bookings</li>
+                <li>Send you relevant travel offers and updates</li>
+                <li>Analyze website performance and user behavior</li>
+                <li>Comply with legal obligations</li>
+              </ul>
+            </div>
+
+            <div className="mb-8">
+              <h2 className="text-xl font-semibold text-gray-900 mb-4">3. Cookies and Tracking Technologies</h2>
+              <p className="text-gray-700 leading-relaxed mb-4">
+                We use cookies and similar technologies to enhance your experience:
+              </p>
+              <ul className="list-disc list-inside text-gray-700 space-y-2">
+                <li><strong>Essential Cookies:</strong> Required for website functionality</li>
+                <li><strong>Analytics Cookies:</strong> Help us understand how you use our site</li>
+                <li><strong>Marketing Cookies:</strong> Used for personalized advertising</li>
+                <li><strong>Preference Cookies:</strong> Remember your settings and choices</li>
+              </ul>
+            </div>
+
+            <div className="mb-8">
+              <h2 className="text-xl font-semibold text-gray-900 mb-4">4. Google Analytics and Marketing Tools</h2>
+              <p className="text-gray-700 leading-relaxed mb-4">
+                We use the following tracking and analytics tools:
+              </p>
+              <ul className="list-disc list-inside text-gray-700 space-y-2">
+                <li><strong>Google Analytics 4:</strong> Website traffic analysis and user behavior tracking</li>
+                <li><strong>Google Tag Manager:</strong> Managing tracking codes and marketing pixels</li>
+                <li><strong>Google Ads:</strong> Conversion tracking for advertising campaigns</li>
+                <li><strong>Facebook Pixel:</strong> Social media advertising and retargeting</li>
+                <li><strong>Microsoft Clarity:</strong> User session recordings and heatmaps</li>
+              </ul>
+              <p className="text-gray-700 leading-relaxed mt-4">
+                These tools help us improve our services, provide relevant advertisements, 
+                and measure the effectiveness of our marketing campaigns.
+              </p>
+            </div>
+
+            <div className="mb-8">
+              <h2 className="text-xl font-semibold text-gray-900 mb-4">5. Data Sharing and Third Parties</h2>
+              <p className="text-gray-700 leading-relaxed mb-4">
+                We may share your information with:
+              </p>
+              <ul className="list-disc list-inside text-gray-700 space-y-2">
+                <li>Hotel booking partners and affiliates</li>
+                <li>Payment processors for transaction handling</li>
+                <li>Analytics providers (Google, Facebook, Microsoft)</li>
+                <li>Legal authorities when required by law</li>
+                <li>Service providers who assist in our operations</li>
+              </ul>
+            </div>
+
+            <div className="mb-8">
+              <h2 className="text-xl font-semibold text-gray-900 mb-4">6. Your Rights (GDPR & CCPA Compliance)</h2>
+              <p className="text-gray-700 leading-relaxed mb-4">
+                You have the following rights regarding your personal data:
+              </p>
+              <ul className="list-disc list-inside text-gray-700 space-y-2">
+                <li><strong>Access:</strong> Request a copy of your personal data</li>
+                <li><strong>Rectification:</strong> Correct inaccurate or incomplete data</li>
+                <li><strong>Erasure:</strong> Request deletion of your personal data</li>
+                <li><strong>Portability:</strong> Receive your data in a structured format</li>
+                <li><strong>Objection:</strong> Object to processing of your data</li>
+                <li><strong>Restriction:</strong> Limit how we process your data</li>
+              </ul>
+            </div>
+
+            <div className="mb-8">
+              <h2 className="text-xl font-semibold text-gray-900 mb-4">7. Data Security</h2>
+              <p className="text-gray-700 leading-relaxed">
+                We implement appropriate security measures to protect your personal information 
+                against unauthorized access, alteration, disclosure, or destruction. However, 
+                no method of transmission over the internet is 100% secure.
+              </p>
+            </div>
+
+            <div className="mb-8">
+              <h2 className="text-xl font-semibold text-gray-900 mb-4">8. Data Retention</h2>
+              <p className="text-gray-700 leading-relaxed">
+                We retain your personal information only as long as necessary to fulfill the 
+                purposes outlined in this Privacy Policy, unless a longer retention period 
+                is required by law.
+              </p>
+            </div>
+
+            <div className="mb-8">
+              <h2 className="text-xl font-semibold text-gray-900 mb-4">9. International Data Transfers</h2>
+              <p className="text-gray-700 leading-relaxed">
+                Your information may be transferred to and processed in countries other than 
+                your own. We ensure appropriate safeguards are in place to protect your data 
+                in accordance with applicable privacy laws.
+              </p>
+            </div>
+
+            <div className="mb-8">
+              <h2 className="text-xl font-semibold text-gray-900 mb-4">10. Changes to This Policy</h2>
+              <p className="text-gray-700 leading-relaxed">
+                We may update this Privacy Policy from time to time. We will notify you of 
+                any changes by posting the new Privacy Policy on this page and updating the 
+                "Last updated" date.
+              </p>
+            </div>
+
+            <div className="mb-8">
+              <h2 className="text-xl font-semibold text-gray-900 mb-4">11. Contact Us</h2>
+              <p className="text-gray-700 leading-relaxed mb-4">
+                If you have any questions about this Privacy Policy or wish to exercise your rights, 
+                please contact us:
+              </p>
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-700"><strong>Email:</strong> privacy@mondoexplora.com</p>
+                <p className="text-gray-700"><strong>Website:</strong> mondoexplora.com</p>
+                <p className="text-gray-700"><strong>Address:</strong> MondoExplora Privacy Team</p>
+              </div>
+            </div>
+          </div>
+
+          <div className="mt-12 p-6 bg-blue-50 rounded-lg">
+            <h3 className="text-lg font-semibold text-gray-900 mb-4">Consent Management</h3>
+            <p className="text-gray-700 mb-4">
+              You can manage your cookie preferences and consent at any time:
+            </p>
+            <PrivacyConsentBox lang={lang} />
+          </div>
+        </div>
       </div>
     </div>
   );
 }
-import ConsentBox from '@/components/PrivacyConsentBox';

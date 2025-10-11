@@ -102,6 +102,14 @@
       "namedRegex": "^/(?<nxtPlang>[^/]+?)/destination/(?<nxtPcity>[^/]+?)(?:/)?$"
     },
     {
+      "page": "/[lang]/privacy",
+      "regex": "^/([^/]+?)/privacy(?:/)?$",
+      "routeKeys": {
+        "nxtPlang": "nxtPlang"
+      },
+      "namedRegex": "^/(?<nxtPlang>[^/]+?)/privacy(?:/)?$"
+    },
+    {
       "page": "/[lang]/route/[origin]/[destination]",
       "regex": "^/([^/]+?)/route/([^/]+?)/([^/]+?)(?:/)?$",
       "routeKeys": {

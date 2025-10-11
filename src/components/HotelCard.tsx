@@ -2,7 +2,7 @@
 
 import { Hotel } from '@/types';
 import { useState } from 'react';
-import { trackHotelBooking, trackHotelView } from './ConversionTracking';
+import { trackingManager } from '@/lib/trackingManager';
 
 interface HotelCardProps {
   hotel: Hotel;
@@ -17,13 +17,13 @@ export default function HotelCard({ hotel, onViewDeal, lang = 'en' }: HotelCardP
     e.preventDefault();
     
     // Track hotel view before opening affiliate link
-    trackHotelView(hotel.title, hotel.price, hotel.location_heading);
+    trackingManager.trackHotelView(hotel.title, hotel.price, hotel.location_heading);
     
     // Abrir enlace de afiliado en nueva pestaña
     window.open(hotel.link, '_blank');
     
     // Track conversion after opening affiliate link
-    trackHotelBooking(hotel.title, hotel.price, hotel.location_heading);
+    trackingManager.trackHotelBooking(hotel.title, hotel.price, hotel.location_heading);
   };
 
   const handleViewDeal = (e: React.MouseEvent) => {
@@ -31,13 +31,13 @@ export default function HotelCard({ hotel, onViewDeal, lang = 'en' }: HotelCardP
     e.stopPropagation(); // Evitar que se active el click de la tarjeta
     
     // Track hotel view before opening affiliate link
-    trackHotelView(hotel.title, hotel.price, hotel.location_heading);
+    trackingManager.trackHotelView(hotel.title, hotel.price, hotel.location_heading);
     
     // Abrir enlace de afiliado en nueva pestaña
     window.open(hotel.link, '_blank');
     
     // Track conversion after opening affiliate link
-    trackHotelBooking(hotel.title, hotel.price, hotel.location_heading);
+    trackingManager.trackHotelBooking(hotel.title, hotel.price, hotel.location_heading);
   };
 
   const getCTAText = () => {
