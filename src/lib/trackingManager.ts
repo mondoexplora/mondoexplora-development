@@ -89,6 +89,11 @@ class TrackingManager {
     }
   }
 
+  // Public method to initialize tracking with current consent
+  public initialize(): void {
+    this.initializeTracking();
+  }
+
   private initializeGTM(): void {
     const gtmId = process.env.NEXT_PUBLIC_GTM_ID;
     if (!gtmId) return;

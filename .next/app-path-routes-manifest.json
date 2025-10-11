@@ -5,8 +5,8 @@
   "/page": "/",
   "/[lang]/page": "/[lang]",
   "/[lang]/destination/[city]/page": "/[lang]/destination/[city]",
-  "/[lang]/travel_modes/[origin]/[destination]/page": "/[lang]/travel_modes/[origin]/[destination]",
-  "/[lang]/country/[country]/page": "/[lang]/country/[country]",
   "/[lang]/privacy/page": "/[lang]/privacy",
-  "/[lang]/route/[origin]/[destination]/page": "/[lang]/route/[origin]/[destination]"
+  "/[lang]/country/[country]/page": "/[lang]/country/[country]",
+  "/[lang]/route/[origin]/[destination]/page": "/[lang]/route/[origin]/[destination]",
+  "/[lang]/travel_modes/[origin]/[destination]/page": "/[lang]/travel_modes/[origin]/[destination]"
 }
