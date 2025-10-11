@@ -168,6 +168,48 @@ export function trackConversion(action: string, value?: number, currency: string
   });
 }
 
+// Test function to trigger conversion (for debugging)
+export function testConversion() {
+  console.log('Testing Google Ads conversion...');
+  
+  // Google Ads Conversion Tracking
+  if (typeof window !== 'undefined' && (window as any).gtag) {
+    const accountId = process.env.NEXT_PUBLIC_GOOGLE_ADS_ACCOUNT_ID;
+    const conversionId = process.env.NEXT_PUBLIC_GOOGLE_ADS_CONVERSION_ID;
+    const conversionLabel = process.env.NEXT_PUBLIC_GOOGLE_ADS_CONVERSION_LABEL;
+    
+    console.log('Google Ads Conversion Debug:', {
+      accountId,
+      conversionId,
+      conversionLabel,
+      sendTo: `${accountId}/${conversionId}/${conversionLabel}`
+    });
+    
+    (window as any).gtag('event', 'conversion', {
+      send_to: `${accountId}/${conversionId}/${conversionLabel}`,
+      value: 100,
+      currency: 'USD',
+      transaction_id: `test_${Date.now()}`
+    });
+    
+    console.log('Google Ads conversion event sent:', {
+      send_to: `${accountId}/${conversionId}/${conversionLabel}`,
+      value: 100,
+      currency: 'USD'
+    });
+  }
+  
+  // Also push to data layer for GTM
+  pushDataLayer('hotel_booking', {
+    value: 100,
+    currency: 'USD',
+    hotel_name: 'Test Hotel',
+    destination: 'Test Destination'
+  });
+  
+  console.log('Data layer event pushed: hotel_booking');
+}
+
 // Hotel booking conversion tracking
 export function trackHotelBooking(hotelName: string, price: number, destination: string) {
   // Google Analytics Enhanced Ecommerce
@@ -188,11 +230,28 @@ export function trackHotelBooking(hotelName: string, price: number, destination:
 
   // Google Ads Conversion Tracking
   if (typeof window !== 'undefined' && (window as any).gtag) {
+    const accountId = process.env.NEXT_PUBLIC_GOOGLE_ADS_ACCOUNT_ID;
+    const conversionId = process.env.NEXT_PUBLIC_GOOGLE_ADS_CONVERSION_ID;
+    const conversionLabel = process.env.NEXT_PUBLIC_GOOGLE_ADS_CONVERSION_LABEL;
+    
+    console.log('Google Ads Conversion Debug:', {
+      accountId,
+      conversionId,
+      conversionLabel,
+      sendTo: `${accountId}/${conversionId}/${conversionLabel}`
+    });
+    
     (window as any).gtag('event', 'conversion', {
-      send_to: `${process.env.NEXT_PUBLIC_GOOGLE_ADS_ACCOUNT_ID}/${process.env.NEXT_PUBLIC_GOOGLE_ADS_CONVERSION_ID}/${process.env.NEXT_PUBLIC_GOOGLE_ADS_CONVERSION_LABEL}`,
+      send_to: `${accountId}/${conversionId}/${conversionLabel}`,
       value: price,
       currency: 'USD',
       transaction_id: `booking_${Date.now()}`
+    });
+    
+    console.log('Google Ads conversion event sent:', {
+      send_to: `${accountId}/${conversionId}/${conversionLabel}`,
+      value: price,
+      currency: 'USD'
     });
   }
 

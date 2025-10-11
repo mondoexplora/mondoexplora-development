@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import ConsentInitializer from "@/components/ConsentInitializer";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -104,16 +103,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" style={{ colorScheme: 'light' }}>
-      <head>
-        <meta name="color-scheme" content="light only" />
-        <meta name="theme-color" content="#ffffff" />
-      </head>
+    <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
-        <ConsentInitializer />
       </body>
     </html>
   );
