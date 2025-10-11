@@ -20,9 +20,16 @@ export default function HotelGrid({ hotels, hotelsPerPage = 6, lang = 'en' }: Ho
   };
 
   if (!hotels || hotels.length === 0) {
+    const noHotelsText = {
+      en: 'No hotels found.',
+      es: 'No se encontraron hoteles disponibles.',
+      fr: 'Aucun hôtel trouvé.',
+      it: 'Nessun hotel trovato.'
+    };
+    
     return (
       <div className="text-center py-8">
-        <p className="text-gray-500">No se encontraron hoteles disponibles.</p>
+        <p className="text-gray-500">{noHotelsText[lang as keyof typeof noHotelsText] || noHotelsText.en}</p>
       </div>
     );
   }
@@ -57,6 +64,7 @@ export default function HotelGrid({ hotels, hotelsPerPage = 6, lang = 'en' }: Ho
         totalHotels={hotels.length}
         hotelsPerPage={hotelsPerPage}
         onPageChange={handlePageChange}
+        lang={lang}
       />
     </div>
   );

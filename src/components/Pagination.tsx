@@ -6,6 +6,7 @@ interface PaginationProps {
   totalHotels: number;
   hotelsPerPage: number;
   onPageChange: (page: number) => void;
+  lang?: string;
 }
 
 export default function Pagination({
@@ -13,7 +14,8 @@ export default function Pagination({
   totalPages,
   totalHotels,
   hotelsPerPage,
-  onPageChange
+  onPageChange,
+  lang = 'en'
 }: PaginationProps) {
   if (totalPages <= 1) {
     return null;
@@ -22,10 +24,49 @@ export default function Pagination({
   const startHotel = (currentPage - 1) * hotelsPerPage + 1;
   const endHotel = Math.min(currentPage * hotelsPerPage, totalHotels);
 
+  const getTexts = () => {
+    switch (lang) {
+      case 'es':
+        return {
+          showing: 'Mostrando',
+          of: 'de',
+          hotels: 'hoteles',
+          previous: 'Anterior',
+          next: 'Siguiente'
+        };
+      case 'fr':
+        return {
+          showing: 'Affichage de',
+          of: 'sur',
+          hotels: 'hôtels',
+          previous: 'Précédent',
+          next: 'Suivant'
+        };
+      case 'it':
+        return {
+          showing: 'Mostrando',
+          of: 'di',
+          hotels: 'hotel',
+          previous: 'Precedente',
+          next: 'Successivo'
+        };
+      default: // 'en'
+        return {
+          showing: 'Showing',
+          of: 'of',
+          hotels: 'hotels',
+          previous: 'Previous',
+          next: 'Next'
+        };
+    }
+  };
+
+  const texts = getTexts();
+
   return (
     <div className="flex flex-col items-center justify-center gap-4 py-8 border-t border-gray-200">
       <div className="text-sm text-gray-600">
-        Mostrando {startHotel}-{endHotel} de {totalHotels} hoteles
+        {texts.showing} {startHotel}-{endHotel} {texts.of} {totalHotels} {texts.hotels}
       </div>
       
       <div className="flex items-center gap-2">
@@ -34,7 +75,7 @@ export default function Pagination({
           disabled={currentPage === 1}
           className="px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-md hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
         >
-          Anterior
+          {texts.previous}
         </button>
         
         <div className="flex items-center gap-1">
@@ -58,7 +99,7 @@ export default function Pagination({
           disabled={currentPage === totalPages}
           className="px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-md hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
         >
-          Siguiente
+          {texts.next}
         </button>
       </div>
     </div>
