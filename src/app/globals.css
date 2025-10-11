@@ -17,21 +17,89 @@
   --font-mono: var(--font-geist-mono);
 }
 
+/* Force light mode - ignore system dark mode preference */
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #ffffff; /* Force white background */
+    --foreground: #171717; /* Force dark text */
   }
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
+  background: #ffffff !important; /* Force white background on all devices */
+  color: #171717 !important; /* Force dark text for readability */
   font-family: 'Inter', Arial, Helvetica, sans-serif;
   margin: 0;
   font-size: 14px;
   line-height: 1.5;
 }
+
+/* Cookie Consent */
+.cookie-consent-overlay {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+}
+
+.cookie-consent-banner {
+  width: 100%;
+  background: rgba(17, 24, 39, 0.98);
+  color: #fff;
+  box-shadow: 0 -4px 20px rgba(0,0,0,0.25);
+}
+
+.cookie-consent-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 16px;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.cookie-consent-content h3 {
+  margin: 0;
+  font-size: 16px;
+}
+
+.cookie-consent-content p {
+  margin: 0;
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+.cookie-consent-actions {
+  margin-left: auto;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.privacy-link {
+  color: #93c5fd;
+  text-decoration: underline;
+}
+
+.consent-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.decline-btn,
+.accept-btn {
+  border: 0;
+  padding: 10px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.decline-btn { background: #374151; color: #fff; }
+.accept-btn { background: #10b981; color: #0b1f16; }
 
 /* Destination Cards Styles - Direct Copy */
 .destination-grid {
