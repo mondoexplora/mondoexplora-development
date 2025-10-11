@@ -29,8 +29,8 @@ export default function CookieConsent({ onAccept, onDecline, lang = 'en' }: Cook
         }
       };
 
-      // Track various user interactions as implicit consent
-      const events = ['click', 'scroll', 'keydown', 'touchstart'];
+      // Track user interactions as implicit consent (only clicks and touches, not scrolls)
+      const events = ['click', 'touchstart', 'keydown'];
       events.forEach(event => {
         document.addEventListener(event, handleUserInteraction, { once: true });
       });
