@@ -43,6 +43,8 @@ body {
   z-index: 9999;
   display: flex;
   justify-content: center;
+  padding: 0;
+  margin: 0;
 }
 
 .cookie-consent-banner {
@@ -50,56 +52,149 @@ body {
   background: rgba(17, 24, 39, 0.98);
   color: #fff;
   box-shadow: 0 -4px 20px rgba(0,0,0,0.25);
+  backdrop-filter: blur(10px);
+  padding-bottom: env(safe-area-inset-bottom);
 }
 
 .cookie-consent-content {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 16px;
+  padding: 20px 16px;
   display: flex;
   gap: 16px;
-  align-items: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
 }
 
 .cookie-consent-content h3 {
-  margin: 0;
-  font-size: 16px;
+  margin: 0 0 8px 0;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.2;
 }
 
 .cookie-consent-content p {
   margin: 0;
   font-size: 14px;
   opacity: 0.9;
+  line-height: 1.4;
+  flex: 1;
+  min-width: 0;
 }
 
 .cookie-consent-actions {
-  margin-left: auto;
   display: flex;
   gap: 12px;
   align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
 }
 
 .privacy-link {
   color: #93c5fd;
   text-decoration: underline;
+  font-size: 14px;
+  white-space: nowrap;
 }
 
 .consent-buttons {
   display: flex;
   gap: 8px;
+  flex-wrap: wrap;
 }
 
 .decline-btn,
 .accept-btn {
   border: 0;
-  padding: 10px 14px;
-  border-radius: 6px;
+  padding: 12px 16px;
+  border-radius: 8px;
   cursor: pointer;
   font-weight: 600;
+  font-size: 14px;
+  min-width: 100px;
+  transition: all 0.2s ease;
 }
 
-.decline-btn { background: #374151; color: #fff; }
-.accept-btn { background: #10b981; color: #0b1f16; }
+.decline-btn { 
+  background: #374151; 
+  color: #fff; 
+}
+
+.decline-btn:hover {
+  background: #4b5563;
+}
+
+.accept-btn { 
+  background: #10b981; 
+  color: #fff; 
+}
+
+.accept-btn:hover {
+  background: #059669;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .cookie-consent-content {
+    padding: 16px;
+    flex-direction: column;
+    gap: 12px;
+  }
+  
+  .cookie-consent-content h3 {
+    font-size: 16px;
+    margin-bottom: 4px;
+  }
+  
+  .cookie-consent-content p {
+    font-size: 13px;
+    margin-bottom: 12px;
+  }
+  
+  .cookie-consent-actions {
+    flex-direction: column;
+    gap: 8px;
+    align-items: stretch;
+  }
+  
+  .consent-buttons {
+    justify-content: center;
+    gap: 12px;
+  }
+  
+  .decline-btn,
+  .accept-btn {
+    flex: 1;
+    padding: 14px 16px;
+    font-size: 15px;
+  }
+  
+  .privacy-link {
+    text-align: center;
+    margin-bottom: 8px;
+  }
+}
+
+@media (max-width: 480px) {
+  .cookie-consent-content {
+    padding: 12px;
+  }
+  
+  .cookie-consent-content h3 {
+    font-size: 15px;
+  }
+  
+  .cookie-consent-content p {
+    font-size: 12px;
+  }
+  
+  .decline-btn,
+  .accept-btn {
+    padding: 12px 14px;
+    font-size: 14px;
+  }
+}
 
 /* Destination Cards Styles - Direct Copy */
 .destination-grid {
