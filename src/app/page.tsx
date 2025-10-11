@@ -3,7 +3,6 @@ import { loadRegionalData, loadSearchData } from '@/lib/regional-data';
 import { Metadata } from 'next';
 import StructuredData, { generateHomepageStructuredData } from '@/components/StructuredData';
 import ConversionTracking from '@/components/ConversionTracking';
-import TestConversionButton from '@/components/TestConversionButton';
 
 export const metadata: Metadata = {
   title: "Find the Best Hotels and Exclusive Deals Worldwide | MondoExplora",
@@ -61,7 +60,6 @@ export default async function HomePage() {
         minPrice={minPrice}
       />
       <StructuredData data={generateHomepageStructuredData('en')} />
-      <TestConversionButton />
       <RegionalHomepage 
         regionalData={regionalData}
         searchData={searchData}
