@@ -1,107 +1,32 @@
 {
+  "id": 22,
+  "title": "Asia's Man‑Made Marvels: Icons You Must See",
+  "slug": "asian-manmade-marvels",
+  "summary": "From the Taj Mahal to Himeji Castle, explore Asia’s greatest human‑made landmarks with nearby stays.",
+  "author": "MondoExplora Editors",
+  "date": "2025-10-21",
+  "featured": false,
+  "featured_image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=80",
+  "content_blocks": [
+    { "type": "heading", "level": 2, "content": "Taj Mahal, India" },
+    { "type": "text", "content": "Pristine white marble, perfect symmetry, and serene Mughal gardens make sunrise at the Taj unforgettable." },
+    { "type": "list", "items": ["Stay: The Oberoi Amarvilas (Agra)"] },
 
-    "asian manmade marvels": [
+    { "type": "heading", "level": 2, "content": "Angkor Wat, Cambodia" },
+    { "type": "text", "content": "Grand Khmer architecture intertwined with jungle. Soft dawn light over reflecting pools is pure magic." },
+    { "type": "list", "items": ["Stay: Raffles Grand Hotel d’Angkor (Siem Reap)"] },
 
-        {
+    { "type": "heading", "level": 2, "content": "Great Wall of China" },
+    { "type": "text", "content": "Ancient engineering snakes across mountains. Golden hour paints towers and ridgelines in warm hues." },
+    { "type": "list", "items": ["Stay: Commune by the Great Wall"] },
 
-            "name": "Taj Mahal",
+    { "type": "heading", "level": 2, "content": "Borobudur, Indonesia" },
+    { "type": "text", "content": "World’s largest Buddhist monument; terraces of story‑filled reliefs and bell‑shaped stupas." },
+    { "type": "list", "items": ["Stay: Amanjiwo"] },
 
-            "location": "Agra, India",
-
-            "description": "The Taj Mahal in Agra, India, is universally acclaimed as one of the world's most awe-inspiring monuments. Visitors often describe it as a breathtaking masterpiece, with its pristine white marble, intricate inlay work, and symmetrical gardens creating a serene and romantic atmosphere. Many recommend visiting at sunrise when the monument is bathed in soft light, offering a tranquil experience away from the midday crowds. Despite its popularity, the Taj Mahal continues to captivate travelers with its timeless beauty and historical significance.",
-
-            "image": "https://unsplash.com/es/fotos/taj-mahal-india-iWMfiInivp4",
-
-            "nearby_hotel": {
-
-                "name": "The Oberoi Amarvilas",
-
-                "link": "https://www.oberoihotels.com/hotels-in-agra-amarvilas-resort/"
-
-            }
-
-        },
-
-        {
-
-            "name": "Angkor Wat",
-
-            "location": "Cambodia",
-
-            "description": "Angkor Wat in Cambodia is an awe-inspiring marvel that leaves visitors mesmerized by its grand scale, intricate carvings, and spiritual ambiance. Many travelers praise the temple complex for its stunning architecture and the way it beautifully blends with the surrounding jungle, creating a mystical and timeless atmosphere. Visiting at sunrise is a highlight for many, as the soft golden light enhances the ancient stones and reflects in the nearby pools, offering a truly magical experience. The site is well-preserved and offers a fascinating glimpse into the rich history and culture of the Khmer Empire. Overall, Angkor Wat is celebrated as a must-see destination that combines history, art, and natural beauty in one unforgettable visit.",
-
-            "image": "https://unsplash.com/es/fotos/personas-que-caminan-por-el-parque-cerca-de-los-arboles-y-los-edificios-durante-el-dia-gt3gK_Wob2g",
-
-            "nearby_hotel": {
-
-                "name": "Raffles Grand Hotel d’Angkor",
-
-                "link": "https://www.raffles.com/siem-reap/"
-
-            }
-
-        },
-
-        {
-
-            "name": "Great Wall of China",
-
-            "location": "China",
-
-            "description": "The Great Wall of China is an incredible testament to human ingenuity and endurance, leaving visitors awe-struck by its vastness and historic significance. Many praise the Wall for its breathtaking views as it snakes over mountains and through lush landscapes, offering both a physical challenge and a cultural journey. Walking along well-preserved sections, travelers appreciate the impressive ancient craftsmanship and the stories embedded in every brick and watchtower. Sunrise or sunset visits are especially magical, bathing the Wall in warm light and creating unforgettable photo opportunities. Overall, the Great Wall is celebrated as a must-visit wonder that combines history, nature, and adventure in a truly spectacular way.",
-
-            "image": "https://unsplash.com/photos/the-great-wall-of-china-2s1chnvuMQ4",
-
-            "nearby_hotel": {
-
-                "name": "Commune by the Great Wall",
-
-                "link": "https://commune.sohochina.com/"
-
-            }
-
-        },
-
-        {
-
-            "name": "Borobudur Temple Compounds",
-
-            "location": "Indonesia",
-
-            "description": "Borobudur Temple Compounds in Indonesia are widely admired as a stunning example of Buddhist architecture and artistry. Visitors often highlight the temple’s majestic terraces adorned with intricate stone carvings that tell ancient stories and the peaceful atmosphere that invites reflection and awe. The site’s location amidst lush green landscapes adds to its serene beauty, making the climb to the top rewarding with panoramic views of the surrounding hills and volcanoes. Many travelers recommend visiting at sunrise to witness the soft morning light illuminating the temple’s detailed reliefs, creating a truly magical and spiritual experience. Overall, Borobudur is celebrated as a breathtaking cultural treasure and a must-see for anyone interested in history, spirituality, and magnificent craftsmanship.",
-
-            "image": "https://unsplash.com/photos/an-aerial-view-of-a-large-pyramid-in-the-middle-of-a-forest-2lZlBv-TQI4",
-
-            "nearby_hotel": {
-
-                "name": "Amanjiwo",
-
-                "link": "https://www.aman.com/resorts/amanjiwo"
-
-            }
-
-        },
-
-        {
-
-            "name": "Himeji Castle",
-
-            "location": "Japan",
-
-            "description": "Himeji Castle in Japan is widely celebrated as one of the most beautiful and well-preserved castles in the world. Visitors are often amazed by its striking white exterior, earning it the nickname 'White Heron Castle,' and its elegant, intricate design that combines both aesthetic beauty and impressive defensive architecture. The castle’s spacious grounds and stunning gardens add to the serene and majestic atmosphere, making it a peaceful place to explore. Many travelers appreciate the detailed interiors and the panoramic views from the top, offering a glimpse into Japan’s rich feudal history. Overall, Himeji Castle is regarded as a must-visit cultural landmark that perfectly blends history, architecture, and natural beauty.",
-
-            "image": "https://unsplash.com/photos/a-tall-white-building-sitting-on-top-of-a-lush-green-hillside-4DSB5lYKObA",
-
-            "nearby_hotel": {
-
-                "name": "Hotel Granvia Himeji",
-
-                "link": "https://www.guestreservations.com/grandvrio-hotel-himeji-castle/booking?utm_source=google&utm_medium=cpc&utm_campaign=990876456&gad_source=1&gad_campaignid=990876456&gclid=CjwKCAjw3tzHBhBREiwAlMJoUpb0kXGH8WO41dOtwpWS7AUB8fn7iLC8e4739bjStaLLhCFyug6-6xoC03cQAvD_BwE"
-
-            }
-
-        }
-
-    ]
-
+    { "type": "heading", "level": 2, "content": "Himeji Castle, Japan" },
+    { "type": "text", "content": "‘White Heron’ elegance meets superb preservation, manicured grounds, and panoramic top‑floor views." },
+    { "type": "list", "items": ["Stay: Hotel Granvia Himeji"] }
+  ],
+  "tags": ["Asia", "Culture", "Architecture", "History"]
 }

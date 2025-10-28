@@ -1,82 +1,51 @@
 {
-    "asian_natural_wonders": [
-        {
-            "name": "Ha Long Bay",
-            "country": "Vietnam",
-            "description": "Ha Long Bay, located in northeastern Vietnam, is a UNESCO World Heritage Site renowned for its stunning seascape of more than 1,600 limestone islands and karsts rising from tranquil emerald waters. Formed over millions of years through natural erosion, the bay features hidden caves, lagoons, and sandy beaches that create a dreamlike atmosphere, especially at sunrise and sunset. Visitors can explore Ha Long Bay by boat or kayak, discovering floating fishing villages, spectacular caves like Sung Sot (Surprise Cave), and panoramic viewpoints on islands such as Ti Top. The name “Ha Long” means “Descending Dragon,” rooted in a local legend that adds to the bay’s mystique, making it one of Asia’s most captivating natural wonders.",
-            "nearby_hotels": [
-                "Vinpearl Resort & Spa Ha Long – a luxurious option on a private island.",
-                "Ha Long Boutique Hotel – comfortable and centrally located near the marina.",
-                "Overnight Cruises (e.g., Indochina Sails, Paradise Elegance) – stay overnight on a boat right in the bay."
-            ],
-            "links": {
-                "link1": "https://vinpearl.com/en/hotels/vinpearl-resort-spa-ha-long",
-                "link2": "https://boutiquehotel.me/ha-long/simple/?gclid=CjwKCAjwu9fHBhAWEiwAzGRC_xLnLd1SlRlPKUGrMFJPesR3O2FuFRRcv_veF5LyXwHByzRCxhO_cRoCo94QAvD_BwE",
-                "link3": "https://www.halongbaytours.com/cruise/paradise-luxury-elegance/2-day-1-night.html?gad_source=1&gad_campaignid=22635389998&gclid=CjwKCAjwu9fHBhAWEiwAzGRC_2ypyRcnRY6A4A9tZSeZVyHO1CWyBxy2F73yHty4VSYv86nocyq8cxoCplAQAvD_BwE"
-            },
-            "image_url": "https://unsplash.com/photos/a-group-of-boats-floating-on-top-of-a-large-body-of-water-YbgKXOrDALc"
-        },
-        {
-            "name": "Zhangjiajie National Forest Park / Wulingyuan",
-            "country": "China",
-            "description": "Zhangjiajie National Forest Park, part of the larger Wulingyuan Scenic Area in Hunan Province, China, is a UNESCO World Heritage Site famous for its otherworldly landscape of towering sandstone pillars, deep ravines, and mist-covered peaks. These natural stone spires, some over 200 meters tall, are the result of millions of years of erosion and inspired the floating “Hallelujah Mountains” in the film Avatar. The park features breathtaking viewpoints like Tianzi Mountain and Yuanjiajie, the Bailong Elevator — the world’s tallest outdoor elevator — and the Zhangjiajie Glass Bridge, which spans a dramatic canyon. With its mix of ancient forests, hidden waterfalls, and mystical scenery, Zhangjiajie offers one of the most surreal and awe-inspiring natural experiences in Asia.",
-            "nearby_hotels": [
-                "Pullman Zhangjiajie Hotel – close to the park’s main entrance with modern amenities.",
-                "Zhangjiajie Crowne Plaza – upscale and great for families.",
-                "No.5 Valley Inn – eco-style boutique accommodation with forest views."
-            ],
-            "links": {
-                "link1": "https://www.zhangjiajietourguide.com/hotel-p7-pullman-hotel-zhangjiajie.html",
-                "link2": "https://www.guestreservations.com/crowne-plaza-zhangjiajie-wulingyuan/booking?utm_source=google&utm_medium=cpc&utm_campaign=990875505&gad_source=1&gad_campaignid=990875505&gclid=CjwKCAjwu9fHBhAWEiwAzGRC_wQyfmfi5_zeAci2jXZgVrTloxVJ1aVhBEF13dONsFd5_w5XUEHswhoCxp8QAvD_BwE",
-                "link3": "https://www.zhangjiajieholiday.com/show-28-28-1.html"
-            },
-            "image_url": "https://unsplash.com/photos/green-trees-on-mountain-under-white-clouds-during-daytime-dQH8uJeI-AY"
-        },
-        {
-            "name": "Mount Everest / Everest Base Camp",
-            "country": "Nepal",
-            "description": "Mount Everest, known locally as Sagarmatha in Nepal, is the world’s highest peak, standing at 8,848 meters (29,029 feet) above sea level in the heart of the Himalayas. The Everest Base Camp trek in Nepal offers adventurers a chance to experience this legendary mountain up close, passing through Sherpa villages, ancient monasteries, and dramatic alpine landscapes. Along the route, trekkers encounter stunning views of Everest and neighboring peaks like Lhotse, Ama Dablam, and Nuptse, while experiencing the unique culture and hospitality of the Khumbu region. The journey, which begins in Lukla and ascends to Base Camp at about 5,364 meters, is both physically demanding and spiritually uplifting, symbolizing the ultimate adventure in the world’s most majestic mountain range.",
-            "nearby_hotels": [
-                "Hotel Everest View (Namche Bazaar) – luxury lodge with stunning Everest panoramas.",
-                "Yeti Mountain Home Lodges – a series of high-quality lodges along the trekking route."
-            ],
-            "links": {
-                "link1": "https://hoteleverestview.com/",
-                "link2": "https://www.theultimatetravelcompany.co.uk/indian-subcontinent/nepal/yeti-mountain-homes-nepal"
-            },
-            "image_url": "https://unsplash.com/photos/snow-covered-mountain-under-blue-sky-during-daytime-CoE79_lhTJM"
-        },
-        {
-            "name": "Kelimutu Crater Lakes",
-            "country": "Indonesia",
-            "description": "Kelimutu Crater Lakes, located on the island of Flores, Indonesia, are a striking natural wonder known for their three volcanic lakes that mysteriously change colors throughout the year. Perched atop Mount Kelimutu at about 1,639 meters above sea level, the lakes—Tiwu Ata Bupu (Lake of Old People), Tiwu Ko’o Fai Nuwa Muri (Lake of Young Men and Maidens), and Tiwu Ata Polo (Enchanted Lake)—sit side by side within the same volcanic crater but display different hues ranging from turquoise and green to red, brown, or black, due to varying mineral content and volcanic gases. Surrounded by misty forests and mountain vistas, the site is especially magical at sunrise, when light and color transform the lakes into a surreal, almost otherworldly scene. Kelimutu is both a geological marvel and a place of spiritual significance for the local Lio people, who believe the lakes are resting places for departed souls.",
-            "nearby_hotels": [
-                "Kelimutu Crater Lakes Ecolodge (Moni) – eco-friendly accommodation surrounded by rainforest.",
-                "Bintang Lodge Moni – budget-friendly option close to the entrance road to the crater.",
-                "Hidayah Homestay – local experience with friendly hosts and basic comfort."
-            ],
-            "links": {
-                "link1": "https://ecolodgesindonesia.com/kelimutu-crater-lakes-ecolodge/",
-                "link2": "https://bintang-lodge.com/Welcome.html",
-                "link3": "https://www.booking.com/hotel/id/hidayah-homestay.html"
-            },
-            "image_url": "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-snow-covered-mountains-wZP79YTsTl4"
-        },
-        {
-            "name": "Puerto Princesa Underground River",
-            "country": "Philippines",
-            "description": "The Puerto Princesa Underground River, located on the island of Palawan in the Philippines, is a spectacular natural wonder and UNESCO World Heritage Site celebrated for its breathtaking limestone karst landscape and one of the world’s longest navigable underground rivers. Flowing for over 8 kilometers through a series of vast caverns filled with stalactites and stalagmites, the river winds directly beneath a mountain before emerging into the South China Sea. Visitors explore this subterranean world by small boat, gliding through echoing chambers and illuminated rock formations that reveal the river’s otherworldly beauty. Surrounded by lush rainforest within the Puerto Princesa Subterranean River National Park, the site is home to diverse wildlife and pristine beaches, making it one of Southeast Asia’s most remarkable and ecologically rich destinations.",
-            "nearby_hotels": [
-                "Daluyon Beach and Mountain Resort – eco-luxury resort near Sabang Beach, minutes from the river entrance.",
-                "Sheridan Beach Resort & Spa – full-service resort with pool, spa, and great food.",
-                "Floral Villarosa – cozy mid-range hotel in Puerto Princesa City."
-            ],
-            "links": {
-                "link1": "https://daluyonbeachandmountainresort.com/",
-                "link2": "https://www.sheridanbeachresort.com/",
-                "link3": "https://www.philippineshotels.net/tl/hotel/floral-villarosa.html"
-            },
-            "image_url": "https://unsplash.com/photos/a-wooden-bridge-over-a-river-next-to-a-lush-green-forest-UAOLuEJIA4k"
-        }
-    ]
+  "id": 21,
+  "title": "Asia's Natural Wonders: 5 Must‑See Places",
+  "slug": "asia-natural-wonders",
+  "summary": "From Ha Long Bay to Kelimutu's color‑shifting lakes, explore Asia's most spectacular natural sights and where to stay nearby.",
+  "author": "MondoExplora Editors",
+  "date": "2025-10-20",
+  "featured": true,
+  "featured_image": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?w=1200&q=80",
+  "content_blocks": [
+    { "type": "heading", "level": 2, "content": "Ha Long Bay, Vietnam" },
+    { "type": "text", "content": "Ha Long Bay is a UNESCO gem of 1,600+ limestone karsts rising from emerald water. Explore caves like Sung Sot, kayak hidden lagoons, and catch sunset from Ti Top Island." },
+    { "type": "list", "items": [
+      "Vinpearl Resort & Spa Ha Long (private‑island luxury)",
+      "Ha Long Boutique Hotel (central, near marina)",
+      "Overnight bay cruises (Indochina Sails, Paradise Elegance)"
+    ] },
+
+    { "type": "heading", "level": 2, "content": "Zhangjiajie / Wulingyuan, China" },
+    { "type": "text", "content": "Otherworldly sandstone pillars inspired Avatar’s Hallelujah Mountains. Don’t miss Tianzi Mountain views, the Bailong Elevator, and the Glass Bridge." },
+    { "type": "list", "items": [
+      "Pullman Zhangjiajie Hotel",
+      "Crowne Plaza Zhangjiajie Wulingyuan",
+      "No.5 Valley Inn (eco boutique)"
+    ] },
+
+    { "type": "heading", "level": 2, "content": "Everest Base Camp, Nepal" },
+    { "type": "text", "content": "The world’s highest peak anchors a trek of Sherpa villages, monasteries, and epic views of Lhotse and Ama Dablam. Base Camp sits at ~5,364 m." },
+    { "type": "list", "items": [
+      "Hotel Everest View (Namche Bazaar)",
+      "Yeti Mountain Home lodges (route network)"
+    ] },
+
+    { "type": "heading", "level": 2, "content": "Kelimutu Crater Lakes, Indonesia" },
+    { "type": "text", "content": "Three side‑by‑side volcanic lakes change color with minerals and gases—most magical at sunrise. A site of deep spiritual meaning for the Lio people." },
+    { "type": "list", "items": [
+      "Kelimutu Crater Lakes Ecolodge (Moni)",
+      "Bintang Lodge Moni",
+      "Hidayah Homestay"
+    ] },
+
+    { "type": "heading", "level": 2, "content": "Puerto Princesa Underground River, Philippines" },
+    { "type": "text", "content": "A vast limestone karst system and one of the world’s longest navigable underground rivers—explore caverns by boat within pristine rainforest." },
+    { "type": "list", "items": [
+      "Daluyon Beach & Mountain Resort",
+      "Sheridan Beach Resort & Spa",
+      "Floral Villarosa (city base)"
+    ] }
+  ],
+  "tags": ["Asia", "Nature", "UNESCO", "Islands", "Mountains"]
 }
