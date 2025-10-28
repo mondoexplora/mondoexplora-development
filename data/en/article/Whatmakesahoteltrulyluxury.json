@@ -1,0 +1,29 @@
+{
+  "id": 23,
+  "title": "What Makes a Hotel Truly Luxury?",
+  "slug": "what-makes-a-hotel-truly-luxury",
+  "summary": "Luxury is more than marble and thread counts — it’s care, place, and purpose.",
+  "author": "Joaquin Nadal",
+  "date": "2025-10-16",
+  "featured": false,
+  "featured_image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=1200&q=80",
+  "content_blocks": [
+    { "type": "heading", "level": 2, "content": "Personalized, Effortless Service" },
+    { "type": "text", "content": "True luxury anticipates needs before you voice them — a remembered coffee order, a warm greeting by name, help when you want it and space when you don’t." },
+
+    { "type": "heading", "level": 2, "content": "A Strong Sense of Place" },
+    { "type": "text", "content": "Great hotels celebrate their location: local craft, regional flavors, and design that connects you to the destination’s soul." },
+
+    { "type": "heading", "level": 2, "content": "Design That Tells a Story" },
+    { "type": "text", "content": "Atmosphere matters — light, texture, and scent combine to create comfort and calm. Good design invites you to slow down." },
+
+    { "type": "heading", "level": 2, "content": "Thoughtful Experiences, Not Flash" },
+    { "type": "text", "content": "Private tastings, sunrise yoga, handwritten notes — meaningful moments beat showy extras every time." },
+
+    { "type": "heading", "level": 2, "content": "Sustainability With Purpose" },
+    { "type": "text", "content": "Modern luxury respects place and people: local sourcing, reduced waste, and long‑term stewardship." },
+
+    { "type": "quote", "content": "Luxury is how you’re made to feel — seen, understood, at ease." }
+  ],
+  "tags": ["Luxury", "Hotels", "Design", "Sustainability"]
+}

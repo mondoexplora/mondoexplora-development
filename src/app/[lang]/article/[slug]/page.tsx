@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
-import { getArticleData } from '@/lib/data';
+import { getArticleData, getAllArticles } from '@/lib/data';
 import { SupportedLanguage } from '@/types';
 import ArticleRenderer from '@/components/ArticleRenderer';
 import Hero from '@/components/Hero';
@@ -173,16 +173,20 @@ export default async function ArticlePage({ params }: PageProps) {
 
 // Generate static params for all articles
 export async function generateStaticParams() {
-  const languages = ['en', 'es', 'fr', 'it'];
-  const params = [];
-  
+  const languages: SupportedLanguage[] = ['en', 'es', 'fr', 'it'];
+  const params: { lang: SupportedLanguage; slug: string }[] = [];
+
   for (const lang of languages) {
-    // For now, we only have the Bali article in English
-    if (lang === 'en') {
-      params.push({
-        lang,
-        slug: 'bali-travel-guide'
-      });
+    try {
+      const articles = await getAllArticles(lang);
+      for (const article of articles) {
+        params.push({
+          lang,
+          slug: article.slug
+        });
+      }
+    } catch (error) {
+      console.error(`Error generating static params for ${lang}:`, error);
     }
   }
   

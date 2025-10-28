@@ -1,0 +1,51 @@
+{
+  "id": 21,
+  "title": "Asia's Natural Wonders: 5 Must‑See Places",
+  "slug": "asia-natural-wonders",
+  "summary": "From Ha Long Bay to Kelimutu's color‑shifting lakes, explore Asia's most spectacular natural sights and where to stay nearby.",
+  "author": "MondoExplora Editors",
+  "date": "2025-10-20",
+  "featured": true,
+  "featured_image": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?w=1200&q=80",
+  "content_blocks": [
+    { "type": "heading", "level": 2, "content": "Ha Long Bay, Vietnam" },
+    { "type": "text", "content": "Ha Long Bay is a UNESCO gem of 1,600+ limestone karsts rising from emerald water. Explore caves like Sung Sot, kayak hidden lagoons, and catch sunset from Ti Top Island." },
+    { "type": "list", "items": [
+      "Vinpearl Resort & Spa Ha Long (private‑island luxury)",
+      "Ha Long Boutique Hotel (central, near marina)",
+      "Overnight bay cruises (Indochina Sails, Paradise Elegance)"
+    ] },
+
+    { "type": "heading", "level": 2, "content": "Zhangjiajie / Wulingyuan, China" },
+    { "type": "text", "content": "Otherworldly sandstone pillars inspired Avatar’s Hallelujah Mountains. Don’t miss Tianzi Mountain views, the Bailong Elevator, and the Glass Bridge." },
+    { "type": "list", "items": [
+      "Pullman Zhangjiajie Hotel",
+      "Crowne Plaza Zhangjiajie Wulingyuan",
+      "No.5 Valley Inn (eco boutique)"
+    ] },
+
+    { "type": "heading", "level": 2, "content": "Everest Base Camp, Nepal" },
+    { "type": "text", "content": "The world’s highest peak anchors a trek of Sherpa villages, monasteries, and epic views of Lhotse and Ama Dablam. Base Camp sits at ~5,364 m." },
+    { "type": "list", "items": [
+      "Hotel Everest View (Namche Bazaar)",
+      "Yeti Mountain Home lodges (route network)"
+    ] },
+
+    { "type": "heading", "level": 2, "content": "Kelimutu Crater Lakes, Indonesia" },
+    { "type": "text", "content": "Three side‑by‑side volcanic lakes change color with minerals and gases—most magical at sunrise. A site of deep spiritual meaning for the Lio people." },
+    { "type": "list", "items": [
+      "Kelimutu Crater Lakes Ecolodge (Moni)",
+      "Bintang Lodge Moni",
+      "Hidayah Homestay"
+    ] },
+
+    { "type": "heading", "level": 2, "content": "Puerto Princesa Underground River, Philippines" },
+    { "type": "text", "content": "A vast limestone karst system and one of the world’s longest navigable underground rivers—explore caverns by boat within pristine rainforest." },
+    { "type": "list", "items": [
+      "Daluyon Beach & Mountain Resort",
+      "Sheridan Beach Resort & Spa",
+      "Floral Villarosa (city base)"
+    ] }
+  ],
+  "tags": ["Asia", "Nature", "UNESCO", "Islands", "Mountains"]
+}
