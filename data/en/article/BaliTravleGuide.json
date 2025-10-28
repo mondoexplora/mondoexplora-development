@@ -1,0 +1,156 @@
+{
+    "id": 8,
+    "title": "Bali Travel Guide: Beaches, Temples & Culture",
+    "slug": "bali-travel-guide",
+    "summary": "Discover Bali’s best beaches, temples, and cultural experiences — from Seminyak’s surf to Ubud’s rice terraces.",
+    "author": "Lucas Rodríguez Padilla",
+    "date": "2025-10-10",
+    "featured": true,
+    "featured_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80",
+    "content_blocks": [
+        {
+            "type": "heading",
+            "level": 2,
+            "content": "Introduction"
+        },
+        {
+            "type": "text",
+            "content": "Bali sticks with you. From Seminyak’s stylish beach clubs to the calm waters of Nusa Dua and the jungle calm of Ubud, the island delivers a little bit of everything—surf, luxury, spirituality, and flavor. Whether you're chasing sunsets or wandering rice terraces, Bali has a way of drawing you in with its energy and keeping you there with its warmth."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "content": "What to Do"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "content": "Seminyak: Surf, Shop, and Sunset Cocktails"
+        },
+        {
+            "type": "text",
+            "content": "Start your trip in Seminyak, where the waves and nightlife hit just right. Book a surf lesson to catch your first wave, then wind down at a beach club like Potato Head or Ku De Ta. These spots are all about poolside lounging, great music, and sundowners overlooking the sea. Seminyak also offers plenty of upscale boutiques and spas—perfect for a post-beach massage or a little retail therapy."
+        },
+        {
+            "type": "image",
+            "src": "https://unsplash.com/photos/body-of-water-during-sunset-sspje--vOYk?w=1200&q=80",
+            "alt": "Sunset in Bali",
+            "caption": "Photo by Muhammad Novrijal on Unsplash",
+            "credit_url": "https://unsplash.com/@jareddrice"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "content": "Ubud: Culture and Calm"
+        },
+        {
+            "type": "text",
+            "content": "Ubud shifts the pace. It’s Bali’s cultural and spiritual center, surrounded by rice terraces and jungle. You can take a cooking class to learn traditional Balinese dishes, join a yoga session with a view, or explore the Ubud Art Market for handmade goods. In the evening, don’t miss a Legong dance performance—an expressive blend of storytelling, music, and movement rooted in Balinese tradition."
+        },
+        {
+            "type": "image",
+            "src": "https://unsplash.com/photos/a-small-building-in-the-middle-of-a-jungle-J41V0BJd0mM?w=1200&q=80",
+            "alt": "Tegallalang rice terraces in Ubud, Bali",
+            "caption": "Photo by JCF Morata on Unsplash",
+            "credit_url": "https://unsplash.com/@jcfmorata"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "content": "Where to Eat"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "content": "Sarong (Seminyak)"
+        },
+        {
+            "type": "text",
+            "content": "For a polished night out, Sarong is a standout. It’s open-air, romantic, and known for blending Indonesian and Indian flavors. Their beef rendang is legendary. If you're after a refined dining experience with serious flavor, this place delivers."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "content": "Warung Babi Guling Ibu Oka (Ubud)"
+        },
+        {
+            "type": "text",
+            "content": "On the flip side, this Ubud favorite is all about no-frills authenticity. It’s famous for babi guling (roast suckling pig), served with rice, crispy skin, and spicy sambal. It’s simple, local, and packed with flavor."
+        },
+        {
+            "type": "quote",
+            "content": "Pro Tip: A warung is a small family-run eatery — great for delicious, affordable meals and a chance to eat like a local."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "content": "Need-to-Know Tips"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "content": "Best Time to Go"
+        },
+        {
+            "type": "text",
+            "content": "Dry season runs from April to October, with July and August bringing peak crowds. For fewer people but still great weather, aim for May, June, or September. The rainy season (November to March) brings heavier showers but also lush green landscapes."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "content": "Budget Breakdown"
+        },
+        {
+            "type": "text",
+            "content": "Backpackers: $30–$50/day (hostels + local food)\nMid-range: ~$85/day (comfortable hotels, tours, and meals)\nLuxury: $150+/day (resorts, private transport, fine dining)\n\nCurrency tip: $1 USD ≈ 15,000 IDR. Cash is handy, especially at markets, though ATMs are everywhere in tourist areas."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "content": "Getting Around"
+        },
+        {
+            "type": "text",
+            "content": "Bali doesn’t have much in the way of public transit. Your best options include ride apps (Grab or Gojek), private drivers (~$50–$60/day — great for full-day exploring), and scooters (~$5–7/day) — only if you’re confident and licensed. In walkable areas like Ubud and Seminyak, morning or evening strolls are a great way to explore."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "content": "Local Etiquette"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Dress modestly at temples (sarongs and sashes are often provided).",
+                "Step around offerings on the ground (small palm-leaf trays with flowers).",
+                "Remove your shoes before entering homes or temples.",
+                "A little Bahasa goes a long way — “Terima kasih” (thank you) always earns a smile."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "content": "Where to Stay"
+        },
+        {
+            "type": "text",
+            "content": "For a polished night out, Sarong is a standout. It’s open-air, romantic, and known for blending Indonesian and Indian flavors. Their beef rendang is legendary. If you're after a refined dining experience with serious flavor, this place delivers.."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "content": "Final Thoughts"
+        },
+        {
+            "type": "text",
+            "content": "Whether you’re surfing, exploring temples, or soaking in the calm of Ubud, Bali has a unique rhythm that draws travelers back again and again."
+        }
+    ],
+    "tags": [
+        "Indonesia",
+        "Asia",
+        "Travel Guide",
+        "Culture",
+        "Beaches"
+    ]
+}
