@@ -175,3 +175,4 @@ gtag('event', 'conversion', {
 ---
 
 **🚀 Your conversion tracking is now properly implemented and should fire on every affiliate link click!**
+

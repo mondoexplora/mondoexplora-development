@@ -106,3 +106,4 @@ After setup, you should see:
 ---
 
 **🎯 The tracking scripts are already deployed and working! You just need to add your actual tracking IDs as environment variables in Netlify.**
+
