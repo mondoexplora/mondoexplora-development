@@ -103,7 +103,7 @@ jobs:
           
           SUBJECT="✅ MondoExplora Daily Update Success - $CURRENT_DATE"
           
-          BODY=$(cat <<EOF
+          BODY=$(cat <<'EMAIL_EOF'
 Hello!
 
 The daily data update for MondoExplora completed successfully.
@@ -125,15 +125,18 @@ You can view the full statistics in: data-update-stats.json
 
 ---
 This is an automated message from GitHub Actions.
-EOF
+EMAIL_EOF
 )
+          
+          # Replace variables in body
+          BODY=$(echo "$BODY" | sed "s|\$CURRENT_DATE|$CURRENT_DATE|g" | sed "s|\$TOTAL_HOTELS|$TOTAL_HOTELS|g" | sed "s|\$TOTAL_DESTINATIONS|$TOTAL_DESTINATIONS|g" | sed "s|\$TOTAL_FILES|$TOTAL_FILES|g" | sed "s|\$DEST_FILES|$DEST_FILES|g" | sed "s|\$COUNTRY_FILES|$COUNTRY_FILES|g")
         else
           # Error email
           ERROR_MSG=$(cat $STATS_FILE | grep -o '"error":"[^"]*"' | cut -d'"' -f4 || echo "Unknown error")
           
           SUBJECT="❌ MondoExplora Daily Update FAILED - $CURRENT_DATE"
           
-          BODY=$(cat <<EOF
+          BODY=$(cat <<'EMAIL_EOF'
 Hello!
 
 ⚠️ The daily data update for MondoExplora FAILED.
@@ -149,8 +152,11 @@ Hello!
 
 ---
 This is an automated message from GitHub Actions.
-EOF
+EMAIL_EOF
 )
+          
+          # Replace variables in body
+          BODY=$(echo "$BODY" | sed "s|\$CURRENT_DATE|$CURRENT_DATE|g" | sed "s|\$ERROR_MSG|$ERROR_MSG|g")
         fi
         
         # Escape for GitHub Actions output
