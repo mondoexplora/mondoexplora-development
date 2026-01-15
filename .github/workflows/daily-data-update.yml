@@ -10,12 +10,14 @@ on:
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required to push changes back to the repository
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0  # Fetch all history for git diff
     
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -82,7 +84,7 @@ jobs:
         git add data/
         git add data-update-stats.json || true
         git commit -m "🤖 Automated daily data update - $(date +'%Y-%m-%d %H:%M:%S UTC')" || exit 0
-        git push
+        git push origin main
     
     - name: Prepare email content
       if: always()
