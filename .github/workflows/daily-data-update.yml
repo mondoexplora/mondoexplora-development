@@ -1,0 +1,176 @@
+name: Daily Data Update
+
+on:
+  schedule:
+    # Runs daily at 9am Spain time year-round
+    # Using 7am UTC = 8am CET (winter), 9am CEST (summer)
+    - cron: '0 7 * * *'  # 7am UTC = 9am Spain (summer) / 8am Spain (winter)
+  workflow_dispatch:  # Allows manual triggering from GitHub Actions tab
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+    
+    - name: Install dependencies
+      run: npm ci
+    
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    
+    - name: Install Python dependencies
+      run: |
+        if [ -f requirements.txt ]; then
+          pip install -r requirements.txt
+        fi
+    
+    - name: Run data processor script
+      id: data-processor
+      run: |
+        node scripts/data-processor.js || exit 1
+    
+    - name: Generate homepage data
+      run: |
+        python3 generate_homepage_data.py || echo "Homepage data generation skipped"
+      continue-on-error: true
+    
+    - name: Read statistics
+      id: stats
+      if: always()
+      run: |
+        if [ -f data-update-stats.json ]; then
+          # Read stats file and set outputs
+          STATS=$(cat data-update-stats.json)
+          echo "stats<<EOF" >> $GITHUB_OUTPUT
+          echo "$STATS" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+        else
+          echo '{"success": false, "error": "Stats file not created"}' > $GITHUB_OUTPUT
+        fi
+    
+    - name: Check for changes
+      id: git-check
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        if git diff --quiet data/; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "No changes to commit"
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "Changes detected in data/ folder"
+        fi
+    
+    - name: Commit and push changes
+      if: steps.git-check.outputs.changed == 'true' && steps.data-processor.outcome == 'success'
+      run: |
+        git add data/
+        git add data-update-stats.json || true
+        git commit -m "🤖 Automated daily data update - $(date +'%Y-%m-%d %H:%M:%S UTC')" || exit 0
+        git push
+    
+    - name: Prepare email content
+      if: always()
+      id: email-content
+      run: |
+        STATS_FILE="data-update-stats.json"
+        CURRENT_DATE=$(date +'%Y-%m-%d %H:%M:%S %Z')
+        
+        if [ -f "$STATS_FILE" ] && [ "${{ steps.data-processor.outcome }}" == "success" ]; then
+          # Success email
+          TOTAL_HOTELS=$(cat $STATS_FILE | grep -o '"totalHotels":[0-9]*' | cut -d':' -f2 || echo "N/A")
+          TOTAL_DESTINATIONS=$(cat $STATS_FILE | grep -o '"totalDestinations":[0-9]*' | cut -d':' -f2 || echo "N/A")
+          TOTAL_FILES=$(cat $STATS_FILE | grep -o '"totalJsonFiles":[0-9]*' | cut -d':' -f2 || echo "N/A")
+          DEST_FILES=$(cat $STATS_FILE | grep -o '"destinationFiles":[0-9]*' | cut -d':' -f2 || echo "N/A")
+          COUNTRY_FILES=$(cat $STATS_FILE | grep -o '"countryFiles":[0-9]*' | cut -d':' -f2 || echo "N/A")
+          
+          SUBJECT="✅ MondoExplora Daily Update Success - $CURRENT_DATE"
+          
+          BODY=$(cat <<EOF
+Hello!
+
+The daily data update for MondoExplora completed successfully.
+
+📊 Update Statistics:
+• Date/Time: $CURRENT_DATE
+• Total Hotels Processed: $TOTAL_HOTELS
+• Total Destinations: $TOTAL_DESTINATIONS
+• JSON Files Created: $TOTAL_FILES
+  - Destination files: $DEST_FILES
+  - Country files: $COUNTRY_FILES
+  - Homepage file: 1
+
+🔄 Git Status:
+• Changes committed: ${{ steps.git-check.outputs.changed }}
+• Netlify will automatically rebuild the site
+
+You can view the full statistics in: data-update-stats.json
+
+---
+This is an automated message from GitHub Actions.
+EOF
+)
+        else
+          # Error email
+          ERROR_MSG=$(cat $STATS_FILE | grep -o '"error":"[^"]*"' | cut -d'"' -f4 || echo "Unknown error")
+          
+          SUBJECT="❌ MondoExplora Daily Update FAILED - $CURRENT_DATE"
+          
+          BODY=$(cat <<EOF
+Hello!
+
+⚠️ The daily data update for MondoExplora FAILED.
+
+📊 Error Details:
+• Date/Time: $CURRENT_DATE
+• Error: $ERROR_MSG
+
+🔍 Next Steps:
+1. Check the GitHub Actions logs: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+2. Review the error in data-update-stats.json
+3. Manually run the script if needed: node scripts/data-processor.js
+
+---
+This is an automated message from GitHub Actions.
+EOF
+)
+        fi
+        
+        # Escape for GitHub Actions output
+        echo "subject<<EOF" >> $GITHUB_OUTPUT
+        echo "$SUBJECT" >> $GITHUB_OUTPUT
+        echo "EOF" >> $GITHUB_OUTPUT
+        
+        echo "body<<EOF" >> $GITHUB_OUTPUT
+        echo "$BODY" >> $GITHUB_OUTPUT
+        echo "EOF" >> $GITHUB_OUTPUT
+    
+    - name: Send email notification
+      if: always()
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: ${{ secrets.SMTP_SERVER }}
+        server_port: ${{ secrets.SMTP_PORT }}
+        username: ${{ secrets.SMTP_USERNAME }}
+        password: ${{ secrets.SMTP_PASSWORD }}
+        subject: ${{ steps.email-content.outputs.subject }}
+        body: ${{ steps.email-content.outputs.body }}
+        to: ${{ secrets.EMAIL_TO }}
+        from: ${{ secrets.EMAIL_FROM }}
+        content_type: text/html
+      continue-on-error: true  # Don't fail workflow if email fails

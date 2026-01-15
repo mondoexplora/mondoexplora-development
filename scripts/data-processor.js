@@ -7,7 +7,7 @@ const { generateLanguageFiles, generateCountryFiles, generateRouteFiles } = requ
 const { convertDestinationsCSV } = require('./utils/csv-to-json');
 
 // Configuration
-const CSV_URL = 'https://files.channable.com/PHqJwXEBeW6HKOyio7bi0A==.csv';
+const CSV_URL = 'https://files.channable.com/nWzb4bDZZozNdXZ-kzF9IQ==.csv';
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const LANGUAGES = ['en'];
 
@@ -163,13 +163,65 @@ async function main() {
     // 6. Generate JSON files for each language
     await generateLanguageFiles(destinations, LANGUAGES, DATA_DIR);
     
+    // Calculate statistics for email report
+    const totalHotels = hotels.length;
+    const totalDestinations = Object.keys(destinations).length;
+    const totalCountries = Object.keys(countryStats).length;
+    const totalValue = hotels.reduce((sum, h) => sum + h.price, 0);
+    const avgPrice = Math.round(totalValue / totalHotels);
+    
+    // Count JSON files created
+    const fs = require('fs');
+    const destinationFiles = fs.readdirSync(path.join(DATA_DIR, 'en', 'destination')).filter(f => f.endsWith('.json')).length;
+    const countryFiles = fs.readdirSync(path.join(DATA_DIR, 'en', 'country')).filter(f => f.endsWith('.json')).length;
+    const totalJsonFiles = destinationFiles + countryFiles + 1; // +1 for homepage-data.json
+    
     console.log('✅ Data processing completed successfully!');
-    console.log(`📊 Processed ${hotels.length} hotel deals across ${Object.keys(destinations).length} destinations`);
-    console.log(`💰 Total deals value: $${hotels.reduce((sum, h) => sum + h.price, 0).toLocaleString()}`);
-    console.log(`🎯 Average deal price: $${Math.round(hotels.reduce((sum, h) => sum + h.price, 0) / hotels.length)}`);
+    console.log(`📊 Processed ${totalHotels} hotel deals across ${totalDestinations} destinations`);
+    console.log(`💰 Total deals value: $${totalValue.toLocaleString()}`);
+    console.log(`🎯 Average deal price: $${avgPrice}`);
+    console.log(`📁 Created ${totalJsonFiles} JSON files (${destinationFiles} destinations + ${countryFiles} countries + 1 homepage)`);
+    
+    // Output statistics as JSON for GitHub Actions to capture
+    const stats = {
+      success: true,
+      timestamp: new Date().toISOString(),
+      totalHotels,
+      totalDestinations,
+      totalCountries,
+      totalJsonFiles,
+      destinationFiles,
+      countryFiles,
+      totalValue,
+      avgPrice,
+      topDestinations: destinationStats.slice(0, 5).map(s => `${s.city}, ${s.country} (${s.hotelCount} hotels)`)
+    };
+    
+    // Write stats to file for GitHub Actions
+    fs.writeFileSync(
+      path.join(__dirname, '..', 'data-update-stats.json'),
+      JSON.stringify(stats, null, 2)
+    );
+    
+    return stats;
     
   } catch (error) {
     console.error('❌ Data processing failed:', error);
+    
+    // Write error stats
+    const fs = require('fs');
+    const errorStats = {
+      success: false,
+      timestamp: new Date().toISOString(),
+      error: error.message,
+      stack: error.stack
+    };
+    
+    fs.writeFileSync(
+      path.join(__dirname, '..', 'data-update-stats.json'),
+      JSON.stringify(errorStats, null, 2)
+    );
+    
     process.exit(1);
   }
 }
