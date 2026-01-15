@@ -103,63 +103,44 @@ jobs:
           
           SUBJECT="✅ MondoExplora Daily Update Success - $CURRENT_DATE"
           
-          BODY=$(cat <<'EMAIL_EOF'
-Hello!
-
-The daily data update for MondoExplora completed successfully.
-
-📊 Update Statistics:
-• Date/Time: $CURRENT_DATE
-• Total Hotels Processed: $TOTAL_HOTELS
-• Total Destinations: $TOTAL_DESTINATIONS
-• JSON Files Created: $TOTAL_FILES
-  - Destination files: $DEST_FILES
-  - Country files: $COUNTRY_FILES
-  - Homepage file: 1
-
-🔄 Git Status:
-• Changes committed: ${{ steps.git-check.outputs.changed }}
-• Netlify will automatically rebuild the site
-
-You can view the full statistics in: data-update-stats.json
-
----
-This is an automated message from GitHub Actions.
-EMAIL_EOF
-)
-          
-          # Replace variables in body
-          BODY=$(echo "$BODY" | sed "s|\$CURRENT_DATE|$CURRENT_DATE|g" | sed "s|\$TOTAL_HOTELS|$TOTAL_HOTELS|g" | sed "s|\$TOTAL_DESTINATIONS|$TOTAL_DESTINATIONS|g" | sed "s|\$TOTAL_FILES|$TOTAL_FILES|g" | sed "s|\$DEST_FILES|$DEST_FILES|g" | sed "s|\$COUNTRY_FILES|$COUNTRY_FILES|g")
+          # Build email body without heredoc
+          BODY="Hello!"$'\n\n'
+          BODY+="The daily data update for MondoExplora completed successfully."$'\n\n'
+          BODY+="📊 Update Statistics:"$'\n'
+          BODY+="• Date/Time: $CURRENT_DATE"$'\n'
+          BODY+="• Total Hotels Processed: $TOTAL_HOTELS"$'\n'
+          BODY+="• Total Destinations: $TOTAL_DESTINATIONS"$'\n'
+          BODY+="• JSON Files Created: $TOTAL_FILES"$'\n'
+          BODY+="  - Destination files: $DEST_FILES"$'\n'
+          BODY+="  - Country files: $COUNTRY_FILES"$'\n'
+          BODY+="  - Homepage file: 1"$'\n\n'
+          BODY+="🔄 Git Status:"$'\n'
+          BODY+="• Changes committed: ${{ steps.git-check.outputs.changed }}"$'\n'
+          BODY+="• Netlify will automatically rebuild the site"$'\n\n'
+          BODY+="You can view the full statistics in: data-update-stats.json"$'\n\n'
+          BODY+="---"$'\n'
+          BODY+="This is an automated message from GitHub Actions."
         else
           # Error email
           ERROR_MSG=$(cat $STATS_FILE | grep -o '"error":"[^"]*"' | cut -d'"' -f4 || echo "Unknown error")
           
           SUBJECT="❌ MondoExplora Daily Update FAILED - $CURRENT_DATE"
           
-          BODY=$(cat <<'EMAIL_EOF'
-Hello!
-
-⚠️ The daily data update for MondoExplora FAILED.
-
-📊 Error Details:
-• Date/Time: $CURRENT_DATE
-• Error: $ERROR_MSG
-
-🔍 Next Steps:
-1. Check the GitHub Actions logs: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-2. Review the error in data-update-stats.json
-3. Manually run the script if needed: node scripts/data-processor.js
-
----
-This is an automated message from GitHub Actions.
-EMAIL_EOF
-)
-          
-          # Replace variables in body
-          BODY=$(echo "$BODY" | sed "s|\$CURRENT_DATE|$CURRENT_DATE|g" | sed "s|\$ERROR_MSG|$ERROR_MSG|g")
+          # Build email body without heredoc
+          BODY="Hello!"$'\n\n'
+          BODY+="⚠️ The daily data update for MondoExplora FAILED."$'\n\n'
+          BODY+="📊 Error Details:"$'\n'
+          BODY+="• Date/Time: $CURRENT_DATE"$'\n'
+          BODY+="• Error: $ERROR_MSG"$'\n\n'
+          BODY+="🔍 Next Steps:"$'\n'
+          BODY+="1. Check the GitHub Actions logs: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"$'\n'
+          BODY+="2. Review the error in data-update-stats.json"$'\n'
+          BODY+="3. Manually run the script if needed: node scripts/data-processor.js"$'\n\n'
+          BODY+="---"$'\n'
+          BODY+="This is an automated message from GitHub Actions."
         fi
         
-        # Escape for GitHub Actions output
+        # Set GitHub Actions output
         echo "subject<<EOF" >> $GITHUB_OUTPUT
         echo "$SUBJECT" >> $GITHUB_OUTPUT
         echo "EOF" >> $GITHUB_OUTPUT
