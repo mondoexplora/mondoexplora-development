@@ -24,10 +24,9 @@ const REQUIRED_FIELDS = [
   'end_date_utc',
   'link',
   'hero_image',  // Changed from 'image_link' to match CSV column name
-  'image_two',
-  'image_three',
   'offer_country_code_alpha_2'
 ];
+// Note: image_two and image_three are optional
 
 async function fetchCSVData() {
   try {
@@ -87,10 +86,10 @@ function parseCSVData(csvData) {
               discount_percentage: parseInt(row.percentage_discount),
               link: row.link,
               hero_image: row.hero_image,
-              image_two: row.image_two,
-              image_three: row.image_three,
+              image_two: row.image_two || '',  // Optional field
+              image_three: row.image_three || '',  // Optional field
               end_date: row.end_date_utc,
-              deal_tier: row.deal_tier,
+              deal_tier: row.deal_tier || '',
               min_duration: parseInt(row.min_duration) || 1
             });
           } else {
