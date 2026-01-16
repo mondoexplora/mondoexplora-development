@@ -87,12 +87,14 @@ export const metadata: Metadata = {
   classification: 'Travel and Tourism',
   icons: {
     icon: [
-      { url: '/favicon.svg', type: 'image/svg+xml' },
-      { url: '/favicon.ico', sizes: '32x32' }
+      { url: '/favicon.ico', sizes: 'any' },
+      { url: '/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
+      { url: '/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
+      { url: '/favicon.svg', type: 'image/svg+xml' }
     ],
-    shortcut: '/favicon.svg',
+    shortcut: '/favicon.ico',
     apple: [
-      { url: '/favicon.svg', sizes: '180x180', type: 'image/svg+xml' }
+      { url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' }
     ],
   },
   manifest: '/site.webmanifest',
@@ -108,6 +110,10 @@ export default function RootLayout({
       <head>
         <meta name="color-scheme" content="light only" />
         <meta name="theme-color" content="#ffffff" />
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
