@@ -23,7 +23,7 @@ const REQUIRED_FIELDS = [
   'percentage_discount',
   'end_date_utc',
   'link',
-  'image_link',
+  'hero_image',  // Changed from 'image_link' to match CSV column name
   'image_two',
   'image_three',
   'offer_country_code_alpha_2'
@@ -86,7 +86,7 @@ function parseCSVData(csvData) {
               original_price: calculateOriginalPrice(row.price, row.percentage_discount),
               discount_percentage: parseInt(row.percentage_discount),
               link: row.link,
-              hero_image: row.image_link,
+              hero_image: row.hero_image,
               image_two: row.image_two,
               image_three: row.image_three,
               end_date: row.end_date_utc,
