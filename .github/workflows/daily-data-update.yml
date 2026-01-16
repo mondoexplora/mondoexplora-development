@@ -103,23 +103,29 @@ jobs:
           
           SUBJECT="✅ MondoExplora Daily Update Success - $CURRENT_DATE"
           
-          # Build email body without heredoc
-          BODY="Hello!"$'\n\n'
-          BODY+="The daily data update for MondoExplora completed successfully."$'\n\n'
-          BODY+="📊 Update Statistics:"$'\n'
-          BODY+="• Date/Time: $CURRENT_DATE"$'\n'
-          BODY+="• Total Hotels Processed: $TOTAL_HOTELS"$'\n'
-          BODY+="• Total Destinations: $TOTAL_DESTINATIONS"$'\n'
-          BODY+="• JSON Files Created: $TOTAL_FILES"$'\n'
-          BODY+="  - Destination files: $DEST_FILES"$'\n'
-          BODY+="  - Country files: $COUNTRY_FILES"$'\n'
-          BODY+="  - Homepage file: 1"$'\n\n'
-          BODY+="🔄 Git Status:"$'\n'
-          BODY+="• Changes committed: ${{ steps.git-check.outputs.changed }}"$'\n'
-          BODY+="• Netlify will automatically rebuild the site"$'\n\n'
-          BODY+="You can view the full statistics in: data-update-stats.json"$'\n\n'
-          BODY+="---"$'\n'
-          BODY+="This is an automated message from GitHub Actions."
+          # Build HTML email body with proper line breaks
+          BODY="<p>Hello!</p>"
+          BODY+="<p>The daily data update for MondoExplora completed successfully.</p>"
+          BODY+="<h3>📊 Update Statistics:</h3>"
+          BODY+="<ul style='margin: 10px 0; padding-left: 20px;'>"
+          BODY+="<li><strong>Date/Time:</strong> $CURRENT_DATE</li>"
+          BODY+="<li><strong>Total Hotels Processed:</strong> $TOTAL_HOTELS</li>"
+          BODY+="<li><strong>Total Destinations:</strong> $TOTAL_DESTINATIONS</li>"
+          BODY+="<li><strong>JSON Files Created:</strong> $TOTAL_FILES</li>"
+          BODY+="<ul style='margin: 5px 0; padding-left: 20px;'>"
+          BODY+="<li>Destination files: $DEST_FILES</li>"
+          BODY+="<li>Country files: $COUNTRY_FILES</li>"
+          BODY+="<li>Homepage file: 1</li>"
+          BODY+="</ul></li>"
+          BODY+="</ul>"
+          BODY+="<h3>🔄 Git Status:</h3>"
+          BODY+="<ul style='margin: 10px 0; padding-left: 20px;'>"
+          BODY+="<li><strong>Changes committed:</strong> ${{ steps.git-check.outputs.changed }}</li>"
+          BODY+="<li>Netlify will automatically rebuild the site</li>"
+          BODY+="</ul>"
+          BODY+="<p>You can view the full statistics in: <code>data-update-stats.json</code></p>"
+          BODY+="<hr>"
+          BODY+="<p><em>This is an automated message from GitHub Actions.</em></p>"
         else
           # Error email
           ERROR_MSG=$(cat $STATS_FILE | grep -o '"error":"[^"]*"' | cut -d'"' -f4 || echo "Unknown error")
