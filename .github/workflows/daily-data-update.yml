@@ -94,12 +94,12 @@ jobs:
         CURRENT_DATE=$(date +'%Y-%m-%d %H:%M:%S %Z')
         
         if [ -f "$STATS_FILE" ] && [ "${{ steps.data-processor.outcome }}" == "success" ]; then
-          # Success email - parse JSON properly
-          TOTAL_HOTELS=$(cat $STATS_FILE | grep -o '"totalHotels":[0-9]\+' | grep -o '[0-9]\+' || echo "0")
-          TOTAL_DESTINATIONS=$(cat $STATS_FILE | grep -o '"totalDestinations":[0-9]\+' | grep -o '[0-9]\+' || echo "0")
-          TOTAL_FILES=$(cat $STATS_FILE | grep -o '"totalJsonFiles":[0-9]\+' | grep -o '[0-9]\+' || echo "0")
-          DEST_FILES=$(cat $STATS_FILE | grep -o '"destinationFiles":[0-9]\+' | grep -o '[0-9]\+' || echo "0")
-          COUNTRY_FILES=$(cat $STATS_FILE | grep -o '"countryFiles":[0-9]\+' | grep -o '[0-9]\+' || echo "0")
+          # Success email - parse JSON using Node.js (more reliable)
+          TOTAL_HOTELS=$(node -e "try { const d=require('./data-update-stats.json'); console.log(d.totalHotels || 0); } catch(e) { console.log(0); }")
+          TOTAL_DESTINATIONS=$(node -e "try { const d=require('./data-update-stats.json'); console.log(d.totalDestinations || 0); } catch(e) { console.log(0); }")
+          TOTAL_FILES=$(node -e "try { const d=require('./data-update-stats.json'); console.log(d.totalJsonFiles || 0); } catch(e) { console.log(0); }")
+          DEST_FILES=$(node -e "try { const d=require('./data-update-stats.json'); console.log(d.destinationFiles || 0); } catch(e) { console.log(0); }")
+          COUNTRY_FILES=$(node -e "try { const d=require('./data-update-stats.json'); console.log(d.countryFiles || 0); } catch(e) { console.log(0); }")
           
           SUBJECT="✅ MondoExplora Daily Update Success - $CURRENT_DATE"
           
