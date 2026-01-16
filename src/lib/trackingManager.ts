@@ -209,7 +209,18 @@ class TrackingManager {
   public trackConversion(action: string, value?: number, currency: string = 'USD'): void {
     if (!this.consent.marketing) return;
 
-    // Google Ads Conversion
+    // Push to dataLayer for Google Tag Manager (GTM triggers on these events)
+    if (typeof window !== 'undefined' && (window as any).dataLayer) {
+      (window as any).dataLayer.push({
+        event: action,
+        value: value || 0,
+        currency,
+        transaction_id: `${action}_${Date.now()}`,
+        timestamp: new Date().toISOString()
+      });
+    }
+
+    // Google Ads Conversion (direct gtag - optional, GTM handles this)
     if (typeof window !== 'undefined' && (window as any).gtag) {
       const gtag = (window as any).gtag;
       const accountId = process.env.NEXT_PUBLIC_GOOGLE_ADS_ACCOUNT_ID;
