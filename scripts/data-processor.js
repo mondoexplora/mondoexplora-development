@@ -20,13 +20,12 @@ const REQUIRED_FIELDS = [
   'title',
   'description',
   'price',
-  'percentage_discount',
   'end_date_utc',
   'link',
   'hero_image',  // Changed from 'image_link' to match CSV column name
   'offer_country_code_alpha_2'
 ];
-// Note: image_two and image_three are optional
+// Note: percentage_discount, image_two, and image_three are optional (will default to 0 or empty string)
 
 async function fetchCSVData() {
   try {
@@ -82,8 +81,8 @@ function parseCSVData(csvData) {
               title: row.title,
               description: row.description,
               price: parseFloat(row.price),
-              original_price: calculateOriginalPrice(row.price, row.percentage_discount),
-              discount_percentage: parseInt(row.percentage_discount),
+              original_price: calculateOriginalPrice(row.price, row.percentage_discount || '0'),
+              discount_percentage: parseInt(row.percentage_discount || '0') || 0,
               link: row.link,
               hero_image: row.hero_image,
               image_two: row.image_two || '',  // Optional field
@@ -103,6 +102,11 @@ function parseCSVData(csvData) {
         console.log(`   • Valid rows (passed validation): ${validRows}`);
         console.log(`   • Expired offers (filtered out): ${expiredRows}`);
         console.log(`   • Active offers (to process): ${hotels.length}`);
+        if (validRows === 0 && totalRows > 0) {
+          console.log(`⚠️  WARNING: All rows failed validation!`);
+          console.log(`   This usually means a required field is missing or has wrong format.`);
+          console.log(`   Check the CSV header and first row structure.`);
+        }
         console.log(`✅ Parsed ${hotels.length} valid hotels from CSV`);
         resolve(hotels);
       })

@@ -15,8 +15,9 @@ function validateHotelData(row, requiredFields) {
     return false;
   }
   
-  // Validate discount percentage
-  const discount = parseInt(row.percentage_discount);
+  // Validate discount percentage (allow empty/0, default to 0 if missing)
+  const discountStr = row.percentage_discount ? row.percentage_discount.toString().trim() : '0';
+  const discount = discountStr === '' ? 0 : parseInt(discountStr);
   if (isNaN(discount) || discount < 0 || discount > 100) {
     return false;
   }
