@@ -1,0 +1,50 @@
+{
+  "city": "Spring Hill",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Spring Hill",
+  "description": "Discover the best hotels in Spring Hill, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/929xexmvcbwdp2rqwcd",
+  "hotels": [
+    {
+      "vendor_name": "Mantra Terrace Brisbane",
+      "offer_country_name": "Australia",
+      "location_heading": "Spring Hill",
+      "title": "Stylish Brisbane Escape on Astor Terrace Moments from Queen Street Mall",
+      "description": "Step into the heart of Brisbane with a stay at this contemporary urban escape. Ideally positioned on Astor Terrace, you'll be within arm's reach of the bustling Queen Street Mall, Fortitude Valley, and the tranquil Botanic Gardens and Roma Street Parklands - perfect for a serene afternoon walk. Further afield, head across the river to explore South Bank or unwind in the hotel's onsite cafe and bar for a warm tea or coffee and a flaky pastry.",
+      "location_subheading": "Australia",
+      "price": 94,
+      "original_price": 94,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JReuGAAT",
+      "hero_image": "https://images.luxuryescapes.com/929xexmvcbwdp2rqwcd",
+      "image_two": "https://images.luxuryescapes.com/dkhunefm8uwupec79h",
+      "image_three": "https://images.luxuryescapes.com/pptl1tedcm8xc0rd28ls",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 00:00:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Spring Hill - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Spring Hill, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "spring hill hotels",
+      "spring hill travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/spring-hill",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/spring-hill",
+      "es": "https://mondoexplora.com/es/destination/spring-hill",
+      "fr": "https://mondoexplora.com/fr/destination/spring-hill",
+      "it": "https://mondoexplora.com/it/destination/spring-hill"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-01-16",
+    "hotel_count": 1,
+    "average_price": 94,
+    "average_discount": 0
+  }
+}

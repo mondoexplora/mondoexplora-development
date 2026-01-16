@@ -1,0 +1,50 @@
+{
+  "city": "Pau",
+  "country": "France",
+  "country_code": "FR",
+  "hero_title": "Hotels in Pau",
+  "description": "Discover the best hotels in Pau, France. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/uno86n6ehlfj81w2ttu",
+  "hotels": [
+    {
+      "vendor_name": "Parc Beaumont Hôtel & Spa Pau - MGallery",
+      "offer_country_name": "France",
+      "location_heading": "Pau",
+      "title": "South of France European Elegance with Onsite Dining, Spa & Indoor Pool",
+      "description": "Nestled on the edge of Parc Beaumont in the heart of Pau, this residence is a sanctuary of refined luxury and natural beauty. Overlooking the Pyrenees and lush gardens, and home to a sprawling pool and spa bathed in natural light, the perfect balance of relaxation and indulgence awaits. When you're ready to explore, you're just moments from the Château de Pau, the birthplace of King Henry IV, and the Boulevard des Pyrénées, offering panoramic views of the mountains in the distance. Indulge in local gastronomy at the nearby Halles de Pau, a bustling food market brimming with regional produce.",
+      "location_subheading": "France",
+      "price": 175,
+      "original_price": 175,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnJe2YAF",
+      "hero_image": "https://images.luxuryescapes.com/uno86n6ehlfj81w2ttu",
+      "image_two": "https://images.luxuryescapes.com/z4078d973kmd7zxmem5a",
+      "image_three": "https://images.luxuryescapes.com/jm03dpdr4efz1l73ryu",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Pau - France Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Pau, France with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "pau hotels",
+      "pau travel",
+      "france hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/pau",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/pau",
+      "es": "https://mondoexplora.com/es/destination/pau",
+      "fr": "https://mondoexplora.com/fr/destination/pau",
+      "it": "https://mondoexplora.com/it/destination/pau"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-01-16",
+    "hotel_count": 1,
+    "average_price": 175,
+    "average_discount": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "city": "Nassau",
+  "country": "Bahamas",
+  "country_code": "BS",
+  "hero_title": "Hotels in Nassau",
+  "description": "Discover the best hotels in Nassau, Bahamas. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/1e3mktizoevsl3b0biho",
+  "hotels": [
+    {
+      "vendor_name": "SLS Baha Mar",
+      "offer_country_name": "Bahamas",
+      "location_heading": "Nassau",
+      "title": "Stylish Bahamas Beachfront Indulgence with Three Pools, Spa & Night Club",
+      "description": "Soak up Caribbean beachfront bliss from this sleek seafront hotspot, where signature SLS hospitality meets sun-soaked style. Overlooking sugar‑white sands and turquoise waters, this resort is set within the buzzy Baha Mar complex. Spend sun-drenched days at the adults-only Privilege pool, sip on mouthwatering cocktails or take a stroll to the beach just steps away. Dining here is a highlight, with various restaurants offering everything from Mediterranean favourites at Cleo to coastal fare at 25° North. As the sun sets, the vibe shifts, welcoming rooftop revelry at Skybar and underground beats at the Bond nightclub. Whether you're here for the star-powered hangouts or refined beachside living, this is island luxury at its best.",
+      "location_subheading": "Bahamas",
+      "price": 321,
+      "original_price": 321,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000IGliBYAT",
+      "hero_image": "https://images.luxuryescapes.com/1e3mktizoevsl3b0biho",
+      "image_two": "https://images.luxuryescapes.com/v4io13fiwbyhqgru9r6r",
+      "image_three": "https://images.luxuryescapes.com/frcl88se3i9507m82kfd",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Nassau - Bahamas Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Nassau, Bahamas with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "nassau hotels",
+      "nassau travel",
+      "bahamas hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/nassau",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/nassau",
+      "es": "https://mondoexplora.com/es/destination/nassau",
+      "fr": "https://mondoexplora.com/fr/destination/nassau",
+      "it": "https://mondoexplora.com/it/destination/nassau"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-01-16",
+    "hotel_count": 1,
+    "average_price": 321,
+    "average_discount": 0
+  }
+}

@@ -3,61 +3,61 @@
   "code": "MY",
   "hero_title": "Malaysia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Malaysia.",
-  "hero_image": "https://images.luxuryescapes.com/hp71j3mghfyf0wzwtfj",
+  "hero_image": "https://images.luxuryescapes.com/8iqwe3xexvxgcouhw4j",
   "popular_destinations": [
     {
       "name": "Kuala Lumpur",
       "slug": "kuala-lumpur",
-      "image": "https://images.luxuryescapes.com/hp71j3mghfyf0wzwtfj",
+      "image": "https://images.luxuryescapes.com/8iqwe3xexvxgcouhw4j",
       "description": "Explore Kuala Lumpur with luxury accommodations",
-      "hotel_count": 20,
-      "hotel_deals": 20,
-      "avg_price": 113
+      "hotel_count": 16,
+      "hotel_deals": 16,
+      "avg_price": 154
     },
     {
       "name": "Kota Kinabalu",
       "slug": "kota-kinabalu",
-      "image": "https://images.luxuryescapes.com/2vsnhvey1d8sy8wr0zat",
+      "image": "https://images.luxuryescapes.com/fhfxxe19thwkq91vq9z4",
       "description": "Explore Kota Kinabalu with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 321
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 149
     },
     {
       "name": "Penang",
       "slug": "penang",
-      "image": "https://images.luxuryescapes.com/h9zmipn4bl0bodorg7s",
+      "image": "https://images.luxuryescapes.com/hbdbkajlsg5015kbo2",
       "description": "Explore Penang with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 92
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 113
+    },
+    {
+      "name": "Desaru Coast",
+      "slug": "desaru-coast",
+      "image": "https://images.luxuryescapes.com/viw8co5v4kextokt35gf",
+      "description": "Explore Desaru Coast with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 787
     },
     {
       "name": "Langkawi",
       "slug": "langkawi",
-      "image": "https://images.luxuryescapes.com/6sz9ixcht4z7urhnl6r",
+      "image": "https://images.luxuryescapes.com/vcroebtfje9yo3u590o",
       "description": "Explore Langkawi with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 169
-    },
-    {
-      "name": "Kuching",
-      "slug": "kuching",
-      "image": "https://images.luxuryescapes.com/eco46r79nnhyy381pwj6",
-      "description": "Explore Kuching with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 101
+      "avg_price": 231
     },
     {
-      "name": "Sepang",
-      "slug": "sepang",
-      "image": "https://images.luxuryescapes.com/xi501eo8e0pqccokc1l",
-      "description": "Explore Sepang with luxury accommodations",
+      "name": "Gaya Island",
+      "slug": "gaya-island",
+      "image": "https://images.luxuryescapes.com/egqnabs5ug5o3ncfnai7",
+      "description": "Explore Gaya Island with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 91
+      "avg_price": 651
     }
   ],
   "seo": {

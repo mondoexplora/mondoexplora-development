@@ -3,61 +3,61 @@
   "code": "GR",
   "hero_title": "Greece Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Greece.",
-  "hero_image": "https://images.luxuryescapes.com/ihmrd2s48bity9ctuo",
+  "hero_image": "https://images.luxuryescapes.com/dqtd75imlwtlhnlwuai",
   "popular_destinations": [
     {
       "name": "Santorini",
       "slug": "santorini",
-      "image": "https://images.luxuryescapes.com/ihmrd2s48bity9ctuo",
+      "image": "https://images.luxuryescapes.com/dqtd75imlwtlhnlwuai",
       "description": "Explore Santorini with luxury accommodations",
-      "hotel_count": 11,
-      "hotel_deals": 11,
-      "avg_price": 573
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 522
     },
     {
       "name": "Athens",
       "slug": "athens",
-      "image": "https://images.luxuryescapes.com/i82sh732qdiui0v4zd",
+      "image": "https://images.luxuryescapes.com/d68y2ueodgnql0ipfnk",
       "description": "Explore Athens with luxury accommodations",
-      "hotel_count": 9,
-      "hotel_deals": 9,
-      "avg_price": 213
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 239
     },
     {
       "name": "Mykonos",
       "slug": "mykonos",
-      "image": "https://images.luxuryescapes.com/41ehtzlieve3inhf216",
+      "image": "https://images.luxuryescapes.com/tsb94k0j2bykhgnl6gh",
       "description": "Explore Mykonos with luxury accommodations",
-      "hotel_count": 8,
-      "hotel_deals": 8,
-      "avg_price": 360
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 292
     },
     {
       "name": "Crete",
       "slug": "crete",
-      "image": "https://images.luxuryescapes.com/1nmg8xjeejgui0s5oek",
+      "image": "https://images.luxuryescapes.com/gqg07xxgnt8ol0n5wfw",
       "description": "Explore Crete with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 343
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 510
     },
     {
       "name": "Corfu",
       "slug": "corfu",
       "image": "https://images.luxuryescapes.com/oluxxfirotc0iqohfukb",
       "description": "Explore Corfu with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 249
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 410
     },
     {
       "name": "Thessaloniki",
       "slug": "thessaloniki",
-      "image": "https://images.luxuryescapes.com/cwnyb3lsqbxoderf97e",
+      "image": "https://images.luxuryescapes.com/8r1zbgpumil9t8hqkoad",
       "description": "Explore Thessaloniki with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 141
+      "avg_price": 123
     }
   ],
   "seo": {

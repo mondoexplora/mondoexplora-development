@@ -1,0 +1,50 @@
+{
+  "city": "Sentosa",
+  "country": "Singapore",
+  "country_code": "SG",
+  "hero_title": "Hotels in Sentosa",
+  "description": "Discover the best hotels in Sentosa, Singapore. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/0bwgwih643no91pieaub",
+  "hotels": [
+    {
+      "vendor_name": "Sofitel Singapore Sentosa Resort & Spa",
+      "offer_country_name": "Singapore",
+      "location_heading": "Sentosa",
+      "title": "French-Inspired Singapore Luxury with Daily Breakfast, Daily Lunch or Dinner & Nightly Cocktails",
+      "description": "Situated in the heart of Sentosa, overlooking the shining waters of the Singapore Strait, this five-star resort graciously invites you to indulge in French-inspired luxury. Blessed with one of the best locations on the island, this family-friendly retreat boasts excellence at every turn, from sumptuous dining options to a glittering seafront pool and a collection of elegant suites and rooms. Prestigiously positioned with direct access to Tanjong Beach, the resort exudes signature French elegance while drawing inspiration from Singaporean culture. Step out onto the champagne shores and discover the very best of Sentosa on your doorstep: take on thrills at the island’s theme parks, tick off major sites including the heritage Fort Siloso, and catch the spellbinding water and laser light show each evening. You’re also a short drive away from the famed Orchard Road shopping precinct, UNESCO World Heritage-listed Singapore Botanic Gardens, hawker centres, heritage markets and Gardens by the Bay.",
+      "location_subheading": "Singapore",
+      "price": 839,
+      "original_price": 1951,
+      "discount_percentage": 57,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000NI4kfYAD",
+      "hero_image": "https://images.luxuryescapes.com/0bwgwih643no91pieaub",
+      "image_two": "https://images.luxuryescapes.com/bex1owjm4dtv4x6vu20m",
+      "image_three": "https://images.luxuryescapes.com/e60ktbdace3v0rlr8o7l",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 3,
+      "end_date_utc": "2026-01-20 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Sentosa - Singapore Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Sentosa, Singapore with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "sentosa hotels",
+      "sentosa travel",
+      "singapore hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/sentosa",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/sentosa",
+      "es": "https://mondoexplora.com/es/destination/sentosa",
+      "fr": "https://mondoexplora.com/fr/destination/sentosa",
+      "it": "https://mondoexplora.com/it/destination/sentosa"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-01-16",
+    "hotel_count": 1,
+    "average_price": 839,
+    "average_discount": 57
+  }
+}

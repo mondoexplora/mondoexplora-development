@@ -3,16 +3,16 @@
   "code": "QA",
   "hero_title": "Qatar Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Qatar.",
-  "hero_image": "https://images.luxuryescapes.com/eu1e08nodddjfi1hhwn",
+  "hero_image": "https://images.luxuryescapes.com/3vtr4x59c2c8w15plrdi",
   "popular_destinations": [
     {
       "name": "Doha",
       "slug": "doha",
-      "image": "https://images.luxuryescapes.com/eu1e08nodddjfi1hhwn",
+      "image": "https://images.luxuryescapes.com/3vtr4x59c2c8w15plrdi",
       "description": "Explore Doha with luxury accommodations",
-      "hotel_count": 17,
-      "hotel_deals": 17,
-      "avg_price": 123
+      "hotel_count": 10,
+      "hotel_deals": 10,
+      "avg_price": 151
     },
     {
       "name": "Al Wakrah",
@@ -21,7 +21,7 @@
       "description": "Explore Al Wakrah with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 69
+      "avg_price": 58
     }
   ],
   "seo": {

@@ -3,25 +3,25 @@
   "code": "KH",
   "hero_title": "Cambodia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Cambodia.",
-  "hero_image": "https://images.luxuryescapes.com/1oegjegyjfyagek9tcrq",
+  "hero_image": "https://images.luxuryescapes.com/wd1boyvi5wgac9uyiju3r",
   "popular_destinations": [
-    {
-      "name": "Siem Reap",
-      "slug": "siem-reap",
-      "image": "https://images.luxuryescapes.com/1oegjegyjfyagek9tcrq",
-      "description": "Explore Siem Reap with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 111
-    },
     {
       "name": "Phnom Penh",
       "slug": "phnom-penh",
-      "image": "https://images.luxuryescapes.com/89ex9djaacttlsbknqdb",
+      "image": "https://images.luxuryescapes.com/wd1boyvi5wgac9uyiju3r",
       "description": "Explore Phnom Penh with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 102
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 137
+    },
+    {
+      "name": "Siem Reap",
+      "slug": "siem-reap",
+      "image": "https://images.luxuryescapes.com/84yrpn0gis08sef4jydq",
+      "description": "Explore Siem Reap with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 156
     },
     {
       "name": "Koh Rong Archipelago",
@@ -30,7 +30,7 @@
       "description": "Explore Koh Rong Archipelago with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1033
+      "avg_price": 1085
     },
     {
       "name": "Preah Sihanouk Province",
@@ -39,16 +39,7 @@
       "description": "Explore Preah Sihanouk Province with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 521
-    },
-    {
-      "name": "Sihanoukville",
-      "slug": "sihanoukville",
-      "image": "https://images.luxuryescapes.com/0eliln9cpd1i4h1wzjqo",
-      "description": "Explore Sihanoukville with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 107
+      "avg_price": 678
     }
   ],
   "seo": {

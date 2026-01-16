@@ -1,0 +1,50 @@
+{
+  "city": "Orange",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Orange",
+  "description": "Discover the best hotels in Orange, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/yb4hr8rzugrg0i96ejco",
+  "hotels": [
+    {
+      "vendor_name": "Yallungah Boutique Hotel",
+      "offer_country_name": "Australia",
+      "location_heading": "Orange",
+      "title": "New South Wales Hideaway: Boutique Orange Elegance in Restored 19th-Century Homestead",
+      "description": "Nestled in the heart of Orange, this sophisticated retreat effortlessly blends historic charm with contemporary elegance. Set in a beautifully restored heritage homestead built circa 1896, located just steps from the town centre, this unique property puts the beauty of country New South Wales on your doorstep. Begin your day with breakfast in the Yallungah Dining Room, where original architectural features are complemented by local artwork, or relax in the sunlit Guest Lounge, complete with a cosy fireplace. Spend your days exploring the region with waterfall walks or scenic country drives and enjoy classic country experiences like touring acclaimed local wineries, championship golf and guided fly-fishing experiences. In the township of Orange, you can browse boutiques, dine at hatted restaurants, or discover historic sites.",
+      "location_subheading": "Australia",
+      "price": 147,
+      "original_price": 162,
+      "discount_percentage": 9,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000OAb3jYAD",
+      "hero_image": "https://images.luxuryescapes.com/yb4hr8rzugrg0i96ejco",
+      "image_two": "https://images.luxuryescapes.com/dxrn5qaqhr0skyb4xkt",
+      "image_three": "https://images.luxuryescapes.com/ktv16mzz3bamlh84t6qp",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Orange - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Orange, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "orange hotels",
+      "orange travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/orange",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/orange",
+      "es": "https://mondoexplora.com/es/destination/orange",
+      "fr": "https://mondoexplora.com/fr/destination/orange",
+      "it": "https://mondoexplora.com/it/destination/orange"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-01-16",
+    "hotel_count": 1,
+    "average_price": 147,
+    "average_discount": 9
+  }
+}

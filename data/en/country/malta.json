@@ -12,34 +12,16 @@
       "description": "Explore Sliema with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 95
+      "avg_price": 67
     },
     {
       "name": "Valletta",
       "slug": "valletta",
-      "image": "https://images.luxuryescapes.com/92y0unzqydwmbcm7q38l",
+      "image": "https://images.luxuryescapes.com/jca13axphcbq4lbvbtm",
       "description": "Explore Valletta with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 188
-    },
-    {
-      "name": "Saint Julian's",
-      "slug": "saint-julian's",
-      "image": "https://images.luxuryescapes.com/sfkc7httoakge93pc9s",
-      "description": "Explore Saint Julian's with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 87
-    },
-    {
-      "name": "Senglea",
-      "slug": "senglea",
-      "image": "https://images.luxuryescapes.com/wx9lpdhswrym2umj6anv",
-      "description": "Explore Senglea with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 161
+      "avg_price": 157
     }
   ],
   "seo": {

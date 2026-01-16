@@ -1,0 +1,50 @@
+{
+  "city": "Napa Valley",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Napa Valley",
+  "description": "Discover the best hotels in Napa Valley, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/af09eggstcm8s18w7jcq",
+  "hotels": [
+    {
+      "vendor_name": "Napa Valley Marriott Hotel & Spa",
+      "offer_country_name": "United States",
+      "location_heading": "Napa Valley",
+      "title": "Napa Valley Wine Country Escape with Daily Breakfast, Dining Credit & Wine Tastings",
+      "description": "Experience the ultimate Napa Valley retreat at the Napa Valley Marriott Hotel & Spa, perfectly situated in the heart of California’s famed wine country. This upscale property offers the ideal blend of relaxation and adventure, with easy access to world-renowned vineyards, gourmet dining and charming local boutiques. Spend your days exploring the picturesque vineyards and return to the hotel for an evening of indulgence with exclusive on-site wine tastings. Unwind in style with the hotel’s luxurious amenities, including a serene outdoor pool, a rejuvenating spa, and inviting fire pits perfect for relaxing under the Napa sky. Be sure to visit the property's onsite restaurant, Little Summer - a delightful setting for a delicious dinner, fed by locally-grown, seasonal ingredients from the chef’s own Heirloom Garden.",
+      "location_subheading": "United States",
+      "price": 419,
+      "original_price": 911,
+      "discount_percentage": 54,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000MEBwbYAH",
+      "hero_image": "https://images.luxuryescapes.com/af09eggstcm8s18w7jcq",
+      "image_two": "https://images.luxuryescapes.com/ym2oikakf3zfre6ixn9",
+      "image_three": "https://images.luxuryescapes.com/wm6b3oko5c8jtk8q5zw",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-01-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Napa Valley - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Napa Valley, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "napa valley hotels",
+      "napa valley travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/napa-valley",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/napa-valley",
+      "es": "https://mondoexplora.com/es/destination/napa-valley",
+      "fr": "https://mondoexplora.com/fr/destination/napa-valley",
+      "it": "https://mondoexplora.com/it/destination/napa-valley"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-01-16",
+    "hotel_count": 1,
+    "average_price": 419,
+    "average_discount": 54
+  }
+}

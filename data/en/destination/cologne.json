@@ -1,0 +1,50 @@
+{
+  "city": "Cologne",
+  "country": "Germany",
+  "country_code": "DE",
+  "hero_title": "Hotels in Cologne",
+  "description": "Discover the best hotels in Cologne, Germany. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/ti3k04g09r0f2dx3ih2",
+  "hotels": [
+    {
+      "vendor_name": "25Hours Hotel The Circle",
+      "offer_country_name": "Germany",
+      "location_heading": "Cologne",
+      "title": "Contemporary Germany Escape near Cologne Cathedral with Onsite Restaurant & Bar",
+      "description": "Towering above Cologne's buzzing Gereon neighbourhood, this design-forward hotel is a stone's throw from the city centre and main attractions. Boasting a unique circular design and funky art splashed throughout the building interior, this contemporary retreat is equal parts quirky and stylish, with its retro-futuristc theme making for a captivating stay. With proximity to Cologne's striking Gothic Cathedral and the Romano-Germanic Museum, the city's best is within easy reach. When it's time to treat yourself, NENI restaurant serves up mouthwatering Israeli dishes, while the cool Monkey Bar is the perfect spot to unwind with a drink after days of exploration.",
+      "location_subheading": "Germany",
+      "price": 85,
+      "original_price": 85,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Jjy96YAB",
+      "hero_image": "https://images.luxuryescapes.com/ti3k04g09r0f2dx3ih2",
+      "image_two": "https://images.luxuryescapes.com/z8fxoubdxk2zz9vdh6g",
+      "image_three": "https://images.luxuryescapes.com/op18zz8rsudtq96salh",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Cologne - Germany Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Cologne, Germany with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "cologne hotels",
+      "cologne travel",
+      "germany hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/cologne",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/cologne",
+      "es": "https://mondoexplora.com/es/destination/cologne",
+      "fr": "https://mondoexplora.com/fr/destination/cologne",
+      "it": "https://mondoexplora.com/it/destination/cologne"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-01-16",
+    "hotel_count": 1,
+    "average_price": 85,
+    "average_discount": 0
+  }
+}

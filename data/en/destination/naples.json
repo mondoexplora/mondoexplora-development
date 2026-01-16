@@ -1,0 +1,50 @@
+{
+  "city": "Naples",
+  "country": "Italy",
+  "country_code": "IT",
+  "hero_title": "Hotels in Naples",
+  "description": "Discover the best hotels in Naples, Italy. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/vs5cqigoezqcd3ygh5o",
+  "hotels": [
+    {
+      "vendor_name": "Mercure Napoli Centro Angioino",
+      "offer_country_name": "Italy",
+      "location_heading": "Naples",
+      "title": "Central Naples Hotel with Rooftop Terrace Overlooking Maschio Angioino Castle",
+      "description": "Surrender to the romance of Naples at Mercure Napoli Centro Angioino, a charming stay that puts the city's treasures at your doorstep. Steps from the medieval Maschio Angioino castle and just five minutes from ferries departing for the legendary Amalfi Coast, this is your gateway to southern Italy's most captivating experiences. Begin each morning with breakfast on the rooftop terrace, where views of the castle and Mediterranean Sea set the scene for days spent wandering cobblestone streets, discovering underground ruins, and savouring authentic Neapolitan pizza. Return to Terrazza Mercure bar, where local delicacies and evening aperitivos await in an elegant setting with distinctly Neapolitan charm.",
+      "location_subheading": "Italy",
+      "price": 119,
+      "original_price": 119,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000M5lUzYAJ",
+      "hero_image": "https://images.luxuryescapes.com/vs5cqigoezqcd3ygh5o",
+      "image_two": "https://images.luxuryescapes.com/6disjd6nvqask6ac8b6",
+      "image_three": "https://images.luxuryescapes.com/1xro41n6zzjyzzlb5f4",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Naples - Italy Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Naples, Italy with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "naples hotels",
+      "naples travel",
+      "italy hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/naples",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/naples",
+      "es": "https://mondoexplora.com/es/destination/naples",
+      "fr": "https://mondoexplora.com/fr/destination/naples",
+      "it": "https://mondoexplora.com/it/destination/naples"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-01-16",
+    "hotel_count": 1,
+    "average_price": 119,
+    "average_discount": 0
+  }
+}

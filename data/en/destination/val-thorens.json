@@ -16,11 +16,29 @@
       "price": 305,
       "original_price": 305,
       "discount_percentage": 0,
-      "link": "https://luxuryescapes.com/offer/006RF00000HSc8bYAD",
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000HSc8bYAD",
       "hero_image": "https://images.luxuryescapes.com/n56xci0dajqsha8q581v",
       "image_two": "https://images.luxuryescapes.com/nevb1wr4q30whtw0ky",
       "image_three": "https://images.luxuryescapes.com/h7qucwabjor0358x7ag",
       "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Le Val Thorens, Val Thorens, a Beaumier Hotel",
+      "offer_country_name": "France",
+      "location_heading": "Val Thorens",
+      "title": "French Alpine Mountain Retreat at Europe's Highest Ski Resort with Spa, Sauna & Heated Pool",
+      "description": "Perched in Europe's highest ski resort, this retro-elegant hotel is your golden ticket to powder paradise. Le Val Thorens, a Beaumier Hotel marries rustic Alpine charm with contemporary cool, delivering mountain views from every angle. Kick back in seriously stylish rooms after hitting the slopes, dive into the heated indoor pool, or melt away the day's adventures in the Finnish sauna. Step outside and boom-you're in the middle of ski heaven with runs right at your doorstep. Part of the massive Les Trois Vallées region, you've got 600km of pristine pistes to conquer before cruising back for après-ski at Le 1971's sun-drenched terrace. Whether you're a seasoned skier or first-time snow bunny, your winter dreams are covered.",
+      "location_subheading": "France",
+      "price": 312,
+      "original_price": 312,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000HT2awYAD",
+      "hero_image": "https://images.luxuryescapes.com/ncm3lfrcboqgbc3jlpa",
+      "image_two": "https://images.luxuryescapes.com/qi9q6g0f6lywvoj8mpf",
+      "image_three": "https://images.luxuryescapes.com/sj79cgs3zoeawfojf77i",
+      "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     }
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2025-07-27",
-    "hotel_count": 1,
-    "average_price": 305,
+    "last_updated": "2026-01-16",
+    "hotel_count": 2,
+    "average_price": 309,
     "average_discount": 0
   }
 }

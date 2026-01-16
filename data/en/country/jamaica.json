@@ -3,16 +3,16 @@
   "code": "JM",
   "hero_title": "Jamaica Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Jamaica.",
-  "hero_image": "https://images.luxuryescapes.com/ot5hmc71cczfumzoyha",
+  "hero_image": "https://images.luxuryescapes.com/xvi7hy2e6jx9t9gv26fp",
   "popular_destinations": [
     {
       "name": "Montego Bay",
       "slug": "montego-bay",
-      "image": "https://images.luxuryescapes.com/ot5hmc71cczfumzoyha",
+      "image": "https://images.luxuryescapes.com/xvi7hy2e6jx9t9gv26fp",
       "description": "Explore Montego Bay with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 466
+      "avg_price": 608
     },
     {
       "name": "Port Antonio",
@@ -21,7 +21,7 @@
       "description": "Explore Port Antonio with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 439
+      "avg_price": 742
     }
   ],
   "seo": {

@@ -3,61 +3,61 @@
   "code": "GB",
   "hero_title": "United Kingdom Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in United Kingdom.",
-  "hero_image": "https://images.luxuryescapes.com/u9y5nnik7dxmjmz4c2qd",
+  "hero_image": "https://images.luxuryescapes.com/39mzmc3drv1f0ixf989g",
   "popular_destinations": [
     {
       "name": "London",
       "slug": "london",
-      "image": "https://images.luxuryescapes.com/u9y5nnik7dxmjmz4c2qd",
+      "image": "https://images.luxuryescapes.com/39mzmc3drv1f0ixf989g",
       "description": "Explore London with luxury accommodations",
-      "hotel_count": 49,
-      "hotel_deals": 49,
-      "avg_price": 338
+      "hotel_count": 45,
+      "hotel_deals": 45,
+      "avg_price": 427
     },
     {
       "name": "Edinburgh",
       "slug": "edinburgh",
-      "image": "https://images.luxuryescapes.com/f9ud79hgwfn9zkljlo",
+      "image": "https://images.luxuryescapes.com/r7v2rkk1vajbwytjs5z",
       "description": "Explore Edinburgh with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 114
-    },
-    {
-      "name": "Bath",
-      "slug": "bath",
-      "image": "https://images.luxuryescapes.com/lxw8wxuro1c8aaakkeu",
-      "description": "Explore Bath with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 202
-    },
-    {
-      "name": "Liverpool",
-      "slug": "liverpool",
-      "image": "https://images.luxuryescapes.com/3xbublkr5ta0dbjm3ch",
-      "description": "Explore Liverpool with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 96
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 146
     },
     {
       "name": "Manchester",
       "slug": "manchester",
-      "image": "https://images.luxuryescapes.com/m21km6z11as3l8ec8zbu",
+      "image": "https://images.luxuryescapes.com/1jh3a5tbxp3f0rejmd6m",
       "description": "Explore Manchester with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 106
-    },
-    {
-      "name": "Glasgow",
-      "slug": "glasgow",
-      "image": "https://images.luxuryescapes.com/jf7ag3lhi90czemp15o7j",
-      "description": "Explore Glasgow with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 111
+      "avg_price": 113
+    },
+    {
+      "name": "Stratford-upon-Avon",
+      "slug": "stratford-upon-avon",
+      "image": "https://images.luxuryescapes.com/5grq9a4gd8221j7n53ro",
+      "description": "Explore Stratford-upon-Avon with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 89
+    },
+    {
+      "name": "Bath",
+      "slug": "bath",
+      "image": "https://images.luxuryescapes.com/uizngck99hijt67vx4bj",
+      "description": "Explore Bath with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 160
+    },
+    {
+      "name": "Cheshire",
+      "slug": "cheshire",
+      "image": "https://images.luxuryescapes.com/0iu8c5k4ipr7ux09o5ol",
+      "description": "Explore Cheshire with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 95
     }
   ],
   "seo": {

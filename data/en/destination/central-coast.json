@@ -4,25 +4,25 @@
   "country_code": "AU",
   "hero_title": "Hotels in Central Coast",
   "description": "Discover the best hotels in Central Coast, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/2ixvk38098vjo4pzpdk6",
+  "hero_image": "https://images.luxuryescapes.com/qkwfnufjoum1gq5tgubm",
   "hotels": [
     {
-      "vendor_name": "Encore By Mingara",
+      "vendor_name": "Mercure Kooindah Waters Central Coast",
       "offer_country_name": "Australia",
       "location_heading": "Central Coast",
-      "title": "Modern Central Coast Escape Just 90 Minutes From Sydney near Tuggerah Lake with Daily Breakfast",
-      "description": "Central Coast escapes don’t get much sweeter than this. Kick back and enjoy the region’s abundance of beaches, restaurants and bars with a stay at Encore by Mingara, conveniently located just a short drive from the tranquil shores of Tuggerah Lake and the spectacular Wyrrabalong National Park. Check out local highlights including ocean pools, weekend markets, walking and cycling tracks; before your adventures, fuel up with a la carte breakfast at The Roasted Berry, then return to a menu of modern Australian favourites at Hadley's or Australian-Chinese fare at Ming Dragon. Access state-of-the-art fitness centre One by Mingara, including a heated indoor pool, athletic track and group fitness classes including yoga, pilates and more.",
+      "title": "NSW Central Coast Escape 90 Minutes from Sydney with Championship Golf Course & Two Pools",
+      "description": "Relax and rejuvenate at Mercure Kooindah Waters Central Coast, just a 90-minute drive north of Sydney. Ideally located on the beautiful New South Wales Central Coast, this retreat provides a peaceful escape and boasts an 18-hole championship golf course, recognised among the top 100 golf courses in Australia. Sit back in the blissful sunshine with a glass of wine in hand while enjoying the manicured grounds, take a stroll around the tranquil lake in the heart of the property and enjoy the friendly competition on the tennis court. From the moment the sun rises to the second it sets, spend your days hopping from one pristine beach to another and bask in the calmness of the region. Feel refreshed with a few laps in the outdoor or indoor pool, explore the beauty of the surrounding wetlands and national parks or spot passing dolphins and whales in the winter months. No matter where you are on the property, the views will take your breath away.",
       "location_subheading": "Australia",
-      "price": 199,
-      "original_price": 332,
-      "discount_percentage": 40,
-      "link": "https://luxuryescapes.com/offer/006RF00000JwZk2YAF",
-      "hero_image": "https://images.luxuryescapes.com/2ixvk38098vjo4pzpdk6",
-      "image_two": "https://images.luxuryescapes.com/k1wmkvp1bshp5w1dsv",
-      "image_three": "https://images.luxuryescapes.com/mjx0ziutpqs958gwol6r",
-      "deal_tier": "Lifestyle Brands on Luxury Escapes",
-      "min_duration": 2,
-      "end_date_utc": "2025-08-13 13:59:00"
+      "price": 97,
+      "original_price": 97,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000KuD77YAF",
+      "hero_image": "https://images.luxuryescapes.com/qkwfnufjoum1gq5tgubm",
+      "image_two": "https://images.luxuryescapes.com/m93p6j6c7wo58i87x3d",
+      "image_three": "https://images.luxuryescapes.com/oa77qhp8c4eaiqgozo6m",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "The Beachcomber Hotel",
@@ -31,10 +31,10 @@
       "title": "Hamptons-Style Central Coast Getaway with Waterfront Bar & Pool",
       "description": "Escape from Sydney to a coastal haven just 90 minutes away, soaking up sun at The Beachcomber Hotel & Resort. Slip into holiday mode at this bright and vibrant waterfront locale that rivals a Hamptons holiday home. Take in sparkling views of Budgewoi Lake from the Club Cyan bar or one of the many cabanas surrounding the heated deckside pool, and indulge your way all day at The Beachie Pub, Bar & Grill which features a menu of elevated pub classics.",
       "location_subheading": "Australia",
-      "price": 111,
-      "original_price": 111,
+      "price": 131,
+      "original_price": 131,
       "discount_percentage": 0,
-      "link": "https://luxuryescapes.com/offer/0062y00000CQkdvAAD",
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQkdvAAD",
       "hero_image": "https://images.luxuryescapes.com/h3ag91ow8ecxt3935ji",
       "image_two": "https://images.luxuryescapes.com/acf1rded28t91065wtej",
       "image_three": "https://images.luxuryescapes.com/qgy6gx1u4axlvxlfyst5",
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2025-07-27",
+    "last_updated": "2026-01-16",
     "hotel_count": 2,
-    "average_price": 155,
-    "average_discount": 20
+    "average_price": 114,
+    "average_discount": 0
   }
 }

@@ -3,61 +3,61 @@
   "code": "ES",
   "hero_title": "Spain Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Spain.",
-  "hero_image": "https://images.luxuryescapes.com/39uj6sqptnjdu6h50aqe",
+  "hero_image": "https://images.luxuryescapes.com/nz4ez58cif04weh5a3q",
   "popular_destinations": [
     {
       "name": "Barcelona",
       "slug": "barcelona",
-      "image": "https://images.luxuryescapes.com/39uj6sqptnjdu6h50aqe",
+      "image": "https://images.luxuryescapes.com/nz4ez58cif04weh5a3q",
       "description": "Explore Barcelona with luxury accommodations",
-      "hotel_count": 20,
-      "hotel_deals": 20,
-      "avg_price": 270
+      "hotel_count": 16,
+      "hotel_deals": 16,
+      "avg_price": 303
     },
     {
       "name": "Madrid",
       "slug": "madrid",
-      "image": "https://images.luxuryescapes.com/ll1nxp35znu0yvtzex",
+      "image": "https://images.luxuryescapes.com/i31jde3fkihs3gyichoc",
       "description": "Explore Madrid with luxury accommodations",
-      "hotel_count": 14,
-      "hotel_deals": 14,
-      "avg_price": 246
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 303
     },
     {
       "name": "Mallorca",
       "slug": "mallorca",
-      "image": "https://images.luxuryescapes.com/x6nplgbr7meet166drit",
+      "image": "https://images.luxuryescapes.com/kal2cbz5thqfj5f7gec",
       "description": "Explore Mallorca with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 323
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 308
     },
     {
       "name": "Ibiza",
       "slug": "ibiza",
-      "image": "https://images.luxuryescapes.com/idkf1de0esyesav4vtro",
+      "image": "https://images.luxuryescapes.com/km0y1pe9t375yfveyt9",
       "description": "Explore Ibiza with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 260
+      "avg_price": 321
+    },
+    {
+      "name": "Analucia",
+      "slug": "analucia",
+      "image": "https://images.luxuryescapes.com/3khpetlbt8zc1np8nbn",
+      "description": "Explore Analucia with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 595
     },
     {
       "name": "Marbella",
       "slug": "marbella",
-      "image": "https://images.luxuryescapes.com/di2hjl53fdqkt549zx8",
+      "image": "https://images.luxuryescapes.com/fktsbmfbhee6yccuwpuwq",
       "description": "Explore Marbella with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 562
-    },
-    {
-      "name": "Salamanca",
-      "slug": "salamanca",
-      "image": "https://images.luxuryescapes.com/7d8pbn30khhfecyjwm8j",
-      "description": "Explore Salamanca with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 152
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 220
     }
   ],
   "seo": {

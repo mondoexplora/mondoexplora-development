@@ -12,16 +12,7 @@
       "description": "Explore Geneva with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 402
-    },
-    {
-      "name": "Crans-Montana",
-      "slug": "crans-montana",
-      "image": "https://images.luxuryescapes.com/zrs5vhg3cpilfr5qk0j",
-      "description": "Explore Crans-Montana with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 513
+      "avg_price": 416
     },
     {
       "name": "Zurich",
@@ -30,7 +21,16 @@
       "description": "Explore Zurich with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 148
+      "avg_price": 174
+    },
+    {
+      "name": "Crans-Montana",
+      "slug": "crans-montana",
+      "image": "https://images.luxuryescapes.com/zrs5vhg3cpilfr5qk0j",
+      "description": "Explore Crans-Montana with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 649
     },
     {
       "name": "Bern",
@@ -39,16 +39,16 @@
       "description": "Explore Bern with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 369
+      "avg_price": 311
     },
     {
-      "name": "Engelberg",
-      "slug": "engelberg",
-      "image": "https://images.luxuryescapes.com/l57tybstwrwgd6w4dw9j",
-      "description": "Explore Engelberg with luxury accommodations",
+      "name": "Gstaad",
+      "slug": "gstaad",
+      "image": "https://images.luxuryescapes.com/g4yn46fvl917lkcrztdd",
+      "description": "Explore Gstaad with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 540
+      "avg_price": 661
     },
     {
       "name": "Grindelwald",
@@ -57,7 +57,7 @@
       "description": "Explore Grindelwald with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 413
+      "avg_price": 414
     }
   ],
   "seo": {

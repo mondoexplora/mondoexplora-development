@@ -12,16 +12,7 @@
       "description": "Explore Bel Ombre with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 219
-    },
-    {
-      "name": "Balaclava",
-      "slug": "balaclava",
-      "image": "https://images.luxuryescapes.com/d94763igr6gtm91dz07z8",
-      "description": "Explore Balaclava with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 245
+      "avg_price": 246
     },
     {
       "name": "Belle Mare",
@@ -30,25 +21,7 @@
       "description": "Explore Belle Mare with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 631
-    },
-    {
-      "name": "Flic En Flac",
-      "slug": "flic-en-flac",
-      "image": "https://images.luxuryescapes.com/8l8xhc3kr8uuuvei0a",
-      "description": "Explore Flic En Flac with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 310
-    },
-    {
-      "name": "Plaine Magnien",
-      "slug": "plaine-magnien",
-      "image": "https://images.luxuryescapes.com/nb28x86bqf9ax3ali5gj",
-      "description": "Explore Plaine Magnien with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 314
+      "avg_price": 748
     },
     {
       "name": "Trou d'Eau Douce",
@@ -57,7 +30,16 @@
       "description": "Explore Trou d'Eau Douce with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 519
+      "avg_price": 1289
+    },
+    {
+      "name": "Plaine Magnien",
+      "slug": "plaine-magnien",
+      "image": "https://images.luxuryescapes.com/nb28x86bqf9ax3ali5gj",
+      "description": "Explore Plaine Magnien with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 258
     }
   ],
   "seo": {
