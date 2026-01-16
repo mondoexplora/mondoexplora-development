@@ -32,10 +32,27 @@ const REQUIRED_FIELDS = [
 async function fetchCSVData() {
   try {
     console.log('📥 Fetching CSV data from:', CSV_URL);
-    const response = await axios.get(CSV_URL);
+    const response = await axios.get(CSV_URL, {
+      timeout: 30000, // 30 second timeout
+      validateStatus: (status) => status === 200
+    });
+    
+    if (!response.data || response.data.length === 0) {
+      throw new Error('CSV response is empty');
+    }
+    
+    console.log(`✅ CSV fetched successfully (${response.data.length} characters)`);
+    // Log first few lines to debug
+    const firstLines = response.data.split('\n').slice(0, 3).join('\n');
+    console.log('📄 First few lines of CSV:', firstLines);
+    
     return response.data;
   } catch (error) {
     console.error('❌ Error fetching CSV:', error.message);
+    if (error.response) {
+      console.error(`   Status: ${error.response.status}`);
+      console.error(`   Data: ${JSON.stringify(error.response.data).substring(0, 200)}`);
+    }
     throw error;
   }
 }
@@ -43,18 +60,23 @@ async function fetchCSVData() {
 function parseCSVData(csvData) {
   return new Promise((resolve, reject) => {
     const hotels = [];
+    let totalRows = 0;
+    let validRows = 0;
+    let expiredRows = 0;
     const stream = require('stream');
     const readable = stream.Readable.from(csvData);
     
     readable
       .pipe(csv())
       .on('data', (row) => {
+        totalRows++;
         // Validate required fields
         if (validateHotelData(row, REQUIRED_FIELDS)) {
+          validRows++;
           // Check if offer is expired
           if (!isOfferExpired(row.end_date_utc)) {
-                         hotels.push({
-               vendor_name: row.vendor_name,
+            hotels.push({
+              vendor_name: row.vendor_name,
               country: row.offer_country_name,
               country_code: row.offer_country_code_alpha_2,
               city: row.location_heading,
@@ -71,14 +93,24 @@ function parseCSVData(csvData) {
               deal_tier: row.deal_tier,
               min_duration: parseInt(row.min_duration) || 1
             });
+          } else {
+            expiredRows++;
           }
         }
       })
       .on('end', () => {
+        console.log(`📊 CSV Parsing Statistics:`);
+        console.log(`   • Total rows in CSV: ${totalRows}`);
+        console.log(`   • Valid rows (passed validation): ${validRows}`);
+        console.log(`   • Expired offers (filtered out): ${expiredRows}`);
+        console.log(`   • Active offers (to process): ${hotels.length}`);
         console.log(`✅ Parsed ${hotels.length} valid hotels from CSV`);
         resolve(hotels);
       })
-      .on('error', reject);
+      .on('error', (error) => {
+        console.error('❌ CSV parsing error:', error);
+        reject(error);
+      });
   });
 }
 
