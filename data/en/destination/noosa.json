@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Verano Resort Noosa",
+      "offer_country_name": "Australia",
+      "location_heading": "Noosa",
+      "title": "Noosaville One- & Two-Bedroom Apartments near Gympie Terrace with Outdoor Pool & Parking",
+      "description": "Surrender to the laid-back lifestyle of the Sunshine Coast with a stay at this tranquil Noosaville haven. Set among landscaped gardens, this self-contained oasis places you within easy reach of the region's best attractions - from sparkling waterways and golden beaches to lush national parks. Make use of your apartment's fully equipped kitchen or take a short stroll to Gympie Terrace, where waterfront restaurants, outdoor bars and stylish boutiques await. Set along the tranquil Noosa River, this bustling riverside promenade is one of the region's best-kept secrets. A short 10-minute drive brings you to the vibrant Hastings Street, home to boutiques and restaurants overlooking Noosa Main Beach. Return to the resort for a dip in the outdoor pool or soak up the tropical sunshine from a lounger in the lush garden. Named after the Spanish word for summer, Verano delivers that endless holiday feeling all year round.",
+      "location_subheading": "Australia",
+      "price": 339,
+      "original_price": 997,
+      "discount_percentage": 66,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ixc8XYAR",
+      "hero_image": "https://images.luxuryescapes.com/wfcvldc94ksh8jam10t",
+      "image_two": "https://images.luxuryescapes.com/6c6ni6fm15zmul51d8i8",
+      "image_three": "https://images.luxuryescapes.com/h0etv37ngh4l9f0tdg",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-01-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 1,
-    "average_price": 409,
-    "average_discount": 0
+    "last_updated": "2026-01-17",
+    "hotel_count": 2,
+    "average_price": 374,
+    "average_discount": 33
   }
 }

@@ -4,8 +4,26 @@
   "country_code": "DE",
   "hero_title": "Hotels in Dusseldorf",
   "description": "Discover the best hotels in Dusseldorf, Germany. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/06vvkem2siuce6akg73j",
+  "hero_image": "https://images.luxuryescapes.com/0a7yiewi4pi9egm9i2eh",
   "hotels": [
+    {
+      "vendor_name": "Hotel Indigo Dusseldorf - Victoriaplatz",
+      "offer_country_name": "Germany",
+      "location_heading": "Dusseldorf",
+      "title": "Dusseldorf Artistic Escape near the City Centre",
+      "description": "Electric nightlife, striking architectural marvels and high-end art and fashion - that's Dusseldorf in a nutshell, and you can experience it all from Hotel Indigo Duesseldorf - Victoriaplatz, an IHG Hotel. This property is dripping with character: each floor is coated in vibrant artwork and murals that celebrate different decades of fashion. Soak in the summertime sun in the lush garden terrace or venture beyond the hotel to the tranquil Rhine River and surrounding local parks.",
+      "location_subheading": "Germany",
+      "price": 87,
+      "original_price": 87,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CuiRMAAZ",
+      "hero_image": "https://images.luxuryescapes.com/0a7yiewi4pi9egm9i2eh",
+      "image_two": "https://images.luxuryescapes.com/7i4qm7oribscerrpwtih",
+      "image_three": "https://images.luxuryescapes.com/eohzghf1bxfaqega0xd",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
     {
       "vendor_name": "voco Dusseldorf Seestern",
       "offer_country_name": "Germany",
@@ -42,8 +60,8 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 1,
+    "last_updated": "2026-01-17",
+    "hotel_count": 2,
     "average_price": 87,
     "average_discount": 0
   }

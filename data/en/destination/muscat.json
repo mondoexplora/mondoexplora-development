@@ -25,6 +25,24 @@
       "end_date_utc": "2026-12-31 01:59:00"
     },
     {
+      "vendor_name": "Crowne Plaza Muscat",
+      "offer_country_name": "Oman",
+      "location_heading": "Muscat",
+      "title": "Oman Beachfront Luxury with an Ocean-Facing Infinity Pool",
+      "description": "Let the beach magic of Oman sweep you off your feet at Crowne Plaza Muscat, an IHG Hotel, a slice of oceanfront bliss perched on the clifftop of Qurum Heights. Drink in the beauty of the surrounding landscape from the panoramic terraces, watch the sunset from the infinity swimming pool and laze on the private beach. Gourmands are spoilt for choice with an array of dining options from Persian to an international buffet and Italian cuisine, all set on the terrace overlooking the ocean.",
+      "location_subheading": "Oman",
+      "price": 173,
+      "original_price": 173,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJbUAAX",
+      "hero_image": "https://images.luxuryescapes.com/bwy07gvr4a63lc6cddd",
+      "image_two": "https://images.luxuryescapes.com/chzfyentfj6gw29o152",
+      "image_three": "https://images.luxuryescapes.com/z4sca3rlghy0pwu2ki2",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "InterContinental Muscat",
       "offer_country_name": "Oman",
       "location_heading": "Muscat",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 4,
-    "average_price": 223,
+    "last_updated": "2026-01-17",
+    "hotel_count": 5,
+    "average_price": 213,
     "average_discount": 0
   }
 }

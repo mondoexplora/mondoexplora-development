@@ -4,8 +4,26 @@
   "country_code": "JO",
   "hero_title": "Hotels in Amman",
   "description": "Discover the best hotels in Amman, Jordan. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/zk5imq3xfj7xc2lvbdu",
+  "hero_image": "https://images.luxuryescapes.com/g5b72ugr2vywu7wxc7g",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Amman",
+      "offer_country_name": "Jordan",
+      "location_heading": "Amman",
+      "title": "Sophisticated Jordan City Break in the Heart of Amman",
+      "description": "Among endless cream-coloured hills, mighty citadels and sprawling souqs, Crowne Plaza Amman, an IHG Hotel, offers top-notch Arabian hospitality in the heart of one of Jordan’s most intriguing cities. After day trips spent exploring the ancient pink columns of Petra, floating in the Red Sea, or experiencing true desert splendour in Wadi Rum, return and savour sundowners and resplendent sunsets at Black Iris Roof Top bar, or steaks and good scotch at V Lounge & Restaurant.",
+      "location_subheading": "Jordan",
+      "price": 99,
+      "original_price": 99,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJQuAAP",
+      "hero_image": "https://images.luxuryescapes.com/g5b72ugr2vywu7wxc7g",
+      "image_two": "https://images.luxuryescapes.com/u4t2dryshjiw7227v13",
+      "image_three": "https://images.luxuryescapes.com/18s6palgl9p6h39s0wf",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Fairmont Amman",
       "offer_country_name": "Jordan",
@@ -41,24 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Mövenpick Hotel Amman",
-      "offer_country_name": "Jordan",
-      "location_heading": "Amman",
-      "title": "Central Amman Mövenpick Luxury near Mecca Mall with Onsite Dining & Spa",
-      "description": "Experience the vibrant heart of Amman at this Mövenpick retreat, perfectly situated in the bustling business district. Enjoy warm Jordanian hospitality and relax with amenities such as a seasonal outdoor pool, fitness centre and tranquil spa. Find yourself within easy reach of popular landmarks like the Amman Citadel, Roman Theatre and Abdali Mall, perfect for days exploring the city’s rich history and contemporary culture. Look no further than the onsite dining venues for a culinary journey, featuring The Senate’s all-day dining and Rumors Lounge for a panoramic terrace and shisha menu.",
-      "location_subheading": "Jordan",
-      "price": 103,
-      "original_price": 103,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ib186YAB",
-      "hero_image": "https://images.luxuryescapes.com/psif2v1xmmyymaxgz63v",
-      "image_two": "https://images.luxuryescapes.com/s4hcjduxer7y285y2o4",
-      "image_three": "https://images.luxuryescapes.com/1vgmkmtgup4j5cwpi9bp",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -78,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
+    "last_updated": "2026-01-17",
     "hotel_count": 3,
-    "average_price": 149,
+    "average_price": 148,
     "average_discount": 0
   }
 }

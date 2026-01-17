@@ -113,6 +113,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 14:59:00"
+    },
+    {
+      "vendor_name": "The Hoxton, Lloyd Amsterdam",
+      "offer_country_name": "Netherlands",
+      "location_heading": "Amsterdam",
+      "title": "Amsterdam Heritage Luxury in Eastern Docklands with Daily Breakfast",
+      "description": "Explore the sprawling parks, waterfront cafes and boutique stores of Amsterdam's vibrant Eastern Docklands district with a stay at this stylish retreat. Originally commissioned by the Royal Holland Lloyd Shipping Company in 1921, this heritage landmark has been reimagined with a thoughtful, mid-century modern design that pays homage to its storied past. With complimentary bicycle hire included in your stay, you can explore the city the Dutch way: cycle to iconic attractions like the Rijksmuseum, Anne Frank House and NEMO Science Museum, all within a 20-minute ride. After a day of adventure, savour European classics with a South American twist at Breman Brasserie or linger over hand-crafted cocktails in the swanky Barbue.",
+      "location_subheading": "Netherlands",
+      "price": 589,
+      "original_price": 1016,
+      "discount_percentage": 42,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000P8RizYAF",
+      "hero_image": "https://images.luxuryescapes.com/ren7ntvyw9tz6b4ap7yl",
+      "image_two": "https://images.luxuryescapes.com/c3jykwi63b2qnwpqkh8j",
+      "image_three": "https://images.luxuryescapes.com/knh4hwh05hiullc4uygim",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-01-30 12:59:00"
     }
   ],
   "seo": {
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 6,
-    "average_price": 245,
-    "average_discount": 0
+    "last_updated": "2026-01-17",
+    "hotel_count": 7,
+    "average_price": 294,
+    "average_discount": 6
   }
 }

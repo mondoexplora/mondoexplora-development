@@ -13,8 +13,8 @@
       "title": "Vanuatu Lagoon Luxury with Pool Bar & Kids Club",
       "description": "Wistful dreams of turquoise lagoons and iced-white beaches come true at Holiday Inn Resort Vanuatu, a tropical island paradise. Ideal as a family destination or romantic escape, discover gems such as a kids' club, overwater villas, two swimming pools and a tranquil day spa. When it comes to dining, be wowed by lagoon panoramas and a mouthwatering menu (try the Vanuatu rock lobster) at Verandah, or simply savour a cocktail at the Pool Bar.",
       "location_subheading": "Vanuatu",
-      "price": 97,
-      "original_price": 97,
+      "price": 95,
+      "original_price": 95,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNkIcAAL",
       "hero_image": "https://images.luxuryescapes.com/p6989y2ckiw8ur3lnb",
@@ -43,14 +43,32 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Nakatumble Luxury Eco Resort",
+      "offer_country_name": "Vanuatu",
+      "location_heading": "Port Vila",
+      "title": "Vanuatu Oceanfront Eco Elegance with Daily All-Day Breakfast & Return Airport Transfers",
+      "description": "Discover a serene six-acre waterfront haven nestled within lush tropical gardens at this boutique retreat. Whether you choose to unwind poolside or savour sunset cocktails by the ocean, every moment at Nakatumble Luxury Eco Resort is designed for relaxation and connection. Indulge in rejuvenating massages in the comfort of your accommodation or take a refreshing dip in the natural rock pools - all within this sustainable sanctuary. Enjoy immersive farm-to-table dining curated by a dedicated chef, using the finest local ingredients. From freshly caught tuna and mahi mahi to homegrown salads and traditional delicacies like tuluk, each meal offers a personalised culinary journey. Beyond the resort, adventure awaits with vibrant local markets, crystal-clear snorkelling spots and trips to natural wonders like the Blue Lagoon.",
+      "location_subheading": "Vanuatu",
+      "price": 1119,
+      "original_price": 2035,
+      "discount_percentage": 45,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PcjsBYAR",
+      "hero_image": "https://images.luxuryescapes.com/pz9mbfhi9iiuqm3jy6j9",
+      "image_two": "https://images.luxuryescapes.com/y0145piv7m4i5qrkjc17",
+      "image_three": "https://images.luxuryescapes.com/g2lfbjz4zc7v6badynhz",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 5,
+      "end_date_utc": "2026-01-27 12:59:00"
+    },
+    {
       "vendor_name": "Ramada Resort Port Vila",
       "offer_country_name": "Vanuatu",
       "location_heading": "Port Vila",
       "title": "Vanuatu Beachfront Hideaway with Swim-Up Pool Bar",
       "description": "Nestled on golden shores, the Ramada Resort by Wyndham Port Vila offers azure views of the glistening Erakor Lagoon from each of its self-contained apartments. Appealing to both couples looking for a romantic getaway, and families searching for a sun-kissed holiday, resort activities include kayaking, stand-up paddle boarding, snorkelling, beach volley and more. After days of fun in the sun, enjoy a refreshing cocktail at the pool swim-up bar or grab a bite to eat at Akiriki Restaurant.",
       "location_subheading": "Vanuatu",
-      "price": 141,
-      "original_price": 141,
+      "price": 142,
+      "original_price": 142,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GQKHjAAP",
       "hero_image": "https://images.luxuryescapes.com/uuhzpg8dwijua6y2bu4",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 3,
-    "average_price": 128,
-    "average_discount": 0
+    "last_updated": "2026-01-17",
+    "hotel_count": 4,
+    "average_price": 375,
+    "average_discount": 11
   }
 }

@@ -4,8 +4,44 @@
   "country_code": "US",
   "hero_title": "Hotels in Atlanta",
   "description": "Discover the best hotels in Atlanta, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ib317gcnnjvt3ajupb",
+  "hero_image": "https://images.luxuryescapes.com/wd3ps0yngj92g0amj6gu",
   "hotels": [
+    {
+      "vendor_name": "Kimpton Overland Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Atlanta",
+      "title": "Glamorous Atlanta Airport Escape with Rooftop Lounge Overlooking Runway",
+      "description": "Get up close to all the action of Atlanta Airport's runway or a Porsche handling course with a stay at the sophisticated Kimpton Overland Atlanta Airport, an IHG Hotel. Soundproofed windows in the sophisticated motorsports-inspired rooms and suites ensure a comfortable atmosphere, while panoramic views await from The Rooftop at Overland. Fancy a bite? Discover Southern-inspired dishes at APRON restaurant.",
+      "location_subheading": "United States",
+      "price": 148,
+      "original_price": 148,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKFZAA3",
+      "hero_image": "https://images.luxuryescapes.com/wd3ps0yngj92g0amj6gu",
+      "image_two": "https://images.luxuryescapes.com/9obga78tla91023dhh98",
+      "image_three": "https://images.luxuryescapes.com/9ffodc4lhmn9688vb57",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Kimpton Shane",
+      "offer_country_name": "United States",
+      "location_heading": "Atlanta",
+      "title": "Boutique Atlanta Escape in Vibrant Arts District with Onsite Cocktail Bars and Restaurant",
+      "description": "Kimpton Shane Hotel, an IHG Hotel offers a unique and stylish experience in the heart of Atlanta's arts district. With easy access to popular attractions like the High Museum of Art, MODA and The Breman Museum, the hotel is perfectly suited to those looking for a culturally-inspired stay. After a busy day exploring Atlanta, return to the hotel for a botanically infused cocktail at onsite bar Aveline or indulge in contemporary fare at the hotel's Hartley Kitchen and Cocktails.",
+      "location_subheading": "United States",
+      "price": 183,
+      "original_price": 183,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKFYAA3",
+      "hero_image": "https://images.luxuryescapes.com/ydj0qcgtaecdj1x4vfvwd",
+      "image_two": "https://images.luxuryescapes.com/5oxbdg7f6f8g4cpwnc4",
+      "image_three": "https://images.luxuryescapes.com/nnlqlaylv55vqo6afn9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Kimpton Sylvan Hotel",
       "offer_country_name": "United States",
@@ -13,8 +49,8 @@
       "title": "Elegant Mid-Century Retreat Overlooking Atlanta's Skyline with Rooftop Bar",
       "description": "Mid-century modern meets classic southern hospitality at Atlanta’s boutique-style Kimpton Sylvan Hotel, an IHG Hotel. Boasting a fantastic pool and outdoor area, this hotel cannot be missed, with a vibrant rooftop bar serving fresh cocktails with the twinkling city skyline serving as the backdrop. Experience Atlanta’s mouth-watering cuisine at The Betty restaurant, showcasing a traditional supper club and serving a contemporary spin on traditional comfort foods.",
       "location_subheading": "United States",
-      "price": 153,
-      "original_price": 153,
+      "price": 154,
+      "original_price": 154,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKFXAA3",
       "hero_image": "https://images.luxuryescapes.com/ib317gcnnjvt3ajupb",
@@ -78,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 3,
-    "average_price": 223,
+    "last_updated": "2026-01-17",
+    "hotel_count": 5,
+    "average_price": 200,
     "average_discount": 0
   }
 }

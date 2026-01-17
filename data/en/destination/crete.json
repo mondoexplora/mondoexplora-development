@@ -13,8 +13,8 @@
       "title": "Greek Island Beachfront Opulence with Nine Dining Venues & Olympic-Sized Pool",
       "description": "Dive into seaside sophistication at this meticulously designed resort, complete with an Olympic-sized lagoon pool, the famed Minotaur restaurant showcasing original Picasso art, and the rejuvenating Elixir Alchemy Spa. Days are full of outdoor recreation, while evenings delight with live music and magnificent sunsets on the resort's private beach. Marvel at the classic Grecian architecture surrounding the resort or take in the historic white-washed churches in the nearby village of Gouves. Explore the vibrant waterfront restaurants and shops or take a trip further afield to ancient ruins and archaeological museums, ideal for learning about the rich history of this Mediterranean paradise.",
       "location_subheading": "Greece",
-      "price": 238,
-      "original_price": 238,
+      "price": 264,
+      "original_price": 264,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HufUIAS",
       "hero_image": "https://images.luxuryescapes.com/gqg07xxgnt8ol0n5wfw",
@@ -61,6 +61,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "InterContinental Crete",
+      "offer_country_name": "Greece",
+      "location_heading": "Crete",
+      "title": "Eastern Crete Coastal Retreat near Mirabello Bay with Tranquil Infinity Pools",
+      "description": "Experience the epitome of Crete luxury with a stay at this beachfront oasis overlooking Mirabello Bay. Explore the charming coastal town of Agios Nikolaos, or venture further afield to Archanes, renowned for its vineyards and olive groves. Return to your tranquil base and take a dip in two glittering infinity pools which appear to merge harmoniously with the bay beyond, or simply savour a refreshing beverage at the hotel's onsite bars.",
+      "location_subheading": "Greece",
+      "price": 169,
+      "original_price": 169,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ie57MAAR",
+      "hero_image": "https://images.luxuryescapes.com/v3b2fyr61qf4gqtjhf6",
+      "image_two": "https://images.luxuryescapes.com/d3h159i6qbdbj48xkiql",
+      "image_three": "https://images.luxuryescapes.com/8kwqczmohf6jshirytch",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Minos Beach Art Hotel",
       "offer_country_name": "Greece",
       "location_heading": "Crete",
@@ -77,6 +95,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Royal Senses Resort & Spa, Curio Collection by Hilton",
+      "offer_country_name": "Greece",
+      "location_heading": "Crete",
+      "title": "Crete Luxury Oasis with Daily Breakfast, Nightly Dinner & One Child Stays Free",
+      "description": "Find Greek island paradise at this contemporary oasis perched along Crete's sparkling northern coast. With a stunning modern design, seven bars and restaurants and six pools, this heavenly resort encourages guests to reconnect and rejuvenate while surrounded by the natural splendour of Crete's remarkable landscape. Reinvigorate your body and mind at Pure Senses Spa or find a new type of bliss at one of the dreamy pools. Relax under the setting sun with a cocktail in hand at Euphoria Pool Bar while the kids are entertained at the Splash Aqua Park or kids' club. When hunger strikes, sample traditional Greek dishes at Mitato, hearty gyros at Platia or seasonal ingredients at Gea.",
+      "location_subheading": "Greece",
+      "price": 589,
+      "original_price": 1155,
+      "discount_percentage": 49,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000OhxbhYAB",
+      "hero_image": "https://images.luxuryescapes.com/0d44slkt1qqnxwxf1pp",
+      "image_two": "https://images.luxuryescapes.com/hsq65gjs3qzx33qi34a",
+      "image_three": "https://images.luxuryescapes.com/92g98bybx52kql9u14sw",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-02-05 12:59:00"
     }
   ],
   "seo": {
@@ -96,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 4,
-    "average_price": 510,
-    "average_discount": 19
+    "last_updated": "2026-01-17",
+    "hotel_count": 6,
+    "average_price": 471,
+    "average_discount": 21
   }
 }

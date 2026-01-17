@@ -1,0 +1,50 @@
+{
+  "city": "Almaty",
+  "country": "Kazakhstan",
+  "country_code": "KZ",
+  "hero_title": "Hotels in Almaty",
+  "description": "Discover the best hotels in Almaty, Kazakhstan. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/fsd8de4m6lsz4ylznz6",
+  "hotels": [
+    {
+      "vendor_name": "Rixos Almaty",
+      "offer_country_name": "Kazakhstan",
+      "location_heading": "Almaty",
+      "title": "Kazakhstan Almaty Mountain-View Opulence with Onsite Dining, Pool & Spa",
+      "description": "Step into refined grandeur in the heart of Almaty, where palatial interiors meet the leafy boulevards of Dostyk Avenue. Just moments away, museums, cafes, theatres and restaurants await. Discover the vibrant Green Bazaar, the colourful Zenkov Cathedral in Panfilov Park and the city’s thriving arts scene at the Kasteev State Museum of Arts. Within the hotel, savour Turkish-inspired plates at the elegant Brasserie restaurant or sip afternoon tea beneath soaring marble columns. Rixos Spa offers a tranquil pool, hammam and treatment rooms, while the state-of-the-art fitness centre overlooks the city skyline.",
+      "location_subheading": "Kazakhstan",
+      "price": 345,
+      "original_price": 345,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JjtiKYAR",
+      "hero_image": "https://images.luxuryescapes.com/fsd8de4m6lsz4ylznz6",
+      "image_two": "https://images.luxuryescapes.com/acmcxq286bza581c199",
+      "image_three": "https://images.luxuryescapes.com/nuprxu1eg47a03stmqo",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Almaty - Kazakhstan Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Almaty, Kazakhstan with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "almaty hotels",
+      "almaty travel",
+      "kazakhstan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/almaty",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/almaty",
+      "es": "https://mondoexplora.com/es/destination/almaty",
+      "fr": "https://mondoexplora.com/fr/destination/almaty",
+      "it": "https://mondoexplora.com/it/destination/almaty"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-01-17",
+    "hotel_count": 1,
+    "average_price": 345,
+    "average_discount": 0
+  }
+}

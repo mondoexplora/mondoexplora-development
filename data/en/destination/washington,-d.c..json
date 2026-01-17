@@ -4,8 +4,26 @@
   "country_code": "US",
   "hero_title": "Hotels in Washington, D.C.",
   "description": "Discover the best hotels in Washington, D.C., United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/q0voq11dk975w5so5tyk",
+  "hero_image": "https://images.luxuryescapes.com/1gp1i62stamxhih37hwa",
   "hotels": [
+    {
+      "vendor_name": "Eaton DC",
+      "offer_country_name": "United States",
+      "location_heading": "Washington, D.C.",
+      "title": "Trendy Downtown Washington DC Escape with Rooftop Bar & Live Music Venue",
+      "description": "Stay at the trendy Eaton DC, a boutique hotel located in vibrant downtown Washington DC. The hotel's culinary offerings are a delight: Michele's restaurant serves up French-American cuisine, while Wild Days rooftop bar and lounge is the place to be for tacos, s'mores and cocktails enjoyed against the atmosphere of live music. For relaxation, retreat to the expansive wellness centre with yoga and meditation on offer, as well as a variety of classes and workshops.",
+      "location_subheading": "United States",
+      "price": 160,
+      "original_price": 160,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GxPwpAAF",
+      "hero_image": "https://images.luxuryescapes.com/1gp1i62stamxhih37hwa",
+      "image_two": "https://images.luxuryescapes.com/bil4rzs0qvn35nt5r3fki",
+      "image_three": "https://images.luxuryescapes.com/6jyr1528df6vagnhpu9s",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Intercontinental The Willard Washington DC",
       "offer_country_name": "United States",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 5,
-    "average_price": 256,
+    "last_updated": "2026-01-17",
+    "hotel_count": 6,
+    "average_price": 240,
     "average_discount": 0
   }
 }

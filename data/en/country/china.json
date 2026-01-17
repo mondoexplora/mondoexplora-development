@@ -10,27 +10,27 @@
       "slug": "beijing",
       "image": "https://images.luxuryescapes.com/u4u6t9wp1ljq5tvrjhaeol",
       "description": "Explore Beijing with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 394
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 549
     },
     {
       "name": "Shenzhen",
       "slug": "shenzhen",
-      "image": "https://images.luxuryescapes.com/n6gxq99y6bbpflckidajw",
+      "image": "https://images.luxuryescapes.com/i4c8do1lhnkbgluybu8l",
       "description": "Explore Shenzhen with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 81
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 379
     },
     {
       "name": "Shanghai",
       "slug": "shanghai",
       "image": "https://images.luxuryescapes.com/5sdfpamggjodhkd8kxy",
       "description": "Explore Shanghai with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 86
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 88
     },
     {
       "name": "Guiyang",
@@ -42,15 +42,6 @@
       "avg_price": 74
     },
     {
-      "name": "Linyi",
-      "slug": "linyi",
-      "image": "https://images.luxuryescapes.com/mkg6de4c7g2k5xqloul8",
-      "description": "Explore Linyi with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 55
-    },
-    {
       "name": "Chengdu",
       "slug": "chengdu",
       "image": "https://images.luxuryescapes.com/q6tliml7ss08i9s4afj8",
@@ -58,6 +49,15 @@
       "hotel_count": 2,
       "hotel_deals": 2,
       "avg_price": 54
+    },
+    {
+      "name": "Chongqing",
+      "slug": "chongqing",
+      "image": "https://images.luxuryescapes.com/rwzjhc004npbz1flhhdba",
+      "description": "Explore Chongqing with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 59
     }
   ],
   "seo": {

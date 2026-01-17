@@ -43,6 +43,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Hotel Indigo Berlin - East Side Gallery",
+      "offer_country_name": "Germany",
+      "location_heading": "Berlin",
+      "title": "Trendy Berlin Escape by East Side Gallery with Rooftop Bar",
+      "description": "Discover the grit and glamour of Germany’s capital city with a luxurious stay at Hotel Indigo Berlin - East Side Gallery, an IHG Hotel. Whether you're here to discover the city's vibrant arts scene, sample its unique party culture or immerse yourself in the history imprinted on its streets, this centrally located retreat makes the perfect base. Fuel up for a night out with a meal at the Gallery Restaurant, or relax with a sundowner paired with city views at the Gallery Rooftop Bar after a long day of exploring.",
+      "location_subheading": "Germany",
+      "price": 112,
+      "original_price": 112,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CugCYAAZ",
+      "hero_image": "https://images.luxuryescapes.com/0oy6xqew8xpwpq8fijn",
+      "image_two": "https://images.luxuryescapes.com/0avnbj0rhh0c1a8gv6r",
+      "image_three": "https://images.luxuryescapes.com/5ibvrgki17dgz7tpp1",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Hotel Indigo Berlin - Ku'damm",
       "offer_country_name": "Germany",
       "location_heading": "Berlin",
@@ -59,6 +77,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 01:59:00"
+    },
+    {
+      "vendor_name": "Intercontinental Berlin",
+      "offer_country_name": "Germany",
+      "location_heading": "Berlin",
+      "title": "Berlin Ultra-Cool Escape with Michelin-Starred Restaurant",
+      "description": "The buzzing metropolis of Berlin is yours to discover from the stylish and upscale InterContinental Berlin, an IHG Hotel. With an ideal location next to the leafy green expanse of the Tiergarten, you can enjoy a garden reprieve from the bustle of the city. When you're not out there exploring, make use of the indoor heated swimming pool, sip handcrafted cocktails at Marlene Bar and be wined and dined at Hugo's Restaurant, a Michelin-starred kitchen.",
+      "location_subheading": "Germany",
+      "price": 113,
+      "original_price": 113,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt5zAAB",
+      "hero_image": "https://images.luxuryescapes.com/j3drnzg1oski7uc2s6xl",
+      "image_two": "https://images.luxuryescapes.com/3qs1wk726g1ev88zji3o",
+      "image_three": "https://images.luxuryescapes.com/ex6r4xn224x2ivomdk9j",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -78,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 3,
-    "average_price": 172,
+    "last_updated": "2026-01-17",
+    "hotel_count": 5,
+    "average_price": 148,
     "average_discount": 0
   }
 }

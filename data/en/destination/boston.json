@@ -4,8 +4,26 @@
   "country_code": "US",
   "hero_title": "Hotels in Boston",
   "description": "Discover the best hotels in Boston, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/yssevpgicab6ix2uoznq",
+  "hero_image": "https://images.luxuryescapes.com/o9duheng8dwwufubw4u3",
   "hotels": [
+    {
+      "vendor_name": "Fairmont Copley Plaza, Boston",
+      "offer_country_name": "United States",
+      "location_heading": "Boston",
+      "title": "Heritage Boston Landmark Stay neat Fenway Park with Popular Restaurant & Rooftop Health Club",
+      "description": "Experience Boston's rich history and vibrant culture with a stay at the Fairmont Copley Plaza, majestically located in the heart of the city's historic Back Bay. Just steps away, you'll find the renowned shops of Newbury Street, the charming Boston Public Library, and the bustling Copley Square Farmers Market. When you're not exploring the city, dine at OAK Long Bar + Kitchen, the hotel's farm-to-table American brasserie, or enjoy a drink in the stylish lounge. Fitness enthusiasts can keep up their routine at the hotel's state-of-the-art rooftop health club, overlooking the surrounding neighbourhood.",
+      "location_subheading": "United States",
+      "price": 257,
+      "original_price": 257,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GRpDKYA1",
+      "hero_image": "https://images.luxuryescapes.com/o9duheng8dwwufubw4u3",
+      "image_two": "https://images.luxuryescapes.com/k0uar7hbu6krsm5w69sl",
+      "image_three": "https://images.luxuryescapes.com/zend61mpallo9a2ydy46",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Hotel Commonwealth",
       "offer_country_name": "United States",
@@ -13,8 +31,8 @@
       "title": "Bold Boston Escape Next to Fenway Park with Three Restaurants",
       "description": "Experience the epitome of luxury at the stylish Hotel Commonwealth, nestled in the heart of Boston's vibrant Kenmore Square. This warm and welcoming stay is your gateway to Fenway Park, the world-renowned Boston University and the city's eclectic dining scene. Unwind in sumptuously appointed rooms, savour fresh seafood delights at the Pescador Coastal Grill and delicate Japanese bites at Blue Ribbon Sushi and unwind while pumping some iron in the hotel's fully-equipped gym.",
       "location_subheading": "United States",
-      "price": 99,
-      "original_price": 99,
+      "price": 159,
+      "original_price": 159,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FMPLDAA5",
       "hero_image": "https://images.luxuryescapes.com/yssevpgicab6ix2uoznq",
@@ -31,8 +49,8 @@
       "title": "Modern Waterfront Escape on Boston Harbour with Three Onsite Restaurants & Bars",
       "description": "Experience Boston's historic charm with a stay at InterContinental Boston, an IHG Hotel. Perfectly positioned on the city's waterfront, this modern glass tower offers breathtaking views of Boston Harbour. Venture out to explore the nearby Freedom Trail, a 2.5-mile long path through the city that passes 16 locations significant to the history of the United States. After a day of sightseeing, dine at Miel Brasserie for French cuisine with an American flair or grab an outdoor cocktail and light bites while taking in city views at 510 on the Waterfront.",
       "location_subheading": "United States",
-      "price": 262,
-      "original_price": 262,
+      "price": 281,
+      "original_price": 281,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt7XAAR",
       "hero_image": "https://images.luxuryescapes.com/yna3a42k222w3y1a2dcn",
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 6,
-    "average_price": 272,
+    "last_updated": "2026-01-17",
+    "hotel_count": 7,
+    "average_price": 281,
     "average_discount": 0
   }
 }

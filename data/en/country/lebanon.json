@@ -3,16 +3,25 @@
   "code": "LB",
   "hero_title": "Lebanon Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Lebanon.",
-  "hero_image": "https://images.luxuryescapes.com/cba9bfndrhnwgfzklvmk",
+  "hero_image": "https://images.luxuryescapes.com/vw8afsl3zvh4vquecy",
   "popular_destinations": [
     {
       "name": "Beirut",
       "slug": "beirut",
-      "image": "https://images.luxuryescapes.com/cba9bfndrhnwgfzklvmk",
+      "image": "https://images.luxuryescapes.com/vw8afsl3zvh4vquecy",
       "description": "Explore Beirut with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 181
+    },
+    {
+      "name": "Mzaar",
+      "slug": "mzaar",
+      "image": "https://images.luxuryescapes.com/ku00xvdgdfhdur2s5oy",
+      "description": "Explore Mzaar with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 228
+      "avg_price": 164
     }
   ],
   "seo": {

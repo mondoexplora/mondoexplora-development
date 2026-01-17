@@ -25,24 +25,6 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "Club Prive By Rixos Saadiyat",
-      "offer_country_name": "United Arab Emirates",
-      "location_heading": "Abu Dhabi",
-      "title": "Exclusive Abu Dhabi Luxury Villas on Private Beachfront with Seven Restaurants & Hammam-Inspired Spa",
-      "description": "Enjoy the best of both worlds at these palatial villas, which offer secluded five-star comfort within the all-inclusive amenities of Rixos Premium Saadiyat Island. Discover opulent Abu Dhabi from these outstanding hideaways, located along the sands of a private beach, but within easy distance of landmarks like the grand Louvre Abu Dhabi. Savour the exquisite flavours of the Middle East and beyond across seven international restaurants, or enjoy a refreshing drink at Ame Beach Bar, perched on the sands of the resort's private beach. Balance the mind and body at Anjana Spa, inspired by the hammams of Turkey and Morocco, or simply spend time by the stunning infinity pool - either way, relaxation is guaranteed.",
-      "location_subheading": "United Arab Emirates",
-      "price": 4664,
-      "original_price": 4664,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnJdjYAF",
-      "hero_image": "https://images.luxuryescapes.com/4zoo8zwdzjnsm4hmlfv9",
-      "image_two": "https://images.luxuryescapes.com/7aejkiyxpq90kwig2ws1",
-      "image_three": "https://images.luxuryescapes.com/lmnwstg2tqcfag2qa30x",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Desert Islands Resort & Spa by Anantara",
       "offer_country_name": "United Arab Emirates",
       "location_heading": "Abu Dhabi",
@@ -77,24 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Fairmont Bab Al Bahr",
-      "offer_country_name": "United Arab Emirates",
-      "location_heading": "Abu Dhabi",
-      "title": "Five-Star Fairmont Abu Dhabi Escape with Private Beach & Grand Mosque Views",
-      "description": "Experience the grandeur of the Middle East with a stay at this opulent urban oasis, set on Abu Dhabi Creek and overlooking the white-marble minarets of the iconic Sheikh Zayed Grand Mosque. Spend your days lazing on the private beach, or indulge at the hotel's eight dining venues, including the renowned Marco Pierre White Steakhouse & Grill. Explore the city's range of experiences, from the traditional souks to the modern Yas Island, home to the Formula 1 circuit and the thrilling Ferrari World. Back at the hotel, plunge into one of the two temperature-controlled swimming pools or rejuvenate at the wellness centre, offering a range of relaxing treatments.",
-      "location_subheading": "United Arab Emirates",
-      "price": 156,
-      "original_price": 156,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ElktlYAB",
-      "hero_image": "https://images.luxuryescapes.com/zkex95fwpr1qjdejxqa",
-      "image_two": "https://images.luxuryescapes.com/gixm8yqnelyrd4wb7mja",
-      "image_three": "https://images.luxuryescapes.com/iabsh8cm4hrvmtnktrc",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Holiday Inn Abu Dhabi",
@@ -133,14 +97,32 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "InterContinental Residences Abu Dhabi",
+      "offer_country_name": "United Arab Emirates",
+      "location_heading": "Abu Dhabi",
+      "title": "Pristine Serviced Abu Dhabi Apartments with Beach Access, Onsite Dining and Outdoor Pool",
+      "description": "Soak up sleek city vibes and superior service at InterContinental Residences Abu Dhabi, an IHG Hotel, a high-rise collection of residences in the heart of the city. The building boasts two urban contemporary lounges and restaurants offering bites and drinks, a state-of-the-art fitness centre and lush outdoor pool. And with direct beach access and sun loungers looking onto the InterContinental Abu Dhabi Marina, guests' can prioritize their relaxation and well-being throughout their stay.",
+      "location_subheading": "United Arab Emirates",
+      "price": 217,
+      "original_price": 217,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNPUWAA5",
+      "hero_image": "https://images.luxuryescapes.com/55nk17s9b79a63mk2u5",
+      "image_two": "https://images.luxuryescapes.com/346l4xv8taawguv68lw",
+      "image_three": "https://images.luxuryescapes.com/v63ddktfso1nue70gyza",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Jumeirah Saadiyat Island Abu Dhabi",
       "offer_country_name": "United Arab Emirates",
       "location_heading": "Abu Dhabi",
       "title": "Abu Dhabi Five-Star Jumeirah Resort on Saadiyat Island",
       "description": "Discover the cosmopolitan cultural heart of the United Arab Emirates in five-star luxury at the beautiful beachfront Jumeirah Saadiyat Island Abu Dhabi. Saadiyat Island is home to breathtaking beaches, with this spectacular oasis perfectly situated to offer panoramic views of the Persian Gulf, inviting you to relax into island life. Spend your days exploring the nearby cultural hub and soaking in the dramatic and opulent architecture, then return to the hotel to escape the heat with a dip in the pool and dinner in your choice of onsite restaurants.",
       "location_subheading": "United Arab Emirates",
-      "price": 215,
-      "original_price": 215,
+      "price": 213,
+      "original_price": 213,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000C2GwOAAV",
       "hero_image": "https://images.luxuryescapes.com/di3n7z1ou2uhgwugxurg",
@@ -157,8 +139,8 @@
       "title": "Contemporary Abu Dhabi Escape with Rooftop Bar, Pool & Spa",
       "description": "Embrace the charms of UAE's capital with a stay at this elegant Novotel sanctuary, perfectly situated in an exclusive neighbourhood, moments from the National Exhibition Centre. Take a refreshing dip in the rooftop pool, sip on cocktails with a view or pamper yourself with treatments at the spa. When hunger strikes, tuck into Mediterranean delicacies at Nea and savour baked delights from Mellow Italian Cafe and Bakery. The majestic Sheikh Zayed Grand Mosque, Yas Island and the Marina Malls are all within easy reach - making this an ideal base for all your Abu Dhabi adventures.",
       "location_subheading": "United Arab Emirates",
-      "price": 65,
-      "original_price": 65,
+      "price": 55,
+      "original_price": 55,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP6jYAF",
       "hero_image": "https://images.luxuryescapes.com/dia18x6c5fs93o90v9l",
@@ -185,6 +167,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Rixos Premium Saadiyat Island",
+      "offer_country_name": "United Arab Emirates",
+      "location_heading": "Abu Dhabi",
+      "title": "Exclusive Saadiyat Island Escape along the Arabian Gulf with Water Sports, Turkish Hammam & Kids' Aqua Park",
+      "description": "Experience unparalleled Arabian luxury at this Accor wonder, located on the stunning white sands of Abu Dhabi's Saadiyat Island. This opulent beachfront oasis offers a wealth of indulgent amenities, including a world-class spa, multiple gourmet dining options, two pools and a range of facilities for the little ones. Unwind in style with a lavish Turkish Bath treatment while the kids have their fun at the onsite aqua park before hitting the beach as a family. A host of experiences at the resort promises a memorable Arabian escape for all. For the explorers, the nearby Louvre Abu Dhabi or the stunning Sheikh Zayed Grand Mosque, both easily accessible from the resort, are ready to captivate mind, body and soul. Yas Island's thrilling and unique theme parks are also just a short drive away.",
+      "location_subheading": "United Arab Emirates",
+      "price": 854,
+      "original_price": 854,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlwHIAS",
+      "hero_image": "https://images.luxuryescapes.com/z07ulemgtgh788b32sg",
+      "image_two": "https://images.luxuryescapes.com/hro1zw2y871h49nc183i",
+      "image_three": "https://images.luxuryescapes.com/ljamall7mb3aryt4ja7q",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Shangri-La Hotel, Qaryat al Beri Abu Dhabi",
@@ -240,9 +240,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
+    "last_updated": "2026-01-17",
     "hotel_count": 12,
-    "average_price": 572,
+    "average_price": 258,
     "average_discount": 0
   }
 }

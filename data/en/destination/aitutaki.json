@@ -13,32 +13,14 @@
       "title": "Adults-Only Cook Islands Private Paradise with Pools & Spa",
       "description": "Paradise awaits in the heart of the South Pacific with an adults-only escape to Aitutaki Lagoon Private Island Resort, a true gem of the Cook Islands. Wake each morning to panoramic views over one of the world’s most stunning lagoons, and immerse yourself in the striking beauty of this private island. Surrounded by impossibly turquoise waters, spend days unwinding on powdery white sands, snorkelling through vibrant coral gardens, or swaying in a hammock under swaying palms - all the while feeling completely cut off from the outside world. Dive deep into island charm with Polynesian-inspired beachfront bungalows, a tranquil spa and fresh local flavours. Daily complimentary activities include snorkeling and snorkeling lessons, fish feeding, island drumming and dancing, ukulele sessions, pareu (sarong) tying, palm-frond weaving, lei making, coconut husking shows, crab hunting and racing, guided island walks and more. Keep busy with complimentary use of water sports equipment including stand-up paddleboards, kayaks, a Polynesian outrigger canoe, snorkelling gear, beach towels, sunloungers and hammocks. This is paradise, exactly as you imagined it.",
       "location_subheading": "Cook Islands",
-      "price": 564,
-      "original_price": 705,
+      "price": 565,
+      "original_price": 706,
       "discount_percentage": 20,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003Gt5bAAC",
       "hero_image": "https://images.luxuryescapes.com/myanfth49penlsda7a1",
       "image_two": "https://images.luxuryescapes.com/pubmc8nn28e0spiba0dj",
       "image_three": "https://images.luxuryescapes.com/6nm35xw9tkob4nyvuu8",
       "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Pacific Resort Aitutaki",
-      "offer_country_name": "Cook Islands",
-      "location_heading": "Aitutaki",
-      "title": "Five-Star Cook Islands Aitutaki Escape with Daily Breakfast & Roundtrip Airport Transfers",
-      "description": "Beautifully remote, this luxurious escape in the heart of the South Pacific is just as nature intended. A vision of pristine isolation, the shimmering blue-green lagoon, nodding palm trees and crystal-clear skies at the five-star Pacific Resort Aitutaki will take your breath away. This is a true taste of heaven where just 29 intimate thatched beachfront bungalows deliver unparalleled seclusion and award-winning serenity in the iconic Cook Islands. A short flight from Rarotonga, one of only two Cook Islands resorts included in the prestigious Small Luxury Hotels of the World collection and named among the top 25 small hotels in the South Pacific at the Tripadvisor Travellers' Choice, Best of the Best 2023 awards, this far-flung island resort is your piece of paradise to enjoy at your own pace. Whether that's taking a refreshing dip in the palm-fringed infinity pool, kayaking the length of the island, being pampered at the award-winning spa or finding your spot among the palms and volcanic rocks scattered on Aitutaki's secluded beachfront.",
-      "location_subheading": "Cook Islands",
-      "price": 739,
-      "original_price": 739,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004hHEqAAM",
-      "hero_image": "https://images.luxuryescapes.com/4bxvb7o9gbs1wk3cr68",
-      "image_two": "https://images.luxuryescapes.com/cq1xcusgciapskorlwff",
-      "image_three": "https://images.luxuryescapes.com/aba14oo7073yaa6hwyzd",
-      "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     },
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 5,
       "end_date_utc": "2026-01-23 12:59:00"
+    },
+    {
+      "vendor_name": "Pacific Resort Aitutaki",
+      "offer_country_name": "Cook Islands",
+      "location_heading": "Aitutaki",
+      "title": "Five-Star Cook Islands Aitutaki Escape with Daily Breakfast & Roundtrip Airport Transfers",
+      "description": "Beautifully remote, this luxurious escape in the heart of the South Pacific is just as nature intended. A vision of pristine isolation, the shimmering blue-green lagoon, nodding palm trees and crystal-clear skies at the five-star Pacific Resort Aitutaki will take your breath away. This is a true taste of heaven where just 29 intimate thatched beachfront bungalows deliver unparalleled seclusion and award-winning serenity in the iconic Cook Islands. A short flight from Rarotonga, one of only two Cook Islands resorts included in the prestigious Small Luxury Hotels of the World collection and named among the top 25 small hotels in the South Pacific at the Tripadvisor Travellers' Choice, Best of the Best 2023 awards, this far-flung island resort is your piece of paradise to enjoy at your own pace. Whether that's taking a refreshing dip in the palm-fringed infinity pool, kayaking the length of the island, being pampered at the award-winning spa or finding your spot among the palms and volcanic rocks scattered on Aitutaki's secluded beachfront.",
+      "location_subheading": "Cook Islands",
+      "price": 739,
+      "original_price": 739,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004hHEqAAM",
+      "hero_image": "https://images.luxuryescapes.com/4bxvb7o9gbs1wk3cr68",
+      "image_two": "https://images.luxuryescapes.com/cq1xcusgciapskorlwff",
+      "image_three": "https://images.luxuryescapes.com/aba14oo7073yaa6hwyzd",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Resort Tava'e",
@@ -114,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
+    "last_updated": "2026-01-17",
     "hotel_count": 5,
-    "average_price": 838,
+    "average_price": 839,
     "average_discount": 16
   }
 }

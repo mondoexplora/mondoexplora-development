@@ -31,9 +31,9 @@
       "title": "Five-Star Sanur Beachfront Eco Oasis",
       "description": "Tap into eco-luxury along the glistening shores of Sanur's pristine beachfront at Maya Sanur Resort & Spa, a zen-inducing, five-star oasis where you can watch the sunrise over the ocean every morning. Then, watch it melt into the horizon every evening from the beachfront bar. This award-winning resort - winner of the 2020 Tripadvisor Travellers' Choice Award - is an architectural marvel with a wide choice of accommodation to suit guests’ preferences, from the nature-inspired rooms to private suites and pool retreats. Within five minutes’ walk, there is a myriad of world-class restaurants, while the swish onsite facilities offer everything you’d expect from a high-end beach resort. The award-winning spa promises holistic healing while the sunbeds surrounding the 158m lagoon pool - one of three resort pools - are the perfect place to while the day away. The resort is distinguished by its eco-green rooftop, a tranquil spot where guests can feel at one with nature. Enjoy complimentary access to the kids' club for your little ones and, in the fading hours of daylight, indulge at one of the four onsite dining venues.",
       "location_subheading": "Indonesia",
-      "price": 122,
-      "original_price": 172,
-      "discount_percentage": 29,
+      "price": 129,
+      "original_price": 179,
+      "discount_percentage": 28,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GPkWAAW",
       "hero_image": "https://images.luxuryescapes.com/rw77c8x2ypua9v54ag89",
       "image_two": "https://images.luxuryescapes.com/o263e7pb2uk2uixyfi7",
@@ -49,8 +49,8 @@
       "title": "Idyllic Sanur Private Pool Villas with Daily Breakfast & Beach Club Entry",
       "description": "Bali’s sandy beaches and aquamarine oceans are calling - why not answer with a stay at these idyllic villas set in sought-after Sanur? This secluded slice of heaven guarantees romance and tranquillity, with each spacious villa boasting its own sparkling pool and gorgeous tropical greenery. Start with a sumptuous breakfast before heading out to explore laidback Sanur, turning things up with free entry to Tropical Temptations Beach Club in Uluwatu or lounging poolside, at home in your private oasis.",
       "location_subheading": "Indonesia",
-      "price": 138,
-      "original_price": 159,
+      "price": 125,
+      "original_price": 144,
       "discount_percentage": 13,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQQ15AAH",
       "hero_image": "https://images.luxuryescapes.com/mmcop4alfak7y3wzbs5r",
@@ -77,6 +77,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Seascape Resort Sanur",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Sanur",
+      "title": "Indulgent Bali Suites & Villas with Daily Breakfast, Dinner & Free-Flow Cocktail Hour",
+      "description": "Spend a romantic sojourn at this eco-conscious resort, nestled in an intimate spot near Sanur Harbour. Feel the outside world melt away within the terracotta-toned walls of your expansive suite or villa, each complete with earthy designer interiors and luxurious amenities. Stepping out of your intimate hideaway, you’ll find a wealth of facilities - dine at the sophisticated Tsune Restaurant and sip an aromatic cocktail on the alfresco terrace, be lulled into a state of zen at the spa or sit poolside under the shade of a cabana. Your location near the banks of Sanur puts you within minutes of renowned beaches and the harbour port, as well as the bustling Sindhu Night Market and the breathtaking Pura Blanjong temple. Enjoy the convenience of the daily shuttle service and visit Karang Beach and central Sanur.",
+      "location_subheading": "Indonesia",
+      "price": 559,
+      "original_price": 1363,
+      "discount_percentage": 59,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Lvy9rYAB",
+      "hero_image": "https://images.luxuryescapes.com/pdxmgzun1keg81hyaimn",
+      "image_two": "https://images.luxuryescapes.com/ib0dc1watfr1j7qdi3p",
+      "image_three": "https://images.luxuryescapes.com/sswivum1etlb2lxu9keg",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-01-31 12:59:00"
     },
     {
       "vendor_name": "The Pavilions Bali",
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 6,
-    "average_price": 124,
-    "average_discount": 11
+    "last_updated": "2026-01-17",
+    "hotel_count": 7,
+    "average_price": 185,
+    "average_discount": 18
   }
 }

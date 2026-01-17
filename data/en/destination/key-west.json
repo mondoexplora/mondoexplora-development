@@ -1,0 +1,50 @@
+{
+  "city": "Key West",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Key West",
+  "description": "Discover the best hotels in Key West, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/i4b1rswxrbgd3fmew5gg",
+  "hotels": [
+    {
+      "vendor_name": "Blue Flamingo Resort Key West",
+      "offer_country_name": "United States",
+      "location_heading": "Key West",
+      "title": "Grand Opening: Florida Key West Oceanfront Oasis with Daily US$40 Credit & Welcome Cocktails",
+      "description": "Welcome to Blue Flamingo Resort, your sun-drenched sanctuary where island time moves at your pace and turquoise waters whisper just beyond your door. Dive into one of two sparkling pools, sip cocktails as palm trees sway overhead and let the laid-back Keys rhythm wash over you. Sip and socialise at The Backyard Pool & Social Club, where good vibes and great company come standard. Find your island spirit at Rum Row, the tiki-inspired pool bar mixing up handcrafted cocktails and tropical classics, or kick back at Toasted Coconut, a breezy poolside hangout serving up light bites, cold drinks and sunny smiles. Perched in the heart of the Florida Keys, Blue Flamingo Resort puts you steps from world-class snorkelling, fresh-catch dining and legendary nightlife. Whether you're jet-skiing to explore coral reefs, chasing Key West sunsets, or simply swaying in a hammock with an ice-cold drink, this is exactly where you need to be.",
+      "location_subheading": "United States",
+      "price": 389,
+      "original_price": 778,
+      "discount_percentage": 50,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JOJwEYAX",
+      "hero_image": "https://images.luxuryescapes.com/i4b1rswxrbgd3fmew5gg",
+      "image_two": "https://images.luxuryescapes.com/kmeay5qs6vusuk9fdi37",
+      "image_three": "https://images.luxuryescapes.com/5pl4avj2iky4sorl82h",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-01-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Key West - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Key West, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "key west hotels",
+      "key west travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/key-west",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/key-west",
+      "es": "https://mondoexplora.com/es/destination/key-west",
+      "fr": "https://mondoexplora.com/fr/destination/key-west",
+      "it": "https://mondoexplora.com/it/destination/key-west"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-01-17",
+    "hotel_count": 1,
+    "average_price": 389,
+    "average_discount": 50
+  }
+}

@@ -25,6 +25,24 @@
       "end_date_utc": "2026-12-31 01:59:00"
     },
     {
+      "vendor_name": "Crowne Plaza Penang Straits City",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Penang",
+      "title": "Mainland Penang Stay with Onsite Restaurant & Pool",
+      "description": "Escape to the tropical paradise of mainland Penang with a stay at the Crowne Plaza Penang Straits City, an IHG Hotel, amply positioned overlooking the azure Straits of Malacca and the bustling city. Explore the vibrant street food scene of Butterworth, or explore the vibrant murals and graffiti art along the Butterworth Art Walk. Back at the hotel, indulge in all day dining at the Lobby Lounge, rejuvenate in the pool, or stretch your muscles at the fitness centre.",
+      "location_subheading": "Malaysia",
+      "price": 54,
+      "original_price": 54,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FmGTHAA3",
+      "hero_image": "https://images.luxuryescapes.com/l2wgm0mb4mj5mvlvowu",
+      "image_two": "https://images.luxuryescapes.com/lnwmdkernsq2k6pixq9r",
+      "image_three": "https://images.luxuryescapes.com/tc906wvvz561ae2o1ar",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Hotel Jen Penang",
       "offer_country_name": "Malaysia",
       "location_heading": "Penang",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 5,
-    "average_price": 113,
+    "last_updated": "2026-01-17",
+    "hotel_count": 6,
+    "average_price": 103,
     "average_discount": 0
   }
 }

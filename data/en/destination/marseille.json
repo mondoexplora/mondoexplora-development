@@ -4,8 +4,26 @@
   "country_code": "FR",
   "hero_title": "Hotels in Marseille",
   "description": "Discover the best hotels in Marseille, France. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/b67oggevm8oixzbei7jx",
+  "hero_image": "https://images.luxuryescapes.com/q4lvsyhbdcdqj6v24iju",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Marseille - Le Dôme",
+      "offer_country_name": "France",
+      "location_heading": "Marseille",
+      "title": "Elegant Marseille France Stay near Le Dôme Concert Hall",
+      "description": "Uncover the captivating history of France's oldest city from the refined elegance of Crowne Plaza Marseille - Le Dôme, an IHG Hotel. Delight in a culinary journey at Cucina Victoria restaurant, tantalizing your taste buds with exquisite wines and gastronomic flare. Indulge in a refreshing dip in the seasonal outdoor swimming pool. Beyond your doors, immerse yourself in the vibrant music scene at the nearby Le Dôme concert hall or meander through the ancient streets of Marseille.",
+      "location_subheading": "France",
+      "price": 95,
+      "original_price": 95,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNPghAAH",
+      "hero_image": "https://images.luxuryescapes.com/q4lvsyhbdcdqj6v24iju",
+      "image_two": "https://images.luxuryescapes.com/mpvj58jqogqbmhio8owo",
+      "image_three": "https://images.luxuryescapes.com/7l8pjnghletyl3i2xlq",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "InterContinental Marseille - Hotel Dieu",
       "offer_country_name": "France",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 1,
-    "average_price": 227,
+    "last_updated": "2026-01-17",
+    "hotel_count": 2,
+    "average_price": 161,
     "average_discount": 0
   }
 }

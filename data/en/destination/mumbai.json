@@ -4,26 +4,8 @@
   "country_code": "IN",
   "hero_title": "Hotels in Mumbai",
   "description": "Discover the best hotels in Mumbai, India. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/drp3lhbidsu5v193ogqg",
+  "hero_image": "https://images.luxuryescapes.com/herf9kctp5r44xys8o",
   "hotels": [
-    {
-      "vendor_name": "Grand Hyatt Mumbai",
-      "offer_country_name": "India",
-      "location_heading": "Mumbai",
-      "title": "Contemporary Indian City Break near Mumbai Airport with Six Restaurants & Bars, Swimming Pool & Spa",
-      "description": "Experience the pinnacle of comfort at Grand Hyatt Mumbai Hotel & Residences. Nestled in the vibrant Santacruz district, this urban resort boasts spacious apartments, rooms and suites with city and garden views. Dive into the outdoor pool and recharge at the poolside bar, treat yourself at Club Oasis Spa or savour culinary masterpieces across six restaurants and bars. Just minutes from the airport and the Bandra Kurla Complex, this hotel puts Mumbai at your fingertips. After days exploring nearby temples or shopping at upscale malls, return to the hotel and relax amid 12 acres of lush greenery.",
-      "location_subheading": "India",
-      "price": 114,
-      "original_price": 114,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000HicEXYAZ",
-      "hero_image": "https://images.luxuryescapes.com/drp3lhbidsu5v193ogqg",
-      "image_two": "https://images.luxuryescapes.com/xh6tx9t4egmzdafsmn52",
-      "image_three": "https://images.luxuryescapes.com/reco3ua42p7scngo4n0w",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Holiday Inn Mumbai Intl Arpt",
       "offer_country_name": "India",
@@ -78,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 3,
-    "average_price": 98,
+    "last_updated": "2026-01-17",
+    "hotel_count": 2,
+    "average_price": 90,
     "average_discount": 0
   }
 }

@@ -4,8 +4,26 @@
   "country_code": "NZ",
   "hero_title": "Hotels in Christchurch",
   "description": "Discover the best hotels in Christchurch, New Zealand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/6s4a9rs1kx4i1ofog1q",
+  "hero_image": "https://images.luxuryescapes.com/od5xt9s0l5cuisblm6",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Christchurch",
+      "offer_country_name": "New Zealand",
+      "location_heading": "Christchurch",
+      "title": "Christchurch Modern City Break overlooking Victoria Square with Skyline Views",
+      "description": "Take a South Island city escape to Crowne Plaza Christchurch, masterfully positioned at the centre of one of New Zealand’s funkiest cities. This stylish base overlooks the historic fountains of Victoria Square and the gentle waters of the Avon River, and the is the perfect spot to discover the Garden City's vast wealth of trendy bars, refined restaurants, cool cafés and vivid street art. After a day exploring the city’s many treasures, retreat to Market Place Restaurant and Bar for exquisite plates backed entirely by local butchers, fishmongers and growers, or head to the Cafe 1851 for a coffee or Social Wine Bar for sauvignon blanc and sensational cocktails.",
+      "location_subheading": "New Zealand",
+      "price": 90,
+      "original_price": 90,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6kAAB",
+      "hero_image": "https://images.luxuryescapes.com/od5xt9s0l5cuisblm6",
+      "image_two": "https://images.luxuryescapes.com/swgzc775nqual5kfpyda",
+      "image_three": "https://images.luxuryescapes.com/pzrqop9hlbqx3k4jqofm",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Hotel Montreal",
       "offer_country_name": "New Zealand",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 3,
-    "average_price": 124,
+    "last_updated": "2026-01-17",
+    "hotel_count": 4,
+    "average_price": 116,
     "average_discount": 0
   }
 }

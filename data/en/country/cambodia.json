@@ -3,17 +3,8 @@
   "code": "KH",
   "hero_title": "Cambodia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Cambodia.",
-  "hero_image": "https://images.luxuryescapes.com/wd1boyvi5wgac9uyiju3r",
+  "hero_image": "https://images.luxuryescapes.com/84yrpn0gis08sef4jydq",
   "popular_destinations": [
-    {
-      "name": "Phnom Penh",
-      "slug": "phnom-penh",
-      "image": "https://images.luxuryescapes.com/wd1boyvi5wgac9uyiju3r",
-      "description": "Explore Phnom Penh with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 137
-    },
     {
       "name": "Siem Reap",
       "slug": "siem-reap",
@@ -22,6 +13,15 @@
       "hotel_count": 6,
       "hotel_deals": 6,
       "avg_price": 156
+    },
+    {
+      "name": "Phnom Penh",
+      "slug": "phnom-penh",
+      "image": "https://images.luxuryescapes.com/wd1boyvi5wgac9uyiju3r",
+      "description": "Explore Phnom Penh with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 106
     },
     {
       "name": "Koh Rong Archipelago",

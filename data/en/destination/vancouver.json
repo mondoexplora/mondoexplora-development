@@ -4,26 +4,8 @@
   "country_code": "CA",
   "hero_title": "Hotels in Vancouver",
   "description": "Discover the best hotels in Vancouver, Canada. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/2vk37khd86hzkyz03ge",
+  "hero_image": "https://images.luxuryescapes.com/gpsll5vqljhe850zfah",
   "hotels": [
-    {
-      "vendor_name": "Fairmont Pacific Rim",
-      "offer_country_name": "Canada",
-      "location_heading": "Vancouver",
-      "title": "Five-Star Harbourfront Vancouver Stay with Award-Winning Cocktail Bar & World-Class Spa",
-      "description": "Experience the height of Vancouver's luxury at this elegant retreat, located in the city's vibrant downtown and offering breathtaking views of the mountains and harbour. Fairmont Pacific Rim is all about new experiences: savour fresh Pacific Northwest cuisine at Botanist, or enjoy a handcrafted cocktail at the Lobby Lounge and RawBar, known for sushi and live music. Venture out to explore the nearby historic Gastown, with its cobbled streets and unique boutiques, or take a stroll along the picturesque Stanley Park seawall. For art enthusiasts, the Vancouver Art Gallery is just a short walk away. After a day of exploring, rejuvenate at the tranquil Fairmont Spa, or take a refreshing dip in the rooftop pool with panoramic city views.",
-      "location_subheading": "Canada",
-      "price": 387,
-      "original_price": 387,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GRlw5YAD",
-      "hero_image": "https://images.luxuryescapes.com/2vk37khd86hzkyz03ge",
-      "image_two": "https://images.luxuryescapes.com/s4qyj6n8pbjveql70ac",
-      "image_three": "https://images.luxuryescapes.com/jfmrgxulublf3mlkpauf",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Fairmont Vancouver Airport",
       "offer_country_name": "Canada",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 2,
-    "average_price": 342,
+    "last_updated": "2026-01-17",
+    "hotel_count": 1,
+    "average_price": 296,
     "average_discount": 0
   }
 }

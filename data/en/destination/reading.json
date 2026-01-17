@@ -41,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "voco Reading",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Reading",
+      "title": "Stylish Reading Escape near London & Windsor Castle",
+      "description": "Enjoy the best of both worlds with a stay at the stylish voco Reading, an IHG Hotel, just 25 minutes from London by train. As the gateway to the idyllic Berkshire countryside, this buzzy town is packed with charm, beautiful buildings, perfectly manicured gardens and historical gems. Explore the nearby Madejski Stadium, Green Park, Legoland or Windsor Castle, or simply relax at your well-equipped hotel.",
+      "location_subheading": "United Kingdom",
+      "price": 92,
+      "original_price": 92,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Aa97vAAB",
+      "hero_image": "https://images.luxuryescapes.com/u59p4tlpova1jxv53xg",
+      "image_two": "https://images.luxuryescapes.com/cvj40wxbz8cut4ypxwyl",
+      "image_three": "https://images.luxuryescapes.com/43yr9jhdmtle59qybo",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 2,
-    "average_price": 129,
+    "last_updated": "2026-01-17",
+    "hotel_count": 3,
+    "average_price": 116,
     "average_discount": 0
   }
 }

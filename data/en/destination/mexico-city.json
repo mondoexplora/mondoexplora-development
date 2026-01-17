@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Kimpton Virgilio",
+      "offer_country_name": "Mexico",
+      "location_heading": "Mexico City",
+      "title": "Mexico City Escape in Vibrant Polanco with Rooftop Pool & Bar",
+      "description": "Kimpton Virgilio, an IHG Hotel is a vibrant oasis in the heart of Mexico City. Located in Pilanco, you'll be best placed to explore the upscale boutiques, restaurants and museums that make this neighbourhood so undeniably cool. Spend your days basking in the sunshine by the rooftop pool and keeping hydrated at La Caña bar. For an authentic Spanish and Latin tapas experience, head down to Pepe Mesa Española restaurant, where share platters and colourful cocktails burst with flavour.",
+      "location_subheading": "Mexico",
+      "price": 292,
+      "original_price": 292,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GxYSQAA3",
+      "hero_image": "https://images.luxuryescapes.com/y847ppxetfapajmd0ekn",
+      "image_two": "https://images.luxuryescapes.com/702a1wetkvyjnb283pp",
+      "image_three": "https://images.luxuryescapes.com/numtle19otxmlypsd6wn",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 1,
-    "average_price": 119,
+    "last_updated": "2026-01-17",
+    "hotel_count": 2,
+    "average_price": 206,
     "average_discount": 0
   }
 }

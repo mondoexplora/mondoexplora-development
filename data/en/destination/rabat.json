@@ -1,0 +1,50 @@
+{
+  "city": "Rabat",
+  "country": "Morocco",
+  "country_code": "MA",
+  "hero_title": "Hotels in Rabat",
+  "description": "Discover the best hotels in Rabat, Morocco. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/b0foo8dtmf4gue7vszkd",
+  "hotels": [
+    {
+      "vendor_name": "Sofitel Rabat Jardin des Roses",
+      "offer_country_name": "Morocco",
+      "location_heading": "Rabat",
+      "title": "Five-star Rabat Retreat in Expansive Rose Garden with Spa, Pools and Onsite Dining Options",
+      "description": "Sofitel Rabat Jardin des Roses offers a five-star escape in Morocco's capital, set within an expansive eight-hectare Andalusian rose garden near the Royal Palace. This elegant property blends French sophistication with Moroccan artistry, featuring rooms and suites overlooking gardens, pools or the city, making it an ideal base for discovering Rabat's rich history and vibrant culture. Unwind at the 1,300-square-metre So Spa with its hammam and Cinq Mondes treatments, or spend leisurely afternoons by one of three swimming pools. Explore Rabat's culinary scene with four onsite restaurants including Al Warda for authentic Moroccan flavours and El Patio for Mediterranean fare, then venture out to nearby attractions like Hassan Tower, the ancient Chellah ruins and the atmospheric Kasbah des Oudayas.",
+      "location_subheading": "Morocco",
+      "price": 277,
+      "original_price": 277,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JjtiZYAR",
+      "hero_image": "https://images.luxuryescapes.com/b0foo8dtmf4gue7vszkd",
+      "image_two": "https://images.luxuryescapes.com/s0mptat8cicuqr275gq",
+      "image_three": "https://images.luxuryescapes.com/y9ly1nnbk2opgwm32di",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Rabat - Morocco Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Rabat, Morocco with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "rabat hotels",
+      "rabat travel",
+      "morocco hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/rabat",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/rabat",
+      "es": "https://mondoexplora.com/es/destination/rabat",
+      "fr": "https://mondoexplora.com/fr/destination/rabat",
+      "it": "https://mondoexplora.com/it/destination/rabat"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-01-17",
+    "hotel_count": 1,
+    "average_price": 277,
+    "average_discount": 0
+  }
+}
