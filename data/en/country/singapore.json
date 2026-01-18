@@ -3,16 +3,16 @@
   "code": "SG",
   "hero_title": "Singapore Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Singapore.",
-  "hero_image": "https://images.luxuryescapes.com/k1zm8q5x5kh55s74bmc1",
+  "hero_image": "https://images.luxuryescapes.com/cvr6steubemq9bc7dh5w",
   "popular_destinations": [
     {
       "name": "Singapore",
       "slug": "singapore",
-      "image": "https://images.luxuryescapes.com/k1zm8q5x5kh55s74bmc1",
+      "image": "https://images.luxuryescapes.com/cvr6steubemq9bc7dh5w",
       "description": "Explore Singapore with luxury accommodations",
-      "hotel_count": 36,
-      "hotel_deals": 36,
-      "avg_price": 392
+      "hotel_count": 43,
+      "hotel_deals": 43,
+      "avg_price": 356
     },
     {
       "name": "Sentosa Island",
@@ -21,7 +21,7 @@
       "description": "Explore Sentosa Island with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 605
+      "avg_price": 607
     },
     {
       "name": "Robertson Quay",
@@ -39,7 +39,7 @@
       "description": "Explore Orchard Road with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 183
+      "avg_price": 184
     },
     {
       "name": "Tanglin",
@@ -48,7 +48,7 @@
       "description": "Explore Tanglin with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 135
+      "avg_price": 136
     },
     {
       "name": "Mandai Wildlife Reserve",

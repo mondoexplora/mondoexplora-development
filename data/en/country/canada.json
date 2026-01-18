@@ -10,18 +10,27 @@
       "slug": "toronto",
       "image": "https://images.luxuryescapes.com/i3fljywt07lgaf32r1",
       "description": "Explore Toronto with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 193
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 202
     },
     {
       "name": "Montreal",
       "slug": "montreal",
-      "image": "https://images.luxuryescapes.com/ncjtrrjr1te1mlmnoxgc",
+      "image": "https://images.luxuryescapes.com/v15g0w465xjz340jrdq",
       "description": "Explore Montreal with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 159
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 199
+    },
+    {
+      "name": "Vancouver",
+      "slug": "vancouver",
+      "image": "https://images.luxuryescapes.com/5fcqyfaafdcpsgnucgj7",
+      "description": "Explore Vancouver with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 309
     },
     {
       "name": "Banff",
@@ -30,7 +39,7 @@
       "description": "Explore Banff with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 424
+      "avg_price": 425
     },
     {
       "name": "Lake Louise",
@@ -39,25 +48,16 @@
       "description": "Explore Lake Louise with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 391
+      "avg_price": 427
     },
     {
-      "name": "Alberta",
-      "slug": "alberta",
-      "image": "https://images.luxuryescapes.com/cufe3bdfv23fr6f673u",
-      "description": "Explore Alberta with luxury accommodations",
+      "name": "Edmonton",
+      "slug": "edmonton",
+      "image": "https://images.luxuryescapes.com/c2xubymtd5xtemqhof2",
+      "description": "Explore Edmonton with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 362
-    },
-    {
-      "name": "Vancouver",
-      "slug": "vancouver",
-      "image": "https://images.luxuryescapes.com/gpsll5vqljhe850zfah",
-      "description": "Explore Vancouver with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 296
+      "avg_price": 214
     }
   ],
   "seo": {

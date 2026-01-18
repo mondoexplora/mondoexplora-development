@@ -5,7 +5,7 @@
   "destination_country": "Australia",
   "transport_modes": {
     "flight": {
-      "duration": "1h 55m",
+      "duration": "3h 45m",
       "price_range": "$95 - $220",
       "providers": [
         "Skyscanner",
@@ -15,7 +15,7 @@
     },
     "train": {
       "duration": "4h 45m",
-      "price_range": "$45 - $120",
+      "price_range": "$60 - $150",
       "providers": [
         "Rail Europe",
         "Eurail",
@@ -32,9 +32,9 @@
       ]
     },
     "car": {
-      "duration": "3h 55m",
-      "distance": "350 km",
-      "price_range": "$35 - $85"
+      "duration": "3h 30m",
+      "distance": "380 km",
+      "price_range": "$30 - $70"
     }
   },
   "seo": {

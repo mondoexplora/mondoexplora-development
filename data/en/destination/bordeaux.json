@@ -59,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mondrian Bordeaux Les Carmes",
+      "offer_country_name": "France",
+      "location_heading": "Bordeaux",
+      "title": "Bordeaux Wine Chateau Opulence in the Heart of Chartrons with Luxury Wellness Spa",
+      "description": "Discover the romantic allure of Bordeaux’s wine country with a stay at this stylish 19th-century wine cellar turned five-star hotel. Reimagined by the renowned Philippe Starck into a chic and holistic retreat, the hotel masterfully captures the region's timeless charm with its enchanting facade and interiors drenched in soft light. Relax and rejuvenate on the expansive terrace, take a refreshing dip in the pool or unwind in the hammam at Spa Mondrian Bourdeaux Les Carmes. Savour exquisite Asian fusion dishes at the European debut of celebrity chef Masaharu Morimoto, and finish your meal with innovative cocktails or Japanese sake at Morimoto Bordeaux Bar.",
+      "location_subheading": "France",
+      "price": 183,
+      "original_price": 183,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GRwEnYAL",
+      "hero_image": "https://images.luxuryescapes.com/n2z2o3lpeh3t7hj9hlda",
+      "image_two": "https://images.luxuryescapes.com/fg3xaivucl20s4t44o",
+      "image_three": "https://images.luxuryescapes.com/2xd8matjive4deheihe",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-17",
-    "hotel_count": 3,
-    "average_price": 149,
+    "last_updated": "2026-01-18",
+    "hotel_count": 4,
+    "average_price": 158,
     "average_discount": 0
   }
 }

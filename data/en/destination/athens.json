@@ -85,8 +85,8 @@
       "title": "Stylish Athens Escape with Acropolis Views & Rooftop Bar",
       "description": "The wonders of Ancient Greece are at your fingertips when you stay at InterContinental Athenaeum Athens, an IHG Hotel, where contemporary design meets the crumbling remains of the Acropolis. When you're not out there exploring UNESCO World Heritage-listed sites, head up to Premiere, a rooftop restaurant and bar with spectacular views of the Acropolis, then venture to the poolside Cafezoe Terrace for cocktails and desserts.",
       "location_subheading": "Greece",
-      "price": 134,
-      "original_price": 134,
+      "price": 124,
+      "original_price": 124,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt68AAB",
       "hero_image": "https://images.luxuryescapes.com/d68y2ueodgnql0ipfnk",
@@ -146,6 +146,24 @@
       "hero_image": "https://images.luxuryescapes.com/qpw0ls4duqq583rj5vl9",
       "image_two": "https://images.luxuryescapes.com/vdwy7m3yle9jeujzbsf",
       "image_three": "https://images.luxuryescapes.com/dhkosf9xftok3zp0y1f",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Sofitel Athens Airport",
+      "offer_country_name": "Greece",
+      "location_heading": "Athens",
+      "title": "Athens Airport Luxury with Spa, Pool & Multiple Onsite Restaurants",
+      "description": "Perfectly positioned for a smooth layover, this luxury Sofitel hotel is conveniently located within the terminal of Athens Airport and a short drive from the vibrant city centre. Between flights savour contemporary Greek cuisine at the stylish Mesoghaia Restaurant or planespot with a cocktail in hand from Jenny's Rooftop Restaurant. Keep active in the well-equipped fitness centre, swim laps of the pool or explore attractions including the historic Acropolis, Parthenon or the storied Panathenaic Stadium.",
+      "location_subheading": "Greece",
+      "price": 243,
+      "original_price": 243,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JELw6YAH",
+      "hero_image": "https://images.luxuryescapes.com/u9n7trsgglbz0483z16r",
+      "image_two": "https://images.luxuryescapes.com/71i9xwu3ggskfcpsz2ym",
+      "image_three": "https://images.luxuryescapes.com/zeiv4gva7ewz0aarivt",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -240,9 +258,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-17",
-    "hotel_count": 12,
-    "average_price": 279,
-    "average_discount": 15
+    "last_updated": "2026-01-18",
+    "hotel_count": 13,
+    "average_price": 275,
+    "average_discount": 13
   }
 }

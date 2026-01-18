@@ -15,6 +15,15 @@
       "avg_price": 82
     },
     {
+      "name": "Mumbai",
+      "slug": "mumbai",
+      "image": "https://images.luxuryescapes.com/drp3lhbidsu5v193ogqg",
+      "description": "Explore Mumbai with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 105
+    },
+    {
       "name": "Jaipur",
       "slug": "jaipur",
       "image": "https://images.luxuryescapes.com/4m3m3w72b4g0rrjmpsg",
@@ -49,15 +58,6 @@
       "hotel_count": 2,
       "hotel_deals": 2,
       "avg_price": 63
-    },
-    {
-      "name": "Kerala",
-      "slug": "kerala",
-      "image": "https://images.luxuryescapes.com/tiv6vwcrct0kumexm8tm",
-      "description": "Explore Kerala with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 132
     }
   ],
   "seo": {
