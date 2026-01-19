@@ -46,24 +46,6 @@
       "vendor_name": "Victoria Hoi An Beach Resort & Spa",
       "offer_country_name": "Vietnam",
       "location_heading": "Hoi An",
-      "title": "Hoi An Oceanfront Serenity with Onsite Dining, Outdoor Pool & Private Beach",
-      "description": "Step through traditional Vietnamese doors to discover this serene retreat where a sprawling pool flows among palm-fringed gardens, framed by a long stretch of pristine private beach. Lose track of time while gliding through the water on a kayak, escape to the ultra-tranquil Victoria Spa for a treatment or catch a film at the onsite cinema. Savour Asian and European dishes at the L’Annam Restaurant, unwind poolside with a tropical tipple from Faifo Bar or enjoy a game of billiards at Elephant Bar. When it’s time to venture into town, the quaint streets and canals of the UNESCO heritage-listed Hoi An Ancient Town are just 15-minutes away.",
-      "location_subheading": "Vietnam",
-      "price": 92,
-      "original_price": 92,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Itls0YAB",
-      "hero_image": "https://images.luxuryescapes.com/96rn2d5a4j5dccauwbu",
-      "image_two": "https://images.luxuryescapes.com/4sc19ylfkuhrqomff8u",
-      "image_three": "https://images.luxuryescapes.com/akmhigk0t6k81sgl4fx",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Victoria Hoi An Beach Resort & Spa",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Hoi An",
       "title": "Hoi An Beachfront Bliss with Private Beach, Daily Breakfast, Daily Cocktail & Massage",
       "description": "Step through traditional Vietnamese doors to discover a serene beachfront retreat, where a peaceful pool lies among palm-fringed gardens, with a long stretch of private beach as the backdrop. Lose track of time waterside, escape to the ultra-tranquil Victoria Spa for a treatment or catch a film at the onsite cinema. Savour Asian and European dishes at the L’Annam Restaurant, unwind poolside with a tropical tipple from Faifo Bar or enjoy a game of billiards at Elephant Bar. When it’s time to venture into town, take advantage of complimentary return transfers to and from the hotel. Just a 15-minute drive away, roam the quaint streets and canals of the UNESCO heritage-listed Hoi An Ancient Town, embellished with colourful lanterns, peppered with fragrant street food stalls and known for its magical sunsets. Nearby Da Nang offers varied attractions, including popular Ba Na Hills with its spectacular Golden Bridge.",
       "location_subheading": "Vietnam",
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 5,
       "end_date_utc": "2026-01-31 12:59:00"
+    },
+    {
+      "vendor_name": "Victoria Hoi An Beach Resort & Spa",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Hoi An",
+      "title": "Hoi An Oceanfront Serenity with Onsite Dining, Outdoor Pool & Private Beach",
+      "description": "Step through traditional Vietnamese doors to discover this serene retreat where a sprawling pool flows among palm-fringed gardens, framed by a long stretch of pristine private beach. Lose track of time while gliding through the water on a kayak, escape to the ultra-tranquil Victoria Spa for a treatment or catch a film at the onsite cinema. Savour Asian and European dishes at the L’Annam Restaurant, unwind poolside with a tropical tipple from Faifo Bar or enjoy a game of billiards at Elephant Bar. When it’s time to venture into town, the quaint streets and canals of the UNESCO heritage-listed Hoi An Ancient Town are just 15-minutes away.",
+      "location_subheading": "Vietnam",
+      "price": 92,
+      "original_price": 92,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Itls0YAB",
+      "hero_image": "https://images.luxuryescapes.com/96rn2d5a4j5dccauwbu",
+      "image_two": "https://images.luxuryescapes.com/4sc19ylfkuhrqomff8u",
+      "image_three": "https://images.luxuryescapes.com/akmhigk0t6k81sgl4fx",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Wafaifo Resort Hoi An",
@@ -150,7 +150,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-18",
+    "last_updated": "2026-01-19",
     "hotel_count": 7,
     "average_price": 282,
     "average_discount": 25
