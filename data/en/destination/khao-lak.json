@@ -185,24 +185,6 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "ananea Beyond Khaolak",
-      "offer_country_name": "Thailand",
-      "location_heading": "Khao Lak",
-      "title": "Grand Re-Opening: Thailand All-Inclusive Villa Opulence with Massages & Free-Flow Cocktails",
-      "description": "Set on the pristine sands of Pak Weep Beach, the newly reopened ananea Beyond Khaolak is where barefoot luxury meets the \\\"slow glamour\\\" philosophy. The resort's exquisite villas are crafted with natural materials and warm, earthy tones, each featuring private outdoor spaces designed for unhurried relaxation. Surrender to complete relaxation with leisurely swims in the oceanfront pool, spoil yourself at the indulgent Kanda Spa or explore the tropical waters on a sea kayak or stand-up paddleboard while surrounded by unspoiled nature and tropical greenery. Return from your adventures to all-inclusive dining paired with free-flow cocktails, beer, spirits and soft drinks to toast days spent in the sun. Onsite restaurants await to cater to any appetite, whether you dine on succulent seafood under the thatched roof of Beach Bar and Restaurant, tuck into flame-seared ribs at Motown On Fire steakhouse or enjoy a refreshing poolside drink in the tropical sun. Outside the resort, guests can find lush waterfalls, markets and monuments, as well as a host of deep sea activities - think world-class snorkelling, surfing and scuba diving.",
-      "location_subheading": "Thailand",
-      "price": 729,
-      "original_price": 2916,
-      "discount_percentage": 75,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000L9Qf8YAF",
-      "hero_image": "https://images.luxuryescapes.com/zvc0ngajr406nfcrojg",
-      "image_two": "https://images.luxuryescapes.com/4vcvb77j2n4diyma669",
-      "image_three": "https://images.luxuryescapes.com/f5pd9ecl8srhvfveumuj",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-01-19 12:59:00"
     }
   ],
   "seo": {
@@ -222,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-19",
-    "hotel_count": 11,
-    "average_price": 301,
-    "average_discount": 20
+    "last_updated": "2026-01-20",
+    "hotel_count": 10,
+    "average_price": 258,
+    "average_discount": 15
   }
 }

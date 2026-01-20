@@ -4,26 +4,8 @@
   "country_code": "MY",
   "hero_title": "Hotels in Kuching",
   "description": "Discover the best hotels in Kuching, Malaysia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/lzu9u3x1e8iijbyre3jn",
+  "hero_image": "https://images.luxuryescapes.com/j9aoy7us0us1tp4woo4j",
   "hotels": [
-    {
-      "vendor_name": "Cove 55",
-      "offer_country_name": "Malaysia",
-      "location_heading": "Kuching",
-      "title": "Malaysia Oceanfront Borneo Retreat with Daily Dining, Cocktails & Orangutan Nature Reserve Experience",
-      "description": "Located half an hour from the park-filled city of Kuching - the ‘Gateway to Borneo’ - this stylish boutique retreat boats lush gardens, pristine white exteriors and easy access to the region’s spectacular natural wonders, including the 740-acre Semenggoh Nature Reserve, home to the endangered Bornean orangutan. This slice of paradise promises a Malaysian stay that will etch eternal memories in your heart. Surrounded by jungle and the endlessly shimmering ocean, this perfectly manicured hideaway is the perfect place to retreat from the world beyond, with just 28 rooms, suites and villas taking inspiration from the indigenous Iban’s rich heritage in Borneo. Indulge in a feast for all the senses at Kechala restaurant and bar, famous for tantalising dishes infused with Sarawakian flavours, or treat yourself to a cocktail at Cove Bar.",
-      "location_subheading": "Malaysia",
-      "price": 399,
-      "original_price": 1023,
-      "discount_percentage": 61,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000NLTJYYA5",
-      "hero_image": "https://images.luxuryescapes.com/lzu9u3x1e8iijbyre3jn",
-      "image_two": "https://images.luxuryescapes.com/t7xxacyrhsgaxpjj7",
-      "image_three": "https://images.luxuryescapes.com/dyimf5ywwbeqpjqs80n",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 2,
-      "end_date_utc": "2026-01-22 12:59:00"
-    },
     {
       "vendor_name": "Cove 55",
       "offer_country_name": "Malaysia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Cove 55",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Kuching",
+      "title": "Malaysia Oceanfront Borneo Retreat with Daily Dining, Cocktails & Orangutan Nature Reserve Experience",
+      "description": "Located half an hour from the park-filled city of Kuching - the ‘Gateway to Borneo’ - this stylish boutique retreat boats lush gardens, pristine white exteriors and easy access to the region’s spectacular natural wonders, including the 740-acre Semenggoh Nature Reserve, home to the endangered Bornean orangutan. This slice of paradise promises a Malaysian stay that will etch eternal memories in your heart. Surrounded by jungle and the endlessly shimmering ocean, this perfectly manicured hideaway is the perfect place to retreat from the world beyond, with just 28 rooms, suites and villas taking inspiration from the indigenous Iban’s rich heritage in Borneo. Indulge in a feast for all the senses at Kechala restaurant and bar, famous for tantalising dishes infused with Sarawakian flavours, or treat yourself to a cocktail at Cove Bar.",
+      "location_subheading": "Malaysia",
+      "price": 399,
+      "original_price": 1023,
+      "discount_percentage": 61,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000NLTJYYA5",
+      "hero_image": "https://images.luxuryescapes.com/lzu9u3x1e8iijbyre3jn",
+      "image_two": "https://images.luxuryescapes.com/t7xxacyrhsgaxpjj7",
+      "image_three": "https://images.luxuryescapes.com/dyimf5ywwbeqpjqs80n",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-01-22 12:59:00"
     },
     {
       "vendor_name": "Pullman Kuching",
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-19",
+    "last_updated": "2026-01-20",
     "hotel_count": 3,
     "average_price": 203,
     "average_discount": 20
