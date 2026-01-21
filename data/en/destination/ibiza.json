@@ -4,8 +4,26 @@
   "country_code": "ES",
   "hero_title": "Hotels in Ibiza",
   "description": "Discover the best hotels in Ibiza, Spain. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/km0y1pe9t375yfveyt9",
+  "hero_image": "https://images.luxuryescapes.com/66wpw36uzqczf3owuij",
   "hotels": [
+    {
+      "vendor_name": "Cala San Miguel Ibiza Resort, Curio Collection by Hilton",
+      "offer_country_name": "Spain",
+      "location_heading": "Ibiza",
+      "title": "Ibiza Adults-Only Oceanfront Glamour with Daily EUR50 Resort Credit, Breakfast & Nightly Cocktails",
+      "description": "Signature Hilton hospitality meets Ibiza’s legendary golden sands at this adults-only oceanfront oasis, perfectly positioned just moments from Cala San Miguel’s brilliant blue waters. After a tremendous 2024 opening, this resort offers everything you need for the ultimate Mediterranean escape: spend your days sipping cocktails by the pool or exploring Ibiza’s famed Old Town, just a 30-minute drive away. Surrounded by spectacular rugged cliffs and sweeping ocean views, this luxury retreat is tucked away in the northern port village of San Miguel. Daily EUR50 resort credit per package means you’ll be able to explore the resort’s seven restaurants and bars, from Calido’s poolside poke bowls and sushi rolls to Paseo’s flame-kissed grilled meats and fresh seafood.",
+      "location_subheading": "Spain",
+      "price": 619,
+      "original_price": 1934,
+      "discount_percentage": 68,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000NF3UzYAL",
+      "hero_image": "https://images.luxuryescapes.com/66wpw36uzqczf3owuij",
+      "image_two": "https://images.luxuryescapes.com/cf8ffmy81w6x37p0nxc",
+      "image_three": "https://images.luxuryescapes.com/7lsrpjkfwr74dcuyilrq",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-01-21 12:59:00"
+    },
     {
       "vendor_name": "Hyde Ibiza",
       "offer_country_name": "Spain",
@@ -49,8 +67,8 @@
       "title": "Iconic Ibiza Art Deco Escape with Rooftop Bar",
       "description": "Book yourself an invite to the hottest party in town with a stay at Ocean Drive Ibiza, an Ibiza icon that boasts beautiful views of the Old Town and Mediterranean. Sitting across from Marina Botafoch, this stylish Art Deco hotel puts the best of the Balearics at your fingertips: a 10-minute walk one way and you’re on the sands of tranquil Talamanca Bay, while 10 minutes in the other direction gets you to the front door of mega-club Pacha. Ocean Drive Ibiza's classic Art Deco aesthetic takes inspiration from 1920s Miami. Each room and suite is outfitted with tones of lavender and chocolate and views of the Mediterranean or the island’s rugged mountain interior. The best seat in the house is at the rooftop lounge Sky Bar - venture to the hotel’s top level to sip on cocktails and look out to Dalt Vila (Ibiza’s Old Town) and the island of Formentera. Summer sees the bar heaving with partygoers, dancing away to tunes spun by high-profile DJs, while healthy dishes with Latin American and European influences are served in the seasonal restaurant. Come November to April, a calmer crowd calls Ocean Drive Ibiza home, opting for a relaxing and rejuvenating break in the winter sun.",
       "location_subheading": "Spain",
-      "price": 118,
-      "original_price": 118,
+      "price": 103,
+      "original_price": 103,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000005GAjbAAG",
       "hero_image": "https://images.luxuryescapes.com/urnbtccj8igwur2bld4",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-20",
-    "hotel_count": 5,
-    "average_price": 321,
-    "average_discount": 0
+    "last_updated": "2026-01-21",
+    "hotel_count": 6,
+    "average_price": 368,
+    "average_discount": 11
   }
 }
