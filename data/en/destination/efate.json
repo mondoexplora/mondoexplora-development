@@ -4,8 +4,26 @@
   "country_code": "VU",
   "hero_title": "Hotels in Efate",
   "description": "Discover the best hotels in Efate, Vanuatu. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/4kdff5t96skkyxrw224",
+  "hero_image": "https://images.luxuryescapes.com/dzpyy3cxbdyyb7k3sob",
   "hotels": [
+    {
+      "vendor_name": "Tamanu on the Beach",
+      "offer_country_name": "Vanuatu",
+      "location_heading": "Efate",
+      "title": "Secluded Vanuatu Beachfront Villa Haven Overlooking the Coral Sea",
+      "description": "Feel endless bliss when you stay at Tamanu on the Beach, a Caribbean-inspired resort overlooking the postcard-perfect Coral Sea. This beachfront oasis is home to just 15 traditionally crafted bungalows and promises total serenity with a private white-sand beach, superb beachfront dining at Tamanu Restaurant and an in-house spa. Hop between the surrounding islands to discover hidden swimming holes, incredible waterfalls, ancient volcanoes and beautiful reefs.",
+      "location_subheading": "Vanuatu",
+      "price": 201,
+      "original_price": 201,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009DrsmAAC",
+      "hero_image": "https://images.luxuryescapes.com/dzpyy3cxbdyyb7k3sob",
+      "image_two": "https://images.luxuryescapes.com/watx6jytlub41vxaxog",
+      "image_three": "https://images.luxuryescapes.com/x2ico7gfaqppufdq8dsu",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:58:00"
+    },
     {
       "vendor_name": "The Havannah Vanuatu",
       "offer_country_name": "Vanuatu",
@@ -13,8 +31,8 @@
       "title": "Award-Winning Vanuatu Villa Luxury with All-Inclusive Dining & Roundtrip Transfers",
       "description": "Escape to a South Pacific island paradise, staying in boutique luxury at The Havannah Vanuatu. Surrounded by azure waters, colourful coral and palm-fringed sands, this five-star, absolute beachfront resort offers all the charm of a family-owned property alongside world-class luxuries. Located on Efate, the largest island in Vanuatu, this adults-only retreat sits opposite the breathtaking Port Havannah harbour, your launchpad for snorkelling, watersports and sailing adventures. Take the complimentary resort shuttle to Vanuatu's capital, Port Vila, and discover the national museum, Mele Cascades waterfall, Ekasup Cultural Village and more. It’s not hard to see why this resort has won so many awards - including Tripadvisor's prestigious Travellers' Choice 2020 Best of the Best honour, placing it among the top 1% of hotels worldwide and the top five in the South Pacific. With a collection of traditional thatched villas tucked away in tropical gardens or on the beachfront, gourmet all-inclusive à la carte dining showcasing fresh local produce and seafood, a blissful spa and a host of activities, from sunset cruising to PADI diving, this island oasis leaves you wanting for nothing.",
       "location_subheading": "Vanuatu",
-      "price": 1021,
-      "original_price": 1021,
+      "price": 1024,
+      "original_price": 1024,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004TB4vAAG",
       "hero_image": "https://images.luxuryescapes.com/4kdff5t96skkyxrw224",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-21",
-    "hotel_count": 1,
-    "average_price": 1021,
+    "last_updated": "2026-01-22",
+    "hotel_count": 2,
+    "average_price": 613,
     "average_discount": 0
   }
 }
