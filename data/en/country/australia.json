@@ -12,7 +12,7 @@
       "description": "Explore Sydney with luxury accommodations",
       "hotel_count": 62,
       "hotel_deals": 62,
-      "avg_price": 153
+      "avg_price": 155
     },
     {
       "name": "Melbourne",
@@ -21,15 +21,15 @@
       "description": "Explore Melbourne with luxury accommodations",
       "hotel_count": 60,
       "hotel_deals": 60,
-      "avg_price": 124
+      "avg_price": 121
     },
     {
       "name": "Brisbane",
       "slug": "brisbane",
       "image": "https://images.luxuryescapes.com/ivrsdu2d982sm4v3ha3",
       "description": "Explore Brisbane with luxury accommodations",
-      "hotel_count": 35,
-      "hotel_deals": 35,
+      "hotel_count": 36,
+      "hotel_deals": 36,
       "avg_price": 129
     },
     {
@@ -39,7 +39,7 @@
       "description": "Explore Adelaide with luxury accommodations",
       "hotel_count": 28,
       "hotel_deals": 28,
-      "avg_price": 98
+      "avg_price": 99
     },
     {
       "name": "Perth",
@@ -48,16 +48,16 @@
       "description": "Explore Perth with luxury accommodations",
       "hotel_count": 22,
       "hotel_deals": 22,
-      "avg_price": 179
+      "avg_price": 180
     },
     {
       "name": "Canberra",
       "slug": "canberra",
       "image": "https://images.luxuryescapes.com/uu6uxgtlqpf8yqfvsn",
       "description": "Explore Canberra with luxury accommodations",
-      "hotel_count": 18,
-      "hotel_deals": 18,
-      "avg_price": 137
+      "hotel_count": 17,
+      "hotel_deals": 17,
+      "avg_price": 142
     }
   ],
   "seo": {

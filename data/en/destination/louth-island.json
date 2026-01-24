@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 3,
       "end_date_utc": "2026-02-09 12:59:00"
+    },
+    {
+      "vendor_name": "Rumi on Louth Luxury Eco Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Louth Island",
+      "title": "Louth Island Luxury Eco Resort near Port Lincoln with Chef-Hatted Restaurant",
+      "description": "Indulge in eco-conscious elegance with a stay on South Australia’s most spectacular private island. On Louth Island, a wealth of one-of-a-kind experiences await, including dining at acclaimed, native-focused Samphire and near-exclusive access to Carl Cove, one of South Australia’s best beaches. Between kayaking adventures, beach picnics and guided buggy tours, get a taste for the land with flavourful local produce at Samphire. Here, the star is always the vibrant native ingredients - many grown right on the island - from cocktails with coastal daisy syrup and kingfish with spicy beach mustard, to sensational saltbush negronis and beyond.",
+      "location_subheading": "Australia",
+      "price": 804,
+      "original_price": 804,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ng76KYAR",
+      "hero_image": "https://images.luxuryescapes.com/2wh34ldp2jgobgpyvsx4",
+      "image_two": "https://images.luxuryescapes.com/hi4awdi6chuifl7eicwp",
+      "image_three": "https://images.luxuryescapes.com/zokymm3he14y9jtynhp",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-23",
-    "hotel_count": 1,
-    "average_price": 1119,
-    "average_discount": 30
+    "last_updated": "2026-01-24",
+    "hotel_count": 2,
+    "average_price": 962,
+    "average_discount": 15
   }
 }
