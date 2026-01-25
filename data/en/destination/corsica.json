@@ -4,8 +4,26 @@
   "country_code": "FR",
   "hero_title": "Hotels in Corsica",
   "description": "Discover the best hotels in Corsica, France. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/jms3pkhxgj95a6xt5g8",
+  "hero_image": "https://images.luxuryescapes.com/q3r9cd8kjfw8op7w58v",
   "hotels": [
+    {
+      "vendor_name": "Hotel Le Roi Théodore & SPA",
+      "offer_country_name": "France",
+      "location_heading": "Corsica",
+      "title": "French Elegance on Corsica Island with Daily Breakfast, Nightly Drinks & Resort Credit",
+      "description": "Hôtel Le Roi Théodore & Spa is a serene sanctuary set within Mediterranean gardens on the edge of Corsica's Porto-Vecchio. Enclosed by stone walls reminiscent of castle ramparts, the hotel opens into an oasis of lush grounds filled with century-old trees. Uunwind across two sun-drenched outdoor pools and a heated indoor pool, or retreat to the spa for a hammam session and tension-melting massages. Beyond the peaceful grounds, the hotel is strategically positioned for exploring the best of Southern Corsica. You're near the vibrant Porto-Vecchio marina and the historic charm of the old town's citadel. For those seeking the island’s legendary coastline, the turquoise waters of Cala Rossa and Saint-Cyprien are just down the road. Whether you're indulging in refined Mediterranean cuisine at La Table du Roi or heading out to explore the dramatic cliffs of Bonifacio, this hotel provides a perfectly situated home base for an unforgettable island escape.",
+      "location_subheading": "France",
+      "price": 369,
+      "original_price": 724,
+      "discount_percentage": 49,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Pkz0XYAR",
+      "hero_image": "https://images.luxuryescapes.com/q3r9cd8kjfw8op7w58v",
+      "image_two": "https://images.luxuryescapes.com/1nl9guvbj67vkg5e4zjt",
+      "image_three": "https://images.luxuryescapes.com/u3w3nqh6a2vzhh3mukgb",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-02-20 12:59:00"
+    },
     {
       "vendor_name": "La Villa Calvi",
       "offer_country_name": "France",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-24",
-    "hotel_count": 1,
-    "average_price": 380,
-    "average_discount": 0
+    "last_updated": "2026-01-25",
+    "hotel_count": 2,
+    "average_price": 375,
+    "average_discount": 25
   }
 }
