@@ -4,26 +4,8 @@
   "country_code": "FR",
   "hero_title": "Hotels in Cannes",
   "description": "Discover the best hotels in Cannes, France. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ygev0ifhwmron4pviknk",
+  "hero_image": "https://images.luxuryescapes.com/n9y95i54ya2u2mhx3ov8",
   "hotels": [
-    {
-      "vendor_name": "Carlton Cannes, a Regent Hotel",
-      "offer_country_name": "France",
-      "location_heading": "Cannes",
-      "title": "Five-Star Cannes Opulence on the Famous La Croisette with Five Restaurants & Bars",
-      "description": "Discover unparalleled and dazzling elegance along the famed La Croisette at Carlton Cannes, a Regent Hotel. Be captivated by breathtaking views of the French Riviera, whether lounging on a daybed at the Carlton Beach Club or savouring moments on the terrace at Riviera Restaurant. Taste Anatolian excellence at Rüya, sip a personalised concoction by expert mixologists at Bar 58, and surrender to pure relaxation by the poolside or under the skilful care of aestheticians at the spa.",
-      "location_subheading": "France",
-      "price": 331,
-      "original_price": 331,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt65AAB",
-      "hero_image": "https://images.luxuryescapes.com/ygev0ifhwmron4pviknk",
-      "image_two": "https://images.luxuryescapes.com/6fwuaqxkokmoisdmk2f4",
-      "image_three": "https://images.luxuryescapes.com/gf6tnr0paabsx0r7jgnv",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "La Bastide de l’Oliveraie",
       "offer_country_name": "France",
@@ -78,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-25",
-    "hotel_count": 3,
-    "average_price": 232,
+    "last_updated": "2026-01-26",
+    "hotel_count": 2,
+    "average_price": 182,
     "average_discount": 0
   }
 }

@@ -25,42 +25,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Grand Hotel Wien",
-      "offer_country_name": "Austria",
-      "location_heading": "Vienna",
-      "title": "Luxurious Heritage Vienna Escape in the Heart of the City with Rooftop Terrace and Grand Spa",
-      "description": "Welcome to the elegant and exquisite Grand Hotel Wien, an IHG Hotel, nestled in the heart of vibrant Vienna. With a history dating back to 1870, this impressive gem has been lovingly restored to include 205 rooms and suites, seven restaurants and bars, a state-of-the-art spa and a spectacular rooftop summer terrace. Just moments away from the world-renowned Vienna State Opera and the shopping mile of Kaerntner Strasse, it couldn't be better placed for a relaxing city break.",
-      "location_subheading": "Austria",
-      "price": 417,
-      "original_price": 417,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ew6GfAAJ",
-      "hero_image": "https://images.luxuryescapes.com/0n986njikgr6yrsh25ae",
-      "image_two": "https://images.luxuryescapes.com/tusbhuwqelepum9eafdpv",
-      "image_three": "https://images.luxuryescapes.com/4vuot17o7ogdq1l8so",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Hotel Am Konzerthaus - MGallery Collection",
-      "offer_country_name": "Austria",
-      "location_heading": "Vienna",
-      "title": "Central Vienna Heritage Stay near Karlskirche with Michelin-Starred Restaurant",
-      "description": "Step into refined Viennese elegance just steps from the world-renowned Musikverein and the grand Vienna State Opera. Each artfully designed room at Hotel Am Konzerthaus Vienna - MGallery pays homage to the city’s rich musical heritage, with bespoke furnishings and curated artwork reflecting the creative spirit of Austria’s capital. Begin your day with a gourmet breakfast at APRON, the hotel’s Michelin-starred restaurant, or stroll to the Belvedere Palace to admire Klimt’s masterpieces. In the evening, enjoy expertly crafted cocktails at the chic onsite bar before exploring the vibrant Naschmarkt’s eclectic food stalls and artisan shops.",
-      "location_subheading": "Austria",
-      "price": 151,
-      "original_price": 151,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Jjs2zYAB",
-      "hero_image": "https://images.luxuryescapes.com/zvua4rtsv6c9o2oxia6n",
-      "image_two": "https://images.luxuryescapes.com/y35lkpfrsu5mot8msts",
-      "image_three": "https://images.luxuryescapes.com/1r082v9r6w7hd8cb7r55",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Hotel Indigo Vienna Naschmarkt",
       "offer_country_name": "Austria",
       "location_heading": "Vienna",
@@ -77,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 01:59:00"
-    },
-    {
-      "vendor_name": "Intercontinental Vienna",
-      "offer_country_name": "Austria",
-      "location_heading": "Vienna",
-      "title": "Five-Star Vienna City Escape Overlooking Stadtpark near Vienna State Opera",
-      "description": "Visit the motherland of musical masterpieces and coffee-house culture when you stay at the five-star InterContinental Vienna, an IHG Hotel, placed moments from iconic sights like the world-renowned Vienna State Opera and the stylish shopping district Kaerntner Strasse. Beyond the crystal chandeliers and classic décor are the exceptional Intermezzo Bar - a sultry cocktail den - and the eclectic Parlor restaurant, serving up Austrian and international specialties.",
-      "location_subheading": "Austria",
-      "price": 138,
-      "original_price": 138,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt5wAAB",
-      "hero_image": "https://images.luxuryescapes.com/t40rc7mv2k9kea2ed2kd",
-      "image_two": "https://images.luxuryescapes.com/og4zehah5je303bsbwi",
-      "image_three": "https://images.luxuryescapes.com/keah2vfkivv2z61m9us",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "voco Vienna Prater",
@@ -132,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-25",
-    "hotel_count": 6,
-    "average_price": 173,
+    "last_updated": "2026-01-26",
+    "hotel_count": 3,
+    "average_price": 110,
     "average_discount": 0
   }
 }

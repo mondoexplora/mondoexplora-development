@@ -61,24 +61,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "InterContinental Lyon - Hotel Dieu",
-      "offer_country_name": "France",
-      "location_heading": "Lyon",
-      "title": "Romantic Lyon Escape Overlooking the Rhone River",
-      "description": "Blending contemporary design with historic charm, the InterContinental Lyon - Hotel Dieu, an IHG Hotel, offers stunning views of manicured courtyards and the Rhone River. Immerse yourself in the gorgeous architecture and history of Lyon, before enjoying modern French cuisine at onsite Epona or heading out to sample the many delights of this capital of gastronomy. As the sun sets, take a moment over a glass of wine at the intimate Le Dome bar, or drink in the stunning scenery from a cosy room or suite.",
-      "location_subheading": "France",
-      "price": 277,
-      "original_price": 277,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNAFsAAP",
-      "hero_image": "https://images.luxuryescapes.com/iz1kvy4m6bznhn29zor",
-      "image_two": "https://images.luxuryescapes.com/yxt81lwvkv77pzqmcuk",
-      "image_three": "https://images.luxuryescapes.com/hx00o5gd3raq7m3llrex",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Sofitel Lyon Bellecour",
       "offer_country_name": "France",
       "location_heading": "Lyon",
@@ -114,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-25",
-    "hotel_count": 5,
-    "average_price": 172,
+    "last_updated": "2026-01-26",
+    "hotel_count": 4,
+    "average_price": 146,
     "average_discount": 0
   }
 }

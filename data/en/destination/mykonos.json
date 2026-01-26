@@ -113,24 +113,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Semeli Coast Mykonos Curio Collection By Hilton",
-      "offer_country_name": "Greece",
-      "location_heading": "Mykonos",
-      "title": "Mykonos Oceanfront Suites & Villas with Daily Breakfast & Nightly Sunset Cocktails",
-      "description": "Perched on the peaceful shores of Merchia Bay, this picturesque haven - part of Hilton's prestigious Curio Collection - is where Greek island dreams come true. With each Aegean-chic room boasting either a private jacuzzi or pool - plus breathtaking ocean views that'll stop you in your tracks - it's an escape steeped in laidback luxury. With a secluded private beach and two shimmering pools, there's no finer location for pure barefoot bliss. Savour Greek dining at the poolside Icare Restaurant and soak up a setting seemingly handmade for slow days and sunset strolls. Whether you’re floating in one of the pools or kicking back on an oversized sunbed under the Mykonian sun, Semeli Coast brings a whole new meaning to 'room with a view'.",
-      "location_subheading": "Greece",
-      "price": 1069,
-      "original_price": 3054,
-      "discount_percentage": 65,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000O1T8bYAF",
-      "hero_image": "https://images.luxuryescapes.com/526qk37ubuxj00artlq8",
-      "image_two": "https://images.luxuryescapes.com/fhv8eq263f9r9se9d4pkk",
-      "image_three": "https://images.luxuryescapes.com/777hoxh9ytuciygsmhm",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 3,
-      "end_date_utc": "2026-01-30 12:59:00"
     }
   ],
   "seo": {
@@ -150,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-25",
-    "hotel_count": 7,
-    "average_price": 393,
-    "average_discount": 9
+    "last_updated": "2026-01-26",
+    "hotel_count": 6,
+    "average_price": 281,
+    "average_discount": 0
   }
 }

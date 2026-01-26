@@ -12,16 +12,7 @@
       "description": "Explore Cabo San Lucas with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 451
-    },
-    {
-      "name": "Los Cabos",
-      "slug": "los-cabos",
-      "image": "https://images.luxuryescapes.com/edqtv8330piiyf8k7dp",
-      "description": "Explore Los Cabos with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 726
+      "avg_price": 449
     },
     {
       "name": "Cancun",
@@ -30,25 +21,16 @@
       "description": "Explore Cancun with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 392
+      "avg_price": 393
     },
     {
-      "name": "Playa del Carmen",
-      "slug": "playa-del-carmen",
-      "image": "https://images.luxuryescapes.com/acteyk3as9c0gja6heks",
-      "description": "Explore Playa del Carmen with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 704
-    },
-    {
-      "name": "Mexico City",
-      "slug": "mexico-city",
-      "image": "https://images.luxuryescapes.com/x9kez45e1406vdu2sika",
-      "description": "Explore Mexico City with luxury accommodations",
+      "name": "Los Cabos",
+      "slug": "los-cabos",
+      "image": "https://images.luxuryescapes.com/edqtv8330piiyf8k7dp",
+      "description": "Explore Los Cabos with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 230
+      "avg_price": 601
     },
     {
       "name": "Nuevo Vallarta",
@@ -57,7 +39,25 @@
       "description": "Explore Nuevo Vallarta with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 326
+      "avg_price": 324
+    },
+    {
+      "name": "Playa del Carmen",
+      "slug": "playa-del-carmen",
+      "image": "https://images.luxuryescapes.com/acteyk3as9c0gja6heks",
+      "description": "Explore Playa del Carmen with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 388
+    },
+    {
+      "name": "Mexico City",
+      "slug": "mexico-city",
+      "image": "https://images.luxuryescapes.com/x9kez45e1406vdu2sika",
+      "description": "Explore Mexico City with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 99
     }
   ],
   "seo": {

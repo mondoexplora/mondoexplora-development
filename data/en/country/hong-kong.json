@@ -10,18 +10,18 @@
       "slug": "hong-kong",
       "image": "https://images.luxuryescapes.com/nx7wfyngrso287oeu67g",
       "description": "Explore Hong Kong with luxury accommodations",
-      "hotel_count": 11,
-      "hotel_deals": 11,
-      "avg_price": 252
+      "hotel_count": 10,
+      "hotel_deals": 10,
+      "avg_price": 263
     },
     {
       "name": "Kowloon",
       "slug": "kowloon",
       "image": "https://images.luxuryescapes.com/2qlq887yry4nj76wwf",
       "description": "Explore Kowloon with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 176
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 173
     },
     {
       "name": "Hong Kong Island",
@@ -30,7 +30,7 @@
       "description": "Explore Hong Kong Island with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 223
+      "avg_price": 221
     },
     {
       "name": "Hung Hom Bay",
@@ -39,7 +39,7 @@
       "description": "Explore Hung Hom Bay with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 425
+      "avg_price": 424
     },
     {
       "name": "Tsim Sha Tsui",
@@ -51,13 +51,13 @@
       "avg_price": 371
     },
     {
-      "name": "Wan Chai",
-      "slug": "wan-chai",
-      "image": "https://images.luxuryescapes.com/4374u90jxi90inl2rha",
-      "description": "Explore Wan Chai with luxury accommodations",
+      "name": "Causeway Bay",
+      "slug": "causeway-bay",
+      "image": "https://images.luxuryescapes.com/uvpm85ne8u02wh4teql",
+      "description": "Explore Causeway Bay with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 147
+      "avg_price": 195
     }
   ],
   "seo": {

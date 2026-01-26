@@ -4,44 +4,8 @@
   "country_code": "NZ",
   "hero_title": "Hotels in Queenstown",
   "description": "Discover the best hotels in Queenstown, New Zealand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ylb8648jzk6x01er2cyr",
+  "hero_image": "https://images.luxuryescapes.com/s3ce0c0dur9523vym3g7",
   "hotels": [
-    {
-      "vendor_name": "Crowne Plaza Queenstown",
-      "offer_country_name": "New Zealand",
-      "location_heading": "Queenstown",
-      "title": "Crowne Plaza Queenstown Retreat Overlooking Lake Wakatipu & The Remarkables",
-      "description": "Immerse yourself in the awe-inspiring natural beauty, vibrant dining scene, and heart-pumping adventures of Queenstown with a stay at Crowne Plaza Queenstown. With excellent amenities, the renowned Threesixty Restaurant and Bar, modern fitness centre, onsite heated storage room for skis, boards and snow gear, and service typical of the world-renowned Crowne brand, it's no surprise this hotel is a frequent TripAdvisor Travellers' Choice Award winner. Whether you’re in it for the stunning snow-capped mountains, adrenaline-fuelled bungy jumps, backcountry tracks or the most scenic vineyards in New Zealand, a stay in Queenstown will enrapture you with its thrumming activity hub, dynamic downtown restaurant scene and rugged beauty.",
-      "location_subheading": "New Zealand",
-      "price": 136,
-      "original_price": 136,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6lAAB",
-      "hero_image": "https://images.luxuryescapes.com/ylb8648jzk6x01er2cyr",
-      "image_two": "https://images.luxuryescapes.com/wkosk53ishp5jv2eytoj",
-      "image_three": "https://images.luxuryescapes.com/a5cka4ctjekvgu9vn79",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Eichardt's Private Hotel",
-      "offer_country_name": "New Zealand",
-      "location_heading": "Queenstown",
-      "title": "Lakeside Queenstown Heritage Escape with Daily Breakfast, NZ$150 Dining Credit & Nightly Drink",
-      "description": "Step into a world of timeless elegance, poised on the shores of Lake Wakatipu. For more than 160 years, Eichardt's Private Hotel has stood as one of Queenstown's most distinguished addresses, a heritage retreat where historic charm meets contemporary luxury. Every corner of this boutique retreat has been designed to maximise breathtaking alpine views - whether you're sipping coffee on a private balcony or cosied up by the fireplace in your luxurious suite. After days spent exploring Queenstown's boutique galleries, scenic walking trails or world-class ski resorts, retreat to the hotel for a feast at The Grille, where locally sourced ingredients shine in a bistro-style menu. A nightcap at Eichardt's Bar is the perfect way to end a day in Queenstown.",
-      "location_subheading": "New Zealand",
-      "price": 1119,
-      "original_price": 1805,
-      "discount_percentage": 38,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000IF8R8YAL",
-      "hero_image": "https://images.luxuryescapes.com/xb9cscf0ilpim1nprb8",
-      "image_two": "https://images.luxuryescapes.com/2vcwfptz1popzn882y2i",
-      "image_three": "https://images.luxuryescapes.com/x5scepfuvsm49maarsfn",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-02-10 12:59:00"
-    },
     {
       "vendor_name": "Holiday Inn Queenstown Frankton Road",
       "offer_country_name": "New Zealand",
@@ -312,9 +276,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-25",
-    "hotel_count": 16,
-    "average_price": 574,
-    "average_discount": 5
+    "last_updated": "2026-01-26",
+    "hotel_count": 14,
+    "average_price": 567,
+    "average_discount": 3
   }
 }

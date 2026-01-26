@@ -4,26 +4,8 @@
   "country_code": "NZ",
   "hero_title": "Hotels in Napier",
   "description": "Discover the best hotels in Napier, New Zealand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/i80qqyq5d1i0s2u2gt8",
+  "hero_image": "https://images.luxuryescapes.com/99inb886zcn8su97unw7",
   "hotels": [
-    {
-      "vendor_name": "The County Hotel",
-      "offer_country_name": "New Zealand",
-      "location_heading": "Napier",
-      "title": "Heritage Napier Escape in New Zealand's Art Deco Capital",
-      "description": "Get your fix of Art Deco charm in Napier's premier hotel. This idyllic refuge dating back to 1909, originally built for the Hawke's Bay County Council, has now been faithfully refurbished to combine the appeal of its heritage architecture with the ease and convenience of modern luxury. The hotel boasts not one but two fine-dining restaurants - taste the South Pacific at the elegant Wine Street restaurant or try a huge selection of the best wines and champagnes from the region and the world at Churchill’s Champagne & Snug Bar. If you can tear yourself away from the hotel, you'll find yourself in the centre of Napier, considered the ‘Art Deco Capital of the South Pacific’. After taking in the town's architecture, make the most of your superb location - explore the nearby beaches and wineries for which Hawke's Bay is renowned, or admire the rugged landscapes of Cape Kidnappers.",
-      "location_subheading": "New Zealand",
-      "price": 113,
-      "original_price": 113,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000008fSFZAA2",
-      "hero_image": "https://images.luxuryescapes.com/i80qqyq5d1i0s2u2gt8",
-      "image_two": "https://images.luxuryescapes.com/hiz4kjl8qs8nmjtmf3du",
-      "image_three": "https://images.luxuryescapes.com/0ii2h617tw0xgz293d",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "The County Hotel",
       "offer_country_name": "New Zealand",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-02-10 12:59:00"
+    },
+    {
+      "vendor_name": "The County Hotel",
+      "offer_country_name": "New Zealand",
+      "location_heading": "Napier",
+      "title": "Heritage Napier Escape in New Zealand's Art Deco Capital",
+      "description": "Get your fix of Art Deco charm in Napier's premier hotel. This idyllic refuge dating back to 1909, originally built for the Hawke's Bay County Council, has now been faithfully refurbished to combine the appeal of its heritage architecture with the ease and convenience of modern luxury. The hotel boasts not one but two fine-dining restaurants - taste the South Pacific at the elegant Wine Street restaurant or try a huge selection of the best wines and champagnes from the region and the world at Churchill’s Champagne & Snug Bar. If you can tear yourself away from the hotel, you'll find yourself in the centre of Napier, considered the ‘Art Deco Capital of the South Pacific’. After taking in the town's architecture, make the most of your superb location - explore the nearby beaches and wineries for which Hawke's Bay is renowned, or admire the rugged landscapes of Cape Kidnappers.",
+      "location_subheading": "New Zealand",
+      "price": 113,
+      "original_price": 113,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000008fSFZAA2",
+      "hero_image": "https://images.luxuryescapes.com/i80qqyq5d1i0s2u2gt8",
+      "image_two": "https://images.luxuryescapes.com/hiz4kjl8qs8nmjtmf3du",
+      "image_three": "https://images.luxuryescapes.com/0ii2h617tw0xgz293d",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-25",
+    "last_updated": "2026-01-26",
     "hotel_count": 2,
     "average_price": 171,
     "average_discount": 29

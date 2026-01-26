@@ -41,24 +41,6 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Hotel Melia Orlando Celebration",
-      "offer_country_name": "United States",
-      "location_heading": "Orlando",
-      "title": "Family-Friendly Orlando Escape with Daily Drinks, Included Resort Fees & Walt Disney World® Resort Shuttle",
-      "description": "Adventure and magic await at this family-friendly _Walt Disney World Good Neighbor_® Meliá stay, located just minutes from the world-famous _Walt Disney World®_. With packages for up to six guests and a prime position in the village of Celebration - with palm-lined streets, charming boutiques and inviting restaurants all laid out according to The Walt Disney Company's original specifications - you'll be perfectly placed to experience all the action, with complimentary shuttles to Walt Disney World®, Universal Orlando™, _SeaWorld Orlando™_ and more. When you're not exploring the parks, spend time lazing by the resort's lagoon-style heated pool, sink into bliss at the nearby AdventHealth Wellness Center & Spa (access included), build an appetite up at the onsite volleyball net by the pool area or feast on coastal cuisine at The Wilson.",
-      "location_subheading": "United States",
-      "price": 479,
-      "original_price": 1228,
-      "discount_percentage": 61,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PnCrHYAV",
-      "hero_image": "https://images.luxuryescapes.com/qklvpbr8xb43n65amihf",
-      "image_two": "https://images.luxuryescapes.com/rvh5fva68mzcz8wdbjl",
-      "image_three": "https://images.luxuryescapes.com/vwxda2vttqnelw507z1q",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 4,
-      "end_date_utc": "2026-02-02 12:59:00"
     }
   ],
   "seo": {
@@ -78,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-25",
-    "hotel_count": 3,
-    "average_price": 227,
-    "average_discount": 20
+    "last_updated": "2026-01-26",
+    "hotel_count": 2,
+    "average_price": 101,
+    "average_discount": 0
   }
 }
