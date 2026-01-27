@@ -3,17 +3,8 @@
   "code": "PH",
   "hero_title": "Philippines Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Philippines.",
-  "hero_image": "https://images.luxuryescapes.com/fzjeq2o6fvlnxb87az9n",
+  "hero_image": "https://images.luxuryescapes.com/gj4o01hubz6pn19ozmo",
   "popular_destinations": [
-    {
-      "name": "Manila",
-      "slug": "manila",
-      "image": "https://images.luxuryescapes.com/fzjeq2o6fvlnxb87az9n",
-      "description": "Explore Manila with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 137
-    },
     {
       "name": "Boracay",
       "slug": "boracay",
@@ -30,7 +21,16 @@
       "description": "Explore Panglao with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 204
+      "avg_price": 203
+    },
+    {
+      "name": "Manila",
+      "slug": "manila",
+      "image": "https://images.luxuryescapes.com/gec7egps7f93095kj3yi",
+      "description": "Explore Manila with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 81
     },
     {
       "name": "Mactan",

@@ -3,43 +3,43 @@
   "code": "DE",
   "hero_title": "Germany Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Germany.",
-  "hero_image": "https://images.luxuryescapes.com/slbwbkhtxwk15zuaxs4",
+  "hero_image": "https://images.luxuryescapes.com/o8o2oduntgt5ctimxjw",
   "popular_destinations": [
     {
       "name": "Berlin",
       "slug": "berlin",
-      "image": "https://images.luxuryescapes.com/slbwbkhtxwk15zuaxs4",
+      "image": "https://images.luxuryescapes.com/o8o2oduntgt5ctimxjw",
       "description": "Explore Berlin with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 147
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 181
     },
     {
       "name": "Frankfurt",
       "slug": "frankfurt",
-      "image": "https://images.luxuryescapes.com/3jkn70tstn9sxal7h9of",
+      "image": "https://images.luxuryescapes.com/wqz7umyntbxuqw13j1",
       "description": "Explore Frankfurt with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 123
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 162
     },
     {
       "name": "Munich",
       "slug": "munich",
       "image": "https://images.luxuryescapes.com/43mhpife4gzr2fut19on",
       "description": "Explore Munich with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 273
-    },
-    {
-      "name": "Dusseldorf",
-      "slug": "dusseldorf",
-      "image": "https://images.luxuryescapes.com/0a7yiewi4pi9egm9i2eh",
-      "description": "Explore Dusseldorf with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 91
+      "avg_price": 397
+    },
+    {
+      "name": "Hamburg",
+      "slug": "hamburg",
+      "image": "https://images.luxuryescapes.com/tfes5lgqtc1dwksjv6n7",
+      "description": "Explore Hamburg with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 101
     },
     {
       "name": "Baden-Baden",
@@ -51,13 +51,13 @@
       "avg_price": 375
     },
     {
-      "name": "Freising",
-      "slug": "freising",
-      "image": "https://images.luxuryescapes.com/6rzrzrz4twygdt4v0ls",
-      "description": "Explore Freising with luxury accommodations",
+      "name": "Garmisch-Partenkirchen",
+      "slug": "garmisch-partenkirchen",
+      "image": "https://images.luxuryescapes.com/tovaydbw4f8bpjmgc38",
+      "description": "Explore Garmisch-Partenkirchen with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 69
+      "avg_price": 128
     }
   ],
   "seo": {

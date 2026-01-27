@@ -25,6 +25,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Kimpton Virgilio",
+      "offer_country_name": "Mexico",
+      "location_heading": "Mexico City",
+      "title": "Mexico City Escape in Vibrant Polanco with Rooftop Pool & Bar",
+      "description": "Kimpton Virgilio, an IHG Hotel is a vibrant oasis in the heart of Mexico City. Located in Pilanco, you'll be best placed to explore the upscale boutiques, restaurants and museums that make this neighbourhood so undeniably cool. Spend your days basking in the sunshine by the rooftop pool and keeping hydrated at La Caña bar. For an authentic Spanish and Latin tapas experience, head down to Pepe Mesa Española restaurant, where share platters and colourful cocktails burst with flavour.",
+      "location_subheading": "Mexico",
+      "price": 291,
+      "original_price": 291,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GxYSQAA3",
+      "hero_image": "https://images.luxuryescapes.com/y847ppxetfapajmd0ekn",
+      "image_two": "https://images.luxuryescapes.com/702a1wetkvyjnb283pp",
+      "image_three": "https://images.luxuryescapes.com/numtle19otxmlypsd6wn",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Novotel Mexico City World Trade Center",
       "offer_country_name": "Mexico",
       "location_heading": "Mexico City",
@@ -39,6 +57,24 @@
       "image_two": "https://images.luxuryescapes.com/icknksmc9kla6cabafh4",
       "image_three": "https://images.luxuryescapes.com/75nw2gazh5a6k1yvt0vs",
       "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Sofitel Mexico City Reforma",
+      "offer_country_name": "Mexico",
+      "location_heading": "Mexico City",
+      "title": "Mexico City Glamour in Historic Reforma District with Sky-High Pool, Rooftop Bar & Spa",
+      "description": "Perched along Mexico City’s legendary Reforma Avenue, this urban Sofitel sanctuary offers a seamless fusion of Parisian elegance and Mexican carnivalesque spirit. Soak up panoramic views of the cityscape from the hotel's plush rooms, relax with blissful treatments at the spa and enjoy a dip in the city's highest saltwater pool, perched on the 38th floor. Savour Mediterranean specialities at Balta, Mexican fire-inspired cuisine at Bajel, and cocktails paired with city views at Cityzen Rooftop Bar. For something unique, head to the speakeasy Freehouse for drinks and Prohibition-era charms. When it's time to explore, you'll find yourself steps from the Angel of Independence monument while Zona Rosa's boutiques and nightlife await.",
+      "location_subheading": "Mexico",
+      "price": 417,
+      "original_price": 417,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GWVykYAH",
+      "hero_image": "https://images.luxuryescapes.com/5bka3r5644dcjxj3uln",
+      "image_two": "https://images.luxuryescapes.com/xipiocbbcb83hdt5tnpb",
+      "image_three": "https://images.luxuryescapes.com/66dkeuxvax9irwvybh",
+      "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     }
@@ -60,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-26",
-    "hotel_count": 2,
-    "average_price": 99,
+    "last_updated": "2026-01-27",
+    "hotel_count": 4,
+    "average_price": 226,
     "average_discount": 0
   }
 }

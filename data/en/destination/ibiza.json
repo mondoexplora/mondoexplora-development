@@ -4,26 +4,8 @@
   "country_code": "ES",
   "hero_title": "Hotels in Ibiza",
   "description": "Discover the best hotels in Ibiza, Spain. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/km0y1pe9t375yfveyt9",
+  "hero_image": "https://images.luxuryescapes.com/nzvnzbd8uplu4tu7urfd5",
   "hotels": [
-    {
-      "vendor_name": "Hyde Ibiza",
-      "offer_country_name": "Spain",
-      "location_heading": "Ibiza",
-      "title": "Boho-Chic Ibiza Escape near Cala Llonga Beach with Seven Restaurants & Bars",
-      "description": "Laidback luxury meets Ibiza's iconic island energy at this stylish retreat, nestled in the vibrant heart of Cala Llonga. Hyde Ibiza features three shimmering pools, seven eclectic dining venues-including Cuyo, Niko, Bungalow, Sonrojo, and Sun & Moon-and direct access to the serene sands of Cala Llonga Beach, providing the perfect balance of relaxation and adventure. Guests can indulge in creative culinary experiences, lounge by the pool with a cocktail in hand, or explore Ibiza’s renowned nightlife and cultural treasures just moments away. Whether you're seeking a sun-soaked getaway or an exciting island adventure, Hyde Ibiza delivers an effortlessly cool stay in one of Europe’s most beloved destinations.",
-      "location_subheading": "Spain",
-      "price": 136,
-      "original_price": 136,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GRvaTYAT",
-      "hero_image": "https://images.luxuryescapes.com/km0y1pe9t375yfveyt9",
-      "image_two": "https://images.luxuryescapes.com/q9fjp69m6ubbmy640b27",
-      "image_three": "https://images.luxuryescapes.com/uvxugjyulfnr8u1oesx",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Montesol Experimental Ibiza",
       "offer_country_name": "Spain",
@@ -114,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-26",
-    "hotel_count": 5,
-    "average_price": 317,
+    "last_updated": "2026-01-27",
+    "hotel_count": 4,
+    "average_price": 363,
     "average_discount": 0
   }
 }

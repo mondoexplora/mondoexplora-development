@@ -4,8 +4,26 @@
   "country_code": "CA",
   "hero_title": "Hotels in Vancouver",
   "description": "Discover the best hotels in Vancouver, Canada. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/2vk37khd86hzkyz03ge",
+  "hero_image": "https://images.luxuryescapes.com/5fcqyfaafdcpsgnucgj7",
   "hotels": [
+    {
+      "vendor_name": "Fairmont Hotel Vancouver",
+      "offer_country_name": "Canada",
+      "location_heading": "Vancouver",
+      "title": "Five-Star Vancouver Fairmont Elegance with Pool and Skyline Views in the Heart of Downtown",
+      "description": "Experience the grandeur of Fairmont Hotel Vancouver, majestically standing in the heart of the city's bustling shopping and cultural district. Known as the 'Castle in the City', this hotel opened in 1939 and is where timeless elegance meets modern luxury. Relax in the hotel's state-of-the-art health club before retreating to the acclaimed Notch8 Restaurant & Bar for a sumptuous meal. Beyond the hotel explore the nearby Vancouver Art Gallery or shop at the high-end boutiques on Robson Street and refuel at the Granville Island Public Market, where a diverse assortment of fresh, local produce awaits. Your central launchpad is a short stroll from the stunning Stanley Park, where you can enjoy a leisurely walk along the Vancouver Seawall or visit the Vancouver Aquarium.",
+      "location_subheading": "Canada",
+      "price": 237,
+      "original_price": 237,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GRlZWYA1",
+      "hero_image": "https://images.luxuryescapes.com/5fcqyfaafdcpsgnucgj7",
+      "image_two": "https://images.luxuryescapes.com/vu7zalpmpmmzsgsxskub",
+      "image_three": "https://images.luxuryescapes.com/scrvqexe4dxwlab61my",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Fairmont Pacific Rim",
       "offer_country_name": "Canada",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-26",
-    "hotel_count": 2,
-    "average_price": 344,
+    "last_updated": "2026-01-27",
+    "hotel_count": 3,
+    "average_price": 308,
     "average_discount": 0
   }
 }

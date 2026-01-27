@@ -28,24 +28,6 @@
       "vendor_name": "Pacific Resort Aitutaki",
       "offer_country_name": "Cook Islands",
       "location_heading": "Aitutaki",
-      "title": "Award-Winning Cook Islands Beachfront Hideaway with Daily Breakfast & Return Airport Transfers",
-      "description": "In the heart of the shimmering South Pacific lies the beautifully remote Pacific Resort Aitutaki. A short flight from Rarotonga, the serene blue-green lagoon, nodding palm trees and crystal-clear skies of this five-star escape will take your breath away. The resort is a true taste of heaven, with just 29 intimate thatched beachfront bungalows delivering unparalleled seclusion and hospitality. However you choose to experience it, this far-flung island paradise is yours to enjoy at your own pace. Whether that's taking a refreshing dip in the palm-fringed infinity pool, kayaking the length of the island, being pampered at the onsite spa or finding your spot among the palms on Aitutaki's secluded beachfront, you're sure to find your bliss in this divine corner of the world.",
-      "location_subheading": "Cook Islands",
-      "price": 2239,
-      "original_price": 5598,
-      "discount_percentage": 60,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000N5WJmYAN",
-      "hero_image": "https://images.luxuryescapes.com/sk3ai4mvkw1ul0fc0wm",
-      "image_two": "https://images.luxuryescapes.com/zl21jahkrq1e503hjllu",
-      "image_three": "https://images.luxuryescapes.com/shvy39jraf2aodw3xm2",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 5,
-      "end_date_utc": "2026-02-03 12:59:00"
-    },
-    {
-      "vendor_name": "Pacific Resort Aitutaki",
-      "offer_country_name": "Cook Islands",
-      "location_heading": "Aitutaki",
       "title": "Five-Star Cook Islands Aitutaki Escape with Daily Breakfast & Roundtrip Airport Transfers",
       "description": "Beautifully remote, this luxurious escape in the heart of the South Pacific is just as nature intended. A vision of pristine isolation, the shimmering blue-green lagoon, nodding palm trees and crystal-clear skies at the five-star Pacific Resort Aitutaki will take your breath away. This is a true taste of heaven where just 29 intimate thatched beachfront bungalows deliver unparalleled seclusion and award-winning serenity in the iconic Cook Islands. A short flight from Rarotonga, one of only two Cook Islands resorts included in the prestigious Small Luxury Hotels of the World collection and named among the top 25 small hotels in the South Pacific at the Tripadvisor Travellers' Choice, Best of the Best 2023 awards, this far-flung island resort is your piece of paradise to enjoy at your own pace. Whether that's taking a refreshing dip in the palm-fringed infinity pool, kayaking the length of the island, being pampered at the award-winning spa or finding your spot among the palms and volcanic rocks scattered on Aitutaki's secluded beachfront.",
       "location_subheading": "Cook Islands",
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Pacific Resort Aitutaki",
+      "offer_country_name": "Cook Islands",
+      "location_heading": "Aitutaki",
+      "title": "Award-Winning Cook Islands Beachfront Hideaway with Daily Breakfast & Return Airport Transfers",
+      "description": "In the heart of the shimmering South Pacific lies the beautifully remote Pacific Resort Aitutaki. A short flight from Rarotonga, the serene blue-green lagoon, nodding palm trees and crystal-clear skies of this five-star escape will take your breath away. The resort is a true taste of heaven, with just 29 intimate thatched beachfront bungalows delivering unparalleled seclusion and hospitality. However you choose to experience it, this far-flung island paradise is yours to enjoy at your own pace. Whether that's taking a refreshing dip in the palm-fringed infinity pool, kayaking the length of the island, being pampered at the onsite spa or finding your spot among the palms on Aitutaki's secluded beachfront, you're sure to find your bliss in this divine corner of the world.",
+      "location_subheading": "Cook Islands",
+      "price": 2239,
+      "original_price": 5598,
+      "discount_percentage": 60,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000N5WJmYAN",
+      "hero_image": "https://images.luxuryescapes.com/sk3ai4mvkw1ul0fc0wm",
+      "image_two": "https://images.luxuryescapes.com/zl21jahkrq1e503hjllu",
+      "image_three": "https://images.luxuryescapes.com/shvy39jraf2aodw3xm2",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2026-02-03 12:59:00"
     },
     {
       "vendor_name": "Resort Tava'e",
@@ -114,7 +114,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-26",
+    "last_updated": "2026-01-27",
     "hotel_count": 5,
     "average_price": 846,
     "average_discount": 16

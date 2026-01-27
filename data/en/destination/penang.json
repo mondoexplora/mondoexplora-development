@@ -61,6 +61,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Mercure Penang Beach",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Penang",
+      "title": "Tranquil Penang Beachfront Escape with Outdoor Pool & Onsite Restaurant",
+      "description": "The tropical charms of Penang are yours to embrace from this stylish sanctuary, perfectly perched along the sandy shores of Penang Island and overlooking the azure waters of the Malacca Strait. Each room features bold-coloured furnishings that flawlessly contrast the stunning views that can be seen from its vast windows. Take a refreshing dip in the hotel's sparkling pool that offers mesmerising sea vistas, sip on epic cocktails at the M Bar or tuck into authentic Malaysian cuisine at The Ombark restaurant. When you're not dipping your toes in the powder-soft sands of the beach, venture beyond the hotel and explore George Town, famed for its vibrant street art and colonial architecture, try out water sports at Batu Ferringhi, or take a funicular train ride up Penang Hill to enjoy panoramic island vistas.",
+      "location_subheading": "Malaysia",
+      "price": 52,
+      "original_price": 52,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP3XYAV",
+      "hero_image": "https://images.luxuryescapes.com/mteszwougj0i15u1mks",
+      "image_two": "https://images.luxuryescapes.com/y484t5mszrhiecspvj3r",
+      "image_three": "https://images.luxuryescapes.com/63vva16wejyd9zrlz33r",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Parkroyal Penang Resort",
       "offer_country_name": "Malaysia",
       "location_heading": "Penang",
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-26",
-    "hotel_count": 6,
-    "average_price": 103,
+    "last_updated": "2026-01-27",
+    "hotel_count": 7,
+    "average_price": 96,
     "average_discount": 0
   }
 }

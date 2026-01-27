@@ -10,54 +10,54 @@
       "slug": "hanoi",
       "image": "https://images.luxuryescapes.com/gyi5m2dyywvdyi2xtrx",
       "description": "Explore Hanoi with luxury accommodations",
-      "hotel_count": 11,
-      "hotel_deals": 11,
-      "avg_price": 161
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 135
     },
     {
       "name": "Phu Quoc",
       "slug": "phu-quoc",
-      "image": "https://images.luxuryescapes.com/fqwdthuy1wk6bvnzbh",
+      "image": "https://images.luxuryescapes.com/2s0rmkujeyjup89c72ra",
       "description": "Explore Phu Quoc with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 412
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 478
     },
     {
       "name": "Hoi An",
       "slug": "hoi-an",
       "image": "https://images.luxuryescapes.com/dkgsrjwqkqrfcvpxmchk",
       "description": "Explore Hoi An with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 234
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 262
+    },
+    {
+      "name": "Da Nang",
+      "slug": "da-nang",
+      "image": "https://images.luxuryescapes.com/dbcytx308e99am4uadjj",
+      "description": "Explore Da Nang with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 405
+    },
+    {
+      "name": "Danang",
+      "slug": "danang",
+      "image": "https://images.luxuryescapes.com/erbmey0ulpdnkswl9am",
+      "description": "Explore Danang with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 318
     },
     {
       "name": "Ho Chi Minh City",
       "slug": "ho-chi-minh-city",
       "image": "https://images.luxuryescapes.com/gneo9fura76d3qfnox58",
       "description": "Explore Ho Chi Minh City with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 203
-    },
-    {
-      "name": "Nha Trang",
-      "slug": "nha-trang",
-      "image": "https://images.luxuryescapes.com/u4ufey4u1clqzmvqipzo",
-      "description": "Explore Nha Trang with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 135
-    },
-    {
-      "name": "Ho Tram",
-      "slug": "ho-tram",
-      "image": "https://images.luxuryescapes.com/dyj89jne3okqo8yvk5",
-      "description": "Explore Ho Tram with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 355
+      "avg_price": 214
     }
   ],
   "seo": {

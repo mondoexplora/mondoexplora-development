@@ -3,16 +3,16 @@
   "code": "LK",
   "hero_title": "Sri Lanka Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Sri Lanka.",
-  "hero_image": "https://images.luxuryescapes.com/7g4sby4zoznh3y8fldd",
+  "hero_image": "https://images.luxuryescapes.com/64gnmm9rrfiy2v32ir5r",
   "popular_destinations": [
     {
-      "name": "Hambantota",
-      "slug": "hambantota",
-      "image": "https://images.luxuryescapes.com/7g4sby4zoznh3y8fldd",
-      "description": "Explore Hambantota with luxury accommodations",
+      "name": "Kandy",
+      "slug": "kandy",
+      "image": "https://images.luxuryescapes.com/64gnmm9rrfiy2v32ir5r",
+      "description": "Explore Kandy with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 362
+      "avg_price": 580
     },
     {
       "name": "Kalutara",
@@ -26,20 +26,11 @@
     {
       "name": "Colombo",
       "slug": "colombo",
-      "image": "https://images.luxuryescapes.com/5ozf29ng1xt0h6k7vje",
+      "image": "https://images.luxuryescapes.com/m3py84qyeqonf7hjymo",
       "description": "Explore Colombo with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
       "avg_price": 252
-    },
-    {
-      "name": "Kandy",
-      "slug": "kandy",
-      "image": "https://images.luxuryescapes.com/pvt6ytekdhc6y95lbze",
-      "description": "Explore Kandy with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 321
     },
     {
       "name": "Kalkudah",
@@ -58,6 +49,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 559
+    },
+    {
+      "name": "Ahungalla",
+      "slug": "ahungalla",
+      "image": "https://images.luxuryescapes.com/u2smx3jm1hb975asir9j",
+      "description": "Explore Ahungalla with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 325
     }
   ],
   "seo": {

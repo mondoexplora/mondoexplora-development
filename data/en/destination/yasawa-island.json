@@ -4,26 +4,8 @@
   "country_code": "FJ",
   "hero_title": "Hotels in Yasawa Island",
   "description": "Discover the best hotels in Yasawa Island, Fiji. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/bi6db9dezf8709m1vza",
+  "hero_image": "https://images.luxuryescapes.com/4nm0gxsfmfukilw0koxsn",
   "hotels": [
-    {
-      "vendor_name": "Yasawa Island Resort and Spa",
-      "offer_country_name": "Fiji",
-      "location_heading": "Yasawa Island",
-      "title": "Boutique Fiji Island Paradise Surrounded By 11 Private Beaches",
-      "description": "Savour unique seclusion on one of Yasawa Island’s remote islets at the exclusive Yasawa Island Resort & Spa, moments from 11 private beaches, where quiet moments on the sugar-fine sands with someone special await. An adults-only paradise just off the coast of Nadi, this private resort welcomes less than 50 guests at any one time, with just 18 luxury bures hidden among the luscious tropical greenery, each mere moments from silky white-sand beachfront. You might be inclined to dedicate all your time to the champagne shores' endless splendour, but this resort has plenty to offer beyond the stunning backdrop. Snorkel coral reefs, explore the iconic Blue Lagoon Caves (entry fee applies), gain a fascinating insight into local culture with a kava ceremony or participate in cooking demonstrations.",
-      "location_subheading": "Fiji",
-      "price": 3044,
-      "original_price": 3044,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y0000042DGiAAM",
-      "hero_image": "https://images.luxuryescapes.com/bi6db9dezf8709m1vza",
-      "image_two": "https://images.luxuryescapes.com/2d9atl7js5lm4mc3kwb",
-      "image_three": "https://images.luxuryescapes.com/ve0afuax2aa8n2rcz0s",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 3,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Yasawa Island Resort and Spa",
       "offer_country_name": "Fiji",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 5,
       "end_date_utc": "2026-02-24 12:59:00"
+    },
+    {
+      "vendor_name": "Yasawa Island Resort and Spa",
+      "offer_country_name": "Fiji",
+      "location_heading": "Yasawa Island",
+      "title": "Boutique Fiji Island Paradise Surrounded By 11 Private Beaches",
+      "description": "Savour unique seclusion on one of Yasawa Island’s remote islets at the exclusive Yasawa Island Resort & Spa, moments from 11 private beaches, where quiet moments on the sugar-fine sands with someone special await. An adults-only paradise just off the coast of Nadi, this private resort welcomes less than 50 guests at any one time, with just 18 luxury bures hidden among the luscious tropical greenery, each mere moments from silky white-sand beachfront. You might be inclined to dedicate all your time to the champagne shores' endless splendour, but this resort has plenty to offer beyond the stunning backdrop. Snorkel coral reefs, explore the iconic Blue Lagoon Caves (entry fee applies), gain a fascinating insight into local culture with a kava ceremony or participate in cooking demonstrations.",
+      "location_subheading": "Fiji",
+      "price": 3044,
+      "original_price": 3044,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y0000042DGiAAM",
+      "hero_image": "https://images.luxuryescapes.com/bi6db9dezf8709m1vza",
+      "image_two": "https://images.luxuryescapes.com/2d9atl7js5lm4mc3kwb",
+      "image_three": "https://images.luxuryescapes.com/ve0afuax2aa8n2rcz0s",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 3,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-26",
+    "last_updated": "2026-01-27",
     "hotel_count": 2,
     "average_price": 3122,
     "average_discount": 18

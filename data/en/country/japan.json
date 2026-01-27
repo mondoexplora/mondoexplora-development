@@ -10,36 +10,27 @@
       "slug": "tokyo",
       "image": "https://images.luxuryescapes.com/kiynmoi9772c9xpopp3p",
       "description": "Explore Tokyo with luxury accommodations",
-      "hotel_count": 12,
-      "hotel_deals": 12,
-      "avg_price": 328
-    },
-    {
-      "name": "Kyoto",
-      "slug": "kyoto",
-      "image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
-      "description": "Explore Kyoto with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 313
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 349
     },
     {
       "name": "Osaka",
       "slug": "osaka",
       "image": "https://images.luxuryescapes.com/w6yajqubr4hmr9rsyhpu",
       "description": "Explore Osaka with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 298
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 275
     },
     {
-      "name": "Sapporo",
-      "slug": "sapporo",
-      "image": "https://images.luxuryescapes.com/bo6udncydom5cvvsjnhq",
-      "description": "Explore Sapporo with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 69
+      "name": "Kyoto",
+      "slug": "kyoto",
+      "image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
+      "description": "Explore Kyoto with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 362
     },
     {
       "name": "Okinawa",
@@ -48,7 +39,7 @@
       "description": "Explore Okinawa with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 84
+      "avg_price": 85
     },
     {
       "name": "Hachimantai-shi",
@@ -58,6 +49,15 @@
       "hotel_count": 2,
       "hotel_deals": 2,
       "avg_price": 147
+    },
+    {
+      "name": "Inuyama",
+      "slug": "inuyama",
+      "image": "https://images.luxuryescapes.com/rx571hfucf1pan6u5ll",
+      "description": "Explore Inuyama with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 121
     }
   ],
   "seo": {

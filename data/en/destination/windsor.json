@@ -1,37 +1,37 @@
 {
   "city": "Windsor",
-  "country": "Australia",
-  "country_code": "AU",
+  "country": "United Kingdom",
+  "country_code": "GB",
   "hero_title": "Hotels in Windsor",
-  "description": "Discover the best hotels in Windsor, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/7fh9okb7uij1x19ccqxh",
+  "description": "Discover the best hotels in Windsor, United Kingdom. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/x0u9225snmwplqejfz8",
   "hotels": [
     {
-      "vendor_name": "Crowne Plaza Hawkesbury Valley",
-      "offer_country_name": "Australia",
+      "vendor_name": "Fairmont Windsor Park",
+      "offer_country_name": "United Kingdom",
       "location_heading": "Windsor",
-      "title": "Luxurious Hawkesbury River Boutique Estate with Sydney's Largest Day Spa",
-      "description": "Reconnect with nature at Crowne Plaza Hawkesbury Valley, an IHG Hotel, a boutique retreat hidden among eight hectares of landscaped gardens. A backdrop of jaw-dropping Blue Mountains views set the tone for your extravagant escape, just 45 minutes from Sydney's bright lights. When you're ready to feast on the region's finest produce, make a reservation at Harvest Restaurant for seasonal menus, an extensive wine list and glorious lakeside garden views. For a dose of relaxation, head to The Villa Thalgo Day Spa, Sydney's largest day spa.",
-      "location_subheading": "Australia",
-      "price": 102,
-      "original_price": 102,
+      "title": "Heritage Windsor Countryside Elegance with Spa, Pool, Seven Restaurants & Bars",
+      "description": "Discover the grandeur of the English countryside with a stay at this grand hotel surrounded by 40 acres of greenery and a tranquil lake. This lavish retreat offers a serene escape from the everyday, inviting you to unwind in an atmosphere of timeless elegance. Near the historic Windsor Great Park and Windsor Castle, enjoy the perfect base to explore heritage and charm in country house luxury. Indulge in the hotel's top-notch facilities, from a sparkling swimming pool to a spa that promises rejuvenating treatments. With seven onsite restaurants and bars, this destination is a feast for the senses in breathtaking scenery.",
+      "location_subheading": "United Kingdom",
+      "price": 368,
+      "original_price": 368,
       "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt5kAAB",
-      "hero_image": "https://images.luxuryescapes.com/7fh9okb7uij1x19ccqxh",
-      "image_two": "https://images.luxuryescapes.com/g26tpu2p8hkabl6wi6q",
-      "image_three": "https://images.luxuryescapes.com/5arm7b2yi5k2iuv3b162",
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GRmSMYA1",
+      "hero_image": "https://images.luxuryescapes.com/x0u9225snmwplqejfz8",
+      "image_two": "https://images.luxuryescapes.com/kakg81chmt5fxzhr5t6",
+      "image_three": "https://images.luxuryescapes.com/32hzbl6vasdzmuz3ue2n",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
-    "title": "Hotels in Windsor - Australia Hotels & Travel Guide 2024",
-    "description": "Find the best hotels in Windsor, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "title": "Hotels in Windsor - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Windsor, United Kingdom with exclusive deals. Book your perfect getaway with up to 60% off.",
     "keywords": [
       "windsor hotels",
       "windsor travel",
-      "australia hotels"
+      "united kingdom hotels"
     ],
     "canonical": "https://mondoexplora.com/en/destination/windsor",
     "hreflang": {
@@ -42,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-26",
+    "last_updated": "2026-01-27",
     "hotel_count": 1,
-    "average_price": 102,
+    "average_price": 368,
     "average_discount": 0
   }
 }
