@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Gold Coast",
   "description": "Discover the best hotels in Gold Coast, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/0iospdsgf408j861hv0s",
+  "hero_image": "https://images.luxuryescapes.com/05rdmc2po69s8rm8pjc",
   "hotels": [
-    {
-      "vendor_name": "The Star Residences Gold Coast",
-      "offer_country_name": "Australia",
-      "location_heading": "Gold Coast",
-      "title": "Gold Coast: Broadbeach Resort-Style Apartment Luxury",
-      "description": "Discover your home-away-from-home at The Star Residences Gold Coast, where resort-style apartments provide a luxurious base for your Gold Coast escape. If you can tear yourself away from your immaculate, self-contained abode, head to the sky-high swimming pool on level 20 and enjoy dazzling city views, or make the most of the yoga pavilion and casual eating areas. You'll be in a prime location to explore the many dining options available at The Star Gold Coast complex.",
-      "location_subheading": "Australia",
-      "price": 149,
-      "original_price": 149,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Dg3q8AAB",
-      "hero_image": "https://images.luxuryescapes.com/0iospdsgf408j861hv0s",
-      "image_two": "https://images.luxuryescapes.com/ij6gncixwjg88c6nse0e",
-      "image_three": "https://images.luxuryescapes.com/p7f66904m4y8m7wkf31f",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "The Star Residences Gold Coast",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 3,
       "end_date_utc": "2026-02-23 12:59:00"
+    },
+    {
+      "vendor_name": "The Star Residences Gold Coast",
+      "offer_country_name": "Australia",
+      "location_heading": "Gold Coast",
+      "title": "Gold Coast: Broadbeach Resort-Style Apartment Luxury",
+      "description": "Discover your home-away-from-home at The Star Residences Gold Coast, where resort-style apartments provide a luxurious base for your Gold Coast escape. If you can tear yourself away from your immaculate, self-contained abode, head to the sky-high swimming pool on level 20 and enjoy dazzling city views, or make the most of the yoga pavilion and casual eating areas. You'll be in a prime location to explore the many dining options available at The Star Gold Coast complex.",
+      "location_subheading": "Australia",
+      "price": 149,
+      "original_price": 149,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Dg3q8AAB",
+      "hero_image": "https://images.luxuryescapes.com/0iospdsgf408j861hv0s",
+      "image_two": "https://images.luxuryescapes.com/ij6gncixwjg88c6nse0e",
+      "image_three": "https://images.luxuryescapes.com/p7f66904m4y8m7wkf31f",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Aria Apartments",
@@ -121,8 +121,8 @@
       "title": "Gold Coast Escape near Surfers Paradise Beach & Pacific Fair",
       "description": "Seek surf, sand and sunshine at Oaks Gold Coast Hotel, where a prime location takes the spotlight. The famous champagne shores of the Gold Coast are an easy five-minute stroll away, with retail therapy at Pacific Fair a 10-minute drive from the resort. The glitzy restaurants, shopping and nightlife of Surfers Paradise are just a six-minute drive away, with plenty of family fun to be had at the nearby theme parks. After a long day of exploring, return to your resort and slide straight into the turquoise swimming pool to cool off - pure bliss!",
       "location_subheading": "Australia",
-      "price": 107,
-      "original_price": 107,
+      "price": 101,
+      "original_price": 101,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009BU7UAAW",
       "hero_image": "https://images.luxuryescapes.com/zhurwg44gn592oqriezt",
@@ -348,7 +348,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-27",
+    "last_updated": "2026-01-28",
     "hotel_count": 18,
     "average_price": 266,
     "average_discount": 13

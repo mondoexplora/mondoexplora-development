@@ -4,8 +4,26 @@
   "country_code": "US",
   "hero_title": "Hotels in New Orleans",
   "description": "Discover the best hotels in New Orleans, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/qtgxlpsege2lgpm4sxsz",
+  "hero_image": "https://images.luxuryescapes.com/obdi22cxlk6sm1vr9ki",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza New Orleans French Quarter",
+      "offer_country_name": "United States",
+      "location_heading": "New Orleans",
+      "title": "Central New Orleans Escape With Rooftop Pool, Steps Away From Bourbon Street",
+      "description": "Embrace the vibrant spirit of the Big Easy with a stay at Crowne Plaza New Orleans French Quarter - Astor, an IHG Hotel. Perfectly positioned on the edge of the historic French Quarter, you're steps away from the pulsating energy of Bourbon Street, the gastronomic delights of Royal Street, and the iconic Jackson Square. After a day of exploration, retreat to the hotel's outdoor pool or enjoy Creole-inspired cuisine at the onsite restaurant, Bourbon House. An embodiment of the true spirit of New Orleans, the hotel offers world-class amenities, proximity to the happening places, and the best of the best hospitality.",
+      "location_subheading": "United States",
+      "price": 111,
+      "original_price": 111,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GxYXCAA3",
+      "hero_image": "https://images.luxuryescapes.com/obdi22cxlk6sm1vr9ki",
+      "image_two": "https://images.luxuryescapes.com/dmnwiuvj5ip0adk5t8nd",
+      "image_three": "https://images.luxuryescapes.com/hoqxgdyzkna9zqweojk",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Hilton New Orleans Riverside",
       "offer_country_name": "United States",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-02-04 12:59:00"
-    },
-    {
-      "vendor_name": "Hotel Indigo New Orleans French Quarter",
-      "offer_country_name": "United States",
-      "location_heading": "New Orleans",
-      "title": "Stylish New Orleans Stay in French Quarter with Onsite Restaurant",
-      "description": "Find your feet in New Orleans with a stay at Hotel Indigo New Orleans - French Quarter, an IHG Hotel. Inspired by the colour, culture and costuming of this vibrant city, this chic hotel unites style and comfort, with an enviable location in the heart of the French Quarter. Just a stone's throw from historic Bourbon Street, enjoy easy access to some of the city's best sights, before returning to the hotel to feast on soulful Cajun cuisine at Common Interest.",
-      "location_subheading": "United States",
-      "price": 82,
-      "original_price": 82,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GxZjDAAV",
-      "hero_image": "https://images.luxuryescapes.com/gnzkkgbvnpqid36zvk9",
-      "image_two": "https://images.luxuryescapes.com/h89cnjd9td06uskr4kfm",
-      "image_three": "https://images.luxuryescapes.com/ntmfi1obpd9vqraq4s",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-03-31 12:59:00"
     },
     {
       "vendor_name": "Intercontinental New Orleans",
@@ -97,24 +97,6 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "Omni Royal Orleans",
-      "offer_country_name": "United States",
-      "location_heading": "New Orleans",
-      "title": "New Orleans French Quarter Glamour Moments from Bourbon Street with Rooftop Pool",
-      "description": "Embrace New Orleans' charm and southern hospitality at this elegant hotel, ideally positioned in the heart of the vibrant French Quarter. Authentic, timeless and with a splash of modern flair, this oasis offers everything you need for an unforgettable escape. Savour the local flavours at the Rib Room restaurant, refresh with a cocktail at Touche Bar or ascend to the rooftop pool, offering panoramic views of the Mississippi River. When you're ready to explore, stroll along the riverfront or take the 10-minute stroll to lively Bourbon Street, where the scent of Cajun fare wafts along pavements packed with lively jazz clubs and cocktail bars.",
-      "location_subheading": "United States",
-      "price": 130,
-      "original_price": 130,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HiIJIA0",
-      "hero_image": "https://images.luxuryescapes.com/1wemllghqrthl0h636v",
-      "image_two": "https://images.luxuryescapes.com/sx60zvoxf5p1c7lnl38",
-      "image_three": "https://images.luxuryescapes.com/74f1avc8syny7zgsbu",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Royal Sonesta New Orleans",
       "offer_country_name": "United States",
       "location_heading": "New Orleans",
@@ -150,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-27",
-    "hotel_count": 7,
-    "average_price": 156,
-    "average_discount": 7
+    "last_updated": "2026-01-28",
+    "hotel_count": 6,
+    "average_price": 165,
+    "average_discount": 8
   }
 }

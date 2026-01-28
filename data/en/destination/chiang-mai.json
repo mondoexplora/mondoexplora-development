@@ -25,6 +25,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Cross Chiang Mai Riverside",
+      "offer_country_name": "Thailand",
+      "location_heading": "Chiang Mai",
+      "title": "Riverside Luxury in Chiang Mai with Daily Breakfast, Daily Choice of Lunch or Dinner & Nightly Cocktails",
+      "description": "Experience the magic of a sunset from the rooftop infinity pool at this paradise retreat in Chiang Mai. Nestled along the Ping River, the hotel is surrounded by century-old tamarind trees that complement the modern elegance of its suites and facilities. Find peace with a calming spa treatment in the Cross Relaxing Room, where traditional Thai techniques are used to soothe the senses. For dining, enjoy river views from the Oxygen Dining Room’s stunning glasshouse, while savouring exquisite fine dining and expertly crafted cocktails, recommended by the MICHELIN Guide Thailand. Spend your days lounging by the pool with a tropical drink or working out in the rooftop fitness centre, equipped with state-of-the-art facilities. Venture out to discover Chiang Mai's breathtaking mountains and Buddhist temples, such as the nearby Wat Phra That Doi Suthep.",
+      "location_subheading": "Thailand",
+      "price": 309,
+      "original_price": 936,
+      "discount_percentage": 67,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000MaI6cYAF",
+      "hero_image": "https://images.luxuryescapes.com/9w0u6zeh9xrxlou4g36",
+      "image_two": "https://images.luxuryescapes.com/bbov4mdp7c8d169lckr",
+      "image_three": "https://images.luxuryescapes.com/db88fb7hn3ump9tih5q",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-02-19 12:59:00"
+    },
+    {
       "vendor_name": "InterContinental Chiang Mai Mae Ping",
       "offer_country_name": "Thailand",
       "location_heading": "Chiang Mai",
@@ -41,24 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 2,
       "end_date_utc": "2026-02-03 12:59:00"
-    },
-    {
-      "vendor_name": "InterContinental Chiang Mai Mae Ping",
-      "offer_country_name": "Thailand",
-      "location_heading": "Chiang Mai",
-      "title": "Luxury Five-Star Escape in the Heart of Chiang Mai",
-      "description": "Accept an invitation to explore the old-world charm, sprawling luxury and cosmopolitan sophistication, at InterContinental Chiang Mai Mae Ping, an IHG Hotel. Immerse yourself in Lanna culture in this 'living museum' concept hotel that blends the handiwork of local artisans with signature InterContiental opulence. Centrally located within the bustling heart of the city, this hotel is perfectly placed for rickshaw rides through the Old Town and exploring the numerous Thai Buddhist temples.",
-      "location_subheading": "Thailand",
-      "price": 121,
-      "original_price": 121,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNUDOAA5",
-      "hero_image": "https://images.luxuryescapes.com/4wo19h4froxgsh4g7x6d",
-      "image_two": "https://images.luxuryescapes.com/pjgb3zygb9vzbqbstmhc",
-      "image_three": "https://images.luxuryescapes.com/m3khnt5n3mwq7sff7lsm",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Mercure Chiang Mai",
@@ -132,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-27",
+    "last_updated": "2026-01-28",
     "hotel_count": 6,
-    "average_price": 986,
-    "average_discount": 7
+    "average_price": 1017,
+    "average_discount": 18
   }
 }

@@ -15,15 +15,6 @@
       "avg_price": 1463
     },
     {
-      "name": "Malé",
-      "slug": "malé",
-      "image": "https://images.luxuryescapes.com/vtsqs3xgdr2x0m746c5",
-      "description": "Explore Malé with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 2785
-    },
-    {
       "name": "South Atoll",
       "slug": "south-atoll",
       "image": "https://images.luxuryescapes.com/m09iv1qixriou5r85k",
@@ -49,6 +40,15 @@
       "hotel_count": 2,
       "hotel_deals": 2,
       "avg_price": 2383
+    },
+    {
+      "name": "Malé",
+      "slug": "malé",
+      "image": "https://images.luxuryescapes.com/vtsqs3xgdr2x0m746c5",
+      "description": "Explore Malé with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 3869
     },
     {
       "name": "South Ari Atoll",

@@ -13,8 +13,8 @@
       "title": "Airlie Beach Apartment-Style Resort with Ocean Views & Outdoor Pool",
       "description": "Find yourself in tropical paradise at the gateway to the Whitsundays at Club Wyndham Airlie Beach. With apartments peering over the glistening lagoon, Tropical North Queensland is on your doorstep, with just an hour on the ferry between you and Hamilton Island. But life at Airlie is just as sweet; swim laps of the pool as you look onto the crimson sunset, dine at Tides at Airlie Beach with ocean-fresh seafood on offer, and enjoy some of the area's best portside views.",
       "location_subheading": "Australia",
-      "price": 370,
-      "original_price": 370,
+      "price": 382,
+      "original_price": 382,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ez3OeAAJ",
       "hero_image": "https://images.luxuryescapes.com/mqv6h3wksel69x7lgr7g",
@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 2,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Freedom Shores",
+      "offer_country_name": "Australia",
+      "location_heading": "Airlie Beach",
+      "title": "Boutique Whitsundays Bungalow Boat Escape",
+      "description": "Set your sights on a one-of-a-kind stay in paradise at Freedom Shores, where you can sleep in a boat-inspired bungalow with the added luxury of ultra-modern comforts. If you are a fan of all things unique - and nautical - you will absolutely love this escape right by the water on the outskirts of Airlie Beach and boasting spectacular views over the Coral Sea. Be the captain of your own ship and enjoy a taste of life at sea without having to leave dry land, allowing you to take in the superb views or explore the Whitsundays and surrounding islands at your own pace. Feel immediately rejuvenated as you relax by the water or explore beyond the property and spend days exploring this exceptional part of the world, from the palm-fringed Airlie Beach to the stunning Whitsunday islands that lie in the Great Barrier Reef, one of the Seven Natural Wonders of the World.",
+      "location_subheading": "Australia",
+      "price": 202,
+      "original_price": 202,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000005JyFmAAK",
+      "hero_image": "https://images.luxuryescapes.com/rakam3khf8a6s7ujbtme",
+      "image_two": "https://images.luxuryescapes.com/tr7rw9ovqg6yiu4pr3i",
+      "image_three": "https://images.luxuryescapes.com/5opz4j6zv8iwx4st4zib",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Freedom Shores",
@@ -41,24 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 3,
       "end_date_utc": "2026-02-12 12:59:00"
-    },
-    {
-      "vendor_name": "Freedom Shores",
-      "offer_country_name": "Australia",
-      "location_heading": "Airlie Beach",
-      "title": "Boutique Whitsundays Bungalow Boat Escape",
-      "description": "Set your sights on a one-of-a-kind stay in paradise at Freedom Shores, where you can sleep in a boat-inspired bungalow with the added luxury of ultra-modern comforts. If you are a fan of all things unique - and nautical - you will absolutely love this escape right by the water on the outskirts of Airlie Beach and boasting spectacular views over the Coral Sea. Be the captain of your own ship and enjoy a taste of life at sea without having to leave dry land, allowing you to take in the superb views or explore the Whitsundays and surrounding islands at your own pace. Feel immediately rejuvenated as you relax by the water or explore beyond the property and spend days exploring this exceptional part of the world, from the palm-fringed Airlie Beach to the stunning Whitsunday islands that lie in the Great Barrier Reef, one of the Seven Natural Wonders of the World.",
-      "location_subheading": "Australia",
-      "price": 141,
-      "original_price": 141,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000005JyFmAAK",
-      "hero_image": "https://images.luxuryescapes.com/rakam3khf8a6s7ujbtme",
-      "image_two": "https://images.luxuryescapes.com/tr7rw9ovqg6yiu4pr3i",
-      "image_three": "https://images.luxuryescapes.com/5opz4j6zv8iwx4st4zib",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Mirage Whitsundays",
@@ -150,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-27",
+    "last_updated": "2026-01-28",
     "hotel_count": 7,
-    "average_price": 491,
+    "average_price": 502,
     "average_discount": 8
   }
 }

@@ -113,24 +113,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Sofitel Phokeethra Krabi Golf & Spa Resort",
-      "offer_country_name": "Thailand",
-      "location_heading": "Krabi",
-      "title": "Krabi Beachfront Haven with Six Restaurants & Bars, Outdoor Pool & Golf Course",
-      "description": "Experience the height of Thai luxury at this five-star beachfront retreat, set along the tranquil shores of Klong Muang Beach in Krabi. With Sofitel's renowned service and world-class amenities, unwind in style by Thailand’s largest lagoon-style pool, enjoy soothing treatments at So SPA or stretch out on the golden shores just steps away. The resort offers six diverse dining options, ranging from traditional Thai dishes to wood-fired pizzas and Indian specialties. Tee off at the onsite nine-hole golf course, take a scenic boat trip to iconic nearby islands such as Phi Phi and James Bond Island, or relax with a refreshing cocktail from the pool bar - be spoilt for choice at this tropical oasis.",
-      "location_subheading": "Thailand",
-      "price": 109,
-      "original_price": 109,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GWUY4YAP",
-      "hero_image": "https://images.luxuryescapes.com/7otugj0dcja60tqsiu",
-      "image_two": "https://images.luxuryescapes.com/82y0al9kx2kjeqluv5j",
-      "image_three": "https://images.luxuryescapes.com/dcf56eh70ff7qoitfcoj",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -150,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-27",
-    "hotel_count": 7,
-    "average_price": 272,
-    "average_discount": 10
+    "last_updated": "2026-01-28",
+    "hotel_count": 6,
+    "average_price": 299,
+    "average_discount": 12
   }
 }

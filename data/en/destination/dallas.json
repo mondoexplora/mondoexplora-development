@@ -4,26 +4,8 @@
   "country_code": "US",
   "hero_title": "Hotels in Dallas",
   "description": "Discover the best hotels in Dallas, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/fp7x5izs20xj8jl72dg",
+  "hero_image": "https://images.luxuryescapes.com/j56ir1g0cjngnrlxgqn",
   "hotels": [
-    {
-      "vendor_name": "Crowne Plaza Dallas Downtown",
-      "offer_country_name": "United States",
-      "location_heading": "Dallas",
-      "title": "Stylish Dallas Downtown City Break near Convention Centre & World Aquarium",
-      "description": "Positioned just moments from the Convention Centre, Crowne Plaza Dallas Downtown, an IHG Hotel offers guests the perfect stay in the heart of one of Texas’s most vibrant cities. You’ll be surrounded by plenty of things to see and do, with Dallas World Aquarium, Dallas Zoo and beloved sports stadium American Airlines Centre all within walking distance - return to the hotel's onsite Thrive Restaurant for upscale New American plates in a laidback setting.",
-      "location_subheading": "United States",
-      "price": 84,
-      "original_price": 84,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GxYX3AAN",
-      "hero_image": "https://images.luxuryescapes.com/fp7x5izs20xj8jl72dg",
-      "image_two": "https://images.luxuryescapes.com/v6cys7v1sj2k9iadbio",
-      "image_three": "https://images.luxuryescapes.com/066s0nug5dptthq2me",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Crowne Plaza Dallas Love Field - Med Area",
       "offer_country_name": "United States",
@@ -49,8 +31,8 @@
       "title": "Dallas Luxury Icon: Arts District Escape near JFK Memorial with Rooftop Pool",
       "description": "Since opening its doors in 1956, Fairmont Dallas has reigned as an icon of Southern elegance in the beating heart of the city’s extraordinary Arts District. Just steps from the city's wealth of world‑class museums and fine dining venues, and the street murals and blues-soaked alleyways of Deep Ellum. Stroll to the Sixth Floor Museum to trace JFK’s legacy, catch a concert at the American Airlines Center, then retreat to timeless luxury: rooftop pool swims under bright Texas skies and classic hospitality done right at Pyramid Restaurant.",
       "location_subheading": "United States",
-      "price": 167,
-      "original_price": 167,
+      "price": 159,
+      "original_price": 159,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Jjw0dYAB",
       "hero_image": "https://images.luxuryescapes.com/jwvxo9hhfnxzf177h4o",
@@ -59,24 +41,6 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Kimpton The Pittman",
-      "offer_country_name": "United States",
-      "location_heading": "Dallas",
-      "title": "Ultra-Modern Dallas Neighbourhood Stay with Cocktail Bar & Pool",
-      "description": "Pristine modernity in the heart of Dallas’ thriving cultural centre, Kimpton Pittman Hotel, an IHG Hotel provides a perfect amalgamation of classic charm and contemporary design to provide top-tier relaxation. Admire the collection of modern art and sleek furnishings that decorate the expansive spaces as you enjoy a crisp beer or a creative cocktail on Deep End’s poolside open-air deck or relax in the plush confines of Elm & Good with a hearty, tavern-inspired feed.",
-      "location_subheading": "United States",
-      "price": 188,
-      "original_price": 188,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKEPAA3",
-      "hero_image": "https://images.luxuryescapes.com/bkcjzvuapongzm8h8ljd",
-      "image_two": "https://images.luxuryescapes.com/o7ukhkai6iibvf4sk4b8",
-      "image_three": "https://images.luxuryescapes.com/ydg9x8h5vdl5ae5ne07t",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Omni Dallas Hotel",
@@ -114,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-27",
-    "hotel_count": 5,
-    "average_price": 152,
+    "last_updated": "2026-01-28",
+    "hotel_count": 3,
+    "average_price": 160,
     "average_discount": 0
   }
 }

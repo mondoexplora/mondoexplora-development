@@ -3,25 +3,52 @@
   "code": "TW",
   "hero_title": "Taiwan (Province of China) Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Taiwan (Province of China).",
-  "hero_image": "https://images.luxuryescapes.com/vdhxts2qkmdswqlb34eq",
+  "hero_image": "https://images.luxuryescapes.com/f5uimy0ynotv9esxb4ge",
   "popular_destinations": [
-    {
-      "name": "Taipei",
-      "slug": "taipei",
-      "image": "https://images.luxuryescapes.com/vdhxts2qkmdswqlb34eq",
-      "description": "Explore Taipei with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 279
-    },
     {
       "name": "Kaohsiung",
       "slug": "kaohsiung",
       "image": "https://images.luxuryescapes.com/f5uimy0ynotv9esxb4ge",
       "description": "Explore Kaohsiung with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 134
+    },
+    {
+      "name": "Taipei",
+      "slug": "taipei",
+      "image": "https://images.luxuryescapes.com/ci3o66uphlwbg6vcffz",
+      "description": "Explore Taipei with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 243
+    },
+    {
+      "name": "Chiayi County",
+      "slug": "chiayi-county",
+      "image": "https://images.luxuryescapes.com/w0wq2vkz1o8unrj2uz9o",
+      "description": "Explore Chiayi County with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 98
+      "avg_price": 236
+    },
+    {
+      "name": "Taipei City",
+      "slug": "taipei-city",
+      "image": "https://images.luxuryescapes.com/bwra7naogpn7mu10mnzp",
+      "description": "Explore Taipei City with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 184
+    },
+    {
+      "name": "Taoyuan",
+      "slug": "taoyuan",
+      "image": "https://images.luxuryescapes.com/85h3yt7ps193t2pnsgo",
+      "description": "Explore Taoyuan with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 101
     }
   ],
   "seo": {

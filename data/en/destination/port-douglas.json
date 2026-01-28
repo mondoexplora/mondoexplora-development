@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Port Douglas",
   "description": "Discover the best hotels in Port Douglas, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/lyvxzi74cdf9iezbkum",
+  "hero_image": "https://images.luxuryescapes.com/boe7slnryohs7qldy68p",
   "hotels": [
+    {
+      "vendor_name": "Beaches Port Douglas",
+      "offer_country_name": "Australia",
+      "location_heading": "Port Douglas",
+      "title": "Port Douglas Oceanfront Apartments near Four Mile Beach with A$100 Dining Credit",
+      "description": "Escape to the seaside and experience the epitome of barefoot luxury with a relaxed stay in the heart of Port Douglas, just steps from Four Mile Beach. Offering everything you could need in a home-away-from-home, the sophisticated apartments feature fully equipped modern kitchens, indoor and outdoor dining areas, laundry facilities, dreamy bedding and revitalised bathrooms. These apartments sit opposite the beachfront, just a short stroll from Macrossan Street’s vibrant dining precinct. Days at this seaside oasis can be spent indulging your inner foodie at spots like the sophisticated house of seafood La Cucina + Bar (with credit included in your package), bushwalking through ancient rainforest or plunging into crystal-clear waters, before retreating to your private apartment for quality time with loved ones.",
+      "location_subheading": "Australia",
+      "price": 679,
+      "original_price": 1191,
+      "discount_percentage": 43,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000OazNJYAZ",
+      "hero_image": "https://images.luxuryescapes.com/boe7slnryohs7qldy68p",
+      "image_two": "https://images.luxuryescapes.com/acaiqmmm6dp73rooqvwo",
+      "image_three": "https://images.luxuryescapes.com/cj69a2vxqnp9h8jklupq",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-02-09 12:59:00"
+    },
     {
       "vendor_name": "Coconut Grove Apartments, Port Douglas",
       "offer_country_name": "Australia",
@@ -79,42 +97,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Mantra on the Inlet Port Douglas",
-      "offer_country_name": "Australia",
-      "location_heading": "Port Douglas",
-      "title": "Central Port Douglas Retreat on Macrossan Street with Heated Outdoor Pool",
-      "description": "Experience the charm of tropical Port Douglas at this boutique retreat conveniently positioned on the corner of Macrossan and Wharf Streets. This colonial-style hotel, with its traditional Queenslander architecture, offers the perfect base to explore the Great Barrier Reef and the Daintree Rainforest, and the vibrant Macrossan Street, lined with trendy cafes, restaurants and boutiques. Spend balmy afternoons taking a dip in the outdoor pool, and evenings at Port Douglas' oldest pub, the Court House Hotel, located downstairs.",
-      "location_subheading": "Australia",
-      "price": 107,
-      "original_price": 107,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRevEAAT",
-      "hero_image": "https://images.luxuryescapes.com/nhfzswdoiilkgvxyub",
-      "image_two": "https://images.luxuryescapes.com/lnrd2parxpkzvaytv4js",
-      "image_three": "https://images.luxuryescapes.com/xb331paul5ucd2gctvcl",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Oaks Port Douglas Resort",
-      "offer_country_name": "Australia",
-      "location_heading": "Port Douglas",
-      "title": "Tropical Port Douglas Escape near Four Mile Beach with Daily Breakfast & Lagoon-Style Pool",
-      "description": "Sandy beaches and sunshine-filled days await at this relaxing Tropical North Queensland oasis surrounded by lush gardens, just a five-minute drive from the iconic curving shoreline of Four Mile Beach. Couples will love the resort's spacious, contemporary rooms, while families can savour time together in a self-contained two-bedroom apartment, the perfect base from which to discover Port Douglas' countless treasures. Spend your days lazing by the lagoon-style pool and sipping cocktails from the swim-up bar, or truly unwind with a treatment at The Spa. When the sun melts into the horizon, savour a slice of Italy at the laid-back Little Pizza Company or indulge in wood-fired pizza, classic burgers or prime-cut steaks at Oak & Vine restaurant, best paired with a creative cocktail. This sun-soaked property will allow you to truly immerse yourself in the laidback lifestyle of Port Douglas, your launchpad to the UNESCO World Heritage-listed Great Barrier Reef and the sprawling green expanse of the Daintree Rainforest. Embark on incredible adventures amid nature from the nearby marina, walk pristine white sands and taste your way across Port Douglas' award-winning restaurants, top-shelf bars and boutique shopping streets.",
-      "location_subheading": "Australia",
-      "price": 279,
-      "original_price": 649,
-      "discount_percentage": 57,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000NK3NtYAL",
-      "hero_image": "https://images.luxuryescapes.com/sqzdkgjbfib9e6xajba",
-      "image_two": "https://images.luxuryescapes.com/yg2dvxxwcbo1b58mbrkb",
-      "image_three": "https://images.luxuryescapes.com/68i5uhfni1n92pkijs7",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-01-27 12:59:00"
-    },
-    {
       "vendor_name": "Oaks Port Douglas Resort",
       "offer_country_name": "Australia",
       "location_heading": "Port Douglas",
@@ -131,6 +113,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Peppers Beach Club Port Douglas",
+      "offer_country_name": "Australia",
+      "location_heading": "Port Douglas",
+      "title": "Tropical Port Douglas Suites Steps from Four Mile Beach with Lagoon-Style Pool, Bar & Restaurant",
+      "description": "Reach the pinaccle of tropical opulence with a relaxed yet glamorous stay at Peppers Beach Club Port Douglas, moments from Four Mile Beach and Macrossan Street. This five-star haven is the perfect gateway to explore the vibrant marine life of the Great Barrier Reef, or wander through the enchanting Daintree Rainforest. Savour locally-sourced seafood and signature cocktails at Koko Poolside Bar & Kitchen and enjoy rejuvenating swims in the sparkling lagoon-style pool.",
+      "location_subheading": "Australia",
+      "price": 191,
+      "original_price": 191,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Gw9fcAAB",
+      "hero_image": "https://images.luxuryescapes.com/osxltou4g55rrwwckr07",
+      "image_two": "https://images.luxuryescapes.com/udc6nxhomgpcal27xtbw",
+      "image_three": "https://images.luxuryescapes.com/sd2tewktgah5algk69fg",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Pool Resort Port Douglas",
@@ -167,6 +167,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Pullman Port Douglas Sea Temple Resort & Spa",
+      "offer_country_name": "Australia",
+      "location_heading": "Port Douglas",
+      "title": "Five-Star Port Douglas Pullman Tropical Luxury with Lagoon Pool",
+      "description": "Your pathway to paradise awaits with a stay at tropical haven Pullman Port Douglas Sea Temple Resort and Spa. Famed for its expansive lagoon pool, lush gardens and unswerving commitment to luxury, this five-star haven offers paradise in picturesque Port Douglas. Make a splash at nearby Four Mile Beach, delve into prehistoric nature at Mossman Gorge and the Daintree Rainforest, or explore the Great Barrier Reef’s vast underwater wonders. Return to Pullman’s signature luxury, including a mirage-like central lagoon pool, easy-going all-day dining kissed by sunshine at Aluco and wellness treatments designed to restore inner joy at Vie Spa.",
+      "location_subheading": "Australia",
+      "price": 177,
+      "original_price": 177,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlvKIAS",
+      "hero_image": "https://images.luxuryescapes.com/5sf2wdilahi0ec2i4u4u",
+      "image_two": "https://images.luxuryescapes.com/rdgvsbh1r9yzt23naor",
+      "image_three": "https://images.luxuryescapes.com/aetuor5qzqkbwpetnxf",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Ramada Resort by Wyndham Port Douglas",
@@ -222,9 +240,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-27",
-    "hotel_count": 11,
-    "average_price": 258,
-    "average_discount": 6
+    "last_updated": "2026-01-28",
+    "hotel_count": 12,
+    "average_price": 292,
+    "average_discount": 4
   }
 }

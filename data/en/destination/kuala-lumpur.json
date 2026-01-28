@@ -4,26 +4,8 @@
   "country_code": "MY",
   "hero_title": "Hotels in Kuala Lumpur",
   "description": "Discover the best hotels in Kuala Lumpur, Malaysia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/fik1padox32ma9vkvbm",
+  "hero_image": "https://images.luxuryescapes.com/8iqwe3xexvxgcouhw4j",
   "hotels": [
-    {
-      "vendor_name": "Alila Bangsar, Kuala Lumpur",
-      "offer_country_name": "Malaysia",
-      "location_heading": "Kuala Lumpur",
-      "title": "Kuala Lumpur Urban Retreat in the Heart of Bangsar with Sky-High Pool",
-      "description": "Experience the vibrancy of Kuala Lumpur from a tranquil urban sanctuary, perched high above the city's bustling streets. This high-end hotel is ideally located in the cosmopolitan district of Bangsar, just a stone's throw from the city's best shopping, dining and nightlife. Savour the city's culinary delights at the nearby Jalan Alor Food Street, or explore the cultural richness of the Brickfields, known as Kuala Lumpur's Little India. Back at the hotel take a dip in the sky-high pool and enjoy a drink at the stylish bar, or retreat to your spacious, elegantly designed room for a restful night's sleep.",
-      "location_subheading": "Malaysia",
-      "price": 80,
-      "original_price": 80,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000HicEaYAJ",
-      "hero_image": "https://images.luxuryescapes.com/fik1padox32ma9vkvbm",
-      "image_two": "https://images.luxuryescapes.com/eyzpqudussmhijys5ko",
-      "image_three": "https://images.luxuryescapes.com/bbva3iuszfb539eqhqom",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Banyan Tree Kuala Lumpur",
       "offer_country_name": "Malaysia",
@@ -43,6 +25,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Crowne Plaza Kuala Lumpur City Centre",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Kuala Lumpur",
+      "title": "Ultra-Modern Kuala Lumpur Stay with Rooftop Pool & Restaurant",
+      "description": "Dive into the heart of Malaysia's capital at the ultra-modern Crowne Plaza Kuala Lumpur City Centre. This contemporary haven is ideally situated for exploring the city's rich cultural tapestry, with the iconic Petronas Twin Towers and bustling Jalan Alor food street just a stone's throw away. Savour a symphony of flavours at the hotel's signature restaurant, or unwind in the rooftop pool. As night falls, retreat to your sumptuous suite, where floor-to-ceiling windows reveal breathtaking city views.",
+      "location_subheading": "Malaysia",
+      "price": 104,
+      "original_price": 104,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GOQmoAAH",
+      "hero_image": "https://images.luxuryescapes.com/0c2aajq2xe2rrzdw0to",
+      "image_two": "https://images.luxuryescapes.com/imoe3sa6k40gu0jegno",
+      "image_three": "https://images.luxuryescapes.com/wi6qc4td5xy7m6sfm6qm",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Hotel Indigo Kuala Lumpur on the Park, an IHG Hotel",
       "offer_country_name": "Malaysia",
       "location_heading": "Kuala Lumpur",
@@ -59,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 2,
       "end_date_utc": "2026-03-01 12:59:00"
+    },
+    {
+      "vendor_name": "Hotel Indigo Kuala Lumpur on the Park, an IHG Hotel",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Kuala Lumpur",
+      "title": "Chic Kuala Lumpur Escape with Views of the World’s Second Tallest Building",
+      "description": "Hotel Indigo Kuala Lumpur on the Park, an IHG Hotel, has largely been designed to mirror the chic, contemporary culture of the bustling Bukit Nanas vicinity, where a myriad of thrilling local adventures await. Feast your eyes over Merdeka 118, the world's second tallest building, and the Kuala Lumper Tower from this centrally located haven. Elegantly prepared rooms welcome you with warmth alongside an idyllic pool and a late-night fitness centre.",
+      "location_subheading": "Malaysia",
+      "price": 77,
+      "original_price": 77,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FMDRsAAP",
+      "hero_image": "https://images.luxuryescapes.com/cy7xot2f0eiep11j8asn",
+      "image_two": "https://images.luxuryescapes.com/4he83ar6f6gveqnc70ww",
+      "image_three": "https://images.luxuryescapes.com/jl7ngi6dzk8l3f22xzbmh",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Intercontinental Kuala Lumpur",
@@ -169,6 +187,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Pullman Kuala Lumpur City Centre Hotel & Residences",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Kuala Lumpur",
+      "title": "Kuala Lumpur Sky-High Sophistication with Day Spa, Terrace Pool & Two Restaurants",
+      "description": "Situated near the Pavilion Kuala Lumpur shopping mall - and just a five-minute drive from the Golden Triangle, the city’s premier shopping, entertainment and business district - you'll have the privilege of choice in this central hotel, with all of Kuala Lumpur’s charm just a stone's throw away. Embrace sky-high living as you sip cocktails next to the terrace pool, dig into handmade dim sum at Red Chinese Cuisine or tuck into delicious tapas at Blu Bar & Cigars.",
+      "location_subheading": "Malaysia",
+      "price": 106,
+      "original_price": 106,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002J2xiIAC",
+      "hero_image": "https://images.luxuryescapes.com/5mjkwm0etvhpj8angiq",
+      "image_two": "https://images.luxuryescapes.com/sveaxh0vfewcgqztwvnc",
+      "image_three": "https://images.luxuryescapes.com/zbfqeqyb591yi461cei",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Sofitel Kuala Lumpur Damansara Hotel",
       "offer_country_name": "Malaysia",
       "location_heading": "Kuala Lumpur",
@@ -185,6 +221,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 2,
       "end_date_utc": "2026-02-08 12:59:00"
+    },
+    {
+      "vendor_name": "Sofitel Kuala Lumpur Damansara Hotel",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Kuala Lumpur",
+      "title": "Five-Star Sofitel Kuala Lumpur Glamour with Spa & Five Restaurants & Bars",
+      "description": "From the iconic heights of the PETRONAS Twin Towers to the historic temples and vibrant markets of the past, immerse yourself in the sights of Malaysia’s dynamic capital from this elegant retreat. Located in one of Kuala Lumpur’s most upscale neighbourhoods, Damansara Heights - voted one of the coolest neighbourhoods in the world by Lonely Planet - you’ll be perfectly positioned to explore the city. After a day of exploration, retreat to your luxurious sanctuary, complete with a stunning swimming pool, offering an urban oasis amidst the glittering towers of Damansara. Unwind at the Sofitel SPA, or enjoy exquisite dining at five different restaurants, before sipping on a nightcap at Le Bar Cocktail & Stories.",
+      "location_subheading": "Malaysia",
+      "price": 107,
+      "original_price": 107,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GWaAPYA1",
+      "hero_image": "https://images.luxuryescapes.com/nykh20nd9758ipezxwn9",
+      "image_two": "https://images.luxuryescapes.com/pd6t3o0589ist7miiju8",
+      "image_three": "https://images.luxuryescapes.com/8m8gik5fawn0titr56h",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "The Chow Kit",
@@ -223,6 +277,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Mercure Selangor Selayang",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Kuala Lumpur",
+      "title": "Modern Retreat near Kuala Lumpur with Rooftop Pool & Onsite Dining",
+      "description": "Immerse yourself in the cultural richness of Malaysia with a stay at this contemporary retreat in the heart of Selayang, just a short drive from Kuala Lumpur city centre. Boasting a rooftop infinity pool with 180-degree city views, a well-equipped gym and an Asian buffet restaurant, everything you need is within reach. Just a short distance from the Batu Caves, one of Malaysia's most popular Hindu shrines, this hotel is the ideal base for cultural exploration. For a taste of local cuisine, venture to the nearby Selayang Wet Market, where a myriad of food stalls serve up authentic Malaysian dishes.",
+      "location_subheading": "Malaysia",
+      "price": 37,
+      "original_price": 37,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP3QYAV",
+      "hero_image": "https://images.luxuryescapes.com/emzg2vtx8ljlrw33uvh8",
+      "image_two": "https://images.luxuryescapes.com/5kzdh1vuyij6y8rkz6k",
+      "image_three": "https://images.luxuryescapes.com/dew4wwf9aoer0ly4z89",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Sunway Resort Hotel & Spa",
       "offer_country_name": "Malaysia",
       "location_heading": "Kuala Lumpur",
@@ -258,9 +330,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-27",
-    "hotel_count": 13,
-    "average_price": 139,
-    "average_discount": 7
+    "last_updated": "2026-01-28",
+    "hotel_count": 17,
+    "average_price": 127,
+    "average_discount": 5
   }
 }

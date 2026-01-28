@@ -25,6 +25,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Peppers Noosa Resort and Villas",
+      "offer_country_name": "Australia",
+      "location_heading": "Noosa Heads",
+      "title": "Serene Noosa National Park Retreat with Onsite Restaurant, Day Spa & Pools",
+      "description": "Find the perfect slice of laid-back luxury at Peppers Noosa Resort & Villas, a haven surrounded by the verdant Noosa National Park and your gateway to the region's pristine beaches, lush rainforests and the vibrant Hastings Street. Savour an array of mouthwatering, locally fuelled dishes at Park & Cove while overlooking the stunning hinterland. Take a leisurely dip in the lagoon pool or, for a touch of indulgence, Stephanie's Ocean Spa offers a tranquil retreat for relaxation and rejuvenation.",
+      "location_subheading": "Australia",
+      "price": 196,
+      "original_price": 196,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Gw9gVAAR",
+      "hero_image": "https://images.luxuryescapes.com/0eibxhvp3z2vsw22ipq",
+      "image_two": "https://images.luxuryescapes.com/s9u86i6k3dd40n2wqohc",
+      "image_three": "https://images.luxuryescapes.com/8y8mu5d86ok5avks03g",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "The Sebel Resort Noosa",
       "offer_country_name": "Australia",
       "location_heading": "Noosa Heads",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-27",
-    "hotel_count": 2,
-    "average_price": 251,
+    "last_updated": "2026-01-28",
+    "hotel_count": 3,
+    "average_price": 233,
     "average_discount": 0
   }
 }

@@ -4,8 +4,26 @@
   "country_code": "SA",
   "hero_title": "Hotels in Al Khobar",
   "description": "Discover the best hotels in Al Khobar, Saudi Arabia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/s4d5k7lq8psviv7v5g9j",
+  "hero_image": "https://images.luxuryescapes.com/r7r38ka4m6nspwqc0da",
   "hotels": [
+    {
+      "vendor_name": "Intercontinental Al Khobar",
+      "offer_country_name": "Saudi Arabia",
+      "location_heading": "Al Khobar",
+      "title": "Saudi Arabia Sophisticated City Break with Rooftop Swimming Pool",
+      "description": "Discover for yourself true Arabic hospitality at the InterContinental Al Khobar, an IHG Hotel, where modern conveniences meet traditional design and customs. Escape the heat of Saudi Arabia with a dip in the rooftop swimming pool, book yourself in for a pampering treatment at the day spa, and sample the hotel's famous date pudding at T. Square. For a global gourmet expedition, dine at Twist restaurant, an international buffet and show kitchen featuring themed nights and a decadent dessert station.",
+      "location_subheading": "Saudi Arabia",
+      "price": 125,
+      "original_price": 125,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6rAAB",
+      "hero_image": "https://images.luxuryescapes.com/r7r38ka4m6nspwqc0da",
+      "image_two": "https://images.luxuryescapes.com/n15oict70c4vxec1vbr",
+      "image_three": "https://images.luxuryescapes.com/gqnozqbm7b47lneplg6s",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Kempinski Al Othman Hotel Al Khobar",
       "offer_country_name": "Saudi Arabia",
@@ -41,6 +59,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "voco Al Khobar",
+      "offer_country_name": "Saudi Arabia",
+      "location_heading": "Al Khobar",
+      "title": "Saudi Arabia Sophisticated Urban Retreat Minutes from Al Khobar",
+      "description": "Minutes from the Khobar Corniche and Mall of Dhahran, the voco Al Khobar, an IHG Hotel is an oasis of rest and relaxation in the midst of a bustling cosmopolitan city. Savour satisfying global cuisines at the multiple onsite restaurants, indulge in a soothing treatment at the Soul Wellness and Spa or relish a refreshing swim in the pool. After experiencing the best this Saudi Arabian city has to offer, retire to a sophisticated room for a well-deserved slumber.",
+      "location_subheading": "Saudi Arabia",
+      "price": 108,
+      "original_price": 108,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CP3V7AAL",
+      "hero_image": "https://images.luxuryescapes.com/hiosfaqpzhh6x3k39p4s",
+      "image_two": "https://images.luxuryescapes.com/j0dd1jrh435k8zzh5y",
+      "image_three": "https://images.luxuryescapes.com/f15docd3o953c6akinj",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-27",
-    "hotel_count": 2,
-    "average_price": 133,
+    "last_updated": "2026-01-28",
+    "hotel_count": 4,
+    "average_price": 125,
     "average_discount": 0
   }
 }

@@ -10,27 +10,27 @@
       "slug": "cairo",
       "image": "https://images.luxuryescapes.com/jkj7e6ophwwosodoodjn",
       "description": "Explore Cairo with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 154
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 152
     },
     {
-      "name": "Alamein",
-      "slug": "alamein",
-      "image": "https://images.luxuryescapes.com/m1x2y9po5v963ctkd7i",
-      "description": "Explore Alamein with luxury accommodations",
+      "name": "Hurghada",
+      "slug": "hurghada",
+      "image": "https://images.luxuryescapes.com/afwybcy5ie7xwt7pvqu",
+      "description": "Explore Hurghada with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 150
+      "avg_price": 380
     },
     {
       "name": "Sharm El Sheikh",
       "slug": "sharm-el-sheikh",
-      "image": "https://images.luxuryescapes.com/uyg9zq0vmu2metpwqqfl",
+      "image": "https://images.luxuryescapes.com/cvpidanjjhd1xazx7tis",
       "description": "Explore Sharm El Sheikh with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 395
+      "avg_price": 313
     }
   ],
   "seo": {

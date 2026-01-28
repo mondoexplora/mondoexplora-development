@@ -15,15 +15,6 @@
       "avg_price": 449
     },
     {
-      "name": "Cancun",
-      "slug": "cancun",
-      "image": "https://images.luxuryescapes.com/vqzbi27adn2we6xisgy",
-      "description": "Explore Cancun with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 393
-    },
-    {
       "name": "Los Cabos",
       "slug": "los-cabos",
       "image": "https://images.luxuryescapes.com/edqtv8330piiyf8k7dp",
@@ -33,22 +24,13 @@
       "avg_price": 601
     },
     {
-      "name": "Mexico City",
-      "slug": "mexico-city",
-      "image": "https://images.luxuryescapes.com/x9kez45e1406vdu2sika",
-      "description": "Explore Mexico City with luxury accommodations",
+      "name": "Cancun",
+      "slug": "cancun",
+      "image": "https://images.luxuryescapes.com/7w51ewnqihnlpyi4kx2",
+      "description": "Explore Cancun with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 226
-    },
-    {
-      "name": "Playa del Carmen",
-      "slug": "playa-del-carmen",
-      "image": "https://images.luxuryescapes.com/acteyk3as9c0gja6heks",
-      "description": "Explore Playa del Carmen with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 651
+      "avg_price": 446
     },
     {
       "name": "Nuevo Vallarta",
@@ -57,7 +39,25 @@
       "description": "Explore Nuevo Vallarta with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 324
+      "avg_price": 310
+    },
+    {
+      "name": "Playa del Carmen",
+      "slug": "playa-del-carmen",
+      "image": "https://images.luxuryescapes.com/acteyk3as9c0gja6heks",
+      "description": "Explore Playa del Carmen with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 388
+    },
+    {
+      "name": "Mexico City",
+      "slug": "mexico-city",
+      "image": "https://images.luxuryescapes.com/x9kez45e1406vdu2sika",
+      "description": "Explore Mexico City with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 99
     }
   ],
   "seo": {

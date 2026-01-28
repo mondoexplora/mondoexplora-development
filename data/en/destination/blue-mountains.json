@@ -67,8 +67,8 @@
       "title": "Boutique Blue Mountains Spa Haven with Four Bars & Restaurants",
       "description": "Proudly perched atop hazey rolling canyons, Lilianfels Blue Mountains Resort and Spa offers guests privileged views of New South Wales' prized UNESCO World Heritage-listed Blue Mountains National Park. Find reprieve from the stresses of everyday life with a soul-soothing treatment at Lilanfels Spa, float weightlessly in the heated indoor pool or dine, sip and sample decadent cuisine at any of the resort's onsite dining options, including the award-winning Darley's Restaurant & Bar",
       "location_subheading": "Australia",
-      "price": 202,
-      "original_price": 202,
+      "price": 210,
+      "original_price": 210,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNkEpAAL",
       "hero_image": "https://images.luxuryescapes.com/lktfgbwviyz6mdg3bw",
@@ -118,24 +118,6 @@
       "vendor_name": "The Hydro Majestic Hotel",
       "offer_country_name": "Australia",
       "location_heading": "Blue Mountains",
-      "title": "Historic Blue Mountains Escape overlooking the Megalong Valley with Fine Dining",
-      "description": "Discover a world beyond modern luxuries, to a palace full of glamour and grandeur, with an opulent stay at The Hydro Majestic Hotel. Tucked away in the Blue Mountains, this wellness retreat-turned-hotel boasts dining options, including the award-winning Wintergarden restaurant, with breathtaking views of the lush Megalong Valley. Brimming with a natural elegance and filled with an incredibly romantic atmosphere, this Art Deco-inspired destination is the perfect escape.",
-      "location_subheading": "Australia",
-      "price": 133,
-      "original_price": 133,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNkHKAA1",
-      "hero_image": "https://images.luxuryescapes.com/v6w3mruworp9w57hv7nbc",
-      "image_two": "https://images.luxuryescapes.com/7voxfhyilpjbpzlieiir",
-      "image_three": "https://images.luxuryescapes.com/jq8tjc5hw6owuto51sn",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "The Hydro Majestic Hotel",
-      "offer_country_name": "Australia",
-      "location_heading": "Blue Mountains",
       "title": "Iconic Blue Mountains Heritage Luxury with Daily Sparkling Wine Breakfast",
       "description": "Experience art deco-inspired luxury, award-winning dining and timeless heritage design at this historic retreat in the UNESCO World Heritage-listed Blue Mountains. Just a short drive from the iconic Three Sisters at Echo Point and the Scenic Skyway cable car, this spectacular getaway promises a blend of elegance and nature. A local institution since 1904, the hotel has attracted many famous guests, including Australia's first Prime Minister, Sir Edmund Barton, and Sherlock Holmes creator, Sir Arthur Conan Doyle. Experience this grand historic stay with grander inclusions, including a daily sparkling wine breakfast and A$50 dining credit per package to spend at venues including the chef-hatted The Wintergarden. Learn about the estate and magnate founder Mark Foy's illustrious heritage on an intimate tour of the grounds, from the century-old Casino Lobby and its iconic domed roof to the Majestic Ballroom. Plus, with a perfect position in the town of Medlow Bath - just more than 90 minutes by car from Sydney - you're surrounded by the spectacular scenery of the Blue Mountains, making it the perfect romantic weekend escape.",
       "location_subheading": "Australia",
@@ -149,6 +131,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 2,
       "end_date_utc": "2026-02-23 12:59:00"
+    },
+    {
+      "vendor_name": "The Hydro Majestic Hotel",
+      "offer_country_name": "Australia",
+      "location_heading": "Blue Mountains",
+      "title": "Historic Blue Mountains Escape overlooking the Megalong Valley with Fine Dining",
+      "description": "Discover a world beyond modern luxuries, to a palace full of glamour and grandeur, with an opulent stay at The Hydro Majestic Hotel. Tucked away in the Blue Mountains, this wellness retreat-turned-hotel boasts dining options, including the award-winning Wintergarden restaurant, with breathtaking views of the lush Megalong Valley. Brimming with a natural elegance and filled with an incredibly romantic atmosphere, this Art Deco-inspired destination is the perfect escape.",
+      "location_subheading": "Australia",
+      "price": 133,
+      "original_price": 133,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNkHKAA1",
+      "hero_image": "https://images.luxuryescapes.com/v6w3mruworp9w57hv7nbc",
+      "image_two": "https://images.luxuryescapes.com/7voxfhyilpjbpzlieiir",
+      "image_three": "https://images.luxuryescapes.com/jq8tjc5hw6owuto51sn",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -168,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-27",
+    "last_updated": "2026-01-28",
     "hotel_count": 8,
-    "average_price": 427,
+    "average_price": 428,
     "average_discount": 7
   }
 }

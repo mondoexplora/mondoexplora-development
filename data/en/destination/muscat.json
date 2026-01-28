@@ -4,8 +4,26 @@
   "country_code": "OM",
   "hero_title": "Hotels in Muscat",
   "description": "Discover the best hotels in Muscat, Oman. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/bwy07gvr4a63lc6cddd",
+  "hero_image": "https://images.luxuryescapes.com/bw9fwgfp792uvm9yhzkq",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Muscat Ocec",
+      "offer_country_name": "Oman",
+      "location_heading": "Muscat",
+      "title": "Muscat Stay with World-Class Restaurants & Bars",
+      "description": "Experience modern sustainability, authentic Arabian cuisine and renowned hospitality at the Crowne Plaza Muscat OCEC, an IHG Hotel,set within the brand-new Madinat Al Irfan district in the Omani capital of Muscat. Each of the exceptionally comfortable rooms and suites boasts luxe, Arabian-inspired interiors, while the resort's mouthwatering eateries, infinity pool, spa and state-of-the-art health club ensure complete comfort.",
+      "location_subheading": "Oman",
+      "price": 94,
+      "original_price": 94,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJbVAAX",
+      "hero_image": "https://images.luxuryescapes.com/bw9fwgfp792uvm9yhzkq",
+      "image_two": "https://images.luxuryescapes.com/1o2ee1aulfdoeqx8uli",
+      "image_three": "https://images.luxuryescapes.com/pwnf5q5s2rpnwnf1qa4s",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
     {
       "vendor_name": "Crowne Plaza Muscat",
       "offer_country_name": "Oman",
@@ -21,6 +39,24 @@
       "image_two": "https://images.luxuryescapes.com/chzfyentfj6gw29o152",
       "image_three": "https://images.luxuryescapes.com/z4sca3rlghy0pwu2ki2",
       "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "InterContinental Muscat",
+      "offer_country_name": "Oman",
+      "location_heading": "Muscat",
+      "title": "Five-Star Muscat City Break near Qurum Beach with Six Onsite Restaurants",
+      "description": "Discover the treasures of Oman with an escape to the five-star InterContinental Muscat, an IHG Hotel, perfectly positioned on the shores of the shimmering Gulf of Oman. Spend the day soaking in the culture of the city: explore one of the largest mosques in the Middle East, stroll through authentic local souks, or spend lazy days lounging at Qurum Beach. Then, return to your opulent accommodation and visit one of the seven onsite eateries or take a refreshing dip in the glistening outdoor pool.",
+      "location_subheading": "Oman",
+      "price": 202,
+      "original_price": 202,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNEoIAAX",
+      "hero_image": "https://images.luxuryescapes.com/t5scc4j17op651jx42yk",
+      "image_two": "https://images.luxuryescapes.com/hkqa3tjp6s6poyc5xli",
+      "image_three": "https://images.luxuryescapes.com/rv4gu3ms80iphmhqfeg",
+      "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     },
@@ -96,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-27",
-    "hotel_count": 4,
-    "average_price": 205,
+    "last_updated": "2026-01-28",
+    "hotel_count": 6,
+    "average_price": 186,
     "average_discount": 0
   }
 }

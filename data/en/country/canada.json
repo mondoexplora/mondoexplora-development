@@ -3,34 +3,52 @@
   "code": "CA",
   "hero_title": "Canada Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Canada.",
-  "hero_image": "https://images.luxuryescapes.com/v15g0w465xjz340jrdq",
+  "hero_image": "https://images.luxuryescapes.com/i3fljywt07lgaf32r1",
   "popular_destinations": [
-    {
-      "name": "Montreal",
-      "slug": "montreal",
-      "image": "https://images.luxuryescapes.com/v15g0w465xjz340jrdq",
-      "description": "Explore Montreal with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 210
-    },
-    {
-      "name": "Vancouver",
-      "slug": "vancouver",
-      "image": "https://images.luxuryescapes.com/5fcqyfaafdcpsgnucgj7",
-      "description": "Explore Vancouver with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 308
-    },
     {
       "name": "Toronto",
       "slug": "toronto",
-      "image": "https://images.luxuryescapes.com/pzribm04edbao08mh1",
+      "image": "https://images.luxuryescapes.com/i3fljywt07lgaf32r1",
       "description": "Explore Toronto with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 256
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 207
+    },
+    {
+      "name": "Montreal",
+      "slug": "montreal",
+      "image": "https://images.luxuryescapes.com/ncjtrrjr1te1mlmnoxgc",
+      "description": "Explore Montreal with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 241
+    },
+    {
+      "name": "Banff",
+      "slug": "banff",
+      "image": "https://images.luxuryescapes.com/m200j04ip0ufk6c5b7ij",
+      "description": "Explore Banff with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 422
+    },
+    {
+      "name": "Lake Louise",
+      "slug": "lake-louise",
+      "image": "https://images.luxuryescapes.com/zgny6ml988jq6mwcw2k8",
+      "description": "Explore Lake Louise with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 424
+    },
+    {
+      "name": "Edmonton",
+      "slug": "edmonton",
+      "image": "https://images.luxuryescapes.com/c2xubymtd5xtemqhof2",
+      "description": "Explore Edmonton with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 213
     },
     {
       "name": "Jasper",
@@ -40,24 +58,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 246
-    },
-    {
-      "name": "Calgary",
-      "slug": "calgary",
-      "image": "https://images.luxuryescapes.com/r43tjsw3sjcy1u106n",
-      "description": "Explore Calgary with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 259
-    },
-    {
-      "name": "Winnipeg",
-      "slug": "winnipeg",
-      "image": "https://images.luxuryescapes.com/lkpr24go1cksdmojstbi",
-      "description": "Explore Winnipeg with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 145
     }
   ],
   "seo": {

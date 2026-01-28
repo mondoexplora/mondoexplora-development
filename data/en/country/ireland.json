@@ -3,17 +3,8 @@
   "code": "IE",
   "hero_title": "Ireland Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Ireland.",
-  "hero_image": "https://images.luxuryescapes.com/m96esyk8gmvpvldfybiq",
+  "hero_image": "https://images.luxuryescapes.com/cxkj7oz77rxqedp2bl",
   "popular_destinations": [
-    {
-      "name": "Dublin",
-      "slug": "dublin",
-      "image": "https://images.luxuryescapes.com/m96esyk8gmvpvldfybiq",
-      "description": "Explore Dublin with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 250
-    },
     {
       "name": "Cork",
       "slug": "cork",
@@ -40,6 +31,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 225
+    },
+    {
+      "name": "Dublin",
+      "slug": "dublin",
+      "image": "https://images.luxuryescapes.com/uz7hw5t0kyd7jdfb43tq",
+      "description": "Explore Dublin with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 343
     }
   ],
   "seo": {

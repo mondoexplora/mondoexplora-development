@@ -43,6 +43,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "InterContinental Grand Ho Tram",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Ho Tram",
+      "title": "Five-Star Vietnam Beachside Retreat Just 2.5 Hours from Ho Chi Minh City with 16 Restaurants & World-Class Golf Course",
+      "description": "Surrounded by the famed sand dunes of one of Asia’s most acclaimed golf courses and the shimmering turquoise waters of the South China Sea, InterContinental Grand Ho Tram, an IHG Hotel offers Las Vegas-style luxury in the heart of Vietnam’s premier entertainment complex. Dine your way across 16 top-notch venues, head to The Bluffs Grand Ho Tram Strip to practice your long game or simply laze the day way by the hotel’s dazzling lagoon-style pool before an afternoon dip in the ocean.",
+      "location_subheading": "Vietnam",
+      "price": 99,
+      "original_price": 99,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNUAKAA5",
+      "hero_image": "https://images.luxuryescapes.com/yvbx30q1mmv5oojwvpm",
+      "image_two": "https://images.luxuryescapes.com/jdtv608h3zbwajzdi",
+      "image_three": "https://images.luxuryescapes.com/2t1yns7ij55h9inw13ngu",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Melia Ho Tram",
       "offer_country_name": "Vietnam",
       "location_heading": "Ho Tram",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-27",
-    "hotel_count": 3,
-    "average_price": 440,
-    "average_discount": 18
+    "last_updated": "2026-01-28",
+    "hotel_count": 4,
+    "average_price": 355,
+    "average_discount": 14
   }
 }

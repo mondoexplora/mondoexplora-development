@@ -3,25 +3,25 @@
   "code": "PT",
   "hero_title": "Portugal Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Portugal.",
-  "hero_image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
+  "hero_image": "https://images.luxuryescapes.com/5yckyvfavi9x20wjcmm",
   "popular_destinations": [
     {
       "name": "Lisbon",
       "slug": "lisbon",
-      "image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
+      "image": "https://images.luxuryescapes.com/5yckyvfavi9x20wjcmm",
       "description": "Explore Lisbon with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 211
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 209
     },
     {
       "name": "Porto",
       "slug": "porto",
-      "image": "https://images.luxuryescapes.com/6e3wls2tp55px18isaatq",
+      "image": "https://images.luxuryescapes.com/cwxxbyrbxf194xrl5lo5",
       "description": "Explore Porto with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 194
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 173
     },
     {
       "name": "Alentejo",
@@ -42,6 +42,15 @@
       "avg_price": 223
     },
     {
+      "name": "Vilamoura",
+      "slug": "vilamoura",
+      "image": "https://images.luxuryescapes.com/3olk929t5lqxpo0n688",
+      "description": "Explore Vilamoura with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 151
+    },
+    {
       "name": "Ericeira",
       "slug": "ericeira",
       "image": "https://images.luxuryescapes.com/pb1jl1v8ujfvjeq2d4c",
@@ -49,15 +58,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 179
-    },
-    {
-      "name": "Estoril",
-      "slug": "estoril",
-      "image": "https://images.luxuryescapes.com/4qavxyezwfdxbmqd858r",
-      "description": "Explore Estoril with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 171
     }
   ],
   "seo": {
