@@ -3,17 +3,8 @@
   "code": "FJ",
   "hero_title": "Fiji Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Fiji.",
-  "hero_image": "https://images.luxuryescapes.com/ah1octnsr2ejlf13dj",
+  "hero_image": "https://images.luxuryescapes.com/45e0v0v8t5f1p8bmfv39",
   "popular_destinations": [
-    {
-      "name": "Nadi",
-      "slug": "nadi",
-      "image": "https://images.luxuryescapes.com/ah1octnsr2ejlf13dj",
-      "description": "Explore Nadi with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 200
-    },
     {
       "name": "Malolo Island",
       "slug": "malolo-island",
@@ -21,7 +12,7 @@
       "description": "Explore Malolo Island with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 889
+      "avg_price": 901
     },
     {
       "name": "Viti Levu",
@@ -30,16 +21,16 @@
       "description": "Explore Viti Levu with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 256
+      "avg_price": 273
     },
     {
       "name": "Pacific Harbour",
       "slug": "pacific-harbour",
-      "image": "https://images.luxuryescapes.com/um52x6rjbgtfa0ywmp0c",
+      "image": "https://images.luxuryescapes.com/n6ay7spgbnfzzl5qlu0d",
       "description": "Explore Pacific Harbour with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 496
+      "avg_price": 497
     },
     {
       "name": "Malolo Lailai",
@@ -48,16 +39,25 @@
       "description": "Explore Malolo Lailai with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 304
+      "avg_price": 308
     },
     {
-      "name": "Denarau Island",
-      "slug": "denarau-island",
-      "image": "https://images.luxuryescapes.com/tr1p8uz6gsizxkg62khl",
-      "description": "Explore Denarau Island with luxury accommodations",
+      "name": "Coral Coast",
+      "slug": "coral-coast",
+      "image": "https://images.luxuryescapes.com/71exjhp7ylsx09gnatb",
+      "description": "Explore Coral Coast with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1572
+      "avg_price": 660
+    },
+    {
+      "name": "Yasawa Island",
+      "slug": "yasawa-island",
+      "image": "https://images.luxuryescapes.com/bi6db9dezf8709m1vza",
+      "description": "Explore Yasawa Island with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 3141
     }
   ],
   "seo": {

@@ -10,45 +10,27 @@
       "slug": "london",
       "image": "https://images.luxuryescapes.com/39mzmc3drv1f0ixf989g",
       "description": "Explore London with luxury accommodations",
-      "hotel_count": 47,
-      "hotel_deals": 47,
-      "avg_price": 428
-    },
-    {
-      "name": "Edinburgh",
-      "slug": "edinburgh",
-      "image": "https://images.luxuryescapes.com/zptradi37mp2shjch09f",
-      "description": "Explore Edinburgh with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 122
+      "hotel_count": 43,
+      "hotel_deals": 43,
+      "avg_price": 410
     },
     {
       "name": "Manchester",
       "slug": "manchester",
       "image": "https://images.luxuryescapes.com/1jh3a5tbxp3f0rejmd6m",
       "description": "Explore Manchester with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 116
+    },
+    {
+      "name": "Edinburgh",
+      "slug": "edinburgh",
+      "image": "https://images.luxuryescapes.com/r7v2rkk1vajbwytjs5z",
+      "description": "Explore Edinburgh with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
       "avg_price": 110
-    },
-    {
-      "name": "Liverpool",
-      "slug": "liverpool",
-      "image": "https://images.luxuryescapes.com/8pcy0a9daau63ik7j51",
-      "description": "Explore Liverpool with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 68
-    },
-    {
-      "name": "Stratford-upon-Avon",
-      "slug": "stratford-upon-avon",
-      "image": "https://images.luxuryescapes.com/5grq9a4gd8221j7n53ro",
-      "description": "Explore Stratford-upon-Avon with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 91
     },
     {
       "name": "Cheshire",
@@ -58,6 +40,24 @@
       "hotel_count": 2,
       "hotel_deals": 2,
       "avg_price": 97
+    },
+    {
+      "name": "Leeds",
+      "slug": "leeds",
+      "image": "https://images.luxuryescapes.com/yjim469jmqr8byc6blt",
+      "description": "Explore Leeds with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 108
+    },
+    {
+      "name": "Liverpool",
+      "slug": "liverpool",
+      "image": "https://images.luxuryescapes.com/3xbublkr5ta0dbjm3ch",
+      "description": "Explore Liverpool with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 91
     }
   ],
   "seo": {

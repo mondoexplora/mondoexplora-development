@@ -4,8 +4,26 @@
   "country_code": "GR",
   "hero_title": "Hotels in Athens",
   "description": "Discover the best hotels in Athens, Greece. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/i82sh732qdiui0v4zd",
+  "hero_image": "https://images.luxuryescapes.com/nx6xti8clm9hic2vc4ef",
   "hotels": [
+    {
+      "vendor_name": "Athens Capital Center Hotel-MGallery Collection",
+      "offer_country_name": "Greece",
+      "location_heading": "Athens",
+      "title": "Elegant Central Athens Retreat Overlooking the Acropolis with Rooftop Infinity Pool & Two Restaurants",
+      "description": "Uncover the eternal allure of Greece's capital city at this ideally located retreat, where modern sophistication meets Grecian elegance. Perfectly positioned between the upmarket Kolonaki and historic Plaka neighbourhoods, this five-star haven captures the city's vibrant spirit through its refined design, curated art collection and breathtaking views. The jewel in the hotel's crown is it's sun-kissed rooftop terrace, featuring a sparkling infinity pool, lively restaurant and bar, and panoramic views over the ancient Acropolis. As the sun sets over the ruins, sip handcrafted cocktails and savour Mediterranean-inspired plates before retreating to Galerie Cafe, where fine wines and the hotel's signature coffee blend are served alongside an ever-evolving art display.",
+      "location_subheading": "Greece",
+      "price": 194,
+      "original_price": 194,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Jjw0FYAR",
+      "hero_image": "https://images.luxuryescapes.com/nx6xti8clm9hic2vc4ef",
+      "image_two": "https://images.luxuryescapes.com/1106zo7x8fu6cc5pwjl",
+      "image_three": "https://images.luxuryescapes.com/71d38yzzjdafk2wgip1b",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Crowne Plaza Athens City Centre",
       "offer_country_name": "Greece",
@@ -21,6 +39,24 @@
       "image_two": "https://images.luxuryescapes.com/jo34d4y3era4eledg0z",
       "image_three": "https://images.luxuryescapes.com/iyknq0k1br1tliywxj1",
       "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Intercontinental Athenaeum Athens",
+      "offer_country_name": "Greece",
+      "location_heading": "Athens",
+      "title": "Stylish Athens Escape with Acropolis Views & Rooftop Bar",
+      "description": "The wonders of Ancient Greece are at your fingertips when you stay at InterContinental Athenaeum Athens, an IHG Hotel, where contemporary design meets the crumbling remains of the Acropolis. When you're not out there exploring UNESCO World Heritage-listed sites, head up to Premiere, a rooftop restaurant and bar with spectacular views of the Acropolis, then venture to the poolside Cafezoe Terrace for cocktails and desserts.",
+      "location_subheading": "Greece",
+      "price": 128,
+      "original_price": 128,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt68AAB",
+      "hero_image": "https://images.luxuryescapes.com/d68y2ueodgnql0ipfnk",
+      "image_two": "https://images.luxuryescapes.com/cd7fdjn2vlmfzki2l06s",
+      "image_three": "https://images.luxuryescapes.com/i73bjmk01hepck2j3yt",
+      "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     },
@@ -67,31 +103,13 @@
       "title": "Luxurious Central Athens Elegance Overlooking the Acropolis with Three Onsite Eateries",
       "description": "Discover Athens' historic heart with a stay at this timeless retreat, nestled in the heart of the city. Overlooking Syntagma Square, NJV Athens Plaza Hotel offers a front-row seat to iconic landmarks like the Acropolis, the bustling Plaka district and the chic boutiques of Ermou Street. Inside, expect unparalleled hospitality and sophisticated rooms and suites featuring marbled bathrooms and sweeping views of this storied city. Enjoy a casual bite at the Plaza Café, indulge in Mediterranean cuisine crafted with fresh, local ingredients at the stylish Parliament Restaurant and wind down at the end of each day with a drink at Explorer's Bar Bistro.",
       "location_subheading": "Greece",
-      "price": 225,
-      "original_price": 225,
+      "price": 216,
+      "original_price": 216,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002JKCfIAO",
       "hero_image": "https://images.luxuryescapes.com/qpw0ls4duqq583rj5vl9",
       "image_two": "https://images.luxuryescapes.com/vdwy7m3yle9jeujzbsf",
       "image_three": "https://images.luxuryescapes.com/dhkosf9xftok3zp0y1f",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Sofitel Athens Airport",
-      "offer_country_name": "Greece",
-      "location_heading": "Athens",
-      "title": "Athens Airport Luxury with Spa, Pool & Multiple Onsite Restaurants",
-      "description": "Perfectly positioned for a smooth layover, this luxury Sofitel hotel is conveniently located within the terminal of Athens Airport and a short drive from the vibrant city centre. Between flights savour contemporary Greek cuisine at the stylish Mesoghaia Restaurant or planespot with a cocktail in hand from Jenny's Rooftop Restaurant. Keep active in the well-equipped fitness centre, swim laps of the pool or explore attractions including the historic Acropolis, Parthenon or the storied Panathenaic Stadium.",
-      "location_subheading": "Greece",
-      "price": 237,
-      "original_price": 237,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JELw6YAH",
-      "hero_image": "https://images.luxuryescapes.com/u9n7trsgglbz0483z16r",
-      "image_two": "https://images.luxuryescapes.com/71i9xwu3ggskfcpsz2ym",
-      "image_three": "https://images.luxuryescapes.com/zeiv4gva7ewz0aarivt",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -186,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-28",
-    "hotel_count": 9,
-    "average_price": 241,
-    "average_discount": 11
+    "last_updated": "2026-01-29",
+    "hotel_count": 10,
+    "average_price": 224,
+    "average_discount": 10
   }
 }

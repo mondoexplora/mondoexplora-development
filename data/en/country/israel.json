@@ -3,8 +3,26 @@
   "code": "IL",
   "hero_title": "Israel Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Israel.",
-  "hero_image": "https://images.luxuryescapes.com/hwe6yn9j68ald64h2tic",
+  "hero_image": "https://images.luxuryescapes.com/ga1oyatktq19c8ts3wq",
   "popular_destinations": [
+    {
+      "name": "Tel Aviv",
+      "slug": "tel-aviv",
+      "image": "https://images.luxuryescapes.com/ga1oyatktq19c8ts3wq",
+      "description": "Explore Tel Aviv with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 310
+    },
+    {
+      "name": "Jerusalem",
+      "slug": "jerusalem",
+      "image": "https://images.luxuryescapes.com/7fvfne13t3pal7zo2ugg",
+      "description": "Explore Jerusalem with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 218
+    },
     {
       "name": "Shaharut",
       "slug": "shaharut",
@@ -12,7 +30,7 @@
       "description": "Explore Shaharut with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1099
+      "avg_price": 842
     }
   ],
   "seo": {

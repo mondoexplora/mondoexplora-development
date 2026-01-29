@@ -59,42 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Aparthotel Adagio Frankfurt City Messe",
-      "offer_country_name": "Germany",
-      "location_heading": "Frankfurt",
-      "title": "Apartment-Style Living in Central Frankfurt with City Skyline Bar",
-      "description": "Nestled within Frankfurt's iconic Westend Gate tower, this chic aparthotel is your ideal launchpad for discovering the city. Perfectly situated near the Congress Center and just steps from the Festhalle Messe metro station, Frankfurt's main attractions are within easy reach. Unwind with a cocktail at the panoramic Skylinebar, where Frankfurt's cityscape stretches out before you, or make the most of the onsite fitness centre to keep up with your routine. Explore nearby attractions like Goethe-Haus, Palmengarten, and Experiminta, all just minutes away.",
-      "location_subheading": "Germany",
-      "price": 75,
-      "original_price": 75,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP9eYAF",
-      "hero_image": "https://images.luxuryescapes.com/xgfwucw3aozel8b2b4n4",
-      "image_two": "https://images.luxuryescapes.com/vhpkpx8sifh9azp45d",
-      "image_three": "https://images.luxuryescapes.com/vc5jeh50sgmytra1rhn",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Crowne Plaza Frankfurt Congress Hotel",
-      "offer_country_name": "Germany",
-      "location_heading": "Frankfurt",
-      "title": "Sophisticated Frankfurt City Break near Airport",
-      "description": "Discover the best of one of Germany’s most vibrant cities with a stay at Crowne Plaza Frankfurt Congress Hotel, an IHG Hotel, positioned just minutes from Niederrad’s Deutsch Bank Park Arena and the Frankfurt Airport. After days spent exploring Frankfurt’s restored Old Town, Old St. Nicholas Church or the iconic Alte Oper, head to \\\"L44\\\" for laidback cocktails or Frankfurter Stube for cosy al fresco dining overlooking the vast greenery of the City Forest.",
-      "location_subheading": "Germany",
-      "price": 52,
-      "original_price": 52,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJavAAH",
-      "hero_image": "https://images.luxuryescapes.com/b0mh4h6emqmhswfkmkb",
-      "image_two": "https://images.luxuryescapes.com/6v24mser6jmjv4ax7bu",
-      "image_three": "https://images.luxuryescapes.com/ojoi3jzqrwvn0xtxrd",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -114,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-28",
-    "hotel_count": 5,
-    "average_price": 123,
+    "last_updated": "2026-01-29",
+    "hotel_count": 3,
+    "average_price": 163,
     "average_discount": 0
   }
 }

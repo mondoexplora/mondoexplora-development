@@ -4,25 +4,25 @@
   "country_code": "JP",
   "hero_title": "Hotels in Sapporo",
   "description": "Discover the best hotels in Sapporo, Japan. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/aixbddefsiqtb7b2rl2",
+  "hero_image": "https://images.luxuryescapes.com/bo6udncydom5cvvsjnhq",
   "hotels": [
     {
-      "vendor_name": "Grand Mercure Sapporo",
+      "vendor_name": "ANA Crowne Plaza Sapporo",
       "offer_country_name": "Japan",
       "location_heading": "Sapporo",
-      "title": "Sapporo Hotel Overlooking Odori Park with Onsite Restaurant",
-      "description": "Experience the magic of Hokkaido's charming capital with a stay at this contemporary hotel. Overlooking the famous Odori Park, this modern haven offers sleek rooms with sweeping city views and a hint of Japanese elegance. Perfectly situated for exploration, you're steps away from Sapporo's best shopping, dining and cultural attractions, plus the city’s seasonal highlights, from summer festivals to the magical winter snow festival. After a day of discovery, unwind with authentic Hokkaido flavors at the in-house restaurant, or simply relax in the comfort of your refined, restful room.",
+      "title": "Cosmopolitan Central Sapporo Luxury with Four Japanese Restaurants",
+      "description": "Sapporo is a firecracker city with a vibrant food scene, buzzing nightlife and endless shopping, all waiting to be experienced with a stay at ANA Crowne Plaza Sapporo, an IHG Hotel. Four onsite restaurants offer a smorgasbord of culinary delights: there's authentic sushi, seafood delicacies matched with sake, and sizzling teppanyaki. Satisfy your sweet tooth at Café Minamo with fresh pastries, or order a cocktail at Sky Lounge Sapporo View.",
       "location_subheading": "Japan",
-      "price": 51,
-      "original_price": 51,
+      "price": 50,
+      "original_price": 50,
       "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP1uYAF",
-      "hero_image": "https://images.luxuryescapes.com/aixbddefsiqtb7b2rl2",
-      "image_two": "https://images.luxuryescapes.com/bbkyq2yme8sm4dch8l1p",
-      "image_three": "https://images.luxuryescapes.com/emlwf1bamumvwrgp655b",
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CPubcAAD",
+      "hero_image": "https://images.luxuryescapes.com/bo6udncydom5cvvsjnhq",
+      "image_two": "https://images.luxuryescapes.com/v5gtowk1p63exh6g4o",
+      "image_three": "https://images.luxuryescapes.com/s9co46g8aeorhl3ihhjq",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Hotel Sosei Sapporo - MGallery Collection",
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-28",
+    "last_updated": "2026-01-29",
     "hotel_count": 3,
     "average_price": 77,
     "average_discount": 0

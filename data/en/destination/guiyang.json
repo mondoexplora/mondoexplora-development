@@ -4,8 +4,26 @@
   "country_code": "CN",
   "hero_title": "Hotels in Guiyang",
   "description": "Discover the best hotels in Guiyang, China. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/6tizdejf9vcv1v9qyon",
+  "hero_image": "https://images.luxuryescapes.com/f07hc0t4kykqfy8c1nt",
   "hotels": [
+    {
+      "vendor_name": "Novotel Guiyang Downtown",
+      "offer_country_name": "China",
+      "location_heading": "Guiyang",
+      "title": "Modern Guiyang City Escape near Airport with Onsite Dining",
+      "description": "Immerse yourself in the vibrant energy of Guiyang from a prime location in the city's bustling commercial district. This stylish retreat places you within easy reach of the city's most popular attractions, including the ancient Nanming District, picturesque Huaxi National City Wetland Park and historic Jiaxiu Tower. Surrounded by a plethora of local eateries, shops and cultural landmarks, Novotel Guiyang Downtown is near Guiyang Railway Station, making it the perfect base for your urban exploration. After a day of sightseeing, retreat to the hotel to enjoy a refreshing drink at one of the refined onsite lounges, or keep active in the modern fitness centre.",
+      "location_subheading": "China",
+      "price": 43,
+      "original_price": 43,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000IazW6YAJ",
+      "hero_image": "https://images.luxuryescapes.com/f07hc0t4kykqfy8c1nt",
+      "image_two": "https://images.luxuryescapes.com/fu8dh388vv5w3xlwhigr",
+      "image_three": "https://images.luxuryescapes.com/65bh0o3o4bvu5qi2eida",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Sofitel Guiyang Hunter",
       "offer_country_name": "China",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-28",
-    "hotel_count": 1,
-    "average_price": 96,
+    "last_updated": "2026-01-29",
+    "hotel_count": 2,
+    "average_price": 70,
     "average_discount": 0
   }
 }

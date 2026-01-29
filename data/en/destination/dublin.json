@@ -4,8 +4,26 @@
   "country_code": "IE",
   "hero_title": "Hotels in Dublin",
   "description": "Discover the best hotels in Dublin, Ireland. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/uz7hw5t0kyd7jdfb43tq",
+  "hero_image": "https://images.luxuryescapes.com/7y4ofoajudathj246u82",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Dublin-Blanchardstown",
+      "offer_country_name": "Ireland",
+      "location_heading": "Dublin",
+      "title": "Stylish West Dublin Stay Close to City, Airport & Blanchardstown Centre Shopping",
+      "description": "Experience the perfect combination of heritage and cosmopolitan living in Dublin at Crowne Plaza Dublin-Blanchardstown, an IHG Hotel. Just 15 minutes from the airport and city centre, you'll be within easy reach of the classic cobblestoned streets lined with vintage bookstores and boutiques, and the endless local pubs for a pint of Guinness. Near the hotel is the Blanchardstown Centre, the perfect place to indulge in some retail therapy.",
+      "location_subheading": "Ireland",
+      "price": 105,
+      "original_price": 105,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJZRAA5",
+      "hero_image": "https://images.luxuryescapes.com/7y4ofoajudathj246u82",
+      "image_two": "https://images.luxuryescapes.com/39v7v0fqh9ysreqgw5m",
+      "image_three": "https://images.luxuryescapes.com/045ef4dj5q727esa8jgw",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
     {
       "vendor_name": "The Dylan Hotel",
       "offer_country_name": "Ireland",
@@ -23,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "InterContinental Dublin",
+      "offer_country_name": "Ireland",
+      "location_heading": "Dublin",
+      "title": "Five-Star Dublin Escape with a Heavenly Day Spa",
+      "description": "Be warmly welcomed in five-star style at the InterContinental Dublin, an IHG Hotel, where old-school charms met with modern luxury. Make use of the exquisite day spa with relaxing treatments, a sauna and an indoor heated swimming pool. Be treated to exemplary service and listen to the soft sounds of a grand piano in the Lobby Lounge over a glass of wine, and feast on mouthwatering Irish cuisine at Seasons Restaurant. When you're ready to explore, Dublin's city centre is just a short drive away.",
+      "location_subheading": "Ireland",
+      "price": 304,
+      "original_price": 304,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6AAAR",
+      "hero_image": "https://images.luxuryescapes.com/cpkploqz1a71k6cr088",
+      "image_two": "https://images.luxuryescapes.com/nddqpx7e0qq3mf8nbh0q",
+      "image_three": "https://images.luxuryescapes.com/en3dj9ffvs4rcd6rmrnj",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-28",
-    "hotel_count": 1,
-    "average_price": 343,
+    "last_updated": "2026-01-29",
+    "hotel_count": 3,
+    "average_price": 251,
     "average_discount": 0
   }
 }

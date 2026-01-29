@@ -25,22 +25,40 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Hotel Indigo Milan - Corso Monforte",
+      "vendor_name": "Crowne Plaza Milan Linate",
       "offer_country_name": "Italy",
       "location_heading": "Milan",
-      "title": "Elegant Escape in the Heart of Milan",
-      "description": "Experience world-class luxury from Italy’s ultimate fashion runway, with a stay in the boutique Hotel Indigo Milan - Corso Monforte, an IHG Hotel. Set in a prestigious 19th-century building, this hotel is a historic masterpiece in architectural and interior design. Lose yourself in the beauty of the city as you live out the perfect European fantasy, wandering ancient cobblestone streets, indulging in luxurious high-end shopping, and gazing upon magnificent historic monuments.",
+      "title": "Elegant Milan Retreat within Italy's Fashion Capital",
+      "description": "Live your Italian dream and step into a world of fashion, culture and gourmet cuisine at Crowne Plaza Milan - Linate, an IHG Hotel. A fast-paced metropolis home to some of the world's most influential fashion houses, Milan allows you to indulge in opulent retail therapy, dine in Michelin-starred restaurants and wander through amazing sights that encapsulate the city's rich history. Shop 'til you drop, then return to the hotel and sip mouthwatering Italian wines at the onsite Il Giardino restaurant.",
       "location_subheading": "Italy",
-      "price": 309,
-      "original_price": 309,
+      "price": 96,
+      "original_price": 96,
       "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CuiRfAAJ",
-      "hero_image": "https://images.luxuryescapes.com/c0y00fn5ldwjenvsp7cd",
-      "image_two": "https://images.luxuryescapes.com/hk1wn4c4t4gflx3azs8",
-      "image_three": "https://images.luxuryescapes.com/e429eg81y92iy5jaif",
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJaHAAX",
+      "hero_image": "https://images.luxuryescapes.com/330erc5c7pre1z9ihf4",
+      "image_two": "https://images.luxuryescapes.com/d8enaizcir3bepeztjh",
+      "image_three": "https://images.luxuryescapes.com/56szqs66x9jc0ne88ef",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
-      "end_date_utc": "2026-12-31 01:59:00"
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "voco Milan Fiere",
+      "offer_country_name": "Italy",
+      "location_heading": "Milan",
+      "title": "Stylish Milan Hotel in Italian Fashion Capital",
+      "description": "Fall in love with the voco Milan-Fiere, an IHG Hotel, a stylish and vibrant escape in the heart of Italy's fashion capital. Savour sumptuous dishes at OnFire Grill and Lounge, let your hair down at Ludico bar and gaming area for some cool competition and cooler cocktails or revitalise after a long soak in the Turkish baths at the wellness centre. As the sun sets, retire to a cosy and welcoming room for a good night's sleep or hit the streets of Milan to experience the dynamic nightlife.",
+      "location_subheading": "Italy",
+      "price": 134,
+      "original_price": 134,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CP52IAAT",
+      "hero_image": "https://images.luxuryescapes.com/u3q1vos926w16x6gk489",
+      "image_two": "https://images.luxuryescapes.com/vf8rjstbnlx8q0kqgcdc",
+      "image_three": "https://images.luxuryescapes.com/0u2tmd6c78lo6j9c8gki",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-28",
-    "hotel_count": 2,
-    "average_price": 346,
-    "average_discount": 5
+    "last_updated": "2026-01-29",
+    "hotel_count": 3,
+    "average_price": 204,
+    "average_discount": 3
   }
 }

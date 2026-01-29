@@ -3,25 +3,25 @@
   "code": "CH",
   "hero_title": "Switzerland Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Switzerland.",
-  "hero_image": "https://images.luxuryescapes.com/avlbg2ent9eqezmxvv6nh",
+  "hero_image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
   "popular_destinations": [
-    {
-      "name": "Zurich",
-      "slug": "zurich",
-      "image": "https://images.luxuryescapes.com/avlbg2ent9eqezmxvv6nh",
-      "description": "Explore Zurich with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 161
-    },
     {
       "name": "Geneva",
       "slug": "geneva",
       "image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
       "description": "Explore Geneva with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 418
+    },
+    {
+      "name": "Zurich",
+      "slug": "zurich",
+      "image": "https://images.luxuryescapes.com/avlbg2ent9eqezmxvv6nh",
+      "description": "Explore Zurich with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 457
+      "avg_price": 176
     },
     {
       "name": "Crans-Montana",
@@ -39,7 +39,7 @@
       "description": "Explore Bern with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 288
+      "avg_price": 287
     },
     {
       "name": "Gstaad",
@@ -48,7 +48,7 @@
       "description": "Explore Gstaad with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 669
+      "avg_price": 668
     },
     {
       "name": "Grindelwald",
@@ -57,7 +57,7 @@
       "description": "Explore Grindelwald with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 419
+      "avg_price": 418
     }
   ],
   "seo": {

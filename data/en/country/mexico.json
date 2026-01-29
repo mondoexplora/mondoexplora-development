@@ -12,7 +12,16 @@
       "description": "Explore Cabo San Lucas with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 449
+      "avg_price": 447
+    },
+    {
+      "name": "Cancun",
+      "slug": "cancun",
+      "image": "https://images.luxuryescapes.com/vqzbi27adn2we6xisgy",
+      "description": "Explore Cancun with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 391
     },
     {
       "name": "Los Cabos",
@@ -21,25 +30,7 @@
       "description": "Explore Los Cabos with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 601
-    },
-    {
-      "name": "Cancun",
-      "slug": "cancun",
-      "image": "https://images.luxuryescapes.com/7w51ewnqihnlpyi4kx2",
-      "description": "Explore Cancun with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 446
-    },
-    {
-      "name": "Nuevo Vallarta",
-      "slug": "nuevo-vallarta",
-      "image": "https://images.luxuryescapes.com/usg61bll28lbufat4r7c",
-      "description": "Explore Nuevo Vallarta with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 310
+      "avg_price": 599
     },
     {
       "name": "Playa del Carmen",
@@ -48,16 +39,25 @@
       "description": "Explore Playa del Carmen with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 388
+      "avg_price": 387
     },
     {
-      "name": "Mexico City",
-      "slug": "mexico-city",
-      "image": "https://images.luxuryescapes.com/x9kez45e1406vdu2sika",
-      "description": "Explore Mexico City with luxury accommodations",
+      "name": "Nuevo Vallarta",
+      "slug": "nuevo-vallarta",
+      "image": "https://images.luxuryescapes.com/llvan5dafh8sxozcqwl9",
+      "description": "Explore Nuevo Vallarta with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 99
+      "avg_price": 203
+    },
+    {
+      "name": "San José del Cabo",
+      "slug": "san-josé-del-cabo",
+      "image": "https://images.luxuryescapes.com/8o6asha3wlkyllzs9ikf",
+      "description": "Explore San José del Cabo with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 204
     }
   ],
   "seo": {

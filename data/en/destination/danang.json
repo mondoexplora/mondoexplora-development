@@ -4,8 +4,26 @@
   "country_code": "VN",
   "hero_title": "Hotels in Danang",
   "description": "Discover the best hotels in Danang, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/3bdgmz4rmbs8f59ko6s",
+  "hero_image": "https://images.luxuryescapes.com/u6m8vzofrshcravah7ub",
   "hotels": [
+    {
+      "vendor_name": "Intercontinental Danang Sun Peninsula Resort",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Danang",
+      "title": "Five-Star Vietnam Beachfront Bliss near Da Nang",
+      "description": "Recharge your imagination with a luxe stay at the InterContinental Danang Sun Peninsula Resort - a spectacular beachfront haven on the central coast of Vietnam. Soak up every moment of bliss from this beachfront haven wrapped by jungle greenery, and enjoy direct beach access, plunge into one of three pools, release tension at the lavish spa, enliven your senses at five restaurants and bars, or relax in your accommodation, offering striking designs calmed by fresh breezes and secluded in nature.",
+      "location_subheading": "Vietnam",
+      "price": 369,
+      "original_price": 369,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt7vAAB",
+      "hero_image": "https://images.luxuryescapes.com/u6m8vzofrshcravah7ub",
+      "image_two": "https://images.luxuryescapes.com/hch7jvbb9h3qqm60wqhl",
+      "image_three": "https://images.luxuryescapes.com/1rvlr655ffiqiqazmhx",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Pullman Danang Beach Resort",
       "offer_country_name": "Vietnam",
@@ -41,24 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Shilla Monogram Danang",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Danang",
-      "title": "Beachfront Vietnam Retreat with Daily Breakfast, Daily Lunch or Dinner & Return Airport Transfers",
-      "description": "Experience historic beauty and modern opulence at this beachfront resort, gracefully located on the golden sands between Danang and the UNESCO World Heritage-listed Hoi An Old Town. Enjoy state-of-the-art facilities, including a tranquil bamboo forest garden, soothing sauna and sprawling infinity pool with endless vistas over the horizon. Step onto the soft sand of Non Nuoc Beach, where you’ll have a front-row seat to golden sunrises, or treat your palate to locally sourced cuisine at one of the resort’s sleek restaurants, Dining M or Bistro M. Moments of luxury await at the Monogram Lounge, where low-slung chairs are perfect the spot for tropical tipples and canapes. When you’re ready to explore further, venture into the beautifully preserved historic town of Hoi An, just a 20-minute drive away. Stroll the iconic lantern-clad streets, sip famously sweet Vietnamese coffee at a quaint cafe or treat yourself to a tailored suit, before heading back to the resort for a nightcap at Bar M.",
-      "location_subheading": "Vietnam",
-      "price": 729,
-      "original_price": 1970,
-      "discount_percentage": 63,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000N4r8XYAR",
-      "hero_image": "https://images.luxuryescapes.com/x076mbzjxodkhq0cbxm",
-      "image_two": "https://images.luxuryescapes.com/r4hiplnc0cxfggjttqvq",
-      "image_three": "https://images.luxuryescapes.com/fwgkp9wbigqks33ypwbg",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-01-28 12:59:00"
     }
   ],
   "seo": {
@@ -78,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-28",
+    "last_updated": "2026-01-29",
     "hotel_count": 3,
-    "average_price": 320,
-    "average_discount": 21
+    "average_price": 200,
+    "average_discount": 0
   }
 }
