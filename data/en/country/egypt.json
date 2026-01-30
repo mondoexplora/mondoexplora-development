@@ -3,16 +3,16 @@
   "code": "EG",
   "hero_title": "Egypt Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Egypt.",
-  "hero_image": "https://images.luxuryescapes.com/cyx634h57i00v9nwn59",
+  "hero_image": "https://images.luxuryescapes.com/jkj7e6ophwwosodoodjn",
   "popular_destinations": [
     {
       "name": "Cairo",
       "slug": "cairo",
-      "image": "https://images.luxuryescapes.com/cyx634h57i00v9nwn59",
+      "image": "https://images.luxuryescapes.com/jkj7e6ophwwosodoodjn",
       "description": "Explore Cairo with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 147
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 153
     },
     {
       "name": "Sharm El Sheikh",
@@ -21,16 +21,16 @@
       "description": "Explore Sharm El Sheikh with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 353
+      "avg_price": 336
     },
     {
-      "name": "Hurghada",
-      "slug": "hurghada",
-      "image": "https://images.luxuryescapes.com/afwybcy5ie7xwt7pvqu",
-      "description": "Explore Hurghada with luxury accommodations",
+      "name": "Alamein",
+      "slug": "alamein",
+      "image": "https://images.luxuryescapes.com/m1x2y9po5v963ctkd7i",
+      "description": "Explore Alamein with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 379
+      "avg_price": 148
     }
   ],
   "seo": {

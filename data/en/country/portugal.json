@@ -17,11 +17,11 @@
     {
       "name": "Porto",
       "slug": "porto",
-      "image": "https://images.luxuryescapes.com/cwxxbyrbxf194xrl5lo5",
+      "image": "https://images.luxuryescapes.com/hns8srxx9u2w15201jlp",
       "description": "Explore Porto with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 173
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 189
     },
     {
       "name": "Alentejo",
@@ -42,22 +42,22 @@
       "avg_price": 223
     },
     {
+      "name": "Vilamoura",
+      "slug": "vilamoura",
+      "image": "https://images.luxuryescapes.com/3olk929t5lqxpo0n688",
+      "description": "Explore Vilamoura with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 151
+    },
+    {
       "name": "Ericeira",
       "slug": "ericeira",
       "image": "https://images.luxuryescapes.com/pb1jl1v8ujfvjeq2d4c",
       "description": "Explore Ericeira with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 179
-    },
-    {
-      "name": "Sesimbra",
-      "slug": "sesimbra",
-      "image": "https://images.luxuryescapes.com/o0sk3npnkkiowe2494q2",
-      "description": "Explore Sesimbra with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 309
+      "avg_price": 187
     }
   ],
   "seo": {

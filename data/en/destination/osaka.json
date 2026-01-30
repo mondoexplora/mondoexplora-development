@@ -25,24 +25,6 @@
       "end_date_utc": "2026-02-09 12:59:00"
     },
     {
-      "vendor_name": "Holiday Inn Osaka Namba",
-      "offer_country_name": "Japan",
-      "location_heading": "Osaka",
-      "title": "Stylish Osaka Escape in Bustling & Vibrant Entertainment District",
-      "description": "The contemporary Holiday Inn Osaka Namba, an IHG Hotel, gives you access to culinary culture, extensive entertainment and an abundance of vibrant shopping opportunities. Step outside the hotel and shop up a storm at the myriad of department stores nearby, line up at the world-famous Okonomiyaki Mizuno, or take in the breathtaking vistas of greater Osaka from observation deck of Tsutenkaku tower. The best of Osaka really is at your doostep from this centrally located base.",
-      "location_subheading": "Japan",
-      "price": 65,
-      "original_price": 65,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DHAlZAAX",
-      "hero_image": "https://images.luxuryescapes.com/1va8jgfgvoyxp3s7so7k",
-      "image_two": "https://images.luxuryescapes.com/xm8us85078wmbgs356",
-      "image_three": "https://images.luxuryescapes.com/txt42eg774fexpo0yd7",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Intercontinental Osaka",
       "offer_country_name": "Japan",
       "location_heading": "Osaka",
@@ -75,6 +57,24 @@
       "image_two": "https://images.luxuryescapes.com/6qio41spahg9vhiznh1c",
       "image_three": "https://images.luxuryescapes.com/ifi8q2jvmsiae6wfis8",
       "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "RIHGA Royal Hotel Osaka",
+      "offer_country_name": "Japan",
+      "location_heading": "Osaka",
+      "title": "Prestigious Osaka Riverside Retreat with 17 Restaurants & Bars",
+      "description": "A tranquil Japanese oasis in the heart of Osaka awaits with a stay at the prestigious RIHGA Royal Hotel Osaka, Vignette Collection. From the moment you step inside this high-end hotel, expect to be mesmerised and calmed as you are met with awe-inspiring architecture - like a waterfall in the main lounge area - and a warm Japanese welcome. Make the most of the world-class facilities, boutique shopping and 17 onsite restaurants and bars for an Osaka stay you're unlikely to forget.",
+      "location_subheading": "Japan",
+      "price": 109,
+      "original_price": 109,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FMDVzAAP",
+      "hero_image": "https://images.luxuryescapes.com/xbu1p5l4nyo4s1fin9b",
+      "image_two": "https://images.luxuryescapes.com/tlzkyqahym4yzijutqak",
+      "image_three": "https://images.luxuryescapes.com/effvnpjwwszgjqge4n",
+      "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     },
@@ -132,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-29",
+    "last_updated": "2026-01-30",
     "hotel_count": 6,
-    "average_price": 273,
+    "average_price": 281,
     "average_discount": 10
   }
 }

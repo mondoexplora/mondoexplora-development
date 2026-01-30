@@ -10,18 +10,18 @@
       "slug": "siem-reap",
       "image": "https://images.luxuryescapes.com/84yrpn0gis08sef4jydq",
       "description": "Explore Siem Reap with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 148
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 130
     },
     {
       "name": "Phnom Penh",
       "slug": "phnom-penh",
       "image": "https://images.luxuryescapes.com/wd1boyvi5wgac9uyiju3r",
       "description": "Explore Phnom Penh with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 103
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 85
     },
     {
       "name": "Koh Rong Archipelago",
@@ -30,7 +30,7 @@
       "description": "Explore Koh Rong Archipelago with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1064
+      "avg_price": 1051
     },
     {
       "name": "Preah Sihanouk Province",
@@ -39,7 +39,7 @@
       "description": "Explore Preah Sihanouk Province with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 665
+      "avg_price": 657
     }
   ],
   "seo": {

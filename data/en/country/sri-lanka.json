@@ -3,25 +3,16 @@
   "code": "LK",
   "hero_title": "Sri Lanka Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Sri Lanka.",
-  "hero_image": "https://images.luxuryescapes.com/jgmi4b544djvkuywqogd",
+  "hero_image": "https://images.luxuryescapes.com/t9wevchnzj11m7ed06k",
   "popular_destinations": [
-    {
-      "name": "Hambantota",
-      "slug": "hambantota",
-      "image": "https://images.luxuryescapes.com/jgmi4b544djvkuywqogd",
-      "description": "Explore Hambantota with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 362
-    },
     {
       "name": "Kalutara",
       "slug": "kalutara",
       "image": "https://images.luxuryescapes.com/t9wevchnzj11m7ed06k",
       "description": "Explore Kalutara with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 153
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 421
     },
     {
       "name": "Colombo",
@@ -30,7 +21,7 @@
       "description": "Explore Colombo with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 252
+      "avg_price": 251
     },
     {
       "name": "Kandy",
@@ -39,7 +30,7 @@
       "description": "Explore Kandy with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 320
+      "avg_price": 316
     },
     {
       "name": "Kalkudah",
@@ -51,13 +42,22 @@
       "avg_price": 509
     },
     {
-      "name": "Kuchchaveli",
-      "slug": "kuchchaveli",
-      "image": "https://images.luxuryescapes.com/ifc3rxn0lk0g053785gc",
-      "description": "Explore Kuchchaveli with luxury accommodations",
+      "name": "Ahungalla",
+      "slug": "ahungalla",
+      "image": "https://images.luxuryescapes.com/u2smx3jm1hb975asir9j",
+      "description": "Explore Ahungalla with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 559
+      "avg_price": 320
+    },
+    {
+      "name": "Tangalle",
+      "slug": "tangalle",
+      "image": "https://images.luxuryescapes.com/1da71c5wnsx97ne6qpvq",
+      "description": "Explore Tangalle with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 321
     }
   ],
   "seo": {

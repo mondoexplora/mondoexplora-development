@@ -4,8 +4,26 @@
   "country_code": "VN",
   "hero_title": "Hotels in Da Nang",
   "description": "Discover the best hotels in Da Nang, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/g5kv7utrzj98p6urfjk9",
+  "hero_image": "https://images.luxuryescapes.com/dbcytx308e99am4uadjj",
   "hotels": [
+    {
+      "vendor_name": "Mercure Danang French Village",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Da Nang",
+      "title": "Da Nang Mountaintop French Castle-Style Indulgence at Ba Na Hills with Ten Restaurants, Pool & Luxe Spa",
+      "description": "Step into a fairytale above the clouds in Vietnam's lush Ba Na Hills, where grand French Gothic architecture and castle-like charm meet modern luxury. Accessible only via a scenic cable car ride, you'll be greeted by turreted buildings and cobblestone streets inspired by a 19th-century French village. Wake to crisp mountain air, swim in the heated indoor pool or rejuvenate at the Rhône Spa. With ten restaurants and bars to excite your palate, you can savour French flavours at L’Étable, hearty buffets at La Crique, and delectable Asian fare at La Côte d'Azur. After a day of exploring or photographing the nearby Golden Bridge, retreat to your classic room or head to the cosy basement bar for well-crafted drinks.",
+      "location_subheading": "Vietnam",
+      "price": 108,
+      "original_price": 108,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ib17eYAB",
+      "hero_image": "https://images.luxuryescapes.com/dbcytx308e99am4uadjj",
+      "image_two": "https://images.luxuryescapes.com/o9i3dbigmhwxi1bmarks",
+      "image_three": "https://images.luxuryescapes.com/zycjtrwcftv2sam5kqgt",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Pullman Danang Beach Resort",
       "offer_country_name": "Vietnam",
@@ -49,8 +67,8 @@
       "title": "Beachfront Vietnam Private Pool Villas with Onsite Dining, Spa & Private Beach",
       "description": "Set along Central Vietnam's longest and most private beach, retreat to pure indulgence at the five-star Banyan Tree Lang Co. Between the sapphire-blue East Sea and the peaks of the Truong Son mountain range, plunge into your private pool before sampling delicious cuisine at the four onsite restaurants and bars. Spend days gazing sapphire-blue waters and lush green mountains while absorbing the soothing jungle atmosphere. Relax in your serene private paradise and visit Banyan Tree Spa Lang Co, where a thoughtfully curated menu of treatments is grounded in the spa’s signature eight pillars of wellbeing. Fill your days with yoga sessions, watersports, hands-on cooking classes and traditional handicrafts. If you feel like venturing beyond, the Marble Mountains sunset views are well worth the journey.",
       "location_subheading": "Vietnam",
-      "price": 310,
-      "original_price": 310,
+      "price": 311,
+      "original_price": 311,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004URGWAA4",
       "hero_image": "https://images.luxuryescapes.com/ysxps05hygai11hhrv5t",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-29",
-    "hotel_count": 3,
-    "average_price": 504,
-    "average_discount": 22
+    "last_updated": "2026-01-30",
+    "hotel_count": 4,
+    "average_price": 405,
+    "average_discount": 17
   }
 }

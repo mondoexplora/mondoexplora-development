@@ -61,32 +61,14 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Mantra Trilogy",
-      "offer_country_name": "Australia",
-      "location_heading": "Cairns",
-      "title": "Beachfront Cairns Esplanade Escape with Lagoon Pool & Ocean Views",
-      "description": "Explore seaside living in Cairns with a stay along the city's Esplanade. Lounge by the resort's lagoon-style pool or enjoy alfresco dining at the onsite BBQ area. With the Esplanade right on your doorstep and easy access to the area's main attractions, you're perfectly placed to make the most of your time with family or friends.",
-      "location_subheading": "Australia",
-      "price": 107,
-      "original_price": 107,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JReuzAAD",
-      "hero_image": "https://images.luxuryescapes.com/3izrqiyoh6z4c5v4uv2h",
-      "image_two": "https://images.luxuryescapes.com/1fhvadewxqng92o79ff2k",
-      "image_three": "https://images.luxuryescapes.com/vec071woza2gtbd19o",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Novotel Cairns Oasis Resort",
       "offer_country_name": "Australia",
       "location_heading": "Cairns",
       "title": "Central Cairns Family Resort Moments from the Esplanade with Lagoon-Style Pool & Restaurant",
       "description": "Embrace the Cairns tropics with a stay at this hotel located just a stone's throw from the city's vibrant dining scene, where you can indulge in fresh seafood and local delicacies. The resort is also a short stroll from the bustling Cairns Esplanade, renowned for its lively markets and picturesque boardwalk. The hotel itself boasts a stunning lagoon-style pool, contemporary fitness centre and the relaxed Moku Bar + Grill, serving Pacific island-inspired cuisine.",
       "location_subheading": "Australia",
-      "price": 105,
-      "original_price": 105,
+      "price": 109,
+      "original_price": 109,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlptIAC",
       "hero_image": "https://images.luxuryescapes.com/9sxq2v48ghlqbm9x14nq",
@@ -113,6 +95,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Pullman Cairns International",
+      "offer_country_name": "Australia",
+      "location_heading": "Cairns",
+      "title": "Pullman Cairns Oasis near Marina & Esplanade with Onsite Restaurant & Day Spa",
+      "description": "A sun-dappled deck, bobbing yachts in the harbour, mountain vistas and the UNESCO World Heritage-listed Great Barrier Reef on the doorstep … there’s no better place to take in the beauty of Tropical North Queensland than with a stay at Pullman Cairns International. Be sure to make use of the gleaming swimming pool, sleek day spa and fitness centre, and dine at one of Cairns’ best seafood restaurants - Coco’s Kitchen + Bar - also host to divinely decadent high tea. Plus, this tropical oasis is located just a short walk from the Reef Fleet Terminal and an easy stroll to the vibrant Esplanade.",
+      "location_subheading": "Australia",
+      "price": 99,
+      "original_price": 99,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlpvIAC",
+      "hero_image": "https://images.luxuryescapes.com/boeefq4ydeuukwg89h2p",
+      "image_two": "https://images.luxuryescapes.com/e4hk14hxudn2mm1nyr2h",
+      "image_three": "https://images.luxuryescapes.com/22tolq510ag51l1e3qrc",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Pullman Reef Hotel Casino",
@@ -204,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-29",
+    "last_updated": "2026-01-30",
     "hotel_count": 10,
-    "average_price": 110,
+    "average_price": 109,
     "average_discount": 1
   }
 }

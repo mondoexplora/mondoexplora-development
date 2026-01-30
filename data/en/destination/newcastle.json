@@ -25,24 +25,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Holiday Inn Express Newcastle",
-      "offer_country_name": "Australia",
-      "location_heading": "Newcastle",
-      "title": "Smart Harbourside Stay near Newcastle City Centre",
-      "description": "Unspoilt shorelines, an historic harbour and quintessential Australian hospitality are on offer at Holiday Inn Express Newcastle, an IHG hotel. Expect sandy feet and slow days when you explore this harbourside city, with sprawling greenery, endless nature walks and plenty of rich heritage. Take a stroll down the Newcastle Memorial Walk for glistening sea views, learn something new at the local museum or get up close to native animals at Blackbutt Nature Reserve.",
-      "location_subheading": "Australia",
-      "price": 90,
-      "original_price": 90,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DH756AAD",
-      "hero_image": "https://images.luxuryescapes.com/qvoblu9bl913la15ciom",
-      "image_two": "https://images.luxuryescapes.com/65ehis9mmwn3ealh7ctg",
-      "image_three": "https://images.luxuryescapes.com/s0nbrc9keqknggzntogs",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Mercure Newcastle",
       "offer_country_name": "Australia",
       "location_heading": "Newcastle",
@@ -150,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-29",
-    "hotel_count": 7,
-    "average_price": 98,
+    "last_updated": "2026-01-30",
+    "hotel_count": 6,
+    "average_price": 100,
     "average_discount": 0
   }
 }

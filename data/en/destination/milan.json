@@ -41,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "voco Milan Fiere",
-      "offer_country_name": "Italy",
-      "location_heading": "Milan",
-      "title": "Stylish Milan Hotel in Italian Fashion Capital",
-      "description": "Fall in love with the voco Milan-Fiere, an IHG Hotel, a stylish and vibrant escape in the heart of Italy's fashion capital. Savour sumptuous dishes at OnFire Grill and Lounge, let your hair down at Ludico bar and gaming area for some cool competition and cooler cocktails or revitalise after a long soak in the Turkish baths at the wellness centre. As the sun sets, retire to a cosy and welcoming room for a good night's sleep or hit the streets of Milan to experience the dynamic nightlife.",
-      "location_subheading": "Italy",
-      "price": 134,
-      "original_price": 134,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CP52IAAT",
-      "hero_image": "https://images.luxuryescapes.com/u3q1vos926w16x6gk489",
-      "image_two": "https://images.luxuryescapes.com/vf8rjstbnlx8q0kqgcdc",
-      "image_three": "https://images.luxuryescapes.com/0u2tmd6c78lo6j9c8gki",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -78,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-29",
-    "hotel_count": 3,
-    "average_price": 204,
-    "average_discount": 3
+    "last_updated": "2026-01-30",
+    "hotel_count": 2,
+    "average_price": 239,
+    "average_discount": 5
   }
 }

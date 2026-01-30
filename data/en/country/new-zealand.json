@@ -10,36 +10,36 @@
       "slug": "auckland",
       "image": "https://images.luxuryescapes.com/pmyz74jnnr9qagosiv4a",
       "description": "Explore Auckland with luxury accommodations",
-      "hotel_count": 12,
-      "hotel_deals": 12,
-      "avg_price": 135
+      "hotel_count": 16,
+      "hotel_deals": 16,
+      "avg_price": 132
     },
     {
       "name": "Queenstown",
       "slug": "queenstown",
-      "image": "https://images.luxuryescapes.com/vmsy7g6nx8nzhipx782q",
+      "image": "https://images.luxuryescapes.com/ylb8648jzk6x01er2cyr",
       "description": "Explore Queenstown with luxury accommodations",
-      "hotel_count": 9,
-      "hotel_deals": 9,
-      "avg_price": 652
-    },
-    {
-      "name": "Wellington",
-      "slug": "wellington",
-      "image": "https://images.luxuryescapes.com/8ofusp0qqc8qj7asix9",
-      "description": "Explore Wellington with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 100
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 507
     },
     {
       "name": "Christchurch",
       "slug": "christchurch",
       "image": "https://images.luxuryescapes.com/od5xt9s0l5cuisblm6",
       "description": "Explore Christchurch with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 128
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 121
+    },
+    {
+      "name": "Wellington",
+      "slug": "wellington",
+      "image": "https://images.luxuryescapes.com/3y52ofn50nfhbhsxfdfj",
+      "description": "Explore Wellington with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 84
     },
     {
       "name": "Napier",
@@ -57,7 +57,7 @@
       "description": "Explore Oamaru with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 335
+      "avg_price": 334
     }
   ],
   "seo": {

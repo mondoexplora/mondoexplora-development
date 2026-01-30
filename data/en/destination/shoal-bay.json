@@ -4,25 +4,25 @@
   "country_code": "AU",
   "hero_title": "Hotels in Shoal Bay",
   "description": "Discover the best hotels in Shoal Bay, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/5jkcskbsf7179hak7m2ho",
+  "hero_image": "https://images.luxuryescapes.com/sw4ls787fjql3vls9wl",
   "hotels": [
     {
       "vendor_name": "Ramada Resort by Wyndham Shoal Bay",
       "offer_country_name": "Australia",
       "location_heading": "Shoal Bay",
-      "title": "Beachside Shoal Bay Apartment-Style Resort along NSW's North Coast with Lagoon Pool & Dining Credit",
-      "description": "Follow the sun-kissed Central Coast to Shoal Bay, and enjoy a relaxing beachside paradise perched on the glorious shores in Port Stephens, an hour from Newcastle. Home to a sun-lit lagoon pool with a kids' wading area and indoor lap pool, this palm-fringed resort is ideal for groups and families. Work up a sweat at the fitness centre, dine at one of the onsite eateries and unwind at Sirène Spa - this tranquil retreat has something for everyone. Explore the surrounding coastal trails on foot or take two wheels and feel the sea breeze from a bicycle. Plunge into rolling waves on a stand-up paddleboard and test your water sports skills in the comfort of a kayak. Explore nearby Port Stephens, which has everything from wildlife to wineries, or drive south to Newcastle, where top restaurants, boutiques, galleries and more gorgeous beaches await.",
+      "title": "Beachfront Shoal Bay Apartment-Style Resort along NSW North Coast with Lagoon Pool & Dining Credits",
+      "description": "Follow the sun-kissed Central Coast to Shoal Bay, and enjoy a relaxing beachside paradise perched on the glorious shores in Port Stephens, just an hour from Newcastle. Home to a sun-lit lagoon pool with a kids' wading area and indoor lap pool, this palm-fringed resort is ideal for groups and families with direct access to the Shoal Bay Country Club. Work up a sweat at the fitness centre, unwind at Sirène Spa and dine across four onsite eateries - including Atmos Greek Restaurant and the beachfront Shoal Bay Country Club. This tranquil retreat has something for everyone. Explore the surrounding coastal trails on foot or take two wheels and feel the sea breeze from a bicycle. Plunge into rolling waves on a stand-up paddleboard and test your water sports skills in the comfort of a kayak.",
       "location_subheading": "Australia",
       "price": 239,
-      "original_price": 543,
-      "discount_percentage": 56,
-      "link": "https://luxuryescapes.com/offer/006RF00000Db8C4YAJ",
-      "hero_image": "https://images.luxuryescapes.com/5jkcskbsf7179hak7m2ho",
-      "image_two": "https://images.luxuryescapes.com/ckyvxe1qxp38pmrclp6",
-      "image_three": "https://images.luxuryescapes.com/bnmh09seu43gaakg5btf",
-      "deal_tier": "Luxury Escapes - Tier 1",
+      "original_price": 520,
+      "discount_percentage": 54,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000NQtbVYAT",
+      "hero_image": "https://images.luxuryescapes.com/sw4ls787fjql3vls9wl",
+      "image_two": "https://images.luxuryescapes.com/1i2srvu5x3h5snl9s28",
+      "image_three": "https://images.luxuryescapes.com/psohpw62df67odlcpb08",
+      "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 2,
-      "end_date_utc": "2025-08-01 13:59:00"
+      "end_date_utc": "2026-02-25 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2025-07-27",
+    "last_updated": "2026-01-30",
     "hotel_count": 1,
     "average_price": 239,
-    "average_discount": 56
+    "average_discount": 54
   }
 }

@@ -3,16 +3,16 @@
   "code": "HK",
   "hero_title": "Hong Kong Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Hong Kong.",
-  "hero_image": "https://images.luxuryescapes.com/6lv0zoukbyfgrp45e8f",
+  "hero_image": "https://images.luxuryescapes.com/nx7wfyngrso287oeu67g",
   "popular_destinations": [
     {
       "name": "Hong Kong",
       "slug": "hong-kong",
-      "image": "https://images.luxuryescapes.com/6lv0zoukbyfgrp45e8f",
+      "image": "https://images.luxuryescapes.com/nx7wfyngrso287oeu67g",
       "description": "Explore Hong Kong with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 268
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 282
     },
     {
       "name": "Kowloon",
@@ -21,7 +21,7 @@
       "description": "Explore Kowloon with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 254
+      "avg_price": 259
     },
     {
       "name": "Hong Kong Island",
@@ -30,16 +30,16 @@
       "description": "Explore Hong Kong Island with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 220
+      "avg_price": 218
     },
     {
       "name": "Hung Hom Bay",
       "slug": "hung-hom-bay",
-      "image": "https://images.luxuryescapes.com/rr7yiu303rfdwex6i0ad",
+      "image": "https://images.luxuryescapes.com/z8gma4zv6cgyq9h0gmt",
       "description": "Explore Hung Hom Bay with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 430
+      "avg_price": 429
     },
     {
       "name": "Tsim Sha Tsui",
@@ -48,16 +48,16 @@
       "description": "Explore Tsim Sha Tsui with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 370
+      "avg_price": 366
     },
     {
-      "name": "Taikoo Shing",
-      "slug": "taikoo-shing",
-      "image": "https://images.luxuryescapes.com/wb481svsstntqqs8wbb",
-      "description": "Explore Taikoo Shing with luxury accommodations",
+      "name": "Wan Chai",
+      "slug": "wan-chai",
+      "image": "https://images.luxuryescapes.com/4374u90jxi90inl2rha",
+      "description": "Explore Wan Chai with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 126
+      "avg_price": 137
     }
   ],
   "seo": {

@@ -13,8 +13,8 @@
       "title": "Quaint Bath Stay with Spa and Outdoor Heated Pool",
       "description": "Escape to rolling green hills on a magnificent countryside stay at the quaint and welcoming Homewood. Step inside the hotel’s historic stone walls and be swept away by opulent interiors filled with vibrant art and lavish furniture. If rejuvenation is in order, a visit to the hotel’s luxurious spa is the perfect way to enhance your escape. When hunger bites, sample succulent Mediterranean dishes on the terrace, or indulge under the stars in a futuristic dining dome.",
       "location_subheading": "United Kingdom",
-      "price": 252,
-      "original_price": 252,
+      "price": 251,
+      "original_price": 251,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DQUnrAAH",
       "hero_image": "https://images.luxuryescapes.com/uizngck99hijt67vx4bj",
@@ -25,14 +25,32 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Hotel Indigo Bath",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Bath",
+      "title": "Modern Bath Stay within Historic Georgian Terrace",
+      "description": "Experience an elegant heritage escape at Hotel Indigo Bath, an IHG Hotel, a charming hotel set within a beautifully restored Georgian Terrace. Explore this gorgeous area and immerse yourself in the ancient bathhouses that inspired the city's name, before discovering architectural treasures including the Bath Abbey, Roman Baths and Pulteney Bridge. At the hotel, savour delicious fare at The Elder Restaurant or release some endorphins at the stylish gym locate onsite.",
+      "location_subheading": "United Kingdom",
+      "price": 109,
+      "original_price": 109,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CuiRkAAJ",
+      "hero_image": "https://images.luxuryescapes.com/zt9v98nri88tuq5l4de",
+      "image_two": "https://images.luxuryescapes.com/hpnsowj3d900xzok5qc",
+      "image_three": "https://images.luxuryescapes.com/1f7wenno5j8evwdb04c",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
+    {
       "vendor_name": "The Bird, Bath",
       "offer_country_name": "United Kingdom",
       "location_heading": "Bath",
       "title": "Eclectic Boutique UK Escape in the Heart of Heritage-Rich Bath",
       "description": "Fabulous style and endless charisma are at the forefront of The Bird, Bath hotel, tucked away in the grassy surrounds of the UK's only UNESCO World Heritage-listed city. This vibrant hotel is a stone's throw from iconic Bath Abbey and the romantic city centre, famed for its ancient architecture and Roman relics. But with onsite dining options including decadent afternoon tea and a glass of champagne on the terrace, you may not find reason to leave.",
       "location_subheading": "United Kingdom",
-      "price": 134,
-      "original_price": 134,
+      "price": 138,
+      "original_price": 138,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DQV6jAAH",
       "hero_image": "https://images.luxuryescapes.com/lxw8wxuro1c8aaakkeu",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-29",
-    "hotel_count": 2,
-    "average_price": 193,
+    "last_updated": "2026-01-30",
+    "hotel_count": 3,
+    "average_price": 166,
     "average_discount": 0
   }
 }

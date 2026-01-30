@@ -4,44 +4,8 @@
   "country_code": "DE",
   "hero_title": "Hotels in Frankfurt",
   "description": "Discover the best hotels in Frankfurt, Germany. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/3jkn70tstn9sxal7h9of",
+  "hero_image": "https://images.luxuryescapes.com/wqz7umyntbxuqw13j1",
   "hotels": [
-    {
-      "vendor_name": "25hours Hotel Frankfurt The Goldman",
-      "offer_country_name": "Germany",
-      "location_heading": "Frankfurt",
-      "title": "Central Frankfurt Riverside Haven with Onsite Bar and Restaurant",
-      "description": "Welcome to Frankfurt's most rebellious hideaway at 25hours Hotel The Goldman. Each room has its own story, think creative interiors, comfortable beds and quirky details. Whether you're chilling in the lounge or renting a bike to cruise the city, it's a spot that makes you feel right at home. Located in Frankfurt's edgy Ostend district, you're a quick stroll from Main River and some of the city's coolest hangouts. Grab a cocktail at Oost Bar, kick back at ISOLETTA Restaurant and sample southern Italian cuisine, rent a bicycle or stay energised in the 24/7 fitness centre.",
-      "location_subheading": "Germany",
-      "price": 62,
-      "original_price": 62,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JjtiAYAR",
-      "hero_image": "https://images.luxuryescapes.com/3jkn70tstn9sxal7h9of",
-      "image_two": "https://images.luxuryescapes.com/safglhdcvxcmue0xjm",
-      "image_three": "https://images.luxuryescapes.com/rhko2t8j300r7thjim",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "25hours Hotel Frankfurt The Trip",
-      "offer_country_name": "Germany",
-      "location_heading": "Frankfurt",
-      "title": "Stylish Frankfurt Travel-Themed City Break with Rooftop Terrace & Finnish Sauna",
-      "description": "Discover a playful haven in Frankfurt’s Bahnhofsviertel district with a stay at this funky retreat that transforms travel and discovery into an interior art form. Each level of the hotel is an expedition - from the Arctic to the tropics - while rooms offer vibrant, retro design and thoughtful amenities, curated to ensure a blissful stay in the city. Sample mouthwatering Middle Eastern creations at BAR SHUKA and end each evening with sake-based cocktails at SHUKA BAR. Revitalise at the rooftop wellness area, complete with a Finnish sauna, workout zone, and relaxation nooks, while Studio 54 offers spaces to work or gather creatively. Borrow a bike to cycle along the Main River or stroll to nearby cafes and the Kunstareal.",
-      "location_subheading": "Germany",
-      "price": 69,
-      "original_price": 69,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JjtiBYAR",
-      "hero_image": "https://images.luxuryescapes.com/7n0zb91smpa42ivqugn5",
-      "image_two": "https://images.luxuryescapes.com/ig7nu3hsm7wyvimw2jvj",
-      "image_three": "https://images.luxuryescapes.com/4gkcfadal872y7s5wpo",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Adina Frankfurt Westend",
       "offer_country_name": "Germany",
@@ -78,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-29",
-    "hotel_count": 3,
-    "average_price": 163,
+    "last_updated": "2026-01-30",
+    "hotel_count": 1,
+    "average_price": 359,
     "average_discount": 0
   }
 }
