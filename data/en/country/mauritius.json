@@ -3,8 +3,17 @@
   "code": "MU",
   "hero_title": "Mauritius Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Mauritius.",
-  "hero_image": "https://images.luxuryescapes.com/niq27g5fsaj1frcxz04i",
+  "hero_image": "https://images.luxuryescapes.com/rwlyooy26kjodlidgioe",
   "popular_destinations": [
+    {
+      "name": "Bel Ombre",
+      "slug": "bel-ombre",
+      "image": "https://images.luxuryescapes.com/rwlyooy26kjodlidgioe",
+      "description": "Explore Bel Ombre with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 246
+    },
     {
       "name": "Belle Mare",
       "slug": "belle-mare",
@@ -24,13 +33,22 @@
       "avg_price": 1289
     },
     {
-      "name": "Bel Ombre",
-      "slug": "bel-ombre",
-      "image": "https://images.luxuryescapes.com/rwlyooy26kjodlidgioe",
-      "description": "Explore Bel Ombre with luxury accommodations",
+      "name": "Balaclava",
+      "slug": "balaclava",
+      "image": "https://images.luxuryescapes.com/d94763igr6gtm91dz07z8",
+      "description": "Explore Balaclava with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 231
+      "avg_price": 250
+    },
+    {
+      "name": "Flic En Flac",
+      "slug": "flic-en-flac",
+      "image": "https://images.luxuryescapes.com/8l8xhc3kr8uuuvei0a",
+      "description": "Explore Flic En Flac with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 323
     }
   ],
   "seo": {

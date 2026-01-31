@@ -3,25 +3,25 @@
   "code": "AE",
   "hero_title": "United Arab Emirates Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in United Arab Emirates.",
-  "hero_image": "https://images.luxuryescapes.com/9z9kfpbdyjkikdisdkv",
+  "hero_image": "https://images.luxuryescapes.com/bk11fbt9fad6gcgfp96e",
   "popular_destinations": [
     {
       "name": "Dubai",
       "slug": "dubai",
-      "image": "https://images.luxuryescapes.com/9z9kfpbdyjkikdisdkv",
+      "image": "https://images.luxuryescapes.com/bk11fbt9fad6gcgfp96e",
       "description": "Explore Dubai with luxury accommodations",
-      "hotel_count": 70,
-      "hotel_deals": 70,
-      "avg_price": 246
+      "hotel_count": 72,
+      "hotel_deals": 72,
+      "avg_price": 274
     },
     {
       "name": "Abu Dhabi",
       "slug": "abu-dhabi",
       "image": "https://images.luxuryescapes.com/wtas4oaepqwhap5tf7",
       "description": "Explore Abu Dhabi with luxury accommodations",
-      "hotel_count": 13,
-      "hotel_deals": 13,
-      "avg_price": 579
+      "hotel_count": 14,
+      "hotel_deals": 14,
+      "avg_price": 193
     },
     {
       "name": "Ras Al Khaimah",
@@ -30,25 +30,7 @@
       "description": "Explore Ras Al Khaimah with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 180
-    },
-    {
-      "name": "Fujairah",
-      "slug": "fujairah",
-      "image": "https://images.luxuryescapes.com/rus8eegknojpcg0z1n",
-      "description": "Explore Fujairah with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 176
-    },
-    {
-      "name": "Sharjah",
-      "slug": "sharjah",
-      "image": "https://images.luxuryescapes.com/uak7lkjvx3uyyfyt05",
-      "description": "Explore Sharjah with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 65
+      "avg_price": 169
     },
     {
       "name": "Sir Bani Yas Island",
@@ -57,7 +39,25 @@
       "description": "Explore Sir Bani Yas Island with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 428
+      "avg_price": 429
+    },
+    {
+      "name": "Ajman",
+      "slug": "ajman",
+      "image": "https://images.luxuryescapes.com/gf586qrpa3aara4wbm29",
+      "description": "Explore Ajman with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 191
+    },
+    {
+      "name": "Palm Jumeirah",
+      "slug": "palm-jumeirah",
+      "image": "https://images.luxuryescapes.com/veopkamzktw0qwgzpk",
+      "description": "Explore Palm Jumeirah with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 168
     }
   ],
   "seo": {

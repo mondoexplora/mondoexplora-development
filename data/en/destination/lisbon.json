@@ -4,26 +4,8 @@
   "country_code": "PT",
   "hero_title": "Hotels in Lisbon",
   "description": "Discover the best hotels in Lisbon, Portugal. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
+  "hero_image": "https://images.luxuryescapes.com/5yckyvfavi9x20wjcmm",
   "hotels": [
-    {
-      "vendor_name": "Convent Square Hotel, Vignette Collection",
-      "offer_country_name": "Portugal",
-      "location_heading": "Lisbon",
-      "title": "Opulent Lisbon Stay in 13th Century Convent with Iconic Restaurant & Bar",
-      "description": "Find refined elegance within the walls of a 13th-century Dominican Convent atConvent Square Lisbon, Vignette Collection, an IHG Hotel. From savoring delectable Portuguese cuisine at Capítulo Restaurant to embracing Portugal's stunning architecture in the emblematic cloister, every moment is an invitation to elevate your senses. Unwind in the sauna or rejuvenate in the heated plunge pool while gazing at Lisbon's breathtaking church top views.",
-      "location_subheading": "Portugal",
-      "price": 155,
-      "original_price": 155,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNR7rAAH",
-      "hero_image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
-      "image_two": "https://images.luxuryescapes.com/36g2a0oynstczadxvqgm",
-      "image_three": "https://images.luxuryescapes.com/4kb396xsk369lx0lw5o",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Corinthia Lisbon",
       "offer_country_name": "Portugal",
@@ -79,14 +61,32 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "InterContinental Lisbon",
+      "offer_country_name": "Portugal",
+      "location_heading": "Lisbon",
+      "title": "Five-Star Lisbon Stay with Old Town & Tagus River Views",
+      "description": "Five-star comfort meets contemporary design and breathtaking vistas at InterContinental Lisbon, an IHG Hotel. Experience culinary masterpieces at Akla Restaurant, savour Portuguese wine at Uptown Bar or gaze out over the stunning Lisbon skyline from the comfort of a private terrace. Indulge in a spot of shopping at the boutiques on the famous Avenida da Liberdade, admire verdant views of Eduardo VII Park or discover the local area's historic monuments and monasteries.",
+      "location_subheading": "Portugal",
+      "price": 197,
+      "original_price": 197,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNEplAAH",
+      "hero_image": "https://images.luxuryescapes.com/h025ptpkjj00j9k2td",
+      "image_two": "https://images.luxuryescapes.com/cudswuddhk04ayakpg8",
+      "image_three": "https://images.luxuryescapes.com/ggmf8q1eotnia6rwsvno",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 00:59:00"
+    },
+    {
       "vendor_name": "Pousada de Lisboa",
       "offer_country_name": "Portugal",
       "location_heading": "Lisbon",
       "title": "Elegant Heritage Escape in the Heart of Lisbon",
       "description": "Framed by a 16th-century façade in the heart of Portugal's vibrant capital, Pousada de Lisboa is a boutique hotel promising urban luxe with historic charm just moments from Lisbon's top attractions. Part of the Small Luxury Hotels of the World collection and ranked in Tripadvisor's top 1% of properties worldwide, this former house for kings and forum for ministries has been beautifully restored into a luxury city launchpad. This elegant city hotel with first-class features is surrounded by timeless beauty in a prime location opposite the popular Praça do Comércio and Tagus River. Sip a 'bica' along the A Brasileira esplanade, hop between the myriad of bookstores, museums, and irresistible bakeries, or stroll along the south bank to catch panoramic sunset views. Back at the hotel, take time to admire the lavish paintings and intricate sculptures, sink your teeth into a sumptuous steak at the trendy RIB Beef & Wine restaurant serving signature cuts with Portuguese flair, or plunge into the outdoor pool and soak up the Mediterranean sun with a cocktail in hand.",
       "location_subheading": "Portugal",
-      "price": 259,
-      "original_price": 259,
+      "price": 274,
+      "original_price": 274,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000005JMLAAA4",
       "hero_image": "https://images.luxuryescapes.com/2iskdw60s6v6d8vhdp",
@@ -168,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-30",
+    "last_updated": "2026-01-31",
     "hotel_count": 8,
-    "average_price": 207,
+    "average_price": 214,
     "average_discount": 8
   }
 }

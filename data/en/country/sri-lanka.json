@@ -30,16 +30,7 @@
       "description": "Explore Kandy with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 316
-    },
-    {
-      "name": "Kalkudah",
-      "slug": "kalkudah",
-      "image": "https://images.luxuryescapes.com/5nvf2c35d82zr1kywb9",
-      "description": "Explore Kalkudah with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 509
+      "avg_price": 317
     },
     {
       "name": "Ahungalla",
@@ -48,7 +39,7 @@
       "description": "Explore Ahungalla with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 320
+      "avg_price": 321
     },
     {
       "name": "Tangalle",
@@ -57,7 +48,16 @@
       "description": "Explore Tangalle with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 321
+      "avg_price": 322
+    },
+    {
+      "name": "Weligama",
+      "slug": "weligama",
+      "image": "https://images.luxuryescapes.com/0yfoqvnnqwe7h0cm0xfh",
+      "description": "Explore Weligama with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 490
     }
   ],
   "seo": {

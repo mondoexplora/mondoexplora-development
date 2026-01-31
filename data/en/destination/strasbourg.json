@@ -41,6 +41,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "voco Strasbourg Centre - The Garden",
+      "offer_country_name": "France",
+      "location_heading": "Strasbourg",
+      "title": "Stylish France Retreat in the Heart of Strasbourg with Indoor Pool",
+      "description": "Discover the fairytale city of your dreams on the edge of France with a stylish stay at voco Strasbourg Centre - The Garden, an IHG Hotel. The quaint and historic city of Strasbourg is filled with curving alleyways dotted with crooked medieval houses and blooming flower boxes, hugging the Ill River which twists through the city streets. Be swept away in the charming atmosphere of this dreamy destination and revel in the comforts of this modern hotel in the heart of it all.",
+      "location_subheading": "France",
+      "price": 93,
+      "original_price": 93,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CP58zAAD",
+      "hero_image": "https://images.luxuryescapes.com/qqmlxit4cmo9leu47qxr",
+      "image_two": "https://images.luxuryescapes.com/jrd5wdlqjlezz6j8ehtj",
+      "image_three": "https://images.luxuryescapes.com/balcq5obdblpk5ta5iu",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-30",
-    "hotel_count": 2,
-    "average_price": 128,
+    "last_updated": "2026-01-31",
+    "hotel_count": 3,
+    "average_price": 116,
     "average_discount": 0
   }
 }

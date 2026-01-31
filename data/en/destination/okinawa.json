@@ -4,8 +4,26 @@
   "country_code": "JP",
   "hero_title": "Hotels in Okinawa",
   "description": "Discover the best hotels in Okinawa, Japan. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/nrxwm89o2zdqfz8t7h",
+  "hero_image": "https://images.luxuryescapes.com/ab5lqi7ybp7sp19k0uih",
   "hotels": [
+    {
+      "vendor_name": "Grand Mercure Okinawa Zanpa",
+      "offer_country_name": "Japan",
+      "location_heading": "Okinawa",
+      "title": "Okinawa Seaside Serenity with Three Pools, Water Slides & Open-Air Onsen Experience",
+      "description": "Combining Japanese tradition with a touch of modern luxury, this seaside sanctuary is your ideal Okinawa retreat. Greeted by views of the East China Sea and nestled amid lush landscapes, spend your days by one of Okinawa's largest pools, float along the lazy river or relax in the adults-only pool while the kids discover the thrilling water slides. Immerse yourself in Okinawan 'chimugukuru' hospitality and savour dynamic local and international cuisine at Le Sensoriel, including regional favourites prepared with a twist. For something a little different, make the most of the unique onsen and open-air public bath experiences onsite.",
+      "location_subheading": "Japan",
+      "price": 93,
+      "original_price": 93,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP3HYAV",
+      "hero_image": "https://images.luxuryescapes.com/ab5lqi7ybp7sp19k0uih",
+      "image_two": "https://images.luxuryescapes.com/ocy7ot4tn7v407m51q7l",
+      "image_three": "https://images.luxuryescapes.com/mdh0aqg5zp2oqon7z3xj",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "InterContinental ANA Manza Beach Resort",
       "offer_country_name": "Japan",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Novotel Okinawa Naha",
-      "offer_country_name": "Japan",
-      "location_heading": "Okinawa",
-      "title": "Stylish Okinawa Escape in Central Naha with Infinity Pool & Panoramic City Views",
-      "description": "Perched above the city with panoramic views of Naha and the distant Kerama Islands, Novotel Okinawa Naha offers easy access to Shurijo Castle’s UNESCO-listed grounds, the bustling Kokusai Dori shopping street and the vibrant Tsuboya Pottery District. Spacious rooms blend contemporary Japanese design with thoughtful comforts, while the infinity pool overlooks the cityscape and lush tropical gardens. Sample decadent teppanyaki at Toki or savour mouthwtering grilled meats at the BBQ Terrace - two fine examples of classy Japanese dining. For a wider variety, the Avancer food exchange features a buffet of both French and local cuisines for all-day dining in a more relaxed setting.",
-      "location_subheading": "Japan",
-      "price": 64,
-      "original_price": 64,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000M5lV1YAJ",
-      "hero_image": "https://images.luxuryescapes.com/fgp8ud7lyg1tj8hjt8",
-      "image_two": "https://images.luxuryescapes.com/sm2bu9jd2hrfm0not5",
-      "image_three": "https://images.luxuryescapes.com/7n2kjmxa6r2w4l2ar8q",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-30",
+    "last_updated": "2026-01-31",
     "hotel_count": 2,
-    "average_price": 82,
+    "average_price": 97,
     "average_discount": 0
   }
 }

@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Ibis Vientiane Nam Phu",
+      "offer_country_name": "Laos",
+      "location_heading": "Vientiane",
+      "title": "Laos Vientiane City Break near Night Market & Mekong Riverfront Promenade with Onsite Restaurant & Bar",
+      "description": "Perfectly positioned in the heart of Laos' capital, Vientiane, this central stay places you just moments from tranquil Nam Phou Park and the atmospheric French Quarter, where tree-lined boulevards meet colonial architecture. Stroll to the revered Wat Si Saket temple or explore the vibrant Vientiane Night Market, brimming with local handicrafts, textiles and street food. Savour authentic Laotian cuisine at onsite Oopen Restaurant and toast to your stay with a drink at the Lobby Bar. After exploring the Mekong riverside promenade at sunset, return to contemporary comforts and city views from your elegantly appointed room.",
+      "location_subheading": "Laos",
+      "price": 44,
+      "original_price": 44,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ib18PYAR",
+      "hero_image": "https://images.luxuryescapes.com/eallovtkwap8k6xv5p9",
+      "image_two": "https://images.luxuryescapes.com/0ql863slk9ae21kr5x",
+      "image_three": "https://images.luxuryescapes.com/idhu0vlly5jhln1dvyku",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-30",
-    "hotel_count": 1,
-    "average_price": 75,
+    "last_updated": "2026-01-31",
+    "hotel_count": 2,
+    "average_price": 60,
     "average_discount": 0
   }
 }

@@ -4,8 +4,26 @@
   "country_code": "TH",
   "hero_title": "Hotels in Rayong",
   "description": "Discover the best hotels in Rayong, Thailand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/w49dw9ufwn778mwvekth",
+  "hero_image": "https://images.luxuryescapes.com/fpxgxpeuotev3jy3ea2",
   "hotels": [
+    {
+      "vendor_name": "Mercure Rayong Lomtalay Villas & Resort",
+      "offer_country_name": "Thailand",
+      "location_heading": "Rayong",
+      "title": "Beachfront Thailand Retreat in Coastal-Cool Rayong with Outdoor Pool, Six Restaurants & Bars",
+      "description": "Experience the allure of Thailand's eastern coast with a relaxing stay at Mercure Rayong Lomtalay Villas & Resort, a stunning retreat hidden in the lush vegetation of the Rayong region. This sophisticated sanctuary offers unrivalled access to the azure waters of the Gulf of Thailand, serving as the perfect launchpad to the stunning Koh Samet and Koh Mun islands. Relax by the pool and relish in a cocktail at the oceanfront bar, delight in local flavours at nearby seafood markets, or enjoy local produce selections at one of the six on-site restaurants and bars. When you're not indulging in a body scrub or aroma massages at the spa, take a day trip to nearby the idyllic Koh Samet Island or explore nearby national parks.",
+      "location_subheading": "Thailand",
+      "price": 55,
+      "original_price": 55,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnGgAYAV",
+      "hero_image": "https://images.luxuryescapes.com/fpxgxpeuotev3jy3ea2",
+      "image_two": "https://images.luxuryescapes.com/l6qm6fpepva9oh86nhr",
+      "image_three": "https://images.luxuryescapes.com/ik5uv1r7jsewh9objkh",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Novotel Rayong Rim Pae Resort",
       "offer_country_name": "Thailand",
@@ -20,6 +38,24 @@
       "hero_image": "https://images.luxuryescapes.com/w49dw9ufwn778mwvekth",
       "image_two": "https://images.luxuryescapes.com/mbjqae0oc6j2yedn704",
       "image_three": "https://images.luxuryescapes.com/v6kvk5dsvk93ss7c9txj",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Novotel Rayong Convention Centre",
+      "offer_country_name": "Thailand",
+      "location_heading": "Rayong",
+      "title": "Stylish Thailand Retreat in Coastal Rayong with Restaurant, Bar & Outdoor Pool",
+      "description": "Boasting all-modern amenities and comfort touches, this homey retreat is perfectly positioned for exploring the best of eastern Thailand. Within the hotel, enjoy a refreshing dip in the outdoor garden pool, sip cocktails at After 8 lobby bar or indulge in local flavours at the onsite restaurant. For some time to yourself, drop by the fitness centre while the little ones are taken care of at the Kids' Club. With a central location in coastal Rayong, you're within easy reach of the city's famed night market, the Rayong Aquarium, Sang Chang Beach and more. A little further afield, take a day trip to the idyllic Koh Samet island or explore nearby national parks.",
+      "location_subheading": "Thailand",
+      "price": 56,
+      "original_price": 56,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnOzxYAF",
+      "hero_image": "https://images.luxuryescapes.com/yogx9dq3lf8n7uyp32xp",
+      "image_two": "https://images.luxuryescapes.com/hvlzf58p5y4j8cf8uq",
+      "image_three": "https://images.luxuryescapes.com/ocoufhbewifa8g9z7uyf",
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -42,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-30",
-    "hotel_count": 1,
-    "average_price": 62,
+    "last_updated": "2026-01-31",
+    "hotel_count": 3,
+    "average_price": 58,
     "average_discount": 0
   }
 }

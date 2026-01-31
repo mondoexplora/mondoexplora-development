@@ -25,24 +25,6 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "InterContinental Geneva",
-      "offer_country_name": "Switzerland",
-      "location_heading": "Geneva",
-      "title": "Geneva Five-Star InterContinental Escape with Lavish Outdoor Pool",
-      "description": "Immerse yourself in Geneva's staggering alpine beauty with an opulent stay at InterContinental Genève - ideally positioned on the scenic Left Bank, moments from the world-renowned Lake Geneva and the Palais des Nations. Beyond the crystal chandeliers and classic décor of this exceptional hotel is a lavish outdoor pool with breathtaking views of the snow-capped Mont Blanc. Three chic restaurants await gourmands and a tranquil day spa and fitness centre will keep you rejuvenated.",
-      "location_subheading": "Switzerland",
-      "price": 392,
-      "original_price": 392,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt5yAAB",
-      "hero_image": "https://images.luxuryescapes.com/1tbouyf877b3391bloan",
-      "image_two": "https://images.luxuryescapes.com/loxhfv3fjojmauzn1tdh",
-      "image_three": "https://images.luxuryescapes.com/q04881sbncm20v3eb75",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Mandarin Oriental Hotel Geneva",
       "offer_country_name": "Switzerland",
       "location_heading": "Geneva",
@@ -78,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-30",
-    "hotel_count": 3,
-    "average_price": 421,
+    "last_updated": "2026-01-31",
+    "hotel_count": 2,
+    "average_price": 436,
     "average_discount": 0
   }
 }
