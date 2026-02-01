@@ -25,6 +25,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Misty View Cottages",
+      "offer_country_name": "Australia",
+      "location_heading": "Montville",
+      "title": "Adults-Only Sunshine Coast Hinterland Escape Surrounded by Lush Rainforest with Daily Breakfast Hamper",
+      "description": "Nestled within the enchanting Montville bushland, these charming boutique cottages offer an idyllic haven for romance. Perfect for couples seeking a retreat, you'll find indulgence in bubble baths and champagne while enjoying the seclusion of the serene wilderness. Located in 20 acres of lush sub-tropical rainforest, each cottage is strategically placed to envelop guests in the tranquil embrace of nature. Delight your senses with an exquisite wine by the crackling fire, and partake in private picnics amid breathtaking vistas. For a touch of adventure, explore the nearby town adorned with exclusive boutiques, prestigious art galleries and acclaimed restaurants, promising unforgettable experiences at every turn. What’s more, this beautiful stay is just minutes from cascading waterfalls, refreshing swimming holes and local wineries.",
+      "location_subheading": "Australia",
+      "price": 449,
+      "original_price": 847,
+      "discount_percentage": 47,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000N2sOrYAJ",
+      "hero_image": "https://images.luxuryescapes.com/4wgor5emw5a8psb6ddk",
+      "image_two": "https://images.luxuryescapes.com/i727w5up8xtqdk226p47",
+      "image_three": "https://images.luxuryescapes.com/zecboujl22jtae2231c9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-02-09 12:59:00"
+    },
+    {
       "vendor_name": "Spicers Clovelly Estate",
       "offer_country_name": "Australia",
       "location_heading": "Montville",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
-    "hotel_count": 2,
-    "average_price": 422,
-    "average_discount": 0
+    "last_updated": "2026-02-01",
+    "hotel_count": 3,
+    "average_price": 431,
+    "average_discount": 16
   }
 }

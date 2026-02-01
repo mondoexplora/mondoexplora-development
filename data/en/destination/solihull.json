@@ -4,8 +4,26 @@
   "country_code": "GB",
   "hero_title": "Hotels in Solihull",
   "description": "Discover the best hotels in Solihull, United Kingdom. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/fcxe8p85u8u3zcx1wg2r",
+  "hero_image": "https://images.luxuryescapes.com/yw85jq28d8de96kbeo7m",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Solihull",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Solihull",
+      "title": "Stylish Solihull Escape in Heart of Town Overlooking Lake",
+      "description": "Frolic in the gorgeous, picturesque English countryside with a stylish escape to Crowne Plaza Solihull, an IHG Hotel. Feel the vibrancy of this historic town, and search for famed English pub food or Michelin-starred cuisine from your prime position. For day-long adventures, explore the nearby Warwick Castle, Cadbury World and Resorts World Birmingham. A delicious meal on the tranquil outdoor terrace awaits your return, or wander along the hotel gardens and lakeside at your leisure.",
+      "location_subheading": "United Kingdom",
+      "price": 70,
+      "original_price": 70,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJcGAAX",
+      "hero_image": "https://images.luxuryescapes.com/yw85jq28d8de96kbeo7m",
+      "image_two": "https://images.luxuryescapes.com/up2wnfo368vduyrdv2v",
+      "image_three": "https://images.luxuryescapes.com/9fy0wkyyaso2tw02zgts",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "voco St. Johns Solihull",
       "offer_country_name": "United Kingdom",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
-    "hotel_count": 1,
-    "average_price": 46,
+    "last_updated": "2026-02-01",
+    "hotel_count": 2,
+    "average_price": 58,
     "average_discount": 0
   }
 }

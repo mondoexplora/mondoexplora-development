@@ -4,26 +4,8 @@
   "country_code": "NZ",
   "hero_title": "Hotels in Napier",
   "description": "Discover the best hotels in Napier, New Zealand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/99inb886zcn8su97unw7",
+  "hero_image": "https://images.luxuryescapes.com/i80qqyq5d1i0s2u2gt8",
   "hotels": [
-    {
-      "vendor_name": "The County Hotel",
-      "offer_country_name": "New Zealand",
-      "location_heading": "Napier",
-      "title": "Charming Hawke's Bay Art Deco Escape with Daily Breakfast & NZ$100 Dining Credit",
-      "description": "Experience art deco architecture and superb local wine with an enchanting escape to this boutique jewel in the stunning Hawke’s Bay region. Experience New Zealand of the 1930s with a stay at this faithfully refurbished hotel, originally built in 1909 and one of only two significant buildings to have survived the massive 1931 earthquake. The charming retreat offers an elegant base to explore the best of the region. Savour refined dining at Wine Street, cosy up with a book in the intimate library and toast your heritage escape with a nightcap at Churchill's Lounge Bar & Restaurant. Once you step outside your hotel, you will find yourself in the heart of Napier's Art Deco precinct and nearby world-class wineries.",
-      "location_subheading": "New Zealand",
-      "price": 229,
-      "original_price": 545,
-      "discount_percentage": 58,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000KKtODYA1",
-      "hero_image": "https://images.luxuryescapes.com/99inb886zcn8su97unw7",
-      "image_two": "https://images.luxuryescapes.com/s0g8msmuyphnom9ihfe",
-      "image_three": "https://images.luxuryescapes.com/kzhmwjkps6qbp1gush8",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-02-10 12:59:00"
-    },
     {
       "vendor_name": "The County Hotel",
       "offer_country_name": "New Zealand",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
-    "hotel_count": 2,
-    "average_price": 171,
-    "average_discount": 29
+    "last_updated": "2026-02-01",
+    "hotel_count": 1,
+    "average_price": 113,
+    "average_discount": 0
   }
 }

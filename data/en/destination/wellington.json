@@ -4,44 +4,8 @@
   "country_code": "NZ",
   "hero_title": "Hotels in Wellington",
   "description": "Discover the best hotels in Wellington, New Zealand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/8ofusp0qqc8qj7asix9",
+  "hero_image": "https://images.luxuryescapes.com/b52g10phjvhtpmhz26n",
   "hotels": [
-    {
-      "vendor_name": "InterContinental Wellington",
-      "offer_country_name": "New Zealand",
-      "location_heading": "Wellington",
-      "title": "Five-Star InterContinental Wellington Stay Overlooking the Harbour",
-      "description": "Experience harbourfront luxury at InterContinental Wellington, an IHG Hotel, and get to know New Zealand's quirky capital, where street art-sprayed laneways meet a jaw-dropping mountain backdrop. Your hotel places you in the midst of the action, with the waterfront, Jervois Quay, and the Wellington Cable Car on your doorstep, not to mention the city's renowned arts and dining scene. After busy days exploring, your elegant hotel welcomes you back with its indoor pool, sauna, fitness centre and casual dining venues.",
-      "location_subheading": "New Zealand",
-      "price": 145,
-      "original_price": 145,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6oAAB",
-      "hero_image": "https://images.luxuryescapes.com/8ofusp0qqc8qj7asix9",
-      "image_two": "https://images.luxuryescapes.com/jv5i146iiqzdp6f7b8b7",
-      "image_three": "https://images.luxuryescapes.com/zjvby097ggnw0kihie",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Novotel Wellington",
-      "offer_country_name": "New Zealand",
-      "location_heading": "Wellington",
-      "title": "Central Wellington Novotel Stay Near Lambton Quay & Te Papa Museum",
-      "description": "Be mesmerised with the cosmopolitan charm of New Zealand's capital with a stay at this stylish Novotel property. The centrally located hotel offers direct lift access to the vibrant waterfront precinct of Lambton Quay, putting you just moments away from the Te Papa Museum, historic Wellington Cable Car and Botanical Gardens. Wander along the waterfront to explore the city's renowned culinary scene, hopping from craft beer brewery to restaurant and back again. Back at the hotel, savour local flavours and sip on fresh cocktails at Caucus Restaurant and Bar, or maintain your fitness routine at the compact gym. Retire to your chic rooms with views of the harbour or city, and call it a day with top-end amenities and unrivalled hospitality.",
-      "location_subheading": "New Zealand",
-      "price": 68,
-      "original_price": 68,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlwSIAS",
-      "hero_image": "https://images.luxuryescapes.com/3y52ofn50nfhbhsxfdfj",
-      "image_two": "https://images.luxuryescapes.com/tr0gpph7nxiznfny9dd",
-      "image_three": "https://images.luxuryescapes.com/9fpjora89lixjdl0b64c",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Oaks Wellington",
       "offer_country_name": "New Zealand",
@@ -115,24 +79,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "The Sebel Wellington Thorndon",
-      "offer_country_name": "New Zealand",
-      "location_heading": "Wellington",
-      "title": "Stylish Wellington Apartment-Style Escape in Thorndon Quay near Sky Stadium",
-      "description": "Discover the beauty of New Zealand's capital city with a stay at this stylish apartment-style hotel. This chic retreat is ideally located in the heart of Wellington's Thorndon district, a stone's throw from the historic Old St. Paul's Cathedral and the scenic Wellington Botanic Garden. In between exploring, retreat to your elegant room or apartment and feel right at home, then seek retail therapy at Lambton Quay Shopping District or head to the Sky Stadium right next door to catch a concert or rugby match. Explore, rest and repeat!",
-      "location_subheading": "New Zealand",
-      "price": 90,
-      "original_price": 90,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002J2yAIAS",
-      "hero_image": "https://images.luxuryescapes.com/cmyij250l98iafsw5w2o",
-      "image_two": "https://images.luxuryescapes.com/2ssxcgiwxnbq5i51u7",
-      "image_three": "https://images.luxuryescapes.com/goxdln3ajo9x5c5uhe8c",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Atura Wellington",
       "offer_country_name": "New Zealand",
       "location_heading": "Wellington",
@@ -168,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
-    "hotel_count": 8,
-    "average_price": 98,
-    "average_discount": 1
+    "last_updated": "2026-02-01",
+    "hotel_count": 5,
+    "average_price": 96,
+    "average_discount": 2
   }
 }

@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Townsville",
   "description": "Discover the best hotels in Townsville, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/vf7z25pahl53d1ffht99",
+  "hero_image": "https://images.luxuryescapes.com/m508jv7w5vs2c7lc0068",
   "hotels": [
-    {
-      "vendor_name": "Mercure Townsville",
-      "offer_country_name": "Australia",
-      "location_heading": "Townsville",
-      "title": "Lush Tropical Leisure at Mercure Townsville Resort",
-      "description": "Comfort and convenience go hand-in-hand on the lush resort grounds of Mercure Townsville, just minutes away from the airport and the heart of town. Whether you’re swimming the Great Barrier Reef or walking the sandy stretches of Townsville’s spectacular beaches, you can return to your verdant haven and unwind after long days spent exploring Tropical North Queensland. Savour hearty al fresco dining at poolside Celsius Restaurant and Bar, using fresh local produce to bring their culinary vision to life. With spacious rooms featuring light and airy design, Townsville’s largest freeform pool and outdoor spa, your time at Mercure Townsville is sure to impress.",
-      "location_subheading": "Australia",
-      "price": 94,
-      "original_price": 94,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002J2ytIAC",
-      "hero_image": "https://images.luxuryescapes.com/vf7z25pahl53d1ffht99",
-      "image_two": "https://images.luxuryescapes.com/p4v0heyi69dug6cgyzid",
-      "image_three": "https://images.luxuryescapes.com/1izm7c62gbehq0xggc8m",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Oaks Townsville Gateway Suites",
       "offer_country_name": "Australia",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
-    "hotel_count": 2,
-    "average_price": 92,
-    "average_discount": 4
+    "last_updated": "2026-02-01",
+    "hotel_count": 1,
+    "average_price": 89,
+    "average_discount": 8
   }
 }

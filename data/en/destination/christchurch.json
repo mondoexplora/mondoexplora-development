@@ -4,8 +4,26 @@
   "country_code": "NZ",
   "hero_title": "Hotels in Christchurch",
   "description": "Discover the best hotels in Christchurch, New Zealand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/6s4a9rs1kx4i1ofog1q",
+  "hero_image": "https://images.luxuryescapes.com/od5xt9s0l5cuisblm6",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Christchurch",
+      "offer_country_name": "New Zealand",
+      "location_heading": "Christchurch",
+      "title": "Christchurch Modern City Break overlooking Victoria Square with Skyline Views",
+      "description": "Take a South Island city escape to Crowne Plaza Christchurch, masterfully positioned at the centre of one of New Zealand’s funkiest cities. This stylish base overlooks the historic fountains of Victoria Square and the gentle waters of the Avon River, and the is the perfect spot to discover the Garden City's vast wealth of trendy bars, refined restaurants, cool cafés and vivid street art. After a day exploring the city’s many treasures, retreat to Market Place Restaurant and Bar for exquisite plates backed entirely by local butchers, fishmongers and growers, or head to the Cafe 1851 for a coffee or Social Wine Bar for sauvignon blanc and sensational cocktails.",
+      "location_subheading": "New Zealand",
+      "price": 104,
+      "original_price": 104,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6kAAB",
+      "hero_image": "https://images.luxuryescapes.com/od5xt9s0l5cuisblm6",
+      "image_two": "https://images.luxuryescapes.com/swgzc775nqual5kfpyda",
+      "image_three": "https://images.luxuryescapes.com/pzrqop9hlbqx3k4jqofm",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Hotel Montreal",
       "offer_country_name": "New Zealand",
@@ -23,6 +41,42 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Novotel Christchurch Cathedral Square",
+      "offer_country_name": "New Zealand",
+      "location_heading": "Christchurch",
+      "title": "Central Christchurch Contemporary Stay near Convention Centre with Onsite Restaurant",
+      "description": "Find yourself in the centre of it all from this sophisticated Christchurch urban haven, perfectly located in the heart of the CBD, within easy walking distance of the Te Pae Christchurch Convention Centre. Soak up the views of the historic Cathedral Square and the distant Southern Alps as you relax and unwind in the bright, airy rooms and feel right at home. If you're looking to explore, the best of New Zealand's 'Garden City' awaits at your doorstep: visit the vibrant Riverside Market, admire the beauty of the Christchurch Botanic Gardens or hop onboard a vintage tram and see the popular landmarks. After a day of exploration, return to your hotel to savour local flavours at The Square Restaurant and pair them with refreshing drinks from the bar.",
+      "location_subheading": "New Zealand",
+      "price": 124,
+      "original_price": 124,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlwfIAC",
+      "hero_image": "https://images.luxuryescapes.com/mp459ttd2912dvbtkl2r",
+      "image_two": "https://images.luxuryescapes.com/b18uegrevehjbdzlh",
+      "image_three": "https://images.luxuryescapes.com/3amuwwqgkevtgvr533ns",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Peppers Clearwater Resort Christchurch",
+      "offer_country_name": "New Zealand",
+      "location_heading": "Christchurch",
+      "title": "Christchurch Lakeside Resort with Championship Golf Course, Onsite Restaurant & Bar",
+      "description": "Step into lakeside luxury with a tranquil stay on the banks of Lake Kaikainui, right outside of Christchurch. With the perfect blend of outdoor living and proximity to city comforts, you can tee off at the onsite golf course one day and discover the natural beauty and innovative urban design of Christchurch the next. Indulge in local flavours and mountain views at Lume Restaurant or a casual cocktail at The Sprig Bar and Cafe.",
+      "location_subheading": "New Zealand",
+      "price": 99,
+      "original_price": 99,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRewWAAT",
+      "hero_image": "https://images.luxuryescapes.com/6i4duw32lmie88j732mi",
+      "image_two": "https://images.luxuryescapes.com/5f7ce7t9bo5qr4rwhbn",
+      "image_three": "https://images.luxuryescapes.com/sjqegdvs285jic9g2sfp",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Rydges Latimer Christchurch",
@@ -60,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
-    "hotel_count": 2,
-    "average_price": 144,
+    "last_updated": "2026-02-01",
+    "hotel_count": 5,
+    "average_price": 123,
     "average_discount": 0
   }
 }

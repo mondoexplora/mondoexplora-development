@@ -4,8 +4,26 @@
   "country_code": "MY",
   "hero_title": "Hotels in Desaru",
   "description": "Discover the best hotels in Desaru, Malaysia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/83s1bf0dnod5c4hpcyl",
+  "hero_image": "https://images.luxuryescapes.com/hw6cjna4a86gvlfl22",
   "hotels": [
+    {
+      "vendor_name": "Anantara Desaru Coast Resort & Villas",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Desaru",
+      "title": "Malaysia Golf Paradise Just Two Hours from Singapore with Golf Rounds, Two Dinners & Daily Breakfast",
+      "description": "Even the bunkers are beautiful at this luxury seaside resort with a shuttle direct to two Ernie Els-designed championship golf courses. Whether lounging by the lagoon or hitting the links amid lush tropical rainforest - and with rounds at The Els Signature Design Ocean Course and The Els Signature Design Valley Course included - an Anantara stay is the perfect escape complete with two dinners at the resort’s Turmeric and Sea Fire Salt restaurants. When you tire of those beautiful bunkers, your hotel has direct access to the soft sands of Desaru Beach with endless views over the South China Sea. You’ll also find gorgeous sea views from the poolside Infinity Bar, Lagoon Pool Bar and the elevated Observatory Bar. Between drinks, mosey over to Anantara Spa for a relaxing treatment to soothe any soreness in your golf swing.",
+      "location_subheading": "Malaysia",
+      "price": 929,
+      "original_price": 929,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000LLBu3YAH",
+      "hero_image": "https://images.luxuryescapes.com/hw6cjna4a86gvlfl22",
+      "image_two": "https://images.luxuryescapes.com/zwg9c17ff604zp1q5hvc",
+      "image_three": "https://images.luxuryescapes.com/qvifrak3c0bwrp1rd8",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-06-30 13:59:00"
+    },
     {
       "vendor_name": "Anantara Desaru Coast Resort & Villas",
       "offer_country_name": "Malaysia",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
-    "hotel_count": 1,
-    "average_price": 324,
+    "last_updated": "2026-02-01",
+    "hotel_count": 2,
+    "average_price": 627,
     "average_discount": 0
   }
 }

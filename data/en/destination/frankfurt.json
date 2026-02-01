@@ -25,24 +25,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "25hours Hotel Frankfurt The Trip",
-      "offer_country_name": "Germany",
-      "location_heading": "Frankfurt",
-      "title": "Stylish Frankfurt Travel-Themed City Break with Rooftop Terrace & Finnish Sauna",
-      "description": "Discover a playful haven in Frankfurt’s Bahnhofsviertel district with a stay at this funky retreat that transforms travel and discovery into an interior art form. Each level of the hotel is an expedition - from the Arctic to the tropics - while rooms offer vibrant, retro design and thoughtful amenities, curated to ensure a blissful stay in the city. Sample mouthwatering Middle Eastern creations at BAR SHUKA and end each evening with sake-based cocktails at SHUKA BAR. Revitalise at the rooftop wellness area, complete with a Finnish sauna, workout zone, and relaxation nooks, while Studio 54 offers spaces to work or gather creatively. Borrow a bike to cycle along the Main River or stroll to nearby cafes and the Kunstareal.",
-      "location_subheading": "Germany",
-      "price": 69,
-      "original_price": 69,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JjtiBYAR",
-      "hero_image": "https://images.luxuryescapes.com/7n0zb91smpa42ivqugn5",
-      "image_two": "https://images.luxuryescapes.com/ig7nu3hsm7wyvimw2jvj",
-      "image_three": "https://images.luxuryescapes.com/4gkcfadal872y7s5wpo",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Adina Frankfurt Westend",
       "offer_country_name": "Germany",
       "location_heading": "Frankfurt",
@@ -56,24 +38,6 @@
       "hero_image": "https://images.luxuryescapes.com/wqz7umyntbxuqw13j1",
       "image_two": "https://images.luxuryescapes.com/2tdl81z94kn8ss0918rk",
       "image_three": "https://images.luxuryescapes.com/jzuiw7k0cdowx2daqmp2",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Aparthotel Adagio Frankfurt City Messe",
-      "offer_country_name": "Germany",
-      "location_heading": "Frankfurt",
-      "title": "Apartment-Style Living in Central Frankfurt with City Skyline Bar",
-      "description": "Nestled within Frankfurt's iconic Westend Gate tower, this chic aparthotel is your ideal launchpad for discovering the city. Perfectly situated near the Congress Center and just steps from the Festhalle Messe metro station, Frankfurt's main attractions are within easy reach. Unwind with a cocktail at the panoramic Skylinebar, where Frankfurt's cityscape stretches out before you, or make the most of the onsite fitness centre to keep up with your routine. Explore nearby attractions like Goethe-Haus, Palmengarten, and Experiminta, all just minutes away.",
-      "location_subheading": "Germany",
-      "price": 75,
-      "original_price": 75,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP9eYAF",
-      "hero_image": "https://images.luxuryescapes.com/xgfwucw3aozel8b2b4n4",
-      "image_two": "https://images.luxuryescapes.com/vhpkpx8sifh9azp45d",
-      "image_three": "https://images.luxuryescapes.com/vc5jeh50sgmytra1rhn",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -114,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
-    "hotel_count": 5,
-    "average_price": 123,
+    "last_updated": "2026-02-01",
+    "hotel_count": 3,
+    "average_price": 158,
     "average_discount": 0
   }
 }

@@ -25,6 +25,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Intercontinental Cairo Semiranis",
+      "offer_country_name": "Egypt",
+      "location_heading": "Cairo",
+      "title": "Cairo Five-Star Luxury Overlooking the Nile",
+      "description": "Combine the perfect location with world-renowned luxury at the InterContinental Cairo Semiramis, an IHG Hotel, located on the banks of the Nile. Relax in unparalleled comfort with easy access to the pyramids, while the exciting bazaars of old Cairo are located just steps from your front door. After days spent exploring ancient wonders, return for a refreshing dip in the rooftop pool, while the spa stands ready to pamper you.",
+      "location_subheading": "Egypt",
+      "price": 123,
+      "original_price": 123,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNPg1AAH",
+      "hero_image": "https://images.luxuryescapes.com/cyx634h57i00v9nwn59",
+      "image_two": "https://images.luxuryescapes.com/ehzkribyqqm96primul",
+      "image_three": "https://images.luxuryescapes.com/q4053qbppd445qdk811p",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Intercontinental Citystars Cairo",
       "offer_country_name": "Egypt",
       "location_heading": "Cairo",
@@ -41,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza West Cairo Arkan",
+      "offer_country_name": "Egypt",
+      "location_heading": "Cairo",
+      "title": "Contemporary Cairo Landmark Escape with Three Restaurants & Outdoor Terrace",
+      "description": "Combine upscale comfort with modern luxury at Crowne Plaza West Cairo Arkan, an IHG Hotel, a recently opened haven of classical grandeur in the heart of the city. Part of the world-renowned Crowne Plaza brand, this premium retreat perfectly encapsulates the spirit of Cairo with your wellbeing in mind. Discover outstanding amenities, including an impressive selection of dining options, a fully-equipped fitness room, outdoor pool, and impeccable, personalised service.",
+      "location_subheading": "Egypt",
+      "price": 158,
+      "original_price": 158,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJcQAAX",
+      "hero_image": "https://images.luxuryescapes.com/2sixkwhmquzfvzv7llnj",
+      "image_two": "https://images.luxuryescapes.com/i0uaffuaqsqshlbkoklq",
+      "image_three": "https://images.luxuryescapes.com/qyt1jg2a6sc2jp6jykjo",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
     }
   ],
   "seo": {
@@ -60,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
-    "hotel_count": 2,
-    "average_price": 167,
+    "last_updated": "2026-02-01",
+    "hotel_count": 4,
+    "average_price": 154,
     "average_discount": 0
   }
 }

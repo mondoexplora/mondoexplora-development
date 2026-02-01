@@ -3,25 +3,25 @@
   "code": "TH",
   "hero_title": "Thailand Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Thailand.",
-  "hero_image": "https://images.luxuryescapes.com/c5241ajuon7gfafaifqw",
+  "hero_image": "https://images.luxuryescapes.com/fgxsn8je9r72pjowfvct",
   "popular_destinations": [
-    {
-      "name": "Phuket",
-      "slug": "phuket",
-      "image": "https://images.luxuryescapes.com/c5241ajuon7gfafaifqw",
-      "description": "Explore Phuket with luxury accommodations",
-      "hotel_count": 39,
-      "hotel_deals": 39,
-      "avg_price": 360
-    },
     {
       "name": "Bangkok",
       "slug": "bangkok",
       "image": "https://images.luxuryescapes.com/fgxsn8je9r72pjowfvct",
       "description": "Explore Bangkok with luxury accommodations",
-      "hotel_count": 38,
-      "hotel_deals": 38,
-      "avg_price": 217
+      "hotel_count": 30,
+      "hotel_deals": 30,
+      "avg_price": 246
+    },
+    {
+      "name": "Phuket",
+      "slug": "phuket",
+      "image": "https://images.luxuryescapes.com/c5241ajuon7gfafaifqw",
+      "description": "Explore Phuket with luxury accommodations",
+      "hotel_count": 30,
+      "hotel_deals": 30,
+      "avg_price": 347
     },
     {
       "name": "Koh Samui",
@@ -30,34 +30,34 @@
       "description": "Explore Koh Samui with luxury accommodations",
       "hotel_count": 18,
       "hotel_deals": 18,
-      "avg_price": 479
-    },
-    {
-      "name": "Khao Lak",
-      "slug": "khao-lak",
-      "image": "https://images.luxuryescapes.com/8z14h4n1tffr0mgyq1g7",
-      "description": "Explore Khao Lak with luxury accommodations",
-      "hotel_count": 10,
-      "hotel_deals": 10,
-      "avg_price": 256
+      "avg_price": 489
     },
     {
       "name": "Hua Hin",
       "slug": "hua-hin",
       "image": "https://images.luxuryescapes.com/r7hsmhdk266zgb5t0gb",
       "description": "Explore Hua Hin with luxury accommodations",
-      "hotel_count": 10,
-      "hotel_deals": 10,
-      "avg_price": 223
+      "hotel_count": 11,
+      "hotel_deals": 11,
+      "avg_price": 215
+    },
+    {
+      "name": "Khao Lak",
+      "slug": "khao-lak",
+      "image": "https://images.luxuryescapes.com/8z14h4n1tffr0mgyq1g7",
+      "description": "Explore Khao Lak with luxury accommodations",
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 203
     },
     {
       "name": "Chiang Mai",
       "slug": "chiang-mai",
       "image": "https://images.luxuryescapes.com/a0sr02uddmjs59n6rcq",
       "description": "Explore Chiang Mai with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 937
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 824
     }
   ],
   "seo": {

@@ -79,6 +79,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Mercure Chiang Mai",
+      "offer_country_name": "Thailand",
+      "location_heading": "Chiang Mai",
+      "title": "Chiang Mai City Centre Stay near Night Bazaar with Onsite Dining, Spa & Pool",
+      "description": "Discover comfort and convenience at a perfectly located gem in the heart of Thailand’s cultural capital, just 10 minutes from the airport. A short tuk-tuk ride will take you to the ancient city walls and moat, where you can explore the historic city, home to hundreds of ornate Buddhist temples. Wander to Chiang Mai’s famed Night Bazaar, just a 15-minute stroll away, or head to a nearby elephant sanctuary to get up close to these gentle giants. Back at the hotel, an indulgent spa awaits to restore your mind, body and soul.",
+      "location_subheading": "Thailand",
+      "price": 30,
+      "original_price": 30,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnGfvYAF",
+      "hero_image": "https://images.luxuryescapes.com/u3p2m9xwn39wsjw3ld7v",
+      "image_two": "https://images.luxuryescapes.com/0o0c8rmwhn3coyd0e61v",
+      "image_three": "https://images.luxuryescapes.com/3luyd41lbjm6bw1topq6",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Mövenpick Suriwongse Hotel Chiang Mai",
       "offer_country_name": "Thailand",
       "location_heading": "Chiang Mai",
@@ -150,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
-    "hotel_count": 7,
-    "average_price": 937,
-    "average_discount": 25
+    "last_updated": "2026-02-01",
+    "hotel_count": 8,
+    "average_price": 824,
+    "average_discount": 22
   }
 }

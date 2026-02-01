@@ -43,6 +43,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Freedom Shores",
+      "offer_country_name": "Australia",
+      "location_heading": "Airlie Beach",
+      "title": "Boutique Whitsundays Beachfront Escape with Coral Sea Views, Daily Breakfast & A$100 Dining Credit",
+      "description": "Fans of all things unique and unusual will sail into serenity with a stay at this nautical-inspired escape, located right by the water on the outskirts of Airlie Beach. Boasting spectacular views over the Coral Sea, this sun-soaked haven is a quiet refuge that offers equal parts relaxation and adventure. Go beyond the standard maritime picture in the lobby and fully embrace the unique architectural style of this resort, where you can sleep in a boat-inspired bungalow with the added luxury of ultra-modern comforts. After a day in the sun, head to Northerlies Beach Bar and Grill for cocktails and award-winning food in the magnificent Airlie Beach twilight. Enjoy a taste of life at sea without having to leave dry land, allowing you to take in the superb views or explore the Whitsundays and surrounding islands at your own pace. Bask in the sun, feel immediately rejuvenated as you relax by the water, or explore beyond the property to discover the natural wonders this exceptional part of the world is known for, from the Great Barrier Reef to beautiful Whitehaven Beach.",
+      "location_subheading": "Australia",
+      "price": 399,
+      "original_price": 725,
+      "discount_percentage": 45,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PjWjiYAF",
+      "hero_image": "https://images.luxuryescapes.com/m7ujfdnemsvclazm2s1f",
+      "image_two": "https://images.luxuryescapes.com/773l75hguci5janqy4ud",
+      "image_three": "https://images.luxuryescapes.com/m4lmeiajcna1lbi25zde",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-02-12 12:59:00"
+    },
+    {
       "vendor_name": "Mirage Whitsundays",
       "offer_country_name": "Australia",
       "location_heading": "Airlie Beach",
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
-    "hotel_count": 6,
-    "average_price": 525,
-    "average_discount": 2
+    "last_updated": "2026-02-01",
+    "hotel_count": 7,
+    "average_price": 507,
+    "average_discount": 8
   }
 }

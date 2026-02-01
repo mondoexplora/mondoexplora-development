@@ -25,6 +25,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Crowne Plaza Athens City Centre",
+      "offer_country_name": "Greece",
+      "location_heading": "Athens",
+      "title": "Athens City Centre Retreat with Rooftop Sundeck and Pool",
+      "description": "Discover contemporary and classic Greece in convenience and comfort from the urban oasis that is Crowne Plaza Athens - City Centre, an IHG Hotel. Journey back in time, with the iconic Acropolis and Parthenon a short drive away. Dine on delectable Greek gastronomy at Ambrosia restaurant or bask in the Mediterranean sun by the pool and rooftop sun deck. When you're done exploring the best of Athens, soothe tired muscles at the onsite sauna.",
+      "location_subheading": "Greece",
+      "price": 183,
+      "original_price": 183,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CPz1AAAT",
+      "hero_image": "https://images.luxuryescapes.com/i82sh732qdiui0v4zd",
+      "image_two": "https://images.luxuryescapes.com/jo34d4y3era4eledg0z",
+      "image_three": "https://images.luxuryescapes.com/iyknq0k1br1tliywxj1",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Holiday Inn Athens - Airport",
       "offer_country_name": "Greece",
       "location_heading": "Athens",
@@ -39,6 +57,24 @@
       "image_two": "https://images.luxuryescapes.com/ikbvtmtetijs76gj279c",
       "image_three": "https://images.luxuryescapes.com/h1me4g7zlsxtdksperic",
       "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Intercontinental Athenaeum Athens",
+      "offer_country_name": "Greece",
+      "location_heading": "Athens",
+      "title": "Stylish Athens Escape with Acropolis Views & Rooftop Bar",
+      "description": "The wonders of Ancient Greece are at your fingertips when you stay at InterContinental Athenaeum Athens, an IHG Hotel, where contemporary design meets the crumbling remains of the Acropolis. When you're not out there exploring UNESCO World Heritage-listed sites, head up to Premiere, a rooftop restaurant and bar with spectacular views of the Acropolis, then venture to the poolside Cafezoe Terrace for cocktails and desserts.",
+      "location_subheading": "Greece",
+      "price": 132,
+      "original_price": 132,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt68AAB",
+      "hero_image": "https://images.luxuryescapes.com/d68y2ueodgnql0ipfnk",
+      "image_two": "https://images.luxuryescapes.com/cd7fdjn2vlmfzki2l06s",
+      "image_three": "https://images.luxuryescapes.com/i73bjmk01hepck2j3yt",
+      "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     },
@@ -186,9 +222,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
-    "hotel_count": 9,
-    "average_price": 234,
-    "average_discount": 4
+    "last_updated": "2026-02-01",
+    "hotel_count": 11,
+    "average_price": 220,
+    "average_discount": 3
   }
 }

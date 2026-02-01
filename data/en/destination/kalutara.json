@@ -25,24 +25,6 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "Anantara Kalutara Resort Sri Lanka",
-      "offer_country_name": "Sri Lanka",
-      "location_heading": "Kalutara",
-      "title": "Sri Lanka Award-Winning Beachfront Resort with Daily Breakfast, Nightly Cocktails & Massages",
-      "description": "Set on a pristine stretch of Sri Lanka's southwest coast, Anantara Kalutara Resort offers the island's only luxury resort with 360-degree ocean and lagoon views. Inspired by renowned architect Geoffrey Bawa, this award-winning luxury retreat was recently named Sri Lanka's Leading Beach Resort at the 2025 World Travel Awards and home to Sri Lanka's Best Resort Spa. With direct beach access and world-class amenities, this serene coastal escape is perfect for couples and honeymooners seeking romance and relaxation in contemporary elegance. Unwind with spa treatments, savour fresh cuisine across multiple dining venues, and lounge by the infinity pool overlooking the Indian Ocean. Your beachfront sanctuary places you just a scenic drive from Sri Lanka's highlights, from historic Galle Fort to whale- and dolphin-spotting in Mirissa Bay.",
-      "location_subheading": "Sri Lanka",
-      "price": 959,
-      "original_price": 1918,
-      "discount_percentage": 50,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000OBe9DYAT",
-      "hero_image": "https://images.luxuryescapes.com/xvnwv3w6huhvn2mpz8y4",
-      "image_two": "https://images.luxuryescapes.com/3wsjsp0opfy0l0rgc1d",
-      "image_three": "https://images.luxuryescapes.com/785xlg84qlic20cl0r1x",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-02-17 12:59:00"
-    },
-    {
       "vendor_name": "Avani Kalutara Resort",
       "offer_country_name": "Sri Lanka",
       "location_heading": "Kalutara",
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Avani Kalutara Resort",
+      "offer_country_name": "Sri Lanka",
+      "location_heading": "Kalutara",
+      "title": "Secluded Sri Lankan Beachfront Resort with Daily Breakfast, Free-Flow Hour & Private Beach",
+      "description": "Discover pure relaxation at Avani Kalutara Resort, where you're steps from the golden sands of your very own private beach. On this Sri Lankan palm-fringed peninsula, delight in unforgettable views and local and international flavours at Mangrove, poolside Italian at Acquolina, or lounge by the pool with a refreshing cocktail in hand at Karadiya Bar. Avani Kalutara Resort offers no shortage of options and atmosphere, with plenty of activities to fill the time between meals. After long days exploring the local estates and their lush garden paths, enjoy soothing treatments at Anantara Spa, rooted in the healing traditions of the world's richest cultures with ancient therapies from across Asia and holistic Ayurvedic rituals from Western practices.",
+      "location_subheading": "Sri Lanka",
+      "price": 559,
+      "original_price": 1511,
+      "discount_percentage": 63,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Klr29YAB",
+      "hero_image": "https://images.luxuryescapes.com/zj34j135s4zviwj1c0u",
+      "image_two": "https://images.luxuryescapes.com/ro3e7g8ggs047edkm7gb",
+      "image_three": "https://images.luxuryescapes.com/q24zmeg0hxqrrpl1edg",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-03-09 12:59:00"
     }
   ],
   "seo": {
@@ -78,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
+    "last_updated": "2026-02-01",
     "hotel_count": 3,
-    "average_price": 421,
-    "average_discount": 17
+    "average_price": 287,
+    "average_discount": 21
   }
 }

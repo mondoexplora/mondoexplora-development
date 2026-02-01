@@ -3,34 +3,34 @@
   "code": "CN",
   "hero_title": "China Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in China.",
-  "hero_image": "https://images.luxuryescapes.com/u4u6t9wp1ljq5tvrjhaeol",
+  "hero_image": "https://images.luxuryescapes.com/yit5280on25pa0tnf9q",
   "popular_destinations": [
-    {
-      "name": "Beijing",
-      "slug": "beijing",
-      "image": "https://images.luxuryescapes.com/u4u6t9wp1ljq5tvrjhaeol",
-      "description": "Explore Beijing with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 351
-    },
-    {
-      "name": "Shanghai",
-      "slug": "shanghai",
-      "image": "https://images.luxuryescapes.com/ylbwv5scdsoptk6wq5ga",
-      "description": "Explore Shanghai with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 120
-    },
     {
       "name": "Shenzhen",
       "slug": "shenzhen",
       "image": "https://images.luxuryescapes.com/yit5280on25pa0tnf9q",
       "description": "Explore Shenzhen with luxury accommodations",
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 100
+    },
+    {
+      "name": "Beijing",
+      "slug": "beijing",
+      "image": "https://images.luxuryescapes.com/ehppqzlzlleaq5gekgnp",
+      "description": "Explore Beijing with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 413
+    },
+    {
+      "name": "Shanghai",
+      "slug": "shanghai",
+      "image": "https://images.luxuryescapes.com/u9csqvvye8nod53z56la",
+      "description": "Explore Shanghai with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 144
+      "avg_price": 98
     },
     {
       "name": "Chengdu",
@@ -39,25 +39,25 @@
       "description": "Explore Chengdu with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 57
+      "avg_price": 67
     },
     {
       "name": "Xiamen",
       "slug": "xiamen",
-      "image": "https://images.luxuryescapes.com/n70t1ho958lj8an2yzsr",
+      "image": "https://images.luxuryescapes.com/r9l49widv8e4nc2ryvb",
       "description": "Explore Xiamen with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 106
+      "avg_price": 70
     },
     {
-      "name": "Guiyang",
-      "slug": "guiyang",
-      "image": "https://images.luxuryescapes.com/f07hc0t4kykqfy8c1nt",
-      "description": "Explore Guiyang with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 70
+      "name": "Huangshan",
+      "slug": "huangshan",
+      "image": "https://images.luxuryescapes.com/uajrkx44276wn4ntktbc",
+      "description": "Explore Huangshan with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 65
     }
   ],
   "seo": {

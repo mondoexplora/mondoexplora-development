@@ -4,25 +4,25 @@
   "country_code": "JP",
   "hero_title": "Hotels in Kyoto",
   "description": "Discover the best hotels in Kyoto, Japan. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
+  "hero_image": "https://images.luxuryescapes.com/fw03h3rowpmozb7kxnmr",
   "hotels": [
     {
-      "vendor_name": "ANA Crowne Plaza Kyoto",
+      "vendor_name": "Fauchon Hotel Kyoto",
       "offer_country_name": "Japan",
       "location_heading": "Kyoto",
-      "title": "Kyoto Serene Urban Stay near UNESCO World Heritage-listed Nijo Castle Site",
-      "description": "Near the majestic Nijo Castle UNESCO heritage site, ANA Crowne Plaza Kyoto, an IHG Hotel, is a tranquil urban escape with stunning views of greenery and seasonal beauty. Take a calming walk through the Nijo Castle grounds while admiring verdant gardens and imposing stone walls. Dine at the multiple onsite restaurants, offering gastronomic greatness. As the day ends, retire to a tranquil guest room that combines refined minimalism with modern comfort for a sound slumber.",
+      "title": "Kyoto French-Inspired Boutique City Stay with Dining Credit, Daily Breakfast & Nightly Drinks",
+      "description": "Experience the allure of Japan’s cultural capital with a stay at this boutique hotel, which seamlessly blends bold Parisian design with Kyoto’s modern art movements. Centrally located alongside the Kamo River, the hotel is just a stone’s throw from ancient temples, the historic Gion district and the bustling Nishiki Market. The hotel’s dining scene takes centre stage, with Grand Café FAUCHON offering casual French cuisine alongside views of the Higashiyama Mountain Range, while Salon de Thé FAUCHON blends the ambience of a Parisian-style afternoon tea with a Japanese tea ceremony. For cocktails with a view, head to Le Bar FAUCHON, or take some time to unwind with a signature treatment at Le Spa FAUCHON. Outside the hotel’s doors, explore the traditional wooden houses of the neighbourhood, experience a maiko or geiko show in an authentic teahouse and savour the flavours of Kyoto’s rich gastronomy.",
       "location_subheading": "Japan",
-      "price": 91,
-      "original_price": 91,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CPub3AAD",
-      "hero_image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
-      "image_two": "https://images.luxuryescapes.com/2qav90lvuxsibkxwtyv",
-      "image_three": "https://images.luxuryescapes.com/njvr0nofof8xh1zv8pme",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
+      "price": 729,
+      "original_price": 2604,
+      "discount_percentage": 72,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000OLTfXYAX",
+      "hero_image": "https://images.luxuryescapes.com/fw03h3rowpmozb7kxnmr",
+      "image_two": "https://images.luxuryescapes.com/q8a09v24t64jfuxo6rxl",
+      "image_three": "https://images.luxuryescapes.com/t61u5kzjup5w9tvp82m",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-02-10 12:59:00"
     },
     {
       "vendor_name": "Fauchon Hotel Kyoto",
@@ -41,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Fauchon Hotel Kyoto",
-      "offer_country_name": "Japan",
-      "location_heading": "Kyoto",
-      "title": "Kyoto French-Inspired Boutique City Stay with Dining Credit, Daily Breakfast & Nightly Drinks",
-      "description": "Experience the allure of Japan’s cultural capital with a stay at this boutique hotel, which seamlessly blends bold Parisian design with Kyoto’s modern art movements. Centrally located alongside the Kamo River, the hotel is just a stone’s throw from ancient temples, the historic Gion district and the bustling Nishiki Market. The hotel’s dining scene takes centre stage, with Grand Café FAUCHON offering casual French cuisine alongside views of the Higashiyama Mountain Range, while Salon de Thé FAUCHON blends the ambience of a Parisian-style afternoon tea with a Japanese tea ceremony. For cocktails with a view, head to Le Bar FAUCHON, or take some time to unwind with a signature treatment at Le Spa FAUCHON. Outside the hotel’s doors, explore the traditional wooden houses of the neighbourhood, experience a maiko or geiko show in an authentic teahouse and savour the flavours of Kyoto’s rich gastronomy.",
-      "location_subheading": "Japan",
-      "price": 729,
-      "original_price": 2604,
-      "discount_percentage": 72,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000OLTfXYAX",
-      "hero_image": "https://images.luxuryescapes.com/fw03h3rowpmozb7kxnmr",
-      "image_two": "https://images.luxuryescapes.com/q8a09v24t64jfuxo6rxl",
-      "image_three": "https://images.luxuryescapes.com/t61u5kzjup5w9tvp82m",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-02-10 12:59:00"
     },
     {
       "vendor_name": "Mercure Kyoto Miyazu",
@@ -132,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
-    "hotel_count": 6,
-    "average_price": 314,
-    "average_discount": 12
+    "last_updated": "2026-02-01",
+    "hotel_count": 5,
+    "average_price": 358,
+    "average_discount": 14
   }
 }

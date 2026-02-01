@@ -3,17 +3,8 @@
   "code": "FJ",
   "hero_title": "Fiji Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Fiji.",
-  "hero_image": "https://images.luxuryescapes.com/ah1octnsr2ejlf13dj",
+  "hero_image": "https://images.luxuryescapes.com/45e0v0v8t5f1p8bmfv39",
   "popular_destinations": [
-    {
-      "name": "Nadi",
-      "slug": "nadi",
-      "image": "https://images.luxuryescapes.com/ah1octnsr2ejlf13dj",
-      "description": "Explore Nadi with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 186
-    },
     {
       "name": "Malolo Island",
       "slug": "malolo-island",
@@ -21,7 +12,7 @@
       "description": "Explore Malolo Island with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 951
+      "avg_price": 1065
     },
     {
       "name": "Viti Levu",
@@ -35,11 +26,20 @@
     {
       "name": "Pacific Harbour",
       "slug": "pacific-harbour",
-      "image": "https://images.luxuryescapes.com/um52x6rjbgtfa0ywmp0c",
+      "image": "https://images.luxuryescapes.com/n6ay7spgbnfzzl5qlu0d",
       "description": "Explore Pacific Harbour with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
       "avg_price": 497
+    },
+    {
+      "name": "Nadi",
+      "slug": "nadi",
+      "image": "https://images.luxuryescapes.com/ah1octnsr2ejlf13dj",
+      "description": "Explore Nadi with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 111
     },
     {
       "name": "Malolo Lailai",
@@ -51,13 +51,13 @@
       "avg_price": 308
     },
     {
-      "name": "Coral Coast",
-      "slug": "coral-coast",
-      "image": "https://images.luxuryescapes.com/71exjhp7ylsx09gnatb",
-      "description": "Explore Coral Coast with luxury accommodations",
+      "name": "Denarau Island",
+      "slug": "denarau-island",
+      "image": "https://images.luxuryescapes.com/tr1p8uz6gsizxkg62khl",
+      "description": "Explore Denarau Island with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 658
+      "avg_price": 1723
     }
   ],
   "seo": {

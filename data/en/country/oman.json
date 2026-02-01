@@ -3,25 +3,16 @@
   "code": "OM",
   "hero_title": "Oman Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Oman.",
-  "hero_image": "https://images.luxuryescapes.com/t5scc4j17op651jx42yk",
+  "hero_image": "https://images.luxuryescapes.com/bw9fwgfp792uvm9yhzkq",
   "popular_destinations": [
     {
       "name": "Muscat",
       "slug": "muscat",
-      "image": "https://images.luxuryescapes.com/t5scc4j17op651jx42yk",
+      "image": "https://images.luxuryescapes.com/bw9fwgfp792uvm9yhzkq",
       "description": "Explore Muscat with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 210
-    },
-    {
-      "name": "Sohar",
-      "slug": "sohar",
-      "image": "https://images.luxuryescapes.com/4fkojjca7rjht8smlvue",
-      "description": "Explore Sohar with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 72
+      "avg_price": 205
     },
     {
       "name": "Nizwa",
@@ -42,15 +33,6 @@
       "avg_price": 93
     },
     {
-      "name": "Salalah",
-      "slug": "salalah",
-      "image": "https://images.luxuryescapes.com/pdl1so0qmpm6etusra2f",
-      "description": "Explore Salalah with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 114
-    },
-    {
       "name": "Dibba",
       "slug": "dibba",
       "image": "https://images.luxuryescapes.com/d3qhs63x3vrhcdmcj8",
@@ -58,6 +40,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 904
+    },
+    {
+      "name": "Bandar Jissah",
+      "slug": "bandar-jissah",
+      "image": "https://images.luxuryescapes.com/uk7w0bdj1a1d01r42lo9",
+      "description": "Explore Bandar Jissah with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 227
     }
   ],
   "seo": {

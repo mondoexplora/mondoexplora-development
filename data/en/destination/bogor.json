@@ -4,26 +4,8 @@
   "country_code": "ID",
   "hero_title": "Hotels in Bogor",
   "description": "Discover the best hotels in Bogor, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ppis62x5og0avzi1quy3",
+  "hero_image": "https://images.luxuryescapes.com/3hj13zavk4zgoz9xj2j",
   "hotels": [
-    {
-      "vendor_name": "Novotel Bogor Golf Resort",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Bogor",
-      "title": "Jakarta Jungle Elegance with 18-Hole Golf Course, Two Restaurants & Outdoor Pool",
-      "description": "Escape the hustle and bustle of central Jakarta with a stay in leafy Bogor. Located within a lush, five-hectare tropical garden, this retreat offers easy access to the Bogor Raya Golf Course and vibrant local attractions. Savour local and international cuisine at Verandah Restaurant or enjoy a refreshing drink at the Mahogany Bar. For relaxation, take a dip in the outdoor pool or explore the hotel's extensive gardens. Venture beyond the resort to discover the Bogor Botanical Gardens and the historic Bogor Palace",
-      "location_subheading": "Indonesia",
-      "price": 47,
-      "original_price": 47,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnOvGYAV",
-      "hero_image": "https://images.luxuryescapes.com/ppis62x5og0avzi1quy3",
-      "image_two": "https://images.luxuryescapes.com/er85xjnrdin2bstv8nho",
-      "image_three": "https://images.luxuryescapes.com/ecfrszsbn9hg7q4clvp",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Pullman Ciawi",
       "offer_country_name": "Indonesia",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
-    "hotel_count": 2,
-    "average_price": 61,
+    "last_updated": "2026-02-01",
+    "hotel_count": 1,
+    "average_price": 75,
     "average_discount": 0
   }
 }
