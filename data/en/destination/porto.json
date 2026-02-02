@@ -4,26 +4,8 @@
   "country_code": "PT",
   "hero_title": "Hotels in Porto",
   "description": "Discover the best hotels in Porto, Portugal. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/cwxxbyrbxf194xrl5lo5",
+  "hero_image": "https://images.luxuryescapes.com/hns8srxx9u2w15201jlp",
   "hotels": [
-    {
-      "vendor_name": "Crowne Plaza Porto",
-      "offer_country_name": "Portugal",
-      "location_heading": "Porto",
-      "title": "International Luxury within Portugal's Historic Port Wine Capital",
-      "description": "In the heart of Portugal's port wine capital, Crowne Plaza Porto, an IHG Hotel, is an urban oasis for good food, wine and relaxation. Savour succulent seafood at SOMOS Restaurant & Lounge, indulge in a tranquil treatment at Mandalay Wellness or reinvigorate your body at the onsite fitness centre. Experience the port wine of this magnificent city, marvel at heritage architecture or stroll along Ponte da Arrabida before returning for a well-earned rest.",
-      "location_subheading": "Portugal",
-      "price": 116,
-      "original_price": 116,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CPyDoAAL",
-      "hero_image": "https://images.luxuryescapes.com/cwxxbyrbxf194xrl5lo5",
-      "image_two": "https://images.luxuryescapes.com/lajdm8btbnt2kv70t5",
-      "image_three": "https://images.luxuryescapes.com/h6859bqaqazlqmjmy4pr",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "InterContinental Porto Palácio ds Cardosas",
       "offer_country_name": "Portugal",
@@ -97,24 +79,6 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "Casa da Companhia",
-      "offer_country_name": "Portugal",
-      "location_heading": "Porto",
-      "title": "Porto Picturesque Stay near Porto Cathedral and Cais da Ribeira",
-      "description": "Showcasing stunning architecture and with a vibrant riverside location, Vignette Collection Casa de Companhia, an IHG Hotel, is a five-star gateway to picturesque Porto. Rest in elegant and bright guestrooms or re-energise your body in the fully-equipped fitness centre. Savour Portuguese cuisine or indulge in a glass of Duoro port wine at the onsite bar. Venture out to explore cathedrals, museums and heritage sites or take in the views from the outdoor pool.",
-      "location_subheading": "Portugal",
-      "price": 157,
-      "original_price": 157,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CvGDaAAN",
-      "hero_image": "https://images.luxuryescapes.com/fv09jmu85axaihp95kjl",
-      "image_two": "https://images.luxuryescapes.com/vle9t42slgyhrw6gp87b",
-      "image_three": "https://images.luxuryescapes.com/bshvtu74d7lw2wbid4w8",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 01:59:00"
-    },
-    {
       "vendor_name": "Vila Foz Hotel & Spa",
       "offer_country_name": "Portugal",
       "location_heading": "Porto",
@@ -150,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-01",
-    "hotel_count": 7,
-    "average_price": 180,
-    "average_discount": 6
+    "last_updated": "2026-02-02",
+    "hotel_count": 5,
+    "average_price": 198,
+    "average_discount": 8
   }
 }

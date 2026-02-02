@@ -13,14 +13,32 @@
       "title": "Stylish Tel Aviv City Escape on Fashionable Gordon Beach",
       "description": "Fall in love with eye-catching Bauhaus architecture, lose yourself in the lively atmosphere and step onto iconic golden sands with a stay at Crowne Plaza Tel Aviv Beach, an IHG Hotel, perfectly positioned on the edge of Gordon Beach. Experience authentic Israeli breakfast at Bellissima International Restaurant, savour authentic deli sandwiches and sparkling views of the vast Mediterranean Sea at Louis Espresso Bar, plunge into the onsite pool or hit the sands and dance all night long.",
       "location_subheading": "Israel",
-      "price": 176,
-      "original_price": 176,
+      "price": 178,
+      "original_price": 178,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6LAAR",
       "hero_image": "https://images.luxuryescapes.com/ga1oyatktq19c8ts3wq",
       "image_two": "https://images.luxuryescapes.com/5pwzp6mnrb6tm8yh1t7j",
       "image_three": "https://images.luxuryescapes.com/jz3d64mrnwsksk1uqarw",
       "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Intercontinental David Tel Aviv",
+      "offer_country_name": "Israel",
+      "location_heading": "Tel Aviv",
+      "title": "Stylish Tel Aviv City Escape near Neve Tzedek with Beachside Pool",
+      "description": "Discover the treasures of Israel with an escape to InterContinental David Tel Aviv, an IHG Hotel, perfectly positioned between the historic Old City, Neve Tzedek’s bohemian boutiques and the endless shining blue of the Mediterranean Sea. There’s no better retreat after a day exploring the city’s many wonders - enjoy authentic Israeli breakfast at the Atrium Lobby Bar, indulge in exceptional treatments from around the world at The Spa or savour cocktails by the hotel’s shimmering beachside pool.",
+      "location_subheading": "Israel",
+      "price": 433,
+      "original_price": 433,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000BdtJQAAZ",
+      "hero_image": "https://images.luxuryescapes.com/xoqejvguxs5trooav47",
+      "image_two": "https://images.luxuryescapes.com/ks2k715djmn9k6976r4c",
+      "image_three": "https://images.luxuryescapes.com/lg1mwalisbbdrx3y693d",
+      "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     }
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-01",
-    "hotel_count": 1,
-    "average_price": 176,
+    "last_updated": "2026-02-02",
+    "hotel_count": 2,
+    "average_price": 306,
     "average_discount": 0
   }
 }

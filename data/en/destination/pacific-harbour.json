@@ -4,26 +4,8 @@
   "country_code": "FJ",
   "hero_title": "Hotels in Pacific Harbour",
   "description": "Discover the best hotels in Pacific Harbour, Fiji. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/n6ay7spgbnfzzl5qlu0d",
+  "hero_image": "https://images.luxuryescapes.com/um52x6rjbgtfa0ywmp0c",
   "hotels": [
-    {
-      "vendor_name": "The Pearl Resort Fiji",
-      "offer_country_name": "Fiji",
-      "location_heading": "Pacific Harbour",
-      "title": "Fiji Pacific Harbour Beachfront Retreat with Direct Beach Access",
-      "description": "The aquamarine waters, colourful coral reefs and pristine white beaches of Fiji's Pacific Harbour promise an enchanting escape like no other at The Pearl Resort. Perfectly positioned in Pacific Harbour, the adventure capital of Fiji, the resort's direct access to one of the island's longest beaches promises days filled with fishing, kayaking or snorkelling. Or, if it's relaxation you seek, bliss out at the waterside spa or simply kick back and soak up the sunset from the swim-up bar.",
-      "location_subheading": "Fiji",
-      "price": 205,
-      "original_price": 205,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007ofU0AAI",
-      "hero_image": "https://images.luxuryescapes.com/n6ay7spgbnfzzl5qlu0d",
-      "image_two": "https://images.luxuryescapes.com/fcklv3ln1bnfwq5avzw",
-      "image_three": "https://images.luxuryescapes.com/fkk78hcw0rzeebttxc8e",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "The Pearl Resort Fiji",
       "offer_country_name": "Fiji",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 5,
       "end_date_utc": "2026-02-24 12:59:00"
+    },
+    {
+      "vendor_name": "The Pearl Resort Fiji",
+      "offer_country_name": "Fiji",
+      "location_heading": "Pacific Harbour",
+      "title": "Fiji Pacific Harbour Beachfront Retreat with Direct Beach Access",
+      "description": "The aquamarine waters, colourful coral reefs and pristine white beaches of Fiji's Pacific Harbour promise an enchanting escape like no other at The Pearl Resort. Perfectly positioned in Pacific Harbour, the adventure capital of Fiji, the resort's direct access to one of the island's longest beaches promises days filled with fishing, kayaking or snorkelling. Or, if it's relaxation you seek, bliss out at the waterside spa or simply kick back and soak up the sunset from the swim-up bar.",
+      "location_subheading": "Fiji",
+      "price": 206,
+      "original_price": 206,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007ofU0AAI",
+      "hero_image": "https://images.luxuryescapes.com/n6ay7spgbnfzzl5qlu0d",
+      "image_two": "https://images.luxuryescapes.com/fcklv3ln1bnfwq5avzw",
+      "image_three": "https://images.luxuryescapes.com/fkk78hcw0rzeebttxc8e",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-01",
+    "last_updated": "2026-02-02",
     "hotel_count": 2,
-    "average_price": 497,
+    "average_price": 498,
     "average_discount": 25
   }
 }

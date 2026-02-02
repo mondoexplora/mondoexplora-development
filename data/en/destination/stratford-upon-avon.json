@@ -4,26 +4,8 @@
   "country_code": "GB",
   "hero_title": "Hotels in Stratford-upon-Avon",
   "description": "Discover the best hotels in Stratford-upon-Avon, United Kingdom. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/bexftzpw8payjyv4ilo",
+  "hero_image": "https://images.luxuryescapes.com/0tdjswyt2f0eqkj47ln",
   "hotels": [
-    {
-      "vendor_name": "Hotel Indigo Stratford Upon Avon",
-      "offer_country_name": "United Kingdom",
-      "location_heading": "Stratford-upon-Avon",
-      "title": "Stylish Stratford-upon-Avon Stay Opposite Shakespeare's Last Home",
-      "description": "Bask in the energy of Stratford-upon-Avon's vibrant Elizabethan history with a stay at Hotel Indigo Stratford-upon-Avon, an IHG Hotel, a modern city gem that will put you right in the heart of the birthplace of Shakespeare. An abundance of restaurants, shops, trendy bars and iconic sights are within easy reach, and the hotel's modern facilities include a traditional ‘field to fork’ British pub, exquisite private garden, library and fitness centre - making this the perfect place for an exciting break.",
-      "location_subheading": "United Kingdom",
-      "price": 104,
-      "original_price": 104,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Aa9LTAAZ",
-      "hero_image": "https://images.luxuryescapes.com/bexftzpw8payjyv4ilo",
-      "image_two": "https://images.luxuryescapes.com/pdo5wnzyzph4sgojbjs",
-      "image_three": "https://images.luxuryescapes.com/fbvl1m3i43m1smhbm99",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Stratford Manor Hotel",
       "offer_country_name": "United Kingdom",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-01",
-    "hotel_count": 2,
-    "average_price": 99,
+    "last_updated": "2026-02-02",
+    "hotel_count": 1,
+    "average_price": 94,
     "average_discount": 0
   }
 }

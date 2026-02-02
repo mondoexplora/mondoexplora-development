@@ -4,26 +4,8 @@
   "country_code": "BE",
   "hero_title": "Hotels in Brussels",
   "description": "Discover the best hotels in Brussels, Belgium. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ypi7oph1a7olcavkatyc",
+  "hero_image": "https://images.luxuryescapes.com/d9ylprspxupjxvsateum",
   "hotels": [
-    {
-      "vendor_name": "Hotel Indigo Brussels - City",
-      "offer_country_name": "Belgium",
-      "location_heading": "Brussels",
-      "title": "Brussels Urban Garden Retreat with Farm-to-Table Restaurant",
-      "description": "A stone's throw from the leafy oasis of Brussels Botanical Gardens is the arty and cutting-edge Hotel Indigo Brussels - City, an IHG Hotel. Spend your days in style at SERRA, an eco-conscious restaurant with an emphasis on organic, farm-to-plate dining. This all-day, slow-dining venue is resplendent with hanging plants, velvet and leather upholstery and floral-themed wallpaper - it's a feast for all senses. Meanwhile, the Urban Fitness centre features a fully equipped gym and a steamy sauna.",
-      "location_subheading": "Belgium",
-      "price": 133,
-      "original_price": 133,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CuiRDAAZ",
-      "hero_image": "https://images.luxuryescapes.com/ypi7oph1a7olcavkatyc",
-      "image_two": "https://images.luxuryescapes.com/4y6kznhlf6vlysnatel",
-      "image_three": "https://images.luxuryescapes.com/4lzr9lpemsbi6sjdnq9c",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 01:59:00"
-    },
     {
       "vendor_name": "Crowne Plaza Brussels Airport",
       "offer_country_name": "Belgium",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
-    "hotel_count": 2,
-    "average_price": 124,
+    "last_updated": "2026-02-02",
+    "hotel_count": 1,
+    "average_price": 115,
     "average_discount": 0
   }
 }

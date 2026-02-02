@@ -10,18 +10,18 @@
       "slug": "bangkok",
       "image": "https://images.luxuryescapes.com/fgxsn8je9r72pjowfvct",
       "description": "Explore Bangkok with luxury accommodations",
-      "hotel_count": 30,
-      "hotel_deals": 30,
-      "avg_price": 246
+      "hotel_count": 38,
+      "hotel_deals": 38,
+      "avg_price": 210
     },
     {
       "name": "Phuket",
       "slug": "phuket",
-      "image": "https://images.luxuryescapes.com/c5241ajuon7gfafaifqw",
+      "image": "https://images.luxuryescapes.com/l2s48ufxndop961kl20g",
       "description": "Explore Phuket with luxury accommodations",
-      "hotel_count": 30,
-      "hotel_deals": 30,
-      "avg_price": 347
+      "hotel_count": 37,
+      "hotel_deals": 37,
+      "avg_price": 342
     },
     {
       "name": "Koh Samui",
@@ -30,34 +30,34 @@
       "description": "Explore Koh Samui with luxury accommodations",
       "hotel_count": 18,
       "hotel_deals": 18,
-      "avg_price": 489
+      "avg_price": 496
     },
     {
       "name": "Hua Hin",
       "slug": "hua-hin",
       "image": "https://images.luxuryescapes.com/r7hsmhdk266zgb5t0gb",
       "description": "Explore Hua Hin with luxury accommodations",
-      "hotel_count": 11,
-      "hotel_deals": 11,
-      "avg_price": 215
+      "hotel_count": 10,
+      "hotel_deals": 10,
+      "avg_price": 183
+    },
+    {
+      "name": "Krabi",
+      "slug": "krabi",
+      "image": "https://images.luxuryescapes.com/v3a5zwz6mnnvqjt75ban",
+      "description": "Explore Krabi with luxury accommodations",
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 269
     },
     {
       "name": "Khao Lak",
       "slug": "khao-lak",
       "image": "https://images.luxuryescapes.com/8z14h4n1tffr0mgyq1g7",
       "description": "Explore Khao Lak with luxury accommodations",
-      "hotel_count": 9,
-      "hotel_deals": 9,
-      "avg_price": 203
-    },
-    {
-      "name": "Chiang Mai",
-      "slug": "chiang-mai",
-      "image": "https://images.luxuryescapes.com/a0sr02uddmjs59n6rcq",
-      "description": "Explore Chiang Mai with luxury accommodations",
-      "hotel_count": 8,
-      "hotel_deals": 8,
-      "avg_price": 824
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 245
     }
   ],
   "seo": {

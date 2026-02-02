@@ -49,8 +49,8 @@
       "title": "Five-Star Shangri-La Toronto City Break with University Avenue Views",
       "description": "Soaring high above the city in one of Toronto's tallest buildings, close to high-end shopping and a wide range of restaurants, Shangri-La Toronto offers an opulent city sanctuary inspired by traditional Asian influences. This city haven, ideally positioned near the Osgoode subway station for easy access to key transport junctions, features elegant décor and panoramic views of University Avenue. Of course, you'll have to visit Lobby Lounge, affectionately called Toronto's urban living room, where you can sip your favourite tipple while relaxing by the cosy fireplace and Italian handcrafted Fazioli piano. Expect nothing less than first-class facilities when you go beyond the palatial lobby and discover a restorative health club, home to a 20-metre lap pool underneath a glass roof and a state-of-the-art fitness centre.",
       "location_subheading": "Canada",
-      "price": 352,
-      "original_price": 352,
+      "price": 353,
+      "original_price": 353,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000704vrAAA",
       "hero_image": "https://images.luxuryescapes.com/6umcnojtnff7kvg4qqfh",
@@ -59,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Omni King Edward Hotel",
+      "offer_country_name": "Canada",
+      "location_heading": "Toronto",
+      "title": "Charming Heritage Toronto Downtown Escape with Onsite Cafe, Bar & Tranquil Spa",
+      "description": "Immerse yourself in the charms of Edwardian-era opulence at this legendary sanctuary nestled in downtown Toronto's heart. Built in 1903, the elegant hotel has been reimagined for the 21st century and offers a regal taste of luxury, with its spacious, sophisticated rooms and top-notch amenities. Indulge in chef-prepared delicacies at Victoria Café, enjoy a classic afternoon tea experience and sip on signature cocktails at the Consort Bar, emanating an atmosphere reminiscent of an English aristocrats’ club and get pampered at Mokara Spa. If you wish to step out, you can stroll along the scenic harbourfront and splurge away at the nearby St. Lawrence Market and Eaton Centre.",
+      "location_subheading": "Canada",
+      "price": 204,
+      "original_price": 204,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HiIaIAK",
+      "hero_image": "https://images.luxuryescapes.com/6n12zs5ri9l167dx7ijl",
+      "image_two": "https://images.luxuryescapes.com/nir8gywcqaw84nalrd",
+      "image_three": "https://images.luxuryescapes.com/0ahqswdk1app0qzie3ag",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-01",
-    "hotel_count": 3,
-    "average_price": 211,
+    "last_updated": "2026-02-02",
+    "hotel_count": 4,
+    "average_price": 210,
     "average_discount": 0
   }
 }

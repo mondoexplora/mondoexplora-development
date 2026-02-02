@@ -25,24 +25,6 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "Hotel Indigo Glasgow",
-      "offer_country_name": "United Kingdom",
-      "location_heading": "Glasgow",
-      "title": "Stylish City Escape in the Heart of Glasgow’s Central District",
-      "description": "Step back in time to discover Scottish Victorian elegance and Glaswegian culture with an escape to the famed Hotel Indigo Glasgow, an IHG Hotel. Occupying an iconic 1800s power station building, the boutique bolthole is steeped in history and a pioneer in the development of this city. Spend your days exploring the buzzy streets lined with world-class shops, marvellous museums and historic theatres, before returning to share stories at the onsite Turbine 75 Bar & Kitchen.",
-      "location_subheading": "United Kingdom",
-      "price": 75,
-      "original_price": 75,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Aa9BiAAJ",
-      "hero_image": "https://images.luxuryescapes.com/4wooxmwn0l6wdvjei8eh",
-      "image_two": "https://images.luxuryescapes.com/qevhycf6j9nb79m9f5cp",
-      "image_three": "https://images.luxuryescapes.com/4byet2jdnifkhmqry0t",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Kimpton Blythswood Square Hotel",
       "offer_country_name": "United Kingdom",
       "location_heading": "Glasgow",
@@ -78,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-01",
-    "hotel_count": 3,
-    "average_price": 116,
+    "last_updated": "2026-02-02",
+    "hotel_count": 2,
+    "average_price": 136,
     "average_discount": 0
   }
 }

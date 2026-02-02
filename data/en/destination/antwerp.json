@@ -25,24 +25,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Crowne Plaza Antwerp, Belgium",
-      "offer_country_name": "Belgium",
-      "location_heading": "Antwerp",
-      "title": "Antwerp Urban Luxury with Infinity Pool & Wellness Centre",
-      "description": "Explore the history and jaw-dropping architecture of Belgium's artistic second city with at Crowne Plaza Antwerp, an IHG Hotel. Relaxation comes in many forms here: take a dip in the black-tiled infinity pool, treat yourself to an invigorating hammam treatment at the wellness centre, or enjoy a purifying steam in the sauna. When hunger strikes, sink into the velvet upholstery at ANNA Living & Bar for a deep dive into French and Belgian cuisine or a classic Belgian beer and light snacks.",
-      "location_subheading": "Belgium",
-      "price": 86,
-      "original_price": 86,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJZkAAP",
-      "hero_image": "https://images.luxuryescapes.com/u2itf4cyt1rc2kowuw9",
-      "image_two": "https://images.luxuryescapes.com/hqzt6torgc4uds3teikg",
-      "image_three": "https://images.luxuryescapes.com/fwa471lxkdkr4s3vny9g",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Hotel Indigo Antwerp - City Centre",
       "offer_country_name": "Belgium",
       "location_heading": "Antwerp",
@@ -78,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-01",
-    "hotel_count": 3,
-    "average_price": 78,
+    "last_updated": "2026-02-02",
+    "hotel_count": 2,
+    "average_price": 74,
     "average_discount": 0
   }
 }

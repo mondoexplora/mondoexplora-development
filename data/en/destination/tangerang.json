@@ -4,26 +4,8 @@
   "country_code": "ID",
   "hero_title": "Hotels in Tangerang",
   "description": "Discover the best hotels in Tangerang, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/6dra2534p69zdrza3zk",
+  "hero_image": "https://images.luxuryescapes.com/b90yg7xs6tq69uyjj4",
   "hotels": [
-    {
-      "vendor_name": "Mercure Serpong Alam Sutera",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Tangerang",
-      "title": "Sophisticated Stay in Alam Sutera near Greater Jakarta Area with Poolside Bar & Restaurant",
-      "description": "Sleek and sophisticated, this hotel has everything business travellers or leisure seekers need for a comfortable stay: an outdoor pool, fitness centre, serene spa, onsite restaurant and two bars. Located in the Alam Sutera district of Tangerang, on the western border of Indonesia’s capital city, Mercure Serpong Alam Sutera provides an oasis amid Greater Jakarta’s chaotic charm. After an afternoon exploring Alam Sutera’s shopping and entertainment hub, unwind with a tropical tipple from Maniz Pool Deck Bar and refresh in the sparkling water. Later, choose between international and local flare from Mint & Pepper Restaurant, before returning to your modern room.",
-      "location_subheading": "Indonesia",
-      "price": 55,
-      "original_price": 55,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnL4RYAV",
-      "hero_image": "https://images.luxuryescapes.com/6dra2534p69zdrza3zk",
-      "image_two": "https://images.luxuryescapes.com/d2b8nt0uleae7mt8d61j",
-      "image_three": "https://images.luxuryescapes.com/cizjeqzh0duvbpuzer9",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Mercure Tangerang Centre",
       "offer_country_name": "Indonesia",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-01",
-    "hotel_count": 2,
-    "average_price": 45,
+    "last_updated": "2026-02-02",
+    "hotel_count": 1,
+    "average_price": 35,
     "average_discount": 0
   }
 }

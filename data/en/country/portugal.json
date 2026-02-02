@@ -3,25 +3,25 @@
   "code": "PT",
   "hero_title": "Portugal Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Portugal.",
-  "hero_image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
+  "hero_image": "https://images.luxuryescapes.com/5yckyvfavi9x20wjcmm",
   "popular_destinations": [
     {
       "name": "Lisbon",
       "slug": "lisbon",
-      "image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
+      "image": "https://images.luxuryescapes.com/5yckyvfavi9x20wjcmm",
       "description": "Explore Lisbon with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 222
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 210
     },
     {
       "name": "Porto",
       "slug": "porto",
-      "image": "https://images.luxuryescapes.com/cwxxbyrbxf194xrl5lo5",
+      "image": "https://images.luxuryescapes.com/hns8srxx9u2w15201jlp",
       "description": "Explore Porto with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 180
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 198
     },
     {
       "name": "Alentejo",

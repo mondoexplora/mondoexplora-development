@@ -3,16 +3,25 @@
   "code": "CH",
   "hero_title": "Switzerland Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Switzerland.",
-  "hero_image": "https://images.luxuryescapes.com/1tbouyf877b3391bloan",
+  "hero_image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
   "popular_destinations": [
     {
       "name": "Geneva",
       "slug": "geneva",
-      "image": "https://images.luxuryescapes.com/1tbouyf877b3391bloan",
+      "image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
       "description": "Explore Geneva with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 546
+      "avg_price": 438
+    },
+    {
+      "name": "Zurich",
+      "slug": "zurich",
+      "image": "https://images.luxuryescapes.com/avlbg2ent9eqezmxvv6nh",
+      "description": "Explore Zurich with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 171
     },
     {
       "name": "Bern",
@@ -21,7 +30,7 @@
       "description": "Explore Bern with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 289
+      "avg_price": 290
     },
     {
       "name": "Gstaad",
@@ -30,7 +39,7 @@
       "description": "Explore Gstaad with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 672
+      "avg_price": 673
     },
     {
       "name": "Grindelwald",
@@ -39,7 +48,7 @@
       "description": "Explore Grindelwald with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 421
+      "avg_price": 422
     },
     {
       "name": "Engelberg",
@@ -48,16 +57,7 @@
       "description": "Explore Engelberg with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 599
-    },
-    {
-      "name": "Zurich",
-      "slug": "zurich",
-      "image": "https://images.luxuryescapes.com/pqzl8vm8hnxh6s0b3cn",
-      "description": "Explore Zurich with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 147
+      "avg_price": 600
     }
   ],
   "seo": {

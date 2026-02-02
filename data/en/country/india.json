@@ -12,25 +12,43 @@
       "description": "Explore Mumbai with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 108
+      "avg_price": 106
     },
     {
-      "name": "New Delhi",
-      "slug": "new-delhi",
-      "image": "https://images.luxuryescapes.com/ipq9n3kwt7lky0qk8wd",
-      "description": "Explore New Delhi with luxury accommodations",
+      "name": "Jaipur",
+      "slug": "jaipur",
+      "image": "https://images.luxuryescapes.com/r7b7ksebjuctoqee4nr",
+      "description": "Explore Jaipur with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 89
+      "avg_price": 295
     },
     {
       "name": "Gurugram",
       "slug": "gurugram",
-      "image": "https://images.luxuryescapes.com/h5iwm94l6yeqxgappyaf",
+      "image": "https://images.luxuryescapes.com/0sx05bjovri4sirmqdrg",
       "description": "Explore Gurugram with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 67
+      "avg_price": 54
+    },
+    {
+      "name": "Bangalore",
+      "slug": "bangalore",
+      "image": "https://images.luxuryescapes.com/nb30au5a2dy7a6pph38e",
+      "description": "Explore Bangalore with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 78
+    },
+    {
+      "name": "Kochi",
+      "slug": "kochi",
+      "image": "https://images.luxuryescapes.com/xogkw3wlel7gw5icrtk",
+      "description": "Explore Kochi with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 62
     },
     {
       "name": "Kerala",
@@ -39,25 +57,7 @@
       "description": "Explore Kerala with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 126
-    },
-    {
-      "name": "Pune",
-      "slug": "pune",
-      "image": "https://images.luxuryescapes.com/u9esw45b6o5x018vbyn",
-      "description": "Explore Pune with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 52
-    },
-    {
-      "name": "Jaipur",
-      "slug": "jaipur",
-      "image": "https://images.luxuryescapes.com/4m3m3w72b4g0rrjmpsg",
-      "description": "Explore Jaipur with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 199
+      "avg_price": 128
     }
   ],
   "seo": {
