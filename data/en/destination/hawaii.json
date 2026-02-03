@@ -115,6 +115,24 @@
       "end_date_utc": "2026-02-19 12:59:00"
     },
     {
+      "vendor_name": "Royal Lahaina Resort & Bungalows",
+      "offer_country_name": "United States",
+      "location_heading": "Hawaii",
+      "title": "Hawaii Beachfront Escape with Ocean-View Rooms, Daily Breakfast & Daily US$50 Resort Credit",
+      "description": "Experience the magic of Maui from this 27-acre tropical haven, set on an exclusive stretch of pristine Ka’anapali Beach. This stylish beachfront resort offers a collection of exquisite rooms and bungalows, each boasting private balconies or lanais to soak up views of the lush gardens or sparkling ocean. Enjoy oceanfront dining at Lahaina Noon, sip cocktails at Pineapple Moon or savour handmade ice cream at Royal Scoop. Reset and revive with a restorative treatment at The Spa at Royal Lahaina or partake in the resort’s impressive selection of beach activities, from paddleboarding and kayaking to whale watching and sunset cruising. No stay is complete without experiencing The Myths of Maui Luau, a cultural show featuring historic tales, delicious food, songs and dance.",
+      "location_subheading": "United States",
+      "price": 1519,
+      "original_price": 3302,
+      "discount_percentage": 54,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Qh4FtYAJ",
+      "hero_image": "https://images.luxuryescapes.com/wdp0pqt6islq2q5vz9l",
+      "image_two": "https://images.luxuryescapes.com/zdeblcw6vjm0877kc5m",
+      "image_three": "https://images.luxuryescapes.com/z0jnynywonrntg38hbui",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-03-09 12:59:00"
+    },
+    {
       "vendor_name": "Timbers Kauai Ocean Club & Residences",
       "offer_country_name": "United States",
       "location_heading": "Hawaii",
@@ -150,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
-    "hotel_count": 7,
-    "average_price": 834,
-    "average_discount": 12
+    "last_updated": "2026-02-03",
+    "hotel_count": 8,
+    "average_price": 920,
+    "average_discount": 17
   }
 }

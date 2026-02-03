@@ -3,8 +3,17 @@
   "code": "FJ",
   "hero_title": "Fiji Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Fiji.",
-  "hero_image": "https://images.luxuryescapes.com/45e0v0v8t5f1p8bmfv39",
+  "hero_image": "https://images.luxuryescapes.com/ah1octnsr2ejlf13dj",
   "popular_destinations": [
+    {
+      "name": "Nadi",
+      "slug": "nadi",
+      "image": "https://images.luxuryescapes.com/ah1octnsr2ejlf13dj",
+      "description": "Explore Nadi with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 200
+    },
     {
       "name": "Malolo Island",
       "slug": "malolo-island",
@@ -26,20 +35,11 @@
     {
       "name": "Pacific Harbour",
       "slug": "pacific-harbour",
-      "image": "https://images.luxuryescapes.com/um52x6rjbgtfa0ywmp0c",
+      "image": "https://images.luxuryescapes.com/n6ay7spgbnfzzl5qlu0d",
       "description": "Explore Pacific Harbour with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
       "avg_price": 498
-    },
-    {
-      "name": "Nadi",
-      "slug": "nadi",
-      "image": "https://images.luxuryescapes.com/ah1octnsr2ejlf13dj",
-      "description": "Explore Nadi with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 117
     },
     {
       "name": "Malolo Lailai",

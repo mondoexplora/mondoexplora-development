@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Geraldton",
   "description": "Discover the best hotels in Geraldton, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/43xqm1wqqddmm2wbt65o",
+  "hero_image": "https://images.luxuryescapes.com/nvieowinemn6bfd7g3zg",
   "hotels": [
+    {
+      "vendor_name": "Mantra Geraldton",
+      "offer_country_name": "Australia",
+      "location_heading": "Geraldton",
+      "title": "Central Geraldton Self-Contained Apartment Escape on Batavia Coast Marina with Pool & BBQ Facilities",
+      "description": "Experience the coastal charm of Western Australia with a cosy apartment stay in the heart of Geraldton. This contemporary retreat is ideally located moments from the Batavia Coast Marina and boardwalk, with easy access to the region's pristine beaches, historic sites and vibrant dining scene. Explore the captivating HMAS Sydney II Memorial, visit the Geraldton Regional Art Gallery, or savour fresh seafood at local eateries. The resort's spacious apartments offer everything you need for a comfortable vacation. Be sure to take advantage of the onsite barbecue area, the heated pool or the spa to unwind after a day of exploring the surrounding area.",
+      "location_subheading": "Australia",
+      "price": 134,
+      "original_price": 134,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JReuCAAT",
+      "hero_image": "https://images.luxuryescapes.com/nvieowinemn6bfd7g3zg",
+      "image_two": "https://images.luxuryescapes.com/smn69zmz1qpw1zrkx9cb",
+      "image_three": "https://images.luxuryescapes.com/cjx2zfbn7gv0kpkwgrrk",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "The Gerald Apartment Hotel",
       "offer_country_name": "Australia",
@@ -42,8 +60,8 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
-    "hotel_count": 1,
+    "last_updated": "2026-02-03",
+    "hotel_count": 2,
     "average_price": 135,
     "average_discount": 0
   }

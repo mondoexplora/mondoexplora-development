@@ -59,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "ibis Styles Bali Legian",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Legian",
+      "title": "Stylish Bali Escape near Legian Beach with Spa & Outdoor Pool",
+      "description": "Soak up the laidback Bali lifestyle at ibis Styles Bali Legian, just a leisurely stroll from Legian Beach and surrounded by bustling markets, lively cafes and the vibrant nightlife of Kuta and Seminyak. After a exploring colourful streets or surfing the waves, retreat to the hotel for a dip in the pool, complete with a kids' pool, sun loungers and a bar. For total relaxation, head to Chill Out SPA and indulge in a Balinese massage, or sip a cool drink at the poolside bar, meanwhile Colours Cafe is on hand with both Western favourites and Asian delights.",
+      "location_subheading": "Indonesia",
+      "price": 21,
+      "original_price": 21,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000M5lV2YAJ",
+      "hero_image": "https://images.luxuryescapes.com/3tt3y2kwfeubn1l4tt92",
+      "image_two": "https://images.luxuryescapes.com/btna5bt40dxvnw0w43fs",
+      "image_three": "https://images.luxuryescapes.com/z6uq4o6g8bjkp5srnae1p",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
-    "hotel_count": 3,
-    "average_price": 224,
+    "last_updated": "2026-02-03",
+    "hotel_count": 4,
+    "average_price": 173,
     "average_discount": 0
   }
 }

@@ -3,25 +3,34 @@
   "code": "ES",
   "hero_title": "Spain Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Spain.",
-  "hero_image": "https://images.luxuryescapes.com/nz4ez58cif04weh5a3q",
+  "hero_image": "https://images.luxuryescapes.com/1yqqtuarqnk9pql59viq",
   "popular_destinations": [
     {
       "name": "Barcelona",
       "slug": "barcelona",
-      "image": "https://images.luxuryescapes.com/nz4ez58cif04weh5a3q",
+      "image": "https://images.luxuryescapes.com/1yqqtuarqnk9pql59viq",
       "description": "Explore Barcelona with luxury accommodations",
-      "hotel_count": 18,
-      "hotel_deals": 18,
-      "avg_price": 302
+      "hotel_count": 20,
+      "hotel_deals": 20,
+      "avg_price": 292
     },
     {
       "name": "Madrid",
       "slug": "madrid",
       "image": "https://images.luxuryescapes.com/i31jde3fkihs3gyichoc",
       "description": "Explore Madrid with luxury accommodations",
-      "hotel_count": 10,
-      "hotel_deals": 10,
-      "avg_price": 301
+      "hotel_count": 13,
+      "hotel_deals": 13,
+      "avg_price": 270
+    },
+    {
+      "name": "Mallorca",
+      "slug": "mallorca",
+      "image": "https://images.luxuryescapes.com/kal2cbz5thqfj5f7gec",
+      "description": "Explore Mallorca with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 293
     },
     {
       "name": "Ibiza",
@@ -31,15 +40,6 @@
       "hotel_count": 5,
       "hotel_deals": 5,
       "avg_price": 319
-    },
-    {
-      "name": "Mallorca",
-      "slug": "mallorca",
-      "image": "https://images.luxuryescapes.com/kal2cbz5thqfj5f7gec",
-      "description": "Explore Mallorca with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 300
     },
     {
       "name": "Analucia",

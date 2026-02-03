@@ -3,16 +3,16 @@
   "code": "AT",
   "hero_title": "Austria Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Austria.",
-  "hero_image": "https://images.luxuryescapes.com/zvua4rtsv6c9o2oxia6n",
+  "hero_image": "https://images.luxuryescapes.com/hlkwy9e8mao2zxqucjh",
   "popular_destinations": [
     {
       "name": "Vienna",
       "slug": "vienna",
-      "image": "https://images.luxuryescapes.com/zvua4rtsv6c9o2oxia6n",
+      "image": "https://images.luxuryescapes.com/hlkwy9e8mao2zxqucjh",
       "description": "Explore Vienna with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 123
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 174
     },
     {
       "name": "Villach",
@@ -30,7 +30,7 @@
       "description": "Explore Salzburg with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 105
+      "avg_price": 111
     }
   ],
   "seo": {

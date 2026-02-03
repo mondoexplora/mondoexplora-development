@@ -25,6 +25,24 @@
       "end_date_utc": "2026-02-15 12:59:00"
     },
     {
+      "vendor_name": "Hotel Indigo Hong Kong Island",
+      "offer_country_name": "Hong Kong",
+      "location_heading": "Hong Kong",
+      "title": "Stylish Hong Kong Escape in the Heart of Wan Chai with Rooftop Infinity Pool",
+      "description": "Discover the many wonders of Wan Chai with a stay at Hotel Indigo Hong Kong Island, an IHG Hotel, located among the iconic neighbourhood’s famed collection of storied temples, soaring skyscrapers and rainbow mansions. Head to Indicolite for casual tea, street noodles and majestic views of the city’s historic Old Post Office, Skybar for cockails in the clouds, or the hotel’s glass-bottomed rooftop infinity pool for fun-filled days high in the Wan Chai sky.",
+      "location_subheading": "Hong Kong",
+      "price": 151,
+      "original_price": 151,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6IAAR",
+      "hero_image": "https://images.luxuryescapes.com/ub5e2uy47jx8xp9omoi",
+      "image_two": "https://images.luxuryescapes.com/3zr1l8yh1osuwo3s0m5e",
+      "image_three": "https://images.luxuryescapes.com/aiyp46oellorpl735gkv",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Mandarin Oriental Hong Kong",
       "offer_country_name": "Hong Kong",
       "location_heading": "Hong Kong",
@@ -97,24 +115,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Novotel Hong Kong Citygate",
-      "offer_country_name": "Hong Kong",
-      "location_heading": "Hong Kong",
-      "title": "Contemporary Hong Kong Escape Just Five Minutes from Airport with Outdoor Pool & Complimentary Shuttle",
-      "description": "Experience the best of Hong Kong with a stay in the heart of Tung Chung. Perfectly located on Lantau Island - just five minutes from Hong Kong International Airport (and with a complimentary shuttle) - this stylish haven is your gateway to adventure, with Hong Kong Disneyland within easy reach and the Ngong Ping 360 Cable Car both offering seamless access to the Big Buddha and Po Lin Monastery. Indulge in culinary delights at Olea, Essence or Moccato and jump into a beautiful outdoor pool. Direct access to Tung Chung MTR puts the city’s vibrant heart within easy reach, while the adjacent Citygate Outlets offer irresistible shopping treasures.",
-      "location_subheading": "Hong Kong",
-      "price": 123,
-      "original_price": 123,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP1bYAF",
-      "hero_image": "https://images.luxuryescapes.com/6ndi3nu6r4xb4zz6u8k",
-      "image_two": "https://images.luxuryescapes.com/lka2gh1vv78qmbwf34a",
-      "image_three": "https://images.luxuryescapes.com/4c0ov4bxflk09taq50qv3",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Kimpton Tsim Sha Tsui Hong Kong",
       "offer_country_name": "Hong Kong",
       "location_heading": "Hong Kong",
@@ -157,8 +157,8 @@
       "title": "Hong Kong Hyatt Opulence with Onsite Dining, Spa & Kids Club",
       "description": "Hyatt Regency Hong Kong, Sha Tin offers a tranquil yet convenient retreat combining resort-style luxury with urban accessibility. Situated adjacent to University MTR Station, the hotel provides seamless connections to Hong Kong's bustling city centre. Boasting elegantly appointed rooms and suites, many offering stunning views of Tolo Harbour and the surrounding mountains, it is the perfect Hong Kong escape. Enjoy dining at Sha Tin 18, serving authentic northern Chinese cuisine with creative desserts and signature dishes such as peking duck. When it is time to relax, look no further than Melo Spa for soothing treatments, or unwind at the outdoor swimming pool with a beautiful backdrop and calming views of Kau To Shan mountain.",
       "location_subheading": "Hong Kong",
-      "price": 119,
-      "original_price": 119,
+      "price": 120,
+      "original_price": 120,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000HicEJYAZ",
       "hero_image": "https://images.luxuryescapes.com/r5zxer2344am9c5mkmr",
@@ -175,8 +175,8 @@
       "title": "Serene Hong Kong Seaside Escape with Rooftop Infinity Pool, Three Restaurants & International Minimart",
       "description": "Experience a hidden gem removed from the stunning vibrance of Hong Kong at contemporary-cool WM Hotel Hong Kong, Vignette Collection, an IHG Hotel. Nestled among rolling hills on the tranquil Sai Kung seaside, here you can unwind with a dip in the rooftop infinity pool, maintain your fitness routine at the state-of-the-art gym and delight in a delectable dinner at one of three onsite restaurants. When it's time to explore, you're still within easy reach of the bustling city.",
       "location_subheading": "Hong Kong",
-      "price": 127,
-      "original_price": 127,
+      "price": 134,
+      "original_price": 134,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GwFIJAA3",
       "hero_image": "https://images.luxuryescapes.com/x4g4w6clhx3b02gmejon",
@@ -204,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
+    "last_updated": "2026-02-03",
     "hotel_count": 10,
-    "average_price": 264,
+    "average_price": 268,
     "average_discount": 7
   }
 }

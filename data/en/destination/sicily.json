@@ -1,0 +1,50 @@
+{
+  "city": "Sicily",
+  "country": "Italy",
+  "country_code": "IT",
+  "hero_title": "Hotels in Sicily",
+  "description": "Discover the best hotels in Sicily, Italy. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/4lqjwwzwwfvimm6mrrw",
+  "hotels": [
+    {
+      "vendor_name": "Almar Giardino di Costanza Mazara del Vallo",
+      "offer_country_name": "Italy",
+      "location_heading": "Sicily",
+      "title": "Sicily All-Suite Opulence with Private Beach Access & Daily Breakfast",
+      "description": "Sicilian elegance awaits at this lavish five-star retreat, set among the verdant vineyards and olive groves of Mazara del Vallo. This Italian gem offers world-class dining at AquaMadre Restaurant, serving up authentic Mediterranean flavours and perfectly fresh seafood. Take some time to laze by the sparkling outdoor pool, then indulge in a multi-sensory journey at the Almablu Spa and set out to discover the sprawling countryside gardens bathed in Sicilian sunshine. Whether you're exploring the nearby town of Marzara del Vallo or strolling the tranquil grounds, this little slice of paradise promises a memorable escape, moments from the Mediterranean coast. Visit local wineries for a taste of the region's renowned Marsala wine, marvel at Sant'Ignazio church and hop from one pristine beach to the rocky alcove of another.",
+      "location_subheading": "Italy",
+      "price": 749,
+      "original_price": 1314,
+      "discount_percentage": 43,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PItkQYAT",
+      "hero_image": "https://images.luxuryescapes.com/4lqjwwzwwfvimm6mrrw",
+      "image_two": "https://images.luxuryescapes.com/49ut5j3f70famyblizi",
+      "image_three": "https://images.luxuryescapes.com/0bqa6ng3mmdvb18bxk",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-03-02 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Sicily - Italy Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Sicily, Italy with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "sicily hotels",
+      "sicily travel",
+      "italy hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/sicily",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/sicily",
+      "es": "https://mondoexplora.com/es/destination/sicily",
+      "fr": "https://mondoexplora.com/fr/destination/sicily",
+      "it": "https://mondoexplora.com/it/destination/sicily"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-02-03",
+    "hotel_count": 1,
+    "average_price": 749,
+    "average_discount": 43
+  }
+}

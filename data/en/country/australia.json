@@ -10,18 +10,18 @@
       "slug": "sydney",
       "image": "https://images.luxuryescapes.com/hlmi6k6ud5fce8j8z0p",
       "description": "Explore Sydney with luxury accommodations",
-      "hotel_count": 50,
-      "hotel_deals": 50,
-      "avg_price": 160
+      "hotel_count": 59,
+      "hotel_deals": 59,
+      "avg_price": 162
     },
     {
       "name": "Melbourne",
       "slug": "melbourne",
       "image": "https://images.luxuryescapes.com/dpkfunte11jazg8whie",
       "description": "Explore Melbourne with luxury accommodations",
-      "hotel_count": 49,
-      "hotel_deals": 49,
-      "avg_price": 134
+      "hotel_count": 56,
+      "hotel_deals": 56,
+      "avg_price": 128
     },
     {
       "name": "Brisbane",
@@ -30,34 +30,34 @@
       "description": "Explore Brisbane with luxury accommodations",
       "hotel_count": 34,
       "hotel_deals": 34,
-      "avg_price": 134
+      "avg_price": 135
     },
     {
       "name": "Adelaide",
       "slug": "adelaide",
       "image": "https://images.luxuryescapes.com/a8nuj1a01413mvr5fnk8",
       "description": "Explore Adelaide with luxury accommodations",
-      "hotel_count": 23,
-      "hotel_deals": 23,
-      "avg_price": 108
+      "hotel_count": 27,
+      "hotel_deals": 27,
+      "avg_price": 105
     },
     {
       "name": "Perth",
       "slug": "perth",
       "image": "https://images.luxuryescapes.com/lx0kop4ioo2y351tm2fi",
       "description": "Explore Perth with luxury accommodations",
-      "hotel_count": 18,
-      "hotel_deals": 18,
-      "avg_price": 212
+      "hotel_count": 20,
+      "hotel_deals": 20,
+      "avg_price": 202
     },
     {
-      "name": "Canberra",
-      "slug": "canberra",
-      "image": "https://images.luxuryescapes.com/uu6uxgtlqpf8yqfvsn",
-      "description": "Explore Canberra with luxury accommodations",
+      "name": "Gold Coast",
+      "slug": "gold-coast",
+      "image": "https://images.luxuryescapes.com/2d19k9566imsfiwff2xs",
+      "description": "Explore Gold Coast with luxury accommodations",
       "hotel_count": 16,
       "hotel_deals": 16,
-      "avg_price": 150
+      "avg_price": 233
     }
   ],
   "seo": {

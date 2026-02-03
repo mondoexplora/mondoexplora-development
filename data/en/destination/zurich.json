@@ -41,6 +41,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Zurich",
+      "offer_country_name": "Switzerland",
+      "location_heading": "Zurich",
+      "title": "Switzerland Trendy Zurich West City Break with Lavish Health Club",
+      "description": "Immerse yourself in Zurich's lakeside beauty with an opulent stay at Crowne Plaza Zurich, an IHG Hotel - ideally positioned within the vibrant Zurich West District. Within this stylish hotel you will discover an expansive health club, a glittering pool and two sumptuous eateries. Beyond the hotel, find yourself in the heart of the global centre for banking and finance where picturesque cobblestone lanes, pre-medieval architecture and the twinkling Lake Zurich awaits.",
+      "location_subheading": "Switzerland",
+      "price": 147,
+      "original_price": 147,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJcjAAH",
+      "hero_image": "https://images.luxuryescapes.com/pqzl8vm8hnxh6s0b3cn",
+      "image_two": "https://images.luxuryescapes.com/3ku953uzgrwjd8lfaox5",
+      "image_three": "https://images.luxuryescapes.com/icqpwrbspjpsjfsxf55n",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
     }
   ],
   "seo": {
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
-    "hotel_count": 2,
-    "average_price": 171,
+    "last_updated": "2026-02-03",
+    "hotel_count": 3,
+    "average_price": 163,
     "average_discount": 0
   }
 }

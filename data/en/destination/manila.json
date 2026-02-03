@@ -25,6 +25,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Crowne Plaza Manila Galleria",
+      "offer_country_name": "Philippines",
+      "location_heading": "Manila",
+      "title": "Contemporary Manila Urban Retreat in Heart of Ortigas Center",
+      "description": "At the heart of Ortigas Center, Crowne Plaza Manila Galleria, an IHG Hotel, fuses convenient access to dining, entertainment and retail with a sophisticated and spacious stay. Savour a global range of flavours at Seven Corners restaurant or grab a tasty treat from the Agenda cafe. Lunge into your workout at the fitness centre, plunge into the outdoor pool or indulge in retail therapy at the many malls and retail complexes in the region, before setting out to experience the dynamic nightlife of Manila.",
+      "location_subheading": "Philippines",
+      "price": 70,
+      "original_price": 70,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJaEAAX",
+      "hero_image": "https://images.luxuryescapes.com/gec7egps7f93095kj3yi",
+      "image_two": "https://images.luxuryescapes.com/4u75nacn7o62u6j7as4b",
+      "image_three": "https://images.luxuryescapes.com/95ks05q2oh1dwff9nwnl",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
+    {
       "vendor_name": "Discovery Suites Manila",
       "offer_country_name": "Philippines",
       "location_heading": "Manila",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
-    "hotel_count": 4,
-    "average_price": 136,
+    "last_updated": "2026-02-03",
+    "hotel_count": 5,
+    "average_price": 123,
     "average_discount": 0
   }
 }

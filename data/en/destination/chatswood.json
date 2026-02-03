@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Chatswood",
   "description": "Discover the best hotels in Chatswood, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/hklsxqpyxji6yysjg9y",
+  "hero_image": "https://images.luxuryescapes.com/ea9kfvkbvt7i5cj7j23u",
   "hotels": [
+    {
+      "vendor_name": "Mantra Chatswood",
+      "offer_country_name": "Australia",
+      "location_heading": "Chatswood",
+      "title": "Contemporary Mantra Chatswood Stay next to Westfield Shopping Precinct",
+      "description": "Discover a stylish urban oasis perfectly positioned in Sydney's northeastern suburbs. Sitting directly opposite Westfield Chatswood, with over 250 stores including Myer, and Hoyts Cinemas, this hotel boasts easy access to Chatswood Transport Interchange while being just moments away from world-class boutiques and restaurants. The hotel offers fabulous facilities, including a shimmering indoor heated pool, a modern onsite restaurant and a fully equipped fitness centre. For a well-deserved drink after hours of shopping up a storm, the terrace beckons with uninterrupted vistas that stretch far into the horizon.",
+      "location_subheading": "Australia",
+      "price": 116,
+      "original_price": 116,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRetmAAD",
+      "hero_image": "https://images.luxuryescapes.com/ea9kfvkbvt7i5cj7j23u",
+      "image_two": "https://images.luxuryescapes.com/t38hxryriq6fgd2yjna8",
+      "image_three": "https://images.luxuryescapes.com/3eb6enfhrnqaxxmcaeg",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "The Sebel Sydney Chatswood",
       "offer_country_name": "Australia",
@@ -42,8 +60,8 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
-    "hotel_count": 1,
+    "last_updated": "2026-02-03",
+    "hotel_count": 2,
     "average_price": 116,
     "average_discount": 0
   }

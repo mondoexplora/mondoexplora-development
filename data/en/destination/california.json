@@ -4,8 +4,26 @@
   "country_code": "US",
   "hero_title": "Hotels in California",
   "description": "Discover the best hotels in California, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/l4zomewo248prbmufacd",
+  "hero_image": "https://images.luxuryescapes.com/y1xmg8jbi3r8xp975qhc",
   "hotels": [
+    {
+      "vendor_name": "Disneyland Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "California",
+      "title": "Disneyland Hotel with Early Entry to Disneyland Resort, Themed Pools & Waterslides",
+      "description": "Your fairytale journey begins at this iconic resort just steps from _Disneyland Resort_ in California. Whimsically blending Disney spirited past with modern amenities, this hotel offers themed suites, six atmospheric eateries and bars, and two sprawling, retro-themed pools. There's no better way to experience The Happiest Place on Earth than by sleeping on its doorstep. Staying at _Disneyland_ Hotel comes with exclusive perks, such as early theme park entry and movie nights for the whole family. When you're not immersed in the fun-filled theme parks, relax in a private poolside cabana and make a splash on two exhilarating waterslides. For moments of quiet amid the endless excitement, retreat to Tenaya Stone Spa for a magical massage.",
+      "location_subheading": "United States",
+      "price": 492,
+      "original_price": 492,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000DbW34YAF",
+      "hero_image": "https://images.luxuryescapes.com/y1xmg8jbi3r8xp975qhc",
+      "image_two": "https://images.luxuryescapes.com/de42kkekic597k706ei",
+      "image_three": "https://images.luxuryescapes.com/k2y3vtwynq7gi1zkopuwc",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Intercontinental Los Angeles Downtown",
       "offer_country_name": "United States",
@@ -43,6 +61,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Kimpton La Peer Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "California",
+      "title": "Glamourous West Hollywood Stay with Outdoor Pool",
+      "description": "Experience the height of bohemian glamour at Kimpton La Peer Hotel, an IHG Hotel. This artfully-curated West Hollywood stay is located in Los Angeles' walkable Design District. Meet at the Courtyard Bar for a healthy, hearty Mediterranean meal, lounge poolside under the shade of leafy olive trees and journey to the Patio Bar for an icy afternoon tipple. When you are ready to explore, The Grove, Melrose Avenue and the iconic Sunset Strip are just a short drive away.",
+      "location_subheading": "United States",
+      "price": 391,
+      "original_price": 391,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKEjAAN",
+      "hero_image": "https://images.luxuryescapes.com/onhjgeczhpvsdzpz6k",
+      "image_two": "https://images.luxuryescapes.com/3to2hiybeuhia03dnumb",
+      "image_three": "https://images.luxuryescapes.com/hszeydp19u3tqgcd1ss",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Kimpton Rowan Palm Springs Hotel",
       "offer_country_name": "United States",
       "location_heading": "California",
@@ -57,6 +93,24 @@
       "image_two": "https://images.luxuryescapes.com/c2mimvvizbjczx6frs8",
       "image_three": "https://images.luxuryescapes.com/n9xyd28b4ixy9s5lsjhp",
       "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Kimpton Sawyer Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "California",
+      "title": "Sophisticated Downtown Sacramento Stay with Rooftop Pool Deck",
+      "description": "Discover unparalleled sophistication in the vibrant heart of downtown Sacramento at the Kimpton Sawyer Hotel. Soak up views over the Golden One Center from the pool deck, and savour cocktails and cuisine at two onsite eateries and the downstairs Punch Club Social. When you're ready for adventure, simply cross the road to catch a thrilling basketball game, or embark on a foodie tour of the neighbourhood.",
+      "location_subheading": "United States",
+      "price": 231,
+      "original_price": 231,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKF9AAN",
+      "hero_image": "https://images.luxuryescapes.com/fs0ne3ta3bv450opzam",
+      "image_two": "https://images.luxuryescapes.com/x4vbo6tzqbe5xc0bkq8d",
+      "image_three": "https://images.luxuryescapes.com/yscwwi7zjjb4p4d5oh0f",
+      "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     },
@@ -186,9 +240,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
-    "hotel_count": 9,
-    "average_price": 411,
+    "last_updated": "2026-02-03",
+    "hotel_count": 12,
+    "average_price": 401,
     "average_discount": 0
   }
 }

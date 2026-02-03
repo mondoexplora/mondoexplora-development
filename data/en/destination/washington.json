@@ -4,26 +4,8 @@
   "country_code": "US",
   "hero_title": "Hotels in Washington",
   "description": "Discover the best hotels in Washington, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/07umahm2rarv0cetrm4a",
+  "hero_image": "https://images.luxuryescapes.com/qz1b877i466kdo530x",
   "hotels": [
-    {
-      "vendor_name": "Fairmont Washington DC",
-      "offer_country_name": "United States",
-      "location_heading": "Washington",
-      "title": "Sophisticated Washington City Break with Onsite Dining & Indoor Pool",
-      "description": "Experience the epitome of sophistication and luxury in the heart of Washington D.C. at this elegant retreat nestled in the historic Georgetown district. This architectural gem is just moments from the vibrant Dupont Circle, where an array of lively restaurants and bars await exploration. After a day of city adventure, unwind at The Courtyard Bar with the perfect sundowner and some light bites. Delight in delicious dishes at Juniper Restaurant, offering modern American cuisine, or relax in the stylish Lobby Lounge. For an evening of culture and entertainment, venture to the nearby Kennedy Centre, or take a leisurely stroll along the picturesque Potomac River.",
-      "location_subheading": "United States",
-      "price": 308,
-      "original_price": 308,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JjrF5YAJ",
-      "hero_image": "https://images.luxuryescapes.com/07umahm2rarv0cetrm4a",
-      "image_two": "https://images.luxuryescapes.com/pf3hzykk1noueni02nj",
-      "image_three": "https://images.luxuryescapes.com/galw33w5zf2qat9is6x",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Intercontinental Wahington DC - The Wharf",
       "offer_country_name": "United States",
@@ -39,6 +21,24 @@
       "image_two": "https://images.luxuryescapes.com/vzsvswpqjj0p702qqs9",
       "image_three": "https://images.luxuryescapes.com/wtixt86h6i5xn26togra",
       "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Omni Shoreham Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Washington",
+      "title": "Landmark Washington D.C. Retreat near White House with Three Restaurants, Pool & Spa",
+      "description": "Experience the grandeur of this historic Washington D.C address, conveniently situated adjacent to the Rock Creek National Park in a premier residential neighbourhood. Having hosted renowned politicians, presidents and even world-famous entertainers, including The Beatles, this landmark hotel exudes a charismatic aura and boasts tastefully-designed rooms for ultimate relaxation. Spend your days swimming in the glimmering outdoor pool, embark on a culinary adventure at the opulent Robert's Restaurant, sip on expertly-crafted cocktails at Marquee Bar & Lounge and indulge in an array of snacks and beverages at the onsite cafe, Morsel's. Also, take advantage of the hotel's location and explore the famous Smithsonian Zoo, the National Mall and the White House.",
+      "location_subheading": "United States",
+      "price": 174,
+      "original_price": 174,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HiIcIAK",
+      "hero_image": "https://images.luxuryescapes.com/jh3t7nbtchbi9vobw2r",
+      "image_two": "https://images.luxuryescapes.com/ish2i4aboavq49ntpqqe",
+      "image_three": "https://images.luxuryescapes.com/4i0sgut4b364octvlva",
+      "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     },
@@ -78,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
+    "last_updated": "2026-02-03",
     "hotel_count": 3,
-    "average_price": 275,
+    "average_price": 231,
     "average_discount": 0
   }
 }

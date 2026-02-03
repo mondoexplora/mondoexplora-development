@@ -4,8 +4,26 @@
   "country_code": "MY",
   "hero_title": "Hotels in Langkawi",
   "description": "Discover the best hotels in Langkawi, Malaysia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/vcroebtfje9yo3u590o",
+  "hero_image": "https://images.luxuryescapes.com/6sz9ixcht4z7urhnl6r",
   "hotels": [
+    {
+      "vendor_name": "Mercure Langkawi Pantai Cenang",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Langkawi",
+      "title": "Chic Mercure Langkawi Island Escape near Cenang Beach with Tranquil Pool & Luxe Spa",
+      "description": "Sophisticated style and laidback elegance converge at this Mercure sanctuary on the Malaysian island of Langkawi, a stone's throw from the powder-soft sands of Cenang Beach. Soak up the coastal charms and indulge in a variety of water sports, stroll through the vibrant beach town, and visit local restaurants and bustling markets. Spend your days lounging by the hotel's expansive pool, tuck into Malaysian and international delicacies at Rice Garden restaurant and cool off with cocktails at 99 Islands Lounge and Bar. If you need some pampering, head to the spa and treat yourself to restorative treatments before retreating to your stylish room.",
+      "location_subheading": "Malaysia",
+      "price": 82,
+      "original_price": 82,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002J2y4IAC",
+      "hero_image": "https://images.luxuryescapes.com/6sz9ixcht4z7urhnl6r",
+      "image_two": "https://images.luxuryescapes.com/1pk3984h1xgresyihuep",
+      "image_three": "https://images.luxuryescapes.com/7wmek66yc3n9wl2u4klo",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "The Danna Langkawi",
       "offer_country_name": "Malaysia",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
-    "hotel_count": 2,
-    "average_price": 234,
+    "last_updated": "2026-02-03",
+    "hotel_count": 3,
+    "average_price": 183,
     "average_discount": 0
   }
 }

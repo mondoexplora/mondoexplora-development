@@ -10,9 +10,9 @@
       "slug": "bora-bora",
       "image": "https://images.luxuryescapes.com/q9oh3ndllzmq73uixaq",
       "description": "Explore Bora Bora with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 639
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 779
     },
     {
       "name": "Fa'a'ā",
@@ -21,7 +21,7 @@
       "description": "Explore Fa'a'ā with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 361
+      "avg_price": 365
     },
     {
       "name": "Moorea",
@@ -31,15 +31,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 472
-    },
-    {
-      "name": "Moorea-Maiao",
-      "slug": "moorea-maiao",
-      "image": "https://images.luxuryescapes.com/9q1a1c6sejd4ic2ncyi",
-      "description": "Explore Moorea-Maiao with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 487
     }
   ],
   "seo": {

@@ -79,6 +79,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Grand Mercure Khao Lak",
+      "offer_country_name": "Thailand",
+      "location_heading": "Khao Lak",
+      "title": "Sophisticated Khao Lak Beachfront Resort with Two Pools & Dining Venues",
+      "description": "Experience a pristine hideaway ensconced in tropical gardens on Thailand's tranquil southwest coast. Enjoy an invigorating swim in the beachfront swimming pool, spoil yourself at the indulgent Pran Spa, or dine on Thai favourites at one of the two innovative onsite restaurants, Patio and Green Mango. Spend an afternoon sipping tropical cocktails at Soak Pool Bar, while the kids are entertained at the complimentary Manta Ray Kids' Corner before enjoying a stroll along the white-sand beach, located just moments away from the resort.",
+      "location_subheading": "Thailand",
+      "price": 53,
+      "original_price": 53,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlvfIAC",
+      "hero_image": "https://images.luxuryescapes.com/rgv4in00a82iul4fl8j",
+      "image_two": "https://images.luxuryescapes.com/usrexw1nogg424xeo5qs",
+      "image_three": "https://images.luxuryescapes.com/9s9u4tg9h1e5pkot9yd",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Pullman Khao Lak Resort",
       "offer_country_name": "Thailand",
       "location_heading": "Khao Lak",
@@ -150,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
-    "hotel_count": 7,
-    "average_price": 245,
-    "average_discount": 10
+    "last_updated": "2026-02-03",
+    "hotel_count": 8,
+    "average_price": 221,
+    "average_discount": 9
   }
 }

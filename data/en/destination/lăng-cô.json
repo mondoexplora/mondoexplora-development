@@ -4,8 +4,26 @@
   "country_code": "VN",
   "hero_title": "Hotels in Lăng Cô",
   "description": "Discover the best hotels in Lăng Cô, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/tghdzn9qcm1jfivlafkf",
+  "hero_image": "https://images.luxuryescapes.com/v93fpxlutflj512lsmqk",
   "hotels": [
+    {
+      "vendor_name": "Laguna Golf Lang Co",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Lăng Cô",
+      "title": "Secluded Da Nang Golfing Oasis with Massages, Daily Breakfast, Five Golf Rounds & Airport Transfers",
+      "description": "Tee off, kick back and unwind between jungle-topped mountains and golden shores at this secluded oasis set on a private beach in Da Nang. As part of the greater Laguna Lang Co integrated resort, guests can enjoy access to neighbouring sister properties, meaning there's always more to discover, from acres of golfing greens to a plethora of dining options. Golfers can practise their putts at three top-tier courses with five rounds included, refuel with upscale dining and soothe sore muscles with a treatment at the indulgent Angsana Spa. A sprawling lagoon pool wraps around the resort - the ideal place to enjoy balmy afternoons with a cocktail - while the warm waters of the East Sea invite moments of stillness beside lapping waves.",
+      "location_subheading": "Vietnam",
+      "price": 2409,
+      "original_price": 2409,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GzuiTYAR",
+      "hero_image": "https://images.luxuryescapes.com/v93fpxlutflj512lsmqk",
+      "image_two": "https://images.luxuryescapes.com/aajc52cuvdtk0ucu36r",
+      "image_three": "https://images.luxuryescapes.com/sdajaqovzkwxbfdqh03j",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 7,
+      "end_date_utc": "2026-12-14 12:59:00"
+    },
     {
       "vendor_name": "Angsana Lang Co",
       "offer_country_name": "Vietnam",
@@ -13,8 +31,8 @@
       "title": "Five-Star Oceanfront Vietnam Retreat with Rooftop Bar & Private Beach",
       "description": "Luxuriate for days at this five-star oceanfront retreat overlooking a private golden stretch of sand lining the South China Sea. Head to one of four onsite restaurants, digging into international dishes at Market Place or authentic Vietnamese seafood at Moomba. Upper Deck serves refreshing drinks on the rooftop overlooking the ocean and mountain range. For a dose of relaxation, escape to the resort's tranquil spa or stretch out in the yoga pavilion. Or for an active escape, explore three UNESCO World Heritage sites nearby - Hoi An Ancient Town, The Imperial Citadel of Hue and My Son Sanctuary.",
       "location_subheading": "Vietnam",
-      "price": 97,
-      "original_price": 97,
+      "price": 96,
+      "original_price": 96,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004URGHAA4",
       "hero_image": "https://images.luxuryescapes.com/tghdzn9qcm1jfivlafkf",
@@ -23,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Laguna Golf Lang Co",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Lăng Cô",
+      "title": "Central Vietnam Pool Villa Luxury with Five Rounds of Golf, Daily Breakfast & Specialty Dining",
+      "description": "World-class golf meets five-star luxury with this exclusive stay in the heart of Vietnam. Check into the stunning Banyan Tree Lăng Cô for pool villa luxury - tucked in a white-sand bay between Hue, Da Nang and Hoi An - and enjoy rounds at three curated, top-rated courses. Relax, indulge and navigate the fairways of Laguna Golf Lăng Cô, an 18-hole championship course designed by Sir Nick Faldo, the seaside Golden Sands, designed by Jack Nicklaus and touted as one of Vietnam’s most challenging and enjoyable courses and the Luke Donald-designed Ba Na Hills, set amid the mountains. There’s also plenty onsite for non-golfers to enjoy, between the dreamy spa, cooking classes and yoga.",
+      "location_subheading": "Vietnam",
+      "price": 4429,
+      "original_price": 4429,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000I4MnbYAF",
+      "hero_image": "https://images.luxuryescapes.com/9qq01n7pfrng0xdpc2f",
+      "image_two": "https://images.luxuryescapes.com/skvov02gu4ql9wkiau9",
+      "image_three": "https://images.luxuryescapes.com/pczgietw8tzapykld0t",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 7,
+      "end_date_utc": "2026-12-14 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
-    "hotel_count": 1,
-    "average_price": 97,
+    "last_updated": "2026-02-03",
+    "hotel_count": 3,
+    "average_price": 2311,
     "average_discount": 0
   }
 }

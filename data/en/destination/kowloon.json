@@ -43,6 +43,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Holiday Inn Golden Mile",
+      "offer_country_name": "Hong Kong",
+      "location_heading": "Kowloon",
+      "title": "Contemporary Hong Kong Escape in Heart of Kowloon near Iconic Victoria Harbour",
+      "description": "Experience the hustle and bustle of Kowloon’s city centre at the modern Holiday Inn Golden Mile Hong Kong, an IHG Hotel. Positioned a mere five minutes away from the iconic Victoria Harbour, the hotel boasts access to Hong Kong’s major commercial and tourist districts via the nearby Mass Transit Railway (MTR). Take in the city's historic landmarks and vibrant dining scene on your doorstep, before retreating back for an evening cocktail, tranquil swim and dinner at the onsite renowned restaurants.",
+      "location_subheading": "Hong Kong",
+      "price": 117,
+      "original_price": 117,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6GAAR",
+      "hero_image": "https://images.luxuryescapes.com/xvvqguvfjffm082d26hv8",
+      "image_two": "https://images.luxuryescapes.com/r4utw0805794by44jn",
+      "image_three": "https://images.luxuryescapes.com/qoccvwtb0rihu3y9jpy4",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Intercontinental Grand Stanford Hong Kong by IHG",
       "offer_country_name": "Hong Kong",
       "location_heading": "Kowloon",
@@ -67,8 +85,8 @@
       "title": "Five-Star Hong Kong InterContinental Luxury in Vibrant Tsim Sha Tsui District",
       "description": "Escape to InterContinental Grand Stanford Hong Kong, a five-star retreat in the vibrant Tsim Sha Tsui district perched on Hong Kong's iconic waterfront. On your doorstep, you’ll find the high-end boutiques of Canton Road, the city's largest shopping mall - Harbour City - and plenty of restaurants to delight. Within the award-winning hotel, feast on Michelin-starred fare, plunge into the glistening pool or keep up your fitness routine in the 24-hour gym.",
       "location_subheading": "Hong Kong",
-      "price": 153,
-      "original_price": 153,
+      "price": 154,
+      "original_price": 154,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6HAAR",
       "hero_image": "https://images.luxuryescapes.com/nd08x3u5eg1e4w1onz58j",
@@ -95,24 +113,6 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "The Langham Hong Kong",
-      "offer_country_name": "Hong Kong",
-      "location_heading": "Kowloon",
-      "title": "Hong Kong Opulence in the Heart of Tsim Sha Tsui with Three Michelin-Star Restaurant, Spa & Rooftop Pool",
-      "description": "Experience timeless elegance at The Langham Hong Kong, located in the heart of bustling Tsim Sha Tsui. At this world-class hotel, indulge in the finest Cantonese cuisine at the three-Michelin-starred T'ang Court, or savour cocktails at Artesian. Venture out to explore the nearby Kowloon Park or the iconic Victoria Harbour. Unwind in the Chuan Body + Soul wellness sanctuary, or take a refreshing dip in the rooftop pool overlooking the city's glittering skyline.",
-      "location_subheading": "Hong Kong",
-      "price": 186,
-      "original_price": 186,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000BfviQAAR",
-      "hero_image": "https://images.luxuryescapes.com/he3r9k49ln3ajjr1tkv",
-      "image_two": "https://images.luxuryescapes.com/ajuvzcv4pmvlx0cv1x8",
-      "image_three": "https://images.luxuryescapes.com/6yjw8ytq4jmlwrdj1igo",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -132,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
+    "last_updated": "2026-02-03",
     "hotel_count": 6,
-    "average_price": 260,
+    "average_price": 249,
     "average_discount": 12
   }
 }

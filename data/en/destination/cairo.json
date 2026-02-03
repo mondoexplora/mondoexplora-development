@@ -43,6 +43,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Intercontinental Citystars Cairo",
+      "offer_country_name": "Egypt",
+      "location_heading": "Cairo",
+      "title": "Grand Five-Star Cairo Oasis with Extravagant Pool & Nine Onsite Restaurants",
+      "description": "Escape to the world of the pharaohs and stay in Egypt's grand five-star InterContinental Citystars Cairo, an IHG Hotel. This central retreat offers luxurious pools to escape the Egyptian heat and nine onsite restaurants and bars, providing diverse dining experiences to suit any appetite. Using this hotel as a launchpad, follow the footsteps of the ancient Egyptians and discover the alluring history of the pyramids, crypts, mosques and museums.",
+      "location_subheading": "Egypt",
+      "price": 170,
+      "original_price": 170,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNPkrAAH",
+      "hero_image": "https://images.luxuryescapes.com/ex6muxjr47g82gaav5",
+      "image_two": "https://images.luxuryescapes.com/bqxr3e91usv4sdkzx80a",
+      "image_three": "https://images.luxuryescapes.com/vnbk9bgg7omk1eqfccc",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Crowne Plaza West Cairo Arkan",
       "offer_country_name": "Egypt",
       "location_heading": "Cairo",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
-    "hotel_count": 3,
-    "average_price": 148,
+    "last_updated": "2026-02-03",
+    "hotel_count": 4,
+    "average_price": 154,
     "average_discount": 0
   }
 }

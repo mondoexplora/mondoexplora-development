@@ -12,25 +12,34 @@
       "description": "Explore Berlin with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 146
-    },
-    {
-      "name": "Munich",
-      "slug": "munich",
-      "image": "https://images.luxuryescapes.com/43mhpife4gzr2fut19on",
-      "description": "Explore Munich with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 384
+      "avg_price": 157
     },
     {
       "name": "Frankfurt",
       "slug": "frankfurt",
-      "image": "https://images.luxuryescapes.com/wqz7umyntbxuqw13j1",
+      "image": "https://images.luxuryescapes.com/3jkn70tstn9sxal7h9of",
       "description": "Explore Frankfurt with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 123
+    },
+    {
+      "name": "Munich",
+      "slug": "munich",
+      "image": "https://images.luxuryescapes.com/2upplwii1id6x1znrges",
+      "description": "Explore Munich with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 308
+    },
+    {
+      "name": "Dusseldorf",
+      "slug": "dusseldorf",
+      "image": "https://images.luxuryescapes.com/0a7yiewi4pi9egm9i2eh",
+      "description": "Explore Dusseldorf with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 217
+      "avg_price": 89
     },
     {
       "name": "Baden-Baden",
@@ -42,22 +51,13 @@
       "avg_price": 375
     },
     {
-      "name": "Hamburg",
-      "slug": "hamburg",
-      "image": "https://images.luxuryescapes.com/zbugy45qbt17kdx7jj",
-      "description": "Explore Hamburg with luxury accommodations",
+      "name": "Garmisch-Partenkirchen",
+      "slug": "garmisch-partenkirchen",
+      "image": "https://images.luxuryescapes.com/tovaydbw4f8bpjmgc38",
+      "description": "Explore Garmisch-Partenkirchen with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 79
-    },
-    {
-      "name": "Dresden",
-      "slug": "dresden",
-      "image": "https://images.luxuryescapes.com/2azoqsxwtqodzq0p48ytf",
-      "description": "Explore Dresden with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 87
+      "avg_price": 128
     }
   ],
   "seo": {

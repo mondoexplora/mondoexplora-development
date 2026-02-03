@@ -4,8 +4,26 @@
   "country_code": "GB",
   "hero_title": "Hotels in Birmingham",
   "description": "Discover the best hotels in Birmingham, United Kingdom. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/m24n0mbjd9ymwb8lmdoy",
+  "hero_image": "https://images.luxuryescapes.com/zjdo2gnmkdx572ahcxzu",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Birmingham",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Birmingham",
+      "title": "UK Central Birmingham City Break near Grand Central Station",
+      "description": "Birmingham's bustling centre beckons visitors to explore - and where better to discover this charming heritage city than at Crowne Plaza Birmingham City Centre, an IHG Hotel? Indulge in sumptuous cuisine at B1 Restaurant and keep up with your fitness routine at the onsite gym before heading out to explore the sights. Find yourself under 10 minutes' walk from Grand Central Station and the elegant Symphony Hall, considered to be one of the finest concert halls in the world.",
+      "location_subheading": "United Kingdom",
+      "price": 72,
+      "original_price": 72,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJZnAAP",
+      "hero_image": "https://images.luxuryescapes.com/zjdo2gnmkdx572ahcxzu",
+      "image_two": "https://images.luxuryescapes.com/3gj7po53slr439xs1fxa",
+      "image_three": "https://images.luxuryescapes.com/j6y1x0r3gmgi9jnfceg",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Crowne Plaza Birmingham Nec",
       "offer_country_name": "United Kingdom",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
-    "hotel_count": 1,
-    "average_price": 77,
+    "last_updated": "2026-02-03",
+    "hotel_count": 2,
+    "average_price": 75,
     "average_discount": 0
   }
 }

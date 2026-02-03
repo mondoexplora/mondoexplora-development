@@ -25,6 +25,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Alila Ubud",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Ubud",
+      "title": "Ubud Hillside Hideaway Overlooking Ayung River Valley with Wellness Program, Spa & Pool",
+      "description": "High above the Ayung River, stay at a secluded hillside sanctuary that blends Balinese charm with natural beauty. Hidden within Bali’s central foothills, a lush path of coconut and banana trees welcomes you to this tranquil retreat. From its elevated vantage, the resort offers views of the emerald jungle canopy and alang-alang plantations that stretch endlessly into the horizon. Within this architectural masterpiece, designed to resemble a Balinese village, savour authentic Balinese cuisine at onsite Plantation Restaurant, or rejuvenate your senses at Spa Alila. Just five kilometres from Ubud’s artistic heart, you're invited relax, rejuvenate, and connect with the enchanting spirit of Bali’s verdant landscapes.",
+      "location_subheading": "Indonesia",
+      "price": 114,
+      "original_price": 114,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Cj3hGYAR",
+      "hero_image": "https://images.luxuryescapes.com/65wipqqc5j2n6q4rtoe",
+      "image_two": "https://images.luxuryescapes.com/ls5t8k9m3xqihqvxvf",
+      "image_three": "https://images.luxuryescapes.com/ewx30ysegohsjr3gfb5l",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "AnandaDara Ubud Resort & Spa",
       "offer_country_name": "Indonesia",
       "location_heading": "Ubud",
@@ -402,9 +420,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
-    "hotel_count": 21,
-    "average_price": 341,
-    "average_discount": 11
+    "last_updated": "2026-02-03",
+    "hotel_count": 22,
+    "average_price": 331,
+    "average_discount": 10
   }
 }

@@ -4,8 +4,26 @@
   "country_code": "JP",
   "hero_title": "Hotels in Oita",
   "description": "Discover the best hotels in Oita, Japan. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/gvhocmehvlfin4xrhhmm",
+  "hero_image": "https://images.luxuryescapes.com/i7iuh454m5uj6i11dpk",
   "hotels": [
+    {
+      "vendor_name": "Grand Mercure Beppu Bay",
+      "offer_country_name": "Japan",
+      "location_heading": "Oita",
+      "title": "Contemporary Oita Retreat near Beppu Hells with Onsite Onsen Hot Springs",
+      "description": "Stay near the famous Beppu Hells at this elegant retreat in one of Japan's most legendary onsen towns. Overlooking the azure waters of Beppu Bay, this chic hotel invites you to indulge in authentic Japanese cuisine at Le Sensoriel or relax in the hotel's tranquil hot springs. This hotel is the perfect base for exploring Oita Prefecture's natural and cultural wonders, including the historic Usuki Stone Buddhas, Oita Marine Palace Museum and Sanrio's all-ages amusement park, Harmonyland.",
+      "location_subheading": "Japan",
+      "price": 61,
+      "original_price": 61,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP1oYAF",
+      "hero_image": "https://images.luxuryescapes.com/i7iuh454m5uj6i11dpk",
+      "image_two": "https://images.luxuryescapes.com/vfu5foudcrg8p74520bj",
+      "image_three": "https://images.luxuryescapes.com/tb7cyjozwasvd78tw37",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Intercontinental Beppu Resort and Spa",
       "offer_country_name": "Japan",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-01",
-    "hotel_count": 1,
-    "average_price": 431,
+    "last_updated": "2026-02-03",
+    "hotel_count": 2,
+    "average_price": 246,
     "average_discount": 0
   }
 }

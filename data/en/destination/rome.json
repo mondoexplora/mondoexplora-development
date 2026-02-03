@@ -25,6 +25,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Crowne Plaza Rome St.Peters.",
+      "offer_country_name": "Italy",
+      "location_heading": "Rome",
+      "title": "Modern Rome Escape with 900-Square-Metre Spa",
+      "description": "The striking architecture, ancient history and culinary scene of Rome should be high on everyone's travel bucket list, and Crowne Plaza Rome St. Peter's, an IHG Hotel, is the perfect base. The famous Vatican Museum and the Sistine Chapel are just a short drive away - once you've had your fill of Michelangelo’s frescoes, return to your hotel and enjoy a dip in the swimming pool, a massage at the spa and indulge in mouthwatering meals and refreshing drinks at the four bars and restaurants.",
+      "location_subheading": "Italy",
+      "price": 128,
+      "original_price": 128,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CPugXAAT",
+      "hero_image": "https://images.luxuryescapes.com/wfhsitxuj9mzsx3y3i6",
+      "image_two": "https://images.luxuryescapes.com/fu29o9yp3hnaohz1eyyr",
+      "image_three": "https://images.luxuryescapes.com/lb9re9aoqj0pxqrqstp3",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "H10 Rome",
       "offer_country_name": "Italy",
       "location_heading": "Rome",
@@ -115,32 +133,14 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "Sofitel Rome Villa Borghese",
-      "offer_country_name": "Italy",
-      "location_heading": "Rome",
-      "title": "Central Rome 19th-Century Escape near Villa Borghese with Rooftop Restaurant",
-      "description": "Perched on the edge of the verdant Villa Borghese gardens, this sanctuary combines French finesse with Italian passion. Unwind in sophisticated rooms adorned with designer touches, then ascend to the Settimo rooftop restaurant where panoramic views of the Eternal City complement traditional fare and handcrafted cocktails. Just minutes from the Spanish Steps and heritage Piazza Barberini, you're ideally situated to explore Rome's cultural treasures. After exploring the grand Pantheon or strolling through charming Trastevere, retreat to your urban oasis to unwind or simply admire St. Peter's Basilica from the rooftop.",
-      "location_subheading": "Italy",
-      "price": 279,
-      "original_price": 279,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP6UYAV",
-      "hero_image": "https://images.luxuryescapes.com/c77s0pztvoo81lhizxnj",
-      "image_two": "https://images.luxuryescapes.com/fsqz34lkseyzfpvq549",
-      "image_three": "https://images.luxuryescapes.com/m77jr5o55lvdhcucmvid",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
       "vendor_name": "The First Roma Arte",
       "offer_country_name": "Italy",
       "location_heading": "Rome",
       "title": "Rome Five-Star Boutique Escape near Spanish Steps with Michelin-Starred Restaurant",
       "description": "Experience high-end opulence and five-star indulgence at the boutique The First Roma Arte. Ideally located in the heart of Rome, within walking distance of the Museo dell'Ara Pacis, Flaminio metro station and Spanish Steps, The First Roma Arte offers an ideal mix of art-influenced elegance and modern comforts, while maintaining impeccable hospitality and authentic Italian style. Guests can sharpen their appetite with tantalising Mediterranean flavours at the Michelin-starred Acquolina restaurant or savour a long lunch before sunset drinks at Acquaroof - delivering breathtaking views of Rome. Once you've had your fill, hit the streets and discover Rome's dramatic ruins, romantic culture and charismatic street life as you create your own lore exploring Italy’s hot-blooded capital. When you’re ready to retire for the night, there is nowhere better to lounge like an aristocrat than in your ultra-modern, spacious room or suite, all decorated with inspiring local art.",
       "location_subheading": "Italy",
-      "price": 443,
-      "original_price": 443,
+      "price": 442,
+      "original_price": 442,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000006z7jBAAQ",
       "hero_image": "https://images.luxuryescapes.com/kj1hqkhp9dndkyp6bxoq",
@@ -168,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
+    "last_updated": "2026-02-03",
     "hotel_count": 8,
-    "average_price": 404,
+    "average_price": 385,
     "average_discount": 0
   }
 }

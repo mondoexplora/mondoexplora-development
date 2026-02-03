@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Yamba",
   "description": "Discover the best hotels in Yamba, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/w1lhtarae2agfbtafx0h",
+  "hero_image": "https://images.luxuryescapes.com/7pgwzyjugfnxiw5prhwq",
   "hotels": [
+    {
+      "vendor_name": "The Cove Yamba",
+      "offer_country_name": "Australia",
+      "location_heading": "Yamba",
+      "title": "New South Wales Coastal Escape Steps from Yamba Main Beach with Daily Surfboard Hire",
+      "description": "Explore the sheer charm of one of coastal New South Wales' most tranquil towns with a relaxing stay at The Cove Yamba. Whether you're swimming, surfing or fishing, this big blue backyard offers something to entertain all guests. With the crashing waves of Yamba Main Beach just a short stroll from your front door, come to and from the vibrant beach area within minutes to relax in your very own oasis. Experience laid-back living in a spacious self-contained apartment, each designed with a private balcony overlooking the ocean or the property's gardens. Unwind in the outdoor swimming pool or heated spa after days spent surfing down at the beach, try your hand at a friendly hit of tennis at The Beachside Leisure Centre, or take advantage of your dining and drinks discounts at the Yamba Golf & Country Club. From the sandy shores to the inviting town just minutes away, you'll feel calm and rested at this pristine destination.",
+      "location_subheading": "Australia",
+      "price": 349,
+      "original_price": 602,
+      "discount_percentage": 42,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PiPkMYAV",
+      "hero_image": "https://images.luxuryescapes.com/7pgwzyjugfnxiw5prhwq",
+      "image_two": "https://images.luxuryescapes.com/mvuuizav6sfxnwmsevd",
+      "image_three": "https://images.luxuryescapes.com/nfeyh43oc4xa2nnzek4",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-03-02 12:59:00"
+    },
     {
       "vendor_name": "The Sands Resort at Yamba",
       "offer_country_name": "Australia",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
-    "hotel_count": 1,
-    "average_price": 339,
-    "average_discount": 45
+    "last_updated": "2026-02-03",
+    "hotel_count": 2,
+    "average_price": 344,
+    "average_discount": 44
   }
 }

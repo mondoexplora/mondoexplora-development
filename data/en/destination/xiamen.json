@@ -4,23 +4,23 @@
   "country_code": "CN",
   "hero_title": "Hotels in Xiamen",
   "description": "Discover the best hotels in Xiamen, China. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/r9l49widv8e4nc2ryvb",
+  "hero_image": "https://images.luxuryescapes.com/n70t1ho958lj8an2yzsr",
   "hotels": [
     {
-      "vendor_name": "Hyatt Centric Xiamen Ocean Front",
+      "vendor_name": "Andaz Xiamen",
       "offer_country_name": "China",
       "location_heading": "Xiamen",
-      "title": "Coastal Hyatt Escape in the Heart of Xiamen with Infinity Pool",
-      "description": "Escape to this oceanfront oasis on Xiamen Island, where coastal calm meets the pulse of city life. Hyatt Centric Ocean Front Xiamen places you nearby beaches and the buzzing energy of Zeng Cuo An food street, offering the perfect launchpad to explore the island’s rich synergy of culture, cuisine and natural beauty. Unwind with a dip in the infinity pool overlooking the South China Sea, or find your rhythm in the House of Music, a laid-back lounge with vinyl records and nibbles. Savour sustainably sourced Fujian cuisine and local seafood at Alley 36, then stroll to iconic landmarks like the UNESCO-listed Gulangyu Island or visit Zhongshan Road to satisfy your shopping desires.",
+      "title": "Central Xiamen Elegance with Rooftop Pool, Restaurant & Wine Bar",
+      "description": "Enjoy the bustling port city of Xiamen from a luxurious base, perfectly positioned in the heart of this walkable city. This five-star retreat offers sleek facilities including a state-of-the-art fitness centre and a rooftop pool offering panoramic city views. Savour local and international cuisine at the hotel's market-to-table restaurant, or enjoy a drink at the stylish wine bar. Beyond the hotel, explore the bustling Zhongshan Road, brimming with shops and eateries, or visit the historic Gulangyu Island, a UNESCO World Heritage site.",
       "location_subheading": "China",
-      "price": 69,
-      "original_price": 69,
+      "price": 141,
+      "original_price": 141,
       "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000HicEcYAJ",
-      "hero_image": "https://images.luxuryescapes.com/r9l49widv8e4nc2ryvb",
-      "image_two": "https://images.luxuryescapes.com/nvadmr44lmfzp4vaqd5p",
-      "image_three": "https://images.luxuryescapes.com/1lrnyfcwaivc5eeaev13",
-      "deal_tier": "Luxury Escapes - Tier 3",
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000HicEfYAJ",
+      "hero_image": "https://images.luxuryescapes.com/n70t1ho958lj8an2yzsr",
+      "image_two": "https://images.luxuryescapes.com/k23pm9kizkjxt8kbvww9",
+      "image_three": "https://images.luxuryescapes.com/7hfrt1iuh6xrr0g7ozo",
+      "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     },
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-01",
+    "last_updated": "2026-02-03",
     "hotel_count": 2,
-    "average_price": 70,
+    "average_price": 106,
     "average_discount": 0
   }
 }

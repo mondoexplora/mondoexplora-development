@@ -4,26 +4,8 @@
   "country_code": "ID",
   "hero_title": "Hotels in Yogyakarta",
   "description": "Discover the best hotels in Yogyakarta, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/boukqrvxpjlkov26ddg",
+  "hero_image": "https://images.luxuryescapes.com/kmgm6c576h1djz0jkn8o",
   "hotels": [
-    {
-      "vendor_name": "Grand Mercure Yogyakarta",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Yogyakarta",
-      "title": "Contemporary East Yogyakarta Hotel with Spa & Outdoor Pool",
-      "description": "Combining rich Javanese tradition with French detailing, this elegant hotel is your ideal base for discovering greater Yogyakarta. Explore the nearby historic Sultan's Palace, or venture further afield to the UNESCO World Heritage-listed Borobudur Temple for true cultural immersion. Back at the hotel, savour local cuisine at Purple, boasting floor-to-ceiling windows and warm decor, or sip on cocktails at the stylish 80’8 Bar, offering panoramic city views. For complete relaxation, unwind by the outdoor pool or head straight to the spa for rejuvenating treatments.",
-      "location_subheading": "Indonesia",
-      "price": 35,
-      "original_price": 35,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnL4eYAF",
-      "hero_image": "https://images.luxuryescapes.com/boukqrvxpjlkov26ddg",
-      "image_two": "https://images.luxuryescapes.com/9dnpf3pmgjzydx7q13m",
-      "image_three": "https://images.luxuryescapes.com/078c0a6myp87w4dizqrg",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Hyatt Regency Yogyakarta",
       "offer_country_name": "Indonesia",
@@ -39,6 +21,24 @@
       "image_two": "https://images.luxuryescapes.com/l7ugzdt3ydricjfliyhh",
       "image_three": "https://images.luxuryescapes.com/nvgag5fc7i3bqm09pqbc",
       "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Phoenix Yogyakarta - MGallery",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Yogyakarta",
+      "title": "Heritage Escape in the Heart of Yogyakarta near Malioboro with Spa & Outdoor Pool",
+      "description": "Indulge in timeless elegance and immerse yourself in cultural treasures at a majestic five-star heritage retreat in central Yogyakarta, Indonesia’s cultural heart. Blending graceful Javanese design with European sophistication, this charming stay offers a rich sensory experience - from tranquil afternoons by the colonial-style pool to exquisite dining in the open-air courtyard of Paprika, where local and international cuisines come alive. Step outside and embrace Yogyakarta’s vibrant soul. Just moments from the lively Malioboro Street, the hotel is your gateway to iconic sites like the Kraton Palace and the ancient wonders of Prambanan and Borobudur. End your day at Vino Bar, sipping a handcrafted cocktail as the city’s cultural rhythm hums softly in the background.",
+      "location_subheading": "Indonesia",
+      "price": 52,
+      "original_price": 52,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnOvLYAV",
+      "hero_image": "https://images.luxuryescapes.com/jwticondutla7fbc77g",
+      "image_two": "https://images.luxuryescapes.com/vdtdryvsvsx6bvh8idy4",
+      "image_three": "https://images.luxuryescapes.com/jrn35nlxtjb0r5gnialt",
+      "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     }
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
+    "last_updated": "2026-02-03",
     "hotel_count": 2,
-    "average_price": 50,
+    "average_price": 59,
     "average_discount": 0
   }
 }

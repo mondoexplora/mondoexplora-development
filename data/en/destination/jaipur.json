@@ -4,8 +4,26 @@
   "country_code": "IN",
   "hero_title": "Hotels in Jaipur",
   "description": "Discover the best hotels in Jaipur, India. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/r7b7ksebjuctoqee4nr",
+  "hero_image": "https://images.luxuryescapes.com/4m3m3w72b4g0rrjmpsg",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Jaipur Tonk Road",
+      "offer_country_name": "India",
+      "location_heading": "Jaipur",
+      "title": "Pink City Luxury near Jaipur Airport with Spa & Infinity Pool",
+      "description": "A short distance from Jaipur Airport, Crowne Plaza Jaipur Tonk Road, an IHG Hotel is a luxe oasis amid an urban jungle. Savour succulent cuisine at the onsite restaurants, indulge in a revitalising spa treatment or invigorate body and mind at the fitness centre. Take a refreshing plunge into the outdoor pool after exploring the marvellous markets and awe-inspiring architecture that Jaipur has to offer. After a memorable day in the Pink City, retire to a refined room for a good night's sleep.",
+      "location_subheading": "India",
+      "price": 66,
+      "original_price": 66,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CPyDZAA1",
+      "hero_image": "https://images.luxuryescapes.com/4m3m3w72b4g0rrjmpsg",
+      "image_two": "https://images.luxuryescapes.com/11gl4k78zmcyeaed08o7",
+      "image_three": "https://images.luxuryescapes.com/z38s7p7v7lvc6edw57ab",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Holiday Inn Jaipur",
       "offer_country_name": "India",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-02",
-    "hotel_count": 3,
-    "average_price": 295,
+    "last_updated": "2026-02-03",
+    "hotel_count": 4,
+    "average_price": 238,
     "average_discount": 0
   }
 }
