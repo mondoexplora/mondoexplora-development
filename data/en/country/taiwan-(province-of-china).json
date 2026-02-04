@@ -12,7 +12,7 @@
       "description": "Explore Taipei with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 221
+      "avg_price": 219
     },
     {
       "name": "Kaohsiung",
@@ -39,7 +39,16 @@
       "description": "Explore Taipei City with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 174
+      "avg_price": 183
+    },
+    {
+      "name": "Taoyuan",
+      "slug": "taoyuan",
+      "image": "https://images.luxuryescapes.com/85h3yt7ps193t2pnsgo",
+      "description": "Explore Taoyuan with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 100
     }
   ],
   "seo": {

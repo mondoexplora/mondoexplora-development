@@ -77,6 +77,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Halyard Liverpool, Vignette Collection",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Liverpool",
+      "title": "Modern Liverpool City Escape Near Royal Alfred Docks with Rooftop Terrace, Restaurant & Gym",
+      "description": "Stumble upon luxurious dwellings and welcoming spaces at The Halyard Liverpool, an IHG Hotel, nestled in the heart of Liverpool's vibrant Ropewalks district. Uncover the history of the world’s most iconic band at the Beatles Story Museum and explore the city's rich musical heritage and gastronomic culture at a variety of cafes, restaurants and bars. Return to the hotel's sumptuous interiors, where you can unwind in the elegant Halyard Restaurant over delicious British dishes, or take in sparkling city views from the rooftop terrace.",
+      "location_subheading": "United Kingdom",
+      "price": 102,
+      "original_price": 102,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Fno5PAAR",
+      "hero_image": "https://images.luxuryescapes.com/j6v6eu0jojlk2rho895",
+      "image_two": "https://images.luxuryescapes.com/bfty677ejumcnmfun945",
+      "image_three": "https://images.luxuryescapes.com/8y9q17rw78jds4thyafg",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 14:59:00"
     }
   ],
   "seo": {
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-03",
-    "hotel_count": 4,
-    "average_price": 85,
+    "last_updated": "2026-02-04",
+    "hotel_count": 5,
+    "average_price": 88,
     "average_discount": 0
   }
 }

@@ -3,8 +3,17 @@
   "code": "SA",
   "hero_title": "Saudi Arabia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Saudi Arabia.",
-  "hero_image": "https://images.luxuryescapes.com/kau8vsbgooneor10rqch",
+  "hero_image": "https://images.luxuryescapes.com/w5062zm2fxmp06emxpjf",
   "popular_destinations": [
+    {
+      "name": "Makkah",
+      "slug": "makkah",
+      "image": "https://images.luxuryescapes.com/w5062zm2fxmp06emxpjf",
+      "description": "Explore Makkah with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 169
+    },
     {
       "name": "Riyadh",
       "slug": "riyadh",
@@ -12,7 +21,7 @@
       "description": "Explore Riyadh with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 228
+      "avg_price": 230
     },
     {
       "name": "Al Khobar",
@@ -24,13 +33,13 @@
       "avg_price": 124
     },
     {
-      "name": "Makkah",
-      "slug": "makkah",
-      "image": "https://images.luxuryescapes.com/w5062zm2fxmp06emxpjf",
-      "description": "Explore Makkah with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 116
+      "name": "Jeddah",
+      "slug": "jeddah",
+      "image": "https://images.luxuryescapes.com/onztyu5fq4lhb3uas4r",
+      "description": "Explore Jeddah with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 120
     },
     {
       "name": "Medina",
@@ -42,22 +51,13 @@
       "avg_price": 164
     },
     {
-      "name": "Jeddah",
-      "slug": "jeddah",
-      "image": "https://images.luxuryescapes.com/vqlctddji9lcbhq2rhc5",
-      "description": "Explore Jeddah with luxury accommodations",
+      "name": "Madinah",
+      "slug": "madinah",
+      "image": "https://images.luxuryescapes.com/jh71czm4z2sj6neby02",
+      "description": "Explore Madinah with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 136
-    },
-    {
-      "name": "Madinah al Mounawarah",
-      "slug": "madinah-al-mounawarah",
-      "image": "https://images.luxuryescapes.com/npwkonu5pnz43tpr3sw",
-      "description": "Explore Madinah al Mounawarah with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 176
+      "avg_price": 189
     }
   ],
   "seo": {

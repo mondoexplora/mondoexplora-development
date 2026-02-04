@@ -12,7 +12,7 @@
       "description": "Explore Berlin with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 157
+      "avg_price": 156
     },
     {
       "name": "Frankfurt",
@@ -26,11 +26,20 @@
     {
       "name": "Munich",
       "slug": "munich",
-      "image": "https://images.luxuryescapes.com/2upplwii1id6x1znrges",
+      "image": "https://images.luxuryescapes.com/43mhpife4gzr2fut19on",
       "description": "Explore Munich with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 308
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 263
+    },
+    {
+      "name": "Hamburg",
+      "slug": "hamburg",
+      "image": "https://images.luxuryescapes.com/tfes5lgqtc1dwksjv6n7",
+      "description": "Explore Hamburg with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 103
     },
     {
       "name": "Dusseldorf",
@@ -39,7 +48,7 @@
       "description": "Explore Dusseldorf with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 89
+      "avg_price": 87
     },
     {
       "name": "Baden-Baden",
@@ -49,15 +58,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 375
-    },
-    {
-      "name": "Garmisch-Partenkirchen",
-      "slug": "garmisch-partenkirchen",
-      "image": "https://images.luxuryescapes.com/tovaydbw4f8bpjmgc38",
-      "description": "Explore Garmisch-Partenkirchen with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 128
     }
   ],
   "seo": {

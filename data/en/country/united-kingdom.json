@@ -10,9 +10,9 @@
       "slug": "london",
       "image": "https://images.luxuryescapes.com/39mzmc3drv1f0ixf989g",
       "description": "Explore London with luxury accommodations",
-      "hotel_count": 53,
-      "hotel_deals": 53,
-      "avg_price": 386
+      "hotel_count": 56,
+      "hotel_deals": 56,
+      "avg_price": 382
     },
     {
       "name": "Edinburgh",
@@ -24,6 +24,15 @@
       "avg_price": 116
     },
     {
+      "name": "Liverpool",
+      "slug": "liverpool",
+      "image": "https://images.luxuryescapes.com/8pcy0a9daau63ik7j51",
+      "description": "Explore Liverpool with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 88
+    },
+    {
       "name": "Manchester",
       "slug": "manchester",
       "image": "https://images.luxuryescapes.com/1jh3a5tbxp3f0rejmd6m",
@@ -33,22 +42,13 @@
       "avg_price": 108
     },
     {
-      "name": "Liverpool",
-      "slug": "liverpool",
-      "image": "https://images.luxuryescapes.com/8pcy0a9daau63ik7j51",
-      "description": "Explore Liverpool with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 85
-    },
-    {
       "name": "Glasgow",
       "slug": "glasgow",
       "image": "https://images.luxuryescapes.com/f1ps1m9h5po93e7s7s",
       "description": "Explore Glasgow with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 114
+      "avg_price": 110
     },
     {
       "name": "Reading",

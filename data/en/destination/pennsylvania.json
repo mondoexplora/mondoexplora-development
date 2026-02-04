@@ -23,6 +23,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Omni William Penn Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Pennsylvania",
+      "title": "Heritage Downtown Pittsburgh Escape Steps from Convention Center with Five Restaurants & Bars",
+      "description": "Step back into Pittsburgh's Golden Age with a stay at this grand heritage hotel, located in the heart of the downtown business district. Steps away from the vibrant Cultural District and the bustling Market Square, this historic landmark is in the centre of it all, while providing easy access to the wider city, sitting adjacent to the Pittsburgh Metro Rail System. Each room is a testament to classic elegance, offering a glimpse into the city's rich history. Dine at the Terrace Room, known for its award-winning cuisine, or enjoy a cocktail at the Speakeasy, a hidden gem reminiscent of the Prohibition era. Stop by Mellon Square Coffee for a coffee and treat to start your day, or join local Steelers fans in The Tap Room, tasting an array of microbrews alongside their famous chilli.",
+      "location_subheading": "United States",
+      "price": 191,
+      "original_price": 191,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HiIRIA0",
+      "hero_image": "https://images.luxuryescapes.com/qh52q058nxj0zlgzhdff",
+      "image_two": "https://images.luxuryescapes.com/vmkcfj3jtgtyr8szlqm7",
+      "image_three": "https://images.luxuryescapes.com/uz1owlga6naxrbwd3b",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-03",
-    "hotel_count": 1,
-    "average_price": 307,
+    "last_updated": "2026-02-04",
+    "hotel_count": 2,
+    "average_price": 249,
     "average_discount": 0
   }
 }

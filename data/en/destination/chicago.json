@@ -4,8 +4,26 @@
   "country_code": "US",
   "hero_title": "Hotels in Chicago",
   "description": "Discover the best hotels in Chicago, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/h1x9ib36048v90d9056m",
+  "hero_image": "https://images.luxuryescapes.com/dhgtjm158ttec5fzgy88",
   "hotels": [
+    {
+      "vendor_name": "Fairmont Chicago Millennium Park",
+      "offer_country_name": "United States",
+      "location_heading": "Chicago",
+      "title": "Central Chicago City Break Moments from Millennium Park with Onsite Restaurant & Day Spa",
+      "description": "Set in the heart of downtown, Fairmont Chicago, Millennium Park is a stylish retreat blending urban elegance with signature Fairmont luxury. Take in sweeping views of surrounding parks and sparkling Lake Michigan from light-filled rooms and suites or soak up the city's energy at Toro, where bold Pan-Latin flavours meet handcrafted cocktails. Perfectly positioned in the heart of the Windy City, the hotel places you steps from Millennium Park and moments from Chicago's most celebrated sights. Wander along the scenic lakefront or lively Chicago Riverwalk, explore world-class museums including the Art Institute of Chicago or dine your way through the city's acclaimed culinary scene. Whether travelling for business or leisure, Chicago is at your doorstep from this opulent Fairmont escape.",
+      "location_subheading": "United States",
+      "price": 198,
+      "original_price": 198,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Jjw0OYAR",
+      "hero_image": "https://images.luxuryescapes.com/dhgtjm158ttec5fzgy88",
+      "image_two": "https://images.luxuryescapes.com/9sufjasqpqdk6018wg6i",
+      "image_three": "https://images.luxuryescapes.com/5atze7q9ck8yss8n4sow",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Kimpton Gray Hotel",
       "offer_country_name": "United States",
@@ -97,6 +115,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Sofitel Chicago Mag. Mile",
+      "offer_country_name": "United States",
+      "location_heading": "Chicago",
+      "title": "Historic French-Inspired Luxury in the Heart of Chicago with Day Spa & Onsite Restaurant & Bar",
+      "description": "Experience the allure of the Windy City with a stay at a luxurious hotel, majestically towering over the heart of Chicago's Magnificent Mile. Surrounded by the city's finest dining, shopping, and cultural attractions, this architectural marvel offers the perfect base for exploring the city's vibrant scene. Just moments away, you'll find the Art Institute of Chicago, the Navy Pier, and the iconic Millennium Park. After a day of exploration, retreat to the hotel's chic lounge for a craft cocktail or savour French-inspired dishes at the onsite CDA Restaurant.",
+      "location_subheading": "United States",
+      "price": 180,
+      "original_price": 180,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnJdnYAF",
+      "hero_image": "https://images.luxuryescapes.com/pfbgt5xq2qrsry9kuov",
+      "image_two": "https://images.luxuryescapes.com/yyyw05fhfhjq6o0r3ixp",
+      "image_three": "https://images.luxuryescapes.com/zmd9n32bn8j9mfq4z466",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "The Allegro Royal Sonesta Hotel Chicago Loop",
       "offer_country_name": "United States",
       "location_heading": "Chicago",
@@ -121,8 +157,8 @@
       "title": "Stylish Downtown Chicago Escape near Millennium Park with Restaurant & Pool",
       "description": "Begin your Windy City adventure with a sophisticated stay at the voco Chicago Downtown, an IHG Hotel. Set in the River North district, this contemporary retreat is steps from the Magnificent Mile's high-end boutiques and the city's celebrated culinary scene. Enjoy a crafted cocktail and savour delicious American fare at Waterview on the 15th floor, grab a quick bite to eat from Riverbend Market, or take a relaxing dip in the heated pool.",
       "location_subheading": "United States",
-      "price": 115,
-      "original_price": 115,
+      "price": 110,
+      "original_price": 110,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GxYXKAA3",
       "hero_image": "https://images.luxuryescapes.com/kumeu9pecidn8ovydl6f",
@@ -150,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-03",
-    "hotel_count": 7,
-    "average_price": 161,
+    "last_updated": "2026-02-04",
+    "hotel_count": 9,
+    "average_price": 166,
     "average_discount": 0
   }
 }

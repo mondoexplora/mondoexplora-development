@@ -10,9 +10,9 @@
       "slug": "amman",
       "image": "https://images.luxuryescapes.com/g5b72ugr2vywu7wxc7g",
       "description": "Explore Amman with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 147
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 138
     },
     {
       "name": "Aqaba",
@@ -21,7 +21,16 @@
       "description": "Explore Aqaba with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 123
+      "avg_price": 121
+    },
+    {
+      "name": "Petra",
+      "slug": "petra",
+      "image": "https://images.luxuryescapes.com/pg9slt77enx0ogpr9m7s",
+      "description": "Explore Petra with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 117
     },
     {
       "name": "Swemeh",
@@ -42,13 +51,13 @@
       "avg_price": 91
     },
     {
-      "name": "Petra",
-      "slug": "petra",
-      "image": "https://images.luxuryescapes.com/oucqhxejd6kir3hty13c",
-      "description": "Explore Petra with luxury accommodations",
+      "name": "Sweimeh",
+      "slug": "sweimeh",
+      "image": "https://images.luxuryescapes.com/buqaexjuhbq8u020no3a",
+      "description": "Explore Sweimeh with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 126
+      "avg_price": 117
     }
   ],
   "seo": {

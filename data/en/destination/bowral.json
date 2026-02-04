@@ -43,6 +43,24 @@
       "end_date_utc": "2026-02-10 12:59:00"
     },
     {
+      "vendor_name": "Peppers Craigieburn Bowral",
+      "offer_country_name": "Australia",
+      "location_heading": "Bowral",
+      "title": "Idyllic Southern Highlands Heritage Retreat with Private Golf Course & Onsite Restaurant",
+      "description": "Experience the majestic charms of the Southern Highlands with a luxe stay at this grandly refurbished heritage retreat in scenic Bowral. Bask in the old-world elegance of this tranquil retreat, surrounded by a nine-hole golf course and manicured gardens and easily reachable from Sydney, Canberra and the South Coast. Feast on local produce and a seasonally rotating menu at the onsite Hickory's Restaurant and Bar, or hop in the car to visit the region's renowned cool-climate wineries, only a short drive away.",
+      "location_subheading": "Australia",
+      "price": 122,
+      "original_price": 122,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRewCAAT",
+      "hero_image": "https://images.luxuryescapes.com/gdlfdwx31g6jbp66v18j",
+      "image_two": "https://images.luxuryescapes.com/6t2mfrzbt1pt4bpsbo6",
+      "image_three": "https://images.luxuryescapes.com/h250wfehbcj3dnwgm2dp",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "The Sebel Bowral",
       "offer_country_name": "Australia",
       "location_heading": "Bowral",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-03",
-    "hotel_count": 3,
-    "average_price": 253,
-    "average_discount": 19
+    "last_updated": "2026-02-04",
+    "hotel_count": 4,
+    "average_price": 220,
+    "average_discount": 14
   }
 }

@@ -25,6 +25,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Fairmont The Norfolk",
+      "offer_country_name": "Kenya",
+      "location_heading": "Nairobi",
+      "title": "Luxurious Nairobi Fairmont Retreat with Three Restaurants & Outdoor Pool",
+      "description": "Experience the timeless elegance of a luxury stay in the heart of the lively Kenyan capital of Nairobi. Fairmont The Norfolk offers a tranquil oasis amid the city's vibrant energy. Indulge in an array of culinary delights at one of the hotel's onsite restaurants, or enjoy a refreshing dip in the outdoor pool alongside a selection of drinks at the bar. Venture beyond the hotel to explore the city's rich history and culture. Visit the nearby National Museum of Kenya, take a leisurely stroll through the lush Nairobi Botanic Garden, or immerse yourself in the vibrant local markets. This hotel is also conveniently located close to the Nairobi National Park, where you can witness the majesty of Africa's wildlife firsthand, including lions, leopards and giraffes.",
+      "location_subheading": "Kenya",
+      "price": 174,
+      "original_price": 174,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ib17pYAB",
+      "hero_image": "https://images.luxuryescapes.com/j7biykjd84mfhl9vil",
+      "image_two": "https://images.luxuryescapes.com/xp7twlwb7orj79idaocjt",
+      "image_three": "https://images.luxuryescapes.com/kgr21p7oxht3ptx16ylh",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Mövenpick Hotel & Residences Nairobi",
       "offer_country_name": "Kenya",
       "location_heading": "Nairobi",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-03",
-    "hotel_count": 3,
-    "average_price": 147,
+    "last_updated": "2026-02-04",
+    "hotel_count": 4,
+    "average_price": 154,
     "average_discount": 0
   }
 }

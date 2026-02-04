@@ -4,8 +4,26 @@
   "country_code": "US",
   "hero_title": "Hotels in Washington",
   "description": "Discover the best hotels in Washington, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/qz1b877i466kdo530x",
+  "hero_image": "https://images.luxuryescapes.com/07umahm2rarv0cetrm4a",
   "hotels": [
+    {
+      "vendor_name": "Fairmont Washington DC",
+      "offer_country_name": "United States",
+      "location_heading": "Washington",
+      "title": "Sophisticated Washington City Break with Onsite Dining & Indoor Pool",
+      "description": "Experience the epitome of sophistication and luxury in the heart of Washington D.C. at this elegant retreat nestled in the historic Georgetown district. This architectural gem is just moments from the vibrant Dupont Circle, where an array of lively restaurants and bars await exploration. After a day of city adventure, unwind at The Courtyard Bar with the perfect sundowner and some light bites. Delight in delicious dishes at Juniper Restaurant, offering modern American cuisine, or relax in the stylish Lobby Lounge. For an evening of culture and entertainment, venture to the nearby Kennedy Centre, or take a leisurely stroll along the picturesque Potomac River.",
+      "location_subheading": "United States",
+      "price": 308,
+      "original_price": 308,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JjrF5YAJ",
+      "hero_image": "https://images.luxuryescapes.com/07umahm2rarv0cetrm4a",
+      "image_two": "https://images.luxuryescapes.com/pf3hzykk1noueni02nj",
+      "image_three": "https://images.luxuryescapes.com/galw33w5zf2qat9is6x",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Intercontinental Wahington DC - The Wharf",
       "offer_country_name": "United States",
@@ -49,8 +67,8 @@
       "title": "Washington DC Downtown Glamour near The Whitehouse",
       "description": "Stay in heart of Washington, DC at The Dupont Circle Hotel, a Doyle Collection Hotel bringing glamour to the capital. Designer renovations by Martin Brudnizki are enhanced by incredible facilities. There are three eateries to dine in, including the swanky Pembroke restaurant serving up contemporary American cuisine and Doyle & Co for fresh pastries and Lavazza coffee. Plus, a state-of-the-art 24-hour fitness centre offers everything you need for a great workout. Stay a stone's throw from Washington, DC's iconic sights. The White House, the Smithsonian and the Lincoln Memorial are all under a 10-minute drive away, while the restaurant and shops surrounding the Dupont Circle are right outside the hotel's doors.",
       "location_subheading": "United States",
-      "price": 229,
-      "original_price": 229,
+      "price": 230,
+      "original_price": 230,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000005I0bVAAS",
       "hero_image": "https://images.luxuryescapes.com/9g2a0qxy7dup4nqmfqc6",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-03",
-    "hotel_count": 3,
-    "average_price": 231,
+    "last_updated": "2026-02-04",
+    "hotel_count": 4,
+    "average_price": 250,
     "average_discount": 0
   }
 }

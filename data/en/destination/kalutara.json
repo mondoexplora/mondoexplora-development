@@ -46,24 +46,6 @@
       "vendor_name": "Avani Kalutara Resort",
       "offer_country_name": "Sri Lanka",
       "location_heading": "Kalutara",
-      "title": "Sri Lanka Resort Luxury on Kalutara Peninsula with Four Restaurants & Bars",
-      "description": "Located on a private palm-fringed peninsula on Sri Lanka's western coast, between an azure lagoon and the crashing sea, is Avani Kalutara Resort. Delve into a world of tropical adventure and limitless indulgence, with watersports, abseiling and bike tours aplenty. Wind down with a traditional healing treatment at the adjacent Anantara Spa and end your evening at any of the four onsite restaurants and bars, serving upscale eats and drinks from Italian to Asian fare.",
-      "location_subheading": "Sri Lanka",
-      "price": 118,
-      "original_price": 118,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009BTFEAA4",
-      "hero_image": "https://images.luxuryescapes.com/lr3qjwixh1t27xkc7ai",
-      "image_two": "https://images.luxuryescapes.com/bmy3uo9h6fcwfgmnxhp",
-      "image_three": "https://images.luxuryescapes.com/8r93wj9dfu37j9g75rk",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Avani Kalutara Resort",
-      "offer_country_name": "Sri Lanka",
-      "location_heading": "Kalutara",
       "title": "Secluded Sri Lankan Beachfront Resort with Daily Breakfast, Free-Flow Hour & Private Beach",
       "description": "Discover pure relaxation at Avani Kalutara Resort, where you're steps from the golden sands of your very own private beach. On this Sri Lankan palm-fringed peninsula, delight in unforgettable views and local and international flavours at Mangrove, poolside Italian at Acquolina, or lounge by the pool with a refreshing cocktail in hand at Karadiya Bar. Avani Kalutara Resort offers no shortage of options and atmosphere, with plenty of activities to fill the time between meals. After long days exploring the local estates and their lush garden paths, enjoy soothing treatments at Anantara Spa, rooted in the healing traditions of the world's richest cultures with ancient therapies from across Asia and holistic Ayurvedic rituals from Western practices.",
       "location_subheading": "Sri Lanka",
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 3,
       "end_date_utc": "2026-03-09 12:59:00"
+    },
+    {
+      "vendor_name": "Avani Kalutara Resort",
+      "offer_country_name": "Sri Lanka",
+      "location_heading": "Kalutara",
+      "title": "Sri Lanka Resort Luxury on Kalutara Peninsula with Four Restaurants & Bars",
+      "description": "Located on a private palm-fringed peninsula on Sri Lanka's western coast, between an azure lagoon and the crashing sea, is Avani Kalutara Resort. Delve into a world of tropical adventure and limitless indulgence, with watersports, abseiling and bike tours aplenty. Wind down with a traditional healing treatment at the adjacent Anantara Spa and end your evening at any of the four onsite restaurants and bars, serving upscale eats and drinks from Italian to Asian fare.",
+      "location_subheading": "Sri Lanka",
+      "price": 118,
+      "original_price": 118,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009BTFEAA4",
+      "hero_image": "https://images.luxuryescapes.com/lr3qjwixh1t27xkc7ai",
+      "image_two": "https://images.luxuryescapes.com/bmy3uo9h6fcwfgmnxhp",
+      "image_three": "https://images.luxuryescapes.com/8r93wj9dfu37j9g75rk",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -96,7 +96,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-03",
+    "last_updated": "2026-02-04",
     "hotel_count": 4,
     "average_price": 456,
     "average_discount": 28

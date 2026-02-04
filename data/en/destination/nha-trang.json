@@ -61,6 +61,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Novotel Nha Trang",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Nha Trang",
+      "title": "Beachfront Novotel Nha Trang Elegance with Tranquil Pool & Spa",
+      "description": "Bask in the coastal charms of Nha Trang from this idyllic Novotel abode, perfectly positioned on the vibrant city's main road, offering easy access to the pristine beach. Unwind in style in the hotel's well-appointed rooms and relax in the glistening pool. As the sun dips below the horizon, replenish with scrumptious cocktails at the Pool Bar. When it's time to explore, the historic Ponagar Temple, the Long Son Pagoda and the bustling night market are within easy reach. For beach lovers, embark on an expedition across the crystal-clear waters and snorkel in the colourful reefs. After a day of exploration, retreat to the hotel's In Balance Spa for a rejuvenating treatment.",
+      "location_subheading": "Vietnam",
+      "price": 51,
+      "original_price": 51,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP4rYAF",
+      "hero_image": "https://images.luxuryescapes.com/hclg4m2uyjb96hubhu9",
+      "image_two": "https://images.luxuryescapes.com/rnq7oqewbbiv3iiudwo",
+      "image_three": "https://images.luxuryescapes.com/refi73gvdhrrb5l9yeyt",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Potique Hotel",
       "offer_country_name": "Vietnam",
       "location_heading": "Nha Trang",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-03",
-    "hotel_count": 5,
-    "average_price": 141,
-    "average_discount": 13
+    "last_updated": "2026-02-04",
+    "hotel_count": 6,
+    "average_price": 126,
+    "average_discount": 11
   }
 }

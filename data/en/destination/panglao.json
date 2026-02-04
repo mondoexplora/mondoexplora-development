@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "South Palms Resort and Spa Panglao",
+      "offer_country_name": "Philippines",
+      "location_heading": "Panglao",
+      "title": "Tropical Beachfront Panglao Resort with Spa, Pool & Three Restaurants",
+      "description": "Escape to the idyllic island of Panglao, home to the stunning South Palms Resort and Spa Panglao - MGallery Collection. This luxurious retreat offers a tranquil oasis, set amidst swaying palm trees and the shimmering waters of the Bohol Sea. Unwind in the resort's infinity pool, indulge in rejuvenating treatments at Panglao Spa, or savour a meal at one of the three onsite restaurants. Explore the vibrant local culture with a visit to the nearby Hinagdanan Cave, a naturally lit cavern known for its stunning stalactite formations. Take advantage of the resort's facilities and scuba dive, snorkel, water ski and kayak at nearby colourful reefs that are teeming with diverse sea life.",
+      "location_subheading": "Philippines",
+      "price": 213,
+      "original_price": 213,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000J0hzhYAB",
+      "hero_image": "https://images.luxuryescapes.com/agz308vm27na0o77gwrp",
+      "image_two": "https://images.luxuryescapes.com/tech5tb9wjbzesxkw4vb",
+      "image_three": "https://images.luxuryescapes.com/h96feg559camuz1nug",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-03",
-    "hotel_count": 1,
-    "average_price": 183,
+    "last_updated": "2026-02-04",
+    "hotel_count": 2,
+    "average_price": 198,
     "average_discount": 0
   }
 }

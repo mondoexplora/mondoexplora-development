@@ -4,8 +4,26 @@
   "country_code": "CN",
   "hero_title": "Hotels in Beijing",
   "description": "Discover the best hotels in Beijing, China. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/u4u6t9wp1ljq5tvrjhaeol",
+  "hero_image": "https://images.luxuryescapes.com/ehppqzlzlleaq5gekgnp",
   "hotels": [
+    {
+      "vendor_name": "BEI Zhaolong Hotel, in Joie de Vivre by Hyatt",
+      "offer_country_name": "China",
+      "location_heading": "Beijing",
+      "title": "Beijing Sky-High Grandeur near Vibrant Sanlitun District",
+      "description": "Where French joviality meets Beijing's electric energy - this hotel brings that signature joie de vivre spark to the heart of the capital. Think boutique soul with metropolitan pride, designed to make you feel like you're in Beijing's best-kept secret. Fuel your morning adventures in the breakfast room before heading out to explore this vibrant city. You're perfectly planted in prime Chaoyang District territory and walking distance from Sanlitun, known for its fashionable dining and nightlife scene. The Forbidden City is also just a metro ride away.",
+      "location_subheading": "China",
+      "price": 85,
+      "original_price": 85,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Hifh1YAB",
+      "hero_image": "https://images.luxuryescapes.com/ehppqzlzlleaq5gekgnp",
+      "image_two": "https://images.luxuryescapes.com/kig8icmmbld43yw24gr",
+      "image_three": "https://images.luxuryescapes.com/tf82ascc7s3laks2e",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "China World Summit Wing",
       "offer_country_name": "China",
@@ -85,13 +103,31 @@
       "title": "Boutique Beijing Mandarin Oriental Courtyard-Style Indulgence with Four Onsite Dining Venues",
       "description": "Find yourself transported to a world of yesteryear Chinese elegance at this traditional hutong courtyard-style sanctuary nestled in the heart of Beijing Central Axis, moments from The Forbidden City. Accentuated by oriental aesthetics and a generous touch of sophistication, the hotel boasts sumptuous accommodation imbued with sleek and stylish amenities, made for modern living. Relish contemporary culinary finesse across the property's dining venues, helmed by renowned chefs, celebrated mixologists and experienced tea sommeliers. Feast on Cantonese and Chaozhou cuisine at Yan Garden by Chef Fei, sample authentic Italian dishes at VICINI, sip on creative drinks at TIAO and drink oriental teas at Maple Lounge. If you wish to explore, Tiananmen Square and the Temple of Heaven are close by.",
       "location_subheading": "China",
-      "price": 1550,
-      "original_price": 1550,
+      "price": 1551,
+      "original_price": 1551,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002JEHvIAO",
       "hero_image": "https://images.luxuryescapes.com/wc7guov2q5n8zi8ywozd",
       "image_two": "https://images.luxuryescapes.com/rbs1j1v0jkd67sspvj",
       "image_three": "https://images.luxuryescapes.com/0k2nj7ymrhx3odz10twk",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Novotel Beijing Peace",
+      "offer_country_name": "China",
+      "location_heading": "Beijing",
+      "title": "Central Beijing Escape near Tiananmen Square & Forbidden City with Indoor Pool",
+      "description": "Step into the exciting pulse of Beijing from a prime location near the iconic Forbidden City and Tiananmen Square. Explore famed history, stroll along the bustling Wangfujing Street for world-class shopping and dining, and don’t miss the chance to try the city’s legendary Peking Duck. After a day of discovery, retreat to your elegant accommodation and unwind with a cocktail at the Lobby Bar. Relax with a leisurely swim in the indoor pool, or indulge in a touch of European flair with classic French cuisine at Le Cabernet.",
+      "location_subheading": "China",
+      "price": 90,
+      "original_price": 90,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000IazVuYAJ",
+      "hero_image": "https://images.luxuryescapes.com/l2dskeext8wye7clmvs",
+      "image_two": "https://images.luxuryescapes.com/sj60k6fyenmd2s433xz7",
+      "image_three": "https://images.luxuryescapes.com/r7c9zs8pjlqbx96wdpm",
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -150,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-03",
-    "hotel_count": 7,
-    "average_price": 356,
+    "last_updated": "2026-02-04",
+    "hotel_count": 9,
+    "average_price": 297,
     "average_discount": 0
   }
 }

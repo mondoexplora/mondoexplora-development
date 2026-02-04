@@ -10,17 +10,17 @@
       "slug": "paris",
       "image": "https://images.luxuryescapes.com/38mqrxy3jkcpv4iddx",
       "description": "Explore Paris with luxury accommodations",
-      "hotel_count": 25,
-      "hotel_deals": 25,
-      "avg_price": 482
+      "hotel_count": 29,
+      "hotel_deals": 29,
+      "avg_price": 466
     },
     {
       "name": "Lyon",
       "slug": "lyon",
       "image": "https://images.luxuryescapes.com/f1xh8vumeq649231cg7k",
       "description": "Explore Lyon with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
+      "hotel_count": 5,
+      "hotel_deals": 5,
       "avg_price": 175
     },
     {
@@ -57,7 +57,7 @@
       "description": "Explore Marseille with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 151
+      "avg_price": 150
     }
   ],
   "seo": {

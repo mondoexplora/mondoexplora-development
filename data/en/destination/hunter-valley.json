@@ -82,24 +82,6 @@
       "vendor_name": "Rydges Resort Hunter Valley",
       "offer_country_name": "Australia",
       "location_heading": "Hunter Valley",
-      "title": "Tranquil Hunter Valley Wine Country Escape with Pool, Spa & Restaurants",
-      "description": "Go to where the wine flows, vines are rich and full, and lush hills endlessly roll - Rydges Resort Hunter Valley. Perched among a myriad of cellar doors, this is the ideal countryside hideaway, just a few hours from Sydney. Between vineyard-hopping, sit down to a delicious meal at one of the hotel’s own dining outlets, perfect your swing on the golf course, or enjoy a rejuvenating visit to the tranquil day spa.",
-      "location_subheading": "Australia",
-      "price": 135,
-      "original_price": 135,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdYn7AAF",
-      "hero_image": "https://images.luxuryescapes.com/6xf6elyacob1tdbfy05",
-      "image_two": "https://images.luxuryescapes.com/anfj9kfn0bb9slxs1hpg",
-      "image_three": "https://images.luxuryescapes.com/ry44v9zgoqkn3flv4fa",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Rydges Resort Hunter Valley",
-      "offer_country_name": "Australia",
-      "location_heading": "Hunter Valley",
       "title": "Hunter Valley Golf Hideaway with Daily Breakfast & Two Rounds with Cart Hire",
       "description": "The greens are cut and the pints are cold at the Hunter Valley’s largest resort, just a few hours from Sydney. It's home to the Hunter Valley Golf Club, boasting a picturesque 71-par course that is the perfect centrepiece for a weekend of golfing greatness and rural relaxation. After a round, retreat to one of the resort's three bars and restaurants, or tour the onsite Sydney Brewery. Whether you’re chasing birdies or just savouring time with best mates, this is the place to be. This slice of regional Australia is among the best getaways to completely refresh and revitalise, from exploring its rich wine country to unwinding with a relaxing massage at Ubika Day Spa. It’s also the place to sink your teeth into a legendary farm-to-fork dining scene, with Gather restaurant plating up prime examples of the region’s best meats and wholefoods.",
       "location_subheading": "Australia",
@@ -113,6 +95,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-07-01 13:59:00"
+    },
+    {
+      "vendor_name": "Rydges Resort Hunter Valley",
+      "offer_country_name": "Australia",
+      "location_heading": "Hunter Valley",
+      "title": "Tranquil Hunter Valley Wine Country Escape with Pool, Spa & Restaurants",
+      "description": "Go to where the wine flows, vines are rich and full, and lush hills endlessly roll - Rydges Resort Hunter Valley. Perched among a myriad of cellar doors, this is the ideal countryside hideaway, just a few hours from Sydney. Between vineyard-hopping, sit down to a delicious meal at one of the hotel’s own dining outlets, perfect your swing on the golf course, or enjoy a rejuvenating visit to the tranquil day spa.",
+      "location_subheading": "Australia",
+      "price": 135,
+      "original_price": 135,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdYn7AAF",
+      "hero_image": "https://images.luxuryescapes.com/6xf6elyacob1tdbfy05",
+      "image_two": "https://images.luxuryescapes.com/anfj9kfn0bb9slxs1hpg",
+      "image_three": "https://images.luxuryescapes.com/ry44v9zgoqkn3flv4fa",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Spicers Vineyards Estate",
@@ -186,7 +186,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-03",
+    "last_updated": "2026-02-04",
     "hotel_count": 9,
     "average_price": 270,
     "average_discount": 12

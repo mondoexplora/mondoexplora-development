@@ -28,6 +28,24 @@
       "vendor_name": "The Star Residences Gold Coast",
       "offer_country_name": "Australia",
       "location_heading": "Gold Coast",
+      "title": "Gold Coast: Broadbeach Resort-Style Apartment Luxury",
+      "description": "Discover your home-away-from-home at The Star Residences Gold Coast, where resort-style apartments provide a luxurious base for your Gold Coast escape. If you can tear yourself away from your immaculate, self-contained abode, head to the sky-high swimming pool on level 20 and enjoy dazzling city views, or make the most of the yoga pavilion and casual eating areas. You'll be in a prime location to explore the many dining options available at The Star Gold Coast complex.",
+      "location_subheading": "Australia",
+      "price": 146,
+      "original_price": 146,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Dg3q8AAB",
+      "hero_image": "https://images.luxuryescapes.com/0iospdsgf408j861hv0s",
+      "image_two": "https://images.luxuryescapes.com/ij6gncixwjg88c6nse0e",
+      "image_three": "https://images.luxuryescapes.com/p7f66904m4y8m7wkf31f",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Star Residences Gold Coast",
+      "offer_country_name": "Australia",
+      "location_heading": "Gold Coast",
       "title": "Gold Coast Glamour: Broadbeach One- & Two-Bedroom Resort-Style Apartments",
       "description": "Unbeatable surf meets unrivalled sophistication in the heart of Broadbeach with a stay at these self-contained residences, perfectly positioned in Queensland's premier entertainment destination, The Star Gold Coast. Every modern, light-filled residence is decked out with luxury furnishings, a fully equipped kitchen and spectacular views of the hinterland, city or ocean, perfect for a romantic weekend away - or upgrade to a two-bedroom apartment for a family-friendly stay brimming with opportunity for adventure. Head up to the building’s resort-style, 20th-floor pool for quiet moments in the sunshine, indulge at the luxurious onsite spa or venture out to sample The Star’s dazzling collection of top-notch restaurants and thrilling entertainment venues. A few steps further and you're in the heart of one of Australia’s most beloved beach cities - brilliant white shores and barrelling surf await.",
       "location_subheading": "Australia",
@@ -41,24 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 3,
       "end_date_utc": "2026-02-23 12:59:00"
-    },
-    {
-      "vendor_name": "The Star Residences Gold Coast",
-      "offer_country_name": "Australia",
-      "location_heading": "Gold Coast",
-      "title": "Gold Coast: Broadbeach Resort-Style Apartment Luxury",
-      "description": "Discover your home-away-from-home at The Star Residences Gold Coast, where resort-style apartments provide a luxurious base for your Gold Coast escape. If you can tear yourself away from your immaculate, self-contained abode, head to the sky-high swimming pool on level 20 and enjoy dazzling city views, or make the most of the yoga pavilion and casual eating areas. You'll be in a prime location to explore the many dining options available at The Star Gold Coast complex.",
-      "location_subheading": "Australia",
-      "price": 151,
-      "original_price": 151,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Dg3q8AAB",
-      "hero_image": "https://images.luxuryescapes.com/0iospdsgf408j861hv0s",
-      "image_two": "https://images.luxuryescapes.com/ij6gncixwjg88c6nse0e",
-      "image_three": "https://images.luxuryescapes.com/p7f66904m4y8m7wkf31f",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Aria Apartments",
@@ -175,8 +175,8 @@
       "title": "Coastal Cool Rydges Stay near Gold Coast Airport",
       "description": "Step off the plane and straight into the glamorous Gold Coast lifestyle with a stay at Rydges Gold Coast Airport, located just five minutes from the domestic and international terminals. Walk just moments to golden Kirra Beach, then enjoy the very best of the southern Gold Coast with prime surf, cute cafés, craft breweries, and local marketplaces all within close reach. When you return from your adventures, relax at The Salty Fox Rooftop Bar or be taken on a culinary journey at Madame Za.",
       "location_subheading": "Australia",
-      "price": 93,
-      "original_price": 93,
+      "price": 140,
+      "original_price": 140,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004v0uWAAQ",
       "hero_image": "https://images.luxuryescapes.com/10ck87eiwegl7fgm53i",
@@ -283,8 +283,8 @@
       "title": "Gold Coast Luxe Self-Contained One & Two-Bedroom Apartments Overlooking Kirra Beach",
       "description": "X marks the spot for your new favourite family escape at X Kirra Apartments, perfectly positioned on the southern Gold Coast's sparkling shores. Each apartment offers light-filled luxe living and spectacular views over the shimmering Pacific Ocean or hinterland. Beaming above the shimmering sands of Kirra Beach, just moments from world-class surf, top-notch dining and Gold Coast Airport, this sophisticated complex will be your home away from home when exploring the region's extraordinary natural wonders and theme parks.",
       "location_subheading": "Australia",
-      "price": 339,
-      "original_price": 339,
+      "price": 354,
+      "original_price": 354,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ee87kAAB",
       "hero_image": "https://images.luxuryescapes.com/qsbf2sakqad8lxyejq",
@@ -312,9 +312,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-03",
+    "last_updated": "2026-02-04",
     "hotel_count": 16,
-    "average_price": 233,
+    "average_price": 237,
     "average_discount": 12
   }
 }

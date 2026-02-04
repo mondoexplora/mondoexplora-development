@@ -113,6 +113,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Langham Hong Kong",
+      "offer_country_name": "Hong Kong",
+      "location_heading": "Kowloon",
+      "title": "Hong Kong Opulence in the Heart of Tsim Sha Tsui with Three Michelin-Star Restaurant, Spa & Rooftop Pool",
+      "description": "Experience timeless elegance at The Langham Hong Kong, located in the heart of bustling Tsim Sha Tsui. At this world-class hotel, indulge in the finest Cantonese cuisine at the three-Michelin-starred T'ang Court, or savour cocktails at Artesian. Venture out to explore the nearby Kowloon Park or the iconic Victoria Harbour. Unwind in the Chuan Body + Soul wellness sanctuary, or take a refreshing dip in the rooftop pool overlooking the city's glittering skyline.",
+      "location_subheading": "Hong Kong",
+      "price": 186,
+      "original_price": 186,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000BfviQAAR",
+      "hero_image": "https://images.luxuryescapes.com/he3r9k49ln3ajjr1tkv",
+      "image_two": "https://images.luxuryescapes.com/ajuvzcv4pmvlx0cv1x8",
+      "image_three": "https://images.luxuryescapes.com/6yjw8ytq4jmlwrdj1igo",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-03",
-    "hotel_count": 6,
-    "average_price": 249,
-    "average_discount": 12
+    "last_updated": "2026-02-04",
+    "hotel_count": 7,
+    "average_price": 240,
+    "average_discount": 10
   }
 }
