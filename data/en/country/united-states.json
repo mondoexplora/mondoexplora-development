@@ -12,7 +12,7 @@
       "description": "Explore New York with luxury accommodations",
       "hotel_count": 30,
       "hotel_deals": 30,
-      "avg_price": 371
+      "avg_price": 369
     },
     {
       "name": "San Francisco",
@@ -21,7 +21,7 @@
       "description": "Explore San Francisco with luxury accommodations",
       "hotel_count": 14,
       "hotel_deals": 14,
-      "avg_price": 297
+      "avg_price": 299
     },
     {
       "name": "California",
@@ -30,16 +30,16 @@
       "description": "Explore California with luxury accommodations",
       "hotel_count": 13,
       "hotel_deals": 13,
-      "avg_price": 395
+      "avg_price": 394
     },
     {
       "name": "Los Angeles",
       "slug": "los-angeles",
       "image": "https://images.luxuryescapes.com/2gz9hcpe3z0kaefsk6r4",
       "description": "Explore Los Angeles with luxury accommodations",
-      "hotel_count": 11,
-      "hotel_deals": 11,
-      "avg_price": 221
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 263
     },
     {
       "name": "Chicago",
@@ -48,7 +48,7 @@
       "description": "Explore Chicago with luxury accommodations",
       "hotel_count": 9,
       "hotel_deals": 9,
-      "avg_price": 166
+      "avg_price": 169
     },
     {
       "name": "Hawaii",
