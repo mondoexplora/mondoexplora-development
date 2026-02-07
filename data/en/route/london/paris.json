@@ -5,8 +5,8 @@
   "destination_country": "France",
   "transport_modes": {
     "flight": {
-      "duration": "1h 30m",
-      "price_range": "$95 - $220",
+      "duration": "1h 55m",
+      "price_range": "$120 - $350",
       "providers": [
         "Skyscanner",
         "Kayak",
@@ -23,8 +23,8 @@
       ]
     },
     "bus": {
-      "duration": "4h 30m",
-      "price_range": "$25 - $60",
+      "duration": "4h 55m",
+      "price_range": "$30 - $75",
       "providers": [
         "FlixBus",
         "Greyhound",
@@ -32,8 +32,8 @@
       ]
     },
     "car": {
-      "duration": "6h 20m",
-      "distance": "310 km",
+      "duration": "5h 45m",
+      "distance": "480 km",
       "price_range": "$60 - $140"
     }
   },

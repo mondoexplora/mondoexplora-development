@@ -1,0 +1,50 @@
+{
+  "city": "Las Vegas",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Las Vegas",
+  "description": "Discover the best hotels in Las Vegas, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/od778rmecyr769mwa6",
+  "hotels": [
+    {
+      "vendor_name": "AC Hotel Las Vegas Symphony Park",
+      "offer_country_name": "United States",
+      "location_heading": "Las Vegas",
+      "title": "Grand Opening: Downtown Las Vegas Escape with Daily Breakfast and Nightly US$50 Hotel Credit",
+      "description": "Be one of the first to experience this brand-new sophisticated Las Vegas escape, perfectly positioned in the vibrant Arts District, located apart from - but within easy reach of - the iconic Las Vegas Strip. Backed by Marriott's legendary hospitality, AC Hotel Las Vegas Symphony Park offers modern rooms with minimalist design, a rooftop pool and Spanish-inspired tapas at the stylish AC Lounge. With downtown energy and a more relaxed vibe than the Strip, this is ideal for travellers wanting Vegas without the constant crowds. Explore the Arts District's street murals and independent galleries, catch a show at the Smith Center, wander through vintage shops or grab a craft beer at local breweries. For a bit of indulgence, enjoy access to Circa Casino with daily slot play, champagne toasts and private transfers or head to Fremont Street to experience the iconic light canopy and street performers.",
+      "location_subheading": "United States",
+      "price": 529,
+      "original_price": 1037,
+      "discount_percentage": 49,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000P11jeYAB",
+      "hero_image": "https://images.luxuryescapes.com/od778rmecyr769mwa6",
+      "image_two": "https://images.luxuryescapes.com/zt9uabkqebyk0z8g3677",
+      "image_three": "https://images.luxuryescapes.com/k3wp1306wdcmki8f7yqi",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-04-03 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Las Vegas - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Las Vegas, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "las vegas hotels",
+      "las vegas travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/las-vegas",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/las-vegas",
+      "es": "https://mondoexplora.com/es/destination/las-vegas",
+      "fr": "https://mondoexplora.com/fr/destination/las-vegas",
+      "it": "https://mondoexplora.com/it/destination/las-vegas"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-02-07",
+    "hotel_count": 1,
+    "average_price": 529,
+    "average_discount": 49
+  }
+}
