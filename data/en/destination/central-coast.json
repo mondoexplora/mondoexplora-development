@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Central Coast",
   "description": "Discover the best hotels in Central Coast, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/qkwfnufjoum1gq5tgubm",
+  "hero_image": "https://images.luxuryescapes.com/mg558jvtbns6sgswbhxd",
   "hotels": [
+    {
+      "vendor_name": "Mercure Kooindah Waters Central Coast",
+      "offer_country_name": "Australia",
+      "location_heading": "Central Coast",
+      "title": "Central Coast Escape 90 Minutes from Sydney with Championship Golf Course & Daily Breakfast",
+      "description": "Relax and rejuvenate amid the tranquillity of this sprawling Central Coast haven, boasting an 18-hole golf course ranked among Australia’s top 100. Unwind in the sunshine with a glass of wine in hand as you take in the manicured grounds, enjoy a peaceful stroll around the lake or take on a friendly match of tennis on one of two onsite courts. From sunrise to sunset, spend your days hopping between pristine beaches and soaking in the region’s calm beauty. Refresh with a few laps in the outdoor or indoor pool, luxuriate at Wildfire Day Spa, explore the surrounding national parks, and spot dolphins and whales during the winter months. When it’s time to indulge, treat yourself to alfresco dining at Karinyas Restaurant, served with panoramic views across the resort’s rolling fairways. Surrender to the quiet luxury of this laidback retreat and make it your gateway to the Central Coast’s best.",
+      "location_subheading": "Australia",
+      "price": 209,
+      "original_price": 550,
+      "discount_percentage": 62,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000OyNiIYAV",
+      "hero_image": "https://images.luxuryescapes.com/mg558jvtbns6sgswbhxd",
+      "image_two": "https://images.luxuryescapes.com/debh3as03psomf4yb8mg",
+      "image_three": "https://images.luxuryescapes.com/cehc2ninrn4bwcyfcmp",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-03-09 12:59:00"
+    },
     {
       "vendor_name": "Mercure Kooindah Waters Central Coast",
       "offer_country_name": "Australia",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-09",
-    "hotel_count": 2,
-    "average_price": 118,
-    "average_discount": 0
+    "last_updated": "2026-02-10",
+    "hotel_count": 3,
+    "average_price": 148,
+    "average_discount": 21
   }
 }

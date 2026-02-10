@@ -85,8 +85,8 @@
       "title": "Five-Star Heritage Escape in the Heart of Rome",
       "description": "In the heart of the Italian capital, InterContinental Rome Ambasciatori Palace, an IHG Hotel features a seamless blend of contemporary design, five-star comfort and old-world glamour. This hotel is ideally placed to embark on a whirlwind tour of Rome: visit the Trevi Fountain just a 15-minute walk away or arrive at the bustling Piazza Navona in under 25 minutes on foot. After days spent exploring, return to the hotel and savour delicious Italian and American cuisine at the onsite Scarpetta NYC.",
       "location_subheading": "Italy",
-      "price": 423,
-      "original_price": 423,
+      "price": 410,
+      "original_price": 410,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNQKGAA5",
       "hero_image": "https://images.luxuryescapes.com/rqdxrodvatfdyu2rpred",
@@ -103,8 +103,8 @@
       "title": "Romantic Heritage Retreat in the Heart of Rome with Rooftop Terrace",
       "description": "Travel back to the romantic baroque period with a stay at the lavish Romanico Palace Luxury Hotel & SPA, an extravagant and elegant luxury hotel in the centre of Rome. Located in the historical heart of the ancient city, the grand traditional townhouse is perfectly positioned for days spent exploring the cobblestoned streets, passing by world-famous sights like the Spanish Steps, the Colosseum, Trevi Fountain and the Pantheon. Join the swathes of fashionistas shopping up a storm on the nearby Via Veneto and Via del Corso, or head to Barberini train station for a 10-minute ride to the Vatican. Marble floors, handpainted frescos, antique furniture and damask fabrics are standard across the rooms and suites of Romanico Palace, evoking a sumptuous sense of luxury and indulgence. Lose a few hours in the thermal bath-inspired spa, which offers a Turkish bath, Irish shower, sauna, hydromassage pool with salty water and a relaxation area. Enjoy one of the two bars available at the hotel: the lobby bar is open all year round or during spring, summer and autumn, venture to the panoramic rooftop terrace, where you can drink in breathtaking vistas of Rome.",
       "location_subheading": "Italy",
-      "price": 155,
-      "original_price": 155,
+      "price": 199,
+      "original_price": 199,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004VGoSAAW",
       "hero_image": "https://images.luxuryescapes.com/dttead1163xhrk1dsmfe",
@@ -167,6 +167,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Art'otel Rome Piazza Sallustio, Powered by Radisson Hotels",
+      "offer_country_name": "Italy",
+      "location_heading": "Rome",
+      "title": "Grand Opening: Boutique Rome Retreat near Villa Borghese with Daily Breakfast & Onsite Art Gallery",
+      "description": "Tucked into Rome's historic heart where cobblestones meet cocktails, art'otel Rome Piazza Sallustio is a five-star love letter to the Eternal City. With 99 design-led rooms, an onsite gallery with the largest permanent collection of Pietro Ruffo's work, and an enviable position moments from Villa Borghese and the Spanish Steps, this is boutique hospitality with serious artistic credentials. Beyond the art-studded rooms, YEZI Restaurant & Bar reimagines the Asian teahouse as a social dining hotspot, serving elevated dim sum with a curated DJ soundtrack. The sun-soaked YEZI Terrace transitions seamlessly from lunch to aperitivo to dinner, while the rejuvenating sauna and fitness centre ensure guests can indulge and recharge. Complimentary art tours and gallery access are just the cherry on top. The location speaks for itself. Villa Borghese's manicured gardens and world-class gallery sit minutes away, while the Spanish Steps and Trevi Fountain are within easy strolling distance. The Dolce Vita glamour of Via Veneto is practically your neighbour and the charming Sallustiano neighbourhood offers authentic trattorias beloved by locals who know their cacio e pepe.",
+      "location_subheading": "Italy",
+      "price": 639,
+      "original_price": 1682,
+      "discount_percentage": 62,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000NSTD7YAP",
+      "hero_image": "https://images.luxuryescapes.com/09cnyxocctg5120z9q8",
+      "image_two": "https://images.luxuryescapes.com/wp4rphzz9k65mdabyva",
+      "image_three": "https://images.luxuryescapes.com/iv9sgvtx5djk4bl0qf",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-03-09 12:59:00"
     }
   ],
   "seo": {
@@ -186,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-09",
-    "hotel_count": 9,
-    "average_price": 380,
-    "average_discount": 0
+    "last_updated": "2026-02-10",
+    "hotel_count": 10,
+    "average_price": 409,
+    "average_discount": 6
   }
 }

@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Queensland",
   "description": "Discover the best hotels in Queensland, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/9uufhz510oaf0c9gvofa",
+  "hero_image": "https://images.luxuryescapes.com/5xshm0m3vihkokix38j",
   "hotels": [
+    {
+      "vendor_name": "Noosa Lakes Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Queensland",
+      "title": "Lakeside Oasis near Noosa Marina with Lagoon Pools & Welcome Bottle of Wine",
+      "description": "Savour the relaxed rhythm of Noosaville from this serene retreat, featuring three sparkling lagoon pools set among landscaped gardens. Each self-contained apartment offers a fully equipped kitchen, inviting you to create your own culinary moments or simply relax in refined comfort. Step outside for a short walk to Noosa Marina, where waterfront dining, boutique shopping and various river activities like boat hires and fishing charters on a 40-berth marina line the tranquil Noosa River. The riverside promenade reveals a vibrant local scene, while a short 10-minute drive transports you to the designer shops and acclaimed dining of Hastings Street by the golden sands of Noosa Main Beach.",
+      "location_subheading": "Australia",
+      "price": 309,
+      "original_price": 461,
+      "discount_percentage": 33,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Pk7ePYAR",
+      "hero_image": "https://images.luxuryescapes.com/5xshm0m3vihkokix38j",
+      "image_two": "https://images.luxuryescapes.com/nxi4o7xn25np497xem",
+      "image_three": "https://images.luxuryescapes.com/gj1plta65ogwoyirhrw5",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-03-09 12:59:00"
+    },
     {
       "vendor_name": "Oaks Hervey Bay Resort and Spa",
       "offer_country_name": "Australia",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-09",
-    "hotel_count": 4,
-    "average_price": 245,
-    "average_discount": 0
+    "last_updated": "2026-02-10",
+    "hotel_count": 5,
+    "average_price": 257,
+    "average_discount": 7
   }
 }

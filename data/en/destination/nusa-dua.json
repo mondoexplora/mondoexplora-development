@@ -172,24 +172,6 @@
       "vendor_name": "The Mulia, Nusa Dua, Bali",
       "offer_country_name": "Indonesia",
       "location_heading": "Nusa Dua",
-      "title": "Iconic Mulia Bali One-Bedroom Private Pool Villas with Six Onsite Swimming Pools & Butler Service",
-      "description": "Discover the height of opulence at this five-star award-winning complex. On the edge of a secluded beach in Bali's southeast, this hedonistic haven delivers decadent dining, state-of-the-art fitness facilities and iconic beachfront pools. Stay in a celebrity-style villa ensconced in tranquil gardens, offering guests a verdant sanctuary with luxurious amenities, plush bedding and bespoke touches - complete with private hydrotherapy swimming pool and 24-hour butler service. Savour exceptional global cuisine at the nine bars and restaurants onsite, sink your toes into powder-white sand on the beach or plunge into one of six resort pools, including the Balinese-inspired Ocean Pool with swim-up bar.",
-      "location_subheading": "Indonesia",
-      "price": 517,
-      "original_price": 517,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004F3SQAA0",
-      "hero_image": "https://images.luxuryescapes.com/03ctor4jum59ig9sd2t8",
-      "image_two": "https://images.luxuryescapes.com/otgojk2lhjkio1987t1",
-      "image_three": "https://images.luxuryescapes.com/w6cj99619jxb7ovz8vib",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "The Mulia, Nusa Dua, Bali",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Nusa Dua",
       "title": "Nusa Dua Icon: Bestselling Pool Villas with Daily Breakfast, Nightly Dinner & Nightly Free-Flow Cocktails",
       "description": "Opulence is taken to new heights on this Nusa Dua hillside overlooking the Indian Ocean. Redefining paradise year after year, this mega-resort continues to be a celebrity favourite. Experience exceptional cuisine at 12 bars and restaurants, feasting upon everything from Chinese to Mediterranean fare - including arguably Bali's best buffet breakfast. For those seeking some zen, the Mulia Spa has 20 treatment rooms, Finnish saunas, meditative steam rooms and hydrotherapy swimming pools. Little ones will be entertained throughout at the Mulia Kidz Club and Kidz Explorer with extensive program and facilities to include the tennis academy, swimming lessons, yoga and a splash pool with slides are sure to keep everyone entertained for hours. When you're ready to venture beyond the resort, simply step out onto the white-sand beach, or discover Nusa Dua’s vibrant local cafes, historic temples and coastal beauty. Visit the iconic Water Blow to watch waves crash against jagged limestone cliffs, enjoy a range of watersports or head back to the resort to appreciate a spectacular Balinese evening.",
       "location_subheading": "Indonesia",
@@ -205,14 +187,32 @@
       "end_date_utc": "2026-03-04 12:59:00"
     },
     {
+      "vendor_name": "The Mulia, Nusa Dua, Bali",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Nusa Dua",
+      "title": "Iconic Mulia Bali One-Bedroom Private Pool Villas with Six Onsite Swimming Pools & Butler Service",
+      "description": "Discover the height of opulence at this five-star award-winning complex. On the edge of a secluded beach in Bali's southeast, this hedonistic haven delivers decadent dining, state-of-the-art fitness facilities and iconic beachfront pools. Stay in a celebrity-style villa ensconced in tranquil gardens, offering guests a verdant sanctuary with luxurious amenities, plush bedding and bespoke touches - complete with private hydrotherapy swimming pool and 24-hour butler service. Savour exceptional global cuisine at the nine bars and restaurants onsite, sink your toes into powder-white sand on the beach or plunge into one of six resort pools, including the Balinese-inspired Ocean Pool with swim-up bar.",
+      "location_subheading": "Indonesia",
+      "price": 517,
+      "original_price": 517,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004F3SQAA0",
+      "hero_image": "https://images.luxuryescapes.com/03ctor4jum59ig9sd2t8",
+      "image_two": "https://images.luxuryescapes.com/otgojk2lhjkio1987t1",
+      "image_three": "https://images.luxuryescapes.com/w6cj99619jxb7ovz8vib",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Nusa Dua Beach Hotel and Spa",
       "offer_country_name": "Indonesia",
       "location_heading": "Nusa Dua",
       "title": "Palatial Nusa Dua Elegance with Eight Restaurants & Bars, Three Pools & Spa",
       "description": "Embrace the essence of Balinese luxury at this five-star retreat on Bali’s southern peninsula. Designed to resemble a traditional Balinese palace, this beachfront sanctuary is surrounded by lush tropical gardens and offers direct access to the golden sands of Nusa Dua. With three sparkling outdoor pools, a serene spa and a Gecko Kids’ Club, it’s an ideal escape for both couples and families. Choose between five restaurants and three bars, from Mediterranean fare under the bamboo roof at Tamarind to cocktails and light bites at Chess Beachfront Bar. Whether you're lounging at the Pool Bar, indulging in a traditional massage or catching a performance at the open-air theatre, every moment here captures the island’s unique blend of culture, comfort and coastal charm.",
       "location_subheading": "Indonesia",
-      "price": 103,
-      "original_price": 103,
+      "price": 108,
+      "original_price": 108,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JOgkmYAD",
       "hero_image": "https://images.luxuryescapes.com/gh8n05jgsanjdnlj9799",
@@ -366,9 +366,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-09",
+    "last_updated": "2026-02-10",
     "hotel_count": 19,
-    "average_price": 552,
+    "average_price": 553,
     "average_discount": 16
   }
 }
