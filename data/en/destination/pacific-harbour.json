@@ -4,26 +4,8 @@
   "country_code": "FJ",
   "hero_title": "Hotels in Pacific Harbour",
   "description": "Discover the best hotels in Pacific Harbour, Fiji. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/um52x6rjbgtfa0ywmp0c",
+  "hero_image": "https://images.luxuryescapes.com/n6ay7spgbnfzzl5qlu0d",
   "hotels": [
-    {
-      "vendor_name": "The Pearl Resort Fiji",
-      "offer_country_name": "Fiji",
-      "location_heading": "Pacific Harbour",
-      "title": "Fiji Island Bliss with Direct Beach Access, Daily Breakfast, Nightly Dinner & Cocktails",
-      "description": "Head to the golden sun and sands of the tropics, where you'll find this dreamy resort wedged in its little triangle of beachfront bliss, sitting pretty in a pristine corner of the adventure capital of Fiji. Access to one of the island's longest beaches, two inviting lagoon pools and a ring of luxurious palms make this island retreat a bona fide paradise. Soak up the sunset from the bar, gazing over the crystal-clear waters of Beqa Lagoon, or lose yourself to complete bliss during a traditional, relaxing massage at the onsite spa. Take advantage of daily dining with breakfast and dinner included, featuring international delicacies prepared with the finest produce. Stop by the Pool Bar or Deli Restaurant to kick back with a refreshing drink, spend balmy days laid up beachside or venture further inland to see Fiji's unspoiled wilderness.",
-      "location_subheading": "Fiji",
-      "price": 789,
-      "original_price": 1578,
-      "discount_percentage": 50,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000NduOUYAZ",
-      "hero_image": "https://images.luxuryescapes.com/um52x6rjbgtfa0ywmp0c",
-      "image_two": "https://images.luxuryescapes.com/271p2xd11qj5nr8m1jln",
-      "image_three": "https://images.luxuryescapes.com/5e0rk37w95ov8zh05drg",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 5,
-      "end_date_utc": "2026-02-24 12:59:00"
-    },
     {
       "vendor_name": "The Pearl Resort Fiji",
       "offer_country_name": "Fiji",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Pearl Resort Fiji",
+      "offer_country_name": "Fiji",
+      "location_heading": "Pacific Harbour",
+      "title": "Fiji Island Bliss with Direct Beach Access, Daily Breakfast, Nightly Dinner & Cocktails",
+      "description": "Head to the golden sun and sands of the tropics, where you'll find this dreamy resort wedged in its little triangle of beachfront bliss, sitting pretty in a pristine corner of the adventure capital of Fiji. Access to one of the island's longest beaches, two inviting lagoon pools and a ring of luxurious palms make this island retreat a bona fide paradise. Soak up the sunset from the bar, gazing over the crystal-clear waters of Beqa Lagoon, or lose yourself to complete bliss during a traditional, relaxing massage at the onsite spa. Take advantage of daily dining with breakfast and dinner included, featuring international delicacies prepared with the finest produce. Stop by the Pool Bar or Deli Restaurant to kick back with a refreshing drink, spend balmy days laid up beachside or venture further inland to see Fiji's unspoiled wilderness.",
+      "location_subheading": "Fiji",
+      "price": 789,
+      "original_price": 1578,
+      "discount_percentage": 50,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000NduOUYAZ",
+      "hero_image": "https://images.luxuryescapes.com/um52x6rjbgtfa0ywmp0c",
+      "image_two": "https://images.luxuryescapes.com/271p2xd11qj5nr8m1jln",
+      "image_three": "https://images.luxuryescapes.com/5e0rk37w95ov8zh05drg",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-02-24 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-10",
+    "last_updated": "2026-02-11",
     "hotel_count": 2,
     "average_price": 498,
     "average_discount": 25
