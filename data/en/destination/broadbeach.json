@@ -59,24 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Sofitel Gold Coast Broadbeach",
-      "offer_country_name": "Australia",
-      "location_heading": "Broadbeach",
-      "title": "Elevated Sofitel Gold Coast Luxury Moments from Broadbeach with Resort-Style Pool",
-      "description": "Spoil yourself with French-inspired luxury at this iconic Gold Coast hotel, just steps from the golden sands of Broadbeach and set among buzzing restaurants and boutiques. The five-star Sofitel Gold Coast Broadbeach delivers outstanding service and a long list of state-of-the-art facilities including the sophisticated Room81 restaurant, two spectacular rooftop swimming pools - one heated - a stylish bar and plenty more.",
-      "location_subheading": "Australia",
-      "price": 130,
-      "original_price": 130,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000IbsWCAAZ",
-      "hero_image": "https://images.luxuryescapes.com/bund4x0uy9ail943vke",
-      "image_two": "https://images.luxuryescapes.com/ggovd471joeim12pcql3",
-      "image_three": "https://images.luxuryescapes.com/tyelcztoowinuat81yc",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -96,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-11",
-    "hotel_count": 4,
-    "average_price": 170,
+    "last_updated": "2026-02-12",
+    "hotel_count": 3,
+    "average_price": 183,
     "average_discount": 0
   }
 }

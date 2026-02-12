@@ -23,24 +23,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Holiday Inn Sepang Airport, an IHG Hotel",
-      "offer_country_name": "Malaysia",
-      "location_heading": "Sepang",
-      "title": "Malaysia City Break near Kuala Lumpur International Airport & Sepang International Circuit",
-      "description": "Touch down into Kuala Lumpur layover convenience with a stay at Holiday Inn Sepang Airport, an IHG Hotel, perfectly located just moments from the city’s international Grand Prix circuit and Kuala Lumpur International Airport. After days spent exploring the city’s best, return to The Garden Cafe for easy-going local plates, Pitstop for cocktails and craft beers or head to the hotel’s wonderful outdoor pool and laze the afternoon away.",
-      "location_subheading": "Malaysia",
-      "price": 64,
-      "original_price": 64,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ew6U3AAJ",
-      "hero_image": "https://images.luxuryescapes.com/176xyvv89m3gyycumbi7",
-      "image_two": "https://images.luxuryescapes.com/zqr2uutmxswwhmqiya",
-      "image_three": "https://images.luxuryescapes.com/zga34cj5qlul7cmfc8dk",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-11",
-    "hotel_count": 2,
-    "average_price": 86,
+    "last_updated": "2026-02-12",
+    "hotel_count": 1,
+    "average_price": 108,
     "average_discount": 0
   }
 }

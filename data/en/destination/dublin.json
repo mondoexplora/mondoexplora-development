@@ -4,26 +4,8 @@
   "country_code": "IE",
   "hero_title": "Hotels in Dublin",
   "description": "Discover the best hotels in Dublin, Ireland. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/7y4ofoajudathj246u82",
+  "hero_image": "https://images.luxuryescapes.com/m96esyk8gmvpvldfybiq",
   "hotels": [
-    {
-      "vendor_name": "Crowne Plaza Dublin-Blanchardstown",
-      "offer_country_name": "Ireland",
-      "location_heading": "Dublin",
-      "title": "Stylish West Dublin Stay Close to City, Airport & Blanchardstown Centre Shopping",
-      "description": "Experience the perfect combination of heritage and cosmopolitan living in Dublin at Crowne Plaza Dublin-Blanchardstown, an IHG Hotel. Just 15 minutes from the airport and city centre, you'll be within easy reach of the classic cobblestoned streets lined with vintage bookstores and boutiques, and the endless local pubs for a pint of Guinness. Near the hotel is the Blanchardstown Centre, the perfect place to indulge in some retail therapy.",
-      "location_subheading": "Ireland",
-      "price": 101,
-      "original_price": 101,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJZRAA5",
-      "hero_image": "https://images.luxuryescapes.com/7y4ofoajudathj246u82",
-      "image_two": "https://images.luxuryescapes.com/39v7v0fqh9ysreqgw5m",
-      "image_three": "https://images.luxuryescapes.com/045ef4dj5q727esa8jgw",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 01:59:00"
-    },
     {
       "vendor_name": "Crowne Plaza Dublin Airport",
       "offer_country_name": "Ireland",
@@ -96,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-11",
-    "hotel_count": 4,
-    "average_price": 216,
+    "last_updated": "2026-02-12",
+    "hotel_count": 3,
+    "average_price": 254,
     "average_discount": 0
   }
 }

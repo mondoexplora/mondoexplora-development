@@ -10,18 +10,9 @@
       "slug": "new-york",
       "image": "https://images.luxuryescapes.com/4elm1zhlrmb0e26g6vw5",
       "description": "Explore New York with luxury accommodations",
-      "hotel_count": 30,
-      "hotel_deals": 30,
-      "avg_price": 376
-    },
-    {
-      "name": "San Francisco",
-      "slug": "san-francisco",
-      "image": "https://images.luxuryescapes.com/m2svymv8ky5i0gdbe9",
-      "description": "Explore San Francisco with luxury accommodations",
-      "hotel_count": 14,
-      "hotel_deals": 14,
-      "avg_price": 308
+      "hotel_count": 28,
+      "hotel_deals": 28,
+      "avg_price": 384
     },
     {
       "name": "California",
@@ -30,34 +21,43 @@
       "description": "Explore California with luxury accommodations",
       "hotel_count": 13,
       "hotel_deals": 13,
-      "avg_price": 393
+      "avg_price": 392
+    },
+    {
+      "name": "San Francisco",
+      "slug": "san-francisco",
+      "image": "https://images.luxuryescapes.com/m2svymv8ky5i0gdbe9",
+      "description": "Explore San Francisco with luxury accommodations",
+      "hotel_count": 13,
+      "hotel_deals": 13,
+      "avg_price": 306
     },
     {
       "name": "Los Angeles",
       "slug": "los-angeles",
       "image": "https://images.luxuryescapes.com/2gz9hcpe3z0kaefsk6r4",
       "description": "Explore Los Angeles with luxury accommodations",
-      "hotel_count": 12,
-      "hotel_deals": 12,
-      "avg_price": 258
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 200
     },
     {
       "name": "Chicago",
       "slug": "chicago",
       "image": "https://images.luxuryescapes.com/dhgtjm158ttec5fzgy88",
       "description": "Explore Chicago with luxury accommodations",
-      "hotel_count": 9,
-      "hotel_deals": 9,
-      "avg_price": 167
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 163
     },
     {
-      "name": "Hawaii",
-      "slug": "hawaii",
-      "image": "https://images.luxuryescapes.com/4r6a8zqk0gowg30qnsv1",
-      "description": "Explore Hawaii with luxury accommodations",
+      "name": "Boston",
+      "slug": "boston",
+      "image": "https://images.luxuryescapes.com/o9duheng8dwwufubw4u3",
+      "description": "Explore Boston with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 868
+      "avg_price": 266
     }
   ],
   "seo": {

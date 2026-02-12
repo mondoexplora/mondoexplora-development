@@ -1,0 +1,34 @@
+{
+  "name": "Samoa",
+  "code": "WS",
+  "hero_title": "Samoa Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Samoa.",
+  "hero_image": "https://images.luxuryescapes.com/r9egp37b2auo0l1ttkso",
+  "popular_destinations": [
+    {
+      "name": "Apia",
+      "slug": "apia",
+      "image": "https://images.luxuryescapes.com/r9egp37b2auo0l1ttkso",
+      "description": "Explore Apia with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 4929
+    }
+  ],
+  "seo": {
+    "title": "Samoa Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Samoa with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "samoa hotels",
+      "samoa travel",
+      "samoa luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/samoa",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/samoa",
+      "es": "https://mondoexplora.com/es/country/samoa",
+      "fr": "https://mondoexplora.com/fr/country/samoa",
+      "it": "https://mondoexplora.com/it/country/samoa"
+    }
+  }
+}

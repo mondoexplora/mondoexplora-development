@@ -3,34 +3,34 @@
   "code": "MY",
   "hero_title": "Malaysia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Malaysia.",
-  "hero_image": "https://images.luxuryescapes.com/fik1padox32ma9vkvbm",
+  "hero_image": "https://images.luxuryescapes.com/8iqwe3xexvxgcouhw4j",
   "popular_destinations": [
     {
       "name": "Kuala Lumpur",
       "slug": "kuala-lumpur",
-      "image": "https://images.luxuryescapes.com/fik1padox32ma9vkvbm",
+      "image": "https://images.luxuryescapes.com/8iqwe3xexvxgcouhw4j",
       "description": "Explore Kuala Lumpur with luxury accommodations",
-      "hotel_count": 17,
-      "hotel_deals": 17,
-      "avg_price": 118
+      "hotel_count": 15,
+      "hotel_deals": 15,
+      "avg_price": 124
     },
     {
       "name": "Penang",
       "slug": "penang",
       "image": "https://images.luxuryescapes.com/hbdbkajlsg5015kbo2",
       "description": "Explore Penang with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 99
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 106
     },
     {
       "name": "Kota Kinabalu",
       "slug": "kota-kinabalu",
       "image": "https://images.luxuryescapes.com/fhfxxe19thwkq91vq9z4",
       "description": "Explore Kota Kinabalu with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 332
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 193
     },
     {
       "name": "Langkawi",
@@ -42,15 +42,6 @@
       "avg_price": 183
     },
     {
-      "name": "Desaru",
-      "slug": "desaru",
-      "image": "https://images.luxuryescapes.com/hw6cjna4a86gvlfl22",
-      "description": "Explore Desaru with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 628
-    },
-    {
       "name": "Kuching",
       "slug": "kuching",
       "image": "https://images.luxuryescapes.com/j9aoy7us0us1tp4woo4j",
@@ -58,6 +49,15 @@
       "hotel_count": 2,
       "hotel_deals": 2,
       "avg_price": 107
+    },
+    {
+      "name": "Desaru",
+      "slug": "desaru",
+      "image": "https://images.luxuryescapes.com/83s1bf0dnod5c4hpcyl",
+      "description": "Explore Desaru with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 302
     }
   ],
   "seo": {

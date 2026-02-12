@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Parramatta",
   "description": "Discover the best hotels in Parramatta, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ook93dkpkrjty17i7724",
+  "hero_image": "https://images.luxuryescapes.com/2q52pfuy1mvvzws6x9",
   "hotels": [
-    {
-      "vendor_name": "Mantra Parramatta",
-      "offer_country_name": "Australia",
-      "location_heading": "Parramatta",
-      "title": "Stylish Parramatta CBD Escape with Onsite Restaurant & Outdoor Pool",
-      "description": "Discover the cosmopolitan charm of Sydney's western suburbs with a stay at this centrally located residence. This contemporary retreat is perfectly positioned for exploring Parramatta's vibrant dining scene, with Church Street's 'Eat Street' just a short stroll away, and featuring the onsite Social House Dining and Bar. Delve into the city's rich history at the nearby Old Government House or wander through the tranquil Parramatta Park. At the hotel, enjoy a refreshing dip in the pool, work up a sweat in the fitness centre, or laze back in the outdoor spa. A convenient stop for business and leisure travellers.",
-      "location_subheading": "Australia",
-      "price": 171,
-      "original_price": 171,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JReuBAAT",
-      "hero_image": "https://images.luxuryescapes.com/ook93dkpkrjty17i7724",
-      "image_two": "https://images.luxuryescapes.com/24ak5ez07sawbpg2gl0p",
-      "image_three": "https://images.luxuryescapes.com/l55qv02omt71gtygc7b",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Novotel Sydney Parramatta",
       "offer_country_name": "Australia",
@@ -78,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-11",
-    "hotel_count": 3,
-    "average_price": 143,
+    "last_updated": "2026-02-12",
+    "hotel_count": 2,
+    "average_price": 130,
     "average_discount": 0
   }
 }

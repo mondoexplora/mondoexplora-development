@@ -4,26 +4,8 @@
   "country_code": "US",
   "hero_title": "Hotels in Honolulu",
   "description": "Discover the best hotels in Honolulu, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/0alrcwvrw6lnf008bmwk",
+  "hero_image": "https://images.luxuryescapes.com/a32bcsio5l40t8f0iwi",
   "hotels": [
-    {
-      "vendor_name": "Ka La'i Waikiki Beach, LXR Hotels & Resorts",
-      "offer_country_name": "United States",
-      "location_heading": "Honolulu",
-      "title": "Hawaii Luxury Apartment-Style Retreat Steps from Waikiki Beach with Daily Breakfast & Infinity Pool",
-      "description": "This Waikiki hideaway sits just moments from the beckoning shoreline, with sun-soaked sands and gentle Pacific swells within easy reach. Sprawl out in residential-style rooms and suites where full kitchens and floor-to-ceiling views make you feel more local than tourist. Diamond Head's iconic silhouette looms three miles away, while Luxury Row's glittering boutiques await nearby. Between the infinity pool's liquid edge and the resort's laidback rhythm, leaving feels optional. Bloom Cafe & Restaurant's garden-wrapped tables serve up island-grown everything from dawn till dark, while poolside service offers refreshing drinks and tasty snacks. To fully unwind, let your worries melt away with indulgent in-room spa treatments, or order a romantic meal straight to your suite to enjoy on your private balcony. Step outside and Waikiki Beach becomes your personal playground - surfboards waiting, sunsets guaranteed and that infectious beachfront buzz humming all around. Hunt down hidden gem bars and Honolulu's best eats, snorkel Hanauma Bay's crystal waters, catch live music at sunset as the sun melts into the Pacific, or simply wander wherever the aloha spirit leads.",
-      "location_subheading": "United States",
-      "price": 1539,
-      "original_price": 2138,
-      "discount_percentage": 28,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000L26tFYAR",
-      "hero_image": "https://images.luxuryescapes.com/0alrcwvrw6lnf008bmwk",
-      "image_two": "https://images.luxuryescapes.com/13ry0o7vc8m6gce4e1wm",
-      "image_three": "https://images.luxuryescapes.com/n9yvxzemz1s8y33f8ya",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-06-06 13:59:00"
-    },
     {
       "vendor_name": "Outrigger Waikiki Beachcomber Hotel",
       "offer_country_name": "United States",
@@ -31,8 +13,8 @@
       "title": "Hawaii Beachcomber by OUTRIGGER Escape Overlooking Waikiki Beach",
       "description": "Steps from one of the world's most famous shorelines, you'll find Hawaii's first and only craft hotel, brought to you by the iconic OUTRIGGER Hotels & Resorts. Placing you just moments from Waikiki Beach and the palm-lined Kalakaua Avenue, Honolulu's best is right on your doorstep. Curated by local artists and reflecting the island's natural landscapes and rich culture, the hotel's interiors feature surf photography and indigenous art that embody the laidback Hawaiian lifestyle. You'll be spoiled with the luxe facilities onsite, including a glorious pool, sun-drenched deck and its very own OUTRIGGER Theater, showcasing acrobatics and soul-stirring music. Begin each day with artisanal coffee and Acai bowls at Hawaiian Aroma Caffé, which doubles as a cocktail bar, and sample one of the 35+ craft beers on tap at Maui Brewing Co. - Hawaii’s largest craft brewery.",
       "location_subheading": "United States",
-      "price": 228,
-      "original_price": 228,
+      "price": 227,
+      "original_price": 227,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004SYjXAAW",
       "hero_image": "https://images.luxuryescapes.com/a32bcsio5l40t8f0iwi",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-11",
-    "hotel_count": 2,
-    "average_price": 884,
-    "average_discount": 14
+    "last_updated": "2026-02-12",
+    "hotel_count": 1,
+    "average_price": 227,
+    "average_discount": 0
   }
 }

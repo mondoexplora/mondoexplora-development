@@ -43,24 +43,6 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "Hotel Indigo Manchester - Victoria Station",
-      "offer_country_name": "United Kingdom",
-      "location_heading": "Manchester",
-      "title": "Heritage Manchester City Break Near Bohemian Northern Quarter",
-      "description": "Discover Victorian-era splendour with signature North England verve at Hotel Indigo Manchester - Victoria Station, an IHG Hotel. Positioned just a minute’s walk from Manchester Victoria train station at the gateway to the city’s bohemian Northern Quarter, this red-bricked historic tea warehouse turned boutique hotel is the perfect place to discover Manchester’s best. If you want to stay in, head to the Mamucium Restaurant & Bar for locally-sourced British fare, classic cocktails and quirky industrial-chic decor.",
-      "location_subheading": "United Kingdom",
-      "price": 90,
-      "original_price": 90,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Aa9KVAAZ",
-      "hero_image": "https://images.luxuryescapes.com/42j8t7s42cxly68auy3",
-      "image_two": "https://images.luxuryescapes.com/zd52nh0nhb8l0c0gomdn",
-      "image_three": "https://images.luxuryescapes.com/s0hmn23vynu1gywqaeui",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Kimpton Clocktower Hotel",
       "offer_country_name": "United Kingdom",
       "location_heading": "Manchester",
@@ -114,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-11",
-    "hotel_count": 5,
-    "average_price": 108,
+    "last_updated": "2026-02-12",
+    "hotel_count": 4,
+    "average_price": 112,
     "average_discount": 2
   }
 }

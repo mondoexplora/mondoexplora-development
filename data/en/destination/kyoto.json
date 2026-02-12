@@ -4,26 +4,8 @@
   "country_code": "JP",
   "hero_title": "Hotels in Kyoto",
   "description": "Discover the best hotels in Kyoto, Japan. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
+  "hero_image": "https://images.luxuryescapes.com/yhngnue3sehso7sbmtec",
   "hotels": [
-    {
-      "vendor_name": "ANA Crowne Plaza Kyoto",
-      "offer_country_name": "Japan",
-      "location_heading": "Kyoto",
-      "title": "Kyoto Serene Urban Stay near UNESCO World Heritage-listed Nijo Castle Site",
-      "description": "Near the majestic Nijo Castle UNESCO heritage site, ANA Crowne Plaza Kyoto, an IHG Hotel, is a tranquil urban escape with stunning views of greenery and seasonal beauty. Take a calming walk through the Nijo Castle grounds while admiring verdant gardens and imposing stone walls. Dine at the multiple onsite restaurants, offering gastronomic greatness. As the day ends, retire to a tranquil guest room that combines refined minimalism with modern comfort for a sound slumber.",
-      "location_subheading": "Japan",
-      "price": 114,
-      "original_price": 114,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CPub3AAD",
-      "hero_image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
-      "image_two": "https://images.luxuryescapes.com/2qav90lvuxsibkxwtyv",
-      "image_three": "https://images.luxuryescapes.com/njvr0nofof8xh1zv8pme",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Fauchon Hotel Kyoto",
       "offer_country_name": "Japan",
@@ -49,8 +31,8 @@
       "title": "Tranquil Mercure Kyoto Escape near Amanohashidate with Onsen Lounge",
       "description": "Embrace pure bliss and discover the ancient beauty of northern Kyoto with a sophisticated stay at this Mercure sanctuary, tucked away in idyllic Miyazu. Set along the shimmering shores of Miyazu Bay, the resort is mere moments from the stunning Amanohashidate Kasamatsu Park - regarded as one of Japan's best viewpoints. Spend your days taking a dip in the seafront, seasonal pool, and relax with traditional onsen experiences, including the hotel's open-air hot spring rock bath. When hunger strikes, savour the local flavours of Kyoto at the onsite restaurant. Venture out to explore the picturesque Wakasa Bay coastline, visit nearby ancient shrines and for something different, make a stop at the unique Red Brick Museum.",
       "location_subheading": "Japan",
-      "price": 51,
-      "original_price": 51,
+      "price": 50,
+      "original_price": 50,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP1xYAF",
       "hero_image": "https://images.luxuryescapes.com/4msmsu9iyusx54j9wi5",
@@ -67,8 +49,8 @@
       "title": "Modern Kyoto Stay Near Railway Station with Italian Restaurant & Bar",
       "description": "Discover the ancient charm of Kyoto with a stay at this beautifully designed hotel, conveniently located just minutes from Kyoto Railway Station. This modern retreat is the perfect base to explore the city's countless temples, shrines and teahouses. After a day of exploration, savour the authentic flavours of Italy with a uniquely Japanese twist at onsite Trattoria M Kyoto. Take advantage of Mercure Kyoto Station's central location and immerse yourself in the city's rich culture with a visit to Kyoto National Museum, Fushimi Inari Shrine or Nishiki Market. When it's time to rest, your elegantly appointed room awaits, offering all the modern comforts you might need for a relaxing stay.",
       "location_subheading": "Japan",
-      "price": 70,
-      "original_price": 70,
+      "price": 74,
+      "original_price": 74,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002J2xgIAC",
       "hero_image": "https://images.luxuryescapes.com/h62sljuuva9ik6mpcgi",
@@ -114,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-11",
-    "hotel_count": 5,
-    "average_price": 253,
+    "last_updated": "2026-02-12",
+    "hotel_count": 4,
+    "average_price": 288,
     "average_discount": 0
   }
 }

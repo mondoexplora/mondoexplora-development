@@ -3,26 +3,8 @@
   "code": "SA",
   "hero_title": "Saudi Arabia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Saudi Arabia.",
-  "hero_image": "https://images.luxuryescapes.com/w5062zm2fxmp06emxpjf",
+  "hero_image": "https://images.luxuryescapes.com/r7r38ka4m6nspwqc0da",
   "popular_destinations": [
-    {
-      "name": "Makkah",
-      "slug": "makkah",
-      "image": "https://images.luxuryescapes.com/w5062zm2fxmp06emxpjf",
-      "description": "Explore Makkah with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 164
-    },
-    {
-      "name": "Riyadh",
-      "slug": "riyadh",
-      "image": "https://images.luxuryescapes.com/kau8vsbgooneor10rqch",
-      "description": "Explore Riyadh with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 223
-    },
     {
       "name": "Al Khobar",
       "slug": "al-khobar",
@@ -30,25 +12,25 @@
       "description": "Explore Al Khobar with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 121
+      "avg_price": 120
+    },
+    {
+      "name": "Riyadh",
+      "slug": "riyadh",
+      "image": "https://images.luxuryescapes.com/kau8vsbgooneor10rqch",
+      "description": "Explore Riyadh with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 190
     },
     {
       "name": "Jeddah",
       "slug": "jeddah",
       "image": "https://images.luxuryescapes.com/onztyu5fq4lhb3uas4r",
       "description": "Explore Jeddah with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 115
-    },
-    {
-      "name": "Medina",
-      "slug": "medina",
-      "image": "https://images.luxuryescapes.com/1d4wu1coxgp1gastfeaw",
-      "description": "Explore Medina with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 159
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 103
     },
     {
       "name": "Madinah",
@@ -57,7 +39,25 @@
       "description": "Explore Madinah with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 197
+      "avg_price": 196
+    },
+    {
+      "name": "Mecca",
+      "slug": "mecca",
+      "image": "https://images.luxuryescapes.com/86lqgc6lsw2rbudxnmg",
+      "description": "Explore Mecca with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 28
+    },
+    {
+      "name": "Madinah al Mounawarah",
+      "slug": "madinah-al-mounawarah",
+      "image": "https://images.luxuryescapes.com/npwkonu5pnz43tpr3sw",
+      "description": "Explore Madinah al Mounawarah with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 176
     }
   ],
   "seo": {

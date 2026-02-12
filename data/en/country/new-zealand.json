@@ -10,27 +10,18 @@
       "slug": "auckland",
       "image": "https://images.luxuryescapes.com/pmyz74jnnr9qagosiv4a",
       "description": "Explore Auckland with luxury accommodations",
-      "hotel_count": 21,
-      "hotel_deals": 21,
-      "avg_price": 129
+      "hotel_count": 18,
+      "hotel_deals": 18,
+      "avg_price": 136
     },
     {
       "name": "Queenstown",
       "slug": "queenstown",
       "image": "https://images.luxuryescapes.com/xe1ph65sf3ama1xbt5hmd",
       "description": "Explore Queenstown with luxury accommodations",
-      "hotel_count": 16,
-      "hotel_deals": 16,
-      "avg_price": 575
-    },
-    {
-      "name": "Wellington",
-      "slug": "wellington",
-      "image": "https://images.luxuryescapes.com/8ofusp0qqc8qj7asix9",
-      "description": "Explore Wellington with luxury accommodations",
-      "hotel_count": 8,
-      "hotel_deals": 8,
-      "avg_price": 727
+      "hotel_count": 13,
+      "hotel_deals": 13,
+      "avg_price": 564
     },
     {
       "name": "Christchurch",
@@ -42,13 +33,13 @@
       "avg_price": 125
     },
     {
-      "name": "Rotorua",
-      "slug": "rotorua",
-      "image": "https://images.luxuryescapes.com/d72ap53wxhbs9ptl5tms",
-      "description": "Explore Rotorua with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 117
+      "name": "Wellington",
+      "slug": "wellington",
+      "image": "https://images.luxuryescapes.com/8ofusp0qqc8qj7asix9",
+      "description": "Explore Wellington with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 110
     },
     {
       "name": "Napier",
@@ -58,6 +49,15 @@
       "hotel_count": 2,
       "hotel_deals": 2,
       "avg_price": 172
+    },
+    {
+      "name": "Oamaru",
+      "slug": "oamaru",
+      "image": "https://images.luxuryescapes.com/gxd39ylirjlb3q597yk",
+      "description": "Explore Oamaru with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 339
     }
   ],
   "seo": {

@@ -10,54 +10,54 @@
       "slug": "tokyo",
       "image": "https://images.luxuryescapes.com/kiynmoi9772c9xpopp3p",
       "description": "Explore Tokyo with luxury accommodations",
-      "hotel_count": 14,
-      "hotel_deals": 14,
-      "avg_price": 382
+      "hotel_count": 13,
+      "hotel_deals": 13,
+      "avg_price": 385
     },
     {
       "name": "Osaka",
       "slug": "osaka",
       "image": "https://images.luxuryescapes.com/w6yajqubr4hmr9rsyhpu",
       "description": "Explore Osaka with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 253
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 278
     },
     {
       "name": "Kyoto",
       "slug": "kyoto",
-      "image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
+      "image": "https://images.luxuryescapes.com/yhngnue3sehso7sbmtec",
       "description": "Explore Kyoto with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 253
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 288
     },
     {
       "name": "Sapporo",
       "slug": "sapporo",
       "image": "https://images.luxuryescapes.com/bo6udncydom5cvvsjnhq",
       "description": "Explore Sapporo with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 68
-    },
-    {
-      "name": "Okinawa",
-      "slug": "okinawa",
-      "image": "https://images.luxuryescapes.com/ab5lqi7ybp7sp19k0uih",
-      "description": "Explore Okinawa with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 84
+      "avg_price": 50
     },
     {
-      "name": "Hachimantai-shi",
-      "slug": "hachimantai-shi",
-      "image": "https://images.luxuryescapes.com/1j7ubkt2kloaxow0q9d",
-      "description": "Explore Hachimantai-shi with luxury accommodations",
+      "name": "Yokohama",
+      "slug": "yokohama",
+      "image": "https://images.luxuryescapes.com/vd8x5bj68ln89rasyf1n",
+      "description": "Explore Yokohama with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 167
+      "avg_price": 155
+    },
+    {
+      "name": "Nara",
+      "slug": "nara",
+      "image": "https://images.luxuryescapes.com/u71lch9u0qgu9jmtxxjm",
+      "description": "Explore Nara with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 66
     }
   ],
   "seo": {
