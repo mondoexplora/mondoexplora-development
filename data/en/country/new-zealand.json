@@ -3,34 +3,25 @@
   "code": "NZ",
   "hero_title": "New Zealand Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in New Zealand.",
-  "hero_image": "https://images.luxuryescapes.com/pmyz74jnnr9qagosiv4a",
+  "hero_image": "https://images.luxuryescapes.com/1bs29g5wyy8vfsuqch",
   "popular_destinations": [
     {
       "name": "Auckland",
       "slug": "auckland",
-      "image": "https://images.luxuryescapes.com/pmyz74jnnr9qagosiv4a",
+      "image": "https://images.luxuryescapes.com/1bs29g5wyy8vfsuqch",
       "description": "Explore Auckland with luxury accommodations",
-      "hotel_count": 18,
-      "hotel_deals": 18,
-      "avg_price": 136
+      "hotel_count": 20,
+      "hotel_deals": 20,
+      "avg_price": 134
     },
     {
       "name": "Queenstown",
       "slug": "queenstown",
       "image": "https://images.luxuryescapes.com/xe1ph65sf3ama1xbt5hmd",
       "description": "Explore Queenstown with luxury accommodations",
-      "hotel_count": 13,
-      "hotel_deals": 13,
-      "avg_price": 564
-    },
-    {
-      "name": "Christchurch",
-      "slug": "christchurch",
-      "image": "https://images.luxuryescapes.com/od5xt9s0l5cuisblm6",
-      "description": "Explore Christchurch with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 125
+      "hotel_count": 11,
+      "hotel_deals": 11,
+      "avg_price": 638
     },
     {
       "name": "Wellington",
@@ -39,25 +30,34 @@
       "description": "Explore Wellington with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 110
+      "avg_price": 103
+    },
+    {
+      "name": "Christchurch",
+      "slug": "christchurch",
+      "image": "https://images.luxuryescapes.com/od5xt9s0l5cuisblm6",
+      "description": "Explore Christchurch with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 126
+    },
+    {
+      "name": "Rotorua",
+      "slug": "rotorua",
+      "image": "https://images.luxuryescapes.com/d72ap53wxhbs9ptl5tms",
+      "description": "Explore Rotorua with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 116
     },
     {
       "name": "Napier",
       "slug": "napier",
-      "image": "https://images.luxuryescapes.com/i80qqyq5d1i0s2u2gt8",
+      "image": "https://images.luxuryescapes.com/99inb886zcn8su97unw7",
       "description": "Explore Napier with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
       "avg_price": 172
-    },
-    {
-      "name": "Oamaru",
-      "slug": "oamaru",
-      "image": "https://images.luxuryescapes.com/gxd39ylirjlb3q597yk",
-      "description": "Explore Oamaru with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 339
     }
   ],
   "seo": {

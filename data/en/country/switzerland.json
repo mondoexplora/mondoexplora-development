@@ -3,16 +3,25 @@
   "code": "CH",
   "hero_title": "Switzerland Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Switzerland.",
-  "hero_image": "https://images.luxuryescapes.com/1tbouyf877b3391bloan",
+  "hero_image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
   "popular_destinations": [
     {
       "name": "Geneva",
       "slug": "geneva",
-      "image": "https://images.luxuryescapes.com/1tbouyf877b3391bloan",
+      "image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
       "description": "Explore Geneva with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 584
+      "avg_price": 461
+    },
+    {
+      "name": "Zurich",
+      "slug": "zurich",
+      "image": "https://images.luxuryescapes.com/avlbg2ent9eqezmxvv6nh",
+      "description": "Explore Zurich with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 165
     },
     {
       "name": "Crans-Montana",
@@ -21,7 +30,7 @@
       "description": "Explore Crans-Montana with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 3827
+      "avg_price": 3809
     },
     {
       "name": "Bern",
@@ -49,15 +58,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 423
-    },
-    {
-      "name": "Engelberg",
-      "slug": "engelberg",
-      "image": "https://images.luxuryescapes.com/l57tybstwrwgd6w4dw9j",
-      "description": "Explore Engelberg with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 602
     }
   ],
   "seo": {

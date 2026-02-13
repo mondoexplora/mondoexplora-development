@@ -25,6 +25,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "InterContinental Fiji Golf Resort & Spa",
+      "offer_country_name": "Fiji",
+      "location_heading": "Viti Levu",
+      "title": "Tropical Fiji Beachfront Oasis with Onsite Dining, Three Pools & Championship Golf Course",
+      "description": "Set on 35 acres of lush tropical gardens and white sands, InterContinental Fiji Golf Resort & Spa by IHG graces the shores of Natadola Beach, offering panoramic views across the Pacific Ocean and a dazzling turquoise lagoon. Blending authentic Fijian design with contemporary luxury, enjoy dips in three outdoor pools, relax with traditional therapies at Spa InterContinental, or perfect your swing on the 18-hole championship course, where fairways meet dramatic beachfront vistas. Indulge in decadent seafood at one of the resort’s acclaimed restaurants. As evening falls, Kama Lounge serves locally inspired cocktails accompanied by live music and captivating South Pacific fire dancing. The resort’s tropical gardens are alive with native flora and the gentle sounds of the ocean",
+      "location_subheading": "Fiji",
+      "price": 188,
+      "original_price": 188,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009BVPoAAO",
+      "hero_image": "https://images.luxuryescapes.com/9r3bew92ytsx27vzvpkx",
+      "image_two": "https://images.luxuryescapes.com/5y0d96k1noqx7na8uep",
+      "image_three": "https://images.luxuryescapes.com/wxtchtobpjcnyja2q5v",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Outrigger Fiji Beach Resort",
       "offer_country_name": "Fiji",
       "location_heading": "Viti Levu",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-12",
-    "hotel_count": 2,
-    "average_price": 321,
-    "average_discount": 6
+    "last_updated": "2026-02-13",
+    "hotel_count": 3,
+    "average_price": 276,
+    "average_discount": 4
   }
 }

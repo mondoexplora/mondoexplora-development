@@ -4,26 +4,8 @@
   "country_code": "PT",
   "hero_title": "Hotels in Lisbon",
   "description": "Discover the best hotels in Lisbon, Portugal. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
+  "hero_image": "https://images.luxuryescapes.com/5yckyvfavi9x20wjcmm",
   "hotels": [
-    {
-      "vendor_name": "Convent Square Hotel, Vignette Collection",
-      "offer_country_name": "Portugal",
-      "location_heading": "Lisbon",
-      "title": "Opulent Lisbon Stay in 13th Century Convent with Iconic Restaurant & Bar",
-      "description": "Find refined elegance within the walls of a 13th-century Dominican Convent atConvent Square Lisbon, Vignette Collection, an IHG Hotel. From savoring delectable Portuguese cuisine at Capítulo Restaurant to embracing Portugal's stunning architecture in the emblematic cloister, every moment is an invitation to elevate your senses. Unwind in the sauna or rejuvenate in the heated plunge pool while gazing at Lisbon's breathtaking church top views.",
-      "location_subheading": "Portugal",
-      "price": 174,
-      "original_price": 174,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNR7rAAH",
-      "hero_image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
-      "image_two": "https://images.luxuryescapes.com/36g2a0oynstczadxvqgm",
-      "image_three": "https://images.luxuryescapes.com/4kb396xsk369lx0lw5o",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Corinthia Lisbon",
       "offer_country_name": "Portugal",
@@ -79,24 +61,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "InterContinental Lisbon",
-      "offer_country_name": "Portugal",
-      "location_heading": "Lisbon",
-      "title": "Five-Star Lisbon Stay with Old Town & Tagus River Views",
-      "description": "Five-star comfort meets contemporary design and breathtaking vistas at InterContinental Lisbon, an IHG Hotel. Experience culinary masterpieces at Akla Restaurant, savour Portuguese wine at Uptown Bar or gaze out over the stunning Lisbon skyline from the comfort of a private terrace. Indulge in a spot of shopping at the boutiques on the famous Avenida da Liberdade, admire verdant views of Eduardo VII Park or discover the local area's historic monuments and monasteries.",
-      "location_subheading": "Portugal",
-      "price": 178,
-      "original_price": 178,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNEplAAH",
-      "hero_image": "https://images.luxuryescapes.com/h025ptpkjj00j9k2td",
-      "image_two": "https://images.luxuryescapes.com/cudswuddhk04ayakpg8",
-      "image_three": "https://images.luxuryescapes.com/ggmf8q1eotnia6rwsvno",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 00:59:00"
-    },
-    {
       "vendor_name": "Pousada de Lisboa",
       "offer_country_name": "Portugal",
       "location_heading": "Lisbon",
@@ -121,8 +85,8 @@
       "title": "Five-Star Heritage Palace Escape in the Heart of Lisbon with Rooftop Pool",
       "description": "Experience the history and magic of a beautifully restored 16th-century palace at The One Palácio de Anunciada, one of Lisbon’s finest five-star hotels. Nestled in a narrow, cobblestoned street, just one back from the city’s main thoroughfare, Avenida de Liberdade, this luxury lodging is perfectly positioned for exploring the best of the city’s laneways and lookouts. Wander down the Avenida to find the iconic Praça dos Restauradores, before stopping at one of the many cafés or bars in the district for a traditional pastel de nata snack. You'll find a garden paradise at The One Palácio de Anunciada, with expansive French-style greenery to explore. Spend sunny days by the central fountain and century-old dragon tree in the inner courtyard, or admire the full grounds from your panoramic position in the rooftop swimming pool. Settle in for an afternoon of relaxation at the Despacio Spa, where you’ll find a Finnish sauna, plunge pool and treatments that range from essential oil massages to diamond facials. After a day of exploring Lisbon, engage all your senses at Condes de Ericeira Restaurant or sample the Portuguese wine or curated collection of cocktails at O Jardim Wine Bar, both found in the palace's meticulously restored noble rooms.",
       "location_subheading": "Portugal",
-      "price": 286,
-      "original_price": 286,
+      "price": 296,
+      "original_price": 296,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003HfG1AAK",
       "hero_image": "https://images.luxuryescapes.com/3zaz3mk7xq8cp4suvg5a",
@@ -131,6 +95,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Caparica Lisbon",
+      "offer_country_name": "Portugal",
+      "location_heading": "Lisbon",
+      "title": "Lisbon Ocean-View Luxury with a Nine-Hole Golf Course",
+      "description": "Stay a stone's throw from the Atlantic Ocean at Crowne Plaza Caparica Lisbon, an IHG Hotel, a modern hideaway located along the pristine 26-kilometre stretch of golden shoreline in Costa da Caparica. Spend sunny days basking by the outdoor swimming pool, practice your swing at the nine-hole golf course, or opt to treat yourself to a massage, body wrap or steam bath at the spa. For all-day dining, Raimundo is your go-to for authentic Portuguese cuisine and tasty regional morsels.",
+      "location_subheading": "Portugal",
+      "price": 69,
+      "original_price": 69,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJYuAAP",
+      "hero_image": "https://images.luxuryescapes.com/y036kixcsfx0r29o4azr",
+      "image_two": "https://images.luxuryescapes.com/0noh6vjx8z47p012brh",
+      "image_three": "https://images.luxuryescapes.com/vk3v7pc9kno5cs1klb8",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
     }
   ],
   "seo": {
@@ -150,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-12",
-    "hotel_count": 7,
-    "average_price": 224,
+    "last_updated": "2026-02-13",
+    "hotel_count": 6,
+    "average_price": 216,
     "average_discount": 0
   }
 }

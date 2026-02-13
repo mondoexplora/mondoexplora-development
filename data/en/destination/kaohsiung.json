@@ -4,8 +4,26 @@
   "country_code": "TW",
   "hero_title": "Hotels in Kaohsiung",
   "description": "Discover the best hotels in Kaohsiung, Taiwan (Province of China). Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/867pimn3rsgnk89zvyr",
+  "hero_image": "https://images.luxuryescapes.com/f5uimy0ynotv9esxb4ge",
   "hotels": [
+    {
+      "vendor_name": "Hotel Indigo Kaohsiung Central Park",
+      "offer_country_name": "Taiwan (Province of China)",
+      "location_heading": "Kaohsiung",
+      "title": "Modern Taiwan Retreat in the Heart of Kaohsiung Downtown District",
+      "description": "Escape to the peaceful country of Taiwan, famous for its generosity and kindness with a modern stay at Hotel Indigo Kaohsiung Central Park, an IHG Hotel - overlooking the lush city park. Explore the majestic temples and learn the country’s history with local tours and visits to the museums, before returning to refuel at Wok on the Park restaurant , or enjoying a refreshing drink at Pier No. 1 rooftop bar.",
+      "location_subheading": "Taiwan (Province of China)",
+      "price": 91,
+      "original_price": 91,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CuiRcAAJ",
+      "hero_image": "https://images.luxuryescapes.com/f5uimy0ynotv9esxb4ge",
+      "image_two": "https://images.luxuryescapes.com/wsqjbtzr0oddsk2mruzc",
+      "image_three": "https://images.luxuryescapes.com/fbkc8v4m3gqu4caz4mf",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
     {
       "vendor_name": "InterContinental Kaohsiung",
       "offer_country_name": "Taiwan (Province of China)",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-12",
-    "hotel_count": 1,
-    "average_price": 167,
+    "last_updated": "2026-02-13",
+    "hotel_count": 2,
+    "average_price": 129,
     "average_discount": 0
   }
 }

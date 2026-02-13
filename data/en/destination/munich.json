@@ -43,24 +43,6 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "Mövenpick Hotel München Airport",
-      "offer_country_name": "Germany",
-      "location_heading": "Munich",
-      "title": "Elegant Munich Mövenpick City Break with Two Restaurants near Airport & World's Largest Thermal Spa",
-      "description": "Settle in for Bavarian charm with a stay at the sophisticated Mövenpick München Airport, fantastically positioned in leafy Hallbergmoos, moments from Munich International Airport. With sleek, well-appointed rooms and signature Swiss hospitality, this hotel is the perfect launchpad for your city adventures. Spend your days exploring Munich’s buzzing city centre, catching a match at Allianz Arena, or indulging in pure relaxation at the nearby Therme Erding - the world's largest thermal spa. Later, return to your hotel to savour Bavarian and international dishes in the show kitchen or sip a drink under the trees in the seasonal beer garden.",
-      "location_subheading": "Germany",
-      "price": 75,
-      "original_price": 75,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP9jYAF",
-      "hero_image": "https://images.luxuryescapes.com/n0usbyrarln2c6kxy9ls",
-      "image_two": "https://images.luxuryescapes.com/wb14jlqq9bl7ngp0yw75",
-      "image_three": "https://images.luxuryescapes.com/sqd0b330yatxrm70nfmx",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Sofitel Munich Bayerpost",
       "offer_country_name": "Germany",
       "location_heading": "Munich",
@@ -96,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-12",
-    "hotel_count": 4,
-    "average_price": 263,
+    "last_updated": "2026-02-13",
+    "hotel_count": 3,
+    "average_price": 326,
     "average_discount": 0
   }
 }

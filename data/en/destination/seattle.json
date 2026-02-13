@@ -4,44 +4,8 @@
   "country_code": "US",
   "hero_title": "Hotels in Seattle",
   "description": "Discover the best hotels in Seattle, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/9su69driq974no4msin",
+  "hero_image": "https://images.luxuryescapes.com/ro88tnzj1bk32ae21a7c",
   "hotels": [
-    {
-      "vendor_name": "Crowne Plaza Seattle-Downtown",
-      "offer_country_name": "United States",
-      "location_heading": "Seattle",
-      "title": "Sleek Seattle City Break Overlooking Iconic Space Needle with Modern Bar & Grille",
-      "description": "Enjoy the laidlack Pacific Northwest living while connecting to the city's vibrance with a sojourn at Crowne Plaza Seattle - Downtown, an IHG Hotel. This urban sanctuary puts you in the perfect position to explore popular landmarks, from the Space Needle to Pike Place Market. Savour regional flavours at Regatta Bar and Grille, open daily for breakfast and dinner, or discover the city's thriving food scene, full of fresh seafood and farm-to-table recipes.",
-      "location_subheading": "United States",
-      "price": 121,
-      "original_price": 121,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GxYXFAA3",
-      "hero_image": "https://images.luxuryescapes.com/9su69driq974no4msin",
-      "image_two": "https://images.luxuryescapes.com/wrr8emlt9go328kd9p24",
-      "image_three": "https://images.luxuryescapes.com/c6njgec25sh8iupvt81d",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Fairmont Olympic Hotel",
-      "offer_country_name": "United States",
-      "location_heading": "Seattle",
-      "title": "Landmark Downtown Seattle Escape with Onsite Dining, Pool & Spa",
-      "description": "Set in the heart of Downtown Seattle, Fairmont Olympic Hotel delivers timeless elegance with all the modern comforts for an elevated escape. This historic landmark puts you just steps from Pike Place Market's artisan vendors, the Seattle Great Wheel and the city's thriving culinary scene. Lounge all day by the heated indoor pool then indulge across multiple dining options including The George's Pacific Northwest cuisine, Olympic Bar's mouthwatering cocktails and the hidden nooks of the Founders Club speakeasy. Beyond the hotel, Seattle's iconic attractions await. Soak up panoramic vistas from the Space Needle, wander Pioneer Square's historic streets or dive into the city's renowned coffee culture and innovative dining scene.",
-      "location_subheading": "United States",
-      "price": 293,
-      "original_price": 293,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Jjw0HYAR",
-      "hero_image": "https://images.luxuryescapes.com/nhtmbp6hwfqzzbiq4pm8",
-      "image_two": "https://images.luxuryescapes.com/nehpoh7i27uht1msv18r",
-      "image_three": "https://images.luxuryescapes.com/fby00ghwxpjbia5ep2hb",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Kimpton Hotel Monaco Seattle",
       "offer_country_name": "United States",
@@ -132,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-12",
-    "hotel_count": 6,
-    "average_price": 160,
+    "last_updated": "2026-02-13",
+    "hotel_count": 4,
+    "average_price": 137,
     "average_discount": 0
   }
 }

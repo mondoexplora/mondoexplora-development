@@ -4,8 +4,26 @@
   "country_code": "ID",
   "hero_title": "Hotels in Uluwatu",
   "description": "Discover the best hotels in Uluwatu, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/bzqcuzhu3drp1ri8f",
+  "hero_image": "https://images.luxuryescapes.com/3sn43yxnbsuq300owy",
   "hotels": [
+    {
+      "vendor_name": "Alila Villas Uluwatu",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Uluwatu",
+      "title": "Elevated Alila Uluwatu Private Pool Villas with Cliffside Cabana Bar & World-Class Spa",
+      "description": "An unbeatable clifftop location and endless horizon panoramas await at this five-star escape, home to a refined collection of private pool villas offering sophisticated interiors and peaceful seclusion. Make your way to Spa Alila for a transcendent experience using ancient Asian healing techniques, or gaze out over the ocean from The Warung, the onsite restaurant inspired by traditional food stalls. When you're ready to descend from the heavenly clifftops and sink your toes into golden shores, the beach is accessible via an impressive exclusive stairway which hugs the cliffside.",
+      "location_subheading": "Indonesia",
+      "price": 572,
+      "original_price": 572,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Cj3hJYAR",
+      "hero_image": "https://images.luxuryescapes.com/3sn43yxnbsuq300owy",
+      "image_two": "https://images.luxuryescapes.com/sn457rx6qmyej6a69jtn",
+      "image_three": "https://images.luxuryescapes.com/9lmgj47xbj3h3s28v4",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Six Senses Uluwatu",
       "offer_country_name": "Indonesia",
@@ -13,8 +31,8 @@
       "title": "Uluwatu Suite Escape with Spectacular Cliffside Pool",
       "description": "Venture to the edge of the world, where every view is of the ocean and secluded luxury is a given: this is Six Senses Uluwatu - a cliffside sanctuary perched on the southernmost tip of Bali, ranked among the top five hotels in Uluwatu on Tripadvisor. Here, a spectacular pool clings to the cliff's edge over three terraced levels, and watching the sun dip towards the glittering ocean is best enjoyed while sipping cocktails. Bali’s only World Green Council-certified resort, Six Senses Uluwatu proudly focuses on recycling, composting and reusing, using sustainable architecture with contemporary Balinese touches. Relax at the blissful spa, rejuvenate your body and soul at the yoga and meditation pavilion, and indulge in farm-to-table sustainable dining at the resort’s two restaurants.",
       "location_subheading": "Indonesia",
-      "price": 602,
-      "original_price": 602,
+      "price": 603,
+      "original_price": 603,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GrhRAAS",
       "hero_image": "https://images.luxuryescapes.com/bzqcuzhu3drp1ri8f",
@@ -31,8 +49,8 @@
       "title": "Eclectic Uluwatu Cliffside Retreat with Infinity Pool, Onsite Spa & Restaurant",
       "description": "Feel the sea breeze in your hair as you revel in tropical luxury perched high on the cliffs of Bali's stunning Bukit Peninsula. Savour the flavours of the island at the onsite restaurant, renowned for its fresh seafood and delicious classic dishes. Those seeking relaxation can indulge in a rejuvenating treatment at the onsite spa, or sip on cocktails at Ulu Cliffhouse Beach Club, soaking up the luxurious Palms Springs vibes.",
       "location_subheading": "Indonesia",
-      "price": 225,
-      "original_price": 247,
+      "price": 180,
+      "original_price": 198,
       "discount_percentage": 9,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Gvo8zAAB",
       "hero_image": "https://images.luxuryescapes.com/i9wx0nol5izh5jif21l7",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-12",
-    "hotel_count": 2,
-    "average_price": 414,
-    "average_discount": 5
+    "last_updated": "2026-02-13",
+    "hotel_count": 3,
+    "average_price": 452,
+    "average_discount": 3
   }
 }

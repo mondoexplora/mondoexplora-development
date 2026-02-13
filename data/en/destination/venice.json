@@ -25,24 +25,6 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "Hotel Indigo Venice - Sant'Elena",
-      "offer_country_name": "Italy",
-      "location_heading": "Venice",
-      "title": "Venice Indulgence with Tranquil Inner Garden & Onsite Venetian Restaurant",
-      "description": "Get lost in the labyrinth of Venice's twisting alleyways and gondola-filled canals before retreating to Hotel Indigo Venice - Sant'Elena, an IHG Hotel for a moment of luxury between explorations. This converted 1930s monastery is now a tranquil escape with a serene inner garden area (perfect to enjoy a negroni or bellini), while the Savor Restaurant and Bar celebrates Venetian cuisine by serving an exquisite menu of seafood and handmade pasta, alongside an extensive list of curated fine wines.",
-      "location_subheading": "Italy",
-      "price": 136,
-      "original_price": 136,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CuiRvAAJ",
-      "hero_image": "https://images.luxuryescapes.com/hgcfn0kmj8xeohnknngn",
-      "image_two": "https://images.luxuryescapes.com/l50q3f2slocpxe9zfw2n",
-      "image_three": "https://images.luxuryescapes.com/q50xoyiz1i1wo36wf1",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 01:59:00"
-    },
-    {
       "vendor_name": "Il Palazzo Experimental Venice",
       "offer_country_name": "Italy",
       "location_heading": "Venice",
@@ -56,24 +38,6 @@
       "hero_image": "https://images.luxuryescapes.com/d9vo756s10l1vb33k5g",
       "image_two": "https://images.luxuryescapes.com/6co6tzq2ambim6xrb877",
       "image_three": "https://images.luxuryescapes.com/wulydibinogykegnti",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "voco Venice Mestre The Quid",
-      "offer_country_name": "Italy",
-      "location_heading": "Venice",
-      "title": "Venice Refined Retreat near the Floating City",
-      "description": "On the outskirts of Venice, the voco Venice Mestre - The Quid, an IHG Hotel, is a refined retreat perfect for romantic day trips into the floating city. Keep active at the fitness centre or enjoy seasonal fare and an extensive wine list at the Ludico Venice restaurant before sightseeing in one of Italy's most picturesque cities. After a memorable day exploring Renaissance architecture, imposing palaces, cathedrals and calming canals, return to rest and relax in a stylish and sophisticated room.",
-      "location_subheading": "Italy",
-      "price": 82,
-      "original_price": 82,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CP5CLAA1",
-      "hero_image": "https://images.luxuryescapes.com/xoa63cueplbso8hbtci",
-      "image_two": "https://images.luxuryescapes.com/6drknf5r9ueadr8w1is",
-      "image_three": "https://images.luxuryescapes.com/k3cu2mbnwg8201tndwud",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
@@ -96,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-12",
-    "hotel_count": 4,
-    "average_price": 206,
+    "last_updated": "2026-02-13",
+    "hotel_count": 2,
+    "average_price": 303,
     "average_discount": 0
   }
 }

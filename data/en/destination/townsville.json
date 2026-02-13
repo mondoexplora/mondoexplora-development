@@ -23,24 +23,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Oaks Townsville Gateway Suites",
-      "offer_country_name": "Australia",
-      "location_heading": "Townsville",
-      "title": "Contemporary Townsville Escape with Infinity Pool & Jacuzzi",
-      "description": "Run away to Tropical North Queensland with a stay at Oaks Townsville Gateway Suites. Perfectly positioned to explore Townsville's vibrant dining scene, this contemporary retreat offers easy access to the iconic Great Barrier Reef and Magnetic Island. Savour the culinary delights of Palmer Street, just a short stroll away, before returning to your room or apartment to admire the stunning city and marina views, or taking a scenic dip in the elevated infinity pool.",
-      "location_subheading": "Australia",
-      "price": 89,
-      "original_price": 97,
-      "discount_percentage": 8,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GMICDAA5",
-      "hero_image": "https://images.luxuryescapes.com/m508jv7w5vs2c7lc0068",
-      "image_two": "https://images.luxuryescapes.com/6d75kuba1kjh1g63rcqc",
-      "image_three": "https://images.luxuryescapes.com/cj25tcmsbhohr07xb3wg",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-11",
-    "hotel_count": 2,
-    "average_price": 92,
-    "average_discount": 4
+    "last_updated": "2026-02-13",
+    "hotel_count": 1,
+    "average_price": 94,
+    "average_discount": 0
   }
 }

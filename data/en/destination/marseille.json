@@ -4,44 +4,8 @@
   "country_code": "FR",
   "hero_title": "Hotels in Marseille",
   "description": "Discover the best hotels in Marseille, France. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/q4lvsyhbdcdqj6v24iju",
+  "hero_image": "https://images.luxuryescapes.com/b67oggevm8oixzbei7jx",
   "hotels": [
-    {
-      "vendor_name": "Crowne Plaza Marseille - Le Dôme",
-      "offer_country_name": "France",
-      "location_heading": "Marseille",
-      "title": "Elegant Marseille France Stay near Le Dôme Concert Hall",
-      "description": "Uncover the captivating history of France's oldest city from the refined elegance of Crowne Plaza Marseille - Le Dôme, an IHG Hotel. Delight in a culinary journey at Cucina Victoria restaurant, tantalizing your taste buds with exquisite wines and gastronomic flare. Indulge in a refreshing dip in the seasonal outdoor swimming pool. Beyond your doors, immerse yourself in the vibrant music scene at the nearby Le Dôme concert hall or meander through the ancient streets of Marseille.",
-      "location_subheading": "France",
-      "price": 90,
-      "original_price": 90,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNPghAAH",
-      "hero_image": "https://images.luxuryescapes.com/q4lvsyhbdcdqj6v24iju",
-      "image_two": "https://images.luxuryescapes.com/mpvj58jqogqbmhio8owo",
-      "image_three": "https://images.luxuryescapes.com/7l8pjnghletyl3i2xlq",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Grand Hôtel Beauvau Marseille Vieux-Port - MGallery Collection",
-      "offer_country_name": "France",
-      "location_heading": "Marseille",
-      "title": "Historic Marseille Escape in the Heart of Old Port",
-      "description": "Experience the timeless elegance of sunny France with a stay in Marseille, the oldest city in France. Nestled in the historic Vieux-Port district, this grand haven built in 1816 is steps from the lively Le Panier neighborhood, famous for its winding streets, colorful markets, and cozy cafes. After a day of discovery, retreat to your elegantly designed room and relax beneath the stars that light up the sky over the Old Port. When you're ready to explore, the hotel’s prime location provides easy access to the city's must-see sights, including Notre-Dame de la Garde and the iconic modernist architecture of Le Corbusier’s Cité Radieuse.",
-      "location_subheading": "France",
-      "price": 135,
-      "original_price": 135,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnJe0YAF",
-      "hero_image": "https://images.luxuryescapes.com/szwdbmg2ncyzb8pvr578",
-      "image_two": "https://images.luxuryescapes.com/i1mcjxgruthtpb1ekzm",
-      "image_three": "https://images.luxuryescapes.com/yqfy7sw12vh9loa2uqso",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "InterContinental Marseille - Hotel Dieu",
       "offer_country_name": "France",
@@ -78,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-12",
-    "hotel_count": 3,
-    "average_price": 146,
+    "last_updated": "2026-02-13",
+    "hotel_count": 1,
+    "average_price": 214,
     "average_discount": 0
   }
 }

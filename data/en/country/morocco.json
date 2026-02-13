@@ -3,16 +3,16 @@
   "code": "MA",
   "hero_title": "Morocco Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Morocco.",
-  "hero_image": "https://images.luxuryescapes.com/qaq9ke22tmroeyt6ru",
+  "hero_image": "https://images.luxuryescapes.com/wh6cnr113k91u3mkbpuk",
   "popular_destinations": [
     {
       "name": "Marrakech",
       "slug": "marrakech",
-      "image": "https://images.luxuryescapes.com/qaq9ke22tmroeyt6ru",
+      "image": "https://images.luxuryescapes.com/wh6cnr113k91u3mkbpuk",
       "description": "Explore Marrakech with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 711
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 885
     },
     {
       "name": "El Jadida",
@@ -21,7 +21,7 @@
       "description": "Explore El Jadida with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 220
+      "avg_price": 221
     },
     {
       "name": "Fez",
@@ -33,31 +33,13 @@
       "avg_price": 230
     },
     {
-      "name": "Rabat",
-      "slug": "rabat",
-      "image": "https://images.luxuryescapes.com/b0foo8dtmf4gue7vszkd",
-      "description": "Explore Rabat with luxury accommodations",
+      "name": "Fnideq",
+      "slug": "fnideq",
+      "image": "https://images.luxuryescapes.com/d7xcqpou6w04havun9",
+      "description": "Explore Fnideq with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 273
-    },
-    {
-      "name": "Taghazout",
-      "slug": "taghazout",
-      "image": "https://images.luxuryescapes.com/vs88g4l46s1094g2scl",
-      "description": "Explore Taghazout with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 397
-    },
-    {
-      "name": "Agadir",
-      "slug": "agadir",
-      "image": "https://images.luxuryescapes.com/ruqmhy7ao667vruqzxh",
-      "description": "Explore Agadir with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 202
+      "avg_price": 328
     }
   ],
   "seo": {

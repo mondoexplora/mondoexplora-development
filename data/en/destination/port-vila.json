@@ -4,26 +4,8 @@
   "country_code": "VU",
   "hero_title": "Hotels in Port Vila",
   "description": "Discover the best hotels in Port Vila, Vanuatu. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/p6989y2ckiw8ur3lnb",
+  "hero_image": "https://images.luxuryescapes.com/y00la3tend2g3ofch1m",
   "hotels": [
-    {
-      "vendor_name": "Holiday Inn Resort Vanuatu",
-      "offer_country_name": "Vanuatu",
-      "location_heading": "Port Vila",
-      "title": "Vanuatu Lagoon Luxury with Pool Bar & Kids Club",
-      "description": "Wistful dreams of turquoise lagoons and iced-white beaches come true at Holiday Inn Resort Vanuatu, a tropical island paradise. Ideal as a family destination or romantic escape, discover gems such as a kids' club, a family swimming pool and a tranquil day spa. When it comes to dining, be wowed by lagoon panoramas and a mouthwatering menu (try the Vanuatu rock lobster) at Verandah, or simply savour a cocktail at the Pool Bar.",
-      "location_subheading": "Vanuatu",
-      "price": 111,
-      "original_price": 111,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNkIcAAL",
-      "hero_image": "https://images.luxuryescapes.com/p6989y2ckiw8ur3lnb",
-      "image_two": "https://images.luxuryescapes.com/azaphs26cecvb9sdxeoa",
-      "image_three": "https://images.luxuryescapes.com/6nbx116nuzqdhuoxpt9",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Iririki Island Resort and Spa",
       "offer_country_name": "Vanuatu",
@@ -59,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Tamanu on the Beach",
-      "offer_country_name": "Vanuatu",
-      "location_heading": "Port Vila",
-      "title": "Secluded Vanuatu Beachfront Villa Haven Overlooking the Coral Sea",
-      "description": "Feel endless bliss when you stay at Tamanu on the Beach, a Caribbean-inspired resort overlooking the postcard-perfect Coral Sea. This beachfront oasis is home to just 15 traditionally crafted bungalows and promises total serenity with a private white-sand beach, superb beachfront dining at Tamanu Restaurant and an in-house spa. Hop between the surrounding islands to discover hidden swimming holes, incredible waterfalls, ancient volcanoes and beautiful reefs.",
-      "location_subheading": "Vanuatu",
-      "price": 208,
-      "original_price": 208,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009DrsmAAC",
-      "hero_image": "https://images.luxuryescapes.com/dzpyy3cxbdyyb7k3sob",
-      "image_two": "https://images.luxuryescapes.com/watx6jytlub41vxaxog",
-      "image_three": "https://images.luxuryescapes.com/x2ico7gfaqppufdq8dsu",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:58:00"
     }
   ],
   "seo": {
@@ -96,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-12",
-    "hotel_count": 4,
-    "average_price": 149,
-    "average_discount": 4
+    "last_updated": "2026-02-13",
+    "hotel_count": 2,
+    "average_price": 139,
+    "average_discount": 8
   }
 }

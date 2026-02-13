@@ -59,24 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "ibis Bali Kuta",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Kuta",
-      "title": "Comfortable Kuta Stay with Onsite Bar & Restaurant",
-      "description": "Step into the heart of Kuta with a stay at this comfortable retreat, with the lively energy of Kuta Beach and Waterbon Bali's thrilling slides nearby. Whether it's for business or leisure, ibis Bali Kuta provides the perfect accommodation for a relaxing stay. After exploring the bustling local markets or catching a sunset at the beach, recharge with international and Indonesian favourites at Rendez-Vous or enjoy a casual drink at the onsite bar.",
-      "location_subheading": "Indonesia",
-      "price": 27,
-      "original_price": 27,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000M5lVEYAZ",
-      "hero_image": "https://images.luxuryescapes.com/cvq688bli7fe50hl0zs",
-      "image_two": "https://images.luxuryescapes.com/8cm4kavi2f4d9jsdeg2h",
-      "image_three": "https://images.luxuryescapes.com/gdpwi83g1bfhsif0wgb",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -96,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-12",
-    "hotel_count": 4,
-    "average_price": 174,
-    "average_discount": 20
+    "last_updated": "2026-02-13",
+    "hotel_count": 3,
+    "average_price": 223,
+    "average_discount": 27
   }
 }

@@ -28,24 +28,6 @@
       "vendor_name": "The Star Residences Gold Coast",
       "offer_country_name": "Australia",
       "location_heading": "Gold Coast",
-      "title": "Gold Coast Glamour: Broadbeach One- & Two-Bedroom Resort-Style Apartments",
-      "description": "Unbeatable surf meets unrivalled sophistication in the heart of Broadbeach with a stay at these self-contained residences, perfectly positioned in Queensland's premier entertainment destination, The Star Gold Coast. Every modern, light-filled residence is decked out with luxury furnishings, a fully equipped kitchen and spectacular views of the hinterland, city or ocean, perfect for a romantic weekend away - or upgrade to a two-bedroom apartment for a family-friendly stay brimming with opportunity for adventure. Head up to the building’s resort-style, 20th-floor pool for quiet moments in the sunshine, indulge at the luxurious onsite spa or venture out to sample The Star’s dazzling collection of top-notch restaurants and thrilling entertainment venues. A few steps further and you're in the heart of one of Australia’s most beloved beach cities - brilliant white shores and barrelling surf await.",
-      "location_subheading": "Australia",
-      "price": 335,
-      "original_price": 670,
-      "discount_percentage": 50,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000NQtd7YAD",
-      "hero_image": "https://images.luxuryescapes.com/05rdmc2po69s8rm8pjc",
-      "image_two": "https://images.luxuryescapes.com/5m2togivd95jyzppm42o",
-      "image_three": "https://images.luxuryescapes.com/pvr1idqx37o13lgz70tl",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 3,
-      "end_date_utc": "2026-02-23 12:59:00"
-    },
-    {
-      "vendor_name": "The Star Residences Gold Coast",
-      "offer_country_name": "Australia",
-      "location_heading": "Gold Coast",
       "title": "Gold Coast: Broadbeach Resort-Style Apartment Luxury",
       "description": "Discover your home-away-from-home at The Star Residences Gold Coast, where resort-style apartments provide a luxurious base for your Gold Coast escape. If you can tear yourself away from your immaculate, self-contained abode, head to the sky-high swimming pool on level 20 and enjoy dazzling city views, or make the most of the yoga pavilion and casual eating areas. You'll be in a prime location to explore the many dining options available at The Star Gold Coast complex.",
       "location_subheading": "Australia",
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Star Residences Gold Coast",
+      "offer_country_name": "Australia",
+      "location_heading": "Gold Coast",
+      "title": "Gold Coast Glamour: Broadbeach One- & Two-Bedroom Resort-Style Apartments",
+      "description": "Unbeatable surf meets unrivalled sophistication in the heart of Broadbeach with a stay at these self-contained residences, perfectly positioned in Queensland's premier entertainment destination, The Star Gold Coast. Every modern, light-filled residence is decked out with luxury furnishings, a fully equipped kitchen and spectacular views of the hinterland, city or ocean, perfect for a romantic weekend away - or upgrade to a two-bedroom apartment for a family-friendly stay brimming with opportunity for adventure. Head up to the building’s resort-style, 20th-floor pool for quiet moments in the sunshine, indulge at the luxurious onsite spa or venture out to sample The Star’s dazzling collection of top-notch restaurants and thrilling entertainment venues. A few steps further and you're in the heart of one of Australia’s most beloved beach cities - brilliant white shores and barrelling surf await.",
+      "location_subheading": "Australia",
+      "price": 335,
+      "original_price": 670,
+      "discount_percentage": 50,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000NQtd7YAD",
+      "hero_image": "https://images.luxuryescapes.com/05rdmc2po69s8rm8pjc",
+      "image_two": "https://images.luxuryescapes.com/5m2togivd95jyzppm42o",
+      "image_three": "https://images.luxuryescapes.com/pvr1idqx37o13lgz70tl",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 3,
+      "end_date_utc": "2026-02-23 12:59:00"
     },
     {
       "vendor_name": "Aria Apartments",
@@ -85,8 +85,8 @@
       "title": "Self-Contained Gold Coast Apartment Escape Moments from the Beachfront",
       "description": "Experience the Gold Coast's most iconic and stylish holiday apartments staying at the AVANI Broadbeach Residences. Enjoy views over the glitz and glamour of Broadbeach in a self-contained apartment with a fully equipped kitchen, and marvel at the sun-kissed glow of the dazzling coastline, dotted with award-winning restaurants, cafés and world-class entertainment. A serene beachside setting meets an impeccable list of facilities, including BBQ amenities, an onsite pool, undercover secure parking and fully equipped fitness centre. Make the AVANI Broadbeach Residences your perfect launchpad to explore the beautiful beaches, wildlife sanctuaries, and bustling neighbourhoods of this enchanting part of South East Queensland.",
       "location_subheading": "Australia",
-      "price": 131,
-      "original_price": 144,
+      "price": 149,
+      "original_price": 164,
       "discount_percentage": 9,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009BU70AAG",
       "hero_image": "https://images.luxuryescapes.com/c8i1yfv7r1eymqbty024",
@@ -312,9 +312,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-12",
+    "last_updated": "2026-02-13",
     "hotel_count": 16,
-    "average_price": 245,
+    "average_price": 246,
     "average_discount": 11
   }
 }

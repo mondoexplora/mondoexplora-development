@@ -49,8 +49,8 @@
       "title": "Heritage Liverpool City Break near Albert Dock",
       "description": "Hotel Indigo Liverpool, an IHG Hotel, welcomes you to celebrate the city's heritage through local tunes, splashes of colour and cotton-themed murals from their quirky, industrial-style hotel. Come for the enviable location in the renowned waterfront district - just steps from the club that made The Beatles stars, Albert Dock and Mersey River - and stay for the welcoming service and authentic onsite dining that pays homage to the rich heritage of Liverpool.",
       "location_subheading": "United Kingdom",
-      "price": 67,
-      "original_price": 67,
+      "price": 66,
+      "original_price": 66,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Aa9HHAAZ",
       "hero_image": "https://images.luxuryescapes.com/taj8tc9g0bw94s4ob5zr",
@@ -59,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Municipal Hotel & Spa - MGallery Liverpool",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Liverpool",
+      "title": "Liverpool City Centre Landmark Hotel Near Albert Dock with Indoor Pool & Spa",
+      "description": "Steeped in heritage on Liverpool's historic Dale Street, one of the city's original seven streets, The Municipal Hotel & Spa is top example of timeless elegance. This landmark building houses 179 well-appointed rooms, the award-winning Thermae Spa with a serene 16m pool, and dining options that celebrate Liverpool's rich maritime connections. Ideally positioned in the city centre, this hotel is moments from cultural attractions including the Royal Albert Dock and the Grade I-listed Royal Liver Building. Just eight minutes from Lime Street Station and a short stroll to Liverpool ONE shopping district, it's the perfect base to explore while indulging in exceptional treatments and dining.",
+      "location_subheading": "United Kingdom",
+      "price": 122,
+      "original_price": 122,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP9vYAF",
+      "hero_image": "https://images.luxuryescapes.com/ga5vv86buoatpetvz5m",
+      "image_two": "https://images.luxuryescapes.com/h697mogz2wyy5k210lee",
+      "image_three": "https://images.luxuryescapes.com/p17jmc5nbfolg7nz7q7",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "The Halyard Liverpool, Vignette Collection",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-12",
-    "hotel_count": 4,
-    "average_price": 79,
+    "last_updated": "2026-02-13",
+    "hotel_count": 5,
+    "average_price": 87,
     "average_discount": 0
   }
 }

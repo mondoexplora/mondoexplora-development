@@ -25,24 +25,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Holiday Inn Express Newcastle",
-      "offer_country_name": "Australia",
-      "location_heading": "Newcastle",
-      "title": "Smart Harbourside Stay near Newcastle City Centre",
-      "description": "Unspoilt shorelines, an historic harbour and quintessential Australian hospitality are on offer at Holiday Inn Express Newcastle, an IHG hotel. Expect sandy feet and slow days when you explore this harbourside city, with sprawling greenery, endless nature walks and plenty of rich heritage. Take a stroll down the Newcastle Memorial Walk for glistening sea views, learn something new at the local museum or get up close to native animals at Blackbutt Nature Reserve.",
-      "location_subheading": "Australia",
-      "price": 92,
-      "original_price": 92,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DH756AAD",
-      "hero_image": "https://images.luxuryescapes.com/qvoblu9bl913la15ciom",
-      "image_two": "https://images.luxuryescapes.com/65ehis9mmwn3ealh7ctg",
-      "image_three": "https://images.luxuryescapes.com/s0nbrc9keqknggzntogs",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Mercure Newcastle",
       "offer_country_name": "Australia",
       "location_heading": "Newcastle",
@@ -113,24 +95,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "ibis budget Newcastle",
-      "offer_country_name": "Australia",
-      "location_heading": "Newcastle",
-      "title": "Newcastle Comfortable Escape near Hunter Valley & Top Attractions",
-      "description": "Set in Wallsend on the edge of Newcastle, this comfortable escape enjoys close proximity to the city's sporting venues, dining strips and entertainment hubs, while being the gateway to the region's picturesque beaches. With cosy rooms and convenient onsite parking, you've got a practical homebase to exploring this serene part of New South Wales. Within two hours you'll find yourself in the Hunter Valley, where you can spend your days sampling wines at cellar doors, discovering local producers and exploring vineyard estates. Whether you're here for the city's attractions or using Newcastle as a base for wine country adventures, you're well positioned to make the most of the region.",
-      "location_subheading": "Australia",
-      "price": 49,
-      "original_price": 49,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000M5lVCYAZ",
-      "hero_image": "https://images.luxuryescapes.com/zpnfu2fs4fvlokdjues7",
-      "image_two": "https://images.luxuryescapes.com/3bkdd4hpxmc5lu6bzvc",
-      "image_three": "https://images.luxuryescapes.com/g0n7em04p5d9b1kxj5q",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -150,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-12",
-    "hotel_count": 7,
-    "average_price": 102,
+    "last_updated": "2026-02-13",
+    "hotel_count": 5,
+    "average_price": 115,
     "average_discount": 0
   }
 }

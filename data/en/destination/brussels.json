@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 01:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Brussels Airport",
+      "offer_country_name": "Belgium",
+      "location_heading": "Brussels",
+      "title": "Brussels City Break near Airport with Onsite Restaurant & Bar",
+      "description": "Immerse yourself in the glory and beauty of the Grand Place, and feel yourself getting lost in the intricate details of the city with a getaway to Crowne Plaza Brussels Airport, an IHG Hotel. Positioned minutes from the airport and train station, spend your days devouring traditional Belgian waffles and double-fried frites or admiring the playful art that decorates the city’s streets. Unwind with a delectable, effervescent Belgian beer or wholesome plate at Craft restaurant.",
+      "location_subheading": "Belgium",
+      "price": 126,
+      "original_price": 126,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJZsAAP",
+      "hero_image": "https://images.luxuryescapes.com/d9ylprspxupjxvsateum",
+      "image_two": "https://images.luxuryescapes.com/5f8920dd6qqv57ce2rub",
+      "image_three": "https://images.luxuryescapes.com/eo3642abdf63i80h6uo",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-12",
-    "hotel_count": 1,
-    "average_price": 136,
+    "last_updated": "2026-02-13",
+    "hotel_count": 2,
+    "average_price": 131,
     "average_discount": 0
   }
 }
