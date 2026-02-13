@@ -231,9 +231,11 @@ def generate_search_data(hotel_data: Dict[str, List[Dict[str, Any]]]) -> List[Di
             processed_countries.add(country)
         
         # Add destination
+        # Convert slug to match the format used in data/en/destination/ (with hyphens)
+        destination_slug = destination.replace("_", "-").replace(" ", "-").lower()
         search_data.append({
             "name": destination.replace("_", " ").title(),
-            "slug": destination,
+            "slug": destination_slug,
             "type": "destination"
         })
     
