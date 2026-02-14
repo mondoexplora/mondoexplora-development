@@ -193,8 +193,8 @@
       "title": "Stylish Barcelona Escape in Eixample District with Bar & Outdoor Pool",
       "description": "Ideally located in the seaside city of Barcelona, in the heart of the Eixample District, the Hotel Indigo Barcelona - Plaza Catalunya, an IHG Hotel, will plunge you into sophisticated modernism, as inspiring architecture, culture, art, history and cuisine unfurl before you. Come for the flamboyant Modernista visual feast and welcoming service, and stay for the outdoor pool, seasonal cocktail bar and its enviable location in Spain’s renowned Catalonia region.",
       "location_subheading": "Spain",
-      "price": 148,
-      "original_price": 148,
+      "price": 158,
+      "original_price": 158,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt5HAAR",
       "hero_image": "https://images.luxuryescapes.com/soqio0jmfnemln2s5u1",
@@ -221,24 +221,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Kimpton Vividora Hotel",
-      "offer_country_name": "Spain",
-      "location_heading": "Barcelona",
-      "title": "Barcelona Award-Winning Glamour in Gothic Quarter with Daily Breakfast & Nightly Free-Flow Wine Hour",
-      "description": "Nestled in the heart of Barcelona's historic Gothic Quarter, this award-winning urban oasis is perfectly situated for exploring Barcelona's best. Just steps from La Rambla, you'll be surrounded by traditional tapas bars and vibrant boutiques, putting Spain's legendary cuisine and world-class shopping right on your doorstep. Visitors come here to this sophisticated Barcelona hideway like a local. Savour cocktails (or vermut) as you admire panoramic views over the city at rooftop bar Terraza de Viva, enjoy Catalan plates and local wines at Fauna or laze away afternoons by the hotel's spectacular pool. With an onsite spa, nightly free-flow wine and a daily sunrise yoga program, this glamourous hotel has everything you need for an unforgettable Spain escape.",
-      "location_subheading": "Spain",
-      "price": 479,
-      "original_price": 1114,
-      "discount_percentage": 57,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000OtmFvYAJ",
-      "hero_image": "https://images.luxuryescapes.com/pob0pwnpmt5pz2ze6f54",
-      "image_two": "https://images.luxuryescapes.com/xvd884d14lbt4kujxkuh",
-      "image_three": "https://images.luxuryescapes.com/71r91v7j8cxj6gqxmlw",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-02-16 12:59:00"
     },
     {
       "vendor_name": "Mandarin Oriental Barcelona",
@@ -313,6 +295,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Sofitel Barcelona Skipper",
+      "offer_country_name": "Spain",
+      "location_heading": "Barcelona",
+      "title": "Oceanfront Barcelona Oasis near Barceloneta Beach with Rooftop Pool",
+      "description": "Explore the best of Barcelona from this five-star Sofitel base, ideally located just steps from Barceloneta Beach and a short stroll from the Gothic Quarter. Whether you're visiting for work or play, unwind in vibrant, contemporary rooms, take in sweeping city views from the rooftop pool or recharge in the fitness centre. Savour locally inspired cuisine at TENDIEZ Tapas Bar & Restaurant, alongside cocktails on a chic terrace. With direct access to Barcelona’s cultural heart, buzzing beach life and seamless transport connections, Sofitel Barcelona Skipper is your stylish escape for soaking up the city’s iconic energy.",
+      "location_subheading": "Spain",
+      "price": 225,
+      "original_price": 225,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JEO9BYAX",
+      "hero_image": "https://images.luxuryescapes.com/lijzpd1f3cdpczs0xtt",
+      "image_two": "https://images.luxuryescapes.com/mf5mj5pt5hqn7hhkdsbj",
+      "image_three": "https://images.luxuryescapes.com/br39tix3icre21vr8wlj",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "The One Barcelona",
       "offer_country_name": "Spain",
       "location_heading": "Barcelona",
@@ -348,9 +348,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-02-14",
     "hotel_count": 18,
-    "average_price": 681,
-    "average_discount": 7
+    "average_price": 667,
+    "average_discount": 4
   }
 }

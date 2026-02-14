@@ -4,8 +4,26 @@
   "country_code": "CA",
   "hero_title": "Hotels in Toronto",
   "description": "Discover the best hotels in Toronto, Canada. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/pzribm04edbao08mh1",
+  "hero_image": "https://images.luxuryescapes.com/i3fljywt07lgaf32r1",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Toronto Airport",
+      "offer_country_name": "Canada",
+      "location_heading": "Toronto",
+      "title": "Modern Toronto Airport Stay 25 Minutes from Downtown with Onsite Restaurant & Indoor Pool",
+      "description": "Explore Canada's largest city with a stay at Crowne Plaza Toronto Airport, an IHG Hotel. This hotel offers guests easy access to the city's bustling downtown and museums via the UP Express Train, and is only 10 minutes from Toronto Pearson International Airport. After days spent exploring, unwind in the hotel's indoor pool, savour international cuisine at The Cannery Kitchen & Social, or venture out to explore Toronto's world-renowned culinary scene.",
+      "location_subheading": "Canada",
+      "price": 102,
+      "original_price": 102,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GxYXHAA3",
+      "hero_image": "https://images.luxuryescapes.com/i3fljywt07lgaf32r1",
+      "image_two": "https://images.luxuryescapes.com/mjmlsmsu7iv798kpxjeh",
+      "image_three": "https://images.luxuryescapes.com/qdvkp5jvqi4u6vq6fjo9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Fairmont Royal York",
       "offer_country_name": "Canada",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-13",
-    "hotel_count": 5,
-    "average_price": 234,
+    "last_updated": "2026-02-14",
+    "hotel_count": 6,
+    "average_price": 212,
     "average_discount": 0
   }
 }

@@ -13,6 +13,24 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 291
+    },
+    {
+      "name": "Podgorica",
+      "slug": "podgorica",
+      "image": "https://images.luxuryescapes.com/teamg8jrdw2yo8onkq2j",
+      "description": "Explore Podgorica with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 75
+    },
+    {
+      "name": "Tivat",
+      "slug": "tivat",
+      "image": "https://images.luxuryescapes.com/lw413iwafp7u7gcn0gs",
+      "description": "Explore Tivat with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 136
     }
   ],
   "seo": {

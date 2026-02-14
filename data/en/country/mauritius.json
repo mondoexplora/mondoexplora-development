@@ -31,6 +31,24 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 1289
+    },
+    {
+      "name": "Balaclava",
+      "slug": "balaclava",
+      "image": "https://images.luxuryescapes.com/d94763igr6gtm91dz07z8",
+      "description": "Explore Balaclava with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 250
+    },
+    {
+      "name": "Flic En Flac",
+      "slug": "flic-en-flac",
+      "image": "https://images.luxuryescapes.com/8l8xhc3kr8uuuvei0a",
+      "description": "Explore Flic En Flac with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 323
     }
   ],
   "seo": {

@@ -4,8 +4,26 @@
   "country_code": "GB",
   "hero_title": "Hotels in Manchester",
   "description": "Discover the best hotels in Manchester, United Kingdom. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/m21km6z11as3l8ec8zbu",
+  "hero_image": "https://images.luxuryescapes.com/1jh3a5tbxp3f0rejmd6m",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Manchester Airport",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Manchester",
+      "title": "Convenient Manchester Airport Stay with Onsite Restaurants & Bars",
+      "description": "Whether it's for business or pleasure, experience the epitome of convenience and relaxation at the Crowne Plaza Manchester Airport, an IHG Hotel. A complimentary airport shuttle will do the heavy lifting for you, and the onsite restaurant will help streamline your stay. This plush haven is a stone's throw from Manchester's vibrant city centre. From the historic Castlefield to the bustling Northern Quarter, this hotel is the perfect gateway to discover Manchester's unique charms.",
+      "location_subheading": "United Kingdom",
+      "price": 95,
+      "original_price": 95,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJbSAAX",
+      "hero_image": "https://images.luxuryescapes.com/1jh3a5tbxp3f0rejmd6m",
+      "image_two": "https://images.luxuryescapes.com/2ss7w9drij6lm3fhcbq",
+      "image_three": "https://images.luxuryescapes.com/35and9n6j634v7e4t92h",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Crowne Plaza Manchester City Centre",
       "offer_country_name": "United Kingdom",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-13",
-    "hotel_count": 4,
-    "average_price": 110,
+    "last_updated": "2026-02-14",
+    "hotel_count": 5,
+    "average_price": 107,
     "average_discount": 2
   }
 }

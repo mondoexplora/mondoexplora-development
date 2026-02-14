@@ -25,6 +25,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Intercontinental Miami",
+      "offer_country_name": "United States",
+      "location_heading": "Miami",
+      "title": "Miami Waterfront Escape on Biscayne Bay with Rooftop Pool, Cabanas & Bar",
+      "description": "The glitz and glamour of Miami await at InterContinental Miami, an IHG Hotel - positioned on the downtown waterfront for the ultimate in bayside luxury. Take your time exploring the various beaches and gardens along the shoreline, before retreating for a refreshing dip in the hotel’s rooftop pool and an afternoon cocktail at Bluewater bar. Treat yourself to exquisite dining at Toro Toro, showcasing vibrant Pan-Latin cuisine, ranging from tender steaks to Peruvian ceviche.",
+      "location_subheading": "United States",
+      "price": 207,
+      "original_price": 207,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt7aAAB",
+      "hero_image": "https://images.luxuryescapes.com/7zvjb7s1ueqoqd8f42rg",
+      "image_two": "https://images.luxuryescapes.com/tox5g5ddmamjrwg7hjs8",
+      "image_three": "https://images.luxuryescapes.com/nbom5w1ivr9k78dcetm",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Kimpton EPIC Hotel",
       "offer_country_name": "United States",
       "location_heading": "Miami",
@@ -49,8 +67,8 @@
       "title": "Stylish Miami Bayside Bliss with Beach Club & Spa",
       "description": "Experience energetic Miami at this uber-cool Mediterranean-inspired retreat, where coastal charm meets the city's vibrant spirit. Soak in the waterfront views at the onsite Baia Beach Club, complete with private cabanas, a bayside pool, a bar and a full-service wellness spa. Indulge with the rejuvenating sauna and keep up with your routine at the fitness centre. Whether you're there for a romantic escape or simply to relax, enjoy buzzing Miami at Mondrian South Beach.",
       "location_subheading": "United States",
-      "price": 700,
-      "original_price": 700,
+      "price": 701,
+      "original_price": 701,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JMQdDAAX",
       "hero_image": "https://images.luxuryescapes.com/zd4710yn4lqp5wmtcnc",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-13",
-    "hotel_count": 4,
-    "average_price": 339,
+    "last_updated": "2026-02-14",
+    "hotel_count": 5,
+    "average_price": 313,
     "average_discount": 0
   }
 }

@@ -4,8 +4,26 @@
   "country_code": "US",
   "hero_title": "Hotels in Austin",
   "description": "Discover the best hotels in Austin, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/x1vywbt24nj9mrezl3ma",
+  "hero_image": "https://images.luxuryescapes.com/pcviyfwojglt6ov5h2912",
   "hotels": [
+    {
+      "vendor_name": "Fairmont Austin",
+      "offer_country_name": "United States",
+      "location_heading": "Austin",
+      "title": "Downtown Austin City Break Near Historic District with Four Restaurants & Rooftop Pool",
+      "description": "Feel the pulse of the Texas state capital at Fairmont Austin, a five-star urban retreat located in the heart of the city's vibrant downtown area. Savour Italian, Mexican or Texan cuisine at one of four onsite restaurants, indulge in champagne and caviar at semi-private Room 725 or grab a specialty coffee and housemade pastry to go from Good Things cafe. Laze by the rooftop infinity pool - the largest in Austin - or savour coastal bites and signature cocktails from poolside Rules & Regs, overlooking the city skyline. When you're ready to explore, Austin's impressive dining, art and live music scene is just a stone's throw from the lobby, with the historic Rainey Street mere steps away. Feast on slow-cooked meats at the city's famed barbecue joints, explore the galleries scattered across downtown or catch a gig at a bohemian bar in the renowned Sixth Street precinct.",
+      "location_subheading": "United States",
+      "price": 294,
+      "original_price": 294,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Jjw0UYAR",
+      "hero_image": "https://images.luxuryescapes.com/pcviyfwojglt6ov5h2912",
+      "image_two": "https://images.luxuryescapes.com/gpxz527qxvwr2qxop7c",
+      "image_three": "https://images.luxuryescapes.com/7vsx73qb7b8o8ud1i78a",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Hotel Viata",
       "offer_country_name": "United States",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-13",
-    "hotel_count": 2,
-    "average_price": 284,
+    "last_updated": "2026-02-14",
+    "hotel_count": 3,
+    "average_price": 287,
     "average_discount": 0
   }
 }

@@ -31,8 +31,8 @@
       "title": "Stylish New Orleans Stay in French Quarter with Onsite Restaurant",
       "description": "Find your feet in New Orleans with a stay at Hotel Indigo New Orleans - French Quarter, an IHG Hotel. Inspired by the colour, culture and costuming of this vibrant city, this chic hotel unites style and comfort, with an enviable location in the heart of the French Quarter. Just a stone's throw from historic Bourbon Street, enjoy easy access to some of the city's best sights, before returning to the hotel to feast on soulful Cajun cuisine at Common Interest.",
       "location_subheading": "United States",
-      "price": 91,
-      "original_price": 91,
+      "price": 92,
+      "original_price": 92,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GxZjDAAV",
       "hero_image": "https://images.luxuryescapes.com/gnzkkgbvnpqid36zvk9",
@@ -97,6 +97,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Omni Royal Orleans",
+      "offer_country_name": "United States",
+      "location_heading": "New Orleans",
+      "title": "New Orleans French Quarter Glamour Moments from Bourbon Street with Rooftop Pool",
+      "description": "Embrace New Orleans' charm and southern hospitality at this elegant hotel, ideally positioned in the heart of the vibrant French Quarter. Authentic, timeless and with a splash of modern flair, this oasis offers everything you need for an unforgettable escape. Savour the local flavours at the Rib Room restaurant, refresh with a cocktail at Touche Bar or ascend to the rooftop pool, offering panoramic views of the Mississippi River. When you're ready to explore, stroll along the riverfront or take the 10-minute stroll to lively Bourbon Street, where the scent of Cajun fare wafts along pavements packed with lively jazz clubs and cocktail bars.",
+      "location_subheading": "United States",
+      "price": 129,
+      "original_price": 129,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HiIJIA0",
+      "hero_image": "https://images.luxuryescapes.com/1wemllghqrthl0h636v",
+      "image_two": "https://images.luxuryescapes.com/sx60zvoxf5p1c7lnl38",
+      "image_three": "https://images.luxuryescapes.com/74f1avc8syny7zgsbu",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Royal Sonesta New Orleans",
       "offer_country_name": "United States",
       "location_heading": "New Orleans",
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-13",
-    "hotel_count": 6,
-    "average_price": 117,
+    "last_updated": "2026-02-14",
+    "hotel_count": 7,
+    "average_price": 119,
     "average_discount": 0
   }
 }

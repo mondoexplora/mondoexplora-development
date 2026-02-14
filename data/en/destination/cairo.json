@@ -13,8 +13,8 @@
       "title": "Cairo Nile Riverfront Indulgence with Six Restaurants, Four Bars & Rooftop Pool",
       "description": "Experience the perfect fusion of modern sophistication and ancient wonder at this towering five-star Fairmont retreat, ideally perched along the banks of the River Nile. Striking a picture of allure against the Cairo skyline and boasting a rooftop pool offering panoramic views of the Great Pyramid of Giza on the horizon, the hotel exudes Egyptian charm and luxury. You can spend your days unwinding in the plush, well-appointed rooms or embark on a gastronomic journey across the hotel's six dining venues, or savour a cocktail at the onsite bars. If you're looking to destress, head to the lavish Fairmont Spa for restorative treatments.",
       "location_subheading": "Egypt",
-      "price": 151,
-      "original_price": 151,
+      "price": 153,
+      "original_price": 153,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlvvIAC",
       "hero_image": "https://images.luxuryescapes.com/jkj7e6ophwwosodoodjn",
@@ -31,13 +31,31 @@
       "title": "Cairo Five-Star Luxury Overlooking the Nile",
       "description": "Combine the perfect location with world-renowned luxury at the InterContinental Cairo Semiramis, an IHG Hotel, located on the banks of the Nile. Relax in unparalleled comfort with easy access to the pyramids, while the exciting bazaars of old Cairo are located just steps from your front door. After days spent exploring ancient wonders, return for a refreshing dip in the rooftop pool, while the spa stands ready to pamper you.",
       "location_subheading": "Egypt",
-      "price": 123,
-      "original_price": 123,
+      "price": 124,
+      "original_price": 124,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNPg1AAH",
       "hero_image": "https://images.luxuryescapes.com/cyx634h57i00v9nwn59",
       "image_two": "https://images.luxuryescapes.com/ehzkribyqqm96primul",
       "image_three": "https://images.luxuryescapes.com/q4053qbppd445qdk811p",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Intercontinental Citystars Cairo",
+      "offer_country_name": "Egypt",
+      "location_heading": "Cairo",
+      "title": "Grand Five-Star Cairo Oasis with Extravagant Pool & Nine Onsite Restaurants",
+      "description": "Escape to the world of the pharaohs and stay in Egypt's grand five-star InterContinental Citystars Cairo, an IHG Hotel. This central retreat offers luxurious pools to escape the Egyptian heat and nine onsite restaurants and bars, providing diverse dining experiences to suit any appetite. Using this hotel as a launchpad, follow the footsteps of the ancient Egyptians and discover the alluring history of the pyramids, crypts, mosques and museums.",
+      "location_subheading": "Egypt",
+      "price": 160,
+      "original_price": 160,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNPkrAAH",
+      "hero_image": "https://images.luxuryescapes.com/ex6muxjr47g82gaav5",
+      "image_two": "https://images.luxuryescapes.com/bqxr3e91usv4sdkzx80a",
+      "image_three": "https://images.luxuryescapes.com/vnbk9bgg7omk1eqfccc",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-13",
-    "hotel_count": 3,
-    "average_price": 143,
+    "last_updated": "2026-02-14",
+    "hotel_count": 4,
+    "average_price": 148,
     "average_discount": 0
   }
 }

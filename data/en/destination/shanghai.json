@@ -25,6 +25,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Grand Hyatt Shanghai",
+      "offer_country_name": "China",
+      "location_heading": "Shanghai",
+      "title": "Sky-High Shanghai Five-Star Opulence near Oriental Pearl Tower with Seven Restaurants & Indoor Pool",
+      "description": "Soar above Shanghai’s glittering skyline in one of the world’s highest hotels with a stay in the iconic Jin Mao Tower, offering panoramic views of the Huangpu River and The Bund. Housed between the 58th and 85th floors of this architecturally awe-inspiring building, this Grand Hyatt sanctuary boasts elegant rooms featuring allusions to the city's Art Deco heritage. Step outside to explore top attractions including the Oriental Pearl Tower and Nanjing Road, all just moments away, or hop on the nearby Lujiazui Metro for seamless city access. Back at the hotel, embark on a culinary journey across celebrated restaurants: from traditional Cantonese to gourmet Japanese fare, there is much to feast on. Later, head to Cloud 9, perched on the 87th floor, for well-crafted cocktails paired with unbeatable views.",
+      "location_subheading": "China",
+      "price": 141,
+      "original_price": 141,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000HifgrYAB",
+      "hero_image": "https://images.luxuryescapes.com/u9csqvvye8nod53z56la",
+      "image_two": "https://images.luxuryescapes.com/oi1bd7ifwnvk1gv43xp",
+      "image_three": "https://images.luxuryescapes.com/aaswkmdvmko6p421jxk8",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Hyatt Regency Chongming",
       "offer_country_name": "China",
       "location_heading": "Shanghai",
@@ -41,6 +59,42 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-05-16 13:59:00"
+    },
+    {
+      "vendor_name": "Hyatt Regency Shanghai Global Harbour",
+      "offer_country_name": "China",
+      "location_heading": "Shanghai",
+      "title": "Opulent Shanghai Escape with Indoor Pool, Four Restaurants & Bars",
+      "description": "Soak up the buzz of the city while kicking back in high-rise comfort at this lavish urban sanctuary. With sleek rooms, skyline views and direct access to one of Shanghai’s top shopping malls, it’s got the best of both worlds. Whether you’re here for business or fun, everything Shanghai has to offer is at your fingertips. Smack in the heart of the Putuo District, you’re steps from Jinshajiang Road metro station and moments from the city’s must-sees. Start your day with a dip in the indoor pool, or wind down at night with cocktails at Sky Bar overlooking the city lights. From rooftop moments to retail therapy, this is Shanghai living done right.",
+      "location_subheading": "China",
+      "price": 77,
+      "original_price": 77,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000HifgwYAB",
+      "hero_image": "https://images.luxuryescapes.com/pf0tx3jqusjtmm0verle",
+      "image_two": "https://images.luxuryescapes.com/yrrikmtawq2xqq7z7fv8",
+      "image_three": "https://images.luxuryescapes.com/8pq0chpv9n194l7hfpco",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Hyatt Regency Shanghai Songjiang",
+      "offer_country_name": "China",
+      "location_heading": "Shanghai",
+      "title": "Sophisticated Shanghai Lakefront City Break with Onsite Dining & Indoor Pool",
+      "description": "Admire the timeless beauty of Songjiang, the cultural cradle of Shanghai, with a serene stay at this Hyatt sanctuary overlooking Wulong Lake. Songjiang’s 6,000-year history breathes through the nearby ancient pagodas, traditional gardens and cultural parks, while the hotel pays tribute to the region’s legacy with design elements inspired by its storied textile traditions. Wake up to tranquil views, swim in the sparkling indoor pool and try out authentic Jiangsu and Zhejiang cuisine, including the signature Peking duck at the hotel's Xiang Yue restaurant. Explore the city's cultural gems and return to your hotel for well-crafted cocktails, all while you soak up Shanghai's beauty.",
+      "location_subheading": "China",
+      "price": 68,
+      "original_price": 68,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000HicEhYAJ",
+      "hero_image": "https://images.luxuryescapes.com/tw19eksfgjr32ozg1d",
+      "image_two": "https://images.luxuryescapes.com/bqiclrx4ou5s6ulkr63y",
+      "image_three": "https://images.luxuryescapes.com/dxarj7ou5ccycj5n7f",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Hyatt on the Bund",
@@ -78,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-13",
-    "hotel_count": 3,
-    "average_price": 151,
+    "last_updated": "2026-02-14",
+    "hotel_count": 6,
+    "average_price": 123,
     "average_discount": 0
   }
 }

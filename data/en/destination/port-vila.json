@@ -4,8 +4,26 @@
   "country_code": "VU",
   "hero_title": "Hotels in Port Vila",
   "description": "Discover the best hotels in Port Vila, Vanuatu. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/y00la3tend2g3ofch1m",
+  "hero_image": "https://images.luxuryescapes.com/p6989y2ckiw8ur3lnb",
   "hotels": [
+    {
+      "vendor_name": "Holiday Inn Resort Vanuatu",
+      "offer_country_name": "Vanuatu",
+      "location_heading": "Port Vila",
+      "title": "Vanuatu Lagoon Luxury with Pool Bar & Kids Club",
+      "description": "Wistful dreams of turquoise lagoons and iced-white beaches come true at Holiday Inn Resort Vanuatu, a tropical island paradise. Ideal as a family destination or romantic escape, discover gems such as a kids' club, a family swimming pool and a tranquil day spa. When it comes to dining, be wowed by lagoon panoramas and a mouthwatering menu (try the Vanuatu rock lobster) at Verandah, or simply savour a cocktail at the Pool Bar.",
+      "location_subheading": "Vanuatu",
+      "price": 119,
+      "original_price": 119,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNkIcAAL",
+      "hero_image": "https://images.luxuryescapes.com/p6989y2ckiw8ur3lnb",
+      "image_two": "https://images.luxuryescapes.com/azaphs26cecvb9sdxeoa",
+      "image_three": "https://images.luxuryescapes.com/6nbx116nuzqdhuoxpt9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Iririki Island Resort and Spa",
       "offer_country_name": "Vanuatu",
@@ -13,9 +31,9 @@
       "title": "Vanuatu Haven with Snorkelling Cove, Day Spa & Resort Pools",
       "description": "A dreamy island retreat awaits at luxurious Iririki Island Resort & Spa, a tropical oasis in the heart of Vanuatu's Port Vila Harbour. This breezy retreat offers access to pristine beaches, vibrant coral reefs and the bustling markets of Port Vila, just a few minutes away by ferry. Savour exquisite local cuisine at the resort's Azure Restaurant, which provides sweeping views of the harbour. Then unwind at the indulgent spa, or snorkel the day away in the picturesque coves before returning to shore and reclining on the white sands or shady pool decks.",
       "location_subheading": "Vanuatu",
-      "price": 135,
-      "original_price": 161,
-      "discount_percentage": 16,
+      "price": 136,
+      "original_price": 164,
+      "discount_percentage": 17,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000G53QPAAZ",
       "hero_image": "https://images.luxuryescapes.com/y00la3tend2g3ofch1m",
       "image_two": "https://images.luxuryescapes.com/3dr5qehxmjpgirmy7rwq",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-13",
-    "hotel_count": 2,
-    "average_price": 139,
-    "average_discount": 8
+    "last_updated": "2026-02-14",
+    "hotel_count": 3,
+    "average_price": 133,
+    "average_discount": 6
   }
 }
