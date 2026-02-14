@@ -64,7 +64,10 @@ export default function RegionalHomepage({ regionalData, searchData }: RegionalH
   };
 
   const getDestinationSlug = (destination: string, country: string) => {
-    return destination.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+    return destination.toLowerCase()
+      .replace(/_/g, '-')      // Convert underscores to hyphens first
+      .replace(/\s+/g, '-')    // Then spaces to hyphens
+      .replace(/[^a-z0-9-]/g, '');  // Finally remove other invalid characters
   };
 
   const getCountrySlug = (country: string) => {

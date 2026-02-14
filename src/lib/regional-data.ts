@@ -52,7 +52,10 @@ export async function loadSearchData(): Promise<SearchItem[]> {
 
 // Helper function to get destination slug
 export function getDestinationSlug(destination: string, country: string): string {
-  return destination.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  return destination.toLowerCase()
+    .replace(/_/g, '-')      // Convert underscores to hyphens first
+    .replace(/\s+/g, '-')    // Then spaces to hyphens
+    .replace(/[^a-z0-9-]/g, '');  // Finally remove other invalid characters
 }
 
 // Helper function to get country slug
