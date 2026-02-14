@@ -25,37 +25,37 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Domes of Elounda, Autograph Collection",
-      "offer_country_name": "Greece",
-      "location_heading": "Crete",
-      "title": "Crete Luxury Seaside Suites with Daily Breakfast, Dinner & Nighty Cocktails",
-      "description": "In a corner of the world where sapphire waters meet clear-blue skies beneath the Mediterranean sun, Domes of Elounda, Autograph Collection is a Greek escape like no other. Backed by the Marriott's iconic hospitality, this seaside sanctuary features contemporary Cretan architecture, five-star facilities and a magnificent private beach. Every sun-drenched morning and golden evening, enjoy breakfast and dinner at Thólos Restaurant, where Mediterranean dishes shine and floor-to-ceiling windows frame swoon-worthy ocean views. Alternatively, try Makris Fine Dining, overlooking the Venetian castle of Spinalonga Island or head to Blend Steak & Wine for Italian-inspired grilled meats and fine drops. For stunning views over the island of Spinalonga, visit the adults-only Chora - a brand-new complex with dedicated pool and Antonino’s Italian restaurant and pool bar. When you’re not floating in the Cretan waters or relaxing on a poolside lounger, head to Soma Spa for restorative rituals and massages, or keep up with your routine at the indoor fitness centre. Families will appreciate the kids’ club and family-friendly pool, while adults can enjoy seclusion at their own pool.",
-      "location_subheading": "Greece",
-      "price": 1119,
-      "original_price": 4663,
-      "discount_percentage": 76,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000OMuQmYAL",
-      "hero_image": "https://images.luxuryescapes.com/5w6es0wdliqf4n6mw38k",
-      "image_two": "https://images.luxuryescapes.com/ty2ckuzz51d2aidz9na",
-      "image_three": "https://images.luxuryescapes.com/hl2cfsy4st28sncr6hc",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 5,
-      "end_date_utc": "2026-01-23 12:59:00"
-    },
-    {
       "vendor_name": "Elounda Gulf Villas",
       "offer_country_name": "Greece",
       "location_heading": "Crete",
       "title": "Elegant Crete Oceanfront Suites & Pool Villas with Clifftop Spa & Private Beach Club",
       "description": "Part of the Small Luxury Hotels of the World, these gorgeous clifftop Mediterranean suites and villas promise boutique elegance high above the shimmering waters of Mirabello Bay. With each villa boasting unrivalled privacy and breathtaking views over Crete, it's the perfect way to soak up the island's natural splendour. Savour farm-to-table cuisine at the Argo Restaurant, savour craft cocktails and fresh coffee at Argo Pool Bar, or head out on the complimentary shuttle to the resort's own private beach club for watersports or seaside drinks. Ready to unwind? Melt away with a therapeutic session at Elixir Spa. Venture out to explore the charming fishing village of Elounda, or visit the historic town of Agios Nikolaos, renowned for its vibrant nightlife and picturesque lake.",
       "location_subheading": "Greece",
-      "price": 221,
-      "original_price": 221,
+      "price": 263,
+      "original_price": 263,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JMPX4AAP",
       "hero_image": "https://images.luxuryescapes.com/bdfjtxhxqr12qrca1efa",
       "image_two": "https://images.luxuryescapes.com/x7wfr72y9i85khxdore",
       "image_three": "https://images.luxuryescapes.com/d01jzjt6wq8lkthyho",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "InterContinental Crete",
+      "offer_country_name": "Greece",
+      "location_heading": "Crete",
+      "title": "Eastern Crete Coastal Retreat near Mirabello Bay with Tranquil Infinity Pools",
+      "description": "Experience the epitome of Crete luxury with a stay at this beachfront oasis overlooking Mirabello Bay. Explore the charming coastal town of Agios Nikolaos, or venture further afield to Archanes, renowned for its vineyards and olive groves. Return to your tranquil base and take a dip in two glittering infinity pools which appear to merge harmoniously with the bay beyond, or simply savour a refreshing beverage at the hotel's onsite bars.",
+      "location_subheading": "Greece",
+      "price": 143,
+      "original_price": 143,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ie57MAAR",
+      "hero_image": "https://images.luxuryescapes.com/v3b2fyr61qf4gqtjhf6",
+      "image_two": "https://images.luxuryescapes.com/d3h159i6qbdbj48xkiql",
+      "image_three": "https://images.luxuryescapes.com/8kwqczmohf6jshirytch",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -96,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
+    "last_updated": "2026-02-13",
     "hotel_count": 4,
-    "average_price": 510,
-    "average_discount": 19
+    "average_price": 276,
+    "average_discount": 0
   }
 }

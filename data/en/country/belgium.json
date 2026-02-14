@@ -3,16 +3,25 @@
   "code": "BE",
   "hero_title": "Belgium Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Belgium.",
-  "hero_image": "https://images.luxuryescapes.com/t11aqmf44n1ml4tacess",
+  "hero_image": "https://images.luxuryescapes.com/ypi7oph1a7olcavkatyc",
   "popular_destinations": [
+    {
+      "name": "Brussels",
+      "slug": "brussels",
+      "image": "https://images.luxuryescapes.com/ypi7oph1a7olcavkatyc",
+      "description": "Explore Brussels with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 131
+    },
     {
       "name": "Antwerp",
       "slug": "antwerp",
       "image": "https://images.luxuryescapes.com/t11aqmf44n1ml4tacess",
       "description": "Explore Antwerp with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 78
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 80
     },
     {
       "name": "Brugge",
@@ -21,7 +30,7 @@
       "description": "Explore Brugge with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 139
+      "avg_price": 143
     }
   ],
   "seo": {

@@ -4,25 +4,25 @@
   "country_code": "JP",
   "hero_title": "Hotels in Okinawa",
   "description": "Discover the best hotels in Okinawa, Japan. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/fgp8ud7lyg1tj8hjt8",
+  "hero_image": "https://images.luxuryescapes.com/nrxwm89o2zdqfz8t7h",
   "hotels": [
     {
-      "vendor_name": "Novotel Okinawa Naha",
+      "vendor_name": "InterContinental ANA Manza Beach Resort",
       "offer_country_name": "Japan",
       "location_heading": "Okinawa",
-      "title": "Stylish Okinawa Escape in Central Naha with Infinity Pool & Panoramic City Views",
-      "description": "Perched above the city with panoramic views of Naha and the distant Kerama Islands, Novotel Okinawa Naha offers easy access to Shurijo Castle’s UNESCO-listed grounds, the bustling Kokusai Dori shopping street and the vibrant Tsuboya Pottery District. Spacious rooms blend contemporary Japanese design with thoughtful comforts, while the infinity pool overlooks the cityscape and lush tropical gardens. Sample decadent teppanyaki at Toki or savour mouthwtering grilled meats at the BBQ Terrace - two fine examples of classy Japanese dining. For a wider variety, the Avancer food exchange features a buffet of both French and local cuisines for all-day dining in a more relaxed setting.",
+      "title": "Sophisticated Okinawa Beachfront Retreat with Private Beach near Onna Village",
+      "description": "InterContinental Ana Manza Beach Resort combines five-star luxury with the best of tradition, in Japan's southern isle of Okinawa. Take in the panoramic waterfront views, dive into the glittering East China Sea at the hotel’s private beach where kaleidoscopic coral reefs await or explore Cape Manza on a catamaran cruise. With world-class dining options within the resort, a luxurious wellness centre and an abundance of resort activities, there’s an endless supply of entertainment at your fingertips.",
       "location_subheading": "Japan",
-      "price": 64,
-      "original_price": 64,
+      "price": 108,
+      "original_price": 108,
       "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000M5lV1YAJ",
-      "hero_image": "https://images.luxuryescapes.com/fgp8ud7lyg1tj8hjt8",
-      "image_two": "https://images.luxuryescapes.com/sm2bu9jd2hrfm0not5",
-      "image_three": "https://images.luxuryescapes.com/7n2kjmxa6r2w4l2ar8q",
-      "deal_tier": "",
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6VAAR",
+      "hero_image": "https://images.luxuryescapes.com/nrxwm89o2zdqfz8t7h",
+      "image_two": "https://images.luxuryescapes.com/4l88pfz9pcxtlb6zpp68",
+      "image_three": "https://images.luxuryescapes.com/243src30n4qosthdtx8",
+      "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
+    "last_updated": "2026-02-13",
     "hotel_count": 1,
-    "average_price": 64,
+    "average_price": 108,
     "average_discount": 0
   }
 }

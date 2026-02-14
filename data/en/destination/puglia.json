@@ -1,0 +1,50 @@
+{
+  "city": "Puglia",
+  "country": "Italy",
+  "country_code": "IT",
+  "hero_title": "Hotels in Puglia",
+  "description": "Discover the best hotels in Puglia, Italy. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/c4nwkb6d6f4cki4yytn",
+  "hotels": [
+    {
+      "vendor_name": "Il Melograno - a Small Luxury Hotel",
+      "offer_country_name": "Italy",
+      "location_heading": "Puglia",
+      "title": "Puglia Luxury Boutique Escape with Daily Breakfast & Nightly Free-Flow Drinks Hour",
+      "description": "Tucked among ancient olive sentinels in Monopoli's dreamy landscape, this boutique five-star escape is more than just Italy's first masseria-turned-hotel - it's a 400-year ode to life in Puglia. History lingers in the stone walls, the scent of sun-warmed earth drifts through the gardens, and mornings begin with an espresso under centuries-old arches. Take a slow swim in Il Melograno's heated indoor pool, unwind with a candlelit treatment at Fusion Spa, or let the hours slip by in gardens touched by sea breeze and citrus trees. Just ten minutes away, Tamerici Beach Club awaits with pristine Adriatic shores and comfortable white sofas on a panoramic terrace. Back at the masseria, Mùmmulo Restaurant brings rustic tradition to the table - named after the clay jugs once used to cool water in the summer heat. Whether you're strolling along flower-lined paths or sinking into a suite filled with character, Il Melograno invites you to kick off your shoes, slow down and soak up the good life.",
+      "location_subheading": "Italy",
+      "price": 519,
+      "original_price": 1526,
+      "discount_percentage": 66,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ngh54YAB",
+      "hero_image": "https://images.luxuryescapes.com/c4nwkb6d6f4cki4yytn",
+      "image_two": "https://images.luxuryescapes.com/46vhyeuqiadpn1oj3kjn",
+      "image_three": "https://images.luxuryescapes.com/f22yrubsjhr0x6va1cyc",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-03-02 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Puglia - Italy Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Puglia, Italy with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "puglia hotels",
+      "puglia travel",
+      "italy hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/puglia",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/puglia",
+      "es": "https://mondoexplora.com/es/destination/puglia",
+      "fr": "https://mondoexplora.com/fr/destination/puglia",
+      "it": "https://mondoexplora.com/it/destination/puglia"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-02-13",
+    "hotel_count": 1,
+    "average_price": 519,
+    "average_discount": 66
+  }
+}

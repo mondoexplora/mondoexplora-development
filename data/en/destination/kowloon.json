@@ -13,8 +13,8 @@
       "title": "Five-Star Hong Kong Kowloon Escape with Outdoor Gin Bar & Award-Winning Restaurant",
       "description": "Stay in the heart of Mongkok, Kowloon at the five-star Cordis Hong Kong. Explore the exquisite dining options onsite, from sipping gin under the stars at The Garage Bar or savouring authentic Cantonese cuisine paired with exceptional wines at the award-winning Ming Court. When the need to unwind hits, enjoy a rejuvenating body scrub or relaxing full-body massage at Chuan Spa, or float away in the heated rooftop swimming pool, complete with underwater audio for a truly relaxing swim.",
       "location_subheading": "Hong Kong",
-      "price": 97,
-      "original_price": 97,
+      "price": 119,
+      "original_price": 119,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007m7J2AAI",
       "hero_image": "https://images.luxuryescapes.com/2qlq887yry4nj76wwf",
@@ -31,8 +31,8 @@
       "title": "Stylish Hong Kong Creative Sanctuary with Award-Winning Restaurant & Rooftop Pool",
       "description": "Experience the vibrant energy of Kowloon from this stylish and sustainable retreat in the heart of Hong Kong. Just steps from the MTR station within the bustling Jordan district, Eaton HK, Langham Hospitality Group, is perfectly positioned for exploring the Temple Street Night Market, Jade Market and the historic Tin Hau Temple. Within the hotel, savour innovative Cantonese cuisine at Yat Tung Heen, enjoy sustainable cocktails at Terrible Baby or find tranquillity in the rooftop pool. Enjoy a host of amenities to make this escape a relaxing and memorable one.",
       "location_subheading": "Hong Kong",
-      "price": 89,
-      "original_price": 89,
+      "price": 82,
+      "original_price": 82,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000BfvhcAAB",
       "hero_image": "https://images.luxuryescapes.com/tb3v4jol0ckk3xi1litv",
@@ -41,6 +41,42 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Intercontinental Grand Stanford Hong Kong by IHG",
+      "offer_country_name": "Hong Kong",
+      "location_heading": "Kowloon",
+      "title": "Hong Kong Luxury Victoria Harbour Retreat with Daily Breakfast, Drinks & Club Lounge Access",
+      "description": "In one of Hong Kong's most sought-after neighbourhoods, discover sweeping skylines and refined comfort along the iconic Victoria Harbour. Look out over the water from a sleek and spacious room, offering front-row seats to the nightly Symphony of Lights and the ideal spot to retreat to after exploring popular Tsim Sha Tsui's galleries, markets and waterside promenades. Spend your days lounging by the glittering outdoor pool perched above the city, and evenings downstairs at Tiffany's New York Bar for a dose of Manhattan glamour and one of Hong Kong's most impressive whiskey collections. Club InterContinental access adds an extra layer of indulgence, with international breakfast, afternoon tea and evening drinks with premium wines, spirits and tempting canapes. Dining is a highlight here, with options that range from refined Cantonese dishes served in the courtyard-style surrounds of Hoi King Heen to handmade pastas and regional Italian classics at The Mistral. This is Hong Kong at its most polished - where international elegance meets local buzz.",
+      "location_subheading": "Hong Kong",
+      "price": 629,
+      "original_price": 2097,
+      "discount_percentage": 70,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PM3nFYAT",
+      "hero_image": "https://images.luxuryescapes.com/ew2m4bsleht56yl9tsz",
+      "image_two": "https://images.luxuryescapes.com/asfwuxbqb8ymlj7reeka",
+      "image_three": "https://images.luxuryescapes.com/5e3g7eijo72xus5y1brn",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 3,
+      "end_date_utc": "2026-02-25 12:59:00"
+    },
+    {
+      "vendor_name": "Intercontinental Grand Stanford Hong Kong by IHG",
+      "offer_country_name": "Hong Kong",
+      "location_heading": "Kowloon",
+      "title": "Five-Star Hong Kong InterContinental Luxury in Vibrant Tsim Sha Tsui District",
+      "description": "Escape to InterContinental Grand Stanford Hong Kong, a five-star retreat in the vibrant Tsim Sha Tsui district perched on Hong Kong's iconic waterfront. On your doorstep, you’ll find the high-end boutiques of Canton Road, the city's largest shopping mall - Harbour City - and plenty of restaurants to delight. Within the award-winning hotel, feast on Michelin-starred fare, plunge into the glistening pool or keep up your fitness routine in the 24-hour gym.",
+      "location_subheading": "Hong Kong",
+      "price": 151,
+      "original_price": 151,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6HAAR",
+      "hero_image": "https://images.luxuryescapes.com/nd08x3u5eg1e4w1onz58j",
+      "image_two": "https://images.luxuryescapes.com/cslkfrjve5krr5dbex72",
+      "image_three": "https://images.luxuryescapes.com/dt77lfxdjf786da52tx6",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 2,
-    "average_price": 93,
-    "average_discount": 0
+    "last_updated": "2026-02-13",
+    "hotel_count": 4,
+    "average_price": 245,
+    "average_discount": 18
   }
 }

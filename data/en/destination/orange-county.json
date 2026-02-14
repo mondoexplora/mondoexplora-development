@@ -1,0 +1,50 @@
+{
+  "city": "Orange County",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Orange County",
+  "description": "Discover the best hotels in Orange County, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/ynslv05xchryk8j4o1nw",
+  "hotels": [
+    {
+      "vendor_name": "The Waterfront Beach Resort, a Hilton Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Orange County",
+      "title": "Southern California Oceanfront Escape on Huntington Beach with Daily US$50 Dining Credit",
+      "description": "This oceanfront escape is the quintessential Southern California stay, overlooking the golden sands of Huntington Beach and with Disneyland a 30-minute drive away. Wake to sweeping Pacific views before letting the kids roam free between two sparkling pools complete with waterslides and shaded cabanas. Spend sun-filled days by the water, then gather together around a private beachfront fire pit as the sky turns golden and the Pacific waves roll in. Daily US$50 dining credit means you'll be able to dine as you like across the resort’s five restaurants and bars, from ice-cold martinis at Offshore 9 Rooftop Lounge to open-air dining at Henry’s Coastal Cuisine Restaurant.",
+      "location_subheading": "United States",
+      "price": 559,
+      "original_price": 1055,
+      "discount_percentage": 47,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JZ5MtYAL",
+      "hero_image": "https://images.luxuryescapes.com/ynslv05xchryk8j4o1nw",
+      "image_two": "https://images.luxuryescapes.com/jdan28y3asazn5nwrft",
+      "image_three": "https://images.luxuryescapes.com/9j2lkrt29iifnqbvxvn",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-02-28 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Orange County - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Orange County, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "orange county hotels",
+      "orange county travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/orange-county",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/orange-county",
+      "es": "https://mondoexplora.com/es/destination/orange-county",
+      "fr": "https://mondoexplora.com/fr/destination/orange-county",
+      "it": "https://mondoexplora.com/it/destination/orange-county"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-02-05",
+    "hotel_count": 1,
+    "average_price": 559,
+    "average_discount": 47
+  }
+}

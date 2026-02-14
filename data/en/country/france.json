@@ -10,18 +10,27 @@
       "slug": "paris",
       "image": "https://images.luxuryescapes.com/38mqrxy3jkcpv4iddx",
       "description": "Explore Paris with luxury accommodations",
-      "hotel_count": 22,
-      "hotel_deals": 22,
-      "avg_price": 552
+      "hotel_count": 21,
+      "hotel_deals": 21,
+      "avg_price": 477
     },
     {
       "name": "Lyon",
       "slug": "lyon",
       "image": "https://images.luxuryescapes.com/f1xh8vumeq649231cg7k",
       "description": "Explore Lyon with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 149
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 173
+    },
+    {
+      "name": "Strasbourg",
+      "slug": "strasbourg",
+      "image": "https://images.luxuryescapes.com/9o0ztaigin4d4zkdunjl",
+      "description": "Explore Strasbourg with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 116
     },
     {
       "name": "Val Thorens",
@@ -30,34 +39,25 @@
       "description": "Explore Val Thorens with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 309
+      "avg_price": 278
+    },
+    {
+      "name": "Corsica",
+      "slug": "corsica",
+      "image": "https://images.luxuryescapes.com/q3r9cd8kjfw8op7w58v",
+      "description": "Explore Corsica with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 375
     },
     {
       "name": "Bordeaux",
       "slug": "bordeaux",
-      "image": "https://images.luxuryescapes.com/hz7b3hejmw272xvzh70g8",
+      "image": "https://images.luxuryescapes.com/e4numb74ohjtqxhumpx",
       "description": "Explore Bordeaux with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 173
-    },
-    {
-      "name": "Biarritz",
-      "slug": "biarritz",
-      "image": "https://images.luxuryescapes.com/zdc5f1aofgp1kr7d2htl",
-      "description": "Explore Biarritz with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 218
-    },
-    {
-      "name": "Provence",
-      "slug": "provence",
-      "image": "https://images.luxuryescapes.com/ai9lhl1brf89z8f6arde",
-      "description": "Explore Provence with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 328
+      "avg_price": 169
     }
   ],
   "seo": {

@@ -1,0 +1,50 @@
+{
+  "city": "St James",
+  "country": "Barbados",
+  "country_code": "BB",
+  "hero_title": "Hotels in St James",
+  "description": "Discover the best hotels in St James, Barbados. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/5u36belaqgtykf99jwei",
+  "hotels": [
+    {
+      "vendor_name": "Fairmont Royal Pavilion",
+      "offer_country_name": "Barbados",
+      "location_heading": "St James",
+      "title": "Barbados: Platinum Coast Seaside Escape with Onsite Restaurants, Bars & Outdoor Pool",
+      "description": "Step onto the powdery sands of Barbados’ Platinum Coast, where colonial-inspired architecture meets sweeping Caribbean vistas. Each ocean-facing room and suite is adorned with chic island decor and private terraces, offering direct access to the beach or lush tropical gardens. Begin your day with a gourmet breakfast at Taboras, then stroll to historic Holetown for designer shopping and local markets. Savour refined afternoon tea on the terrace or enjoy inventive cocktails at the beachfront Palm Terrace Restaurant as the waves roll in.",
+      "location_subheading": "Barbados",
+      "price": 585,
+      "original_price": 585,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Jjw0BYAR",
+      "hero_image": "https://images.luxuryescapes.com/5u36belaqgtykf99jwei",
+      "image_two": "https://images.luxuryescapes.com/3sb3ztkvrz2ub7cssm0q",
+      "image_three": "https://images.luxuryescapes.com/8mn9nqzi9ksavbo4xu3g",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in St James - Barbados Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in St James, Barbados with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "st james hotels",
+      "st james travel",
+      "barbados hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/st-james",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/st-james",
+      "es": "https://mondoexplora.com/es/destination/st-james",
+      "fr": "https://mondoexplora.com/fr/destination/st-james",
+      "it": "https://mondoexplora.com/it/destination/st-james"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-02-12",
+    "hotel_count": 1,
+    "average_price": 585,
+    "average_discount": 0
+  }
+}

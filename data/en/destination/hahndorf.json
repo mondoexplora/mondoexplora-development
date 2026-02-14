@@ -13,8 +13,8 @@
       "title": "Hahndorf Off-Grid Luxury Eco-Cabin within Adelaide Hills Wine Country",
       "description": "Unplug and unwind at this off-grid eco-sanctuary, a collection of cosy cabins in the Adelaide Hills housed within a natural amphitheatre of native gum trees. Disconnect from the noise and reconnect with the earth's rhythms from the comfort of your modern retreat, boasting a fireplace, barbeque, kitchenette and an outdoor sitting area to enjoy the native flora and fauna from your doorstep. With a complete commitment to sustainability, you can rest peacefully knowing the environment surrounding you is cared for, with each cabin powered by the sun and planet-conscious systems in place. Whether you're feeling fit for a hike or looking for a peaceful retreat, make the most of the picturesque bushland on winding walking paths or the Heysen Trail nearby, set against the backdrop of the Mount Lofty Ranges.",
       "location_subheading": "Australia",
-      "price": 361,
-      "original_price": 361,
+      "price": 374,
+      "original_price": 374,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GZ2DqYAL",
       "hero_image": "https://images.luxuryescapes.com/p84qjdvx0cbquj3mtl1",
@@ -23,6 +23,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "CABN Hahndorf",
+      "offer_country_name": "Australia",
+      "location_heading": "Hahndorf",
+      "title": "Hahndorf Off-Grid Luxury Eco-Cabin within Adelaide Hills Wine Country",
+      "description": "Unplug and unwind at this off-grid eco-sanctuary, a collection of cosy cabins in the Adelaide Hills, housed within a natural amphitheatre of native gum trees. Disconnect from the noise and reconnect with the earth’s rhythms from the comfort of your chic retreat, boasting a fireplace, barbeque, kitchenette and an outdoor sitting area to enjoy the native flora and fauna from your doorstep. Venture further afield to discover the charming German village of Hahndorf where the streets are lined with artisan shops, or taste local drops from Shaw and Smith, Sidewood Estate, Hahndorf Hill Winery and Ambleside Distillers in the renowned Adelaide Hills region. Visit the Beerenberg Family farm, where Australian jams, chutneys, relishes and sauces are made, pick fresh strawberries in the summertime or head to Jurlique Farm - home to the renowned beauty label of the same name - just a 15-minute drive away.",
+      "location_subheading": "Australia",
+      "price": 239,
+      "original_price": 398,
+      "discount_percentage": 40,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PreiTYAR",
+      "hero_image": "https://images.luxuryescapes.com/msggnqxz8ndgwa69hxhts",
+      "image_two": "https://images.luxuryescapes.com/4fgic6lvhdnagrn3876",
+      "image_three": "https://images.luxuryescapes.com/go078riunlyg7wsc4iev",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-04-03 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 1,
-    "average_price": 361,
-    "average_discount": 0
+    "last_updated": "2026-02-13",
+    "hotel_count": 2,
+    "average_price": 307,
+    "average_discount": 20
   }
 }

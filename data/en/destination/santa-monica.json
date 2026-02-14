@@ -13,8 +13,8 @@
       "title": "Stylish Seaside Santa Monica Luxury with Five Eateries & Lagoon Pool",
       "description": "Experience Santa Monica’s most storied coastal retreat, home to the region’s only private bungalows and a legacy of celebrity stays including Greta Garbo and Marilyn Monroe. Set atop the bluffs overlooking the golden beaches of Los Angeles, this 19th-century estate is a luxury hideaway placing you moments from the Santa Monica Pier and Third Street Promenade. Unwind by the palm-fringed pool or savor ocean-to-table flavors at FIG Restaurant. Sip handcrafted cocktails with sunset views at The Bungalow, or enjoy an intimate eight-seat sushi experience at Soko Sushi, which also offers meals to go. Stay refreshed with the onsite Em Styles Salon and Lloyd's Barbershop and a 24-hour fitness centre. Spanning five acres of lush gardens, embody laid-back luxury with effortless California cool.",
       "location_subheading": "United States",
-      "price": 428,
-      "original_price": 428,
+      "price": 427,
+      "original_price": 427,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GRpI9YAL",
       "hero_image": "https://images.luxuryescapes.com/s5hwsppmi1qx6jkgoo6o",
@@ -25,14 +25,32 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Sandbourne Santa Monica, Autograph Collection",
+      "offer_country_name": "United States",
+      "location_heading": "Santa Monica",
+      "title": "Santa Monica Coastal Luxury Just Steps from the Beach with Daily Breakfast & Hotel Credit",
+      "description": "Feel the sea breeze on your sun-kissed skin as you lounge at one of Santa Monica’s newest additions in luxury accommodation. The recently-renovated Sandbourne Santa Monica is just a short stroll from the famous pier, with soothing interiors inspired by the sun, sand and sea making you feel worlds away from the everyday. Find your zen by the outdoor pool and lounge, offering lavish cabanas and mouthwatering cocktails, and indulge your senses at the exquisite Marelle restaurant, where sunlit interiors and California flavours shine. When wellness calls, modern fitness facilities and relaxing sauna and steam rooms are on hand to help you recharge in style. Beyond your private slice of heaven, Sandbourne Santa Monica offers the perfect base for both relaxation and discovery. Spend your days unwinding on the golden sands or exploring the best of Los Angeles, from the boutiques and cafés of Third Street Promenade to the artistic energy of Venice Beach and the glamour of Beverly Hills, all just moments away from this coastal sanctuary.",
+      "location_subheading": "United States",
+      "price": 699,
+      "original_price": 1146,
+      "discount_percentage": 39,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000KdajGYAR",
+      "hero_image": "https://images.luxuryescapes.com/byo8jpbvqbi8n00uj70q",
+      "image_two": "https://images.luxuryescapes.com/t4q95xhula7wa4hq5je",
+      "image_three": "https://images.luxuryescapes.com/do7rk7kgua5gmfh5s31",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-02-28 12:59:00"
+    },
+    {
       "vendor_name": "The Pierside Santa Monica",
       "offer_country_name": "United States",
       "location_heading": "Santa Monica",
       "title": "Stylish Santa Monica Stay Steps from Beachfront with Saltwater Pool & Ocean View Restaurant",
       "description": "Make a splash with a sunsine-soaked stay at The Pierside Santa Monica, moments from the beach and overlooking the picturesque pier. Enjoy leisurely and laid-back days in stylish, ocean-inspired spaces, and ensure a refreshing dip in the outdoor saltwater pool. Or loan a surfboard or skateboard from the onsite shop and head out to explore the best of the area's beaches, trails and parks, before treating yourself to a deliciously flavourful SoCal meal at The Surfing Fox as you watch the tide come in.",
       "location_subheading": "United States",
-      "price": 262,
-      "original_price": 262,
+      "price": 274,
+      "original_price": 274,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FMPbBAAX",
       "hero_image": "https://images.luxuryescapes.com/fx51ndeyxtl2vpdi9ed",
@@ -49,8 +67,8 @@
       "title": "Luxury Santa Monica Hotel Moments from the Ocean & Iconic Pier",
       "description": "Swap California dreaming for California living with a luxury stay at Viceroy Santa Monica - enviably located mere steps from the golden beachfront and close to the best attractions of bustling Los Angeles. Embraced by gently rustling palm trees, mountains and salty ocean breezes, this stylish property features two shimmering outdoor pools and the laidback Sugar Palm Ocean Avenue, offering an indoor-outdoor dining and nightlife experience with a wraparound bar and poolside cabanas.",
       "location_subheading": "United States",
-      "price": 308,
-      "original_price": 308,
+      "price": 294,
+      "original_price": 294,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003HgaQAAS",
       "hero_image": "https://images.luxuryescapes.com/no7heypi9vboup8abyfq",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-16",
-    "hotel_count": 3,
-    "average_price": 333,
-    "average_discount": 0
+    "last_updated": "2026-02-13",
+    "hotel_count": 4,
+    "average_price": 424,
+    "average_discount": 10
   }
 }

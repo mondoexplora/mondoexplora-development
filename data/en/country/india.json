@@ -3,34 +3,34 @@
   "code": "IN",
   "hero_title": "India Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in India.",
-  "hero_image": "https://images.luxuryescapes.com/drp3lhbidsu5v193ogqg",
+  "hero_image": "https://images.luxuryescapes.com/1jha7kogmju33u1ks8b",
   "popular_destinations": [
-    {
-      "name": "Mumbai",
-      "slug": "mumbai",
-      "image": "https://images.luxuryescapes.com/drp3lhbidsu5v193ogqg",
-      "description": "Explore Mumbai with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 98
-    },
     {
       "name": "New Delhi",
       "slug": "new-delhi",
       "image": "https://images.luxuryescapes.com/1jha7kogmju33u1ks8b",
       "description": "Explore New Delhi with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 83
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 91
     },
     {
       "name": "Jaipur",
       "slug": "jaipur",
-      "image": "https://images.luxuryescapes.com/4m3m3w72b4g0rrjmpsg",
+      "image": "https://images.luxuryescapes.com/r7b7ksebjuctoqee4nr",
       "description": "Explore Jaipur with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 250
+      "avg_price": 290
+    },
+    {
+      "name": "Gurugram",
+      "slug": "gurugram",
+      "image": "https://images.luxuryescapes.com/0sx05bjovri4sirmqdrg",
+      "description": "Explore Gurugram with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 52
     },
     {
       "name": "Bangalore",
@@ -39,7 +39,7 @@
       "description": "Explore Bangalore with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 72
+      "avg_price": 77
     },
     {
       "name": "Kochi",
@@ -48,7 +48,7 @@
       "description": "Explore Kochi with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 63
+      "avg_price": 62
     },
     {
       "name": "Kerala",
@@ -57,7 +57,7 @@
       "description": "Explore Kerala with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 132
+      "avg_price": 129
     }
   ],
   "seo": {

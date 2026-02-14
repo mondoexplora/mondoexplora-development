@@ -3,34 +3,25 @@
   "code": "CA",
   "hero_title": "Canada Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Canada.",
-  "hero_image": "https://images.luxuryescapes.com/i3fljywt07lgaf32r1",
+  "hero_image": "https://images.luxuryescapes.com/pzribm04edbao08mh1",
   "popular_destinations": [
     {
       "name": "Toronto",
       "slug": "toronto",
-      "image": "https://images.luxuryescapes.com/i3fljywt07lgaf32r1",
+      "image": "https://images.luxuryescapes.com/pzribm04edbao08mh1",
       "description": "Explore Toronto with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 200
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 234
     },
     {
       "name": "Vancouver",
       "slug": "vancouver",
-      "image": "https://images.luxuryescapes.com/2vk37khd86hzkyz03ge",
+      "image": "https://images.luxuryescapes.com/5fcqyfaafdcpsgnucgj7",
       "description": "Explore Vancouver with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 342
-    },
-    {
-      "name": "Banff",
-      "slug": "banff",
-      "image": "https://images.luxuryescapes.com/m200j04ip0ufk6c5b7ij",
-      "description": "Explore Banff with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 424
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 320
     },
     {
       "name": "Lake Louise",
@@ -39,7 +30,16 @@
       "description": "Explore Lake Louise with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 378
+      "avg_price": 379
+    },
+    {
+      "name": "Jasper",
+      "slug": "jasper",
+      "image": "https://images.luxuryescapes.com/9rpswkju93b6i1s4ammq",
+      "description": "Explore Jasper with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 247
     },
     {
       "name": "Alberta",
@@ -48,7 +48,7 @@
       "description": "Explore Alberta with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 362
+      "avg_price": 391
     },
     {
       "name": "Montebello",
@@ -57,7 +57,7 @@
       "description": "Explore Montebello with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 246
+      "avg_price": 225
     }
   ],
   "seo": {
