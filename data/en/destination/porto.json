@@ -4,26 +4,8 @@
   "country_code": "PT",
   "hero_title": "Hotels in Porto",
   "description": "Discover the best hotels in Porto, Portugal. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/cwxxbyrbxf194xrl5lo5",
+  "hero_image": "https://images.luxuryescapes.com/hns8srxx9u2w15201jlp",
   "hotels": [
-    {
-      "vendor_name": "Crowne Plaza Porto",
-      "offer_country_name": "Portugal",
-      "location_heading": "Porto",
-      "title": "International Luxury within Portugal's Historic Port Wine Capital",
-      "description": "In the heart of Portugal's port wine capital, Crowne Plaza Porto, an IHG Hotel, is an urban oasis for good food, wine and relaxation. Savour succulent seafood at SOMOS Restaurant & Lounge, indulge in a tranquil treatment at Mandalay Wellness or reinvigorate your body at the onsite fitness centre. Experience the port wine of this magnificent city, marvel at heritage architecture or stroll along Ponte da Arrabida before returning for a well-earned rest.",
-      "location_subheading": "Portugal",
-      "price": 111,
-      "original_price": 111,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CPyDoAAL",
-      "hero_image": "https://images.luxuryescapes.com/cwxxbyrbxf194xrl5lo5",
-      "image_two": "https://images.luxuryescapes.com/lajdm8btbnt2kv70t5",
-      "image_three": "https://images.luxuryescapes.com/h6859bqaqazlqmjmy4pr",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "InterContinental Porto Palácio ds Cardosas",
       "offer_country_name": "Portugal",
@@ -168,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-14",
-    "hotel_count": 8,
-    "average_price": 214,
-    "average_discount": 14
+    "last_updated": "2026-02-15",
+    "hotel_count": 7,
+    "average_price": 228,
+    "average_discount": 16
   }
 }

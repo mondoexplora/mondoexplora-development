@@ -4,26 +4,8 @@
   "country_code": "KE",
   "hero_title": "Hotels in Nairobi",
   "description": "Discover the best hotels in Nairobi, Kenya. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/byv49cz8x9ca2li56q",
+  "hero_image": "https://images.luxuryescapes.com/j7biykjd84mfhl9vil",
   "hotels": [
-    {
-      "vendor_name": "Crowne Plaza Nairobi Airport",
-      "offer_country_name": "Kenya",
-      "location_heading": "Nairobi",
-      "title": "Stylish Five-Star Kenya Stay Minutes from Nairobi Airport",
-      "description": "Boasting five-star elegance and a convenient location, Crowne Plaza Nairobi Airport, an IHG Hotel, is a tranquil refuge moments from the aviation action. Just a 30-minute jaunt from Nairobi National Park and its abundance of awe-inspiring wildlife, you'll also savour seasonal fare at the four onsite eateries. After a busy day, indulge in a rejuvenating spa reatment or take a dip in the shimmering pool before retiring to your stylish room or suite.",
-      "location_subheading": "Kenya",
-      "price": 139,
-      "original_price": 139,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJbWAAX",
-      "hero_image": "https://images.luxuryescapes.com/byv49cz8x9ca2li56q",
-      "image_two": "https://images.luxuryescapes.com/nubeweuaqfnv0l287t8",
-      "image_three": "https://images.luxuryescapes.com/oakgdzfo9asqrq6bw1vs",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Fairmont The Norfolk",
       "offer_country_name": "Kenya",
@@ -96,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-14",
-    "hotel_count": 4,
-    "average_price": 155,
+    "last_updated": "2026-02-15",
+    "hotel_count": 3,
+    "average_price": 160,
     "average_discount": 0
   }
 }

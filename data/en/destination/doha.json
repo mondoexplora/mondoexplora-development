@@ -121,8 +121,8 @@
       "title": "Luxury Five-Star Escape in the Heart of Doha",
       "description": "Accept an invitation to old-world hospitality and cosmopolitan sophistication at the InterContinental Doha - The City, an IHG Hotel. Experience a quintessential Qatarian escape within an easy walk of the vibrant City Center Doha Mall, DECC Station, and the hypnotic Museum of Illusions. When not in your modern accommodation overlooking the sea or the city's sweeping skyline, relax in the swimming pool, work out at the fitness centre or head to one of seven world-class restaurants.",
       "location_subheading": "Qatar",
-      "price": 93,
-      "original_price": 93,
+      "price": 91,
+      "original_price": 91,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNEseAAH",
       "hero_image": "https://images.luxuryescapes.com/cut5adi4inq7fbwctbq1t",
@@ -139,8 +139,8 @@
       "title": "Five-Star Beachfront Doha Escape with 11 Restaurants & Bars",
       "description": "Experience the height of opulence when staying at the five-star InterContinental Doha Beach & Spa, an IHG Hotel, offering a quintessential Qatari escape. Expect dazzling city skyline and shimmering Arabian Sea views from your modern accommodation. Relax in one of the glittering swimming pools and when hunger hits, head to one of the 11 restaurants and bars. When it's time to explore Doha, you'll find yourself within close reach of Souq Waqif, The Pearl and Doha Corniche.",
       "location_subheading": "Qatar",
-      "price": 133,
-      "original_price": 133,
+      "price": 127,
+      "original_price": 127,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNErMAAX",
       "hero_image": "https://images.luxuryescapes.com/9i1fpxddumyfdd13j6vd",
@@ -277,24 +277,6 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "voco Doha West Bay Suites",
-      "offer_country_name": "Qatar",
-      "location_heading": "Doha",
-      "title": "Five-Star Doha Sky-High Escape with Luxury Day Spa & Kids' Club",
-      "description": "Be part of Doha's silver skyline when you stay at the soaring voco Doha West Bay Suites, an IHG Hotel, a 46-story skyscraper with epic views and sublime service. Hungry? Enjoy a spot of fine dining on the terrace at The Social, or snack on light bites and fruity mocktails at Serenitea cafe. Bored? Take a dip in the vast outdoor swimming pool, leave the kids to explore the fun kids' club and game room, or be pampered at the tranquil Al Jawhary Salon and Spa. There's something for everyone here.",
-      "location_subheading": "Qatar",
-      "price": 99,
-      "original_price": 99,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CP3eSAAT",
-      "hero_image": "https://images.luxuryescapes.com/eu1e08nodddjfi1hhwn",
-      "image_two": "https://images.luxuryescapes.com/ermhce7bn2kmxvjjbwk",
-      "image_three": "https://images.luxuryescapes.com/ezngoxmegdck3s6j35tx",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Fairmont Doha",
       "offer_country_name": "Qatar",
       "location_heading": "Doha",
@@ -384,9 +366,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-14",
-    "hotel_count": 20,
-    "average_price": 148,
+    "last_updated": "2026-02-15",
+    "hotel_count": 19,
+    "average_price": 150,
     "average_discount": 3
   }
 }

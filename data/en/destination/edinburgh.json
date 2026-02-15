@@ -97,24 +97,6 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "voco Edinburgh - Haymarket",
-      "offer_country_name": "United Kingdom",
-      "location_heading": "Edinburgh",
-      "title": "Contemporary Scotland City Break in the Heart of Edinburgh",
-      "description": "Explore Edinburgh's ancient delights by day and retire to modern luxury by night at voco Edinburgh - Haymarket, an IHG Hotel. This stylish property is just a short walk from Edinburgh Castle, Princes Street and Princes Street Gardens, but when you're not out and about, stay in to enjoy delicious bites at The Blossom Restaurant & Bar, or work up a sweat at the onsite fitness centre.",
-      "location_subheading": "United Kingdom",
-      "price": 87,
-      "original_price": 87,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CP4lsAAD",
-      "hero_image": "https://images.luxuryescapes.com/cb467n03493syhckkcq",
-      "image_two": "https://images.luxuryescapes.com/52viwyr27dh0ecc6a3nc",
-      "image_three": "https://images.luxuryescapes.com/9fskgng8t8oc3h3fjmm",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "voco Edinburgh - Royal Terrace",
       "offer_country_name": "United Kingdom",
       "location_heading": "Edinburgh",
@@ -150,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-14",
-    "hotel_count": 7,
-    "average_price": 110,
+    "last_updated": "2026-02-15",
+    "hotel_count": 6,
+    "average_price": 114,
     "average_discount": 0
   }
 }

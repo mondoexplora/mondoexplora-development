@@ -25,24 +25,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Crowne Plaza Lyon - Cite Internationale",
-      "offer_country_name": "France",
-      "location_heading": "Lyon",
-      "title": "Elegant Lyon Escape Overlooking the Idyllic Parc de la Tete d'Or",
-      "description": "Blending charming architecture with modern conveniences, Crowne Plaza Lyon - Cite Internationale, an IHG Hotel offers stunning views over the manicured gardens of Parc de la Tete d'Or. After days strolling the cobbled streets of the charming Old Town, immerse yourself in modern French cuisine at the onsite Bistrot Rive Gauche, or head out to sample the many delights of this epicurean city, known as the French capital of gastronomy.",
-      "location_subheading": "France",
-      "price": 89,
-      "original_price": 89,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJbQAAX",
-      "hero_image": "https://images.luxuryescapes.com/4ua1yjmljtr9vz3kirp",
-      "image_two": "https://images.luxuryescapes.com/jg285jw7jpiqonqfjxg",
-      "image_three": "https://images.luxuryescapes.com/qt13deh2uh2b1crdrd2",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 01:59:00"
-    },
-    {
       "vendor_name": "Hotel Carlton Lyon",
       "offer_country_name": "France",
       "location_heading": "Lyon",
@@ -114,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-14",
-    "hotel_count": 5,
-    "average_price": 173,
+    "last_updated": "2026-02-15",
+    "hotel_count": 4,
+    "average_price": 194,
     "average_discount": 0
   }
 }

@@ -10,9 +10,9 @@
       "slug": "istanbul",
       "image": "https://images.luxuryescapes.com/17vjwp1o78as570r7u6k",
       "description": "Explore Istanbul with luxury accommodations",
-      "hotel_count": 13,
-      "hotel_deals": 13,
-      "avg_price": 205
+      "hotel_count": 11,
+      "hotel_deals": 11,
+      "avg_price": 225
     },
     {
       "name": "Bursa",
@@ -42,15 +42,6 @@
       "avg_price": 105
     },
     {
-      "name": "Antalya",
-      "slug": "antalya",
-      "image": "https://images.luxuryescapes.com/ebm4lc0z06rf8xo5w8ve",
-      "description": "Explore Antalya with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 68
-    },
-    {
       "name": "Belek",
       "slug": "belek",
       "image": "https://images.luxuryescapes.com/oqj7ylkpyf6a24bf7iwd",
@@ -58,6 +49,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 1351
+    },
+    {
+      "name": "Buyukada",
+      "slug": "buyukada",
+      "image": "https://images.luxuryescapes.com/r2i2jmyjh55tgs92owm",
+      "description": "Explore Buyukada with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1564
     }
   ],
   "seo": {

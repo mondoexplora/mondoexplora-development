@@ -13,8 +13,8 @@
       "title": "Marrakech Luxury with Morocco's Largest Pool, Seven Dining Venues & Golf Course",
       "description": "Experience the splendour of Marrakech with an opulent Fairmont stay at this five-star oasis, perfectly positioned amid the ancient olive groves of a 231-hectare estate. With the majestic Atlas Mountains as your backdrop, this tranquil retreat offers a world-class golf course, a 2,000sqm swimming pool and four exquisite restaurants serving an array of international and Moroccan cuisine. Delve into the local culture with a visit to the vibrant Medina, just a 20-minute drive away, or explore the enchanting Majorelle Garden, home to rare botanical species. Back at the resort, rejuvenate at the expansive spa, offering traditional Hammam rituals and invigorating wellness treatments that will leave you utterly relaxed.",
       "location_subheading": "Morocco",
-      "price": 365,
-      "original_price": 365,
+      "price": 364,
+      "original_price": 364,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GRxdtYAD",
       "hero_image": "https://images.luxuryescapes.com/qaq9ke22tmroeyt6ru",
@@ -59,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Oberoi Marrakech",
+      "offer_country_name": "Morocco",
+      "location_heading": "Marrakech",
+      "title": "Award-Winning Marrakech Pool Villa Opulence with Daily Breakfast & Return Airport Transfers",
+      "description": "Unveil Morocco’s legendary myth and magic with an opulent villa stay at this five-star oasis, perfectly positioned in dazzling Marrakech. As you wander through spellbinding gardens of fragrant citrus trees, ancient olive groves and whispering fountains, it’s easy to see why The Oberoi Marrakech is so highly acclaimed. Embark on a journey through India’s culinary heritage at Rivayat, dine in the shadow of the Atlas Mountains at Tamimt or savour champagne and crudites at Vue, complete with candlelit interiors and a cosy open-air terrace. Located atop a shimmering water feature within the orchards, The Oberoi Spa beckons with a Moroccan hammam, herbal therapies and indulgent rituals. Beyond the resort's walls, Marrakech is a treasure chest stuffed to the brim with hidden wonders - explore the cactus-fringed walkways of Yves Saint Laurent’s Jardin Majorelle, stand in the majesty of Bahia Palace or head to the buzzing Medina for a glimpse of the city's electric spirit.",
+      "location_subheading": "Morocco",
+      "price": 1199,
+      "original_price": 3241,
+      "discount_percentage": 63,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000P8HJqYAN",
+      "hero_image": "https://images.luxuryescapes.com/yizd9kgh4cotwovgtg5",
+      "image_two": "https://images.luxuryescapes.com/kxxgoci2hha64y0avq8",
+      "image_three": "https://images.luxuryescapes.com/nzdr87edkjp71vn0oac",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 2,
+      "end_date_utc": "2026-03-13 12:59:00"
     }
   ],
   "seo": {
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-14",
-    "hotel_count": 3,
-    "average_price": 711,
-    "average_discount": 0
+    "last_updated": "2026-02-15",
+    "hotel_count": 4,
+    "average_price": 833,
+    "average_discount": 16
   }
 }

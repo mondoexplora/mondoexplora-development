@@ -13,8 +13,8 @@
       "title": "Tranquil Five-Star Riverside Escape in the Heart of Chiang Mai",
       "description": "Escape to riverside tranquillity at Anantara Chiang Mai Resort, a slice of serenity on the banks of the Mae Ping River. Located on the grounds of the former British consulate, this luxurious resort combines modern luxury with traditional Thai touches and the site’s colonial-era heritage, all encompassed in a sleek, peaceful design. Be pampered at the spa, indulge in contemporary cuisine and enjoy ancient monuments, galleries and night markets all within walking distance.",
       "location_subheading": "Thailand",
-      "price": 5202,
-      "original_price": 5202,
+      "price": 5204,
+      "original_price": 5204,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004v0flAAA",
       "hero_image": "https://images.luxuryescapes.com/a0sr02uddmjs59n6rcq",
@@ -41,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 2,
       "end_date_utc": "2026-03-31 12:59:00"
-    },
-    {
-      "vendor_name": "InterContinental Chiang Mai Mae Ping",
-      "offer_country_name": "Thailand",
-      "location_heading": "Chiang Mai",
-      "title": "Luxury Five-Star Escape in the Heart of Chiang Mai",
-      "description": "Accept an invitation to explore the old-world charm, sprawling luxury and cosmopolitan sophistication, at InterContinental Chiang Mai Mae Ping, an IHG Hotel. Immerse yourself in Lanna culture in this 'living museum' concept hotel that blends the handiwork of local artisans with signature InterContiental opulence. Centrally located within the bustling heart of the city, this hotel is perfectly placed for rickshaw rides through the Old Town and exploring the numerous Thai Buddhist temples.",
-      "location_subheading": "Thailand",
-      "price": 120,
-      "original_price": 120,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNUDOAA5",
-      "hero_image": "https://images.luxuryescapes.com/4wo19h4froxgsh4g7x6d",
-      "image_two": "https://images.luxuryescapes.com/pjgb3zygb9vzbqbstmhc",
-      "image_three": "https://images.luxuryescapes.com/m3khnt5n3mwq7sff7lsm",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Mercure Chiang Mai",
@@ -150,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-14",
-    "hotel_count": 7,
-    "average_price": 891,
-    "average_discount": 19
+    "last_updated": "2026-02-15",
+    "hotel_count": 6,
+    "average_price": 1020,
+    "average_discount": 23
   }
 }

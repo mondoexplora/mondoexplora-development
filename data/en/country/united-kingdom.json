@@ -10,27 +10,18 @@
       "slug": "london",
       "image": "https://images.luxuryescapes.com/39mzmc3drv1f0ixf989g",
       "description": "Explore London with luxury accommodations",
-      "hotel_count": 55,
-      "hotel_deals": 55,
-      "avg_price": 379
+      "hotel_count": 53,
+      "hotel_deals": 53,
+      "avg_price": 388
     },
     {
       "name": "Edinburgh",
       "slug": "edinburgh",
       "image": "https://images.luxuryescapes.com/zptradi37mp2shjch09f",
       "description": "Explore Edinburgh with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 110
-    },
-    {
-      "name": "Liverpool",
-      "slug": "liverpool",
-      "image": "https://images.luxuryescapes.com/8pcy0a9daau63ik7j51",
-      "description": "Explore Liverpool with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 87
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 114
     },
     {
       "name": "Manchester",
@@ -39,7 +30,16 @@
       "description": "Explore Manchester with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 107
+      "avg_price": 103
+    },
+    {
+      "name": "Liverpool",
+      "slug": "liverpool",
+      "image": "https://images.luxuryescapes.com/8pcy0a9daau63ik7j51",
+      "description": "Explore Liverpool with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 94
     },
     {
       "name": "Bath",
@@ -51,13 +51,13 @@
       "avg_price": 169
     },
     {
-      "name": "Glasgow",
-      "slug": "glasgow",
-      "image": "https://images.luxuryescapes.com/f1ps1m9h5po93e7s7s",
-      "description": "Explore Glasgow with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 102
+      "name": "Cheshire",
+      "slug": "cheshire",
+      "image": "https://images.luxuryescapes.com/0iu8c5k4ipr7ux09o5ol",
+      "description": "Explore Cheshire with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 91
     }
   ],
   "seo": {

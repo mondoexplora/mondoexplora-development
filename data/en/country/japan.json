@@ -10,36 +10,36 @@
       "slug": "tokyo",
       "image": "https://images.luxuryescapes.com/kiynmoi9772c9xpopp3p",
       "description": "Explore Tokyo with luxury accommodations",
-      "hotel_count": 14,
-      "hotel_deals": 14,
-      "avg_price": 387
-    },
-    {
-      "name": "Osaka",
-      "slug": "osaka",
-      "image": "https://images.luxuryescapes.com/1va8jgfgvoyxp3s7so7k",
-      "description": "Explore Osaka with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 209
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 401
     },
     {
       "name": "Kyoto",
       "slug": "kyoto",
       "image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
       "description": "Explore Kyoto with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 294
+    },
+    {
+      "name": "Osaka",
+      "slug": "osaka",
+      "image": "https://images.luxuryescapes.com/w6yajqubr4hmr9rsyhpu",
+      "description": "Explore Osaka with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 258
+      "avg_price": 274
     },
     {
       "name": "Sapporo",
       "slug": "sapporo",
-      "image": "https://images.luxuryescapes.com/bo6udncydom5cvvsjnhq",
+      "image": "https://images.luxuryescapes.com/aixbddefsiqtb7b2rl2",
       "description": "Explore Sapporo with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 70
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 76
     },
     {
       "name": "Okinawa",
@@ -57,7 +57,7 @@
       "description": "Explore Hachimantai-shi with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 165
+      "avg_price": 166
     }
   ],
   "seo": {

@@ -25,6 +25,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Dusit Le Palais Tu Hoa Hanoi",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Hanoi",
+      "title": "Grand Opening: Serene Hanoi West Lake Retreat with Daily Breakfast & Nightly Cocktails",
+      "description": "Perched on West Lake's shimmering shores, Dusit Le Palais Tu Hoa Hanoi channels Princess Tu Hoa's legendary elegance into a royal-worthy escape. Fresh from its grand opening, rooms and suites flaunt jaw-dropping lake or city panoramas, so settle in for the holiday you've been promising yourself. Make the most of the rooftop pool, where Hanoi unfolds beneath you, a round-the-clock fitness centre and an onsen that'll melt away every ounce of city stress. If you're hungry, bounce between authentic Thai and Vietnamese flavours, Italian classics or sunset rooftop cocktails that taste even better with West Lake glittering below. Tucked along Au Co Street with West Lake practically lapping at your doorstep, this city spot is tranquil enough to breathe, yet connected enough to dive straight into Hanoi's magic. Ancient temples, lakeside strolls and hole-in-the-wall eateries serving up legendary pho are all within easy reach, making it the perfect base for soaking up Hanoi's timeless heritage and addictive neighbourhood buzz.",
+      "location_subheading": "Vietnam",
+      "price": 349,
+      "original_price": 635,
+      "discount_percentage": 45,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000M8rP4YAJ",
+      "hero_image": "https://images.luxuryescapes.com/lheu165fd4ivy9yndbvq",
+      "image_two": "https://images.luxuryescapes.com/capz2nqnzwceya18v9m",
+      "image_three": "https://images.luxuryescapes.com/f4webpvusqnnrtyzzmm",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-03-16 12:59:00"
+    },
+    {
       "vendor_name": "Grand Mercure Hanoi",
       "offer_country_name": "Vietnam",
       "location_heading": "Hanoi",
@@ -74,24 +92,6 @@
       "hero_image": "https://images.luxuryescapes.com/dcnk3f73cdgm16c8156",
       "image_two": "https://images.luxuryescapes.com/qukh404jxfz8sjnbby0b",
       "image_three": "https://images.luxuryescapes.com/1tcn7ye9i4sigdw3e0e",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Intercontinental Hanoi Westlake",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Hanoi",
-      "title": "Cosmopolitan Vietnam Escape with Hanoi's Only Overwater Sunset Bar",
-      "description": "Take in Vietnam sophistication at the modern InterContinental Hanoi Westlake, an IHG Hotel, positioned lakeside in the vibrant district of Tay Ho. Indulge in the hotel's world-class international dining options, before heading out to discover historic temples, beautiful cathedrals, and the city's greatest local attractions on your doorstep. After a long day of exploring, head back to catch a spectacular sunset spectacle on the West Lake, at Hanoi's only overwater bar, Sunset Bar.",
-      "location_subheading": "Vietnam",
-      "price": 108,
-      "original_price": 108,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt7xAAB",
-      "hero_image": "https://images.luxuryescapes.com/7mn6w7r3zfdb9ntwvsna",
-      "image_two": "https://images.luxuryescapes.com/6glurvb25lgi1k1qiq5m",
-      "image_three": "https://images.luxuryescapes.com/qedh79lf1c9aquufse5",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
@@ -240,9 +240,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-14",
+    "last_updated": "2026-02-15",
     "hotel_count": 12,
-    "average_price": 136,
-    "average_discount": 0
+    "average_price": 156,
+    "average_discount": 4
   }
 }

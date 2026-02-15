@@ -59,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Melia Ho Tram",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Ho Tram",
+      "title": "Vietnam All-Inclusive Beachfront Paradise with Massages & Unlimited Free-Flow Drinks",
+      "description": "Discover seaside serenity at this five-star all-inclusive paradise, delivering Mediterranean-style luxury on the pristine shores of one of Vietnam’s most beautiful beaches. This sun-kissed coastal strip, home to the charming nearby town of Ho Tram, remains blissfully untouched and is blessed with spectacular white-sand beaches lapped by blue waters. Between tropical adventures, enjoy all-inclusive dining at its finest: savour Meditteranean bites at Breeza Beach Club, sample street food favourites at Sasa, dine on Vietnamese plates at Muối and refresh between dips in the spectacular central pool with a smoothie or fresh juice from Elyxr Café. This vibrant tropical resort offers fun for the whole family, including a kids' club, basketball court and open-air cinema for the little ones, while adults can rejuvenate with a tension-melting treatment at YHI Spa and the yoga deck. At the heart of this resort lies a sprawling pool, bordered by lush gardens and just steps from the beach.",
+      "location_subheading": "Vietnam",
+      "price": 1119,
+      "original_price": 2487,
+      "discount_percentage": 55,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ORdIoYAL",
+      "hero_image": "https://images.luxuryescapes.com/uyetlavbukcczat5gczj",
+      "image_two": "https://images.luxuryescapes.com/7fyo3lx54pn9mg1oat1",
+      "image_three": "https://images.luxuryescapes.com/rkexk4tjbfiid8m3trau",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 3,
+      "end_date_utc": "2026-02-17 12:59:00"
     }
   ],
   "seo": {
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-14",
-    "hotel_count": 3,
-    "average_price": 101,
-    "average_discount": 0
+    "last_updated": "2026-02-15",
+    "hotel_count": 4,
+    "average_price": 355,
+    "average_discount": 14
   }
 }

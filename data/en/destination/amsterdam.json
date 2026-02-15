@@ -4,26 +4,8 @@
   "country_code": "NL",
   "hero_title": "Hotels in Amsterdam",
   "description": "Discover the best hotels in Amsterdam, Netherlands. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/9kxs424l3rx7ca9epnd4",
+  "hero_image": "https://images.luxuryescapes.com/4src383h6p35ziwxlrd",
   "hotels": [
-    {
-      "vendor_name": "Crowne Plaza Amsterdam South",
-      "offer_country_name": "Netherlands",
-      "location_heading": "Amsterdam",
-      "title": "Amsterdam Urban Retreat with Iconic Canal Views",
-      "description": "Fall in love with eye-catching Dutch Baroque architecture, lose yourself in the lively atmosphere and cycle along iconic canals with a stay at Crowne Plaza Amsterdam - South, an IHG Hotel. Dine on sumptuous cuisine with waterfront views at the hotel's signature restaurant Happyhappyjoyjoy Zudias, refresh at the onsite fitness centre or toast to your stay at Manhattan Lounge bar. When it's time to explore, heritage attractions, vibrant cafes, bars and restaurants are all within close reach.",
-      "location_subheading": "Netherlands",
-      "price": 147,
-      "original_price": 147,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJZbAAP",
-      "hero_image": "https://images.luxuryescapes.com/9kxs424l3rx7ca9epnd4",
-      "image_two": "https://images.luxuryescapes.com/xrmokvm8ilaou2illub",
-      "image_three": "https://images.luxuryescapes.com/murjnr4x1oljk276axl",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Holiday Inn Amsterdam - Arena Towers",
       "offer_country_name": "Netherlands",
@@ -79,24 +61,6 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "Kimpton de Witt",
-      "offer_country_name": "Netherlands",
-      "location_heading": "Amsterdam",
-      "title": "Boutique-Style Amsterdam Luxury with Ultra-Cool Cocktail Bar",
-      "description": "Stay among the charming canals and whizzing bicycles of Amsterdam at Kimpton De Witt Hotel, a sophisticated hotel in the heart of the city. While you're here, dine at Celia, a modern American restaurant with a touch of Californian flavours found in its menu. For a tipple or two amid ultra-cool surroundings, Super Lyan is a casual cocktail bar with the works: a central circular bar, neon purple lighting and red leather booths - not to mention expertly shaken cocktails by resident mixologists.",
-      "location_subheading": "Netherlands",
-      "price": 186,
-      "original_price": 186,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CP3PNAA1",
-      "hero_image": "https://images.luxuryescapes.com/zw1qj7rq8b1nf6rwtqg",
-      "image_two": "https://images.luxuryescapes.com/ybo9fmdcwexwhgscresb",
-      "image_three": "https://images.luxuryescapes.com/8aatfpk4ztjcaw0hw5rm",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Pulitzer Amsterdam",
       "offer_country_name": "Netherlands",
       "location_heading": "Amsterdam",
@@ -113,24 +77,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 14:59:00"
-    },
-    {
-      "vendor_name": "The Hoxton, Lloyd Amsterdam",
-      "offer_country_name": "Netherlands",
-      "location_heading": "Amsterdam",
-      "title": "Amsterdam Heritage Luxury in Eastern Docklands with Daily Breakfast",
-      "description": "Explore the sprawling parks, waterfront cafes and boutique stores of Amsterdam's vibrant Eastern Docklands district with a stay at this stylish retreat. Originally commissioned by the Royal Holland Lloyd Shipping Company in 1921, this heritage landmark has been reimagined with a thoughtful, mid-century modern design that pays homage to its storied past. With complimentary bicycle hire included in your stay, you can explore the city the Dutch way: cycle to iconic attractions like the Rijksmuseum, Anne Frank House and NEMO Science Museum, all within a 20-minute ride. After a day of adventure, savour European classics with a South American twist at Breman Brasserie or linger over hand-crafted cocktails in the swanky Barbue.",
-      "location_subheading": "Netherlands",
-      "price": 589,
-      "original_price": 1016,
-      "discount_percentage": 42,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000P8RizYAF",
-      "hero_image": "https://images.luxuryescapes.com/ren7ntvyw9tz6b4ap7yl",
-      "image_two": "https://images.luxuryescapes.com/c3jykwi63b2qnwpqkh8j",
-      "image_three": "https://images.luxuryescapes.com/knh4hwh05hiullc4uygim",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-02-14 12:59:00"
     }
   ],
   "seo": {
@@ -150,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-14",
-    "hotel_count": 7,
-    "average_price": 295,
-    "average_discount": 6
+    "last_updated": "2026-02-15",
+    "hotel_count": 4,
+    "average_price": 285,
+    "average_discount": 0
   }
 }

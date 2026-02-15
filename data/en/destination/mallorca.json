@@ -13,8 +13,8 @@
       "title": "Sky-High Mallorca Clifftop Retreat with Three Bars, Two Restaurants & Two Pools",
       "description": "Find a slice of Mallorcan bliss, somewhere between the sky and the sea, with a breathtaking five-star Jumeirah Mallorca retreat. The palatial property peers over the cliff face of the Serra de Tramuntana, providing unbeatable panoramic vistas of the ocean, mountains and port. Be immersed in luxury within softly muted interiors, sip cocktails against picture-perfect backdrops and feel all worries slip away as the apricot sun dips below the horizon. Get a glimpse into the Mallorcan way with laid-back drinks at one of three buzzing bars, a mouthwatering Spanish feast at the delightful Cap Roig Brasserie, a paddle in the picturesque pools, and to top it all off, a reviving treatment at the renowned Talise Spa. Come up for air and stay in the clouds forever.",
       "location_subheading": "Spain",
-      "price": 366,
-      "original_price": 366,
+      "price": 400,
+      "original_price": 400,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000ExP4HAAV",
       "hero_image": "https://images.luxuryescapes.com/kal2cbz5thqfj5f7gec",
@@ -41,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Kimpton Aysla Mallorca",
-      "offer_country_name": "Spain",
-      "location_heading": "Mallorca",
-      "title": "Mallorca Wellness Escape with High-End Day Spa",
-      "description": "Island luxury and fresh sea breezes are what you'll find at Kimpton Aysla Mallorca, an IHG Hotel, a Spanish sanctuary enveloped by lush native gardens just 14 kilometres from Palma. Experience the good life with a refreshing dip in the resort's huge outdoor swimming pool, sip cocktails at the open-air pool bar or indulge in sumptuous pan-Asian cuisine at Saba Restaurant. For ultimate relaxation, Spa by Maison CODAGE offers luxury treatments including massages, LED therapy and mud baths.",
-      "location_subheading": "Spain",
-      "price": 245,
-      "original_price": 245,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CP3a1AAD",
-      "hero_image": "https://images.luxuryescapes.com/z1j67zlvop74b9lkp00f",
-      "image_two": "https://images.luxuryescapes.com/g126oi8gd4wp58ihsuq8",
-      "image_three": "https://images.luxuryescapes.com/2teyh4e0thnlxipycskp",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Pure Salt Port Adriano",
@@ -114,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-14",
-    "hotel_count": 5,
-    "average_price": 294,
+    "last_updated": "2026-02-15",
+    "hotel_count": 4,
+    "average_price": 315,
     "average_discount": 0
   }
 }

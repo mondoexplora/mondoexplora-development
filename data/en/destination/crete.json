@@ -49,8 +49,8 @@
       "title": "Eastern Crete Coastal Retreat near Mirabello Bay with Tranquil Infinity Pools",
       "description": "Experience the epitome of Crete luxury with a stay at this beachfront oasis overlooking Mirabello Bay. Explore the charming coastal town of Agios Nikolaos, or venture further afield to Archanes, renowned for its vineyards and olive groves. Return to your tranquil base and take a dip in two glittering infinity pools which appear to merge harmoniously with the bay beyond, or simply savour a refreshing beverage at the hotel's onsite bars.",
       "location_subheading": "Greece",
-      "price": 143,
-      "original_price": 143,
+      "price": 136,
+      "original_price": 136,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ie57MAAR",
       "hero_image": "https://images.luxuryescapes.com/v3b2fyr61qf4gqtjhf6",
@@ -77,6 +77,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Royal Blue Resort & Spa Crete",
+      "offer_country_name": "Greece",
+      "location_heading": "Crete",
+      "title": "Crete Oceanfront Bliss with Daily Breakfast, Nightly Dinner & Resort Credit",
+      "description": "Crete is calling… answer in style with a glamorous stay at one of the finest five-star resorts on the famed Greek island. Spectacularly located on a hillside, The Royal Blue Resort & Spa covers over 70 acres of perfectly kept gardens and offers access to a private beach with sunbeds and umbrellas. Spend your time lazing by the main pools, which offer breathtaking views over the Aegean Sea, practising your serve on the tennis courts, being pampered at the blissful The Pure Blue Spa or wining and dining at one of eight restaurants and bars, including the locally inspired Symposium. Set among lush gardens above sparkling blue waters, this island escape lies on Crete’s northern coast, near the quaint village of Panormos. Visit for a true taste of island life, and experience charming cobbled streets lined with boutique shops and Greek tavernas in tiny coves.",
+      "location_subheading": "Greece",
+      "price": 469,
+      "original_price": 902,
+      "discount_percentage": 48,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000QUVVdYAP",
+      "hero_image": "https://images.luxuryescapes.com/mxx4ixney9wpavzb5lnn",
+      "image_two": "https://images.luxuryescapes.com/sk334bw516t5u2xtt0q",
+      "image_three": "https://images.luxuryescapes.com/pfwwl55jbsx8xql67y",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-03-06 12:59:00"
     }
   ],
   "seo": {
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-14",
-    "hotel_count": 4,
-    "average_price": 276,
-    "average_discount": 0
+    "last_updated": "2026-02-15",
+    "hotel_count": 5,
+    "average_price": 313,
+    "average_discount": 10
   }
 }
