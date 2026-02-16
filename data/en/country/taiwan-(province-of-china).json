@@ -15,6 +15,15 @@
       "avg_price": 213
     },
     {
+      "name": "Kaohsiung",
+      "slug": "kaohsiung",
+      "image": "https://images.luxuryescapes.com/f5uimy0ynotv9esxb4ge",
+      "description": "Explore Kaohsiung with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 133
+    },
+    {
       "name": "Chiayi County",
       "slug": "chiayi-county",
       "image": "https://images.luxuryescapes.com/w0wq2vkz1o8unrj2uz9o",
@@ -22,15 +31,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 282
-    },
-    {
-      "name": "Kaohsiung",
-      "slug": "kaohsiung",
-      "image": "https://images.luxuryescapes.com/f5uimy0ynotv9esxb4ge",
-      "description": "Explore Kaohsiung with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 97
     },
     {
       "name": "Taipei City",

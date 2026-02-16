@@ -43,14 +43,32 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Intercontinental Montreal",
+      "offer_country_name": "Canada",
+      "location_heading": "Montreal",
+      "title": "Stylish Old Montreal City Escape with Onsite Restaurant & Absinthe Bar",
+      "description": "Say bonjour to the perfect city break with a stay at InterContinental Montreal, an IHG Hotel masterfully positioned between Old Montreal’s historic basilicas and downtown’s world-class bars, bistros and high-end boutiques. Old-world hospitality abounds - swim laps at the hotel's top-notch saltwater pool, savour mouthwatering cuisine and imported French wines at Osco! or head to Sarah B. absinthe bar for cosy alcove ambience and an authentic taste of the good stuff.",
+      "location_subheading": "Canada",
+      "price": 299,
+      "original_price": 299,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt7GAAR",
+      "hero_image": "https://images.luxuryescapes.com/2wdhwv2azu9k45udzr8",
+      "image_two": "https://images.luxuryescapes.com/ss88kx76wq8lhh2cmsv",
+      "image_three": "https://images.luxuryescapes.com/74uxichj35pjibu5at8",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Sofitel Montreal Le Carré Doré / Golden Mile",
       "offer_country_name": "Canada",
       "location_heading": "Montreal",
       "title": "Sophisticated Montreal Downtown French-Inspired Luxury with Onsite Restaurant & Cocktail Lounge",
       "description": "Zhuzh up your Canadian escape with a dash of French flair at this five-star Sofitel sanctuary perfectly positioned at the foot of Mount Royal in downtown Montreal’s fashionable Golden Mile. Unwind in chic, light-filled rooms with floor-to-ceiling windows and glittering city views, while enjoying top-tier amenities and world-class hospitality. Savour gourmet French cuisine with a local twist at Renoir Restaurant, then sip handcrafted cocktails at the stylish NINI Salon à Cocktails. Step outside to explore the Montreal Museum of Fine Arts or the upscale boutiques along Sainte-Catherine Street. With the metro moments away, reaching Old Montreal and the iconic Notre-Dame Basilica is a breeze.",
       "location_subheading": "Canada",
-      "price": 272,
-      "original_price": 272,
+      "price": 245,
+      "original_price": 245,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP9xYAF",
       "hero_image": "https://images.luxuryescapes.com/qgrwsaapmn8oh7ialkf",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-15",
-    "hotel_count": 3,
-    "average_price": 227,
+    "last_updated": "2026-02-16",
+    "hotel_count": 4,
+    "average_price": 238,
     "average_discount": 0
   }
 }

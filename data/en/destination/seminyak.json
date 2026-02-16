@@ -31,8 +31,8 @@
       "title": "Beachfront Glamour Alila Seminyak Retreat with Signature Dining, Beach Bar & Spa",
       "description": "Revel in laidback luxury on Seminyak’s iconic beachfront with a glamorous five-star stay, perfectly positioned within walking distance of the world-class dining and nightlife of Bali’s most beloved beachside district. Indulge in ancient restorative treatments at acclaimed wellness sanctuary Spa Alila, splash your way across the resort’s four magnificent pools or savour wild-caught seafood at beachside fusion eatery Seasalt, with each dish seasoned with East Bali’s organic Kusamba sea salt.",
       "location_subheading": "Indonesia",
-      "price": 173,
-      "original_price": 173,
+      "price": 175,
+      "original_price": 175,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Cj3hFYAR",
       "hero_image": "https://images.luxuryescapes.com/8z6c0hd5k4fj5gmmsn",
@@ -277,14 +277,32 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Hotel Indigo Bali Seminyak Beach",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Seminyak",
+      "title": "Five-Star Seminyak Beach Glamour with Seven Onsite Restaurants",
+      "description": "Step out directly onto the beach from Hotel Indigo Bali Seminyak Beach, a five-star resort in the buzzing hub of Seminyak, Bali's most vibrant, sought-after area. There are seven onsite eateries and bars to be wined and dined: order a cocktail at the Cave Pool Lounge, a poolside bar and restaurant, listen to music while feasting on Japanese izakaya favourites at at SugarSand, and sip freshly brewed coffee with a pastry at the Pottery café. In between mealtimes, work up a sweat at the 24/7 fitness centre and various daily resort activities, take a dip in the main swimming pool (or the secret garden pool), or indulge in a spa treatment at Sava Spa.",
+      "location_subheading": "Indonesia",
+      "price": 146,
+      "original_price": 146,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009BVTgAAO",
+      "hero_image": "https://images.luxuryescapes.com/seqdu5dvdgp6snrcj3nr",
+      "image_two": "https://images.luxuryescapes.com/clkqlt4z1ngc12s8k0el",
+      "image_three": "https://images.luxuryescapes.com/ozyhe72ardaa5i66lu9",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "KLEO Seminyak",
       "offer_country_name": "Indonesia",
       "location_heading": "Seminyak",
       "title": "Vibrant Boutique Seminyak Stay near Petitenget Beach with Rooftop Pool & Bar",
       "description": "A tranquil escape awaits at these modern studios nestled in vibrant Seminyak. Just moments from the buzz of Seminyak Square and Eat Street, this stylish retreat blends modern living with natural light and greenery, and boasts city views. With a fitness centre, large connecting rooms and endless places to relax, enjoy the comfort of not needing to leave the hotel. When you explore the area, make the most of the free bicycle or shuttle service to see the best of Bali. Unwind by the rooftop pool with a cocktail in hand as you take in sweeping views of the Indian Ocean, indulge in Indonesian cuisine at the onsite restaurant, and enjoy fresh cocktails at the bar. With iconic landmarks like Potato Head Beach Club and the sacred Petitenget Temple a stone's throw away, you'll find the perfect balance of cultural discovery and nightlife right at your doorstep.",
       "location_subheading": "Indonesia",
-      "price": 78,
-      "original_price": 78,
+      "price": 77,
+      "original_price": 77,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000HicEZYAZ",
       "hero_image": "https://images.luxuryescapes.com/wrlbej3xxlwzy1ihf19o",
@@ -546,9 +564,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-15",
-    "hotel_count": 29,
-    "average_price": 258,
+    "last_updated": "2026-02-16",
+    "hotel_count": 30,
+    "average_price": 254,
     "average_discount": 11
   }
 }

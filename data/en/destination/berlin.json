@@ -4,8 +4,26 @@
   "country_code": "DE",
   "hero_title": "Hotels in Berlin",
   "description": "Discover the best hotels in Berlin, Germany. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/o8o2oduntgt5ctimxjw",
+  "hero_image": "https://images.luxuryescapes.com/slbwbkhtxwk15zuaxs4",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Berlin City Centre Ku'Damm",
+      "offer_country_name": "Germany",
+      "location_heading": "Berlin",
+      "title": "West Berlin Escape Minutes from Kurfurstendamm Shopping Street",
+      "description": "Crowne Plaza Berlin City Centre Ku'Damm towers over the heart of West Berlin, offering a serene escape from the resonating pulse of the city. Satisfy your appetite with breakfast at Wilson's restaurant before invigorating your body and mind at the fitness centre, or adventure into this captivating city to experience bold Berlin. As the evening approaches, find relaxation with a soothing treatment at the spa, retreat to a stylish room or suite or savour a refined drink at Kemmons Bar.",
+      "location_subheading": "Germany",
+      "price": 104,
+      "original_price": 104,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJYqAAP",
+      "hero_image": "https://images.luxuryescapes.com/slbwbkhtxwk15zuaxs4",
+      "image_two": "https://images.luxuryescapes.com/f8huqhblvj6bxie19k79",
+      "image_three": "https://images.luxuryescapes.com/zwuuoyaozlr4y654b6ua",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
     {
       "vendor_name": "Adlon Kempinski",
       "offer_country_name": "Germany",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-15",
-    "hotel_count": 4,
-    "average_price": 170,
+    "last_updated": "2026-02-16",
+    "hotel_count": 5,
+    "average_price": 156,
     "average_discount": 0
   }
 }

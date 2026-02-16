@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Bothwell",
   "description": "Discover the best hotels in Bothwell, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/lkmum3vknetn7eab1cr8",
+  "hero_image": "https://images.luxuryescapes.com/qwu0b2qrsvw14mad326",
   "hotels": [
-    {
-      "vendor_name": "Ratho Farm",
-      "offer_country_name": "Australia",
-      "location_heading": "Bothwell",
-      "title": "Tasmania Heritage Countryside Retreat with Unlimited Golf, Daily Breakfast & Nightly Drinks",
-      "description": "Discover world-class golf, renowned nearby distilleries, exceptional trout fishing and rich history at Ratho Farm, a blissfully secluded boutique country retreat hidden in Tasmania’s lush Central Highlands. Ideally located a scenic one-hour drive north of Hobart on the cusp of Bothwell Village, this charming heritage property offers a collection of carefully restored farm cottages, barns, stables and a historic homestead. Encircled by Australia's oldest golf course - established over 150 years ago - this historic estate offers the ideal retreat for Tasmania's festival enthusiasts or those craving escape from the city. Indulge in farm-to-table dining at Atrium restaurant or explore the Central Highlands' celebrated distilleries. Positioned between Hobart and Launceston, it's also the perfect base for discovering nearby treasures like Lake St Clair and Derwent Valley's vineyards.",
-      "location_subheading": "Australia",
-      "price": 229,
-      "original_price": 458,
-      "discount_percentage": 50,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ORA3uYAH",
-      "hero_image": "https://images.luxuryescapes.com/lkmum3vknetn7eab1cr8",
-      "image_two": "https://images.luxuryescapes.com/qbnqu9kukelijmb65nho",
-      "image_three": "https://images.luxuryescapes.com/ma2unqy1i9bw2zfeviwp",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-02-16 12:59:00"
-    },
     {
       "vendor_name": "Ratho Farm",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Ratho Farm",
+      "offer_country_name": "Australia",
+      "location_heading": "Bothwell",
+      "title": "Tasmania Heritage Countryside Retreat with Unlimited Golf, Daily Breakfast & Nightly Drinks",
+      "description": "Discover world-class golf, renowned nearby distilleries, exceptional trout fishing and rich history at Ratho Farm, a blissfully secluded boutique country retreat hidden in Tasmania’s lush Central Highlands. Ideally located a scenic one-hour drive north of Hobart on the cusp of Bothwell Village, this charming heritage property offers a collection of carefully restored farm cottages, barns, stables and a historic homestead. Encircled by Australia's oldest golf course - established over 150 years ago - this historic estate offers the ideal retreat for Tasmania's festival enthusiasts or those craving escape from the city. Indulge in farm-to-table dining at Atrium restaurant or explore the Central Highlands' celebrated distilleries. Positioned between Hobart and Launceston, it's also the perfect base for discovering nearby treasures like Lake St Clair and Derwent Valley's vineyards.",
+      "location_subheading": "Australia",
+      "price": 229,
+      "original_price": 458,
+      "discount_percentage": 50,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ORA3uYAH",
+      "hero_image": "https://images.luxuryescapes.com/lkmum3vknetn7eab1cr8",
+      "image_two": "https://images.luxuryescapes.com/qbnqu9kukelijmb65nho",
+      "image_three": "https://images.luxuryescapes.com/ma2unqy1i9bw2zfeviwp",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-02-16 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-15",
+    "last_updated": "2026-02-16",
     "hotel_count": 2,
     "average_price": 159,
     "average_discount": 25

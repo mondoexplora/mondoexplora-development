@@ -3,8 +3,17 @@
   "code": "CH",
   "hero_title": "Switzerland Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Switzerland.",
-  "hero_image": "https://images.luxuryescapes.com/avlbg2ent9eqezmxvv6nh",
+  "hero_image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
   "popular_destinations": [
+    {
+      "name": "Geneva",
+      "slug": "geneva",
+      "image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
+      "description": "Explore Geneva with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 438
+    },
     {
       "name": "Zurich",
       "slug": "zurich",
@@ -12,16 +21,7 @@
       "description": "Explore Zurich with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 149
-    },
-    {
-      "name": "Geneva",
-      "slug": "geneva",
-      "image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
-      "description": "Explore Geneva with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 461
+      "avg_price": 150
     },
     {
       "name": "Crans-Montana",
@@ -30,7 +30,7 @@
       "description": "Explore Crans-Montana with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 728
+      "avg_price": 729
     },
     {
       "name": "Bern",
@@ -39,7 +39,7 @@
       "description": "Explore Bern with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 362
+      "avg_price": 363
     },
     {
       "name": "Gstaad",
@@ -48,7 +48,7 @@
       "description": "Explore Gstaad with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 675
+      "avg_price": 677
     },
     {
       "name": "Grindelwald",
@@ -57,7 +57,7 @@
       "description": "Explore Grindelwald with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 423
+      "avg_price": 424
     }
   ],
   "seo": {

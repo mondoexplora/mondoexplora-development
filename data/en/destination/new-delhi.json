@@ -25,6 +25,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Crowne Plaza New Delhi Okhla",
+      "offer_country_name": "India",
+      "location_heading": "New Delhi",
+      "title": "Sophisticated New Delhi City Break with Rooftop Pool",
+      "description": "In the heart of New Delhi’s exciting Okhla district, Crowne Plaza New Delhi Okhla, an IHG Hotel, offers guests the perfect base to explore the storied city’s many charms, including Red Fort, Humayun’s Tomb and the Okhla Bird Sanctuary. After days spent appreciating New Delhi’s sublime history and great bazaars, savour dim sum and doppio ripieno ravioli at ChaoBella or classic patisserie at French Heart, or laze by the hotel’s mirage-like rooftop pool.",
+      "location_subheading": "India",
+      "price": 82,
+      "original_price": 82,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJaJAAX",
+      "hero_image": "https://images.luxuryescapes.com/j9ted3f2nr19jamntgjj",
+      "image_two": "https://images.luxuryescapes.com/x3ztbh2xzuk94z4eie",
+      "image_three": "https://images.luxuryescapes.com/wfxlcb0kxm9c1h9ak6r",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
+    {
       "vendor_name": "Crowne Plaza New Delhi Rohini",
       "offer_country_name": "India",
       "location_heading": "New Delhi",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-15",
-    "hotel_count": 4,
-    "average_price": 90,
+    "last_updated": "2026-02-16",
+    "hotel_count": 5,
+    "average_price": 89,
     "average_discount": 0
   }
 }

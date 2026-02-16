@@ -4,8 +4,26 @@
   "country_code": "JO",
   "hero_title": "Hotels in Aqaba",
   "description": "Discover the best hotels in Aqaba, Jordan. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/eg0y0t6nw67fvkpajapj",
+  "hero_image": "https://images.luxuryescapes.com/bz5froxci5o8iyi6o2",
   "hotels": [
+    {
+      "vendor_name": "Intercontinental Aqaba",
+      "offer_country_name": "Jordan",
+      "location_heading": "Aqaba",
+      "title": "Jordan Beachfront Break on the Gulf of Aqaba",
+      "description": "Indulge in ultimate luxury at the InterContinental Aqaba (Resort Aqaba), an IHG Hotel, ideally located on a private beach overlooking the Gulf of Aqaba. Surrounded by white sand shores lapped by turquoise waters, this elegant oasis offers a palatial escape with Red Sea views. Part of the globally recognised InterContinental brand, the resort features a stretch of private beach, swimming pool, lavish spa, onsite fitness centre and five restaurants and bars.",
+      "location_subheading": "Jordan",
+      "price": 114,
+      "original_price": 114,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6TAAR",
+      "hero_image": "https://images.luxuryescapes.com/bz5froxci5o8iyi6o2",
+      "image_two": "https://images.luxuryescapes.com/3ug24aduz8nhtz1ykbvr",
+      "image_three": "https://images.luxuryescapes.com/e8pduntcin6bfjggnps",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Kempinski Hotel Aqaba Red Sea",
       "offer_country_name": "Jordan",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-15",
-    "hotel_count": 2,
-    "average_price": 125,
+    "last_updated": "2026-02-16",
+    "hotel_count": 3,
+    "average_price": 121,
     "average_discount": 0
   }
 }

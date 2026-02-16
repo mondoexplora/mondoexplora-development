@@ -25,6 +25,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Art Series - The Olsen",
+      "offer_country_name": "Australia",
+      "location_heading": "Victoria",
+      "title": "Boutique South Yarra Art Series Retreat with Glass-Bottom Pool, Dive Bar & Restaurant",
+      "description": "Delve into Melbourne's eclectic art scene with a stylish stay at this aesthetic retreat, perfectly positioned on Chapel Street, the city's fashion and foodie hub. Each suite or penthouse in this boutique hotel is adorned with the lyrical artwork of renowned Australian artist John Olsen, lending it a characteristic aura. You can take a stroll along the Yarra River or venture a little further to explore Melbourne's sports and entertainment hubs. Back at your art-filled hotel, go for a swim in the glass-bottomed pool overlooking Chapel Street, indulge in a paddock-to-plate dining experience at Spoonbill Restaurant and sip on refreshing drinks at the high-end dive bar, Two Wrongs, after a long day of urban adventures.",
+      "location_subheading": "Australia",
+      "price": 100,
+      "original_price": 100,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRep2AAD",
+      "hero_image": "https://images.luxuryescapes.com/yjhejewgl45olzdu0nl",
+      "image_two": "https://images.luxuryescapes.com/4ueiueuy8ae9425ctb7",
+      "image_three": "https://images.luxuryescapes.com/tr663z8e7wdamsw5k5l",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "WRAP on Southbank",
       "offer_country_name": "Australia",
       "location_heading": "Victoria",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-15",
-    "hotel_count": 2,
-    "average_price": 104,
-    "average_discount": 9
+    "last_updated": "2026-02-16",
+    "hotel_count": 3,
+    "average_price": 102,
+    "average_discount": 6
   }
 }

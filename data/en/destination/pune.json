@@ -4,8 +4,26 @@
   "country_code": "IN",
   "hero_title": "Hotels in Pune",
   "description": "Discover the best hotels in Pune, India. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/k21iik7qjmxubs6ply1w",
+  "hero_image": "https://images.luxuryescapes.com/u9esw45b6o5x018vbyn",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Pune City Centre",
+      "offer_country_name": "India",
+      "location_heading": "Pune",
+      "title": "India Vibrant Pune City Escape with Sophisticated Sky Lounge",
+      "description": "Toe the line between old and new and lose yourself in the excitement of a thriving metropolis with an escape to Crowne Plaza Pune City Centre, an IHG Hotel - the perfect getaway to explore all that Koregaon Park has to offer. Visit the famed Osho International Meditation Resort, wander palaces forgotten by time, or saunter in tranquil nearby gardens. Then, head to Evviva Sky Lounge for sweeping vistas of Pune and delicious cocktails or rejuvenate in the dazzling outdoor pool.",
+      "location_subheading": "India",
+      "price": 54,
+      "original_price": 54,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJbqAAH",
+      "hero_image": "https://images.luxuryescapes.com/u9esw45b6o5x018vbyn",
+      "image_two": "https://images.luxuryescapes.com/b19vcgg8nqrhk6ey2mj",
+      "image_three": "https://images.luxuryescapes.com/eyqx471bodeuh2nd6s6w",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Novotel Pune Nagar Road",
       "offer_country_name": "India",
@@ -42,8 +60,8 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-15",
-    "hotel_count": 1,
+    "last_updated": "2026-02-16",
+    "hotel_count": 2,
     "average_price": 55,
     "average_discount": 0
   }

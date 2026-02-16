@@ -61,6 +61,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Intercontinental Athenaeum Athens",
+      "offer_country_name": "Greece",
+      "location_heading": "Athens",
+      "title": "Stylish Athens Escape with Acropolis Views & Rooftop Bar",
+      "description": "The wonders of Ancient Greece are at your fingertips when you stay at InterContinental Athenaeum Athens, an IHG Hotel, where contemporary design meets the crumbling remains of the Acropolis. When you're not out there exploring UNESCO World Heritage-listed sites, head up to Premiere, a rooftop restaurant and bar with spectacular views of the Acropolis, then venture to the poolside Cafezoe Terrace for cocktails and desserts.",
+      "location_subheading": "Greece",
+      "price": 152,
+      "original_price": 152,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt68AAB",
+      "hero_image": "https://images.luxuryescapes.com/d68y2ueodgnql0ipfnk",
+      "image_two": "https://images.luxuryescapes.com/cd7fdjn2vlmfzki2l06s",
+      "image_three": "https://images.luxuryescapes.com/i73bjmk01hepck2j3yt",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "La Divina Athens",
       "offer_country_name": "Greece",
       "location_heading": "Athens",
@@ -204,9 +222,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-15",
-    "hotel_count": 10,
-    "average_price": 234,
-    "average_discount": 4
+    "last_updated": "2026-02-16",
+    "hotel_count": 11,
+    "average_price": 226,
+    "average_discount": 3
   }
 }
