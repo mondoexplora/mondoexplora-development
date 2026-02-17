@@ -24,15 +24,6 @@
       "avg_price": 392
     },
     {
-      "name": "Los Cabos",
-      "slug": "los-cabos",
-      "image": "https://images.luxuryescapes.com/edqtv8330piiyf8k7dp",
-      "description": "Explore Los Cabos with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 538
-    },
-    {
       "name": "Mexico City",
       "slug": "mexico-city",
       "image": "https://images.luxuryescapes.com/x9kez45e1406vdu2sika",
@@ -49,6 +40,15 @@
       "hotel_count": 4,
       "hotel_deals": 4,
       "avg_price": 498
+    },
+    {
+      "name": "Los Cabos",
+      "slug": "los-cabos",
+      "image": "https://images.luxuryescapes.com/edqtv8330piiyf8k7dp",
+      "description": "Explore Los Cabos with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 699
     },
     {
       "name": "Nuevo Vallarta",

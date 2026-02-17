@@ -43,6 +43,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Alila Ubud",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Ubud",
+      "title": "Tranquil Ubud Jungle Hideaway with Daily Breakfast, Daily Lunch or Dinner & Massages",
+      "description": "Bask in unrestricted jungle bliss with a secluded five-star escape to Alila Ubud, ideally positioned high above the Ayung River Valley yet just 15 minutes from central Ubud. This serene hideaway is sprawled across the hillside and hidden among picturesque rice paddies, featuring a world-famous infinity pool - one Bali's most beautiful. Savour authentic farm-to-table Balinese plates at Plantation Restaurant or hang out with a relaxed bite in the Cabana Lounge. A wealth of complimentary resort activities - including morning yoga and tai chi - make aligning your chakras a breeze, and a visit to the world-class Spa Alila is highly recommended. As the day slowly melts into the evening, the Cabana Lounge offers handcrafted cocktails to toast your jungle escape, alongside comforting grazing food and dramatic views overlooking the plunging valley below.",
+      "location_subheading": "Indonesia",
+      "price": 529,
+      "original_price": 1392,
+      "discount_percentage": 62,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Q24oZYAR",
+      "hero_image": "https://images.luxuryescapes.com/1tl3i1s06wf0lswawpk",
+      "image_two": "https://images.luxuryescapes.com/6gzon71gbjnxqbhoasgm",
+      "image_three": "https://images.luxuryescapes.com/xy3866idkj3de13ulxk",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-03-31 12:59:00"
+    },
+    {
       "vendor_name": "Anantara Ubud Bali Resort",
       "offer_country_name": "Indonesia",
       "location_heading": "Ubud",
@@ -438,9 +456,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-16",
-    "hotel_count": 23,
-    "average_price": 331,
-    "average_discount": 13
+    "last_updated": "2026-02-17",
+    "hotel_count": 24,
+    "average_price": 339,
+    "average_discount": 15
   }
 }
