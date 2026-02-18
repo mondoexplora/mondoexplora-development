@@ -13,8 +13,8 @@
       "title": "Opulent Lisbon Stay in 13th Century Convent with Iconic Restaurant & Bar",
       "description": "Find refined elegance within the walls of a 13th-century Dominican Convent atConvent Square Lisbon, Vignette Collection, an IHG Hotel. From savoring delectable Portuguese cuisine at Capítulo Restaurant to embracing Portugal's stunning architecture in the emblematic cloister, every moment is an invitation to elevate your senses. Unwind in the sauna or rejuvenate in the heated plunge pool while gazing at Lisbon's breathtaking church top views.",
       "location_subheading": "Portugal",
-      "price": 174,
-      "original_price": 174,
+      "price": 181,
+      "original_price": 181,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNR7rAAH",
       "hero_image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
@@ -31,8 +31,8 @@
       "title": "Five-Star Lisbon Luxury with High-End Day Spa",
       "description": "Discover the rolling hills and iconic yellow trams of Lisbon, Portugal from the five-star Corinthia Lisbon - a Tripadvisor Travellers’ Choice 2021 winner boasting spectacular views over the city. The hotel epitomises style and luxury: public spaces are flooded with natural light, surfaces are laid with fresh flowers and chandeliers glitter. The onsite restaurant Erva serves up some of the city’s best local food. Meanwhile, Soul Garden is the go-to evening spot where you can chill out on a wooden cabana with a handcrafted cocktail in hand, listening to live music or DJ sets. When you need to soothe mind, body and soul, THE SPA with its heated jacuzzi, sauna and steam room awaits to pamper you. You’ll be well placed to discover Lisbon’s iconic sites from your stylish hotel base. Castelo de Sao Jorge, Alfama and Jerónimos Monastery are all within a 15-minute drive, while Lisbon Zoo and Águas Livres Aqueduct are also closeby. Don’t miss out on a ride aboard the 28E tram, a bucket-list experience for most visitors. The yellow, old-fashioned tram travels from Praça Martim Moniz to Campo de Ourique, skimming the city's famous steep hills.",
       "location_subheading": "Portugal",
-      "price": 296,
-      "original_price": 296,
+      "price": 312,
+      "original_price": 312,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000006PxzfAAC",
       "hero_image": "https://images.luxuryescapes.com/5yckyvfavi9x20wjcmm",
@@ -61,14 +61,32 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Heritage Avenida Liberdade, a Lisbon Heritage Collection",
+      "offer_country_name": "Portugal",
+      "location_heading": "Lisbon",
+      "title": "Portugal Heritage Escape in the Heart of Lisbon with Daily Breakfast & Art Museum Entries",
+      "description": "Let the picture-perfect panorama of Lisbon be the backdrop for an unforgettable stay in one of the city’s most elegant hotels. Housed in a heritage-listed building dating back to the 18th century - beautifully redesigned by local creative Miguel Câncio Martins - this charming hotel effortlessly captures Lisbon's rich history. The hotel is ideally located on Avenida da Liberdade - a tree-lined avenue nestled in the heart of the city, surrounded by elegant shops, upscale boutiques and restaurants. This central location makes it easy to explore Lisbon's top-rated attractions, including the medieval Belém Tower, World Heritage-listed Jerónimos Monastery and buzzing Comércio square.",
+      "location_subheading": "Portugal",
+      "price": 459,
+      "original_price": 1120,
+      "discount_percentage": 59,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RM1NhYAL",
+      "hero_image": "https://images.luxuryescapes.com/0s7bbqrjh1jsatztlqm",
+      "image_two": "https://images.luxuryescapes.com/0hpmx6jogdxltrzebslk",
+      "image_three": "https://images.luxuryescapes.com/viztczr3xkbtm2peta4g",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-03-17 12:59:00"
+    },
+    {
       "vendor_name": "Hotel Britania Art Deco",
       "offer_country_name": "Portugal",
       "location_heading": "Lisbon",
       "title": "Heritage Lisbon Art Deco Escape with Daily Breakfast & Museum Pass",
       "description": "Allow yourself to be captivated by the magic of Lisbon with a stay at Hotel Britania Art Deco, a Lisbon Heritage Collection - a historic property perfectly positioned for you to explore this little pocket of Portuguese bliss. The hotel proudly retains the glamour of the 1940s courtesy of a spectacular design by Cassiano Branco, a famous Portuguese modernist architect, transporting you back in time, while modern amenities bring you back to the present.",
       "location_subheading": "Portugal",
-      "price": 142,
-      "original_price": 142,
+      "price": 150,
+      "original_price": 150,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004T2Y4AAK",
       "hero_image": "https://images.luxuryescapes.com/oqwavb11ma8ar20hus3v",
@@ -168,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-17",
-    "hotel_count": 8,
-    "average_price": 206,
-    "average_discount": 0
+    "last_updated": "2026-02-18",
+    "hotel_count": 9,
+    "average_price": 238,
+    "average_discount": 7
   }
 }

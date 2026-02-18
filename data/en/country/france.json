@@ -12,7 +12,7 @@
       "description": "Explore Paris with luxury accommodations",
       "hotel_count": 28,
       "hotel_deals": 28,
-      "avg_price": 443
+      "avg_price": 456
     },
     {
       "name": "Lyon",
@@ -21,7 +21,7 @@
       "description": "Explore Lyon with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 175
+      "avg_price": 176
     },
     {
       "name": "Bordeaux",
@@ -30,7 +30,7 @@
       "description": "Explore Bordeaux with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 154
+      "avg_price": 160
     },
     {
       "name": "Strasbourg",
@@ -39,7 +39,7 @@
       "description": "Explore Strasbourg with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 116
+      "avg_price": 121
     },
     {
       "name": "Cannes",
@@ -48,7 +48,7 @@
       "description": "Explore Cannes with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 223
+      "avg_price": 230
     },
     {
       "name": "Marseille",
@@ -57,7 +57,7 @@
       "description": "Explore Marseille with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 147
+      "avg_price": 159
     }
   ],
   "seo": {

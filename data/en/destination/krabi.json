@@ -13,8 +13,8 @@
       "title": "Five Star Krabi Eco-Stay with Panoramic Mountain Views",
       "description": "Find the epitome of relaxation among southern Thailand's striking limestone cliffs and peaceful forested valleys on a luxurious escape to Anana Ecological Resort Krabi, a five-star eco-retreat offering an incomparable wellness experience. Just a 30-minute stroll from Ao Nang's breathtaking stretch of beach, this sustainable oasis invites you to get back to nature and embrace green living through enriching amenities that focus on health and wellbeing. Restore mind, body and soul with an exclusive spa treatment in the Himalaya Salt Crystal Grotto and a soothing dip in the natural volcanic water pools, or indulge in delicious food from the Permaculture Organic Art Farm. From rooftop yoga to outdoor meditation, embrace opportunities to reconnect with nature through mindful activities.",
       "location_subheading": "Thailand",
-      "price": 144,
-      "original_price": 144,
+      "price": 130,
+      "original_price": 130,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y0000070C7oAAE",
       "hero_image": "https://images.luxuryescapes.com/v3a5zwz6mnnvqjt75ban",
@@ -61,14 +61,32 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Centara Ao Nang Beach Resort & Spa Krabi",
+      "offer_country_name": "Thailand",
+      "location_heading": "Krabi",
+      "title": "Thailand Family Paradise: Krabi Beachfront Bliss with Daily Breakfast, Nightly Dinner & Cocktails",
+      "description": "With dramatic cliffs as your backdrop, the Andaman Sea at your feet and Ao Nang´s vibrant eateries and bars just steps away, Centara Ao Nang Beach Resort & Spa Krabi is paradise perfected. Designed for families and couples alike, days here are spent indulgently - from drifting in the curved pool with waterslides and snorkelling around nearby islands, to long, lazy lunches just steps from the surf. With four restaurants and bars, satisfaction is always near. For beachside buzz, head to Sands Beach Club where barbecued seafood, tapas and wood-fired pizza meet clever cocktails, while Veranda Brasserie serves up a smorgasbord of international favourites. A retreat like this is best experienced with a tension-melting massage at Let's Relax Spa, all while knowing the little ones are happily occupied with included kids' activities. When it's time to venture beyond the resort, explore Ao Nang's diverse venues which hum at sunset, or set sail to hidden bays and limestone-clad isles.",
+      "location_subheading": "Thailand",
+      "price": 409,
+      "original_price": 1105,
+      "discount_percentage": 63,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000DfCNVYA3",
+      "hero_image": "https://images.luxuryescapes.com/j119jnz22hwkj9h4jq3b",
+      "image_two": "https://images.luxuryescapes.com/p14qmpa7havpg1w0h3n",
+      "image_three": "https://images.luxuryescapes.com/czv28qnjna4lzrda63lh",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 3,
+      "end_date_utc": "2026-03-16 12:59:00"
+    },
+    {
       "vendor_name": "Holiday Inn Resort Krabi Ao Nang Beach",
       "offer_country_name": "Thailand",
       "location_heading": "Krabi",
       "title": "Lush Tropical Thailand Holiday with Idyllic Mountain & Beach Views",
       "description": "Retreat within the trees at the Holiday Inn Resort Krabi Ao Nang Beach, an IHG Hotel, found between the lush green hillside and the sparkling Ao Nang Beach. An idyllic space for families and groups to chill out and rejuvenate, this resort is inspired by the stunning Krabi culture and surrounding landscape. Enjoy days by the breathtaking beach, explore the nearby islands or stay at the hotel and indulge in the premium onsite dining experiences.",
       "location_subheading": "Thailand",
-      "price": 78,
-      "original_price": 78,
+      "price": 91,
+      "original_price": 91,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DOtYmAAL",
       "hero_image": "https://images.luxuryescapes.com/n6vl85r1s0j9y7zqtqb",
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-17",
-    "hotel_count": 6,
-    "average_price": 249,
-    "average_discount": 0
+    "last_updated": "2026-02-18",
+    "hotel_count": 7,
+    "average_price": 271,
+    "average_discount": 9
   }
 }
