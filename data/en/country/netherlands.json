@@ -12,7 +12,16 @@
       "description": "Explore Amsterdam with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 258
+      "avg_price": 254
+    },
+    {
+      "name": "The Hague",
+      "slug": "the-hague",
+      "image": "https://images.luxuryescapes.com/unypaln6268621e7lz2j",
+      "description": "Explore The Hague with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 103
     },
     {
       "name": "Maastricht",
@@ -21,16 +30,7 @@
       "description": "Explore Maastricht with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 127
-    },
-    {
-      "name": "The Hague",
-      "slug": "the-hague",
-      "image": "https://images.luxuryescapes.com/be6epcy3mjhk65gzk2yr",
-      "description": "Explore The Hague with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 124
+      "avg_price": 108
     },
     {
       "name": "Utrecht",
@@ -39,7 +39,7 @@
       "description": "Explore Utrecht with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 128
+      "avg_price": 129
     }
   ],
   "seo": {

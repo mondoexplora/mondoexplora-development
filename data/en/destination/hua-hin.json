@@ -118,24 +118,6 @@
       "vendor_name": "Movenpick Asara Resort & Spa Hua Hin",
       "offer_country_name": "Thailand",
       "location_heading": "Hua Hin",
-      "title": "Tranquil Hua Hin Beachfront Retreat with Lagoon Pool, Onsite Spa & Two Restaurants",
-      "description": "Embrace unrivalled Thai elegance and beachfront luxury at this Mövenpick oasis tucked away in the beach town of Hua Hin. Ensconced amid lush tropical gardens and serene lagoon pools, the sprawling resort boasts lavish suites and pool villas, all complemented by signature Mövenpick hospitality. Spend your days swimming laps in the resort's iconic pool, cool off with a drink from the Ocean Bar, tuck into delicious seafood at Baan Dum and try Mediterranean flavours at Kampu Restaurant. If you're looking for some much-needed pampering, unwind with treatments at Asara Spa.",
-      "location_subheading": "Thailand",
-      "price": 113,
-      "original_price": 113,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnGgEYAV",
-      "hero_image": "https://images.luxuryescapes.com/i2h86wklqv3dg3n8hlad",
-      "image_two": "https://images.luxuryescapes.com/olw6u3o2p93nh46qr8fo",
-      "image_three": "https://images.luxuryescapes.com/ikgygtm2ikfgwppjdkz",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Movenpick Asara Resort & Spa Hua Hin",
-      "offer_country_name": "Thailand",
-      "location_heading": "Hua Hin",
       "title": "Hua Hin Beachfront Retreat with Daily Breakfast, Lunch or Dinner & Nightly Free-Flow Drinks",
       "description": "Experience the epitome of Thai beachfront luxury, where the shimmering ocean and quiet gardens await. Explore vibrant markets under the night sky, take a stroll along Hua Hin's alabaster sands or venture further afield to discover the historic Hua Hin railway station and Wat Huay Mongkol temple. Back at the resort, it's time to relax. Unwind with a rejuvenating treatment at Asara Spa, dine on sumptuous seafood at Baan Dum Oceanfront Restaurant, try Thai and Mediterranean flavours at Kampu Restaurant, sip mai tais at Ocean Bar or laze the day away by the hotel's glittering central pool.",
       "location_subheading": "Thailand",
@@ -149,6 +131,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 5,
       "end_date_utc": "2026-03-31 12:59:00"
+    },
+    {
+      "vendor_name": "Movenpick Asara Resort & Spa Hua Hin",
+      "offer_country_name": "Thailand",
+      "location_heading": "Hua Hin",
+      "title": "Tranquil Hua Hin Beachfront Retreat with Lagoon Pool, Onsite Spa & Two Restaurants",
+      "description": "Embrace unrivalled Thai elegance and beachfront luxury at this Mövenpick oasis tucked away in the beach town of Hua Hin. Ensconced amid lush tropical gardens and serene lagoon pools, the sprawling resort boasts lavish suites and pool villas, all complemented by signature Mövenpick hospitality. Spend your days swimming laps in the resort's iconic pool, cool off with a drink from the Ocean Bar, tuck into delicious seafood at Baan Dum and try Mediterranean flavours at Kampu Restaurant. If you're looking for some much-needed pampering, unwind with treatments at Asara Spa.",
+      "location_subheading": "Thailand",
+      "price": 113,
+      "original_price": 113,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnGgEYAV",
+      "hero_image": "https://images.luxuryescapes.com/i2h86wklqv3dg3n8hlad",
+      "image_two": "https://images.luxuryescapes.com/olw6u3o2p93nh46qr8fo",
+      "image_three": "https://images.luxuryescapes.com/ikgygtm2ikfgwppjdkz",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Putahracsa Hua Hin",
@@ -222,7 +222,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-18",
+    "last_updated": "2026-02-19",
     "hotel_count": 11,
     "average_price": 217,
     "average_discount": 6

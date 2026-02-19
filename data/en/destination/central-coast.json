@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Central Coast",
   "description": "Discover the best hotels in Central Coast, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/qkwfnufjoum1gq5tgubm",
+  "hero_image": "https://images.luxuryescapes.com/mg558jvtbns6sgswbhxd",
   "hotels": [
-    {
-      "vendor_name": "Mercure Kooindah Waters Central Coast",
-      "offer_country_name": "Australia",
-      "location_heading": "Central Coast",
-      "title": "NSW Central Coast Escape 90 Minutes from Sydney with Championship Golf Course & Two Pools",
-      "description": "Relax and rejuvenate at Mercure Kooindah Waters Central Coast, just a 90-minute drive north of Sydney. Ideally located on the beautiful New South Wales Central Coast, this retreat provides a peaceful escape and boasts an 18-hole championship golf course, recognised among the top 100 golf courses in Australia. Sit back in the blissful sunshine with a glass of wine in hand while enjoying the manicured grounds, take a stroll around the tranquil lake in the heart of the property and enjoy the friendly competition on the tennis court. From the moment the sun rises to the second it sets, spend your days hopping from one pristine beach to another and bask in the calmness of the region. Feel refreshed with a few laps in the outdoor or indoor pool, explore the beauty of the surrounding wetlands and national parks or spot passing dolphins and whales in the winter months. No matter where you are on the property, the views will take your breath away.",
-      "location_subheading": "Australia",
-      "price": 101,
-      "original_price": 101,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000KuD77YAF",
-      "hero_image": "https://images.luxuryescapes.com/qkwfnufjoum1gq5tgubm",
-      "image_two": "https://images.luxuryescapes.com/m93p6j6c7wo58i87x3d",
-      "image_three": "https://images.luxuryescapes.com/oa77qhp8c4eaiqgozo6m",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Mercure Kooindah Waters Central Coast",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 2,
       "end_date_utc": "2026-03-09 12:59:00"
+    },
+    {
+      "vendor_name": "Mercure Kooindah Waters Central Coast",
+      "offer_country_name": "Australia",
+      "location_heading": "Central Coast",
+      "title": "NSW Central Coast Escape 90 Minutes from Sydney with Championship Golf Course & Two Pools",
+      "description": "Relax and rejuvenate at Mercure Kooindah Waters Central Coast, just a 90-minute drive north of Sydney. Ideally located on the beautiful New South Wales Central Coast, this retreat provides a peaceful escape and boasts an 18-hole championship golf course, recognised among the top 100 golf courses in Australia. Sit back in the blissful sunshine with a glass of wine in hand while enjoying the manicured grounds, take a stroll around the tranquil lake in the heart of the property and enjoy the friendly competition on the tennis court. From the moment the sun rises to the second it sets, spend your days hopping from one pristine beach to another and bask in the calmness of the region. Feel refreshed with a few laps in the outdoor or indoor pool, explore the beauty of the surrounding wetlands and national parks or spot passing dolphins and whales in the winter months. No matter where you are on the property, the views will take your breath away.",
+      "location_subheading": "Australia",
+      "price": 101,
+      "original_price": 101,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000KuD77YAF",
+      "hero_image": "https://images.luxuryescapes.com/qkwfnufjoum1gq5tgubm",
+      "image_two": "https://images.luxuryescapes.com/m93p6j6c7wo58i87x3d",
+      "image_three": "https://images.luxuryescapes.com/oa77qhp8c4eaiqgozo6m",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "The Beachcomber Hotel",
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-18",
+    "last_updated": "2026-02-19",
     "hotel_count": 3,
     "average_price": 149,
     "average_discount": 21

@@ -10,9 +10,9 @@
       "slug": "barcelona",
       "image": "https://images.luxuryescapes.com/1yqqtuarqnk9pql59viq",
       "description": "Explore Barcelona with luxury accommodations",
-      "hotel_count": 18,
-      "hotel_deals": 18,
-      "avg_price": 684
+      "hotel_count": 17,
+      "hotel_deals": 17,
+      "avg_price": 266
     },
     {
       "name": "Madrid",
@@ -39,7 +39,7 @@
       "description": "Explore Ibiza with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 321
+      "avg_price": 322
     },
     {
       "name": "Analucia",
@@ -51,13 +51,13 @@
       "avg_price": 595
     },
     {
-      "name": "Marbella",
-      "slug": "marbella",
-      "image": "https://images.luxuryescapes.com/fktsbmfbhee6yccuwpuwq",
-      "description": "Explore Marbella with luxury accommodations",
+      "name": "Sotogrande",
+      "slug": "sotogrande",
+      "image": "https://images.luxuryescapes.com/6skvdhzhblf3vssiasn",
+      "description": "Explore Sotogrande with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 220
+      "avg_price": 245
     }
   ],
   "seo": {
