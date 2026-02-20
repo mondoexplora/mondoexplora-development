@@ -12,7 +12,7 @@
       "description": "Explore Barcelona with luxury accommodations",
       "hotel_count": 17,
       "hotel_deals": 17,
-      "avg_price": 266
+      "avg_price": 265
     },
     {
       "name": "Madrid",
@@ -51,13 +51,13 @@
       "avg_price": 595
     },
     {
-      "name": "Sotogrande",
-      "slug": "sotogrande",
-      "image": "https://images.luxuryescapes.com/6skvdhzhblf3vssiasn",
-      "description": "Explore Sotogrande with luxury accommodations",
+      "name": "Marbella",
+      "slug": "marbella",
+      "image": "https://images.luxuryescapes.com/fktsbmfbhee6yccuwpuwq",
+      "description": "Explore Marbella with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 245
+      "avg_price": 220
     }
   ],
   "seo": {

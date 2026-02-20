@@ -1,0 +1,50 @@
+{
+  "city": "Norfolk",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hotels in Norfolk",
+  "description": "Discover the best hotels in Norfolk, United Kingdom. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/k94l9dwv4tna5mlovfp",
+  "hotels": [
+    {
+      "vendor_name": "Dunston Hall Hotel, Spa and Golf Resort",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Norfolk",
+      "title": "Norfolk Countryside Spa & Golf Hotel set in 150 Acres of Woodland",
+      "description": "Allow yourself to be swept up in the charm of an Elizabethan-style mansion when you escape to the grand Dunston Hall Hotel, Spa & Golf Resort. Making a statement in the Norfolk countryside since 1859, moments from the protected wetlands of the Broads National Park, this charming hall has been lovingly restored and features a luxurious health club and spa with an indoor heated pool, a scenic championship golf course, The Brasserie Restaurant and three bars. When you're not enjoying a leisurely day of pampering, why not indulge in a traditional afternoon tea overlooking the gardens or discover the rich history of neighbouring Norwich, with its ancient castle, cathedral and world-class dining scene?",
+      "location_subheading": "United Kingdom",
+      "price": 117,
+      "original_price": 117,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007lrYiAAI",
+      "hero_image": "https://images.luxuryescapes.com/k94l9dwv4tna5mlovfp",
+      "image_two": "https://images.luxuryescapes.com/eskp2zo2rhhsyyvz2713",
+      "image_three": "https://images.luxuryescapes.com/fuvkmebyd0yx46cxuuo",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Norfolk - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Norfolk, United Kingdom with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "norfolk hotels",
+      "norfolk travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/norfolk",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/norfolk",
+      "es": "https://mondoexplora.com/es/destination/norfolk",
+      "fr": "https://mondoexplora.com/fr/destination/norfolk",
+      "it": "https://mondoexplora.com/it/destination/norfolk"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-02-20",
+    "hotel_count": 1,
+    "average_price": 117,
+    "average_discount": 0
+  }
+}

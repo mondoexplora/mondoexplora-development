@@ -4,26 +4,8 @@
   "country_code": "LK",
   "hero_title": "Hotels in Kandy",
   "description": "Discover the best hotels in Kandy, Sri Lanka. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/64gnmm9rrfiy2v32ir5r",
+  "hero_image": "https://images.luxuryescapes.com/pvt6ytekdhc6y95lbze",
   "hotels": [
-    {
-      "vendor_name": "Aarunya Nature Resort & Spa",
-      "offer_country_name": "Sri Lanka",
-      "location_heading": "Kandy",
-      "title": "Boutique Sri Lanka Retreat with Daily Breakfast, Daily Lunch or Dinner & Free-Flow Drinks Hour",
-      "description": "Embrace the serene beauty of Sri Lanka with a stay at this award-winning resort, nestled in the UNESCO World Heritage-listed Knuckles Mountain Range. Perched in the island's central highlands, this boutique retreat seamlessly blends wellness and luxury amidst breathtaking natural surroundings. At the heart of this sanctuary is the Aarogya Luxury Spa, where personalised Balinese and Ayurvedic treatments await. Indulge in rejuvenation with access to an infrared sauna, yoga sessions and meditation, designed to help you achieve inner harmony. Unwind in the privacy of your villa, each offering unparalleled comfort with either a jacuzzi or plunge pool. Explore the nearby city of Kandy, home to the sacred Temple of the Tooth and the stunning Royal Botanical Gardens. Return to the resort to enjoy a refreshing dip in the infinity pool before savouring exquisite Sri Lankan cuisine at The Verandah restaurant, accompanied by sweeping views of the surrounding mountains.",
-      "location_subheading": "Sri Lanka",
-      "price": 839,
-      "original_price": 1998,
-      "discount_percentage": 58,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JgZkoYAF",
-      "hero_image": "https://images.luxuryescapes.com/64gnmm9rrfiy2v32ir5r",
-      "image_two": "https://images.luxuryescapes.com/x4lhyb9riq3thcyy09z",
-      "image_three": "https://images.luxuryescapes.com/nu1kquu6mmq40x6y09",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 2,
-      "end_date_utc": "2026-05-21 13:59:00"
-    },
     {
       "vendor_name": "Aarunya Nature Resort & Spa",
       "offer_country_name": "Sri Lanka",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Aarunya Nature Resort & Spa",
+      "offer_country_name": "Sri Lanka",
+      "location_heading": "Kandy",
+      "title": "Boutique Sri Lanka Retreat with Daily Breakfast, Daily Lunch or Dinner & Free-Flow Drinks Hour",
+      "description": "Embrace the serene beauty of Sri Lanka with a stay at this award-winning resort, nestled in the UNESCO World Heritage-listed Knuckles Mountain Range. Perched in the island's central highlands, this boutique retreat seamlessly blends wellness and luxury amidst breathtaking natural surroundings. At the heart of this sanctuary is the Aarogya Luxury Spa, where personalised Balinese and Ayurvedic treatments await. Indulge in rejuvenation with access to an infrared sauna, yoga sessions and meditation, designed to help you achieve inner harmony. Unwind in the privacy of your villa, each offering unparalleled comfort with either a jacuzzi or plunge pool. Explore the nearby city of Kandy, home to the sacred Temple of the Tooth and the stunning Royal Botanical Gardens. Return to the resort to enjoy a refreshing dip in the infinity pool before savouring exquisite Sri Lankan cuisine at The Verandah restaurant, accompanied by sweeping views of the surrounding mountains.",
+      "location_subheading": "Sri Lanka",
+      "price": 839,
+      "original_price": 1998,
+      "discount_percentage": 58,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JgZkoYAF",
+      "hero_image": "https://images.luxuryescapes.com/64gnmm9rrfiy2v32ir5r",
+      "image_two": "https://images.luxuryescapes.com/x4lhyb9riq3thcyy09z",
+      "image_three": "https://images.luxuryescapes.com/nu1kquu6mmq40x6y09",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-05-21 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-19",
+    "last_updated": "2026-02-20",
     "hotel_count": 2,
     "average_price": 580,
     "average_discount": 29

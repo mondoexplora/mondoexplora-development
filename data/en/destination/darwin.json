@@ -31,8 +31,8 @@
       "title": "Darwin Spacious Self-Contained Apartments Minutes from Waterfront Precinct",
       "description": "In the heart of Australia’s tropical capital city is where you will find the luxurious and spacious Argus Apartments, Darwin - perfectly located moments from Darwin Waterfront Precinct, the bustling foodie haven of Mitchell Street, and the city’s unmissable attractions. Be sure to grab a bite at one of the many exceptional Asian-influenced restaurants and cafés, venture to Mindil Beach Sunset Markets, or visit the many museums and galleries, and delve deeper into Aboriginal culture, history, and traditions. Leave it all behind for the day and explore Litchfield National Park’s magnetic termite mounds, thundering waterfalls, monsoon rainforests, and historic sacred sites. After a day of exploration, take a refreshing dip in the property’s outdoor pool or unwind in your self-contained apartment. Apartments offer a full kitchen with modern appliances, artwork from local creators, comfortable furnishings, and a generous balcony for alfresco dining - perfect for couples, groups, or families seeking an escape in the Top End.",
       "location_subheading": "Australia",
-      "price": 232,
-      "original_price": 232,
+      "price": 233,
+      "original_price": 233,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000006Pm6VAAS",
       "hero_image": "https://images.luxuryescapes.com/b9vhuq4aq3q7dsuimn6",
@@ -41,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "H on Mitchell Apartment Hotel",
-      "offer_country_name": "Australia",
-      "location_heading": "Darwin",
-      "title": "Modern Darwin Self-Contained Apartments with Daily Breakfast & Complimentary Parking",
-      "description": "Elevate your stay in the Top End with a self-contained apartment in the heart of Darwin’s CBD. This modern retreat has everything you need for ultimate relaxation: spend your days unwinding in a cabana by the rooftop pool - offering sweeping views over the city - or head to Lizards Sports Bar & Restaurant for easygoing beers and good times. When you're ready to explore, venture out to the laid-back Darwin Waterfront Precinct and Mitchell Street’s bustling nightlife. Here, you’ll find frothy pints and pub music at Shenannigans or try locally crafted brews at Six Tanks. Adventure abounds in the Top End: the awe-inspiring waterfalls of Litchfield National Park are just over an hour’s drive away.",
-      "location_subheading": "Australia",
-      "price": 199,
-      "original_price": 406,
-      "discount_percentage": 51,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000MsHYgYAN",
-      "hero_image": "https://images.luxuryescapes.com/emvkqijbosvjicz52g7w",
-      "image_two": "https://images.luxuryescapes.com/mkxbm8hdhbge8pc9lhu",
-      "image_three": "https://images.luxuryescapes.com/qy4uuzyr2rt8x8jeyvq8",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-03-17 12:59:00"
     },
     {
       "vendor_name": "H on Mitchell Apartment Hotel",
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "H on Mitchell Apartment Hotel",
+      "offer_country_name": "Australia",
+      "location_heading": "Darwin",
+      "title": "Modern Darwin Self-Contained Apartments with Daily Breakfast & Complimentary Parking",
+      "description": "Elevate your stay in the Top End with a self-contained apartment in the heart of Darwin’s CBD. This modern retreat has everything you need for ultimate relaxation: spend your days unwinding in a cabana by the rooftop pool - offering sweeping views over the city - or head to Lizards Sports Bar & Restaurant for easygoing beers and good times. When you're ready to explore, venture out to the laid-back Darwin Waterfront Precinct and Mitchell Street’s bustling nightlife. Here, you’ll find frothy pints and pub music at Shenannigans or try locally crafted brews at Six Tanks. Adventure abounds in the Top End: the awe-inspiring waterfalls of Litchfield National Park are just over an hour’s drive away.",
+      "location_subheading": "Australia",
+      "price": 199,
+      "original_price": 406,
+      "discount_percentage": 51,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000MsHYgYAN",
+      "hero_image": "https://images.luxuryescapes.com/emvkqijbosvjicz52g7w",
+      "image_two": "https://images.luxuryescapes.com/mkxbm8hdhbge8pc9lhu",
+      "image_three": "https://images.luxuryescapes.com/qy4uuzyr2rt8x8jeyvq8",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-03-17 12:59:00"
     },
     {
       "vendor_name": "Mantra Pandanas",
@@ -240,7 +240,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-19",
+    "last_updated": "2026-02-20",
     "hotel_count": 12,
     "average_price": 116,
     "average_discount": 6

@@ -31,31 +31,13 @@
       "title": "Idyllic Maldives Villa Indulgence with Private Pool & Underwater Restaurant",
       "description": "Feel the magic of the Maldives all around you at Anantara Kihavah Maldives Villas, a resplendent island oasis within the breathtaking Baa Atoll UNESCO Biosphere Reserve. Drink champagne beneath the stars at SKY, dine under the ocean's placid surface and watch colourful marine life pass you by at SEA or choose from four other experiential restaurants. Take advantage of personalised wellness programs and ayurvedic spa pampering so you return home feeling reset and renewed.",
       "location_subheading": "Maldives",
-      "price": 1803,
-      "original_price": 1803,
+      "price": 1802,
+      "original_price": 1802,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009BTCdAAO",
       "hero_image": "https://images.luxuryescapes.com/ugz0dlpe39jgdoy3cbfq",
       "image_two": "https://images.luxuryescapes.com/u6ffalw9ti8jadbcxm8c",
       "image_three": "https://images.luxuryescapes.com/sh8365cof4lgdt1xwhy3",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Avani+ Fares Maldives Resort",
-      "offer_country_name": "Maldives",
-      "location_heading": "Baa Atoll",
-      "title": "Five-Star Oceanfront Maldives Paradise with Resort Pool, Seven Gourmet Dining Outlets & Poolside Bar",
-      "description": "Savour moments of pure tropical bliss overlooking the sparkling lagoon framed by swaying palms at Avani+ Fares Maldives Resort. Indulge in direct access to the secluded beach, enjoy a drink beside the resort pool, or explore the colourful nearby reef. Enhance your opulent ocean stay with a visit to the resort’s spa for an impressive treatment, or with a delectable meal at one of seven dining options, each boasting tantalizing menus and unparalleled ambiance.",
-      "location_subheading": "Maldives",
-      "price": 321,
-      "original_price": 321,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EbvvGAAR",
-      "hero_image": "https://images.luxuryescapes.com/4anr0yja47mx568b3mz",
-      "image_two": "https://images.luxuryescapes.com/ggg6bjsy8rhpvr055qggh",
-      "image_three": "https://images.luxuryescapes.com/00xyi9pfgsuh1midy1zm",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 5,
       "end_date_utc": "2026-04-13 13:59:00"
+    },
+    {
+      "vendor_name": "Avani+ Fares Maldives Resort",
+      "offer_country_name": "Maldives",
+      "location_heading": "Baa Atoll",
+      "title": "Five-Star Oceanfront Maldives Paradise with Resort Pool, Seven Gourmet Dining Outlets & Poolside Bar",
+      "description": "Savour moments of pure tropical bliss overlooking the sparkling lagoon framed by swaying palms at Avani+ Fares Maldives Resort. Indulge in direct access to the secluded beach, enjoy a drink beside the resort pool, or explore the colourful nearby reef. Enhance your opulent ocean stay with a visit to the resort’s spa for an impressive treatment, or with a delectable meal at one of seven dining options, each boasting tantalizing menus and unparalleled ambiance.",
+      "location_subheading": "Maldives",
+      "price": 321,
+      "original_price": 321,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EbvvGAAR",
+      "hero_image": "https://images.luxuryescapes.com/4anr0yja47mx568b3mz",
+      "image_two": "https://images.luxuryescapes.com/ggg6bjsy8rhpvr055qggh",
+      "image_three": "https://images.luxuryescapes.com/00xyi9pfgsuh1midy1zm",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Soneva Fushi",
@@ -132,7 +132,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-19",
+    "last_updated": "2026-02-20",
     "hotel_count": 6,
     "average_price": 1580,
     "average_discount": 7
