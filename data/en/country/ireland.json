@@ -12,7 +12,7 @@
       "description": "Explore Dublin with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 217
+      "avg_price": 335
     },
     {
       "name": "Cork",
@@ -21,7 +21,7 @@
       "description": "Explore Cork with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 320
+      "avg_price": 640
     },
     {
       "name": "Kilkenny",
@@ -30,7 +30,7 @@
       "description": "Explore Kilkenny with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 190
+      "avg_price": 380
     },
     {
       "name": "County Mayo",
@@ -39,7 +39,7 @@
       "description": "Explore County Mayo with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 225
+      "avg_price": 490
     }
   ],
   "seo": {
