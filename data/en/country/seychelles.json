@@ -15,15 +15,6 @@
       "avg_price": 3574
     },
     {
-      "name": "Praslin Island",
-      "slug": "praslin-island",
-      "image": "https://images.luxuryescapes.com/xy7gx76yygobb5oiec9w",
-      "description": "Explore Praslin Island with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 1031
-    },
-    {
       "name": "Seychelles",
       "slug": "seychelles",
       "image": "https://images.luxuryescapes.com/umm61p16jfs0u75p7iqx",
@@ -31,6 +22,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 2985
+    },
+    {
+      "name": "Praslin Island",
+      "slug": "praslin-island",
+      "image": "https://images.luxuryescapes.com/xy7gx76yygobb5oiec9w",
+      "description": "Explore Praslin Island with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 2975
     },
     {
       "name": "Félicité",

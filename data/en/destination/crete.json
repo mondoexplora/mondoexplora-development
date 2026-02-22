@@ -61,6 +61,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "JW Marriott Resort & Spa, Crete",
+      "offer_country_name": "Greece",
+      "location_heading": "Crete",
+      "title": "Brand-New Greek Island Hideaway with Private Beach, Daily Breakfast & EUR100 Dining Credit",
+      "description": "Ascend to Greek deity status at this private sanctuary, tucked away in an intimate cove with jaw-dropping sea views that stretch to the horizon. Here, five-star rooms and suites flow seamlessly into untamed natural beauty, creating a retreat where time stands still and worries melt away. Dive into one of three spectacular pools or unwind at the world-class Anoseas Spa while the healing energy of Crete's ancient landscape wraps around you like a warm embrace. Indulge your senses across six exceptional dining venues that showcase the vibrant flavours of Mediterranean cuisine against a backdrop of Aegean blues. On the shores of its private stretch of sand, luxuriate on a sunlounger or dive into sparkling azure waters. Whether relishing in your balcony views or wandering through the nature-enveloped grounds, this secluded haven is a true escape from ordinary life.",
+      "location_subheading": "Greece",
+      "price": 1569,
+      "original_price": 2241,
+      "discount_percentage": 30,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000QLQQLYA5",
+      "hero_image": "https://images.luxuryescapes.com/0r7zlmuogbpq5fxqtr3",
+      "image_two": "https://images.luxuryescapes.com/06p4bm1ezaol5zvmgrj",
+      "image_three": "https://images.luxuryescapes.com/41yusxirpdnut9aqrfh",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2026-03-13 12:59:00"
+    },
+    {
       "vendor_name": "Minos Beach Art Hotel",
       "offer_country_name": "Greece",
       "location_heading": "Crete",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-21",
-    "hotel_count": 5,
-    "average_price": 664,
-    "average_discount": 10
+    "last_updated": "2026-02-22",
+    "hotel_count": 6,
+    "average_price": 815,
+    "average_discount": 14
   }
 }

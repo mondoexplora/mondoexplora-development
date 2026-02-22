@@ -13,8 +13,8 @@
       "title": "Nha Trang Coastal Bliss with Three Swimming Pools",
       "description": "The buzzing beach town of Nha Trang offers the perfect combination of city living and coastal charms and is best enjoyed from the stylish InterContinental Nha Trang, an IHG Hotel. Enjoy superb views of the city's bay from this hotel, then visit the four bars and restaurants, including a poolside bar. Fill your days however you please: dive into one of three outdoor swimming pools or head to the day spa for a spot of pampering and unwinding.",
       "location_subheading": "Vietnam",
-      "price": 114,
-      "original_price": 114,
+      "price": 355,
+      "original_price": 355,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt80AAB",
       "hero_image": "https://images.luxuryescapes.com/u4ufey4u1clqzmvqipzo",
@@ -67,8 +67,8 @@
       "title": "Beachfront Novotel Nha Trang Elegance with Tranquil Pool & Spa",
       "description": "Bask in the coastal charms of Nha Trang from this idyllic Novotel abode, perfectly positioned on the vibrant city's main road, offering easy access to the pristine beach. Unwind in style in the hotel's well-appointed rooms and relax in the glistening pool. As the sun dips below the horizon, replenish with scrumptious cocktails at the Pool Bar. When it's time to explore, the historic Ponagar Temple, the Long Son Pagoda and the bustling night market are within easy reach. For beach lovers, embark on an expedition across the crystal-clear waters and snorkel in the colourful reefs. After a day of exploration, retreat to the hotel's In Balance Spa for a rejuvenating treatment.",
       "location_subheading": "Vietnam",
-      "price": 50,
-      "original_price": 50,
+      "price": 155,
+      "original_price": 155,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP4rYAF",
       "hero_image": "https://images.luxuryescapes.com/hclg4m2uyjb96hubhu9",
@@ -77,24 +77,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Potique Hotel",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Nha Trang",
-      "title": "Top-Rated Five-Star Vietnam Hotel with Rooftop Bar",
-      "description": "Step into a world of sophisticated beauty when you enter the elegant lobby of Vietnam's five-star Potique Nha Trang. Take the time to discover the sun-kissed lifestyle of this thriving coastal paradise, plush with turquoise beaches and cosmopolitan dining options. Then, indulge in a bespoke spa treatment at the onsite Sen Spa, enjoy a cocktail on the rooftop Blue Bar and dine on local cuisine at the romantic Indochine Restaurant.",
-      "location_subheading": "Vietnam",
-      "price": 214,
-      "original_price": 301,
-      "discount_percentage": 29,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DR1ZTAA1",
-      "hero_image": "https://images.luxuryescapes.com/jefutp8yzq9issttwdp",
-      "image_two": "https://images.luxuryescapes.com/cghob4jfr8x8uhnfi2q",
-      "image_three": "https://images.luxuryescapes.com/hrywacsbzt13alotu2wr",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Potique Hotel",
@@ -113,6 +95,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 3,
       "end_date_utc": "2026-02-28 12:59:00"
+    },
+    {
+      "vendor_name": "Potique Hotel",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Nha Trang",
+      "title": "Top-Rated Five-Star Vietnam Hotel with Rooftop Bar",
+      "description": "Step into a world of sophisticated beauty when you enter the elegant lobby of Vietnam's five-star Potique Nha Trang. Take the time to discover the sun-kissed lifestyle of this thriving coastal paradise, plush with turquoise beaches and cosmopolitan dining options. Then, indulge in a bespoke spa treatment at the onsite Sen Spa, enjoy a cocktail on the rooftop Blue Bar and dine on local cuisine at the romantic Indochine Restaurant.",
+      "location_subheading": "Vietnam",
+      "price": 214,
+      "original_price": 301,
+      "discount_percentage": 29,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DR1ZTAA1",
+      "hero_image": "https://images.luxuryescapes.com/jefutp8yzq9issttwdp",
+      "image_two": "https://images.luxuryescapes.com/cghob4jfr8x8uhnfi2q",
+      "image_three": "https://images.luxuryescapes.com/hrywacsbzt13alotu2wr",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -132,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-21",
+    "last_updated": "2026-02-22",
     "hotel_count": 6,
-    "average_price": 242,
+    "average_price": 300,
     "average_discount": 18
   }
 }
