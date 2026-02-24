@@ -3,17 +3,8 @@
   "code": "FJ",
   "hero_title": "Fiji Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Fiji.",
-  "hero_image": "https://images.luxuryescapes.com/ah1octnsr2ejlf13dj",
+  "hero_image": "https://images.luxuryescapes.com/45e0v0v8t5f1p8bmfv39",
   "popular_destinations": [
-    {
-      "name": "Nadi",
-      "slug": "nadi",
-      "image": "https://images.luxuryescapes.com/ah1octnsr2ejlf13dj",
-      "description": "Explore Nadi with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 350
-    },
     {
       "name": "Malolo Island",
       "slug": "malolo-island",
@@ -21,7 +12,7 @@
       "description": "Explore Malolo Island with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 2704
+      "avg_price": 2681
     },
     {
       "name": "Viti Levu",
@@ -33,9 +24,18 @@
       "avg_price": 821
     },
     {
+      "name": "Nadi",
+      "slug": "nadi",
+      "image": "https://images.luxuryescapes.com/ah1octnsr2ejlf13dj",
+      "description": "Explore Nadi with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 338
+    },
+    {
       "name": "Pacific Harbour",
       "slug": "pacific-harbour",
-      "image": "https://images.luxuryescapes.com/n6ay7spgbnfzzl5qlu0d",
+      "image": "https://images.luxuryescapes.com/um52x6rjbgtfa0ywmp0c",
       "description": "Explore Pacific Harbour with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
@@ -48,7 +48,7 @@
       "description": "Explore Malolo Lailai with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 927
+      "avg_price": 926
     },
     {
       "name": "Denarau Island",
@@ -57,7 +57,7 @@
       "description": "Explore Denarau Island with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 2918
+      "avg_price": 2917
     }
   ],
   "seo": {
