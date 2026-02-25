@@ -4,8 +4,26 @@
   "country_code": "MY",
   "hero_title": "Hotels in Desaru",
   "description": "Discover the best hotels in Desaru, Malaysia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/hw6cjna4a86gvlfl22",
+  "hero_image": "https://images.luxuryescapes.com/83s1bf0dnod5c4hpcyl",
   "hotels": [
+    {
+      "vendor_name": "Anantara Desaru Coast Resort & Villas",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Desaru",
+      "title": "Malaysia Five-Star Paradise with Beachfront Infinity Pool",
+      "description": "Discover a five-star oceanfront paradise with a stay at the luxurious Anantara Desaru Coast Resort & Villas - an oasis amid lush tropical gardens, lagoons and golden Malaysian beaches. Experience opulent days relaxing by the beachfront infinity pool, before retreating to the Lagoon Pool Bar for a cocktail to watch the sun set over the turquoise waters. Indulge in a variety of dining experiences at the two onsite restaurants or organise an intimate beachside bespoke meal for two under the stars.",
+      "location_subheading": "Malaysia",
+      "price": 864,
+      "original_price": 864,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009C7BzAAK",
+      "hero_image": "https://images.luxuryescapes.com/83s1bf0dnod5c4hpcyl",
+      "image_two": "https://images.luxuryescapes.com/855nbg6s4ehi6pm8ela2",
+      "image_three": "https://images.luxuryescapes.com/pagy1n0npgf7cml4osr",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
     {
       "vendor_name": "Anantara Desaru Coast Resort & Villas",
       "offer_country_name": "Malaysia",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-06-30 13:59:00"
-    },
-    {
-      "vendor_name": "Anantara Desaru Coast Resort & Villas",
-      "offer_country_name": "Malaysia",
-      "location_heading": "Desaru",
-      "title": "Malaysia Five-Star Paradise with Beachfront Infinity Pool",
-      "description": "Discover a five-star oceanfront paradise with a stay at the luxurious Anantara Desaru Coast Resort & Villas - an oasis amid lush tropical gardens, lagoons and golden Malaysian beaches. Experience opulent days relaxing by the beachfront infinity pool, before retreating to the Lagoon Pool Bar for a cocktail to watch the sun set over the turquoise waters. Indulge in a variety of dining experiences at the two onsite restaurants or organise an intimate beachside bespoke meal for two under the stars.",
-      "location_subheading": "Malaysia",
-      "price": 867,
-      "original_price": 867,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009C7BzAAK",
-      "hero_image": "https://images.luxuryescapes.com/83s1bf0dnod5c4hpcyl",
-      "image_two": "https://images.luxuryescapes.com/855nbg6s4ehi6pm8ela2",
-      "image_three": "https://images.luxuryescapes.com/pagy1n0npgf7cml4osr",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 01:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-24",
+    "last_updated": "2026-02-25",
     "hotel_count": 2,
-    "average_price": 898,
+    "average_price": 897,
     "average_discount": 0
   }
 }

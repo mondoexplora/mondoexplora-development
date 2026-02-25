@@ -13,8 +13,8 @@
       "title": "International Luxury within Portugal's Historic Port Wine Capital",
       "description": "In the heart of Portugal's port wine capital, Crowne Plaza Porto, an IHG Hotel, is an urban oasis for good food, wine and relaxation. Savour succulent seafood at SOMOS Restaurant & Lounge, indulge in a tranquil treatment at Mandalay Wellness or reinvigorate your body at the onsite fitness centre. Experience the port wine of this magnificent city, marvel at heritage architecture or stroll along Ponte da Arrabida before returning for a well-earned rest.",
       "location_subheading": "Portugal",
-      "price": 210,
-      "original_price": 210,
+      "price": 214,
+      "original_price": 214,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CPyDoAAL",
       "hero_image": "https://images.luxuryescapes.com/cwxxbyrbxf194xrl5lo5",
@@ -43,14 +43,32 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "The Yeatman Hotel",
+      "offer_country_name": "Portugal",
+      "location_heading": "Porto",
+      "title": "Five-Star Portugal Luxury Escape with Michelin-Starred Restaurant & Wine Cellar",
+      "description": "Discover Portugal in unparalleled luxury with a stay at The Yeatman Hotel, a five-star establishment with a distinguished wine cellar and restaurant boasting two Michelin stars. Treat yourself to innovative cuisine inspired by traditional flavours at the Yeatman Gastronomic Restaurant, and dive into the extensive collection of wines that inspire the décor of the hotel. Glowing infinity pools and views over Porto and the Douro River put the finishing touches on an indulgent experience.",
+      "location_subheading": "Portugal",
+      "price": 592,
+      "original_price": 623,
+      "discount_percentage": 5,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009FBE5AAO",
+      "hero_image": "https://images.luxuryescapes.com/e2geu6nubbg32ngbtrp",
+      "image_two": "https://images.luxuryescapes.com/c7m99vm6jm6ghnt17ohf",
+      "image_three": "https://images.luxuryescapes.com/mejlftz3mkzbtow5vop",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Torel 1884 Suites & Apartments",
       "offer_country_name": "Portugal",
       "location_heading": "Porto",
       "title": "Top-Rated Porto Heritage Palace Escape",
       "description": "Experience the grandeur of Portuguese royalty with a stay at Torel 1884 Suites & Apartments, consistently ranked among the top hotels in Porto on Tripadvisor. Housed in a former palace dating back to 1884, this historic hotel is now a slice of sophisticated extravagance in the heart of the city, sitting just metres from some of Porto’s best sites, including the iconic Rua das Flores. If you fancy venturing a little further afield, São Bento train and metro station is a three-minute walk away. Each room in this palatial building combines original features with styling inspired by the discoveries of Portuguese explorers as they travelled across Africa, America and Asia - think coffee, porcelain, cardamom and silk. Retreat to the top-floor library and lounge to escape reality with a good book (with tomes available in English, French, German, Portuguese and Japanese), or join the locals at Bartolomeu, the ground-floor bistro and wine bar, dishing up Portuguese flavours with a French twist. Make your way through the primarily Portuguese wine list or book in for a private tasting in the former bank safes, now storing liquid currency.",
       "location_subheading": "Portugal",
-      "price": 321,
-      "original_price": 387,
+      "price": 360,
+      "original_price": 434,
       "discount_percentage": 17,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004VgMtAAK",
       "hero_image": "https://images.luxuryescapes.com/6e3wls2tp55px18isaatq",
@@ -148,7 +166,7 @@
       "image_three": "https://images.luxuryescapes.com/wdkccnwcmu2xqq9scj9a",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 3,
-      "end_date_utc": "2026-03-02 12:59:00"
+      "end_date_utc": "2026-03-16 12:59:00"
     }
   ],
   "seo": {
@@ -168,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-24",
-    "hotel_count": 8,
-    "average_price": 394,
-    "average_discount": 23
+    "last_updated": "2026-02-25",
+    "hotel_count": 9,
+    "average_price": 421,
+    "average_discount": 21
   }
 }

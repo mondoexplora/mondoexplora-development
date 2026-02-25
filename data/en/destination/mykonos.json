@@ -10,16 +10,16 @@
       "vendor_name": "Archipelagos Luxury Hotel Mykonos",
       "offer_country_name": "Greece",
       "location_heading": "Mykonos",
-      "title": "Five-Star Mykonos Beachfront Resort with Sweeping Ocean Views",
-      "description": "Inspired by the breathtaking beauty of the surrounding Cyclades Islands, Archipelagos Hotel Mykonos is a five-star Greek Island haven that promises modern luxury and sweeping Aegean Sea views. The exquisitely designed complex has a sun-drenched pool, organic garden, and wellness studio with a holistic spa. Take a culinary journey through Mykonian history at the resort's signature alfresco restaurant where a seductive menu features heritage recipes, or elevate your experience with a nine-course degustation paired with exceptional Greek wines at the fine-dining restaurant.",
+      "title": "Mykonos Beachfront Indulgence with Ocean-View Rooms, Onsite Spa & Restaurant",
+      "description": "Fulfil your Greek island dreams at Archipelagos Hotel Mykonos, a proud member of Small Luxury Hotels of the World and a five-star Cycladic haven capturing the timeless beauty of the Aegean. Framed by whitewashed architecture and sweeping sea views, this exquisitely designed retreat invites you to slow down and savour the very best of island life. Bask beside the sun-drenched pool with a cocktail, wander through the organic garden or unwind in the holistic spa and wellness studio. Dine alfresco on heritage-inspired dishes that trace the island’s culinary history, or opt for a nine-course degustation at the fine-dining restaurant, thoughtfully paired with exceptional Greek wines.",
       "location_subheading": "Greece",
       "price": 1448.45,
       "original_price": 1881,
       "discount_percentage": 23,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003HJE3AAO",
       "hero_image": "https://images.luxuryescapes.com/34isjychidoj61pu818",
-      "image_two": "https://images.luxuryescapes.com/mvfkt2bg7smz7tz1vm",
-      "image_three": "https://images.luxuryescapes.com/rwq81d2vgpm1x7a4r5e",
+      "image_two": "https://images.luxuryescapes.com/uty85ybh20lez74p23a",
+      "image_three": "https://images.luxuryescapes.com/mvfkt2bg7smz7tz1vm",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
@@ -131,6 +131,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Semeli Coast Mykonos Curio Collection By Hilton",
+      "offer_country_name": "Greece",
+      "location_heading": "Mykonos",
+      "title": "Mykonos Oceanfront Suites with Daily Breakfast, Nightly Cocktails & Return Transfers",
+      "description": "Perched on the shores of Merchia Bay, this picturesque haven - part of Hilton's prestigious Curio Collection - is where Greek island dreams come true. With each Aegean-chic room boasting either a private jacuzzi or pool - plus breathtaking ocean views that'll stop you in your tracks - it's an escape steeped in laidback luxury. With a secluded private beach and two shimmering pools, there’s no finer location for pure barefoot bliss. Savour Greek dining at the onsite Icare Restaurant and soak up the poolside setting before a sunset stroll. Whether you’re floating in one of the pools or kicking back on a plush sunbed, Semeli Coast brings a whole new meaning to 'room with a view'. Between drinks and dining, head to the Azalea Luxury Spa where personalised treatments will lull you deep into holiday mode.",
+      "location_subheading": "Greece",
+      "price": 944,
+      "original_price": 3045,
+      "discount_percentage": 69,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SSlQTYA1",
+      "hero_image": "https://images.luxuryescapes.com/h45lufbnqtfrdw3l6roe",
+      "image_two": "https://images.luxuryescapes.com/rq0delvbsgafzviypxz",
+      "image_three": "https://images.luxuryescapes.com/1x0nmh9pj93kvyxek19",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-03-17 12:59:00"
     }
   ],
   "seo": {
@@ -150,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-24",
-    "hotel_count": 7,
-    "average_price": 875,
-    "average_discount": 20
+    "last_updated": "2026-02-25",
+    "hotel_count": 8,
+    "average_price": 884,
+    "average_discount": 27
   }
 }
