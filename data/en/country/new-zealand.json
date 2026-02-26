@@ -12,7 +12,7 @@
       "description": "Explore Auckland with luxury accommodations",
       "hotel_count": 22,
       "hotel_deals": 22,
-      "avg_price": 385
+      "avg_price": 381
     },
     {
       "name": "Queenstown",
@@ -21,7 +21,7 @@
       "description": "Explore Queenstown with luxury accommodations",
       "hotel_count": 15,
       "hotel_deals": 15,
-      "avg_price": 1036
+      "avg_price": 1031
     },
     {
       "name": "Wellington",
@@ -30,7 +30,7 @@
       "description": "Explore Wellington with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 322
+      "avg_price": 324
     },
     {
       "name": "Christchurch",
@@ -39,7 +39,7 @@
       "description": "Explore Christchurch with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 396
+      "avg_price": 391
     },
     {
       "name": "Rotorua",
@@ -48,16 +48,16 @@
       "description": "Explore Rotorua with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 371
+      "avg_price": 373
     },
     {
       "name": "Napier",
       "slug": "napier",
-      "image": "https://images.luxuryescapes.com/99inb886zcn8su97unw7",
+      "image": "https://images.luxuryescapes.com/i80qqyq5d1i0s2u2gt8",
       "description": "Explore Napier with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 342
+      "avg_price": 341
     }
   ],
   "seo": {

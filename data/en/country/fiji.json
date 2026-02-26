@@ -3,17 +3,8 @@
   "code": "FJ",
   "hero_title": "Fiji Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Fiji.",
-  "hero_image": "https://images.luxuryescapes.com/45e0v0v8t5f1p8bmfv39",
+  "hero_image": "https://images.luxuryescapes.com/j9wvf6r78vfh0nbpghki",
   "popular_destinations": [
-    {
-      "name": "Malolo Island",
-      "slug": "malolo-island",
-      "image": "https://images.luxuryescapes.com/45e0v0v8t5f1p8bmfv39",
-      "description": "Explore Malolo Island with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 2670
-    },
     {
       "name": "Viti Levu",
       "slug": "viti-levu",
@@ -21,7 +12,7 @@
       "description": "Explore Viti Levu with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 840
+      "avg_price": 831
     },
     {
       "name": "Nadi",
@@ -30,7 +21,16 @@
       "description": "Explore Nadi with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 337
+      "avg_price": 331
+    },
+    {
+      "name": "Malolo Island",
+      "slug": "malolo-island",
+      "image": "https://images.luxuryescapes.com/bvgk5wx9mm3vqw0la8k8",
+      "description": "Explore Malolo Island with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 2016
     },
     {
       "name": "Malolo Lailai",
@@ -39,7 +39,7 @@
       "description": "Explore Malolo Lailai with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 923
+      "avg_price": 926
     },
     {
       "name": "Denarau Island",
@@ -48,7 +48,7 @@
       "description": "Explore Denarau Island with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 2930
+      "avg_price": 2940
     },
     {
       "name": "Coral Coast",
@@ -57,7 +57,7 @@
       "description": "Explore Coral Coast with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 645
+      "avg_price": 647
     }
   ],
   "seo": {
