@@ -39,7 +39,7 @@
       "image_two": "https://images.luxuryescapes.com/jvh1qjfpjyzvnc5x1p5c",
       "image_three": "https://images.luxuryescapes.com/epv1rq2fcwmu3r9kwwp",
       "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
+      "min_duration": 5,
       "end_date_utc": "2026-03-09 12:59:00"
     },
     {
@@ -93,7 +93,7 @@
       "image_two": "https://images.luxuryescapes.com/kjbzdlpvjn36comdhrn4",
       "image_three": "https://images.luxuryescapes.com/gujnpcenhb3tfihzjqa",
       "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
+      "min_duration": 5,
       "end_date_utc": "2026-03-14 12:59:00"
     },
     {
@@ -132,7 +132,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-26",
+    "last_updated": "2026-02-27",
     "hotel_count": 6,
     "average_price": 430,
     "average_discount": 18

@@ -3,8 +3,17 @@
   "code": "AU",
   "hero_title": "Australia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Australia.",
-  "hero_image": "https://images.luxuryescapes.com/hlmi6k6ud5fce8j8z0p",
+  "hero_image": "https://images.luxuryescapes.com/dpkfunte11jazg8whie",
   "popular_destinations": [
+    {
+      "name": "Melbourne",
+      "slug": "melbourne",
+      "image": "https://images.luxuryescapes.com/dpkfunte11jazg8whie",
+      "description": "Explore Melbourne with luxury accommodations",
+      "hotel_count": 65,
+      "hotel_deals": 65,
+      "avg_price": 361
+    },
     {
       "name": "Sydney",
       "slug": "sydney",
@@ -12,16 +21,7 @@
       "description": "Explore Sydney with luxury accommodations",
       "hotel_count": 64,
       "hotel_deals": 64,
-      "avg_price": 501
-    },
-    {
-      "name": "Melbourne",
-      "slug": "melbourne",
-      "image": "https://images.luxuryescapes.com/dpkfunte11jazg8whie",
-      "description": "Explore Melbourne with luxury accommodations",
-      "hotel_count": 64,
-      "hotel_deals": 64,
-      "avg_price": 361
+      "avg_price": 503
     },
     {
       "name": "Brisbane",
@@ -48,7 +48,7 @@
       "description": "Explore Perth with luxury accommodations",
       "hotel_count": 20,
       "hotel_deals": 20,
-      "avg_price": 445
+      "avg_price": 444
     },
     {
       "name": "Canberra",

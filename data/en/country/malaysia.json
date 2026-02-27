@@ -21,7 +21,7 @@
       "description": "Explore Penang with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 298
+      "avg_price": 293
     },
     {
       "name": "Kota Kinabalu",
@@ -30,7 +30,7 @@
       "description": "Explore Kota Kinabalu with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 461
+      "avg_price": 457
     },
     {
       "name": "Langkawi",
@@ -39,16 +39,7 @@
       "description": "Explore Langkawi with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 571
-    },
-    {
-      "name": "Desaru",
-      "slug": "desaru",
-      "image": "https://images.luxuryescapes.com/hw6cjna4a86gvlfl22",
-      "description": "Explore Desaru with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 900
+      "avg_price": 572
     },
     {
       "name": "Kuching",
@@ -58,6 +49,15 @@
       "hotel_count": 2,
       "hotel_deals": 2,
       "avg_price": 330
+    },
+    {
+      "name": "Sepang",
+      "slug": "sepang",
+      "image": "https://images.luxuryescapes.com/xi501eo8e0pqccokc1l",
+      "description": "Explore Sepang with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 266
     }
   ],
   "seo": {
