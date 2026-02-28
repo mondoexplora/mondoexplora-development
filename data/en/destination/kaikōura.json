@@ -4,25 +4,25 @@
   "country_code": "NZ",
   "hero_title": "Hotels in Kaikōura",
   "description": "Discover the best hotels in Kaikōura, New Zealand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/5mkluqa1h5ohzxp7apul",
+  "hero_image": "https://images.luxuryescapes.com/xyydt7bggskahzztjs59",
   "hotels": [
     {
-      "vendor_name": "Ata Rangi Lodge",
+      "vendor_name": "Sudima Hotel Kaikoura",
       "offer_country_name": "New Zealand",
       "location_heading": "Kaikōura",
-      "title": "Secluded Kaikōura Ranges Wilderness Retreat with Breakfast Provisions & Nature Experiences",
-      "description": "Hidden between the majestic Kaikōura Ranges and the sparkling Pacific Ocean, this luxurious lodge offers a secluded escape in the rugged New Zealand wilderness. Wake to spectacular ocean sunrises, before filling your days with curated experiences - from scenic flights and honey bee expierences to mountain trail hikes, and a showstopping chance for world-class whale watching (surcharges apply). Return to your secluded oasis and surrender to in-room wellness treatments, embark on a hands-on catch-and-cook dining experience or simply unwind with a glass of local wine on the terrace. No day at Ata Rangi Lodge Kaikōura is complete without a stargazing session beneath some of the world's clearest skies - best viewed from the gently bubbling hot tub.",
+      "title": "South Island Oceanfront Oasis in Kaikōura with Onsite Restaurant & Heated Pool",
+      "description": "Perfectly positioned on the stunning shoreline of Kaikōura on New Zealand's South Island, this sophisticated retreat offers breathtaking views where mountains meet the sea. Just a short stroll from the town centre, you'll be perfectly placed to enjoy the region's world-renowned marine adventures, from whale watching to swimming with dolphins, plus coastal walks and famed seafood. Indulge in modern dining at Hiku restaurant, showcasing the best produce of the region, from land to sea. Between encounters with Kaikōura's natural beauty, take a dip in the hotel's outdoor lap pool or keep up with your routine at the fitness centre. Then, return to your private sanctuary where floor-to-ceiling windows flood the space with light.",
       "location_subheading": "New Zealand",
-      "price": 839,
-      "original_price": 1332,
-      "discount_percentage": 37,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000KvQboYAF",
-      "hero_image": "https://images.luxuryescapes.com/5mkluqa1h5ohzxp7apul",
-      "image_two": "https://images.luxuryescapes.com/eophbjvrw6mjn2m04vq",
-      "image_three": "https://images.luxuryescapes.com/tryilya4qen551fudzup",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-01-31 12:59:00"
+      "price": 307,
+      "original_price": 337,
+      "discount_percentage": 9,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PvZIoYAN",
+      "hero_image": "https://images.luxuryescapes.com/xyydt7bggskahzztjs59",
+      "image_two": "https://images.luxuryescapes.com/sv5elnxzruegjbiw9e4a",
+      "image_three": "https://images.luxuryescapes.com/gu8rrbif3a34vpecz2am",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-01-31",
+    "last_updated": "2026-02-28",
     "hotel_count": 1,
-    "average_price": 839,
-    "average_discount": 37
+    "average_price": 307,
+    "average_discount": 9
   }
 }
