@@ -13,9 +13,9 @@
       "title": "Adults-Only Maldives Resort with Seven Onsite Restaurants and Wellness Spa",
       "description": "From the moment you're greeted on the powder-white shores of the adults-only Anantara Veli Maldives Resort, every outstanding detail is by design. Discover the art of healing at the wellness spa, where Ayurvedic therapies are tailored to your needs, and savour ocean-fresh fare at seven waterfront eateries. If you can pull yourself away, the resort offers once-in-a-lifetime excursions and endless opportunities for romance.",
       "location_subheading": "Maldives",
-      "price": 2868,
-      "original_price": 3152,
-      "discount_percentage": 9,
+      "price": 3190,
+      "original_price": 3190,
+      "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009BTDgAAO",
       "hero_image": "https://images.luxuryescapes.com/32ymw93r5pd7zpzq3azm",
       "image_two": "https://images.luxuryescapes.com/ebaws2zaii93jlhh5w",
@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Hard Rock Hotel Maldives",
+      "offer_country_name": "Maldives",
+      "location_heading": "South Male Atoll",
+      "title": "Award-Winning Maldives Icon with Daily Breakfast, Nightly Dinner & Roundtrip Speedboat Transfers",
+      "description": "Experience island living, world-class dining and premier entertainment with one of the most celebrated leisure brands - just a 20-minute speedboat ride from Malé in the glorious Maldives. As part of the CROSSROADS Maldives complex, this private island resort features countless dining options, from the iconic Hard Rock Cafe® to a beachfront Mexican restaurant inspired by Frida Kahlo. With 14 dining spots, indulgence is always on the menu at this lavish hotel. Epic DJ nights, high-energy karaoke and live music keep the resort buzzing, while sun-soaked days call for lounging in the infinity pool with a drink in hand at the swim-up bar. Families can dive into martial arts classes, aerial aerobics, dance and water sports, while parents unwind with Rock Om® yoga and tension-melting treatments at the ROCK SPA. With thoughtful additions like complimentary use of personalised bicycles, kayaks and snorkels, every day is a new adventure in one of the world’s most sought-after destinations.",
+      "location_subheading": "Maldives",
+      "price": 1739,
+      "original_price": 3780,
+      "discount_percentage": 54,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PcdJjYAJ",
+      "hero_image": "https://images.luxuryescapes.com/zcks6j7sjfrfjo9063hv",
+      "image_two": "https://images.luxuryescapes.com/dvn1dv13ie1i4omuuw1s",
+      "image_three": "https://images.luxuryescapes.com/8m2ize000udrkkx37igb",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2026-03-19 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-28",
-    "hotel_count": 1,
-    "average_price": 2868,
-    "average_discount": 9
+    "last_updated": "2026-03-01",
+    "hotel_count": 2,
+    "average_price": 2465,
+    "average_discount": 27
   }
 }

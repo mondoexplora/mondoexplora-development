@@ -4,26 +4,8 @@
   "country_code": "TH",
   "hero_title": "Hotels in Pattaya",
   "description": "Discover the best hotels in Pattaya, Thailand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/55dxriyj3nd485cf9m2q",
+  "hero_image": "https://images.luxuryescapes.com/avp6pw3smhoog6pt79",
   "hotels": [
-    {
-      "vendor_name": "Andaz Pattaya Jomtien Beach",
-      "offer_country_name": "Thailand",
-      "location_heading": "Pattaya",
-      "title": "Family-Friendly Pattaya Beachfront Oasis with Spa, Onsen, Pools & Onsite Dining",
-      "description": "Nestled between the trees, this charming coastal Thailand resort is a peaceful sanctuary a short drive from scenic attractions and hotspots in Pattaya. Andaz Pattaya Jomtien Beach is an oceanfront oasis amid a tropical landscape, with spacious rooms and suites perfect for unwinding. Enjoy spectacular seaside dining in the heart of the resort, ranging from freshly baked pizzas at La Cucina to the finest cuts of meat at Village Butcher. Alternatively, sit by the beach at the signature Fish Club for delicious seafood delights. Take a refreshing dip in the water court pool, the beachfront infinity pool or take the kids to the lagoon pool and let them immerse themselves in fun at Sanuk Sanuk Kids' Club next door. When it's time to truly unwind - relax at the spa, onsen and steam room.",
-      "location_subheading": "Thailand",
-      "price": 661,
-      "original_price": 661,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000HicEPYAZ",
-      "hero_image": "https://images.luxuryescapes.com/55dxriyj3nd485cf9m2q",
-      "image_two": "https://images.luxuryescapes.com/gmmpdmptcyhwe3e545w1",
-      "image_three": "https://images.luxuryescapes.com/1eul4bcbvjy40fnfmaod",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Avani Pattaya Resort & Spa",
       "offer_country_name": "Thailand",
@@ -49,8 +31,8 @@
       "title": "Five-Star Sun-Kissed Bangkok Oasis in the Heart of Pattaya",
       "description": "Treat yourself to a tranquil stay at the luxury InterContinental Pattaya Resort, an IHG Hotel - a beachfront oasis just a 90-minute drive from Bangkok. With spacious guestrooms and suites offering traditional Thai style and modern facilities, this five-star hideaway promises an escape that celebrates relaxation, comfort and exquisite design. Make the most of the three luxurious lagoon-style pools, the Amburaya Spa, the Planet Trekkers Programme for kids and top-class dining venues, bars and lounges.",
       "location_subheading": "Thailand",
-      "price": 765,
-      "original_price": 765,
+      "price": 763,
+      "original_price": 763,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt7DAAR",
       "hero_image": "https://images.luxuryescapes.com/z23l8kecxcmji28q6b6g",
@@ -67,9 +49,9 @@
       "title": "Thailand Luxury Pool Villas with Massages, Daily Breakfast, Nightly Dinner & Cocktails",
       "description": "Solitude, style and serenity come in spades at this ultra-modern sanctuary, home to just 35 luxury villas, each with its own private pool. Located 90 minutes from Bangkok and designed to maximise sweeping views of the Gulf of Thailand, this beachfront retreat moves to the gentle rhythm of Na Jomtien below. Wake to balmy mornings with a swim in your pool or a workout in the ocean-view fitness studio, then spend leisurely afternoons on the golden shore or unwinding at MASON Spa. Resort activites include unique options like Muay Thai and tattoo body painting, as well as yoga, aqua dance, kayaking and stand-up paddleboarding. As evening falls, there’s no need to venture far - the Sky Pool delivers front-row seats to Pattaya’s breathtaking sunsets. Enjoy laid-back dining at Zila Street Bistro & Bar amid the sea breeze, sip expertly crafted coffee at Krok-A-Café Espresso Bar and let Beachside Bar take care of your thirst between dips. While there's little reason to leave this slice of paradise, you might like to explore local fishing villages, venture to nearby islands or paddle across the open water.",
       "location_subheading": "Thailand",
-      "price": 1024,
-      "original_price": 1384,
-      "discount_percentage": 26,
+      "price": 559,
+      "original_price": 1803,
+      "discount_percentage": 69,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000NNiG5YAL",
       "hero_image": "https://images.luxuryescapes.com/tif5juuw0ckt689xjsx",
       "image_two": "https://images.luxuryescapes.com/fd7sg279xa8e56ffz1wj",
@@ -186,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-28",
-    "hotel_count": 9,
-    "average_price": 559,
-    "average_discount": 6
+    "last_updated": "2026-03-01",
+    "hotel_count": 8,
+    "average_price": 488,
+    "average_discount": 12
   }
 }

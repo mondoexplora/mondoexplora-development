@@ -4,26 +4,8 @@
   "country_code": "PT",
   "hero_title": "Hotels in Lisbon",
   "description": "Discover the best hotels in Lisbon, Portugal. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
+  "hero_image": "https://images.luxuryescapes.com/5yckyvfavi9x20wjcmm",
   "hotels": [
-    {
-      "vendor_name": "Convent Square Hotel, Vignette Collection",
-      "offer_country_name": "Portugal",
-      "location_heading": "Lisbon",
-      "title": "Opulent Lisbon Stay in 13th Century Convent with Iconic Restaurant & Bar",
-      "description": "Find refined elegance within the walls of a 13th-century Dominican Convent atConvent Square Lisbon, Vignette Collection, an IHG Hotel. From savoring delectable Portuguese cuisine at Capítulo Restaurant to embracing Portugal's stunning architecture in the emblematic cloister, every moment is an invitation to elevate your senses. Unwind in the sauna or rejuvenate in the heated plunge pool while gazing at Lisbon's breathtaking church top views.",
-      "location_subheading": "Portugal",
-      "price": 573,
-      "original_price": 573,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNR7rAAH",
-      "hero_image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
-      "image_two": "https://images.luxuryescapes.com/36g2a0oynstczadxvqgm",
-      "image_three": "https://images.luxuryescapes.com/4kb396xsk369lx0lw5o",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Corinthia Lisbon",
       "offer_country_name": "Portugal",
@@ -61,14 +43,32 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Heritage Avenida Liberdade, a Lisbon Heritage Collection",
+      "offer_country_name": "Portugal",
+      "location_heading": "Lisbon",
+      "title": "Portugal Heritage Escape in the Heart of Lisbon with Daily Breakfast & Art Museum Entries",
+      "description": "Let the picture-perfect panorama of Lisbon be the backdrop for an unforgettable stay in one of the city’s most elegant hotels. Housed in a heritage-listed building dating back to the 18th century - beautifully redesigned by local creative Miguel Câncio Martins - this charming hotel effortlessly captures Lisbon's rich history. The hotel is ideally located on Avenida da Liberdade - a tree-lined avenue nestled in the heart of the city, surrounded by elegant shops, upscale boutiques and restaurants. This central location makes it easy to explore Lisbon's top-rated attractions, including the medieval Belém Tower, World Heritage-listed Jerónimos Monastery and buzzing Comércio square.",
+      "location_subheading": "Portugal",
+      "price": 459,
+      "original_price": 1120,
+      "discount_percentage": 59,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RM1NhYAL",
+      "hero_image": "https://images.luxuryescapes.com/0s7bbqrjh1jsatztlqm",
+      "image_two": "https://images.luxuryescapes.com/0hpmx6jogdxltrzebslk",
+      "image_three": "https://images.luxuryescapes.com/viztczr3xkbtm2peta4g",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-03-17 12:59:00"
+    },
+    {
       "vendor_name": "Hotel Britania Art Deco",
       "offer_country_name": "Portugal",
       "location_heading": "Lisbon",
       "title": "Heritage Lisbon Art Deco Escape with Daily Breakfast & Museum Pass",
       "description": "Allow yourself to be captivated by the magic of Lisbon with a stay at Hotel Britania Art Deco, a Lisbon Heritage Collection - a historic property perfectly positioned for you to explore this little pocket of Portuguese bliss. The hotel proudly retains the glamour of the 1940s courtesy of a spectacular design by Cassiano Branco, a famous Portuguese modernist architect, transporting you back in time, while modern amenities bring you back to the present.",
       "location_subheading": "Portugal",
-      "price": 427,
-      "original_price": 480,
+      "price": 428,
+      "original_price": 481,
       "discount_percentage": 11,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004T2Y4AAK",
       "hero_image": "https://images.luxuryescapes.com/oqwavb11ma8ar20hus3v",
@@ -85,8 +85,8 @@
       "title": "Five-Star Lisbon Stay with Old Town & Tagus River Views",
       "description": "Five-star comfort meets contemporary design and breathtaking vistas at InterContinental Lisbon, an IHG Hotel. Experience culinary masterpieces at Akla Restaurant, savour Portuguese wine at Uptown Bar or gaze out over the stunning Lisbon skyline from the comfort of a private terrace. Indulge in a spot of shopping at the boutiques on the famous Avenida da Liberdade, admire verdant views of Eduardo VII Park or discover the local area's historic monuments and monasteries.",
       "location_subheading": "Portugal",
-      "price": 377,
-      "original_price": 377,
+      "price": 383,
+      "original_price": 383,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNEplAAH",
       "hero_image": "https://images.luxuryescapes.com/h025ptpkjj00j9k2td",
@@ -139,8 +139,8 @@
       "title": "Lisbon Ocean-View Luxury with a Nine-Hole Golf Course",
       "description": "Stay a stone's throw from the Atlantic Ocean at Crowne Plaza Caparica Lisbon, an IHG Hotel, a modern hideaway located along the pristine 26-kilometre stretch of golden shoreline in Costa da Caparica. Spend sunny days basking by the outdoor swimming pool, practice your swing at the nine-hole golf course, or opt to treat yourself to a massage, body wrap or steam bath at the spa. For all-day dining, Raimundo is your go-to for authentic Portuguese cuisine and tasty regional morsels.",
       "location_subheading": "Portugal",
-      "price": 171,
-      "original_price": 171,
+      "price": 159,
+      "original_price": 159,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJYuAAP",
       "hero_image": "https://images.luxuryescapes.com/y036kixcsfx0r29o4azr",
@@ -168,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-28",
+    "last_updated": "2026-03-01",
     "hotel_count": 8,
-    "average_price": 496,
-    "average_discount": 11
+    "average_price": 481,
+    "average_discount": 19
   }
 }

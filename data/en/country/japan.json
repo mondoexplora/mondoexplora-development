@@ -10,36 +10,36 @@
       "slug": "tokyo",
       "image": "https://images.luxuryescapes.com/kiynmoi9772c9xpopp3p",
       "description": "Explore Tokyo with luxury accommodations",
-      "hotel_count": 14,
-      "hotel_deals": 14,
-      "avg_price": 1036
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 1179
     },
     {
       "name": "Kyoto",
       "slug": "kyoto",
       "image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
       "description": "Explore Kyoto with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 726
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 820
     },
     {
       "name": "Osaka",
       "slug": "osaka",
       "image": "https://images.luxuryescapes.com/1va8jgfgvoyxp3s7so7k",
       "description": "Explore Osaka with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 626
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 611
     },
     {
       "name": "Sapporo",
       "slug": "sapporo",
-      "image": "https://images.luxuryescapes.com/bo6udncydom5cvvsjnhq",
+      "image": "https://images.luxuryescapes.com/aixbddefsiqtb7b2rl2",
       "description": "Explore Sapporo with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 168
+      "avg_price": 219
     },
     {
       "name": "Okinawa",
@@ -48,16 +48,16 @@
       "description": "Explore Okinawa with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 277
+      "avg_price": 272
     },
     {
-      "name": "Hachimantai-shi",
-      "slug": "hachimantai-shi",
-      "image": "https://images.luxuryescapes.com/1j7ubkt2kloaxow0q9d",
-      "description": "Explore Hachimantai-shi with luxury accommodations",
+      "name": "Yokohama",
+      "slug": "yokohama",
+      "image": "https://images.luxuryescapes.com/vd8x5bj68ln89rasyf1n",
+      "description": "Explore Yokohama with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 558
+      "avg_price": 476
     }
   ],
   "seo": {

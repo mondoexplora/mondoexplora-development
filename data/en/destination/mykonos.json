@@ -4,26 +4,8 @@
   "country_code": "GR",
   "hero_title": "Hotels in Mykonos",
   "description": "Discover the best hotels in Mykonos, Greece. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/34isjychidoj61pu818",
+  "hero_image": "https://images.luxuryescapes.com/tsb94k0j2bykhgnl6gh",
   "hotels": [
-    {
-      "vendor_name": "Archipelagos Luxury Hotel Mykonos",
-      "offer_country_name": "Greece",
-      "location_heading": "Mykonos",
-      "title": "Mykonos Beachfront Indulgence with Ocean-View Rooms, Onsite Spa & Restaurant",
-      "description": "Fulfil your Greek island dreams at Archipelagos Hotel Mykonos, a proud member of Small Luxury Hotels of the World and a five-star Cycladic haven capturing the timeless beauty of the Aegean. Framed by whitewashed architecture and sweeping sea views, this exquisitely designed retreat invites you to slow down and savour the very best of island life. Bask beside the sun-drenched pool with a cocktail, wander through the organic garden or unwind in the holistic spa and wellness studio. Dine alfresco on heritage-inspired dishes that trace the island’s culinary history, or opt for a nine-course degustation at the fine-dining restaurant, thoughtfully paired with exceptional Greek wines.",
-      "location_subheading": "Greece",
-      "price": 1448.45,
-      "original_price": 1881,
-      "discount_percentage": 23,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003HJE3AAO",
-      "hero_image": "https://images.luxuryescapes.com/34isjychidoj61pu818",
-      "image_two": "https://images.luxuryescapes.com/uty85ybh20lez74p23a",
-      "image_three": "https://images.luxuryescapes.com/vd1oydyjhq8kjgz8vru",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Casa Del Mar Mykonos Seaside Resort",
       "offer_country_name": "Greece",
@@ -49,9 +31,9 @@
       "title": "Mykonos Boutique Opulence w. Guaranteed Ocean Views, Infinity Pool & Onsite Restaurants",
       "description": "Experience the charm of the Aegean Sea with a luxurious stay at the five-star, boutique Kouros Hotel & Suites, a sanctuary steps from the lively heart of Mykonos Town. Nestled within a stunning whitewashed Cycladic building on a cliffside, this resort redefines Grecian luxury. Delight in modern indulgences, including a sparkling pool with breathtaking sea views, a state-of-the-art wellness studio for invigorating workouts and a holistic spa offering unparalleled relaxation. Discover the island's culinary treasures at Narcissus Fine Dining, where traditional Greek flavours meet innovative gastronomy, or savour Mediterranean favourites at the casual Bites Pool Restaurant.",
       "location_subheading": "Greece",
-      "price": 682,
-      "original_price": 1033,
-      "discount_percentage": 34,
+      "price": 768,
+      "original_price": 1129,
+      "discount_percentage": 32,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000DQs5JYAT",
       "hero_image": "https://images.luxuryescapes.com/wpnqlxd7emd76uqg0mj",
       "image_two": "https://images.luxuryescapes.com/ctm1whsnilo8o24sw7",
@@ -121,9 +103,9 @@
       "title": "Mykonos Five-Star Seaside Glamour with Cliffside Infinity Pool",
       "description": "Step into Cyclades splendour with a five-star stay at the sun-kissed Mykonos Riviera Hotel & Spa, magnificently perched on ancient volcanic cliffs and surrounded by soaring views of the infinite Aegean blue. A member of the prestigious Small Luxury Hotels of the World and located just moments from Mykonos town, there's no better retreat - soak up the spectacular by the resort's cliffside infinity pool before savouring cocktails and DJ-spun tracks at the Pool Sunset Bar.",
       "location_subheading": "Greece",
-      "price": 879,
-      "original_price": 1059,
-      "discount_percentage": 17,
+      "price": 1035,
+      "original_price": 1089,
+      "discount_percentage": 5,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DfEhNAAV",
       "hero_image": "https://images.luxuryescapes.com/kibxp53grm92px0p7t",
       "image_two": "https://images.luxuryescapes.com/kv6a7znyi8yluqnczu6a",
@@ -168,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-28",
-    "hotel_count": 8,
-    "average_price": 884,
-    "average_discount": 27
+    "last_updated": "2026-03-01",
+    "hotel_count": 7,
+    "average_price": 838,
+    "average_discount": 25
   }
 }

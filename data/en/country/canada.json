@@ -3,16 +3,16 @@
   "code": "CA",
   "hero_title": "Canada Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Canada.",
-  "hero_image": "https://images.luxuryescapes.com/i3fljywt07lgaf32r1",
+  "hero_image": "https://images.luxuryescapes.com/pzribm04edbao08mh1",
   "popular_destinations": [
     {
       "name": "Toronto",
       "slug": "toronto",
-      "image": "https://images.luxuryescapes.com/i3fljywt07lgaf32r1",
+      "image": "https://images.luxuryescapes.com/pzribm04edbao08mh1",
       "description": "Explore Toronto with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 629
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 725
     },
     {
       "name": "Vancouver",
@@ -21,25 +21,7 @@
       "description": "Explore Vancouver with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 959
-    },
-    {
-      "name": "Montreal",
-      "slug": "montreal",
-      "image": "https://images.luxuryescapes.com/v15g0w465xjz340jrdq",
-      "description": "Explore Montreal with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 640
-    },
-    {
-      "name": "Banff",
-      "slug": "banff",
-      "image": "https://images.luxuryescapes.com/m200j04ip0ufk6c5b7ij",
-      "description": "Explore Banff with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 1103
+      "avg_price": 960
     },
     {
       "name": "Lake Louise",
@@ -57,7 +39,25 @@
       "description": "Explore Edmonton with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 624
+      "avg_price": 613
+    },
+    {
+      "name": "Jasper",
+      "slug": "jasper",
+      "image": "https://images.luxuryescapes.com/9rpswkju93b6i1s4ammq",
+      "description": "Explore Jasper with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 617
+    },
+    {
+      "name": "Winnipeg",
+      "slug": "winnipeg",
+      "image": "https://images.luxuryescapes.com/lkpr24go1cksdmojstbi",
+      "description": "Explore Winnipeg with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 371
     }
   ],
   "seo": {

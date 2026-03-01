@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Broome",
   "description": "Discover the best hotels in Broome, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/giic8qiaga1hc0uv0z2ri",
+  "hero_image": "https://images.luxuryescapes.com/0j8g8oovl53yeeqba2jg",
   "hotels": [
+    {
+      "vendor_name": "Eco Beach Wilderness Retreat",
+      "offer_country_name": "Australia",
+      "location_heading": "Broome",
+      "title": "Kimberley Eco-Friendly Villa & Beach House Retreat with Daily Breakfast & Nightly Cocktails",
+      "description": "There’s magic in the Kimberley, and no better place to discover it than at Eco Beach Wilderness Retreat, wonderfully positioned along the pristine shoreline just 90 minutes from Broome. With sustainable accommodations to suit couples and families alike, and a spectacular oceanfront infinity pool, there’s no finer place to take it all in. Slow down and savour Western Australia’s most spectacular coastline - kayak through the sapphire waters of the Indian Ocean, descend into sunken sandstone caves (an easy walk from the retreat) or stand in awe as the moon enters star-filled skies above rambling bush plains. Eco Beach Wilderness Retreat offers a wealth of impressive facilities. Head to Jack’s Bar & Restaurant for laidback modern Australian bites drawing on the region’s extraordinary local produce, or hire a fishing rod and hit the sands to catch your own meals. Dragonfly Spa offers daily yoga classes and wellness treatments, many delivered directly on the beach.",
+      "location_subheading": "Australia",
+      "price": 399,
+      "original_price": 1078,
+      "discount_percentage": 63,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000P1LaIYAV",
+      "hero_image": "https://images.luxuryescapes.com/0j8g8oovl53yeeqba2jg",
+      "image_two": "https://images.luxuryescapes.com/4chwhluo43orxjfd996n",
+      "image_three": "https://images.luxuryescapes.com/hjrr5v2fmktha7xajma",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-03-08 12:59:00"
+    },
     {
       "vendor_name": "Mantra Frangipani",
       "offer_country_name": "Australia",
@@ -13,8 +31,8 @@
       "title": "Central Broome Apartments Amongst Tropical Gardens Near Cable Beach",
       "description": "Experience the tropical allure of Broome - the gateway to the spectacular Kimberley region - with a self-contained apartment escape. Unwind in spacious one-, two-, and three-bedroom apartments, and enjoy two refreshing swimming pools, lush resort gardens and BBQ facilities. Broome is beautiful from every angle and you’re perfectly placed to make the most of its adventurous activities and wildlife when you stay at Mantra Frangipani Broome. Watch camels crossing Cable Beach against a sunset backdrop, dip your toes into the turquoise Indian Ocean and stroll across pearl-white beaches set against red cliffs.",
       "location_subheading": "Australia",
-      "price": 396,
-      "original_price": 396,
+      "price": 395,
+      "original_price": 395,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRewlAAD",
       "hero_image": "https://images.luxuryescapes.com/giic8qiaga1hc0uv0z2ri",
@@ -31,8 +49,8 @@
       "title": "Central Broome Oaks Escape Just Moments from Cable Beach",
       "description": "Soak up the unique beauty of Western Australia with a stay at Oaks Broome Hotel, your gateway to the stunning Kimberley region. Surrounded by lush landscaped gardens and just one street from Roebuck Bay, this collection of stylish hotel rooms and self-contained apartments, complete with serene pool views and modern amenities, are just a short walk from Broome's collection of laidback cafés, bars and restaurants. Remote yet utterly alluring, Broome’s beauty is undeniable. Sitting on the edge of the Kimberley, where the turquoise waters and beautiful white sands of the famous Cable Beach meet the sunset, this is a region that is unparalleled for its natural splendour. Take it all in at your own pace from Oaks Broome Hotel.",
       "location_subheading": "Australia",
-      "price": 259,
-      "original_price": 285,
+      "price": 258,
+      "original_price": 284,
       "discount_percentage": 9,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009BTl9AAG",
       "hero_image": "https://images.luxuryescapes.com/x1wvr30zq64nnrwfo3j",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-28",
-    "hotel_count": 3,
-    "average_price": 350,
-    "average_discount": 4
+    "last_updated": "2026-03-01",
+    "hotel_count": 4,
+    "average_price": 362,
+    "average_discount": 19
   }
 }

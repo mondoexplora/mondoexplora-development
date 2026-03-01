@@ -3,8 +3,17 @@
   "code": "FJ",
   "hero_title": "Fiji Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Fiji.",
-  "hero_image": "https://images.luxuryescapes.com/j9wvf6r78vfh0nbpghki",
+  "hero_image": "https://images.luxuryescapes.com/45e0v0v8t5f1p8bmfv39",
   "popular_destinations": [
+    {
+      "name": "Malolo Island",
+      "slug": "malolo-island",
+      "image": "https://images.luxuryescapes.com/45e0v0v8t5f1p8bmfv39",
+      "description": "Explore Malolo Island with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 2710
+    },
     {
       "name": "Viti Levu",
       "slug": "viti-levu",
@@ -12,7 +21,7 @@
       "description": "Explore Viti Levu with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 794
+      "avg_price": 852
     },
     {
       "name": "Nadi",
@@ -21,16 +30,7 @@
       "description": "Explore Nadi with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 318
-    },
-    {
-      "name": "Malolo Island",
-      "slug": "malolo-island",
-      "image": "https://images.luxuryescapes.com/bvgk5wx9mm3vqw0la8k8",
-      "description": "Explore Malolo Island with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 2041
+      "avg_price": 317
     },
     {
       "name": "Malolo Lailai",
@@ -39,16 +39,7 @@
       "description": "Explore Malolo Lailai with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 937
-    },
-    {
-      "name": "Denarau Island",
-      "slug": "denarau-island",
-      "image": "https://images.luxuryescapes.com/tr1p8uz6gsizxkg62khl",
-      "description": "Explore Denarau Island with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 2975
+      "avg_price": 936
     },
     {
       "name": "Coral Coast",
@@ -57,7 +48,16 @@
       "description": "Explore Coral Coast with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 645
+      "avg_price": 809
+    },
+    {
+      "name": "Suva",
+      "slug": "suva",
+      "image": "https://images.luxuryescapes.com/swtp2vlpyhedd86lyv7t",
+      "description": "Explore Suva with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 273
     }
   ],
   "seo": {

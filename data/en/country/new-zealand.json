@@ -10,36 +10,27 @@
       "slug": "auckland",
       "image": "https://images.luxuryescapes.com/1bs29g5wyy8vfsuqch",
       "description": "Explore Auckland with luxury accommodations",
-      "hotel_count": 23,
-      "hotel_deals": 23,
-      "avg_price": 374
+      "hotel_count": 15,
+      "hotel_deals": 15,
+      "avg_price": 382
     },
     {
       "name": "Queenstown",
       "slug": "queenstown",
-      "image": "https://images.luxuryescapes.com/ylb8648jzk6x01er2cyr",
+      "image": "https://images.luxuryescapes.com/xe1ph65sf3ama1xbt5hmd",
       "description": "Explore Queenstown with luxury accommodations",
-      "hotel_count": 15,
-      "hotel_deals": 15,
-      "avg_price": 984
+      "hotel_count": 14,
+      "hotel_deals": 14,
+      "avg_price": 967
     },
     {
       "name": "Wellington",
       "slug": "wellington",
       "image": "https://images.luxuryescapes.com/8ofusp0qqc8qj7asix9",
       "description": "Explore Wellington with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 331
-    },
-    {
-      "name": "Christchurch",
-      "slug": "christchurch",
-      "image": "https://images.luxuryescapes.com/od5xt9s0l5cuisblm6",
-      "description": "Explore Christchurch with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 404
+      "avg_price": 329
     },
     {
       "name": "Rotorua",
@@ -48,16 +39,25 @@
       "description": "Explore Rotorua with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 349
+      "avg_price": 317
+    },
+    {
+      "name": "Christchurch",
+      "slug": "christchurch",
+      "image": "https://images.luxuryescapes.com/6s4a9rs1kx4i1ofog1q",
+      "description": "Explore Christchurch with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 451
     },
     {
       "name": "Napier",
       "slug": "napier",
-      "image": "https://images.luxuryescapes.com/99inb886zcn8su97unw7",
+      "image": "https://images.luxuryescapes.com/i80qqyq5d1i0s2u2gt8",
       "description": "Explore Napier with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 342
+      "avg_price": 286
     }
   ],
   "seo": {

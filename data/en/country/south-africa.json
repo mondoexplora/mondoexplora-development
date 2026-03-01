@@ -3,8 +3,17 @@
   "code": "ZA",
   "hero_title": "South Africa Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in South Africa.",
-  "hero_image": "https://images.luxuryescapes.com/gq4bgo9ilozoq4t58b3l",
+  "hero_image": "https://images.luxuryescapes.com/652gyr1fmict9yfmbbdp",
   "popular_destinations": [
+    {
+      "name": "Johannesburg",
+      "slug": "johannesburg",
+      "image": "https://images.luxuryescapes.com/652gyr1fmict9yfmbbdp",
+      "description": "Explore Johannesburg with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 544
+    },
     {
       "name": "Cape Town",
       "slug": "cape-town",
@@ -12,16 +21,7 @@
       "description": "Explore Cape Town with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 2938
-    },
-    {
-      "name": "Johannesburg",
-      "slug": "johannesburg",
-      "image": "https://images.luxuryescapes.com/652gyr1fmict9yfmbbdp",
-      "description": "Explore Johannesburg with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 223
+      "avg_price": 2927
     }
   ],
   "seo": {

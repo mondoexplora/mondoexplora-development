@@ -4,26 +4,8 @@
   "country_code": "KH",
   "hero_title": "Hotels in Phnom Penh",
   "description": "Discover the best hotels in Phnom Penh, Cambodia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/wd1boyvi5wgac9uyiju3r",
+  "hero_image": "https://images.luxuryescapes.com/tq8n2s90yq1fu0j7hh5",
   "hotels": [
-    {
-      "vendor_name": "Novotel Phnom Penh Bkk1",
-      "offer_country_name": "Cambodia",
-      "location_heading": "Phnom Penh",
-      "title": "Central Phnom Penh Escape near the Mekong River with Outdoor Pool, Restaurant & Two Bars",
-      "description": "Feel the buzz of Phnom Penh from this sleek city stay, ideally positioned in the bustling Boeung Keng Kang district. This contemporary retreat offers a serene sanctuary amid the city's dynamic pulse, with a sparkling outdoor pool and tranquil day spa to help you unwind. When hunger strikes, head to the hotel's European restaurant, where you can savour a fusion of Basque, French and Spanish flavours. Venture out to explore the city's rich history and culture, with the Royal Palace and the iconic Independence Monument just a short tuk-tuk ride away. For shopping enthusiasts, the Central Market and Aeon Mall offer a plethora of boutiques and eateries. In the late afternoon, take a stroll along the Mekong River, as the sunset illuminates Asia's most iconic waterway.",
-      "location_subheading": "Cambodia",
-      "price": 219,
-      "original_price": 219,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP6RYAV",
-      "hero_image": "https://images.luxuryescapes.com/wd1boyvi5wgac9uyiju3r",
-      "image_two": "https://images.luxuryescapes.com/or97h7duml8mesgvubm",
-      "image_three": "https://images.luxuryescapes.com/vavxlg1tpjribi0ylygm",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Oakwood Premier Phnom Penh",
       "offer_country_name": "Cambodia",
@@ -43,14 +25,32 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Raffles Hotel Le Royal",
+      "offer_country_name": "Cambodia",
+      "location_heading": "Phnom Penh",
+      "title": "Colonial-Inspired Luxury in the Heart of Phnom Penh with Two Pools & Spa",
+      "description": "Treat yourself to the timeless grandeur of Phnom Penh with a stay at this prestigious five-star retreat near the Royal Palace and National Museum. Blending French colonial charm, Art Deco elegance and Khmer heritage, this hotel offers plenty of charm and spacious rooms and suites in the heart of the city. After a day of discovery, unwind with a signature Femme Fatale cocktail at the iconic Elephant Bar, or enjoy French brasserie cuisine and fine wines at Le Phnom 1929. With a luxurious spa featuring a sauna and jacuzzi, an outdoor lap pool and a prime location near Phnom Penh’s top attractions, this hotel is your gateway to Cambodia’s rich culture.",
+      "location_subheading": "Cambodia",
+      "price": 904,
+      "original_price": 904,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ib17qYAB",
+      "hero_image": "https://images.luxuryescapes.com/8dem2d4v4qgjr4xkx41g",
+      "image_two": "https://images.luxuryescapes.com/kji08o4a644nbennmmap",
+      "image_three": "https://images.luxuryescapes.com/dro807mhzhuq4dh7pzld",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Sofitel Phnom Penh Phokeethra",
       "offer_country_name": "Cambodia",
       "location_heading": "Phnom Penh",
       "title": "Sophisticated Escape in Central Phnom Penh with Two Outdoor Pools & Spa",
       "description": "Treasure this serene sanctuary in the heart of Phnom Penh, where timeless Khmer tradition harmonises with refined French colonial style. Ideally located near the riverfront and just steps from the Royal Palace, Independence Monument and National Museum, this hotel offers a luxurious escape in the city’s vibrant cultural core. Relish the flavours of Italy at Do Forni, delight in refined Japanese cuisine at Hachi or indulge in global gastronomy at La Coupole, featuring live cooking stations and fresh seafood. Relax beneath swaying palms by one of two outdoor pools, or retreat to Sofitel Spa for a rejuvenating etreatment. Whether sipping a cocktail at Le Bar or exploring Phnom Penh’s rich heritage, every moment is infused with elegance and ease.",
       "location_subheading": "Cambodia",
-      "price": 443,
-      "original_price": 443,
+      "price": 490,
+      "original_price": 490,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Jjw0mYAB",
       "hero_image": "https://images.luxuryescapes.com/hhgcl09xguelulg5je7",
@@ -114,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-02-28",
+    "last_updated": "2026-03-01",
     "hotel_count": 5,
-    "average_price": 285,
+    "average_price": 432,
     "average_discount": 10
   }
 }
