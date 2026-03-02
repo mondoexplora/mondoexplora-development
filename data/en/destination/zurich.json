@@ -4,43 +4,25 @@
   "country_code": "CH",
   "hero_title": "Hotels in Zurich",
   "description": "Discover the best hotels in Zurich, Switzerland. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/avlbg2ent9eqezmxvv6nh",
+  "hero_image": "https://images.luxuryescapes.com/pqzl8vm8hnxh6s0b3cn",
   "hotels": [
     {
-      "vendor_name": "25Hours Zurich Langstrasse",
+      "vendor_name": "Crowne Plaza Zurich",
       "offer_country_name": "Switzerland",
       "location_heading": "Zurich",
-      "title": "Zurich Design-Forward Urban Escape with Onsite Dining & Sauna",
-      "description": "Perfectly placed at the dynamic corner of Langstrasse and the Europaallee neighbourhood, this trendy retreat fuses the elegance of Zurich’s banking district with the edgy energy of its nightlife quarter. Imagined by designer Werner Aisslinger, the hotel's bold interiors combine bourgeoisie and penthouse glamour. Take time to indulge with eclectic Eastern Mediterranean sharing plates at NENI Zürich and soak up the relaxed atmosphere at Cinchona Bar. On the seventh floor, take in sweeping city vistas from a sun lounger or find your zen at the sauna and modern fitness area.",
+      "title": "Switzerland Trendy Zurich West City Break with Lavish Health Club",
+      "description": "Immerse yourself in Zurich's lakeside beauty with an opulent stay at Crowne Plaza Zurich, an IHG Hotel - ideally positioned within the vibrant Zurich West District. Within this stylish hotel you will discover an expansive health club, a glittering pool and two sumptuous eateries. Beyond the hotel, find yourself in the heart of the global centre for banking and finance where picturesque cobblestone lanes, pre-medieval architecture and the twinkling Lake Zurich awaits.",
       "location_subheading": "Switzerland",
-      "price": 599,
-      "original_price": 599,
+      "price": 253,
+      "original_price": 253,
       "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JjrExYAJ",
-      "hero_image": "https://images.luxuryescapes.com/avlbg2ent9eqezmxvv6nh",
-      "image_two": "https://images.luxuryescapes.com/242u2jtplmkgmwtkbya",
-      "image_three": "https://images.luxuryescapes.com/8o00ibyvlhbkn60mxfd6",
-      "deal_tier": "",
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJcjAAH",
+      "hero_image": "https://images.luxuryescapes.com/pqzl8vm8hnxh6s0b3cn",
+      "image_two": "https://images.luxuryescapes.com/3ku953uzgrwjd8lfaox5",
+      "image_three": "https://images.luxuryescapes.com/icqpwrbspjpsjfsxf55n",
+      "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "25Hours Zurich West",
-      "offer_country_name": "Switzerland",
-      "location_heading": "Zurich",
-      "title": "Switzerland Trendy City Break in Zurich with Outdoor Pool & Wellness Area",
-      "description": "Step into a world where contemporary design meets Zurich’s creative pulse, set in the vibrant district of Zurich West. Sport-themed interiors, vibrant colours and playful touches create a unique atmosphere throughout the hotel, just steps from the city’s trendsetting boutiques and the celebrated Freitag Tower. Make the most of the excellent onsite facilities, including a heated 25-metre pool, yoga and wellness area and a complimentary co-working space. When it's time to indulge, savour Mediterranean flavours at Ribelli restaurant or explore the neighbourhood’s renowned culinary scene, including Frau Gerolds Garten and the city's riverside restaurants.",
-      "location_subheading": "Switzerland",
-      "price": 428,
-      "original_price": 428,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JjrEyYAJ",
-      "hero_image": "https://images.luxuryescapes.com/xmjlv7yjhjhwpt8nhz18",
-      "image_two": "https://images.luxuryescapes.com/ljqfzukhtk9blknet33b",
-      "image_three": "https://images.luxuryescapes.com/cmzsoh4cun0wjlwd5yw",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
+      "end_date_utc": "2026-12-31 01:59:00"
     }
   ],
   "seo": {
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-01",
-    "hotel_count": 2,
-    "average_price": 514,
+    "last_updated": "2026-03-02",
+    "hotel_count": 1,
+    "average_price": 253,
     "average_discount": 0
   }
 }

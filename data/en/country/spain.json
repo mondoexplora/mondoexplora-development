@@ -3,25 +3,25 @@
   "code": "ES",
   "hero_title": "Spain Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Spain.",
-  "hero_image": "https://images.luxuryescapes.com/1yqqtuarqnk9pql59viq",
+  "hero_image": "https://images.luxuryescapes.com/nz4ez58cif04weh5a3q",
   "popular_destinations": [
     {
       "name": "Barcelona",
       "slug": "barcelona",
-      "image": "https://images.luxuryescapes.com/1yqqtuarqnk9pql59viq",
+      "image": "https://images.luxuryescapes.com/nz4ez58cif04weh5a3q",
       "description": "Explore Barcelona with luxury accommodations",
-      "hotel_count": 18,
-      "hotel_deals": 18,
-      "avg_price": 706
+      "hotel_count": 16,
+      "hotel_deals": 16,
+      "avg_price": 711
     },
     {
       "name": "Madrid",
       "slug": "madrid",
       "image": "https://images.luxuryescapes.com/i31jde3fkihs3gyichoc",
       "description": "Explore Madrid with luxury accommodations",
-      "hotel_count": 12,
-      "hotel_deals": 12,
-      "avg_price": 638
+      "hotel_count": 11,
+      "hotel_deals": 11,
+      "avg_price": 668
     },
     {
       "name": "Mallorca",
@@ -30,16 +30,16 @@
       "description": "Explore Mallorca with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 821
+      "avg_price": 822
     },
     {
       "name": "Ibiza",
       "slug": "ibiza",
-      "image": "https://images.luxuryescapes.com/km0y1pe9t375yfveyt9",
+      "image": "https://images.luxuryescapes.com/nzvnzbd8uplu4tu7urfd5",
       "description": "Explore Ibiza with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 779
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 857
     },
     {
       "name": "Analucia",

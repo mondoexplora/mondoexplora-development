@@ -4,8 +4,26 @@
   "country_code": "GB",
   "hero_title": "Hotels in Leeds",
   "description": "Discover the best hotels in Leeds, United Kingdom. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/1q1wdwergh6e0fz7ye4p",
+  "hero_image": "https://images.luxuryescapes.com/yjim469jmqr8byc6blt",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Leeds",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Leeds",
+      "title": "UK Stylish Leeds Contemporary Retreat within City Centre",
+      "description": "Discover how Leeds reinvented itself from an industrial town to a vibrant, cosmopolitan city with an escape to Crowne Plaza Leeds, an IHG Hotel. Perfectly positioned in the city centre, spring into this confident Yorkshire city in search of lively nightlife, contemporary art at The Tetley and indulgent shopping. Once you return, feast on a selection of delicious plates with a Yorkshire twist at LS1 restaurant or visit the expansive Spirit Health Club and enjoy a restorative soak in the indoor pool.",
+      "location_subheading": "United Kingdom",
+      "price": 321,
+      "original_price": 321,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJbOAAX",
+      "hero_image": "https://images.luxuryescapes.com/yjim469jmqr8byc6blt",
+      "image_two": "https://images.luxuryescapes.com/f24n4hza5ki4z6nfror",
+      "image_three": "https://images.luxuryescapes.com/ojgox231w9w6cdj78gro",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
     {
       "vendor_name": "Oulton Hall Hotel, Spa & Golf Resort",
       "offer_country_name": "United Kingdom",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-01",
-    "hotel_count": 1,
-    "average_price": 241,
+    "last_updated": "2026-03-02",
+    "hotel_count": 2,
+    "average_price": 281,
     "average_discount": 0
   }
 }

@@ -4,26 +4,8 @@
   "country_code": "US",
   "hero_title": "Hotels in Baltimore",
   "description": "Discover the best hotels in Baltimore, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/mb7rvti84rycorc7ju55",
+  "hero_image": "https://images.luxuryescapes.com/r4mgp2c5t88z331fupg",
   "hotels": [
-    {
-      "vendor_name": "Kimpton Hotel Monaco Baltimore Inner Harbor",
-      "offer_country_name": "United States",
-      "location_heading": "Baltimore",
-      "title": "Heritage Downtown Baltimore City Break near Inner Harbour",
-      "description": "At the junction of preserved Gilded Age luxury and heritage charm, Kimpton Hotel Monaco Baltimore Inner Harbour, an IHG Hotel offers guests the perfect base to discover one of America’s fascinating east coast cities. Located just moments from the Patapsco River harbour, this grand hotel hides countless treasures, including shining chandeliers, sweeping marble staircases and B&O American Brasserie, which serves elegant charcuterie and handcrafted cocktails every evening.",
-      "location_subheading": "United States",
-      "price": 427,
-      "original_price": 427,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKFiAAN",
-      "hero_image": "https://images.luxuryescapes.com/mb7rvti84rycorc7ju55",
-      "image_two": "https://images.luxuryescapes.com/f84ciak4o90rbbbrnrj",
-      "image_three": "https://images.luxuryescapes.com/ehcobg284gcq5odo6jvk",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Sagamore Pendry Baltimore",
       "offer_country_name": "United States",
@@ -31,8 +13,8 @@
       "title": "Baltimore Luxe Escape on Iconic Recreation Pier",
       "description": "Baltimore's vibrant history and tranquil personality collide in the sophisticated Pendry Baltimore, located in a memorable 1914 property on the iconic Recreation Pier. This luxurious hotel pays homage to the quintessential Baltimore essence with bespoke antique decorations, warm hospitality, and even a whiskey bar named after the 17th-century cannons discovered under the pier - a true place of reimagined tradition.",
       "location_subheading": "United States",
-      "price": 930,
-      "original_price": 959,
+      "price": 929,
+      "original_price": 958,
       "discount_percentage": 3,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000C1ijdAAB",
       "hero_image": "https://images.luxuryescapes.com/r4mgp2c5t88z331fupg",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-01",
-    "hotel_count": 2,
-    "average_price": 679,
-    "average_discount": 2
+    "last_updated": "2026-03-02",
+    "hotel_count": 1,
+    "average_price": 929,
+    "average_discount": 3
   }
 }

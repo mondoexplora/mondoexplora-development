@@ -43,6 +43,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "InterContinental Crete",
+      "offer_country_name": "Greece",
+      "location_heading": "Crete",
+      "title": "Eastern Crete Coastal Retreat near Mirabello Bay with Tranquil Infinity Pools",
+      "description": "Experience the epitome of Crete luxury with a stay at this beachfront oasis overlooking Mirabello Bay. Explore the charming coastal town of Agios Nikolaos, or venture further afield to Archanes, renowned for its vineyards and olive groves. Return to your tranquil base and take a dip in two glittering infinity pools which appear to merge harmoniously with the bay beyond, or simply savour a refreshing beverage at the hotel's onsite bars.",
+      "location_subheading": "Greece",
+      "price": 443,
+      "original_price": 443,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ie57MAAR",
+      "hero_image": "https://images.luxuryescapes.com/v3b2fyr61qf4gqtjhf6",
+      "image_two": "https://images.luxuryescapes.com/d3h159i6qbdbj48xkiql",
+      "image_three": "https://images.luxuryescapes.com/8kwqczmohf6jshirytch",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "JW Marriott Resort & Spa, Crete",
       "offer_country_name": "Greece",
       "location_heading": "Crete",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-01",
-    "hotel_count": 5,
-    "average_price": 879,
-    "average_discount": 16
+    "last_updated": "2026-03-02",
+    "hotel_count": 6,
+    "average_price": 806,
+    "average_discount": 14
   }
 }

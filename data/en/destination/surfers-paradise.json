@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Surfers Paradise",
   "description": "Discover the best hotels in Surfers Paradise, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/dtfqkxmc9atrkx9pp1ea",
+  "hero_image": "https://images.luxuryescapes.com/jp95j2lzffok03kpfpo",
   "hotels": [
-    {
-      "vendor_name": "Crowne Plaza Surfers Paradise",
-      "offer_country_name": "Australia",
-      "location_heading": "Surfers Paradise",
-      "title": "Contemporary Surfers Paradise Escape near Iconic Beach",
-      "description": "Moments from Surfers Paradise's golden beachfront, the sophisticated Crowne Plaza Surfers Paradise, an IHG Hotel, sits between the iconic strip and lively Broadbeach. Wake up to the sound of the ocean, plunge into the sparkling outdoor pool and enjoy a bite of the Gold Coast at the poolside Relish Grill & Bar, then visit your favourite movie characters at Warner Bros. Movie World - just a 30-minute drive - or get a dose of retail therapy at Pacific Fair Shopping Centre, within a 10-minute tram ride.",
-      "location_subheading": "Australia",
-      "price": 347,
-      "original_price": 347,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt5gAAB",
-      "hero_image": "https://images.luxuryescapes.com/dtfqkxmc9atrkx9pp1ea",
-      "image_two": "https://images.luxuryescapes.com/kpgxyvy2poeen7fbkaps",
-      "image_three": "https://images.luxuryescapes.com/crl97jhluftac3qdg7g",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Mantra Crown Towers",
       "offer_country_name": "Australia",
@@ -31,13 +13,31 @@
       "title": "Surfers Paradise Self-Contained Apartment Stay with Lagoon-Style Pool & Moments from the Esplanade",
       "description": "Experience the sin-kissed lifestyle of Queensland's Surfers Paradise from the comfort of spacious, self-contained apartments. This coastal resort is a leisurely stroll from the golden sands of Surfers Paradise Beach and the lively Esplanade and Cavill Avenue, known for its vibrant nightlife and shopping. Treat yourself to a refreshing dip in the lagoon-style pool, featuring a waterslide and pirate ship for the kids, or savour time in the sauna for the perfect balance of fun and relaxation.",
       "location_subheading": "Australia",
-      "price": 262,
-      "original_price": 262,
+      "price": 261,
+      "original_price": 261,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000IdehhAAB",
       "hero_image": "https://images.luxuryescapes.com/jp95j2lzffok03kpfpo",
       "image_two": "https://images.luxuryescapes.com/7rd5g7ds57a6lbcvxwpff",
       "image_three": "https://images.luxuryescapes.com/a9jl5wqvbb12kabhwh7p",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mantra Legends Hotel",
+      "offer_country_name": "Australia",
+      "location_heading": "Surfers Paradise",
+      "title": "Beachfront Gold Coast Escape in Surfers Paradise with Lagoon-Style Pool & Restaurant",
+      "description": "Experience the vibrant energy of Surfers Paradise with a stay at this sophisticated oceanfront retreat, superbly located just moments from the golden sands of the famous beach. This stylish abode offers contemporary rooms and suites and boasts an array of top-notch facilities, including a heated lagoon-style pool, a fully equipped gym and an onsite restaurant serving a delectable menu. Venture out to explore the nearby Cavill Avenue, brimming with shopping, dining and nightlife options, or take a scenic drive to the lush hinterland of the Gold Coast.",
+      "location_subheading": "Australia",
+      "price": 270,
+      "original_price": 270,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRerMAAT",
+      "hero_image": "https://images.luxuryescapes.com/h0tlfhnm96o1hujha7b",
+      "image_two": "https://images.luxuryescapes.com/ng6yfabufnnnimzlh4g",
+      "image_three": "https://images.luxuryescapes.com/59h80qpebrwpcotqzzen",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -149,6 +149,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "voco Gold Coast, an IHG Hotel",
+      "offer_country_name": "Australia",
+      "location_heading": "Surfers Paradise",
+      "title": "Stylish Surfers Paradise Escape near Cavill Avenue with Two Pools",
+      "description": "Sparkling azure waters, pristine white sand and trendy beachfront restaurants await at the modern voco™ Gold Coast. Steps away from the golden shores of Surfers Paradise Beach and the unmissable shopping of Cavill Avenue, this contemporary hotel is the perfect place to soak up the Gold Coast sun. Catch a wave at some of Australia’s best beaches or spend the day exploring the diverse culinary offerings around the hotel, before heading back to your contemporary accommodation for a dip in one of the two pools. Dig into juicy steaks at Clifford's Grill & Lounge or pamper yourself with an indulgent massage at the luxurious L’Aqua Day Spa. At night, kick back on your plush bedding, take in the stunning views and enjoy a restful sleep to prepare for more days of sun, surf and sand.",
+      "location_subheading": "Australia",
+      "price": 313,
+      "original_price": 313,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009BVSdAAO",
+      "hero_image": "https://images.luxuryescapes.com/vmypjaolqr725sxriy8i",
+      "image_two": "https://images.luxuryescapes.com/h59ylpx4hiuubxyvhhhf",
+      "image_three": "https://images.luxuryescapes.com/eddmiefr4p4hfjqgrpmd",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -168,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-01",
-    "hotel_count": 8,
-    "average_price": 344,
+    "last_updated": "2026-03-02",
+    "hotel_count": 9,
+    "average_price": 332,
     "average_discount": 0
   }
 }

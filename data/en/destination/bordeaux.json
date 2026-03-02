@@ -4,26 +4,8 @@
   "country_code": "FR",
   "hero_title": "Hotels in Bordeaux",
   "description": "Discover the best hotels in Bordeaux, France. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/e4numb74ohjtqxhumpx",
+  "hero_image": "https://images.luxuryescapes.com/hz7b3hejmw272xvzh70g8",
   "hotels": [
-    {
-      "vendor_name": "Adagio Bordeaux Gabbetta",
-      "offer_country_name": "France",
-      "location_heading": "Bordeaux",
-      "title": "Modern Pet-Friendly Bordeaux Self-Contained Studios near Place Gambetta",
-      "description": "Place yourself in the heart of Bordeaux’s elegant cityscape with a stay at this modern aparthotel that invites you to slow down and savour life’s finer things. Located near Place Gambetta and the city’s heritage core, it’s the perfect base for wandering tree-lined boulevards, exploring the city's Gothic architecture, tasting world-renowned wines or cruising on the Garonne river. Begin your morning with a delicious breakfast before exploring the Musée des Beaux-Arts de Bordeaux, local markets or the Cité du Vin. After a day of discovery, retreat to your sleek studio, complete with a fully equipped kitchen, to relax in style. Whether you're here for culture, cuisine or a little of both, enjoy the freedom to live like a local.",
-      "location_subheading": "France",
-      "price": 277,
-      "original_price": 277,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnJdsYAF",
-      "hero_image": "https://images.luxuryescapes.com/e4numb74ohjtqxhumpx",
-      "image_two": "https://images.luxuryescapes.com/4gfsqmtdqc6fe0yh3cu",
-      "image_three": "https://images.luxuryescapes.com/ly4pn3m1qfdaupo3anbc",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Hotel Indigo Bordeaux Centre Chartrons, an IHG Hotel",
       "offer_country_name": "France",
@@ -41,24 +23,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 14:59:00"
-    },
-    {
-      "vendor_name": "Intercontinental Bordeaux Le Grand Hotel",
-      "offer_country_name": "France",
-      "location_heading": "Bordeaux",
-      "title": "France Five-Star Bordeaux City Break with Two-Michelin-Starred Restaurant",
-      "description": "Experience high-end opulence and refreshing decadence at the lavish InterContinental Bordeaux - Le Grand Hotel, an IHG Hotel, housed in a palatial building with striking architecture and views over Bordeaux's oldest streets. Here, guests can whet their appetite with classic French flavours at Le Bordeaux, settle in with a cocktail at the rooftop Yacht Club or join an immersive journey through French gastronomy at Le Pressoir d’Argent - boasting two Michelin stars and a menu of vintage wines.",
-      "location_subheading": "France",
-      "price": 472,
-      "original_price": 472,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt63AAB",
-      "hero_image": "https://images.luxuryescapes.com/kt2nq7sxw25f5g4e9sb",
-      "image_two": "https://images.luxuryescapes.com/dbd9et9d21p0r5ycrwe",
-      "image_three": "https://images.luxuryescapes.com/jetmsjooghco8cqchiae",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Mondrian Bordeaux Les Carmes",
@@ -96,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-01",
-    "hotel_count": 4,
-    "average_price": 417,
+    "last_updated": "2026-03-02",
+    "hotel_count": 2,
+    "average_price": 460,
     "average_discount": 0
   }
 }

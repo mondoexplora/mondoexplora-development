@@ -4,8 +4,26 @@
   "country_code": "US",
   "hero_title": "Hotels in Orlando",
   "description": "Discover the best hotels in Orlando, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/5wqteza0uis81x0ercup",
+  "hero_image": "https://images.luxuryescapes.com/vrpuvns92hxwqrr1xt1d",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Orlando - Lake Buena Vista",
+      "offer_country_name": "United States",
+      "location_heading": "Orlando",
+      "title": "Family-Friendly Orlando Stay near Walt Disney World® with Complimentary Theme Park Shuttle & Waterfall Pool",
+      "description": "Treat the whole family to the escape of their dreams with a stay at Crowne Plaza Orlando - Lake Buena Vista, an IHG Hotel. Create lasting memories with day trips to Orlando’s best theme parks, including Walt Disney World®, made easier with a complimentary daily shuttle service. After a day of sunshine and laughter, return to the comfort of this hotel to enjoy a splash in the outdoor pool, featuring an enchanting waterfall, and enjoy a juicy steak at H Street Grille & Lounge.",
+      "location_subheading": "United States",
+      "price": 299,
+      "original_price": 299,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GxYXBAA3",
+      "hero_image": "https://images.luxuryescapes.com/vrpuvns92hxwqrr1xt1d",
+      "image_two": "https://images.luxuryescapes.com/bzoc6qvl1k7vl02wezn",
+      "image_three": "https://images.luxuryescapes.com/srhwgfvxi0w16ycby1g",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Crowne Plaza Orlando - Downtown",
       "offer_country_name": "United States",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-01",
-    "hotel_count": 1,
-    "average_price": 375,
+    "last_updated": "2026-03-02",
+    "hotel_count": 2,
+    "average_price": 337,
     "average_discount": 0
   }
 }

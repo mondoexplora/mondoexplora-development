@@ -3,16 +3,16 @@
   "code": "PH",
   "hero_title": "Philippines Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Philippines.",
-  "hero_image": "https://images.luxuryescapes.com/fzjeq2o6fvlnxb87az9n",
+  "hero_image": "https://images.luxuryescapes.com/gj4o01hubz6pn19ozmo",
   "popular_destinations": [
     {
-      "name": "Manila",
-      "slug": "manila",
-      "image": "https://images.luxuryescapes.com/fzjeq2o6fvlnxb87az9n",
-      "description": "Explore Manila with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 442
+      "name": "Boracay",
+      "slug": "boracay",
+      "image": "https://images.luxuryescapes.com/gj4o01hubz6pn19ozmo",
+      "description": "Explore Boracay with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 1154
     },
     {
       "name": "Panglao",
@@ -21,16 +21,16 @@
       "description": "Explore Panglao with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 628
+      "avg_price": 626
     },
     {
-      "name": "Boracay",
-      "slug": "boracay",
-      "image": "https://images.luxuryescapes.com/gj4o01hubz6pn19ozmo",
-      "description": "Explore Boracay with luxury accommodations",
+      "name": "Manila",
+      "slug": "manila",
+      "image": "https://images.luxuryescapes.com/gec7egps7f93095kj3yi",
+      "description": "Explore Manila with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1529
+      "avg_price": 273
     },
     {
       "name": "Mactan",
@@ -39,16 +39,7 @@
       "description": "Explore Mactan with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 649
-    },
-    {
-      "name": "Mactan Island",
-      "slug": "mactan-island",
-      "image": "https://images.luxuryescapes.com/6jkt2zpu4driz1nkvjj",
-      "description": "Explore Mactan Island with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 391
+      "avg_price": 647
     },
     {
       "name": "Cebu",
@@ -57,7 +48,16 @@
       "description": "Explore Cebu with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 589
+      "avg_price": 588
+    },
+    {
+      "name": "El Nido",
+      "slug": "el-nido",
+      "image": "https://images.luxuryescapes.com/urvra0h68exxohzvsec",
+      "description": "Explore El Nido with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1446
     }
   ],
   "seo": {

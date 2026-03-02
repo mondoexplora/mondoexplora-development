@@ -4,8 +4,26 @@
   "country_code": "FI",
   "hero_title": "Hotels in Helsinki",
   "description": "Discover the best hotels in Helsinki, Finland. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/w07cnba2sn88poi3uga",
+  "hero_image": "https://images.luxuryescapes.com/sfiuksxthb2bee7kx5w",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Helsinki",
+      "offer_country_name": "Finland",
+      "location_heading": "Helsinki",
+      "title": "City Escape in Heart of Helsinki Overlooking Hesperia Park",
+      "description": "Mirroring the style and functionality of the city in which it resides, enjoy a peaceful city escape to Crowne Plaza Helsinki - Hesperia, an IHG Hotel. With the city's electrifying sights only a short stroll away, neoclassical history, intriguing culture and creative designs are at your fingertips. Feast on a bevy of Finnish flavours, sustainably foraged and farmed dishes, at the cosy Hesperia Restaurant And Bar, or enjoy a drink at the lobby bar and watch the world go by.",
+      "location_subheading": "Finland",
+      "price": 313,
+      "original_price": 313,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJa3AAH",
+      "hero_image": "https://images.luxuryescapes.com/sfiuksxthb2bee7kx5w",
+      "image_two": "https://images.luxuryescapes.com/q9e1km44w5r8a7hausa",
+      "image_three": "https://images.luxuryescapes.com/7exrqeibmik4ai91x7ih",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
     {
       "vendor_name": "Hotel Indigo Helsinki - Boulevard",
       "offer_country_name": "Finland",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-01",
-    "hotel_count": 1,
-    "average_price": 257,
+    "last_updated": "2026-03-02",
+    "hotel_count": 2,
+    "average_price": 285,
     "average_discount": 0
   }
 }

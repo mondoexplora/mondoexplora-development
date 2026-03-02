@@ -3,25 +3,16 @@
   "code": "CH",
   "hero_title": "Switzerland Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Switzerland.",
-  "hero_image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
+  "hero_image": "https://images.luxuryescapes.com/1tbouyf877b3391bloan",
   "popular_destinations": [
     {
       "name": "Geneva",
       "slug": "geneva",
-      "image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
+      "image": "https://images.luxuryescapes.com/1tbouyf877b3391bloan",
       "description": "Explore Geneva with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 932
-    },
-    {
-      "name": "Zurich",
-      "slug": "zurich",
-      "image": "https://images.luxuryescapes.com/avlbg2ent9eqezmxvv6nh",
-      "description": "Explore Zurich with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 514
+      "avg_price": 1159
     },
     {
       "name": "Crans-Montana",
@@ -30,7 +21,7 @@
       "description": "Explore Crans-Montana with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1819
+      "avg_price": 1826
     },
     {
       "name": "Bern",
@@ -39,7 +30,7 @@
       "description": "Explore Bern with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 953
+      "avg_price": 957
     },
     {
       "name": "Gstaad",
@@ -48,7 +39,7 @@
       "description": "Explore Gstaad with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1352
+      "avg_price": 1357
     },
     {
       "name": "Grindelwald",
@@ -57,7 +48,16 @@
       "description": "Explore Grindelwald with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1271
+      "avg_price": 1275
+    },
+    {
+      "name": "Engelberg",
+      "slug": "engelberg",
+      "image": "https://images.luxuryescapes.com/l57tybstwrwgd6w4dw9j",
+      "description": "Explore Engelberg with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1210
     }
   ],
   "seo": {

@@ -1,37 +1,55 @@
 {
   "city": "Kochi",
-  "country": "Japan",
-  "country_code": "JP",
+  "country": "India",
+  "country_code": "IN",
   "hero_title": "Hotels in Kochi",
-  "description": "Discover the best hotels in Kochi, Japan. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/83m7w56yw0cz6xuj1nr",
+  "description": "Discover the best hotels in Kochi, India. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/xogkw3wlel7gw5icrtk",
   "hotels": [
     {
-      "vendor_name": "Mercure Kochi Tosa",
-      "offer_country_name": "Japan",
+      "vendor_name": "Crowne Plaza Kochi",
+      "offer_country_name": "India",
       "location_heading": "Kochi",
-      "title": "Tranquil Kochi Coastal Resort Overlooking the Pacific Ocean with Traditional Onsen",
-      "description": "Succumb to the allure of coastal Japan at this resort in Kochi, mere moments from the Pacific Ocean and surrounded by rugged mountain ranges. Seemlessly blending together traditional Japanese and contemporary Western styles, this serene stay boasts a traditional Japanese onsen, a relaxing bathhouse with a natural hot spring that's sure to soothe. Between moments of relaxation, enjoy a buffet meal at the Locavore restaurant, make a splash in the sprawling outdoor pool or simply retreat to your room designed with comfort in mind. Set out to explore Kochi and pay a visit to the Kochi Castle, stroll the Hirome Market or admire the coastline at Katsurahama Beach.",
-      "location_subheading": "Japan",
-      "price": 225,
-      "original_price": 225,
+      "title": "India Waterside Kochi City Break with Sprawling Onsite Spa",
+      "description": "Between vibrant historic streets and the coconut groves, birdlife and captivating beauty of gentle backwaters lies Crowne Plaza Kochi, an IHG Hotel, perfectly positioned to allow sightseeing at Fort Kochi, Jew Town and Mattancherry Palace. Enjoy rooftop barbecue at Skygrill or retreat to the hotel’s magnificent Aira Spa for traditional ayurvedic treatments in one of the largest oases of rejuvenation in Kerala.",
+      "location_subheading": "India",
+      "price": 224,
+      "original_price": 224,
       "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP1qYAF",
-      "hero_image": "https://images.luxuryescapes.com/83m7w56yw0cz6xuj1nr",
-      "image_two": "https://images.luxuryescapes.com/yobbbh93trmqoit4t9dm",
-      "image_three": "https://images.luxuryescapes.com/vmy2ngg6kitb5rt5n8",
-      "deal_tier": "",
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJa8AAH",
+      "hero_image": "https://images.luxuryescapes.com/xogkw3wlel7gw5icrtk",
+      "image_two": "https://images.luxuryescapes.com/otorzbmlxb2vnahmwrj",
+      "image_three": "https://images.luxuryescapes.com/rzax16e4npv2epxw7zj",
+      "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
+    {
+      "vendor_name": "Holiday Inn Cochin",
+      "offer_country_name": "India",
+      "location_heading": "Kochi",
+      "title": "Regal Cochin City Stay with Five Onsite Restaurants and Bars",
+      "description": "In Cochin's rich city centre you will find merchant-lined ports, remnants of colonial heritage and the elegant Holiday Inn Cochin, an IHG Hotel, positioned to take in sweeping city views and laced with grand entrances and pampering amenities. Here, there is no shortage of divine cuisine, with multiple onsite restaurants and bars to whet any appetite. If relaxation is on your itinerary, spend a day lounging on the rooftop and take a dip in the glistening pool or melt away under the experienced hands of a world-class wellness therapist at the Senses & Elements spa.",
+      "location_subheading": "India",
+      "price": 173,
+      "original_price": 173,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DI6EdAAL",
+      "hero_image": "https://images.luxuryescapes.com/9c1qgiec5947kznd3pai",
+      "image_two": "https://images.luxuryescapes.com/avi96htyl8i8oy8ny5i2",
+      "image_three": "https://images.luxuryescapes.com/2dg68znz0bgkwckollpn",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
-    "title": "Hotels in Kochi - Japan Hotels & Travel Guide 2024",
-    "description": "Find the best hotels in Kochi, Japan with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "title": "Hotels in Kochi - India Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Kochi, India with exclusive deals. Book your perfect getaway with up to 60% off.",
     "keywords": [
       "kochi hotels",
       "kochi travel",
-      "japan hotels"
+      "india hotels"
     ],
     "canonical": "https://mondoexplora.com/en/destination/kochi",
     "hreflang": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-01",
-    "hotel_count": 1,
-    "average_price": 225,
+    "last_updated": "2026-03-02",
+    "hotel_count": 2,
+    "average_price": 199,
     "average_discount": 0
   }
 }

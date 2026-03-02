@@ -61,42 +61,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Hotel Indigo Rome - St. George",
-      "offer_country_name": "Italy",
-      "location_heading": "Rome",
-      "title": "Historic Five-Star Rome Escape on Iconic Via Giulia",
-      "description": "Embrace Roman resplendence in the heart of the city’s historic Via Giulia with a five-star stay at Hotel Indigo Rome - St. George, an IHG Hotel, masterfully positioned amid endless galleries, upscale boutiques and artisanal cafes. After days exploring the Vatican, Piazza Navona and the Pantheon - all within easy strolling distance - soak the day away at the onsite Roman baths or enjoy aperitifs and antipasti at I Sofà Bar Restaurant & Roof Terrace and savour glorious Italian sunsets.",
-      "location_subheading": "Italy",
-      "price": 993,
-      "original_price": 993,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CuiRlAAJ",
-      "hero_image": "https://images.luxuryescapes.com/zyagpli3rr1n3w464aun",
-      "image_two": "https://images.luxuryescapes.com/7tkfcw3ixlv0pj1cq6g9",
-      "image_three": "https://images.luxuryescapes.com/g99pv9t61i7l61djzpa",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 01:59:00"
-    },
-    {
-      "vendor_name": "InterContinental Rome Ambasciatori Palace",
-      "offer_country_name": "Italy",
-      "location_heading": "Rome",
-      "title": "Five-Star Heritage Escape in the Heart of Rome",
-      "description": "In the heart of the Italian capital, InterContinental Rome Ambasciatori Palace, an IHG Hotel features a seamless blend of contemporary design, five-star comfort and old-world glamour. This hotel is ideally placed to embark on a whirlwind tour of Rome: visit the Trevi Fountain just a 15-minute walk away or arrive at the bustling Piazza Navona in under 25 minutes on foot. After days spent exploring, return to the hotel and savour delicious Italian and American cuisine at the onsite Scarpetta NYC.",
-      "location_subheading": "Italy",
-      "price": 971,
-      "original_price": 971,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNQKGAA5",
-      "hero_image": "https://images.luxuryescapes.com/rqdxrodvatfdyu2rpred",
-      "image_two": "https://images.luxuryescapes.com/zei2hzmya9a0v7blnfq",
-      "image_three": "https://images.luxuryescapes.com/ti0p7gcepl6iqfrg05gd",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "ROMANICO PALACE & SPA",
       "offer_country_name": "Italy",
       "location_heading": "Rome",
@@ -131,6 +95,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Sofitel Rome Villa Borghese",
+      "offer_country_name": "Italy",
+      "location_heading": "Rome",
+      "title": "Central Rome 19th-Century Escape near Villa Borghese with Rooftop Restaurant",
+      "description": "Perched on the edge of the verdant Villa Borghese gardens, this sanctuary combines French finesse with Italian passion. Unwind in sophisticated rooms adorned with designer touches, then ascend to the Settimo rooftop restaurant where panoramic views of the Eternal City complement traditional fare and handcrafted cocktails. Just minutes from the Spanish Steps and heritage Piazza Barberini, you're ideally situated to explore Rome's cultural treasures. After exploring the grand Pantheon or strolling through charming Trastevere, retreat to your urban oasis to unwind or simply admire St. Peter's Basilica from the rooftop.",
+      "location_subheading": "Italy",
+      "price": 975,
+      "original_price": 975,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP6UYAV",
+      "hero_image": "https://images.luxuryescapes.com/c77s0pztvoo81lhizxnj",
+      "image_two": "https://images.luxuryescapes.com/fsqz34lkseyzfpvq549",
+      "image_three": "https://images.luxuryescapes.com/m77jr5o55lvdhcucmvid",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "The First Roma Arte",
@@ -186,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-01",
-    "hotel_count": 9,
-    "average_price": 930,
-    "average_discount": 10
+    "last_updated": "2026-03-02",
+    "hotel_count": 8,
+    "average_price": 923,
+    "average_discount": 11
   }
 }
