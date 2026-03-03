@@ -4,8 +4,26 @@
   "country_code": "NL",
   "hero_title": "Hotels in Amsterdam",
   "description": "Discover the best hotels in Amsterdam, Netherlands. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/4src383h6p35ziwxlrd",
+  "hero_image": "https://images.luxuryescapes.com/9kxs424l3rx7ca9epnd4",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Amsterdam South",
+      "offer_country_name": "Netherlands",
+      "location_heading": "Amsterdam",
+      "title": "Amsterdam Urban Retreat with Iconic Canal Views",
+      "description": "Fall in love with eye-catching Dutch Baroque architecture, lose yourself in the lively atmosphere and cycle along iconic canals with a stay at Crowne Plaza Amsterdam - South, an IHG Hotel. Dine on sumptuous cuisine with waterfront views at the hotel's signature restaurant Happyhappyjoyjoy Zudias, refresh at the onsite fitness centre or toast to your stay at Manhattan Lounge bar. When it's time to explore, heritage attractions, vibrant cafes, bars and restaurants are all within close reach.",
+      "location_subheading": "Netherlands",
+      "price": 294,
+      "original_price": 294,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJZbAAP",
+      "hero_image": "https://images.luxuryescapes.com/9kxs424l3rx7ca9epnd4",
+      "image_two": "https://images.luxuryescapes.com/xrmokvm8ilaou2illub",
+      "image_three": "https://images.luxuryescapes.com/murjnr4x1oljk276axl",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Holiday Inn Amsterdam - Arena Towers",
       "offer_country_name": "Netherlands",
@@ -38,24 +56,6 @@
       "hero_image": "https://images.luxuryescapes.com/c5jp1uho8cca29yl7skm",
       "image_two": "https://images.luxuryescapes.com/8poxesnj0axw3dal34tp9",
       "image_three": "https://images.luxuryescapes.com/gldxpz2d195hp9ex2im3",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Intercontinental Amsterdam",
-      "offer_country_name": "Netherlands",
-      "location_heading": "Amsterdam",
-      "title": "Heritage Amsterdam Riverfront Luxury with Indoor Pool & Sauna",
-      "description": "It's easy to believe you've stepped back in time when you stay at the InterContinental Amstel Amsterdam, an IHG Hotel, located along the city's famous canals. Discover original heritage features, from 19th-century staircases to crystal chandeliers and polished marble floors. Be treated to gourmet delights with afternoon tea at the glass-enclosed Amstel Lounge, sip classic cocktails with a twist at the bar, and make use of the large indoor pool and steamy sauna at the Health Club.",
-      "location_subheading": "Netherlands",
-      "price": 808,
-      "original_price": 808,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6CAAR",
-      "hero_image": "https://images.luxuryescapes.com/tb2l17b5vh0s4j6n0bn",
-      "image_two": "https://images.luxuryescapes.com/2iwj3dj29tfttrzv1g",
-      "image_three": "https://images.luxuryescapes.com/cxmfif5ng1yihjgdgch",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
@@ -114,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-02",
+    "last_updated": "2026-03-03",
     "hotel_count": 5,
-    "average_price": 748,
+    "average_price": 645,
     "average_discount": 5
   }
 }

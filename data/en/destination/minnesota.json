@@ -4,26 +4,8 @@
   "country_code": "US",
   "hero_title": "Hotels in Minnesota",
   "description": "Discover the best hotels in Minnesota, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/h1war054cp1bxy4rqfyb",
+  "hero_image": "https://images.luxuryescapes.com/3b4ti429g4ad9s1fdodta",
   "hotels": [
-    {
-      "vendor_name": "Omni Viking Lakes Hotel",
-      "offer_country_name": "United States",
-      "location_heading": "Minnesota",
-      "title": "Elegant Nordic-Inspired Stay near Minneapolis with Luxe Spa & Indoor Pool",
-      "description": "Experience the grandeur of Minnesota with a sophisticated stay at this luxurious urban retreat, nestled in the heart of Eagan in downtown Minneapolis. A perfect base for both shopping and sporting enthusiasts, take advantage of this Nordic-inspired hotel's enviable location, lying adjacent to the headquarters of the Minnesota Vikings and only a short drive from The Mall of America and other boutiques. After a long day of city exploration, return to your chic abode and savour locally-inspired cuisine at the award-winning Kyndred Hearth restaurant and sip on ingredient-forward cocktails at the eclectic Ember & Ice lounge, overlooking the training facilities of the Vikings', complete with multiple TVs for tuning into live match entertainment. For a spot of relaxation, head to the spa for some much-needed pampering and cool off with a swim in the year-round indoor pool.",
-      "location_subheading": "United States",
-      "price": 459,
-      "original_price": 459,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HiIIIA0",
-      "hero_image": "https://images.luxuryescapes.com/h1war054cp1bxy4rqfyb",
-      "image_two": "https://images.luxuryescapes.com/73j10p03cnwy5lst7al",
-      "image_three": "https://images.luxuryescapes.com/zfgh6u5zhbqeeem6n7o",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Hotel Landing",
       "offer_country_name": "United States",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-02",
-    "hotel_count": 2,
-    "average_price": 737,
+    "last_updated": "2026-03-03",
+    "hotel_count": 1,
+    "average_price": 1015,
     "average_discount": 0
   }
 }

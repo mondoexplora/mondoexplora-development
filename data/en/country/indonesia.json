@@ -10,45 +10,45 @@
       "slug": "seminyak",
       "image": "https://images.luxuryescapes.com/pmua5odtlg8k976ng4k",
       "description": "Explore Seminyak with luxury accommodations",
-      "hotel_count": 28,
-      "hotel_deals": 28,
-      "avg_price": 539
+      "hotel_count": 27,
+      "hotel_deals": 27,
+      "avg_price": 562
     },
     {
       "name": "Ubud",
       "slug": "ubud",
       "image": "https://images.luxuryescapes.com/ngqe6loqpymp8m31yxl",
       "description": "Explore Ubud with luxury accommodations",
-      "hotel_count": 23,
-      "hotel_deals": 23,
-      "avg_price": 835
+      "hotel_count": 22,
+      "hotel_deals": 22,
+      "avg_price": 852
     },
     {
       "name": "Nusa Dua",
       "slug": "nusa-dua",
       "image": "https://images.luxuryescapes.com/uzd9wbnh8awquhdnrd1",
       "description": "Explore Nusa Dua with luxury accommodations",
-      "hotel_count": 15,
-      "hotel_deals": 15,
-      "avg_price": 1011
+      "hotel_count": 17,
+      "hotel_deals": 17,
+      "avg_price": 945
+    },
+    {
+      "name": "Jakarta",
+      "slug": "jakarta",
+      "image": "https://images.luxuryescapes.com/52oe9wn665xt7hhnai32",
+      "description": "Explore Jakarta with luxury accommodations",
+      "hotel_count": 16,
+      "hotel_deals": 16,
+      "avg_price": 310
     },
     {
       "name": "Jimbaran",
       "slug": "jimbaran",
       "image": "https://images.luxuryescapes.com/kbken7kfatv2bln9dtznn",
       "description": "Explore Jimbaran with luxury accommodations",
-      "hotel_count": 12,
-      "hotel_deals": 12,
-      "avg_price": 1009
-    },
-    {
-      "name": "Jakarta",
-      "slug": "jakarta",
-      "image": "https://images.luxuryescapes.com/ffwng69p7hlahxtdvf2",
-      "description": "Explore Jakarta with luxury accommodations",
-      "hotel_count": 9,
-      "hotel_deals": 9,
-      "avg_price": 274
+      "hotel_count": 11,
+      "hotel_deals": 11,
+      "avg_price": 851
     },
     {
       "name": "Lombok",
@@ -57,7 +57,7 @@
       "description": "Explore Lombok with luxury accommodations",
       "hotel_count": 9,
       "hotel_deals": 9,
-      "avg_price": 498
+      "avg_price": 507
     }
   ],
   "seo": {

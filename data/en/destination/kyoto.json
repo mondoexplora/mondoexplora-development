@@ -4,8 +4,26 @@
   "country_code": "JP",
   "hero_title": "Hotels in Kyoto",
   "description": "Discover the best hotels in Kyoto, Japan. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/xjy84r30ugieedtsfrh",
+  "hero_image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
   "hotels": [
+    {
+      "vendor_name": "ANA Crowne Plaza Kyoto",
+      "offer_country_name": "Japan",
+      "location_heading": "Kyoto",
+      "title": "Kyoto Serene Urban Stay near UNESCO World Heritage-listed Nijo Castle Site",
+      "description": "Near the majestic Nijo Castle UNESCO heritage site, ANA Crowne Plaza Kyoto, an IHG Hotel, is a tranquil urban escape with stunning views of greenery and seasonal beauty. Take a calming walk through the Nijo Castle grounds while admiring verdant gardens and imposing stone walls. Dine at the multiple onsite restaurants, offering gastronomic greatness. As the day ends, retire to a tranquil guest room that combines refined minimalism with modern comfort for a sound slumber.",
+      "location_subheading": "Japan",
+      "price": 359,
+      "original_price": 359,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CPub3AAD",
+      "hero_image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
+      "image_two": "https://images.luxuryescapes.com/2qav90lvuxsibkxwtyv",
+      "image_three": "https://images.luxuryescapes.com/njvr0nofof8xh1zv8pme",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Ace Hotel Kyoto",
       "offer_country_name": "Japan",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-02",
-    "hotel_count": 4,
-    "average_price": 957,
-    "average_discount": 18
+    "last_updated": "2026-03-03",
+    "hotel_count": 5,
+    "average_price": 837,
+    "average_discount": 14
   }
 }

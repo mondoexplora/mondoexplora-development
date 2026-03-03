@@ -23,6 +23,42 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Indigo Tel Aviv",
+      "offer_country_name": "Israel",
+      "location_heading": "Tel Aviv",
+      "title": "Glamorous Tel Aviv Escape in the Diamond District with Rooftop Infinity Pool",
+      "description": "Discover opulence and glamour in the heart of Israel’s world-famous gemstone capital with a stay at Hotel Indigo Tel Aviv - Diamond District. Murals depicting history’s most iconic stones lead you into the heart of luxury - savour bagels in the morning and Israeli malt whiskey in the evening at Blackstone Bistro & Lounge, delight in fresh seafood delicacies at David & Yossef or head to the hotel’s dazzling rooftop bar for spectacular Tel Aviv views and oh-so-sippable cocktails.",
+      "location_subheading": "Israel",
+      "price": 500,
+      "original_price": 500,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6MAAR",
+      "hero_image": "https://images.luxuryescapes.com/mt8p5p8ereb8nhgwpnfi",
+      "image_two": "https://images.luxuryescapes.com/ioap8jcelswkbjwv9ty",
+      "image_three": "https://images.luxuryescapes.com/hfzpwjzfwi8q04bbek7",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Intercontinental David Tel Aviv",
+      "offer_country_name": "Israel",
+      "location_heading": "Tel Aviv",
+      "title": "Stylish Tel Aviv City Escape near Neve Tzedek with Beachside Pool",
+      "description": "Discover the treasures of Israel with an escape to InterContinental David Tel Aviv, an IHG Hotel, perfectly positioned between the historic Old City, Neve Tzedek’s bohemian boutiques and the endless shining blue of the Mediterranean Sea. There’s no better retreat after a day exploring the city’s many wonders - enjoy authentic Israeli breakfast at the Atrium Lobby Bar, indulge in exceptional treatments from around the world at The Spa or savour cocktails by the hotel’s shimmering beachside pool.",
+      "location_subheading": "Israel",
+      "price": 1317,
+      "original_price": 1317,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000BdtJQAAZ",
+      "hero_image": "https://images.luxuryescapes.com/xoqejvguxs5trooav47",
+      "image_two": "https://images.luxuryescapes.com/ks2k715djmn9k6976r4c",
+      "image_three": "https://images.luxuryescapes.com/lg1mwalisbbdrx3y693d",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-02",
-    "hotel_count": 1,
-    "average_price": 658,
+    "last_updated": "2026-03-03",
+    "hotel_count": 3,
+    "average_price": 825,
     "average_discount": 0
   }
 }

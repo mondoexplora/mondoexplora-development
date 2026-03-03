@@ -3,8 +3,17 @@
   "code": "PR",
   "hero_title": "Puerto Rico Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Puerto Rico.",
-  "hero_image": "https://images.luxuryescapes.com/l15mttyqsagbwin2jgj",
+  "hero_image": "https://images.luxuryescapes.com/rbb9cqp5dvzjlvpm8ajp",
   "popular_destinations": [
+    {
+      "name": "Puerto Rico",
+      "slug": "puerto-rico",
+      "image": "https://images.luxuryescapes.com/rbb9cqp5dvzjlvpm8ajp",
+      "description": "Explore Puerto Rico with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1006
+    },
     {
       "name": "Carolina",
       "slug": "carolina",

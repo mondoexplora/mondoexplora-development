@@ -25,6 +25,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Kimpton Hotel Monaco Denver",
+      "offer_country_name": "United States",
+      "location_heading": "Denver",
+      "title": "Denver Hotel in Prime Downtown Hotspot for Entertainment, Shopping & Sports",
+      "description": "Immerse yourself in the distinctive Colorado buzz at Kimpton Hotel Monaco Denver, an IHG Hotel, in the heart of Downtown. Be charmed by warm, signature Kimpton service, recharge with complimentary coffee and a nightly wine hour, and dine at onsite Panzano Italian restaurant. Keep your routine in check with a 24-hour fitness centre or hire an e-bike to explore the buzzing entertainment, shopping and sports culture of Denver.",
+      "location_subheading": "United States",
+      "price": 540,
+      "original_price": 540,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKFDAA3",
+      "hero_image": "https://images.luxuryescapes.com/qowpf8g7j8ul28ndb5b",
+      "image_two": "https://images.luxuryescapes.com/cm4d0k1uiviai3ab7mmp9",
+      "image_three": "https://images.luxuryescapes.com/25oco9zkku0nui0wx53",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2027-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Omni Interlocken Hotel",
       "offer_country_name": "United States",
       "location_heading": "Denver",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-02",
-    "hotel_count": 2,
-    "average_price": 380,
+    "last_updated": "2026-03-03",
+    "hotel_count": 3,
+    "average_price": 433,
     "average_discount": 0
   }
 }

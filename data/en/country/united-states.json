@@ -10,54 +10,54 @@
       "slug": "new-york",
       "image": "https://images.luxuryescapes.com/4elm1zhlrmb0e26g6vw5",
       "description": "Explore New York with luxury accommodations",
-      "hotel_count": 23,
-      "hotel_deals": 23,
-      "avg_price": 1087
+      "hotel_count": 29,
+      "hotel_deals": 29,
+      "avg_price": 1059
     },
     {
       "name": "California",
       "slug": "california",
-      "image": "https://images.luxuryescapes.com/2eh86y2mv3bsnzv6iit",
+      "image": "https://images.luxuryescapes.com/y1xmg8jbi3r8xp975qhc",
       "description": "Explore California with luxury accommodations",
-      "hotel_count": 11,
-      "hotel_deals": 11,
-      "avg_price": 1293
+      "hotel_count": 14,
+      "hotel_deals": 14,
+      "avg_price": 1220
     },
     {
       "name": "San Francisco",
       "slug": "san-francisco",
-      "image": "https://images.luxuryescapes.com/754xmdpftfofw82s7cxw",
+      "image": "https://images.luxuryescapes.com/m2svymv8ky5i0gdbe9",
       "description": "Explore San Francisco with luxury accommodations",
-      "hotel_count": 10,
-      "hotel_deals": 10,
-      "avg_price": 399
+      "hotel_count": 14,
+      "hotel_deals": 14,
+      "avg_price": 540
     },
     {
       "name": "Los Angeles",
       "slug": "los-angeles",
       "image": "https://images.luxuryescapes.com/2gz9hcpe3z0kaefsk6r4",
       "description": "Explore Los Angeles with luxury accommodations",
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 684
+    },
+    {
+      "name": "Florida",
+      "slug": "florida",
+      "image": "https://images.luxuryescapes.com/tdtsgjze1oytb17zdf4g",
+      "description": "Explore Florida with luxury accommodations",
       "hotel_count": 8,
       "hotel_deals": 8,
-      "avg_price": 610
+      "avg_price": 802
     },
     {
       "name": "Hawaii",
       "slug": "hawaii",
       "image": "https://images.luxuryescapes.com/4r6a8zqk0gowg30qnsv1",
       "description": "Explore Hawaii with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 1812
-    },
-    {
-      "name": "Colorado",
-      "slug": "colorado",
-      "image": "https://images.luxuryescapes.com/8wxx2168pah9z0hz8bj",
-      "description": "Explore Colorado with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 1023
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 1788
     }
   ],
   "seo": {

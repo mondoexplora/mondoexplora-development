@@ -10,27 +10,27 @@
       "slug": "beijing",
       "image": "https://images.luxuryescapes.com/ehppqzlzlleaq5gekgnp",
       "description": "Explore Beijing with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 1296
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 920
     },
     {
       "name": "Shenzhen",
       "slug": "shenzhen",
-      "image": "https://images.luxuryescapes.com/nz82xvfoeh1rzo6eev7o",
+      "image": "https://images.luxuryescapes.com/n6gxq99y6bbpflckidajw",
       "description": "Explore Shenzhen with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 231
+      "avg_price": 270
     },
     {
       "name": "Shanghai",
       "slug": "shanghai",
-      "image": "https://images.luxuryescapes.com/u9csqvvye8nod53z56la",
+      "image": "https://images.luxuryescapes.com/ylbwv5scdsoptk6wq5ga",
       "description": "Explore Shanghai with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 319
+      "avg_price": 477
     },
     {
       "name": "Chengdu",
@@ -39,25 +39,25 @@
       "description": "Explore Chengdu with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 206
+      "avg_price": 219
     },
     {
-      "name": "Xiamen",
-      "slug": "xiamen",
-      "image": "https://images.luxuryescapes.com/r9l49widv8e4nc2ryvb",
-      "description": "Explore Xiamen with luxury accommodations",
+      "name": "Guiyang",
+      "slug": "guiyang",
+      "image": "https://images.luxuryescapes.com/f07hc0t4kykqfy8c1nt",
+      "description": "Explore Guiyang with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 225
+      "avg_price": 214
     },
     {
-      "name": "Huangshan",
-      "slug": "huangshan",
-      "image": "https://images.luxuryescapes.com/uajrkx44276wn4ntktbc",
-      "description": "Explore Huangshan with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 201
+      "name": "Hainan",
+      "slug": "hainan",
+      "image": "https://images.luxuryescapes.com/bkcvs6tl4ias0ycd7xqe",
+      "description": "Explore Hainan with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 625
     }
   ],
   "seo": {

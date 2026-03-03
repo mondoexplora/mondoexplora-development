@@ -12,7 +12,16 @@
       "description": "Explore Cabo San Lucas with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 1432
+      "avg_price": 1433
+    },
+    {
+      "name": "Los Cabos",
+      "slug": "los-cabos",
+      "image": "https://images.luxuryescapes.com/edqtv8330piiyf8k7dp",
+      "description": "Explore Los Cabos with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 1611
     },
     {
       "name": "Cancun",
@@ -24,40 +33,31 @@
       "avg_price": 1154
     },
     {
-      "name": "Los Cabos",
-      "slug": "los-cabos",
-      "image": "https://images.luxuryescapes.com/edqtv8330piiyf8k7dp",
-      "description": "Explore Los Cabos with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 1696
-    },
-    {
       "name": "Playa del Carmen",
       "slug": "playa-del-carmen",
       "image": "https://images.luxuryescapes.com/acteyk3as9c0gja6heks",
       "description": "Explore Playa del Carmen with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 1168
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 1407
     },
     {
       "name": "Mexico City",
       "slug": "mexico-city",
       "image": "https://images.luxuryescapes.com/x9kez45e1406vdu2sika",
       "description": "Explore Mexico City with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 300
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 783
     },
     {
       "name": "Nuevo Vallarta",
       "slug": "nuevo-vallarta",
-      "image": "https://images.luxuryescapes.com/llvan5dafh8sxozcqwl9",
+      "image": "https://images.luxuryescapes.com/usg61bll28lbufat4r7c",
       "description": "Explore Nuevo Vallarta with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 548
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 758
     }
   ],
   "seo": {

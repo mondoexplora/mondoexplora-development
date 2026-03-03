@@ -10,9 +10,18 @@
       "slug": "istanbul",
       "image": "https://images.luxuryescapes.com/17vjwp1o78as570r7u6k",
       "description": "Explore Istanbul with luxury accommodations",
-      "hotel_count": 11,
-      "hotel_deals": 11,
-      "avg_price": 672
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 560
+    },
+    {
+      "name": "Bursa",
+      "slug": "bursa",
+      "image": "https://images.luxuryescapes.com/rasqz9rtpdfbomjd9gwk",
+      "description": "Explore Bursa with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 257
     },
     {
       "name": "Bodrum",
@@ -49,15 +58,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 1224
-    },
-    {
-      "name": "Buyukada",
-      "slug": "buyukada",
-      "image": "https://images.luxuryescapes.com/r2i2jmyjh55tgs92owm",
-      "description": "Explore Buyukada with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 1562
     }
   ],
   "seo": {

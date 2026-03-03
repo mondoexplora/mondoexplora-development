@@ -4,8 +4,26 @@
   "country_code": "TH",
   "hero_title": "Hotels in Koh Yao Noi",
   "description": "Discover the best hotels in Koh Yao Noi, Thailand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/1kmqwk3br257mneqen7",
+  "hero_image": "https://images.luxuryescapes.com/nwhrm0su5rk63a1ly2rp",
   "hotels": [
+    {
+      "vendor_name": "Cape Kudu Hotel, Koh Yao Noi",
+      "offer_country_name": "Thailand",
+      "location_heading": "Koh Yao Noi",
+      "title": "Five-Star Thailand Island Paradise with Daily Breakfast, Three-Course Lunch or Dinner & Return Airport Transfers",
+      "description": "Take a trip to a tropical paradise, complete with decadent dining, refreshing cocktails and blissful massages. All this and more is yours at Cape Kudu Hotel - a luxurious resort on Koh Yao Noi. Perched on one of Thailand’s most tranquil islands, overlooking the sapphire waters of the Andaman Sea, this five-star boutique hotel epitomises island living, with activities for every type of escape. When not making use of the resort's extensive facilities, explore its surrounding rugged landscapes by bike, take to the water by kayak, share champagne at the moonlight cinema or hire the resort's private yacht for a day of indulgence. Then, return to the hotel’s Hornbill Restaurant for traditional surrounds and international cuisine. Afterwards, plan tomorrow’s adventures over stylish cocktails in the Long Island Bar. Perfect for a romantic escape, this breathtaking abode boasts a collection of beach-inspired rooms and villas, Cape Spa for the latest massage treatments, and a glistening infinity pool with views across the sea and towering limestone cliffs. Complete with minivan and speedboat transfers from Phuket International Airport, every aspect of your getaway is considered for a truly restful stay.",
+      "location_subheading": "Thailand",
+      "price": 679,
+      "original_price": 2058,
+      "discount_percentage": 67,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000NHO3vYAH",
+      "hero_image": "https://images.luxuryescapes.com/nwhrm0su5rk63a1ly2rp",
+      "image_two": "https://images.luxuryescapes.com/22vv2k6px522dexbedj",
+      "image_three": "https://images.luxuryescapes.com/itl5oesai4sd15ub61kd",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-03-16 12:59:00"
+    },
     {
       "vendor_name": "The Paradise Koh Yao Resort and Spa",
       "offer_country_name": "Thailand",
@@ -13,8 +31,8 @@
       "title": "Boutique Thailand Island Paradise with Daily Breakfast & Cocktails",
       "description": "Tucked away on the northeastern tip of Koh Yao Noi island, within its own private bay, a barefoot island oasis awaits at Paradise KohYao. Brought to you by the team behind the renowned TreeHouse Villas Koh Yao Noi, this remote hideaway is an unspoiled island of near-deserted beaches and pristine forest overlooking the world-renowned Phang Nga Bay. From lounging on the 400m private beachfront to kayaking and snorkelling through emerald green waters or dining at the two onsite restaurants and bars, this laidback honeymooners' retreat invites you to do as little or as much as you please in the uttermost privacy and seclusion.",
       "location_subheading": "Thailand",
-      "price": 278,
-      "original_price": 434,
+      "price": 277,
+      "original_price": 433,
       "discount_percentage": 36,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GLc7AAG",
       "hero_image": "https://images.luxuryescapes.com/1kmqwk3br257mneqen7",
@@ -31,8 +49,8 @@
       "title": "Thailand Treehouse Pool Villa Escape",
       "description": "Experience an adults-only eco-escape like no other, staying in a romantic beachfront treehouse villa at TreeHouse Villas. Sleep in your very own treehouse, nestled amid the jungle canopy of Koh Yao Noi - a dreamy Thai island easily reachable via a 50-minute speedboat ride from Phuket. Regarded as one of Thailand’s last unspoiled islands, Koh Yao Noi is located within the famous Phang Nga Bay (between Phuket and Krabi). Here you’ll find pristine beaches and lush untouched jungle, as well as one of the most unique resorts in Asia. TreeHouse Villas will allow you to experience the magic of this island with its idyllic combination of sustainable eco-living and tropical island luxury. Unwind in style in your unique treehouse featuring an outdoor plunge pool that juts into the jungle and an open-air living space complete with daybeds and a double swing. The resort’s exquisite facilities include a blissful spa, three restaurants and bars, and a sparkling pool overlooking the beach.",
       "location_subheading": "Thailand",
-      "price": 1044,
-      "original_price": 1356,
+      "price": 1038,
+      "original_price": 1348,
       "discount_percentage": 23,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GLg4AAG",
       "hero_image": "https://images.luxuryescapes.com/rs0toyok4i30zmsabk",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-02",
-    "hotel_count": 2,
-    "average_price": 661,
-    "average_discount": 30
+    "last_updated": "2026-03-03",
+    "hotel_count": 3,
+    "average_price": 665,
+    "average_discount": 42
   }
 }

@@ -4,8 +4,26 @@
   "country_code": "US",
   "hero_title": "Hotels in Atlanta",
   "description": "Discover the best hotels in Atlanta, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ydj0qcgtaecdj1x4vfvwd",
+  "hero_image": "https://images.luxuryescapes.com/wd3ps0yngj92g0amj6gu",
   "hotels": [
+    {
+      "vendor_name": "Kimpton Overland Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Atlanta",
+      "title": "Glamorous Atlanta Airport Escape with Rooftop Lounge Overlooking Runway",
+      "description": "Get up close to all the action of Atlanta Airport's runway or a Porsche handling course with a stay at the sophisticated Kimpton Overland Atlanta Airport, an IHG Hotel. Soundproofed windows in the sophisticated motorsports-inspired rooms and suites ensure a comfortable atmosphere, while panoramic views await from The Rooftop at Overland. Fancy a bite? Discover Southern-inspired dishes at APRON restaurant.",
+      "location_subheading": "United States",
+      "price": 417,
+      "original_price": 417,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKFZAA3",
+      "hero_image": "https://images.luxuryescapes.com/wd3ps0yngj92g0amj6gu",
+      "image_two": "https://images.luxuryescapes.com/9obga78tla91023dhh98",
+      "image_three": "https://images.luxuryescapes.com/9ffodc4lhmn9688vb57",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Kimpton Shane",
       "offer_country_name": "United States",
@@ -31,8 +49,8 @@
       "title": "Elegant Mid-Century Retreat Overlooking Atlanta's Skyline with Rooftop Bar",
       "description": "Mid-century modern meets classic southern hospitality at Atlanta’s boutique-style Kimpton Sylvan Hotel, an IHG Hotel. Boasting a fantastic pool and outdoor area, this hotel cannot be missed, with a vibrant rooftop bar serving fresh cocktails with the twinkling city skyline serving as the backdrop. Experience Atlanta’s mouth-watering cuisine at The Betty restaurant, showcasing a traditional supper club and serving a contemporary spin on traditional comfort foods.",
       "location_subheading": "United States",
-      "price": 516,
-      "original_price": 516,
+      "price": 520,
+      "original_price": 520,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKFXAA3",
       "hero_image": "https://images.luxuryescapes.com/ib317gcnnjvt3ajupb",
@@ -59,6 +77,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Omni Hotel at the Battery Atlanta",
+      "offer_country_name": "United States",
+      "location_heading": "Atlanta",
+      "title": "Sophisticated Atlanta City Stay near The Battery & Truist Park Stadium with Rooftop Pool",
+      "description": "Experience the epitome of southeastern hospitality in the heart of Georgia's Atlanta city, perfectly situated in the vibrant Battery Atlanta district. This sophisticated hotel is a stone's throw from Truist Park Stadium - home of the Atlanta Braves - and Coca-Cola Roxy, the city's premier concert venue. Indulge in Southern cuisine at the National Anthem restaurant, serving classic American-style foods or head to 582 Waterside Lounge & Bar to enjoy a craft cocktail by the rooftop pool bar, overlooking the bustling cityscape. Spend your day basking in the sunshine on the sundeck, or retreat to the comfort of a private cabana.",
+      "location_subheading": "United States",
+      "price": 607,
+      "original_price": 607,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HiHsIAK",
+      "hero_image": "https://images.luxuryescapes.com/72qakfrse5t9z2rs20i2",
+      "image_two": "https://images.luxuryescapes.com/kiqv4osn3qshliwvbx1h",
+      "image_three": "https://images.luxuryescapes.com/ewov35mvrjskfumm4sv",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -78,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-02",
-    "hotel_count": 3,
-    "average_price": 472,
+    "last_updated": "2026-03-03",
+    "hotel_count": 5,
+    "average_price": 489,
     "average_discount": 0
   }
 }

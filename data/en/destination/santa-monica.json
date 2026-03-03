@@ -4,26 +4,8 @@
   "country_code": "US",
   "hero_title": "Hotels in Santa Monica",
   "description": "Discover the best hotels in Santa Monica, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/s5hwsppmi1qx6jkgoo6o",
+  "hero_image": "https://images.luxuryescapes.com/fx51ndeyxtl2vpdi9ed",
   "hotels": [
-    {
-      "vendor_name": "Fairmont Miramar Hotel & Bungalows",
-      "offer_country_name": "United States",
-      "location_heading": "Santa Monica",
-      "title": "Stylish Seaside Santa Monica Luxury with Five Eateries & Lagoon Pool",
-      "description": "Experience Santa Monica’s most storied coastal retreat, home to the region’s only private bungalows and a legacy of celebrity stays including Greta Garbo and Marilyn Monroe. Set atop the bluffs overlooking the golden beaches of Los Angeles, this 19th-century estate is a luxury hideaway placing you moments from the Santa Monica Pier and Third Street Promenade. Unwind by the palm-fringed pool or savor ocean-to-table flavors at FIG Restaurant. Sip handcrafted cocktails with sunset views at The Bungalow, or enjoy an intimate eight-seat sushi experience at Soko Sushi, which also offers meals to go. Stay refreshed with the onsite Em Styles Salon and Lloyd's Barbershop and a 24-hour fitness centre. Spanning five acres of lush gardens, embody laid-back luxury with effortless California cool.",
-      "location_subheading": "United States",
-      "price": 1296,
-      "original_price": 1296,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GRpI9YAL",
-      "hero_image": "https://images.luxuryescapes.com/s5hwsppmi1qx6jkgoo6o",
-      "image_two": "https://images.luxuryescapes.com/3rrqkwqli6fklox1y6d",
-      "image_three": "https://images.luxuryescapes.com/w6dcsq8v09wlzf0z1f",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "The Pierside Santa Monica",
       "offer_country_name": "United States",
@@ -78,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-02",
-    "hotel_count": 3,
-    "average_price": 1018,
-    "average_discount": 2
+    "last_updated": "2026-03-03",
+    "hotel_count": 2,
+    "average_price": 879,
+    "average_discount": 4
   }
 }

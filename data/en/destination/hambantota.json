@@ -4,8 +4,26 @@
   "country_code": "LK",
   "hero_title": "Hotels in Hambantota",
   "description": "Discover the best hotels in Hambantota, Sri Lanka. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/7g4sby4zoznh3y8fldd",
+  "hero_image": "https://images.luxuryescapes.com/jgmi4b544djvkuywqogd",
   "hotels": [
+    {
+      "vendor_name": "Shangri-La’s Hambantota Golf Resort and Spa",
+      "offer_country_name": "Sri Lanka",
+      "location_heading": "Hambantota",
+      "title": "Sri Lanka Oceanfront Paradise with Massages, Daily Breakfast, Nightly Dinner & Cocktails",
+      "description": "One of Sri Lanka's most lavish addresses, this Shangri-La beachfront oasis comprises exceptional facilities for adults and children alike, all with breathtaking views over the endless blue of the Indian Ocean. Savour signature fine dining across four internationally-inspired eateries, including Sera restaurant's mouthwatering Southeast Asian hawker dishes, Sri Lankan and global fare cooked in mesmerising show kitchens at Bojunhala, and sunset tipples at the oceanfront Gimanhala Lounge. Melt away with an award-winning treatment at CHI Ayurveda Spa or, for the adventurous traveller, practice your swing at the Rodney Wright-designed golf course, conquer the seven-metre-high trapeze and let the little ones loose at the ultimate kids' club and waterpark.",
+      "location_subheading": "Sri Lanka",
+      "price": 559,
+      "original_price": 1096,
+      "discount_percentage": 49,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PPyAlYAL",
+      "hero_image": "https://images.luxuryescapes.com/jgmi4b544djvkuywqogd",
+      "image_two": "https://images.luxuryescapes.com/lcw1v2g4xw28ckr7dbgp",
+      "image_three": "https://images.luxuryescapes.com/5awlh00ihieihri58nw",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-03-30 12:59:00"
+    },
     {
       "vendor_name": "Shangri-La’s Hambantota Golf Resort and Spa",
       "offer_country_name": "Sri Lanka",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-02",
-    "hotel_count": 1,
-    "average_price": 494,
-    "average_discount": 0
+    "last_updated": "2026-03-03",
+    "hotel_count": 2,
+    "average_price": 527,
+    "average_discount": 25
   }
 }

@@ -12,16 +12,34 @@
       "description": "Explore Berlin with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 426
+      "avg_price": 427
+    },
+    {
+      "name": "Frankfurt",
+      "slug": "frankfurt",
+      "image": "https://images.luxuryescapes.com/3jkn70tstn9sxal7h9of",
+      "description": "Explore Frankfurt with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 183
     },
     {
       "name": "Munich",
       "slug": "munich",
       "image": "https://images.luxuryescapes.com/43mhpife4gzr2fut19on",
       "description": "Explore Munich with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 809
+    },
+    {
+      "name": "Dusseldorf",
+      "slug": "dusseldorf",
+      "image": "https://images.luxuryescapes.com/0a7yiewi4pi9egm9i2eh",
+      "description": "Explore Dusseldorf with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 880
+      "avg_price": 228
     },
     {
       "name": "Baden-Baden",
@@ -33,31 +51,13 @@
       "avg_price": 1200
     },
     {
-      "name": "Garmisch-Partenkirchen",
-      "slug": "garmisch-partenkirchen",
-      "image": "https://images.luxuryescapes.com/tovaydbw4f8bpjmgc38",
-      "description": "Explore Garmisch-Partenkirchen with luxury accommodations",
+      "name": "Bremen",
+      "slug": "bremen",
+      "image": "https://images.luxuryescapes.com/lh3tqpxo1ah58qxmml5",
+      "description": "Explore Bremen with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 377
-    },
-    {
-      "name": "Freising",
-      "slug": "freising",
-      "image": "https://images.luxuryescapes.com/6rzrzrz4twygdt4v0ls",
-      "description": "Explore Freising with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 212
-    },
-    {
-      "name": "Bad Reichenhall",
-      "slug": "bad-reichenhall",
-      "image": "https://images.luxuryescapes.com/glaz7ro1nd8lvnfzrnc",
-      "description": "Explore Bad Reichenhall with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 273
+      "avg_price": 204
     }
   ],
   "seo": {

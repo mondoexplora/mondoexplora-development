@@ -10,27 +10,27 @@
       "slug": "london",
       "image": "https://images.luxuryescapes.com/39mzmc3drv1f0ixf989g",
       "description": "Explore London with luxury accommodations",
-      "hotel_count": 47,
-      "hotel_deals": 47,
-      "avg_price": 988
+      "hotel_count": 48,
+      "hotel_deals": 48,
+      "avg_price": 1053
     },
     {
       "name": "Edinburgh",
       "slug": "edinburgh",
       "image": "https://images.luxuryescapes.com/zptradi37mp2shjch09f",
       "description": "Explore Edinburgh with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 290
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 292
     },
     {
       "name": "Liverpool",
       "slug": "liverpool",
-      "image": "https://images.luxuryescapes.com/8pcy0a9daau63ik7j51",
+      "image": "https://images.luxuryescapes.com/3xbublkr5ta0dbjm3ch",
       "description": "Explore Liverpool with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 222
+      "avg_price": 254
     },
     {
       "name": "Manchester",
@@ -39,7 +39,7 @@
       "description": "Explore Manchester with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 287
+      "avg_price": 283
     },
     {
       "name": "Bath",
@@ -48,16 +48,16 @@
       "description": "Explore Bath with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 497
+      "avg_price": 501
     },
     {
-      "name": "Glasgow",
-      "slug": "glasgow",
-      "image": "https://images.luxuryescapes.com/f1ps1m9h5po93e7s7s",
-      "description": "Explore Glasgow with luxury accommodations",
+      "name": "Reading",
+      "slug": "reading",
+      "image": "https://images.luxuryescapes.com/xo7olf74r7snn8bikf8",
+      "description": "Explore Reading with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 272
+      "avg_price": 333
     }
   ],
   "seo": {

@@ -41,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Sofitel Munich Bayerpost",
+      "offer_country_name": "Germany",
+      "location_heading": "Munich",
+      "title": "Central Munich Retro-Chic Luxury near Marienplatz with Onsite Dining & Spa",
+      "description": "Step into 1920s Munich elegance with a stay at this five-star retreat in the heart of the city. This luxurious hotel is housed in a historic building, just a stone's throw from the city's main train station. Spend your days exploring the nearby Marienplatz, the city's central square, or the enchanting English Garden, one of the world's largest urban parks. Indulge in the hotel's array of top-notch amenities, including a state-of-the-art fitness centre and the tranquil Sofitel SPA, offering traditional Bavarian treatments. Dine at the hotel's on-site restaurant, where you can savour delectable Bavarian and international cuisine. For an evening drink, head to the stylish bar and lounge, where expert mixologists serve up handcrafted cocktails.",
+      "location_subheading": "Germany",
+      "price": 668,
+      "original_price": 668,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GWYlJYAX",
+      "hero_image": "https://images.luxuryescapes.com/dlindfhavpyb703gnb9q",
+      "image_two": "https://images.luxuryescapes.com/resbqn9apm1ux4fyc2n",
+      "image_three": "https://images.luxuryescapes.com/gjaaeeafz2ag57ji864",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-02",
-    "hotel_count": 2,
-    "average_price": 880,
+    "last_updated": "2026-03-03",
+    "hotel_count": 3,
+    "average_price": 809,
     "average_discount": 0
   }
 }

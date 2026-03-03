@@ -3,8 +3,17 @@
   "code": "BR",
   "hero_title": "Brazil Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Brazil.",
-  "hero_image": "https://images.luxuryescapes.com/ey5ifq9ie3kexcfj2dw",
+  "hero_image": "https://images.luxuryescapes.com/dihal64w8m6oehm3flglg",
   "popular_destinations": [
+    {
+      "name": "Recife",
+      "slug": "recife",
+      "image": "https://images.luxuryescapes.com/dihal64w8m6oehm3flglg",
+      "description": "Explore Recife with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 416
+    },
     {
       "name": "Porto Alegre",
       "slug": "porto-alegre",
@@ -15,22 +24,22 @@
       "avg_price": 219
     },
     {
-      "name": "Rio de Janeiro",
-      "slug": "rio-de-janeiro",
-      "image": "https://images.luxuryescapes.com/21a6po9on3twmfg51vjk",
-      "description": "Explore Rio de Janeiro with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 364
-    },
-    {
       "name": "Sao Paulo",
       "slug": "sao-paulo",
-      "image": "https://images.luxuryescapes.com/xpzxj6x2hnnqjl0jwlwq",
+      "image": "https://images.luxuryescapes.com/81llygb2cnic5c6bzya",
       "description": "Explore Sao Paulo with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 218
+      "avg_price": 234
+    },
+    {
+      "name": "São Paulo",
+      "slug": "são-paulo",
+      "image": "https://images.luxuryescapes.com/oaf3c3hq7794hddhf142",
+      "description": "Explore São Paulo with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 238
     }
   ],
   "seo": {
