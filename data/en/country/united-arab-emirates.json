@@ -10,27 +10,36 @@
       "slug": "dubai",
       "image": "https://images.luxuryescapes.com/bk11fbt9fad6gcgfp96e",
       "description": "Explore Dubai with luxury accommodations",
-      "hotel_count": 66,
-      "hotel_deals": 66,
-      "avg_price": 570
+      "hotel_count": 78,
+      "hotel_deals": 78,
+      "avg_price": 533
     },
     {
       "name": "Abu Dhabi",
       "slug": "abu-dhabi",
       "image": "https://images.luxuryescapes.com/wtas4oaepqwhap5tf7",
       "description": "Explore Abu Dhabi with luxury accommodations",
-      "hotel_count": 14,
-      "hotel_deals": 14,
-      "avg_price": 631
+      "hotel_count": 17,
+      "hotel_deals": 17,
+      "avg_price": 978
     },
     {
       "name": "Ras Al Khaimah",
       "slug": "ras-al-khaimah",
       "image": "https://images.luxuryescapes.com/zhfhaguori9dqsg2jdl8",
       "description": "Explore Ras Al Khaimah with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 571
+    },
+    {
+      "name": "Fujairah",
+      "slug": "fujairah",
+      "image": "https://images.luxuryescapes.com/rus8eegknojpcg0z1n",
+      "description": "Explore Fujairah with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 515
+      "avg_price": 561
     },
     {
       "name": "Sharjah",
@@ -39,7 +48,7 @@
       "description": "Explore Sharjah with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 205
+      "avg_price": 206
     },
     {
       "name": "Sir Bani Yas Island",
@@ -48,16 +57,7 @@
       "description": "Explore Sir Bani Yas Island with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1229
-    },
-    {
-      "name": "Ajman",
-      "slug": "ajman",
-      "image": "https://images.luxuryescapes.com/gf586qrpa3aara4wbm29",
-      "description": "Explore Ajman with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 559
+      "avg_price": 1235
     }
   ],
   "seo": {

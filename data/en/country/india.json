@@ -10,9 +10,18 @@
       "slug": "new-delhi",
       "image": "https://images.luxuryescapes.com/1jha7kogmju33u1ks8b",
       "description": "Explore New Delhi with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 240
+    },
+    {
+      "name": "Mumbai",
+      "slug": "mumbai",
+      "image": "https://images.luxuryescapes.com/drp3lhbidsu5v193ogqg",
+      "description": "Explore Mumbai with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 246
+      "avg_price": 356
     },
     {
       "name": "Jaipur",
@@ -21,7 +30,7 @@
       "description": "Explore Jaipur with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 687
+      "avg_price": 692
     },
     {
       "name": "Gurugram",
@@ -30,7 +39,7 @@
       "description": "Explore Gurugram with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 183
+      "avg_price": 188
     },
     {
       "name": "Bangalore",
@@ -39,7 +48,7 @@
       "description": "Explore Bangalore with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 251
+      "avg_price": 274
     },
     {
       "name": "Kochi",
@@ -48,16 +57,7 @@
       "description": "Explore Kochi with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 198
-    },
-    {
-      "name": "Kerala",
-      "slug": "kerala",
-      "image": "https://images.luxuryescapes.com/tiv6vwcrct0kumexm8tm",
-      "description": "Explore Kerala with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 378
+      "avg_price": 200
     }
   ],
   "seo": {

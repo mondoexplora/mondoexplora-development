@@ -10,18 +10,27 @@
       "slug": "seminyak",
       "image": "https://images.luxuryescapes.com/pmua5odtlg8k976ng4k",
       "description": "Explore Seminyak with luxury accommodations",
-      "hotel_count": 27,
-      "hotel_deals": 27,
-      "avg_price": 562
+      "hotel_count": 31,
+      "hotel_deals": 31,
+      "avg_price": 552
     },
     {
       "name": "Ubud",
       "slug": "ubud",
       "image": "https://images.luxuryescapes.com/ngqe6loqpymp8m31yxl",
       "description": "Explore Ubud with luxury accommodations",
-      "hotel_count": 22,
-      "hotel_deals": 22,
-      "avg_price": 852
+      "hotel_count": 23,
+      "hotel_deals": 23,
+      "avg_price": 846
+    },
+    {
+      "name": "Jakarta",
+      "slug": "jakarta",
+      "image": "https://images.luxuryescapes.com/52oe9wn665xt7hhnai32",
+      "description": "Explore Jakarta with luxury accommodations",
+      "hotel_count": 21,
+      "hotel_deals": 21,
+      "avg_price": 278
     },
     {
       "name": "Nusa Dua",
@@ -30,34 +39,25 @@
       "description": "Explore Nusa Dua with luxury accommodations",
       "hotel_count": 17,
       "hotel_deals": 17,
-      "avg_price": 945
-    },
-    {
-      "name": "Jakarta",
-      "slug": "jakarta",
-      "image": "https://images.luxuryescapes.com/52oe9wn665xt7hhnai32",
-      "description": "Explore Jakarta with luxury accommodations",
-      "hotel_count": 16,
-      "hotel_deals": 16,
-      "avg_price": 310
+      "avg_price": 946
     },
     {
       "name": "Jimbaran",
       "slug": "jimbaran",
       "image": "https://images.luxuryescapes.com/kbken7kfatv2bln9dtznn",
       "description": "Explore Jimbaran with luxury accommodations",
-      "hotel_count": 11,
-      "hotel_deals": 11,
-      "avg_price": 851
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 1019
     },
     {
       "name": "Lombok",
       "slug": "lombok",
       "image": "https://images.luxuryescapes.com/42gje7mmdjnu5nmlbsn",
       "description": "Explore Lombok with luxury accommodations",
-      "hotel_count": 9,
-      "hotel_deals": 9,
-      "avg_price": 507
+      "hotel_count": 10,
+      "hotel_deals": 10,
+      "avg_price": 491
     }
   ],
   "seo": {

@@ -12,7 +12,16 @@
       "description": "Explore Tel Aviv with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 825
+      "avg_price": 827
+    },
+    {
+      "name": "Jerusalem",
+      "slug": "jerusalem",
+      "image": "https://images.luxuryescapes.com/7fvfne13t3pal7zo2ugg",
+      "description": "Explore Jerusalem with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 779
     },
     {
       "name": "Shaharut",
@@ -21,7 +30,7 @@
       "description": "Explore Shaharut with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 2539
+      "avg_price": 2551
     }
   ],
   "seo": {

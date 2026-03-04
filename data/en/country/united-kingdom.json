@@ -10,9 +10,9 @@
       "slug": "london",
       "image": "https://images.luxuryescapes.com/39mzmc3drv1f0ixf989g",
       "description": "Explore London with luxury accommodations",
-      "hotel_count": 48,
-      "hotel_deals": 48,
-      "avg_price": 1053
+      "hotel_count": 54,
+      "hotel_deals": 54,
+      "avg_price": 1018
     },
     {
       "name": "Edinburgh",
@@ -21,25 +21,25 @@
       "description": "Explore Edinburgh with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 292
-    },
-    {
-      "name": "Liverpool",
-      "slug": "liverpool",
-      "image": "https://images.luxuryescapes.com/3xbublkr5ta0dbjm3ch",
-      "description": "Explore Liverpool with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 254
+      "avg_price": 302
     },
     {
       "name": "Manchester",
       "slug": "manchester",
       "image": "https://images.luxuryescapes.com/1jh3a5tbxp3f0rejmd6m",
       "description": "Explore Manchester with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 264
+    },
+    {
+      "name": "Liverpool",
+      "slug": "liverpool",
+      "image": "https://images.luxuryescapes.com/8pcy0a9daau63ik7j51",
+      "description": "Explore Liverpool with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 283
+      "avg_price": 215
     },
     {
       "name": "Bath",
@@ -48,16 +48,16 @@
       "description": "Explore Bath with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 501
+      "avg_price": 521
     },
     {
-      "name": "Reading",
-      "slug": "reading",
-      "image": "https://images.luxuryescapes.com/xo7olf74r7snn8bikf8",
-      "description": "Explore Reading with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 333
+      "name": "Glasgow",
+      "slug": "glasgow",
+      "image": "https://images.luxuryescapes.com/f1ps1m9h5po93e7s7s",
+      "description": "Explore Glasgow with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 249
     }
   ],
   "seo": {

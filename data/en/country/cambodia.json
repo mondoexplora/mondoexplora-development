@@ -3,8 +3,17 @@
   "code": "KH",
   "hero_title": "Cambodia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Cambodia.",
-  "hero_image": "https://images.luxuryescapes.com/84yrpn0gis08sef4jydq",
+  "hero_image": "https://images.luxuryescapes.com/wd1boyvi5wgac9uyiju3r",
   "popular_destinations": [
+    {
+      "name": "Phnom Penh",
+      "slug": "phnom-penh",
+      "image": "https://images.luxuryescapes.com/wd1boyvi5wgac9uyiju3r",
+      "description": "Explore Phnom Penh with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 380
+    },
     {
       "name": "Siem Reap",
       "slug": "siem-reap",
@@ -12,16 +21,7 @@
       "description": "Explore Siem Reap with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 376
-    },
-    {
-      "name": "Phnom Penh",
-      "slug": "phnom-penh",
-      "image": "https://images.luxuryescapes.com/tq8n2s90yq1fu0j7hh5",
-      "description": "Explore Phnom Penh with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 484
+      "avg_price": 369
     },
     {
       "name": "Koh Rong Archipelago",
@@ -30,7 +30,7 @@
       "description": "Explore Koh Rong Archipelago with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 3208
+      "avg_price": 3224
     },
     {
       "name": "Preah Sihanouk Province",
@@ -39,7 +39,7 @@
       "description": "Explore Preah Sihanouk Province with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1889
+      "avg_price": 1899
     }
   ],
   "seo": {

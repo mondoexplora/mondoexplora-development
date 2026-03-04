@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Penrith",
   "description": "Discover the best hotels in Penrith, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/zx91j0vac8p83wfko1ze",
+  "hero_image": "https://images.luxuryescapes.com/lig0pplqiibpn34sn0ens",
   "hotels": [
+    {
+      "vendor_name": "Mercure Penrith",
+      "offer_country_name": "Australia",
+      "location_heading": "Penrith",
+      "title": "Western Sydney Penrith Escape near Blue Mountains with Outdoor Pool",
+      "description": "Retreat to a comfortable base in Western Sydney with a stay at this stylish hotel - the perfect launchpad to discover the region, including the Nepean River and the majestic Blue Mountains. While exploring, visit the Penrith Regional Gallery or enjoy a live performance at the Joan Sutherland Performing Arts Centre. Food lovers can indulge in the region's culinary delights, with an array of local eateries offering everything from modern Australian cuisine to international flavours. The hotel itself boasts a fitness centre, outdoor pool and an inviting lobby bar for evening drinks before retreating to your homey pad.",
+      "location_subheading": "Australia",
+      "price": 385,
+      "original_price": 385,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002J2yKIAS",
+      "hero_image": "https://images.luxuryescapes.com/lig0pplqiibpn34sn0ens",
+      "image_two": "https://images.luxuryescapes.com/h10ztrw5fyqr3wy1oum9",
+      "image_three": "https://images.luxuryescapes.com/11zw9z2s7joery93y0m",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Pullman Sydney Penrith",
       "offer_country_name": "Australia",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-03",
-    "hotel_count": 1,
-    "average_price": 423,
+    "last_updated": "2026-03-04",
+    "hotel_count": 2,
+    "average_price": 404,
     "average_discount": 0
   }
 }

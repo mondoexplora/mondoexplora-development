@@ -25,14 +25,32 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Hotel Indigo Glasgow",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Glasgow",
+      "title": "Stylish City Escape in the Heart of Glasgow’s Central District",
+      "description": "Step back in time to discover Scottish Victorian elegance and Glaswegian culture with an escape to the famed Hotel Indigo Glasgow, an IHG Hotel. Occupying an iconic 1800s power station building, the boutique bolthole is steeped in history and a pioneer in the development of this city. Spend your days exploring the buzzy streets lined with world-class shops, marvellous museums and historic theatres, before returning to share stories at the onsite Turbine 75 Bar & Kitchen.",
+      "location_subheading": "United Kingdom",
+      "price": 177,
+      "original_price": 177,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Aa9BiAAJ",
+      "hero_image": "https://images.luxuryescapes.com/4wooxmwn0l6wdvjei8eh",
+      "image_two": "https://images.luxuryescapes.com/qevhycf6j9nb79m9f5cp",
+      "image_three": "https://images.luxuryescapes.com/4byet2jdnifkhmqry0t",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Kimpton Blythswood Square Hotel",
       "offer_country_name": "United Kingdom",
       "location_heading": "Glasgow",
       "title": "Five-Star Glasgow Spa Retreat in the Heart of the City",
       "description": "A verdant oasis in the heart of Glasgow, Kimpton Blythswood Square Hotel, an IHG Hotel, combines elegant old-world Scottish charm with indulgent luxury. Explore the elegant surrounding region of Blythswood Hill for a spot of high-end retail therapy, or be pampered with rejuvenating treatments in the soothing full-service onsite spa. For those looking for gastronomical delights, savour seasonal seafood dining options at onsite restaurant Iasg before retiring to a stylish guest room for the night.",
       "location_subheading": "United Kingdom",
-      "price": 368,
-      "original_price": 368,
+      "price": 367,
+      "original_price": 367,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CP3XbAAL",
       "hero_image": "https://images.luxuryescapes.com/jf7ag3lhi90czemp15o7j",
@@ -49,8 +67,8 @@
       "title": "Iconic Glasgow City Heritage Stay within Central Station",
       "description": "Antique and chandelier-chic, there’s no better way to experience Glasgow's Victorian glamour than with a stay at the famed voco™ Grand Central Glasgow. There’s also no better location - the hotel is attached to Glasgow Central Station, and sights like George Square, the Style Mile and the Gallery of Modern Art are only a short wander away. Head to The Restaurant for a classic Scottish breakfast or share scones and champagne at the lavish Champagne Central Lounge.",
       "location_subheading": "United Kingdom",
-      "price": 186,
-      "original_price": 186,
+      "price": 187,
+      "original_price": 187,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000BfgOEAAZ",
       "hero_image": "https://images.luxuryescapes.com/rg10q6tm5dvwuhaaiid",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-03",
-    "hotel_count": 3,
-    "average_price": 273,
+    "last_updated": "2026-03-04",
+    "hotel_count": 4,
+    "average_price": 249,
     "average_discount": 0
   }
 }

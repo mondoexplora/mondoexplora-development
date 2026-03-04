@@ -12,7 +12,7 @@
       "description": "Explore Cabo San Lucas with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 1433
+      "avg_price": 1434
     },
     {
       "name": "Los Cabos",
@@ -21,16 +21,16 @@
       "description": "Explore Los Cabos with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 1611
+      "avg_price": 1636
     },
     {
-      "name": "Cancun",
-      "slug": "cancun",
-      "image": "https://images.luxuryescapes.com/vqzbi27adn2we6xisgy",
-      "description": "Explore Cancun with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 1154
+      "name": "Mexico City",
+      "slug": "mexico-city",
+      "image": "https://images.luxuryescapes.com/x9kez45e1406vdu2sika",
+      "description": "Explore Mexico City with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 648
     },
     {
       "name": "Playa del Carmen",
@@ -39,16 +39,16 @@
       "description": "Explore Playa del Carmen with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 1407
+      "avg_price": 1413
     },
     {
-      "name": "Mexico City",
-      "slug": "mexico-city",
-      "image": "https://images.luxuryescapes.com/x9kez45e1406vdu2sika",
-      "description": "Explore Mexico City with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 783
+      "name": "Cancun",
+      "slug": "cancun",
+      "image": "https://images.luxuryescapes.com/7w51ewnqihnlpyi4kx2",
+      "description": "Explore Cancun with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 1312
     },
     {
       "name": "Nuevo Vallarta",
@@ -57,7 +57,7 @@
       "description": "Explore Nuevo Vallarta with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 758
+      "avg_price": 762
     }
   ],
   "seo": {

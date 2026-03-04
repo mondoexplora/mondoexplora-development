@@ -10,9 +10,9 @@
       "slug": "amman",
       "image": "https://images.luxuryescapes.com/g5b72ugr2vywu7wxc7g",
       "description": "Explore Amman with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 438
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 413
     },
     {
       "name": "Aqaba",
@@ -21,7 +21,16 @@
       "description": "Explore Aqaba with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 390
+      "avg_price": 391
+    },
+    {
+      "name": "Petra",
+      "slug": "petra",
+      "image": "https://images.luxuryescapes.com/pg9slt77enx0ogpr9m7s",
+      "description": "Explore Petra with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 388
     },
     {
       "name": "Swemeh",
@@ -30,7 +39,7 @@
       "description": "Explore Swemeh with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 307
+      "avg_price": 309
     },
     {
       "name": "Dead Sea",
@@ -39,7 +48,7 @@
       "description": "Explore Dead Sea with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 286
+      "avg_price": 288
     },
     {
       "name": "Sweimeh",
@@ -48,16 +57,7 @@
       "description": "Explore Sweimeh with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 377
-    },
-    {
-      "name": "Petra",
-      "slug": "petra",
-      "image": "https://images.luxuryescapes.com/pg9slt77enx0ogpr9m7s",
-      "description": "Explore Petra with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 321
+      "avg_price": 362
     }
   ],
   "seo": {

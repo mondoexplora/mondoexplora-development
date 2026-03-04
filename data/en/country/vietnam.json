@@ -3,8 +3,17 @@
   "code": "VN",
   "hero_title": "Vietnam Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Vietnam.",
-  "hero_image": "https://images.luxuryescapes.com/fqwdthuy1wk6bvnzbh",
+  "hero_image": "https://images.luxuryescapes.com/gyi5m2dyywvdyi2xtrx",
   "popular_destinations": [
+    {
+      "name": "Hanoi",
+      "slug": "hanoi",
+      "image": "https://images.luxuryescapes.com/gyi5m2dyywvdyi2xtrx",
+      "description": "Explore Hanoi with luxury accommodations",
+      "hotel_count": 13,
+      "hotel_deals": 13,
+      "avg_price": 401
+    },
     {
       "name": "Phu Quoc",
       "slug": "phu-quoc",
@@ -12,16 +21,16 @@
       "description": "Explore Phu Quoc with luxury accommodations",
       "hotel_count": 9,
       "hotel_deals": 9,
-      "avg_price": 634
+      "avg_price": 525
     },
     {
-      "name": "Hanoi",
-      "slug": "hanoi",
-      "image": "https://images.luxuryescapes.com/gyi5m2dyywvdyi2xtrx",
-      "description": "Explore Hanoi with luxury accommodations",
-      "hotel_count": 8,
-      "hotel_deals": 8,
-      "avg_price": 426
+      "name": "Da Nang",
+      "slug": "da-nang",
+      "image": "https://images.luxuryescapes.com/dbcytx308e99am4uadjj",
+      "description": "Explore Da Nang with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 597
     },
     {
       "name": "Hoi An",
@@ -30,16 +39,7 @@
       "description": "Explore Hoi An with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 432
-    },
-    {
-      "name": "Da Nang",
-      "slug": "da-nang",
-      "image": "https://images.luxuryescapes.com/dbcytx308e99am4uadjj",
-      "description": "Explore Da Nang with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 669
+      "avg_price": 437
     },
     {
       "name": "Ho Chi Minh City",
@@ -48,7 +48,7 @@
       "description": "Explore Ho Chi Minh City with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 372
+      "avg_price": 436
     },
     {
       "name": "Nha Trang",
@@ -57,7 +57,7 @@
       "description": "Explore Nha Trang with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 290
+      "avg_price": 295
     }
   ],
   "seo": {

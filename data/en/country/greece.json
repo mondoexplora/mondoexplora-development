@@ -3,16 +3,16 @@
   "code": "GR",
   "hero_title": "Greece Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Greece.",
-  "hero_image": "https://images.luxuryescapes.com/i82sh732qdiui0v4zd",
+  "hero_image": "https://images.luxuryescapes.com/nx6xti8clm9hic2vc4ef",
   "popular_destinations": [
     {
       "name": "Athens",
       "slug": "athens",
-      "image": "https://images.luxuryescapes.com/i82sh732qdiui0v4zd",
+      "image": "https://images.luxuryescapes.com/nx6xti8clm9hic2vc4ef",
       "description": "Explore Athens with luxury accommodations",
-      "hotel_count": 8,
-      "hotel_deals": 8,
-      "avg_price": 578
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 628
     },
     {
       "name": "Santorini",
@@ -21,7 +21,7 @@
       "description": "Explore Santorini with luxury accommodations",
       "hotel_count": 8,
       "hotel_deals": 8,
-      "avg_price": 1093
+      "avg_price": 1094
     },
     {
       "name": "Mykonos",
@@ -30,7 +30,7 @@
       "description": "Explore Mykonos with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 845
+      "avg_price": 863
     },
     {
       "name": "Crete",
@@ -48,7 +48,7 @@
       "description": "Explore Corfu with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 759
+      "avg_price": 737
     },
     {
       "name": "Thessaloniki",
@@ -57,7 +57,7 @@
       "description": "Explore Thessaloniki with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 364
+      "avg_price": 379
     }
   ],
   "seo": {
