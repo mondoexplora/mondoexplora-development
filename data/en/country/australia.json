@@ -3,8 +3,17 @@
   "code": "AU",
   "hero_title": "Australia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Australia.",
-  "hero_image": "https://images.luxuryescapes.com/hlmi6k6ud5fce8j8z0p",
+  "hero_image": "https://images.luxuryescapes.com/dpkfunte11jazg8whie",
   "popular_destinations": [
+    {
+      "name": "Melbourne",
+      "slug": "melbourne",
+      "image": "https://images.luxuryescapes.com/dpkfunte11jazg8whie",
+      "description": "Explore Melbourne with luxury accommodations",
+      "hotel_count": 66,
+      "hotel_deals": 66,
+      "avg_price": 352
+    },
     {
       "name": "Sydney",
       "slug": "sydney",
@@ -12,16 +21,7 @@
       "description": "Explore Sydney with luxury accommodations",
       "hotel_count": 65,
       "hotel_deals": 65,
-      "avg_price": 504
-    },
-    {
-      "name": "Melbourne",
-      "slug": "melbourne",
-      "image": "https://images.luxuryescapes.com/dpkfunte11jazg8whie",
-      "description": "Explore Melbourne with luxury accommodations",
-      "hotel_count": 65,
-      "hotel_deals": 65,
-      "avg_price": 360
+      "avg_price": 505
     },
     {
       "name": "Brisbane",
@@ -30,7 +30,7 @@
       "description": "Explore Brisbane with luxury accommodations",
       "hotel_count": 38,
       "hotel_deals": 38,
-      "avg_price": 393
+      "avg_price": 391
     },
     {
       "name": "Adelaide",
@@ -39,7 +39,7 @@
       "description": "Explore Adelaide with luxury accommodations",
       "hotel_count": 29,
       "hotel_deals": 29,
-      "avg_price": 327
+      "avg_price": 324
     },
     {
       "name": "Perth",
@@ -48,7 +48,7 @@
       "description": "Explore Perth with luxury accommodations",
       "hotel_count": 19,
       "hotel_deals": 19,
-      "avg_price": 454
+      "avg_price": 456
     },
     {
       "name": "Canberra",
@@ -57,7 +57,7 @@
       "description": "Explore Canberra with luxury accommodations",
       "hotel_count": 18,
       "hotel_deals": 18,
-      "avg_price": 456
+      "avg_price": 455
     }
   ],
   "seo": {

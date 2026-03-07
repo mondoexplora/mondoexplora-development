@@ -4,26 +4,8 @@
   "country_code": "VN",
   "hero_title": "Hotels in Hoi An",
   "description": "Discover the best hotels in Hoi An, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/dkgsrjwqkqrfcvpxmchk",
+  "hero_image": "https://images.luxuryescapes.com/mx09mo64t5oqfqzilb",
   "hotels": [
-    {
-      "vendor_name": "Bliss Hoi An Beach Resort & Wellness",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Hoi An",
-      "title": "Hoi An Beachfront Retreat with Lush Wellness Spa",
-      "description": "Bask in the luxury of Bliss Hoi An Beach Resort & Wellness, located alongside the picturesque Binh Minh beach. This hidden gem is a wellness paradise, enveloped by lush tropical gardens and direct beach access and offering high-quality spa treatments and revitalising yoga and Tai Chi classes. Savour the finest Vietnamese delicacies at the exclusive restaurant and embark on private tours to discover the hidden gems of Hoi An and its ancient surroundings.",
-      "location_subheading": "Vietnam",
-      "price": 298,
-      "original_price": 298,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FMkFHAA1",
-      "hero_image": "https://images.luxuryescapes.com/dkgsrjwqkqrfcvpxmchk",
-      "image_two": "https://images.luxuryescapes.com/y4qcimxw8ij4vqx6wzk7",
-      "image_three": "https://images.luxuryescapes.com/s0a1pu97qbmx3zaewas",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Bliss Hoi An Beach Resort & Wellness",
       "offer_country_name": "Vietnam",
@@ -43,14 +25,32 @@
       "end_date_utc": "2026-03-23 12:59:00"
     },
     {
+      "vendor_name": "Bliss Hoi An Beach Resort & Wellness",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Hoi An",
+      "title": "Hoi An Beachfront Retreat with Lush Wellness Spa",
+      "description": "Bask in the luxury of Bliss Hoi An Beach Resort & Wellness, located alongside the picturesque Binh Minh beach. This hidden gem is a wellness paradise, enveloped by lush tropical gardens and direct beach access and offering high-quality spa treatments and revitalising yoga and Tai Chi classes. Savour the finest Vietnamese delicacies at the exclusive restaurant and embark on private tours to discover the hidden gems of Hoi An and its ancient surroundings.",
+      "location_subheading": "Vietnam",
+      "price": 298,
+      "original_price": 298,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FMkFHAA1",
+      "hero_image": "https://images.luxuryescapes.com/dkgsrjwqkqrfcvpxmchk",
+      "image_two": "https://images.luxuryescapes.com/y4qcimxw8ij4vqx6wzk7",
+      "image_three": "https://images.luxuryescapes.com/s0a1pu97qbmx3zaewas",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Moire Hoi An, Vignette Collection (formerly Bay Resort Hoi An3)",
       "offer_country_name": "Vietnam",
       "location_heading": "Hoi An",
       "title": "Five-Star Hoi An Opulence on Hoai River with Restaurant, Bar & Pool with Ancient Town Views",
       "description": "Retreat to the banks of the Hoai River at this enchanting escape designed to embrace the very best of this vibrant Vietnamese town. With hints of local architecture intertwined with sleek modern features, this charming hotel is the perfect riverside abode, just minutes from the UNESCO World Heritage Site of Hoi An Ancient Town. Savour Mediterranean flavours at the onsite restaurant, sip cocktails by the pool and take a moment of rest at Breathe Spa - here, there's no reason to rush.",
       "location_subheading": "Vietnam",
-      "price": 392,
-      "original_price": 392,
+      "price": 391,
+      "original_price": 391,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GDzMDYA1",
       "hero_image": "https://images.luxuryescapes.com/e060g5aee1mjsbuoulni",
@@ -132,7 +132,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-06",
+    "last_updated": "2026-03-07",
     "hotel_count": 6,
     "average_price": 437,
     "average_discount": 20

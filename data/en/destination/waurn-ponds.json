@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Waurn Ponds",
   "description": "Discover the best hotels in Waurn Ponds, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/suv72wbp3c9srqhjhe73",
+  "hero_image": "https://images.luxuryescapes.com/gue60flexc0smpy99o9q",
   "hotels": [
+    {
+      "vendor_name": "Mt Duneed Estate",
+      "offer_country_name": "Australia",
+      "location_heading": "Waurn Ponds",
+      "title": "Victoria Surf Coast Winery Escape with Cellar Door & Restaurant",
+      "description": "Discover the beauty of Victoria's Surf Coast with a stay at Mt Duneed Estate, a boutique retreat among the vineyards. This elegant property offers a unique blend of coastal serenity and winery charm, with an onsite cellar door and restaurant. Indulge in locally sourced dishes paired with estate-grown wines at The Barrel Hall Restaurant, enjoy a drink in the sunshine at The Garden Bar or explore the nearby Great Ocean Road and its stunning beaches.",
+      "location_subheading": "Australia",
+      "price": 629,
+      "original_price": 707,
+      "discount_percentage": 11,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GvMkVAAV",
+      "hero_image": "https://images.luxuryescapes.com/gue60flexc0smpy99o9q",
+      "image_two": "https://images.luxuryescapes.com/cteitrwwofmhvu389vcj",
+      "image_three": "https://images.luxuryescapes.com/bwykwcjqsmf7l1oi1717",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-03-31 12:59:00"
+    },
     {
       "vendor_name": "Mt Duneed Estate",
       "offer_country_name": "Australia",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-05-07 13:59:00"
-    },
-    {
-      "vendor_name": "Mt Duneed Estate",
-      "offer_country_name": "Australia",
-      "location_heading": "Waurn Ponds",
-      "title": "Victoria Surf Coast Winery Escape with Cellar Door & Restaurant",
-      "description": "Discover the beauty of Victoria's Surf Coast with a stay at Mt Duneed Estate, a boutique retreat among the vineyards. This elegant property offers a unique blend of coastal serenity and winery charm, with an onsite cellar door and restaurant. Indulge in locally sourced dishes paired with estate-grown wines at The Barrel Hall Restaurant, enjoy a drink in the sunshine at The Garden Bar or explore the nearby Great Ocean Road and its stunning beaches.",
-      "location_subheading": "Australia",
-      "price": 627,
-      "original_price": 704,
-      "discount_percentage": 11,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GvMkVAAV",
-      "hero_image": "https://images.luxuryescapes.com/gue60flexc0smpy99o9q",
-      "image_two": "https://images.luxuryescapes.com/cteitrwwofmhvu389vcj",
-      "image_three": "https://images.luxuryescapes.com/bwykwcjqsmf7l1oi1717",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-03-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-06",
+    "last_updated": "2026-03-07",
     "hotel_count": 2,
-    "average_price": 448,
+    "average_price": 449,
     "average_discount": 36
   }
 }
