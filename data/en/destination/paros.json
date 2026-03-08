@@ -4,8 +4,26 @@
   "country_code": "GR",
   "hero_title": "Hotels in Paros",
   "description": "Discover the best hotels in Paros, Greece. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/zza0ksxv07iw2hv4ppwm",
+  "hero_image": "https://images.luxuryescapes.com/llmo4hpr7a9ylbbhdpe",
   "hotels": [
+    {
+      "vendor_name": "Luura Paros Cliff",
+      "offer_country_name": "Greece",
+      "location_heading": "Paros",
+      "title": "Paros Adults-Only Clifftop Glamour with Onsite Restaurants, Bar & Outdoor Pool",
+      "description": "Perched on Paros’ rugged cliffs above the Aegean, this retreat pairs Cycladic minimalism with uninterrupted sea views from a collection of boutique suites and villas. A serene pool faces the horizon, and the refined Lenea restaurant serves contemporary Mediterranean plates shaped by island produce. A spa and fitness studio offer restorative treatments and ocean-facing workouts. Golden sand beaches and the sheltered coves of Monastiri sit within easy reach. In Naoussa, dine on just-landed seafood at Barbarossa, or head to the Port of Parikia’s waterfront promenade for late-night gelato and artisan boutiques.",
+      "location_subheading": "Greece",
+      "price": 2575,
+      "original_price": 2575,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RptMHYAZ",
+      "hero_image": "https://images.luxuryescapes.com/llmo4hpr7a9ylbbhdpe",
+      "image_two": "https://images.luxuryescapes.com/gqefv5owdr9zh616d77i",
+      "image_three": "https://images.luxuryescapes.com/kfoipgkohnk1fjrfw700g",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Pilipala Suites",
       "offer_country_name": "Greece",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-07",
-    "hotel_count": 2,
-    "average_price": 709,
+    "last_updated": "2026-03-08",
+    "hotel_count": 3,
+    "average_price": 1331,
     "average_discount": 0
   }
 }

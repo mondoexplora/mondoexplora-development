@@ -12,7 +12,7 @@
       "description": "Explore Phuket with luxury accommodations",
       "hotel_count": 46,
       "hotel_deals": 46,
-      "avg_price": 860
+      "avg_price": 861
     },
     {
       "name": "Bangkok",
@@ -21,7 +21,7 @@
       "description": "Explore Bangkok with luxury accommodations",
       "hotel_count": 45,
       "hotel_deals": 45,
-      "avg_price": 520
+      "avg_price": 518
     },
     {
       "name": "Koh Samui",
@@ -30,12 +30,12 @@
       "description": "Explore Koh Samui with luxury accommodations",
       "hotel_count": 17,
       "hotel_deals": 17,
-      "avg_price": 1225
+      "avg_price": 1223
     },
     {
       "name": "Hua Hin",
       "slug": "hua-hin",
-      "image": "https://images.luxuryescapes.com/r7hsmhdk266zgb5t0gb",
+      "image": "https://images.luxuryescapes.com/pcy5y7xn3yotvn7cfeo",
       "description": "Explore Hua Hin with luxury accommodations",
       "hotel_count": 13,
       "hotel_deals": 13,
@@ -57,7 +57,7 @@
       "description": "Explore Pattaya with luxury accommodations",
       "hotel_count": 9,
       "hotel_deals": 9,
-      "avg_price": 504
+      "avg_price": 503
     }
   ],
   "seo": {
