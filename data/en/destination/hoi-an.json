@@ -4,26 +4,8 @@
   "country_code": "VN",
   "hero_title": "Hotels in Hoi An",
   "description": "Discover the best hotels in Hoi An, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/mx09mo64t5oqfqzilb",
+  "hero_image": "https://images.luxuryescapes.com/dkgsrjwqkqrfcvpxmchk",
   "hotels": [
-    {
-      "vendor_name": "Bliss Hoi An Beach Resort & Wellness",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Hoi An",
-      "title": "Hoi An All-Inclusive Beachfront Haven with Massages & Unlimited Free-Flow Drinks",
-      "description": "Find refuge at Bliss Hoi An Beach Resort & Wellness, resting on the shimmering sands of Binh Minh beach just south of vibrant Hoi An. This hidden gem is a wellness paradise, enveloped by lush tropical gardens and providing direct beach access. Spend moments lazing by the resplendent pool or engaging in a range of superb activities, including yoga sessions, tai chi classes and more. Enjoy authentic Vietnamese cuisine at Binh Minh Restaurant or head to Ngoc Linh Spa for indulgent high-quality treatments. When you're ready to explore, hop on the resort's shuttle bus for the quick trip to delightful Hoi An Ancient Town to explore its layered history and culture, strolling through old Japanese merchant buildings, Chinese temples and ancient tea houses.",
-      "location_subheading": "Vietnam",
-      "price": 819,
-      "original_price": 1638,
-      "discount_percentage": 50,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000P3fpqYAB",
-      "hero_image": "https://images.luxuryescapes.com/mx09mo64t5oqfqzilb",
-      "image_two": "https://images.luxuryescapes.com/jvh1qjfpjyzvnc5x1p5c",
-      "image_three": "https://images.luxuryescapes.com/epv1rq2fcwmu3r9kwwp",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 5,
-      "end_date_utc": "2026-03-23 12:59:00"
-    },
     {
       "vendor_name": "Bliss Hoi An Beach Resort & Wellness",
       "offer_country_name": "Vietnam",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Bliss Hoi An Beach Resort & Wellness",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Hoi An",
+      "title": "Hoi An All-Inclusive Beachfront Haven with Massages & Unlimited Free-Flow Drinks",
+      "description": "Find refuge at Bliss Hoi An Beach Resort & Wellness, resting on the shimmering sands of Binh Minh beach just south of vibrant Hoi An. This hidden gem is a wellness paradise, enveloped by lush tropical gardens and providing direct beach access. Spend moments lazing by the resplendent pool or engaging in a range of superb activities, including yoga sessions, tai chi classes and more. Enjoy authentic Vietnamese cuisine at Binh Minh Restaurant or head to Ngoc Linh Spa for indulgent high-quality treatments. When you're ready to explore, hop on the resort's shuttle bus for the quick trip to delightful Hoi An Ancient Town to explore its layered history and culture, strolling through old Japanese merchant buildings, Chinese temples and ancient tea houses.",
+      "location_subheading": "Vietnam",
+      "price": 819,
+      "original_price": 1638,
+      "discount_percentage": 50,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000P3fpqYAB",
+      "hero_image": "https://images.luxuryescapes.com/mx09mo64t5oqfqzilb",
+      "image_two": "https://images.luxuryescapes.com/jvh1qjfpjyzvnc5x1p5c",
+      "image_three": "https://images.luxuryescapes.com/epv1rq2fcwmu3r9kwwp",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-03-23 12:59:00"
     },
     {
       "vendor_name": "Moire Hoi An, Vignette Collection (formerly Bay Resort Hoi An3)",
@@ -132,7 +132,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-08",
+    "last_updated": "2026-03-09",
     "hotel_count": 6,
     "average_price": 437,
     "average_discount": 20
