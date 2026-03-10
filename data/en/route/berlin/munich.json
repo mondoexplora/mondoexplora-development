@@ -5,7 +5,7 @@
   "destination_country": "Germany",
   "transport_modes": {
     "flight": {
-      "duration": "3h 45m",
+      "duration": "1h 55m",
       "price_range": "$89 - $250",
       "providers": [
         "Skyscanner",
@@ -14,8 +14,8 @@
       ]
     },
     "train": {
-      "duration": "3h 30m",
-      "price_range": "$35 - $90",
+      "duration": "5h 20m",
+      "price_range": "$80 - $200",
       "providers": [
         "Rail Europe",
         "Eurail",
@@ -23,7 +23,7 @@
       ]
     },
     "bus": {
-      "duration": "4h 55m",
+      "duration": "4h 30m",
       "price_range": "$20 - $50",
       "providers": [
         "FlixBus",
@@ -32,9 +32,9 @@
       ]
     },
     "car": {
-      "duration": "4h 15m",
-      "distance": "310 km",
-      "price_range": "$30 - $70"
+      "duration": "5h 45m",
+      "distance": "480 km",
+      "price_range": "$45 - $110"
     }
   },
   "seo": {
