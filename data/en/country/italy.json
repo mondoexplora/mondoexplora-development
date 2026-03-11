@@ -10,9 +10,9 @@
       "slug": "rome",
       "image": "https://images.luxuryescapes.com/r960jsrp7qvo5hyu1h2",
       "description": "Explore Rome with luxury accommodations",
-      "hotel_count": 9,
-      "hotel_deals": 9,
-      "avg_price": 972
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 984
     },
     {
       "name": "Milan",
@@ -21,34 +21,25 @@
       "description": "Explore Milan with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 499
+      "avg_price": 489
     },
     {
       "name": "Florence",
       "slug": "florence",
       "image": "https://images.luxuryescapes.com/zplh7zqs3a5x21rxrjey",
       "description": "Explore Florence with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 643
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 704
     },
     {
       "name": "Venice",
       "slug": "venice",
       "image": "https://images.luxuryescapes.com/stupvis2zsh0rmvyponh",
       "description": "Explore Venice with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 445
-    },
-    {
-      "name": "Verona",
-      "slug": "verona",
-      "image": "https://images.luxuryescapes.com/vmmgu962nola5ei81hm",
-      "description": "Explore Verona with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 385
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 479
     },
     {
       "name": "Anacapri",
@@ -57,7 +48,16 @@
       "description": "Explore Anacapri with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1811
+      "avg_price": 2004
+    },
+    {
+      "name": "Naples",
+      "slug": "naples",
+      "image": "https://images.luxuryescapes.com/vs5cqigoezqcd3ygh5o",
+      "description": "Explore Naples with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 415
     }
   ],
   "seo": {

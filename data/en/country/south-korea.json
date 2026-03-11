@@ -3,16 +3,16 @@
   "code": "KR",
   "hero_title": "South Korea Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in South Korea.",
-  "hero_image": "https://images.luxuryescapes.com/binzih0j9gliw48in1xk",
+  "hero_image": "https://images.luxuryescapes.com/a9jhlcn3vcpaqy6ofonr",
   "popular_destinations": [
     {
       "name": "Seoul",
       "slug": "seoul",
-      "image": "https://images.luxuryescapes.com/binzih0j9gliw48in1xk",
+      "image": "https://images.luxuryescapes.com/a9jhlcn3vcpaqy6ofonr",
       "description": "Explore Seoul with luxury accommodations",
-      "hotel_count": 12,
-      "hotel_deals": 12,
-      "avg_price": 568
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 653
     },
     {
       "name": "Busan",
@@ -21,7 +21,7 @@
       "description": "Explore Busan with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 239
+      "avg_price": 241
     },
     {
       "name": "Pyeongchang",
@@ -30,25 +30,7 @@
       "description": "Explore Pyeongchang with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 298
-    },
-    {
-      "name": "Suwon",
-      "slug": "suwon",
-      "image": "https://images.luxuryescapes.com/qddud8bshi7oqvuimtz",
-      "description": "Explore Suwon with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 313
-    },
-    {
-      "name": "Incheon",
-      "slug": "incheon",
-      "image": "https://images.luxuryescapes.com/2k92v6vx6oo52top7gy7v",
-      "description": "Explore Incheon with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 229
+      "avg_price": 301
     },
     {
       "name": "Jeju",
@@ -57,7 +39,7 @@
       "description": "Explore Jeju with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 407
+      "avg_price": 412
     }
   ],
   "seo": {

@@ -3,25 +3,16 @@
   "code": "TR",
   "hero_title": "Turkey Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Turkey.",
-  "hero_image": "https://images.luxuryescapes.com/17vjwp1o78as570r7u6k",
+  "hero_image": "https://images.luxuryescapes.com/j11412pzn1sb08zodrq",
   "popular_destinations": [
     {
       "name": "Istanbul",
       "slug": "istanbul",
-      "image": "https://images.luxuryescapes.com/17vjwp1o78as570r7u6k",
+      "image": "https://images.luxuryescapes.com/j11412pzn1sb08zodrq",
       "description": "Explore Istanbul with luxury accommodations",
-      "hotel_count": 13,
-      "hotel_deals": 13,
-      "avg_price": 624
-    },
-    {
-      "name": "Bursa",
-      "slug": "bursa",
-      "image": "https://images.luxuryescapes.com/rasqz9rtpdfbomjd9gwk",
-      "description": "Explore Bursa with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 251
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 620
     },
     {
       "name": "Bodrum",
@@ -33,24 +24,6 @@
       "avg_price": 1468
     },
     {
-      "name": "Ankara",
-      "slug": "ankara",
-      "image": "https://images.luxuryescapes.com/dec898behrdewoq1ft8b",
-      "description": "Explore Ankara with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 285
-    },
-    {
-      "name": "Antalya",
-      "slug": "antalya",
-      "image": "https://images.luxuryescapes.com/ebm4lc0z06rf8xo5w8ve",
-      "description": "Explore Antalya with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 224
-    },
-    {
       "name": "Belek",
       "slug": "belek",
       "image": "https://images.luxuryescapes.com/oqj7ylkpyf6a24bf7iwd",
@@ -58,6 +31,33 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 1224
+    },
+    {
+      "name": "Buyukada",
+      "slug": "buyukada",
+      "image": "https://images.luxuryescapes.com/r2i2jmyjh55tgs92owm",
+      "description": "Explore Buyukada with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1562
+    },
+    {
+      "name": "Milas",
+      "slug": "milas",
+      "image": "https://images.luxuryescapes.com/4mw7tkss4s2wxmkr5h4",
+      "description": "Explore Milas with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 891
+    },
+    {
+      "name": "Cappadocia",
+      "slug": "cappadocia",
+      "image": "https://images.luxuryescapes.com/bjq5b8z0e1o1zk7jw9",
+      "description": "Explore Cappadocia with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1071
     }
   ],
   "seo": {

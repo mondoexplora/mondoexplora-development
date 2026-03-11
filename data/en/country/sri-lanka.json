@@ -12,7 +12,7 @@
       "description": "Explore Hambantota with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 510
+      "avg_price": 512
     },
     {
       "name": "Kalutara",
@@ -21,7 +21,7 @@
       "description": "Explore Kalutara with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 644
+      "avg_price": 649
     },
     {
       "name": "Colombo",
@@ -30,7 +30,7 @@
       "description": "Explore Colombo with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 421
+      "avg_price": 423
     },
     {
       "name": "Kandy",
@@ -39,7 +39,16 @@
       "description": "Explore Kandy with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 981
+      "avg_price": 989
+    },
+    {
+      "name": "Kalkudah",
+      "slug": "kalkudah",
+      "image": "https://images.luxuryescapes.com/5nvf2c35d82zr1kywb9",
+      "description": "Explore Kalkudah with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 509
     },
     {
       "name": "Ahungalla",
@@ -48,16 +57,7 @@
       "description": "Explore Ahungalla with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 993
-    },
-    {
-      "name": "Tangalle",
-      "slug": "tangalle",
-      "image": "https://images.luxuryescapes.com/1da71c5wnsx97ne6qpvq",
-      "description": "Explore Tangalle with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 996
+      "avg_price": 1001
     }
   ],
   "seo": {

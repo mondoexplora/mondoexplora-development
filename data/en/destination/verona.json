@@ -23,24 +23,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 01:59:00"
-    },
-    {
-      "vendor_name": "Hotel Indigo Verona - Grand Hotel Des Arts",
-      "offer_country_name": "Italy",
-      "location_heading": "Verona",
-      "title": "Italy Heritage Oasis in the Heart of Verona Minutes from Juliet's Balcony",
-      "description": "Step into a world of romance and Shakespearean wonders with a stay at Hotel Indigo Verona - Grand Hotel Des Arts, an IHG Hotel, a gorgeous property first built in the 1920s. Spend your days exploring the home of Romeo and Juliet, dining along the bustling Piazza delle Erbe, admiring the stunning architecture of the Verona Arena and, of course, marveling at the gorgeous stone balcony of Juliet's House. Then, return to this splendid oasis and enjoy an elaborate cocktail at Arya Bar & Mixology.",
-      "location_subheading": "Italy",
-      "price": 516,
-      "original_price": 516,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CuiRxAAJ",
-      "hero_image": "https://images.luxuryescapes.com/bh6m6d2g2vlctz5sxp8",
-      "image_two": "https://images.luxuryescapes.com/rqkg8wwhfcz1pa9ua6v5",
-      "image_three": "https://images.luxuryescapes.com/lou5niyndvrgq6dami5k",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 01:59:00"
     }
   ],
   "seo": {
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-10",
-    "hotel_count": 2,
-    "average_price": 385,
+    "last_updated": "2026-03-11",
+    "hotel_count": 1,
+    "average_price": 253,
     "average_discount": 0
   }
 }

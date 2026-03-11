@@ -10,45 +10,45 @@
       "slug": "new-york",
       "image": "https://images.luxuryescapes.com/4elm1zhlrmb0e26g6vw5",
       "description": "Explore New York with luxury accommodations",
-      "hotel_count": 29,
-      "hotel_deals": 29,
-      "avg_price": 1092
-    },
-    {
-      "name": "California",
-      "slug": "california",
-      "image": "https://images.luxuryescapes.com/y1xmg8jbi3r8xp975qhc",
-      "description": "Explore California with luxury accommodations",
-      "hotel_count": 14,
-      "hotel_deals": 14,
-      "avg_price": 1251
+      "hotel_count": 24,
+      "hotel_deals": 24,
+      "avg_price": 1080
     },
     {
       "name": "San Francisco",
       "slug": "san-francisco",
       "image": "https://images.luxuryescapes.com/m2svymv8ky5i0gdbe9",
       "description": "Explore San Francisco with luxury accommodations",
-      "hotel_count": 14,
-      "hotel_deals": 14,
-      "avg_price": 552
+      "hotel_count": 11,
+      "hotel_deals": 11,
+      "avg_price": 546
+    },
+    {
+      "name": "California",
+      "slug": "california",
+      "image": "https://images.luxuryescapes.com/y1xmg8jbi3r8xp975qhc",
+      "description": "Explore California with luxury accommodations",
+      "hotel_count": 10,
+      "hotel_deals": 10,
+      "avg_price": 1345
     },
     {
       "name": "Los Angeles",
       "slug": "los-angeles",
       "image": "https://images.luxuryescapes.com/2gz9hcpe3z0kaefsk6r4",
       "description": "Explore Los Angeles with luxury accommodations",
-      "hotel_count": 11,
-      "hotel_deals": 11,
-      "avg_price": 681
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 602
     },
     {
       "name": "Chicago",
       "slug": "chicago",
       "image": "https://images.luxuryescapes.com/dhgtjm158ttec5fzgy88",
       "description": "Explore Chicago with luxury accommodations",
-      "hotel_count": 10,
-      "hotel_deals": 10,
-      "avg_price": 510
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 506
     },
     {
       "name": "Florida",
@@ -57,7 +57,7 @@
       "description": "Explore Florida with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 922
+      "avg_price": 931
     }
   ],
   "seo": {

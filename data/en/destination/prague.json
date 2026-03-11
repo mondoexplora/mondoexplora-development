@@ -28,6 +28,24 @@
       "vendor_name": "BoHo Hotel Prague",
       "offer_country_name": "Czech Republic",
       "location_heading": "Prague",
+      "title": "Top-Rated Boutique Prague Escape moments from the Old Town",
+      "description": "Discover the unique fairytale charm of Prague at the boutique BoHo Prague Hotel, rated among the top 10% of hotels on Tripadvisor. Located just steps from the Old Town Square, this luxury hotel places you within easy reach of top attractions including Prague Castle, Charles Bridge, St. Vitus Cathedral and Wenceslas Square. Fuel your sightseeing with the delicious local chimney cake, a hearty plate of dumplings or a refreshing beer from any of the nearby restaurants and cafés. Once you’ve had your fill of the ‘Golden City’, return to your boutique retreat, offering gastronomic excellence at the onsite restaurant and a wellness area with gym, sauna and spa bath. Each room offers a superior level of modern comfort with stylish grey, cream and pastel interiors, LCD TV and high-speed Wi-Fi.",
+      "location_subheading": "Czech Republic",
+      "price": 270,
+      "original_price": 321,
+      "discount_percentage": 16,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GMP9AAO",
+      "hero_image": "https://images.luxuryescapes.com/xfi3xmd1gs1erztx4t3",
+      "image_two": "https://images.luxuryescapes.com/8k1dx14mtmxuruxakc3x",
+      "image_three": "https://images.luxuryescapes.com/5tq068d3qhoncws2i29d",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "BoHo Hotel Prague",
+      "offer_country_name": "Czech Republic",
+      "location_heading": "Prague",
       "title": "Sophisticated Prague Old Town Escape with Daily Breakfast & Nightly Wine Tasting",
       "description": "Stay in the heart of Prague at this chic retreat in the historic Old Town. Positioned near legendary landmarks including the Astronomical Clock and Charles Bridge, this hotel's location offers unparalleled access to the city’s rich history, vibrant culture and bustling nightlife. Each morning, savour a sumptuous breakfast at the stylish onsite restaurant before exploring the city's cobbled lanes, lined with charming boutiques and eateries. After a day of sightseeing on a guided city tour included in your stay, retreat to the hotel's library for a quiet read, then familiarise yourself with local drops during a nightly wine tasting at the sophisticated bar. Unwind in exclusive rooms, blending modern comfort with classic charm, and rejuvenate freely in the luxurious spa facilities, with complimentary access to the sauna, turkish bath and heated sun loungers.",
       "location_subheading": "Czech Republic",
@@ -41,24 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-03-26 12:59:00"
-    },
-    {
-      "vendor_name": "BoHo Hotel Prague",
-      "offer_country_name": "Czech Republic",
-      "location_heading": "Prague",
-      "title": "Top-Rated Boutique Prague Escape moments from the Old Town",
-      "description": "Discover the unique fairytale charm of Prague at the boutique BoHo Prague Hotel, rated among the top 10% of hotels on Tripadvisor. Located just steps from the Old Town Square, this luxury hotel places you within easy reach of top attractions including Prague Castle, Charles Bridge, St. Vitus Cathedral and Wenceslas Square. Fuel your sightseeing with the delicious local chimney cake, a hearty plate of dumplings or a refreshing beer from any of the nearby restaurants and cafés. Once you’ve had your fill of the ‘Golden City’, return to your boutique retreat, offering gastronomic excellence at the onsite restaurant and a wellness area with gym, sauna and spa bath. Each room offers a superior level of modern comfort with stylish grey, cream and pastel interiors, LCD TV and high-speed Wi-Fi.",
-      "location_subheading": "Czech Republic",
-      "price": 223,
-      "original_price": 240,
-      "discount_percentage": 7,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GMP9AAO",
-      "hero_image": "https://images.luxuryescapes.com/xfi3xmd1gs1erztx4t3",
-      "image_two": "https://images.luxuryescapes.com/8k1dx14mtmxuruxakc3x",
-      "image_three": "https://images.luxuryescapes.com/5tq068d3qhoncws2i29d",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Mandarin Oriental Prague",
@@ -96,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-10",
+    "last_updated": "2026-03-11",
     "hotel_count": 4,
-    "average_price": 401,
-    "average_discount": 20
+    "average_price": 413,
+    "average_discount": 22
   }
 }
