@@ -25,24 +25,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Crowne Plaza Milan City",
-      "offer_country_name": "Italy",
-      "location_heading": "Milan",
-      "title": "Sophisticated Fashion Capital Escape in the Heart of Milan",
-      "description": "Find yourself in the heart of the fashion capital with an escape to the sophisticated Crowne Plaza Milan City, an IHG Hotel. Positioned in the heart of this thriving Italian metropolis, you'll have food, fashion and culture at your fingertips. Positioned just steps from Milano Centrale Railway Station, use this hotel as your launchpad for discovering the cobblestone streets, Michelin Star restaurants and art that encapsulates this city's beauty.",
-      "location_subheading": "Italy",
-      "price": 393,
-      "original_price": 393,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJaGAAX",
-      "hero_image": "https://images.luxuryescapes.com/hlk9vgrjwnil2wlem83a",
-      "image_two": "https://images.luxuryescapes.com/bgdxjw3sjks8gzn9xcr4",
-      "image_three": "https://images.luxuryescapes.com/dc0mzd3g7e3adw4l41fv",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Crowne Plaza Milan Linate",
       "offer_country_name": "Italy",
       "location_heading": "Milan",
@@ -59,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Hotel Indigo Milan - Corso Monforte",
-      "offer_country_name": "Italy",
-      "location_heading": "Milan",
-      "title": "Elegant Escape in the Heart of Milan",
-      "description": "Experience world-class luxury from Italy’s ultimate fashion runway, with a stay in the boutique Hotel Indigo Milan - Corso Monforte, an IHG Hotel. Set in a prestigious 19th-century building, this hotel is a historic masterpiece in architectural and interior design. Lose yourself in the beauty of the city as you live out the perfect European fantasy, wandering ancient cobblestone streets, indulging in luxurious high-end shopping, and gazing upon magnificent historic monuments.",
-      "location_subheading": "Italy",
-      "price": 905,
-      "original_price": 905,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CuiRfAAJ",
-      "hero_image": "https://images.luxuryescapes.com/c0y00fn5ldwjenvsp7cd",
-      "image_two": "https://images.luxuryescapes.com/hk1wn4c4t4gflx3azs8",
-      "image_three": "https://images.luxuryescapes.com/e429eg81y92iy5jaif",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 01:59:00"
     },
     {
       "vendor_name": "voco Milan Fiere",
@@ -114,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-11",
-    "hotel_count": 5,
-    "average_price": 489,
-    "average_discount": 2
+    "last_updated": "2026-03-12",
+    "hotel_count": 3,
+    "average_price": 382,
+    "average_discount": 3
   }
 }

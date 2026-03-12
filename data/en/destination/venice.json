@@ -25,6 +25,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Hotel Indigo Venice - Sant'Elena",
+      "offer_country_name": "Italy",
+      "location_heading": "Venice",
+      "title": "Venice Indulgence with Tranquil Inner Garden & Onsite Venetian Restaurant",
+      "description": "Get lost in the labyrinth of Venice's twisting alleyways and gondola-filled canals before retreating to Hotel Indigo Venice - Sant'Elena, an IHG Hotel for a moment of luxury between explorations. This converted 1930s monastery is now a tranquil escape with a serene inner garden area (perfect to enjoy a negroni or bellini), while the Savor Restaurant and Bar celebrates Venetian cuisine by serving an exquisite menu of seafood and handmade pasta, alongside an extensive list of curated fine wines.",
+      "location_subheading": "Italy",
+      "price": 341,
+      "original_price": 341,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CuiRvAAJ",
+      "hero_image": "https://images.luxuryescapes.com/hgcfn0kmj8xeohnknngn",
+      "image_two": "https://images.luxuryescapes.com/l50q3f2slocpxe9zfw2n",
+      "image_three": "https://images.luxuryescapes.com/q50xoyiz1i1wo36wf1",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
+    {
       "vendor_name": "Il Palazzo Experimental Venice",
       "offer_country_name": "Italy",
       "location_heading": "Venice",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-11",
-    "hotel_count": 3,
-    "average_price": 479,
-    "average_discount": 7
+    "last_updated": "2026-03-12",
+    "hotel_count": 4,
+    "average_price": 445,
+    "average_discount": 5
   }
 }

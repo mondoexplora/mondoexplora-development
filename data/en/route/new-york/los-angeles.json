@@ -5,8 +5,8 @@
   "destination_country": "United States",
   "transport_modes": {
     "flight": {
-      "duration": "2h 30m",
-      "price_range": "$95 - $220",
+      "duration": "1h 55m",
+      "price_range": "$89 - $250",
       "providers": [
         "Skyscanner",
         "Kayak",
@@ -15,7 +15,7 @@
     },
     "train": {
       "duration": "3h 30m",
-      "price_range": "$35 - $90",
+      "price_range": "$60 - $150",
       "providers": [
         "Rail Europe",
         "Eurail",
@@ -23,7 +23,7 @@
       ]
     },
     "bus": {
-      "duration": "4h 55m",
+      "duration": "4h 30m",
       "price_range": "$35 - $80",
       "providers": [
         "FlixBus",
@@ -32,8 +32,8 @@
       ]
     },
     "car": {
-      "duration": "4h 15m",
-      "distance": "420 km",
+      "duration": "3h 55m",
+      "distance": "280 km",
       "price_range": "$45 - $110"
     }
   },

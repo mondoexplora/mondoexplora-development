@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Southbank",
   "description": "Discover the best hotels in Southbank, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ei8tgpvboisz0az6ek54",
+  "hero_image": "https://images.luxuryescapes.com/wxlm9y77xr1t92iaztpj",
   "hotels": [
+    {
+      "vendor_name": "Mantra Southbank, Melbourne",
+      "offer_country_name": "Australia",
+      "location_heading": "Southbank",
+      "title": "Melbourne Self-Contained Apartments in Southbank with Indoor Heated Pool & Onsite Restaurant",
+      "description": "Experience Melbourne's vibrant arts scene from this stylish hotel, perfectly positioned in Southbank's cultural heart. Just a short stroll from the renowned National Gallery of Victoria, the Arts Centre Melbourne and the Royal Botanic Gardens, this hotel is your gateway to the city's best. After a day of exploring, return to the comfort of your spacious self-contained apartment or enjoy a leisurely swim in the indoor heated pool. Savour local flavours at the Mezzi Bar and Kitchen restaurant, or explore the city's famed culinary scene - from bustling coffee shops to Michelin-starred icons - with Southbank's renowned eateries just moments away.",
+      "location_subheading": "Australia",
+      "price": 293,
+      "original_price": 293,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JResZAAT",
+      "hero_image": "https://images.luxuryescapes.com/wxlm9y77xr1t92iaztpj",
+      "image_two": "https://images.luxuryescapes.com/2immto88jsruca49cae",
+      "image_three": "https://images.luxuryescapes.com/hgl3gcmqn6tssp7v875",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Mercure Melbourne Southbank",
       "offer_country_name": "Australia",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-11",
-    "hotel_count": 1,
-    "average_price": 263,
+    "last_updated": "2026-03-12",
+    "hotel_count": 2,
+    "average_price": 278,
     "average_discount": 0
   }
 }

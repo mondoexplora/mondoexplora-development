@@ -3,8 +3,17 @@
   "code": "PH",
   "hero_title": "Philippines Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Philippines.",
-  "hero_image": "https://images.luxuryescapes.com/gj4o01hubz6pn19ozmo",
+  "hero_image": "https://images.luxuryescapes.com/fzjeq2o6fvlnxb87az9n",
   "popular_destinations": [
+    {
+      "name": "Manila",
+      "slug": "manila",
+      "image": "https://images.luxuryescapes.com/fzjeq2o6fvlnxb87az9n",
+      "description": "Explore Manila with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 403
+    },
     {
       "name": "Boracay",
       "slug": "boracay",
@@ -12,7 +21,7 @@
       "description": "Explore Boracay with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 1154
+      "avg_price": 1145
     },
     {
       "name": "Panglao",
@@ -21,7 +30,7 @@
       "description": "Explore Panglao with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 641
+      "avg_price": 633
     },
     {
       "name": "Mactan",
@@ -30,7 +39,7 @@
       "description": "Explore Mactan with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 649
+      "avg_price": 642
     },
     {
       "name": "Mactan Island",
@@ -39,7 +48,7 @@
       "description": "Explore Mactan Island with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 391
+      "avg_price": 387
     },
     {
       "name": "Cebu",
@@ -48,16 +57,7 @@
       "description": "Explore Cebu with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 590
-    },
-    {
-      "name": "El Nido",
-      "slug": "el-nido",
-      "image": "https://images.luxuryescapes.com/urvra0h68exxohzvsec",
-      "description": "Explore El Nido with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 1450
+      "avg_price": 583
     }
   ],
   "seo": {

@@ -4,8 +4,26 @@
   "country_code": "GB",
   "hero_title": "Hotels in Oxford",
   "description": "Discover the best hotels in Oxford, United Kingdom. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/opgn45i674xkc0qhq4fs",
+  "hero_image": "https://images.luxuryescapes.com/nzpax2veygkpcd4nueql",
   "hotels": [
+    {
+      "vendor_name": "voco Oxford Spires",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Oxford",
+      "title": "Idyllic Oxford Escape by River Thames Just 15 Minutes from City Centre",
+      "description": "Discover a world of storied laneways, literary legends and dreaming spires at voco™ Oxford Spires, surrounded by hills of rolling green and the gentle waters of the Thames. Just a short wander to the city's vibrant centre, experience Oxford's endless charm, or spend your days relaxing in style - lazing onsite by The Willow Club’s magnificent indoor pool or indulging at Deacons Restaurant with espresso crème caramel and an expansive wine list.",
+      "location_subheading": "United Kingdom",
+      "price": 262,
+      "original_price": 262,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000BfgPHAAZ",
+      "hero_image": "https://images.luxuryescapes.com/nzpax2veygkpcd4nueql",
+      "image_two": "https://images.luxuryescapes.com/oii0wrtwsmf9p8sneh1f",
+      "image_three": "https://images.luxuryescapes.com/vkixtz5jps8xemxla68v",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "voco Oxford Thames",
       "offer_country_name": "United Kingdom",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-11",
-    "hotel_count": 1,
-    "average_price": 278,
+    "last_updated": "2026-03-12",
+    "hotel_count": 2,
+    "average_price": 270,
     "average_discount": 0
   }
 }

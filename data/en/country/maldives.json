@@ -10,9 +10,9 @@
       "slug": "baa-atoll",
       "image": "https://images.luxuryescapes.com/a9pm77fw58c7keyadhl",
       "description": "Explore Baa Atoll with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 4235
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 4597
     },
     {
       "name": "South Atoll",
@@ -21,16 +21,7 @@
       "description": "Explore South Atoll with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 2024
-    },
-    {
-      "name": "South Male Atoll",
-      "slug": "south-male-atoll",
-      "image": "https://images.luxuryescapes.com/32ymw93r5pd7zpzq3azm",
-      "description": "Explore South Male Atoll with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 2503
+      "avg_price": 1965
     },
     {
       "name": "North Malé Atoll",
@@ -39,16 +30,16 @@
       "description": "Explore North Malé Atoll with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 3713
+      "avg_price": 3302
     },
     {
-      "name": "Malé",
-      "slug": "malé",
-      "image": "https://images.luxuryescapes.com/vtsqs3xgdr2x0m746c5",
-      "description": "Explore Malé with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 889
+      "name": "South Male Atoll",
+      "slug": "south-male-atoll",
+      "image": "https://images.luxuryescapes.com/32ymw93r5pd7zpzq3azm",
+      "description": "Explore South Male Atoll with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 3075
     },
     {
       "name": "South Nilandhe Atoll",
@@ -57,7 +48,16 @@
       "description": "Explore South Nilandhe Atoll with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1256
+      "avg_price": 1245
+    },
+    {
+      "name": "South Malé Atoll",
+      "slug": "south-malé-atoll",
+      "image": "https://images.luxuryescapes.com/wqelzrmsyd8yq4h7wnw",
+      "description": "Explore South Malé Atoll with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 2669
     }
   ],
   "seo": {

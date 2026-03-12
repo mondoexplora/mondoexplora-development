@@ -10,9 +10,9 @@
       "slug": "marrakech",
       "image": "https://images.luxuryescapes.com/qaq9ke22tmroeyt6ru",
       "description": "Explore Marrakech with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 1943
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 2169
     },
     {
       "name": "El Jadida",
@@ -21,7 +21,7 @@
       "description": "Explore El Jadida with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 673
+      "avg_price": 658
     },
     {
       "name": "Fez",
@@ -30,7 +30,7 @@
       "description": "Explore Fez with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 701
+      "avg_price": 686
     },
     {
       "name": "Rabat",
@@ -39,7 +39,7 @@
       "description": "Explore Rabat with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 668
+      "avg_price": 653
     },
     {
       "name": "Taghazout",
@@ -57,7 +57,7 @@
       "description": "Explore Agadir with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 617
+      "avg_price": 603
     }
   ],
   "seo": {
