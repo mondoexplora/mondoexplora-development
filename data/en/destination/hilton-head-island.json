@@ -4,26 +4,8 @@
   "country_code": "US",
   "hero_title": "Hotels in Hilton Head Island",
   "description": "Discover the best hotels in Hilton Head Island, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ohhbg5y4db619xecuiv7",
+  "hero_image": "https://images.luxuryescapes.com/vo8pck5dx9xig24hddzl",
   "hotels": [
-    {
-      "vendor_name": "Omni Hilton Head Oceanfront Resort",
-      "offer_country_name": "United States",
-      "location_heading": "Hilton Head Island",
-      "title": "Idyllic Hilton Head Island Elegance with Three Championship Golf Courses, Five Restaurants & Spa",
-      "description": "Escape to a coastal retreat set on the sugar-white sands of South Carolina's Hilton Head Island. The resort boasts three championship golf courses and three refreshing swimming pools. Savour gourmet cuisine at HH Prime, sip on a refreshing cocktail at the poolside Buoy Bar, or indulge in a soothing treatment at the Ocean Tides Spa. Or explore the island's charming boutiques, world-class golf courses, and the historic Harbour Town Lighthouse, all within easy reach.",
-      "location_subheading": "United States",
-      "price": 730,
-      "original_price": 730,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HiIAIA0",
-      "hero_image": "https://images.luxuryescapes.com/ohhbg5y4db619xecuiv7",
-      "image_two": "https://images.luxuryescapes.com/xqp8fpsyhq029mujom8",
-      "image_three": "https://images.luxuryescapes.com/swvl4wklp09jk85ajqa",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Sonesta Resort Hilton Head Island",
       "offer_country_name": "United States",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-12",
-    "hotel_count": 2,
-    "average_price": 549,
-    "average_discount": 2
+    "last_updated": "2026-03-13",
+    "hotel_count": 1,
+    "average_price": 367,
+    "average_discount": 4
   }
 }

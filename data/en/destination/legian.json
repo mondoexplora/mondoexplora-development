@@ -13,32 +13,14 @@
       "title": "Serene Legian Beachside Hideaway near Double Six Beach with Outdoor Pool & Spa",
       "description": "Escape to the serene beauty of Bali's Legian area, just moments from the lively and iconic Double Six Beach, offering the perfect blend of relaxation and adventure. Spend your days lounging beneath lush tropical trees, swimming in the dazzling pool or strolling down to the beach to watch the stunning sunset over Bali's most renowned coastline. Savour a romantic poolside dining experience or explore authentic Balinese cuisine by visiting nearby vibrant markets and eateries in Seminyak. For pure rejuvination, visit Hideaway Spa, where tranquil treatments like couples massages and soothing jacuzzis await.",
       "location_subheading": "Indonesia",
-      "price": 1274,
-      "original_price": 1274,
+      "price": 1276,
+      "original_price": 1276,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GXKefYAH",
       "hero_image": "https://images.luxuryescapes.com/i5uwsfxel5o8ksmbzsjg",
       "image_two": "https://images.luxuryescapes.com/o2lo5q8h7lrtdumoas3",
       "image_three": "https://images.luxuryescapes.com/640ylltfnpemahm3jwi",
       "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Mercure Bali Legian",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Legian",
-      "title": "Blissful Bali Stay near Legian Beach with Infinity Pool",
-      "description": "Experience Balinese bliss at the centrally located Mercure Bali Legian. Just minutes away on foot from dazzling Legian Beach and Kuta Beach, this well-appointed sanctuary places you close to the market action and beach paradise at the heart of Bali’s popular Legian area. After long days soaking up the waterside vibes, return to your elegantly designed lodgings for a dip in the sparkling infinity pool, embrace international cuisine at Ancak Restaurant & Lounge, then toast to incredible Indonesia with a drink at the chic Poole Bar & Lounge. For ultimate relaxation, visit the onsite spa and wellness centre for rejuvenating treatments and holistic therapies in a serene atmosphere, perfect for enhancing your luxurious getaway.",
-      "location_subheading": "Indonesia",
-      "price": 144,
-      "original_price": 144,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002J2xkIAC",
-      "hero_image": "https://images.luxuryescapes.com/s4lxs07tjpf782x0htpt",
-      "image_two": "https://images.luxuryescapes.com/33f6lau6qih8fjw2lpvt",
-      "image_three": "https://images.luxuryescapes.com/7mlcko7hck5ncwsd7qv8",
-      "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     },
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Stones Hotel-Legian",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Legian",
+      "title": "Award-Winning Bali Beachside Oasis with Daily Breakfast, Lunch or Dinner & Daily Cocktails",
+      "description": "Nestled along Bali's coast just steps from Legian Beach, The Stones Hotel - Legian, Bali puts you squarely in the middle of everything the island does best: beach buzz, rolling surf and brilliant sunsets. One of the area's most recognisable beachside resorts, this lavish hideaway blends together a laid-back coastal energy with contemporary design and a vibrant atmosphere. The palm-fringed pool is the centrepiece, lined with cabanas, a sundeck, a pool bar that does happy hour properly. Stones Kitchen handles everything from Indonesian classics to international favourites, while seafood-on-the-beach restaurant Big Fish Grill completes a dining lineup that punches well above resort standard. For some much needed downtime, Celestine Spa is built for next-level indulgence, a 24-hour gym helps keep your routine fresh, while Jasper Kids' Club is on hand to occupy little travellers. This is true beachfront relaxation, perfect for families, couples and anyone who wants to experience Bali at its very best.",
+      "location_subheading": "Indonesia",
+      "price": 719,
+      "original_price": 1410,
+      "discount_percentage": 49,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SfwazYAB",
+      "hero_image": "https://images.luxuryescapes.com/rrbk57b8124pjxtcbh8h",
+      "image_two": "https://images.luxuryescapes.com/hrzvr7crpr2rosh5r6i",
+      "image_three": "https://images.luxuryescapes.com/vjgmwf9xtofcx2buw7y",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 7,
+      "end_date_utc": "2026-04-10 13:59:00"
     },
     {
       "vendor_name": "ibis Styles Bali Legian",
@@ -96,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-12",
+    "last_updated": "2026-03-13",
     "hotel_count": 4,
-    "average_price": 440,
-    "average_discount": 0
+    "average_price": 584,
+    "average_discount": 12
   }
 }

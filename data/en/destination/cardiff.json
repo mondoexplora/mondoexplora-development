@@ -4,26 +4,8 @@
   "country_code": "GB",
   "hero_title": "Hotels in Cardiff",
   "description": "Discover the best hotels in Cardiff, United Kingdom. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/or256y5myujgjyn686qk",
+  "hero_image": "https://images.luxuryescapes.com/phq5zas4r9cyqo2gjk2",
   "hotels": [
-    {
-      "vendor_name": "Hotel Indigo Cardiff",
-      "offer_country_name": "United Kingdom",
-      "location_heading": "Cardiff",
-      "title": "Cosmopolitan Cardiff Escape with Rooftop Steakhouse & Terrace",
-      "description": "Immerse yourself in Wales' buzzing capital when you stay at Hotel Indigo Cardiff, an IHG Hotel, a sophisticated designer escape just a five-minute walk to Cardiff Castle. Spend days exploring the city: catch a rugby match with the locals at Cardiff Arms Park, listen to local music at the Motorpoint Arena, or peruse tasty treats at Cardiff Market. For dinner, head to the hotel's rooftop for cocktails and succulent steaks at Marco Pierre White Steakhouse & Bar, the ideal way to cap off your day.",
-      "location_subheading": "United Kingdom",
-      "price": 180,
-      "original_price": 180,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CuiREAAZ",
-      "hero_image": "https://images.luxuryescapes.com/or256y5myujgjyn686qk",
-      "image_two": "https://images.luxuryescapes.com/pwpuqqms52soqszw2jk",
-      "image_three": "https://images.luxuryescapes.com/w66lce5aif9l4uw2ep8m",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 01:59:00"
-    },
     {
       "vendor_name": "voco St. David's Cardiff",
       "offer_country_name": "United Kingdom",
@@ -31,8 +13,8 @@
       "title": "Cardiff Five-Star Waterfront Retreat with Luxury Award-Winning Spa",
       "description": "Marvel at the eclectic building design of the five-star voco™ St. David's Cardiff, an IHG Hotel, and take in exceptional views over the tranquil Cardiff Bay. World-class international cuisine meets Welsh heritage at the hotel's chic restaurant and bar, and award-winning spa treatments await at The Spa at St David's, along with relaxing hydro and swimming pools. Venture out of the hotel to stroll around the nearby docks or explore the attractions of vibrant Cardiff.",
       "location_subheading": "United Kingdom",
-      "price": 243,
-      "original_price": 243,
+      "price": 245,
+      "original_price": 245,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Aa99DAAR",
       "hero_image": "https://images.luxuryescapes.com/phq5zas4r9cyqo2gjk2",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-12",
-    "hotel_count": 2,
-    "average_price": 212,
+    "last_updated": "2026-03-13",
+    "hotel_count": 1,
+    "average_price": 245,
     "average_discount": 0
   }
 }

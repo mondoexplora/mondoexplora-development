@@ -3,16 +3,16 @@
   "code": "PT",
   "hero_title": "Portugal Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Portugal.",
-  "hero_image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
+  "hero_image": "https://images.luxuryescapes.com/5yckyvfavi9x20wjcmm",
   "popular_destinations": [
     {
       "name": "Lisbon",
       "slug": "lisbon",
-      "image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
+      "image": "https://images.luxuryescapes.com/5yckyvfavi9x20wjcmm",
       "description": "Explore Lisbon with luxury accommodations",
-      "hotel_count": 8,
-      "hotel_deals": 8,
-      "avg_price": 511
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 550
     },
     {
       "name": "Porto",
@@ -21,7 +21,7 @@
       "description": "Explore Porto with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 435
+      "avg_price": 419
     },
     {
       "name": "Alentejo",
@@ -39,16 +39,7 @@
       "description": "Explore Madeira with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 852
-    },
-    {
-      "name": "Vilamoura",
-      "slug": "vilamoura",
-      "image": "https://images.luxuryescapes.com/3olk929t5lqxpo0n688",
-      "description": "Explore Vilamoura with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 345
+      "avg_price": 868
     },
     {
       "name": "Ericeira",
@@ -57,7 +48,16 @@
       "description": "Explore Ericeira with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 659
+      "avg_price": 658
+    },
+    {
+      "name": "Estoril",
+      "slug": "estoril",
+      "image": "https://images.luxuryescapes.com/4qavxyezwfdxbmqd858r",
+      "description": "Explore Estoril with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 339
     }
   ],
   "seo": {

@@ -4,26 +4,8 @@
   "country_code": "US",
   "hero_title": "Hotels in Washington DC",
   "description": "Discover the best hotels in Washington DC, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/zxb471hhklyhf6grckgd",
+  "hero_image": "https://images.luxuryescapes.com/3abdpaiqgk8yvtrysj5u4",
   "hotels": [
-    {
-      "vendor_name": "Kimpton George Hotel",
-      "offer_country_name": "United States",
-      "location_heading": "Washington DC",
-      "title": "Washington DC Stay Near Iconic Landmarks with Onsite Bistro",
-      "description": "Immerse yourself in America's esteemed history with a stay at Kimpton George Hotel, an IHG Hotel, located in the renowned Capitol Hill district. Learn more about the political heritage of Washington DC in the heart of downtown with access to iconic landmarks like the Capitol Building, Washington Monument and the Lincoln Memorial. After a day of exploration, fuel up at the onsite Bistro Bis or stretch your muscles in the fitness centre before turning into your heritage-themed room.",
-      "location_subheading": "United States",
-      "price": 546,
-      "original_price": 546,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKEfAAN",
-      "hero_image": "https://images.luxuryescapes.com/zxb471hhklyhf6grckgd",
-      "image_two": "https://images.luxuryescapes.com/mdmkh8sdeyv58acpho5",
-      "image_three": "https://images.luxuryescapes.com/e1qx2hk1pg8b6vj0rrh",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Kimpton Hotel Monaco Washington DC",
       "offer_country_name": "United States",
@@ -31,8 +13,8 @@
       "title": "Glamorous Washington DC Stay Near Iconic Landmarks With Onsite Restaurant & Bar",
       "description": "Immerse yourself in a captivating fusion of history and contemporary elegance at Kimpton Hotel Monaco Washington DC, an IHG Hotel, nestled in the vibrant Penn Quarter. Explore iconic landmarks of the nation's capital, indulge in a vibrant shopping, dining, and nightlife scene, and enjoy seamless access to public transport. After a busy day exploring, delight in a selection of share plates and expertly crafted cocktails at the onsite Dirty Habit restaurant and bar.",
       "location_subheading": "United States",
-      "price": 749,
-      "original_price": 749,
+      "price": 744,
+      "original_price": 744,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKFFAA3",
       "hero_image": "https://images.luxuryescapes.com/3abdpaiqgk8yvtrysj5u4",
@@ -78,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-12",
-    "hotel_count": 3,
-    "average_price": 686,
+    "last_updated": "2026-03-13",
+    "hotel_count": 2,
+    "average_price": 754,
     "average_discount": 0
   }
 }

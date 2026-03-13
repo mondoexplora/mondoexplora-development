@@ -10,27 +10,27 @@
       "slug": "paris",
       "image": "https://images.luxuryescapes.com/38mqrxy3jkcpv4iddx",
       "description": "Explore Paris with luxury accommodations",
-      "hotel_count": 27,
-      "hotel_deals": 27,
-      "avg_price": 1292
+      "hotel_count": 20,
+      "hotel_deals": 20,
+      "avg_price": 1380
     },
     {
-      "name": "Lyon",
-      "slug": "lyon",
-      "image": "https://images.luxuryescapes.com/f1xh8vumeq649231cg7k",
-      "description": "Explore Lyon with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 464
-    },
-    {
-      "name": "Strasbourg",
-      "slug": "strasbourg",
-      "image": "https://images.luxuryescapes.com/9o0ztaigin4d4zkdunjl",
-      "description": "Explore Strasbourg with luxury accommodations",
+      "name": "Cannes",
+      "slug": "cannes",
+      "image": "https://images.luxuryescapes.com/ygev0ifhwmron4pviknk",
+      "description": "Explore Cannes with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 327
+      "avg_price": 624
+    },
+    {
+      "name": "Marseille",
+      "slug": "marseille",
+      "image": "https://images.luxuryescapes.com/q4lvsyhbdcdqj6v24iju",
+      "description": "Explore Marseille with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 385
     },
     {
       "name": "Val Thorens",
@@ -44,11 +44,11 @@
     {
       "name": "Bordeaux",
       "slug": "bordeaux",
-      "image": "https://images.luxuryescapes.com/e4numb74ohjtqxhumpx",
+      "image": "https://images.luxuryescapes.com/hz7b3hejmw272xvzh70g8",
       "description": "Explore Bordeaux with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 375
+      "avg_price": 456
     },
     {
       "name": "Biarritz",
