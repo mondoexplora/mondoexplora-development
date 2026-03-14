@@ -4,8 +4,26 @@
   "country_code": "ID",
   "hero_title": "Hotels in Bali",
   "description": "Discover the best hotels in Bali, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/3vqmp0wmqk9taksf48b",
+  "hero_image": "https://images.luxuryescapes.com/tdsmry8m1a21m46qytdj",
   "hotels": [
+    {
+      "vendor_name": "Alila Manggis",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Bali",
+      "title": "Secluded Bali Seaside Hideaway with Beach Access, Onsite Dining & Day Spa",
+      "description": "Experience the tranquillity of Bali's east coast at this five-star Hyatt property, a serene sanctuary set between the sea and magnificent Mount Agung. Each suite and room boasts traditional Balinese design, with private terraces offering breathtaking ocean or garden views. Indulge in authentic Indonesian cuisine at Seasalt Restaurant, or enjoy a cocktail at the oceanfront bar. Then venture beyond the resort to discover the Tirta Gangga Water Palace, or explore the local market at Candidasa. Return to enjoy traditional massages and treatments to rejuvenate your mind, body and soul, or take a dip in the pool overlooking the sparkling sea.",
+      "location_subheading": "Indonesia",
+      "price": 337,
+      "original_price": 337,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Cj3hKYAR",
+      "hero_image": "https://images.luxuryescapes.com/tdsmry8m1a21m46qytdj",
+      "image_two": "https://images.luxuryescapes.com/43sk0ij1wr7z4c6z8y8m",
+      "image_three": "https://images.luxuryescapes.com/vj5wina9vepnycx0qud",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Legian Beach Hotel Bali",
       "offer_country_name": "Indonesia",
@@ -43,6 +61,42 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Novotel Bali Airport",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Bali",
+      "title": "Refined Bali Airport Haven with Outdoor Pool, Two Bars & Onsite Spa",
+      "description": "Be perfectly placed for exploration at this tropical hotel, conveniently located just steps from I Gusti Ngurah Rai International Airport. This serene oasis offers a refreshing retreat from the hustle of Kuta, with a glittering outdoor pool, modern fitness centre and onsite spa. Savour authentic Indonesian cuisine at the onsite restaurant, The Square, or sip on a refreshing drink at the Run@way Bar or GOURMETBAR. Venture beyond the hotel to discover the vibrant beach clubs of Seminyak or the majestic Uluwatu Temple, both within easy reach.",
+      "location_subheading": "Indonesia",
+      "price": 203,
+      "original_price": 203,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnL4aYAF",
+      "hero_image": "https://images.luxuryescapes.com/tse0n00tuw5z1elcwpzf",
+      "image_two": "https://images.luxuryescapes.com/jpd0ub8uz0hpdghufktu",
+      "image_three": "https://images.luxuryescapes.com/mlyo8hpa8nmrflsz22q9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Novotel Bali Nusa Dua - Hotel & Residences",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Bali",
+      "title": "Idyllic Novotel Bali Escape in the Heart of Nusa Dua with Lagoon Pool & Four Onsite Eateries",
+      "description": "Experience one of the world’s favourite beach destinations with a stay at this sun-drenched paradise, set amid five hectares of lush gardens surrounding a sprawling two-tier lagoon pool. Close to a private beach club that's reachable by complimentary shuttle, this escape guarantees fun in the sun. Dine across four mouthwatering restaurants, including The Square - serving Balinese and international favourites - and fresh delights at Gourmet Bar, where drinks are served poolside. Little ones will adore the hotel's family-friendly facilities, including a fun-filled kids' club boasting a wealth of daily activities.",
+      "location_subheading": "Indonesia",
+      "price": 291,
+      "original_price": 291,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlvPIAS",
+      "hero_image": "https://images.luxuryescapes.com/6phf2rdvaiss3mtpo5v",
+      "image_two": "https://images.luxuryescapes.com/jd4uej50oit1scfmbnl",
+      "image_three": "https://images.luxuryescapes.com/m235ugtedn8ehsqwpd7",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-08-22 13:59:00"
+    },
+    {
       "vendor_name": "Nusa Nova Group",
       "offer_country_name": "Indonesia",
       "location_heading": "Bali",
@@ -78,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-13",
-    "hotel_count": 3,
-    "average_price": 1467,
+    "last_updated": "2026-03-14",
+    "hotel_count": 6,
+    "average_price": 872,
     "average_discount": 0
   }
 }

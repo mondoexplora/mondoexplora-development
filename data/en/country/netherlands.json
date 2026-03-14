@@ -3,16 +3,16 @@
   "code": "NL",
   "hero_title": "Netherlands Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Netherlands.",
-  "hero_image": "https://images.luxuryescapes.com/c5jp1uho8cca29yl7skm",
+  "hero_image": "https://images.luxuryescapes.com/9kxs424l3rx7ca9epnd4",
   "popular_destinations": [
     {
       "name": "Amsterdam",
       "slug": "amsterdam",
-      "image": "https://images.luxuryescapes.com/c5jp1uho8cca29yl7skm",
+      "image": "https://images.luxuryescapes.com/9kxs424l3rx7ca9epnd4",
       "description": "Explore Amsterdam with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 924
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 780
     },
     {
       "name": "The Hague",
@@ -21,7 +21,7 @@
       "description": "Explore The Hague with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 237
+      "avg_price": 239
     },
     {
       "name": "Maastricht",
@@ -31,6 +31,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 264
+    },
+    {
+      "name": "Utrecht",
+      "slug": "utrecht",
+      "image": "https://images.luxuryescapes.com/ddak3fz988dnikma7d2",
+      "description": "Explore Utrecht with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 282
     }
   ],
   "seo": {

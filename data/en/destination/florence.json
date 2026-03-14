@@ -13,8 +13,8 @@
       "title": "Florence Design Hotel in Historic Santa Maria Novella District with Three Restaurants & Bars",
       "description": "Step into a world where literature meets design at 25hours Hotel Piazza San Paolino, a boldly eclectic stay in Florence’s Santa Maria Novella district. Inspired by Dante’s Divine Comedy, the hotel offers a playful contrast of 'Paradiso' and 'Inferno'-themed rooms, creating a truly one-of-a-kind experience. Savour Tuscan flavours at the lively CECCHINI IN CITTÀ restaurant, enjoy a classic Negroni at the bar and wind down with a curated screening at Cinema Paradiso.",
       "location_subheading": "Italy",
-      "price": 569,
-      "original_price": 569,
+      "price": 574,
+      "original_price": 574,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JjtiIYAR",
       "hero_image": "https://images.luxuryescapes.com/zplh7zqs3a5x21rxrjey",
@@ -31,8 +31,8 @@
       "title": "16th-Century Florentine Elegance Steps from the Duomo with Restaurant & Wine Bar",
       "description": "Discover the heart of Florence from the stylish Cerretani Hotel Firenze - MGallery Collection, where historic elegance meets contemporary flair. Housed in a carefully restored 16th-century mansion, just steps from the Duomo and Basilica of Santa Maria Novella, this boutique hotel blends Florentine charm with modern touches. Start your day with Italian pastries at the light-filled Ristorante Il Patio then step outside to explore Florence’s famed art, fashion and dining scenes - from the Uffizi Gallery to the elegant boutiques along Via de’ Tornabuoni. When evening falls, return for a glass of Tuscan wine at Il Michelangelo Bar and unwind in your serene sanctuary in the city’s historic heart.",
       "location_subheading": "Italy",
-      "price": 594,
-      "original_price": 594,
+      "price": 597,
+      "original_price": 597,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000M5lUyYAJ",
       "hero_image": "https://images.luxuryescapes.com/zp6uc8hkjp58k9vry8zi",
@@ -41,6 +41,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Hotel Indigo Florence",
+      "offer_country_name": "Italy",
+      "location_heading": "Florence",
+      "title": "Tranquil Florentine Elegance with Outdoor Pool & Onsite Restaurant",
+      "description": "Discover the tranquil charm of Hotel Indigo Florence, an IHG Hotel, located in a vibrant Italian neighborhood just 10 minutes from the historic city centre. Explore the neighborhood's centuries-old history, including treasures like the Basilica of Santa Maria Novella and the world's oldest pharmacy, Officina Profumo Farmaceutica. Indulge in the best of Tuscan gastronomy at the Binomio Florence restaurant and terrace, while the lush garden with a pool invites you to enjoy breakfast or local wine.",
+      "location_subheading": "Italy",
+      "price": 457,
+      "original_price": 457,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FckavAAB",
+      "hero_image": "https://images.luxuryescapes.com/xryo0i1of4vyytfp3wg",
+      "image_two": "https://images.luxuryescapes.com/h1mqb95miyyy20nnyou8",
+      "image_three": "https://images.luxuryescapes.com/6uam0yvvg3dh4j99al9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Palazzo Firenze by Baglioni Hotels & Resorts",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-13",
-    "hotel_count": 3,
-    "average_price": 721,
+    "last_updated": "2026-03-14",
+    "hotel_count": 4,
+    "average_price": 657,
     "average_discount": 0
   }
 }

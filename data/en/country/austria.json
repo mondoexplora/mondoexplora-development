@@ -10,9 +10,18 @@
       "slug": "vienna",
       "image": "https://images.luxuryescapes.com/hlkwy9e8mao2zxqucjh",
       "description": "Explore Vienna with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 497
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 397
+    },
+    {
+      "name": "Villach",
+      "slug": "villach",
+      "image": "https://images.luxuryescapes.com/t890em2kccap9oqbpot",
+      "description": "Explore Villach with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 245
     },
     {
       "name": "Salzburg",

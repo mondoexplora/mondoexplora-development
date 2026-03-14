@@ -4,8 +4,26 @@
   "country_code": "US",
   "hero_title": "Hotels in Washington DC",
   "description": "Discover the best hotels in Washington DC, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/3abdpaiqgk8yvtrysj5u4",
+  "hero_image": "https://images.luxuryescapes.com/zxb471hhklyhf6grckgd",
   "hotels": [
+    {
+      "vendor_name": "Kimpton George Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Washington DC",
+      "title": "Washington DC Stay Near Iconic Landmarks with Onsite Bistro",
+      "description": "Immerse yourself in America's esteemed history with a stay at Kimpton George Hotel, an IHG Hotel, located in the renowned Capitol Hill district. Learn more about the political heritage of Washington DC in the heart of downtown with access to iconic landmarks like the Capitol Building, Washington Monument and the Lincoln Memorial. After a day of exploration, fuel up at the onsite Bistro Bis or stretch your muscles in the fitness centre before turning into your heritage-themed room.",
+      "location_subheading": "United States",
+      "price": 537,
+      "original_price": 537,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKEfAAN",
+      "hero_image": "https://images.luxuryescapes.com/zxb471hhklyhf6grckgd",
+      "image_two": "https://images.luxuryescapes.com/mdmkh8sdeyv58acpho5",
+      "image_three": "https://images.luxuryescapes.com/e1qx2hk1pg8b6vj0rrh",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Kimpton Hotel Monaco Washington DC",
       "offer_country_name": "United States",
@@ -31,8 +49,8 @@
       "title": "Art-Deco Sofitel Washington DC Stay near The White House with French Bistro",
       "description": "Take your place among dignitaries and diplomats with a stay at this prestigious hotel, situated in the heart of Washington DC's vibrant downtown district. This opulent retreat is a stone's throw from the White House, the National Mall and the Smithsonian Museums, placing you at the epicentre of American history and culture. Savour French-American cuisine at the onsite Opaline Bar & Brasserie, or venture out to explore the city's diverse culinary scene. The hotel's state-of-the-art fitness centre and tranquil spa offer the perfect respite after a day of sightseeing.",
       "location_subheading": "United States",
-      "price": 763,
-      "original_price": 763,
+      "price": 767,
+      "original_price": 767,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnJdoYAF",
       "hero_image": "https://images.luxuryescapes.com/anz6psx1ii57xidseyq",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-13",
-    "hotel_count": 2,
-    "average_price": 754,
+    "last_updated": "2026-03-14",
+    "hotel_count": 3,
+    "average_price": 683,
     "average_discount": 0
   }
 }

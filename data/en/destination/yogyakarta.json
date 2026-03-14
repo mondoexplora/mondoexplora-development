@@ -4,8 +4,44 @@
   "country_code": "ID",
   "hero_title": "Hotels in Yogyakarta",
   "description": "Discover the best hotels in Yogyakarta, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/a3yti8mxhqlcegys4rgk",
+  "hero_image": "https://images.luxuryescapes.com/boukqrvxpjlkov26ddg",
   "hotels": [
+    {
+      "vendor_name": "Grand Mercure Yogyakarta",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Yogyakarta",
+      "title": "Contemporary East Yogyakarta Hotel with Spa & Outdoor Pool",
+      "description": "Combining rich Javanese tradition with French detailing, this elegant hotel is your ideal base for discovering greater Yogyakarta. Explore the nearby historic Sultan's Palace, or venture further afield to the UNESCO World Heritage-listed Borobudur Temple for true cultural immersion. Back at the hotel, savour local cuisine at Purple, boasting floor-to-ceiling windows and warm decor, or sip on cocktails at the stylish 80’8 Bar, offering panoramic city views. For complete relaxation, unwind by the outdoor pool or head straight to the spa for rejuvenating treatments.",
+      "location_subheading": "Indonesia",
+      "price": 103,
+      "original_price": 103,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnL4eYAF",
+      "hero_image": "https://images.luxuryescapes.com/boukqrvxpjlkov26ddg",
+      "image_two": "https://images.luxuryescapes.com/9dnpf3pmgjzydx7q13m",
+      "image_three": "https://images.luxuryescapes.com/078c0a6myp87w4dizqrg",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Hyatt Regency Yogyakarta",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Yogyakarta",
+      "title": "Serene Javan Hotel in Yogyakarta with Golf Course, Multi-Tiered Pool & Three Onsite Eateries",
+      "description": "Experience the cultural heart of Java at Hyatt Regency Yogyakarta, nestled within 22 hectares of tranquil tropical gardens on the outskirts of northwestern Yogyakarta. This serene retreat features a nine-hole golf course, night driving range and a sprawling, multi-tiered pool with a waterslide. Enjoy diverse dining experiences, from open-kitchen delights at Kemangi Bistro to fresh juices and cocktails at Bogey’s Teras, or local street food at Angkringan at Hyatt. Venture beyond the hotel to discover the ancient wonders of Borobudur and Prambanan, hunt for unique local crafts, or surrender to pure relaxation with a rejuvenating treatment at the luxurious spa.",
+      "location_subheading": "Indonesia",
+      "price": 200,
+      "original_price": 200,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000HicF0YAJ",
+      "hero_image": "https://images.luxuryescapes.com/kmgm6c576h1djz0jkn8o",
+      "image_two": "https://images.luxuryescapes.com/l7ugzdt3ydricjfliyhh",
+      "image_three": "https://images.luxuryescapes.com/nvgag5fc7i3bqm09pqbc",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Novotel Suites Yogyakarta Malioboro",
       "offer_country_name": "Indonesia",
@@ -60,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-13",
-    "hotel_count": 2,
-    "average_price": 133,
+    "last_updated": "2026-03-14",
+    "hotel_count": 4,
+    "average_price": 142,
     "average_discount": 0
   }
 }

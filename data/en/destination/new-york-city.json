@@ -4,26 +4,8 @@
   "country_code": "US",
   "hero_title": "Hotels in New York City",
   "description": "Discover the best hotels in New York City, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/udikdidtugwpz6un35",
+  "hero_image": "https://images.luxuryescapes.com/nzvs3r8kto29aw6ulsfd",
   "hotels": [
-    {
-      "vendor_name": "Kimpton Ashbel Hotel",
-      "offer_country_name": "United States",
-      "location_heading": "New York City",
-      "title": "New York City Elegance on Park Avenue near Grand Central Station",
-      "description": "Be one of the first to discover this perfectly appointed hotel, set on a leafy stretch of Park Avenue for the ultimate boutique New York escape. With an address on one of the city's most iconic streets, you'll have many of the top attractions located just moments from the hotel lobby, including the Empire State Building, Grand Central Station, Times Square, Broadway, Bryant Park, Central Park and Rockefeller Center. A true New York postcard moment, the Kimpton Ashbel offers a glimpse into the high life of living in the city that never sleeps. Hop from one nearby Michelin-starred restaurant to the next before lining up for the latest Broadway show and catching the subway home.",
-      "location_subheading": "United States",
-      "price": 1149,
-      "original_price": 1715,
-      "discount_percentage": 33,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RY4g4YAD",
-      "hero_image": "https://images.luxuryescapes.com/udikdidtugwpz6un35",
-      "image_two": "https://images.luxuryescapes.com/gwkb2utavkwf5i45ialf",
-      "image_three": "https://images.luxuryescapes.com/88kx8j9gaoepj0df57ji",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 4,
-      "end_date_utc": "2026-04-01 12:59:00"
-    },
     {
       "vendor_name": "Smyth Tribeca",
       "offer_country_name": "United States",
@@ -31,8 +13,8 @@
       "title": "New York Ultra-Cool Loft-Style Escape in the Heart of Tribeca",
       "description": "The downtown area of Tribeca, stomping ground for effortlessly cool New Yorkers, is yours to experience with a stylish stay at the newly opened, loft-style Smyth Tribeca. This chic hotel opened its doors in 2021 and enjoys a superb location in a quiet residential area, just off the main thoroughfare. You'll be in easy reach of New York City's world-class restaurants, art galleries, designer boutiques, parks and cultural attractions. Unwind in minimalist spaces that offer a tranquil oasis away from the buzz of the city. Spend the time between exploring sweating it out at the shiny state-of-the-art gym, grabbing a bite to eat at the onsite restaurant or ordering a cosmopolitan at the glamorous lobby bar.",
       "location_subheading": "United States",
-      "price": 971,
-      "original_price": 1067,
+      "price": 937,
+      "original_price": 1030,
       "discount_percentage": 9,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007lrlDAAQ",
       "hero_image": "https://images.luxuryescapes.com/nzvs3r8kto29aw6ulsfd",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-13",
-    "hotel_count": 2,
-    "average_price": 1060,
-    "average_discount": 21
+    "last_updated": "2026-03-14",
+    "hotel_count": 1,
+    "average_price": 937,
+    "average_discount": 9
   }
 }

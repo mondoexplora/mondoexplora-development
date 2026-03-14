@@ -10,27 +10,45 @@
       "slug": "dubai",
       "image": "https://images.luxuryescapes.com/bk11fbt9fad6gcgfp96e",
       "description": "Explore Dubai with luxury accommodations",
-      "hotel_count": 53,
-      "hotel_deals": 53,
-      "avg_price": 623
+      "hotel_count": 79,
+      "hotel_deals": 79,
+      "avg_price": 511
     },
     {
       "name": "Abu Dhabi",
       "slug": "abu-dhabi",
       "image": "https://images.luxuryescapes.com/wtas4oaepqwhap5tf7",
       "description": "Explore Abu Dhabi with luxury accommodations",
-      "hotel_count": 11,
-      "hotel_deals": 11,
-      "avg_price": 631
+      "hotel_count": 17,
+      "hotel_deals": 17,
+      "avg_price": 972
     },
     {
       "name": "Ras Al Khaimah",
       "slug": "ras-al-khaimah",
-      "image": "https://images.luxuryescapes.com/z1twobe4uqt038zvfrml",
+      "image": "https://images.luxuryescapes.com/zhfhaguori9dqsg2jdl8",
       "description": "Explore Ras Al Khaimah with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 528
+    },
+    {
+      "name": "Fujairah",
+      "slug": "fujairah",
+      "image": "https://images.luxuryescapes.com/rus8eegknojpcg0z1n",
+      "description": "Explore Fujairah with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 504
+      "avg_price": 527
+    },
+    {
+      "name": "Sharjah",
+      "slug": "sharjah",
+      "image": "https://images.luxuryescapes.com/uak7lkjvx3uyyfyt05",
+      "description": "Explore Sharjah with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 158
     },
     {
       "name": "Sir Bani Yas Island",
@@ -39,25 +57,7 @@
       "description": "Explore Sir Bani Yas Island with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1251
-    },
-    {
-      "name": "Palm Jumeirah",
-      "slug": "palm-jumeirah",
-      "image": "https://images.luxuryescapes.com/veopkamzktw0qwgzpk",
-      "description": "Explore Palm Jumeirah with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 560
-    },
-    {
-      "name": "Fujairah",
-      "slug": "fujairah",
-      "image": "https://images.luxuryescapes.com/rus8eegknojpcg0z1n",
-      "description": "Explore Fujairah with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 525
+      "avg_price": 1258
     }
   ],
   "seo": {

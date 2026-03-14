@@ -3,16 +3,16 @@
   "code": "KR",
   "hero_title": "South Korea Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in South Korea.",
-  "hero_image": "https://images.luxuryescapes.com/5bqsdy0ondumoytq5wj",
+  "hero_image": "https://images.luxuryescapes.com/binzih0j9gliw48in1xk",
   "popular_destinations": [
     {
       "name": "Seoul",
       "slug": "seoul",
-      "image": "https://images.luxuryescapes.com/5bqsdy0ondumoytq5wj",
+      "image": "https://images.luxuryescapes.com/binzih0j9gliw48in1xk",
       "description": "Explore Seoul with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 596
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 576
     },
     {
       "name": "Busan",
@@ -21,7 +21,43 @@
       "description": "Explore Busan with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 241
+      "avg_price": 242
+    },
+    {
+      "name": "Pyeongchang",
+      "slug": "pyeongchang",
+      "image": "https://images.luxuryescapes.com/npmejqgghskp0x4ux6qi",
+      "description": "Explore Pyeongchang with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 302
+    },
+    {
+      "name": "Suwon",
+      "slug": "suwon",
+      "image": "https://images.luxuryescapes.com/qddud8bshi7oqvuimtz",
+      "description": "Explore Suwon with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 318
+    },
+    {
+      "name": "Incheon",
+      "slug": "incheon",
+      "image": "https://images.luxuryescapes.com/2k92v6vx6oo52top7gy7v",
+      "description": "Explore Incheon with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 232
+    },
+    {
+      "name": "Jeju",
+      "slug": "jeju",
+      "image": "https://images.luxuryescapes.com/6yxj9ykpkouarbv213yi",
+      "description": "Explore Jeju with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 414
     }
   ],
   "seo": {

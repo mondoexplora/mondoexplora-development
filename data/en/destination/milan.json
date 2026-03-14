@@ -31,13 +31,31 @@
       "title": "Sophisticated Fashion Capital Escape in the Heart of Milan",
       "description": "Find yourself in the heart of the fashion capital with an escape to the sophisticated Crowne Plaza Milan City, an IHG Hotel. Positioned in the heart of this thriving Italian metropolis, you'll have food, fashion and culture at your fingertips. Positioned just steps from Milano Centrale Railway Station, use this hotel as your launchpad for discovering the cobblestone streets, Michelin Star restaurants and art that encapsulates this city's beauty.",
       "location_subheading": "Italy",
-      "price": 381,
-      "original_price": 381,
+      "price": 364,
+      "original_price": 364,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJaGAAX",
       "hero_image": "https://images.luxuryescapes.com/hlk9vgrjwnil2wlem83a",
       "image_two": "https://images.luxuryescapes.com/bgdxjw3sjks8gzn9xcr4",
       "image_three": "https://images.luxuryescapes.com/dc0mzd3g7e3adw4l41fv",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Milan Linate",
+      "offer_country_name": "Italy",
+      "location_heading": "Milan",
+      "title": "Elegant Milan Retreat within Italy's Fashion Capital",
+      "description": "Live your Italian dream and step into a world of fashion, culture and gourmet cuisine at Crowne Plaza Milan - Linate, an IHG Hotel. A fast-paced metropolis home to some of the world's most influential fashion houses, Milan allows you to indulge in opulent retail therapy, dine in Michelin-starred restaurants and wander through amazing sights that encapsulate the city's rich history. Shop 'til you drop, then return to the hotel and sip mouthwatering Italian wines at the onsite Il Giardino restaurant.",
+      "location_subheading": "Italy",
+      "price": 201,
+      "original_price": 201,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJaHAAX",
+      "hero_image": "https://images.luxuryescapes.com/330erc5c7pre1z9ihf4",
+      "image_two": "https://images.luxuryescapes.com/d8enaizcir3bepeztjh",
+      "image_three": "https://images.luxuryescapes.com/56szqs66x9jc0ne88ef",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
@@ -49,8 +67,8 @@
       "title": "Elegant Escape in the Heart of Milan",
       "description": "Experience world-class luxury from Italy’s ultimate fashion runway, with a stay in the boutique Hotel Indigo Milan - Corso Monforte, an IHG Hotel. Set in a prestigious 19th-century building, this hotel is a historic masterpiece in architectural and interior design. Lose yourself in the beauty of the city as you live out the perfect European fantasy, wandering ancient cobblestone streets, indulging in luxurious high-end shopping, and gazing upon magnificent historic monuments.",
       "location_subheading": "Italy",
-      "price": 871,
-      "original_price": 871,
+      "price": 897,
+      "original_price": 897,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CuiRfAAJ",
       "hero_image": "https://images.luxuryescapes.com/c0y00fn5ldwjenvsp7cd",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-13",
-    "hotel_count": 4,
-    "average_price": 549,
+    "last_updated": "2026-03-14",
+    "hotel_count": 5,
+    "average_price": 481,
     "average_discount": 2
   }
 }

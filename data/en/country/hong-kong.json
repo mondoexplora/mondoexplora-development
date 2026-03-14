@@ -10,9 +10,18 @@
       "slug": "hong-kong",
       "image": "https://images.luxuryescapes.com/ub5e2uy47jx8xp9omoi",
       "description": "Explore Hong Kong with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 1114
+      "hotel_count": 10,
+      "hotel_deals": 10,
+      "avg_price": 748
+    },
+    {
+      "name": "Kowloon",
+      "slug": "kowloon",
+      "image": "https://images.luxuryescapes.com/2qlq887yry4nj76wwf",
+      "description": "Explore Kowloon with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 545
     },
     {
       "name": "Hong Kong Island",
@@ -21,16 +30,7 @@
       "description": "Explore Hong Kong Island with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 676
-    },
-    {
-      "name": "Hung Hom Bay",
-      "slug": "hung-hom-bay",
-      "image": "https://images.luxuryescapes.com/rr7yiu303rfdwex6i0ad",
-      "description": "Explore Hung Hom Bay with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 616
+      "avg_price": 675
     },
     {
       "name": "Tsim Sha Tsui",
@@ -39,7 +39,16 @@
       "description": "Explore Tsim Sha Tsui with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 503
+      "avg_price": 506
+    },
+    {
+      "name": "Wan Chai",
+      "slug": "wan-chai",
+      "image": "https://images.luxuryescapes.com/4374u90jxi90inl2rha",
+      "description": "Explore Wan Chai with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 419
     },
     {
       "name": "Taikoo Shing",
@@ -48,16 +57,7 @@
       "description": "Explore Taikoo Shing with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 388
-    },
-    {
-      "name": "North Point",
-      "slug": "north-point",
-      "image": "https://images.luxuryescapes.com/3ke13noj6jm5fj26iu2w",
-      "description": "Explore North Point with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 469
+      "avg_price": 390
     }
   ],
   "seo": {

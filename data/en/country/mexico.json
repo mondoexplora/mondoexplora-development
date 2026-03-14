@@ -12,16 +12,34 @@
       "description": "Explore Cabo San Lucas with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 1428
+      "avg_price": 1436
+    },
+    {
+      "name": "Cancun",
+      "slug": "cancun",
+      "image": "https://images.luxuryescapes.com/vqzbi27adn2we6xisgy",
+      "description": "Explore Cancun with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 1188
     },
     {
       "name": "Los Cabos",
       "slug": "los-cabos",
       "image": "https://images.luxuryescapes.com/edqtv8330piiyf8k7dp",
       "description": "Explore Los Cabos with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 1653
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 1759
+    },
+    {
+      "name": "Mexico City",
+      "slug": "mexico-city",
+      "image": "https://images.luxuryescapes.com/x9kez45e1406vdu2sika",
+      "description": "Explore Mexico City with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 658
     },
     {
       "name": "Playa del Carmen",
@@ -30,34 +48,16 @@
       "description": "Explore Playa del Carmen with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 1420
-    },
-    {
-      "name": "Cancun",
-      "slug": "cancun",
-      "image": "https://images.luxuryescapes.com/7w51ewnqihnlpyi4kx2",
-      "description": "Explore Cancun with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 1338
-    },
-    {
-      "name": "Mexico City",
-      "slug": "mexico-city",
-      "image": "https://images.luxuryescapes.com/x9kez45e1406vdu2sika",
-      "description": "Explore Mexico City with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 453
+      "avg_price": 1429
     },
     {
       "name": "Nuevo Vallarta",
       "slug": "nuevo-vallarta",
-      "image": "https://images.luxuryescapes.com/llvan5dafh8sxozcqwl9",
+      "image": "https://images.luxuryescapes.com/usg61bll28lbufat4r7c",
       "description": "Explore Nuevo Vallarta with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 559
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 762
     }
   ],
   "seo": {

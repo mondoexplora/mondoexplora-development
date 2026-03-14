@@ -3,16 +3,16 @@
   "code": "OM",
   "hero_title": "Oman Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Oman.",
-  "hero_image": "https://images.luxuryescapes.com/cz95y51o5on2xct1j6ya",
+  "hero_image": "https://images.luxuryescapes.com/bw9fwgfp792uvm9yhzkq",
   "popular_destinations": [
     {
       "name": "Muscat",
       "slug": "muscat",
-      "image": "https://images.luxuryescapes.com/cz95y51o5on2xct1j6ya",
+      "image": "https://images.luxuryescapes.com/bw9fwgfp792uvm9yhzkq",
       "description": "Explore Muscat with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 1026
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 608
     },
     {
       "name": "Sohar",
@@ -21,7 +21,7 @@
       "description": "Explore Sohar with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 255
+      "avg_price": 257
     },
     {
       "name": "Nizwa",
@@ -30,7 +30,7 @@
       "description": "Explore Nizwa with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1357
+      "avg_price": 1331
     },
     {
       "name": "Duqm",
@@ -39,7 +39,7 @@
       "description": "Explore Duqm with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 305
+      "avg_price": 307
     },
     {
       "name": "Salalah",
@@ -48,7 +48,7 @@
       "description": "Explore Salalah with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 322
+      "avg_price": 323
     },
     {
       "name": "Dibba",
@@ -57,7 +57,7 @@
       "description": "Explore Dibba with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 2798
+      "avg_price": 2815
     }
   ],
   "seo": {
