@@ -12,7 +12,7 @@
       "description": "Explore Beijing with luxury accommodations",
       "hotel_count": 9,
       "hotel_deals": 9,
-      "avg_price": 948
+      "avg_price": 949
     },
     {
       "name": "Shenzhen",
@@ -21,16 +21,16 @@
       "description": "Explore Shenzhen with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 338
+      "avg_price": 364
     },
     {
       "name": "Shanghai",
       "slug": "shanghai",
       "image": "https://images.luxuryescapes.com/ylbwv5scdsoptk6wq5ga",
       "description": "Explore Shanghai with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 407
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 404
     },
     {
       "name": "Chengdu",
@@ -39,16 +39,16 @@
       "description": "Explore Chengdu with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 202
+      "avg_price": 208
     },
     {
       "name": "Xiamen",
       "slug": "xiamen",
       "image": "https://images.luxuryescapes.com/n70t1ho958lj8an2yzsr",
       "description": "Explore Xiamen with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 335
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 396
     },
     {
       "name": "Guiyang",

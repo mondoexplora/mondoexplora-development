@@ -33,15 +33,6 @@
       "avg_price": 182
     },
     {
-      "name": "Hamburg",
-      "slug": "hamburg",
-      "image": "https://images.luxuryescapes.com/tfes5lgqtc1dwksjv6n7",
-      "description": "Explore Hamburg with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 354
-    },
-    {
       "name": "Dusseldorf",
       "slug": "dusseldorf",
       "image": "https://images.luxuryescapes.com/0a7yiewi4pi9egm9i2eh",
@@ -58,6 +49,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 1575
+    },
+    {
+      "name": "Garmisch-Partenkirchen",
+      "slug": "garmisch-partenkirchen",
+      "image": "https://images.luxuryescapes.com/tovaydbw4f8bpjmgc38",
+      "description": "Explore Garmisch-Partenkirchen with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 377
     }
   ],
   "seo": {

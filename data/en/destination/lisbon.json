@@ -4,26 +4,8 @@
   "country_code": "PT",
   "hero_title": "Hotels in Lisbon",
   "description": "Discover the best hotels in Lisbon, Portugal. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
+  "hero_image": "https://images.luxuryescapes.com/5yckyvfavi9x20wjcmm",
   "hotels": [
-    {
-      "vendor_name": "Convent Square Hotel, Vignette Collection",
-      "offer_country_name": "Portugal",
-      "location_heading": "Lisbon",
-      "title": "Opulent Lisbon Stay in 13th Century Convent with Iconic Restaurant & Bar",
-      "description": "Find refined elegance within the walls of a 13th-century Dominican Convent atConvent Square Lisbon, Vignette Collection, an IHG Hotel. From savoring delectable Portuguese cuisine at Capítulo Restaurant to embracing Portugal's stunning architecture in the emblematic cloister, every moment is an invitation to elevate your senses. Unwind in the sauna or rejuvenate in the heated plunge pool while gazing at Lisbon's breathtaking church top views.",
-      "location_subheading": "Portugal",
-      "price": 543,
-      "original_price": 543,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNR7rAAH",
-      "hero_image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
-      "image_two": "https://images.luxuryescapes.com/36g2a0oynstczadxvqgm",
-      "image_three": "https://images.luxuryescapes.com/4kb396xsk369lx0lw5o",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Corinthia Lisbon",
       "offer_country_name": "Portugal",
@@ -49,8 +31,8 @@
       "title": "Five-Star Central Lisbon Escape near Parque Eduardo VII and Marquis of Pombal Square",
       "description": "Experience the epitome of romance and five-star elegance at the EPIC SANA Marquês Hotel. This luxury haven is positioned in the heart of Lisbon and is a stone's throw from the city's cultural treasures, including the renowned Marquis of Pombal Square and the verdant Eduardo VII Park. Savour the finest Portuguese cuisine at one of the hotel's three sumptuous restaurants, two bars and bakery, before ascending to the rooftop bar to sip on exquisite cocktails against Lisbon's enchanting skyline.",
       "location_subheading": "Portugal",
-      "price": 589,
-      "original_price": 746,
+      "price": 602,
+      "original_price": 762,
       "discount_percentage": 21,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000G2DRTAA3",
       "hero_image": "https://images.luxuryescapes.com/cl28piqwxofiullhn6rg",
@@ -168,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-14",
-    "hotel_count": 8,
-    "average_price": 500,
-    "average_discount": 10
+    "last_updated": "2026-03-15",
+    "hotel_count": 7,
+    "average_price": 496,
+    "average_discount": 12
   }
 }
