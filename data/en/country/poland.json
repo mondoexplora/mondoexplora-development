@@ -12,16 +12,7 @@
       "description": "Explore Warsaw with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 223
-    },
-    {
-      "name": "Kraków",
-      "slug": "kraków",
-      "image": "https://images.luxuryescapes.com/wrah7xlqdognui7xau4",
-      "description": "Explore Kraków with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 404
+      "avg_price": 219
     },
     {
       "name": "Krakow",
@@ -30,7 +21,7 @@
       "description": "Explore Krakow with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 327
+      "avg_price": 321
     }
   ],
   "seo": {

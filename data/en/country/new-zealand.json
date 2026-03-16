@@ -12,43 +12,43 @@
       "description": "Explore Auckland with luxury accommodations",
       "hotel_count": 22,
       "hotel_deals": 22,
-      "avg_price": 380
+      "avg_price": 386
     },
     {
       "name": "Queenstown",
       "slug": "queenstown",
       "image": "https://images.luxuryescapes.com/ylb8648jzk6x01er2cyr",
       "description": "Explore Queenstown with luxury accommodations",
-      "hotel_count": 15,
-      "hotel_deals": 15,
-      "avg_price": 895
+      "hotel_count": 13,
+      "hotel_deals": 13,
+      "avg_price": 988
+    },
+    {
+      "name": "Christchurch",
+      "slug": "christchurch",
+      "image": "https://images.luxuryescapes.com/od5xt9s0l5cuisblm6",
+      "description": "Explore Christchurch with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 395
     },
     {
       "name": "Wellington",
       "slug": "wellington",
       "image": "https://images.luxuryescapes.com/8ofusp0qqc8qj7asix9",
       "description": "Explore Wellington with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 335
-    },
-    {
-      "name": "Christchurch",
-      "slug": "christchurch",
-      "image": "https://images.luxuryescapes.com/6s4a9rs1kx4i1ofog1q",
-      "description": "Explore Christchurch with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 424
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 356
     },
     {
       "name": "Rotorua",
       "slug": "rotorua",
       "image": "https://images.luxuryescapes.com/d72ap53wxhbs9ptl5tms",
       "description": "Explore Rotorua with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 319
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 275
     },
     {
       "name": "Lake Tekapo",
@@ -57,7 +57,7 @@
       "description": "Explore Lake Tekapo with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 347
+      "avg_price": 344
     }
   ],
   "seo": {

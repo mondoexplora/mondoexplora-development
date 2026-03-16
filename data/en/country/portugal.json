@@ -3,16 +3,16 @@
   "code": "PT",
   "hero_title": "Portugal Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Portugal.",
-  "hero_image": "https://images.luxuryescapes.com/5yckyvfavi9x20wjcmm",
+  "hero_image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
   "popular_destinations": [
     {
       "name": "Lisbon",
       "slug": "lisbon",
-      "image": "https://images.luxuryescapes.com/5yckyvfavi9x20wjcmm",
+      "image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
       "description": "Explore Lisbon with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 496
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 512
     },
     {
       "name": "Porto",
@@ -21,7 +21,7 @@
       "description": "Explore Porto with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 417
+      "avg_price": 416
     },
     {
       "name": "Alentejo",
@@ -39,7 +39,7 @@
       "description": "Explore Madeira with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 906
+      "avg_price": 972
     },
     {
       "name": "Vilamoura",
@@ -57,7 +57,7 @@
       "description": "Explore Ericeira with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 668
+      "avg_price": 679
     }
   ],
   "seo": {

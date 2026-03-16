@@ -3,16 +3,16 @@
   "code": "MA",
   "hero_title": "Morocco Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Morocco.",
-  "hero_image": "https://images.luxuryescapes.com/wh6cnr113k91u3mkbpuk",
+  "hero_image": "https://images.luxuryescapes.com/qaq9ke22tmroeyt6ru",
   "popular_destinations": [
     {
       "name": "Marrakech",
       "slug": "marrakech",
-      "image": "https://images.luxuryescapes.com/wh6cnr113k91u3mkbpuk",
+      "image": "https://images.luxuryescapes.com/qaq9ke22tmroeyt6ru",
       "description": "Explore Marrakech with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 2657
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 2197
     },
     {
       "name": "El Jadida",
@@ -21,7 +21,7 @@
       "description": "Explore El Jadida with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 664
+      "avg_price": 665
     },
     {
       "name": "Fez",
@@ -30,7 +30,7 @@
       "description": "Explore Fez with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 692
+      "avg_price": 693
     },
     {
       "name": "Rabat",
@@ -48,7 +48,7 @@
       "description": "Explore Taghazout with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1129
+      "avg_price": 1131
     },
     {
       "name": "Agadir",

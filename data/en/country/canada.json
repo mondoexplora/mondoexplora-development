@@ -3,25 +3,43 @@
   "code": "CA",
   "hero_title": "Canada Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Canada.",
-  "hero_image": "https://images.luxuryescapes.com/pzribm04edbao08mh1",
+  "hero_image": "https://images.luxuryescapes.com/i3fljywt07lgaf32r1",
   "popular_destinations": [
     {
       "name": "Toronto",
       "slug": "toronto",
-      "image": "https://images.luxuryescapes.com/pzribm04edbao08mh1",
+      "image": "https://images.luxuryescapes.com/i3fljywt07lgaf32r1",
       "description": "Explore Toronto with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 725
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 640
+    },
+    {
+      "name": "Montreal",
+      "slug": "montreal",
+      "image": "https://images.luxuryescapes.com/v15g0w465xjz340jrdq",
+      "description": "Explore Montreal with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 656
     },
     {
       "name": "Vancouver",
       "slug": "vancouver",
       "image": "https://images.luxuryescapes.com/5fcqyfaafdcpsgnucgj7",
       "description": "Explore Vancouver with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 979
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 830
+    },
+    {
+      "name": "Banff",
+      "slug": "banff",
+      "image": "https://images.luxuryescapes.com/m200j04ip0ufk6c5b7ij",
+      "description": "Explore Banff with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1163
     },
     {
       "name": "Lake Louise",
@@ -30,7 +48,7 @@
       "description": "Explore Lake Louise with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1279
+      "avg_price": 1269
     },
     {
       "name": "Edmonton",
@@ -39,25 +57,7 @@
       "description": "Explore Edmonton with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 666
-    },
-    {
-      "name": "Jasper",
-      "slug": "jasper",
-      "image": "https://images.luxuryescapes.com/9rpswkju93b6i1s4ammq",
-      "description": "Explore Jasper with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 634
-    },
-    {
-      "name": "Calgary",
-      "slug": "calgary",
-      "image": "https://images.luxuryescapes.com/r43tjsw3sjcy1u106n",
-      "description": "Explore Calgary with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 560
+      "avg_price": 661
     }
   ],
   "seo": {

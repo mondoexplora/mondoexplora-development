@@ -3,43 +3,34 @@
   "code": "FR",
   "hero_title": "France Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in France.",
-  "hero_image": "https://images.luxuryescapes.com/ooohlgxzefzt3nj03y2b",
+  "hero_image": "https://images.luxuryescapes.com/ej7z33w4b3bxsraxjzy",
   "popular_destinations": [
     {
       "name": "Paris",
       "slug": "paris",
-      "image": "https://images.luxuryescapes.com/ooohlgxzefzt3nj03y2b",
+      "image": "https://images.luxuryescapes.com/ej7z33w4b3bxsraxjzy",
       "description": "Explore Paris with luxury accommodations",
-      "hotel_count": 26,
-      "hotel_deals": 26,
-      "avg_price": 1288
+      "hotel_count": 23,
+      "hotel_deals": 23,
+      "avg_price": 1326
     },
     {
       "name": "Lyon",
       "slug": "lyon",
       "image": "https://images.luxuryescapes.com/f1xh8vumeq649231cg7k",
       "description": "Explore Lyon with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 454
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 520
     },
     {
       "name": "Bordeaux",
       "slug": "bordeaux",
-      "image": "https://images.luxuryescapes.com/e4numb74ohjtqxhumpx",
+      "image": "https://images.luxuryescapes.com/hz7b3hejmw272xvzh70g8",
       "description": "Explore Bordeaux with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 421
-    },
-    {
-      "name": "Strasbourg",
-      "slug": "strasbourg",
-      "image": "https://images.luxuryescapes.com/9o0ztaigin4d4zkdunjl",
-      "description": "Explore Strasbourg with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 324
+      "avg_price": 469
     },
     {
       "name": "Cannes",
@@ -57,7 +48,16 @@
       "description": "Explore Marseille with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 385
+      "avg_price": 389
+    },
+    {
+      "name": "Val Thorens",
+      "slug": "val-thorens",
+      "image": "https://images.luxuryescapes.com/n56xci0dajqsha8q581v",
+      "description": "Explore Val Thorens with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 835
     }
   ],
   "seo": {

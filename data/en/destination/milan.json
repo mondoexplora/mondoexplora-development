@@ -31,13 +31,31 @@
       "title": "Sophisticated Fashion Capital Escape in the Heart of Milan",
       "description": "Find yourself in the heart of the fashion capital with an escape to the sophisticated Crowne Plaza Milan City, an IHG Hotel. Positioned in the heart of this thriving Italian metropolis, you'll have food, fashion and culture at your fingertips. Positioned just steps from Milano Centrale Railway Station, use this hotel as your launchpad for discovering the cobblestone streets, Michelin Star restaurants and art that encapsulates this city's beauty.",
       "location_subheading": "Italy",
-      "price": 364,
-      "original_price": 364,
+      "price": 359,
+      "original_price": 359,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJaGAAX",
       "hero_image": "https://images.luxuryescapes.com/hlk9vgrjwnil2wlem83a",
       "image_two": "https://images.luxuryescapes.com/bgdxjw3sjks8gzn9xcr4",
       "image_three": "https://images.luxuryescapes.com/dc0mzd3g7e3adw4l41fv",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Milan Linate",
+      "offer_country_name": "Italy",
+      "location_heading": "Milan",
+      "title": "Elegant Milan Retreat within Italy's Fashion Capital",
+      "description": "Live your Italian dream and step into a world of fashion, culture and gourmet cuisine at Crowne Plaza Milan - Linate, an IHG Hotel. A fast-paced metropolis home to some of the world's most influential fashion houses, Milan allows you to indulge in opulent retail therapy, dine in Michelin-starred restaurants and wander through amazing sights that encapsulate the city's rich history. Shop 'til you drop, then return to the hotel and sip mouthwatering Italian wines at the onsite Il Giardino restaurant.",
+      "location_subheading": "Italy",
+      "price": 201,
+      "original_price": 201,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJaHAAX",
+      "hero_image": "https://images.luxuryescapes.com/330erc5c7pre1z9ihf4",
+      "image_two": "https://images.luxuryescapes.com/d8enaizcir3bepeztjh",
+      "image_three": "https://images.luxuryescapes.com/56szqs66x9jc0ne88ef",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-15",
-    "hotel_count": 4,
-    "average_price": 545,
+    "last_updated": "2026-03-16",
+    "hotel_count": 5,
+    "average_price": 475,
     "average_discount": 2
   }
 }
