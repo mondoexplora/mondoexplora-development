@@ -4,26 +4,8 @@
   "country_code": "ID",
   "hero_title": "Hotels in Surabaya",
   "description": "Discover the best hotels in Surabaya, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/9o68xa9darl4zmo6igi",
+  "hero_image": "https://images.luxuryescapes.com/ut39neuh3i58wyq8grfb",
   "hotels": [
-    {
-      "vendor_name": "Hotel Majapahit Surabaya - MGallery Collection",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Surabaya",
-      "title": "Colonial-Inspired East Java Heritage Escape with Onsite Dining, Pool & Wellness Spa",
-      "description": "Step into the storied embrace of Hotel Majapahit Surabaya, a colonial-inspired architectural gem with tropical gardens and a sparkling outdoor pool. Built in 1910 by the famous Sarkies brothers, relax in rooms that whisper tales of a bygone era in a classic landmark institution where history and romance blend. A stone's throw from traditional night markets and cultural sites, you'll be sitting pretty in Indonesia's second-largest city. At your base, relish in dining at Indigo Restaurant which serves delicious East meets West fusion. Soothe your muscles at Majapahit Spa, whose therapies are rooted in tradition and sophistication.",
-      "location_subheading": "Indonesia",
-      "price": 253,
-      "original_price": 253,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnL4oYAF",
-      "hero_image": "https://images.luxuryescapes.com/9o68xa9darl4zmo6igi",
-      "image_two": "https://images.luxuryescapes.com/iwprt0gp6qtcf3rmnaph",
-      "image_three": "https://images.luxuryescapes.com/fu3if9weqejzckzdrb",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Mercure Surabaya Grand Mirama",
       "offer_country_name": "Indonesia",
@@ -38,24 +20,6 @@
       "hero_image": "https://images.luxuryescapes.com/ut39neuh3i58wyq8grfb",
       "image_two": "https://images.luxuryescapes.com/jmcbdu486l2ny9pvcfea",
       "image_three": "https://images.luxuryescapes.com/54b3s37mgmdqnu2wc7x8a",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Mercure Surabaya Manyar",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Surabaya",
-      "title": "Modern Central Surabaya Hotel with Onsite Restaurant",
-      "description": "Experience the vibrant energy of Indonesia's second-largest city at this sleek hotel. Ideally located in the heart of Surabaya, this contemporary urban escape offers easy access to the city's rich cultural heritage and bustling shopping districts. Dine on traditional Indonesian cuisine at the onsite Paparisa Restaurant or maintain your fitness routine at the well-equipped gym. When it's time to explore, you're just a short drive from the historic House of Sampoerna museum and the colourful flower market at Keputran.",
-      "location_subheading": "Indonesia",
-      "price": 80,
-      "original_price": 80,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnOwwYAF",
-      "hero_image": "https://images.luxuryescapes.com/tg7pkpl8rsfmrsftb6i",
-      "image_two": "https://images.luxuryescapes.com/hspkwv1wmrz35og0p18",
-      "image_three": "https://images.luxuryescapes.com/abk3ymuzcnqlpqpscbbb",
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -85,8 +49,8 @@
       "title": "Contemporary East Surabaya Hotel with Onsite Restaurant, Two Bars & Wellness Spa",
       "description": "Dive into the rich culture of East Surabaya with a stay at a contemporary urban retreat, ideally positioned within the thriving business district. This hotel offers an array of amenities, including the tranquil InBalance Wellness & Spa, and outdoor pool and children's pool and a games room - this is the perfect base for unwinding after a day of exploration. Indulge in a variety of local and international cuisine at the Food Exchange, or sip refreshing drinks across two onsite bars. For a taste of local culture, Bungkul Park, the historic Al-Akbar Mosque and the grand Surabaya Submarine Monument are a short drive away.",
       "location_subheading": "Indonesia",
-      "price": 121,
-      "original_price": 121,
+      "price": 122,
+      "original_price": 122,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnL4VYAV",
       "hero_image": "https://images.luxuryescapes.com/fxnfbbitqbetri0yur6",
@@ -114,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-16",
-    "hotel_count": 5,
-    "average_price": 133,
+    "last_updated": "2026-03-17",
+    "hotel_count": 3,
+    "average_price": 110,
     "average_discount": 0
   }
 }

@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Mooloolaba",
   "description": "Discover the best hotels in Mooloolaba, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/xef0zpjzzrf6ho50ryt",
+  "hero_image": "https://images.luxuryescapes.com/k483p34am8keog4grimo",
   "hotels": [
+    {
+      "vendor_name": "First Light Mooloolaba",
+      "offer_country_name": "Australia",
+      "location_heading": "Mooloolaba",
+      "title": "Mooloolaba Resort-Style Apartments Steps from the Esplanade with Complimentary Beach Cabana",
+      "description": "Renowned as one of the best beaches in the South Pacific and a 30-minute drive from the world-famous Australia Zoo, Mooloolaba is a must-visit destination along the Sunshine Coast. These self-contained apartments meld home-away-from-home comforts with luxury living, featuring private balconies or courtyards, floor-to-ceiling windows and modern kitchens bathed in natural sunlight. Onsite, you can swim laps in the pool and stay fit in the fitness centre, all just moments from the main thoroughfare. Each evening, relax and take in sweeping views from your private balcony. Your spacious apartment puts you within steps of the patrolled main beach, where white-sandy shores open up to rolling sapphire waves, and delicious seaside fare lines the esplanade - perfect for dinner after a day spent in your included cabana. This sun-drenched destination offers access to some of Australia’s best experiences, including Sea Life Sunshine Coast.",
+      "location_subheading": "Australia",
+      "price": 359,
+      "original_price": 630,
+      "discount_percentage": 43,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000QSKpdYAH",
+      "hero_image": "https://images.luxuryescapes.com/k483p34am8keog4grimo",
+      "image_two": "https://images.luxuryescapes.com/79dhhnfmdeka41d44dsc",
+      "image_three": "https://images.luxuryescapes.com/9sd694qmcs6wzgjdmm5",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-03-26 12:59:00"
+    },
     {
       "vendor_name": "Mantra Mooloolaba",
       "offer_country_name": "Australia",
@@ -31,8 +49,8 @@
       "title": "Sleek Sunshine Coast Beachfront Apartments on Mooloolaba Esplanade with Infinity Pool & BBQ Facilities",
       "description": "Make waves and embrace the laidback coastal lifestyle of the Sunshine Coast's Mooloolaba with a centrally located apartment stay. From the heated outdoor infinity pool facing the aquamarine waves of Mooloolaba Beach to the BBQ facilities, this collection of self-contained apartments is the perfect base for sun-kissed adventures or exploring the Glasshouse Mountains further afield. Located on the Mooloolaba Esplanade, you’re never far from the action - with trendy beachfront eateries, delicious cafes and the sparkling wharf sitting on the picturesque stretch. With popular attractions like Sea Life Sunshine Coast Aquarium, Australia Zoo or the Eumundi Markets a short drive away, this stay is the ideal choice for a family escape.",
       "location_subheading": "Australia",
-      "price": 651,
-      "original_price": 651,
+      "price": 650,
+      "original_price": 650,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRedLAAT",
       "hero_image": "https://images.luxuryescapes.com/7xnk1op84wdag3da79d",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-16",
-    "hotel_count": 4,
-    "average_price": 738,
-    "average_discount": 0
+    "last_updated": "2026-03-17",
+    "hotel_count": 5,
+    "average_price": 662,
+    "average_discount": 9
   }
 }

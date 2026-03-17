@@ -61,24 +61,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Kimpton The Pittman",
-      "offer_country_name": "United States",
-      "location_heading": "Dallas",
-      "title": "Ultra-Modern Dallas Neighbourhood Stay with Cocktail Bar & Pool",
-      "description": "Pristine modernity in the heart of Dallas’ thriving cultural centre, Kimpton Pittman Hotel, an IHG Hotel provides a perfect amalgamation of classic charm and contemporary design to provide top-tier relaxation. Admire the collection of modern art and sleek furnishings that decorate the expansive spaces as you enjoy a crisp beer or a creative cocktail on Deep End’s poolside open-air deck or relax in the plush confines of Elm & Good with a hearty, tavern-inspired feed.",
-      "location_subheading": "United States",
-      "price": 582,
-      "original_price": 582,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKEPAA3",
-      "hero_image": "https://images.luxuryescapes.com/bkcjzvuapongzm8h8ljd",
-      "image_two": "https://images.luxuryescapes.com/o7ukhkai6iibvf4sk4b8",
-      "image_three": "https://images.luxuryescapes.com/ydg9x8h5vdl5ae5ne07t",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Omni Dallas Hotel",
       "offer_country_name": "United States",
       "location_heading": "Dallas",
@@ -114,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-16",
-    "hotel_count": 5,
-    "average_price": 473,
+    "last_updated": "2026-03-17",
+    "hotel_count": 4,
+    "average_price": 446,
     "average_discount": 0
   }
 }

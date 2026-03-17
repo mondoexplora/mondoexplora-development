@@ -4,8 +4,26 @@
   "country_code": "ID",
   "hero_title": "Hotels in Tabanan",
   "description": "Discover the best hotels in Tabanan, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/zswie809ld5zjupb9hoj",
+  "hero_image": "https://images.luxuryescapes.com/2pnfuyuwq71mr4sojd",
   "hotels": [
+    {
+      "vendor_name": "Nirjhara",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Tabanan",
+      "title": "Boutique Bali Jungle Suites & Villas with Massages, Daily Breakfast, Nightly Dinner & Cocktail Hour",
+      "description": "Discover a jungle paradise in the tranquil embrace of this five-star retreat, nestled in the vibrant scenery of Tabanan. Balinese opulence meets timeless luxury at this intimate suite and villa property, surrounded by verdant rice fields and lush tropical foliage. Elegant touches such as private rooftop baths, fine dining and infinity pools complete the stay. Crafted with recycled wood, stone and traditional sirap wooden shingle roofing, the authentic decor honours the region's natural beauty. Relax by the property's waterfall, sink into serenity at the day spa, or sample exceptional cuisine at the onsite restaurant, Ambu. Just a short stroll from Nirjhara, you can enjoy spectacular Balinese sunsets on Kedungu Beach, making this resort an ideal choice for honeymooners, families and friends alike.",
+      "location_subheading": "Indonesia",
+      "price": 579,
+      "original_price": 1485,
+      "discount_percentage": 61,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000QXMikYAH",
+      "hero_image": "https://images.luxuryescapes.com/2pnfuyuwq71mr4sojd",
+      "image_two": "https://images.luxuryescapes.com/adj06zi6dz2r3ppxmwr",
+      "image_three": "https://images.luxuryescapes.com/imn2xto8d9wizsymxgi",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-03-31 12:59:00"
+    },
     {
       "vendor_name": "Nirjhara",
       "offer_country_name": "Indonesia",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-16",
-    "hotel_count": 3,
-    "average_price": 1579,
-    "average_discount": 9
+    "last_updated": "2026-03-17",
+    "hotel_count": 4,
+    "average_price": 1329,
+    "average_discount": 22
   }
 }

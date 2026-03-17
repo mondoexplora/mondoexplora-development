@@ -4,22 +4,22 @@
   "country_code": "CH",
   "hero_title": "Hotels in Geneva",
   "description": "Discover the best hotels in Geneva, Switzerland. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/1tbouyf877b3391bloan",
+  "hero_image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
   "hotels": [
     {
-      "vendor_name": "InterContinental Geneva",
+      "vendor_name": "Crowne Plaza Geneva",
       "offer_country_name": "Switzerland",
       "location_heading": "Geneva",
-      "title": "Geneva Five-Star InterContinental Escape with Lavish Outdoor Pool",
-      "description": "Immerse yourself in Geneva's staggering alpine beauty with an opulent stay at InterContinental Genève - ideally positioned on the scenic Left Bank, moments from the world-renowned Lake Geneva and the Palais des Nations. Beyond the crystal chandeliers and classic décor of this exceptional hotel is a lavish outdoor pool with breathtaking views of the snow-capped Mont Blanc. Three chic restaurants await gourmands and a tranquil day spa and fitness centre will keep you rejuvenated.",
+      "title": "Gorgeous Geneva Alpine Stay near the Airport",
+      "description": "Close to the heart of the commercial centre, Crown Plaza Geneva, an IHG Hotel, is a refined stay on the doorstep of gorgeous Geneva. Savour a delectable seasonal meal at restaurant Seventy5 or indulge in an intimate gastronomic experience at the Fondue Chalet. Enjoy the crisp Alpine air while taking in the many boutiques and chocolatiers of this cosmopolitan city, walk the cobblestone streets and discover historic buildings or lose yourself in the city's famous secret passages.",
       "location_subheading": "Switzerland",
-      "price": 703,
-      "original_price": 703,
+      "price": 351,
+      "original_price": 351,
       "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt5yAAB",
-      "hero_image": "https://images.luxuryescapes.com/1tbouyf877b3391bloan",
-      "image_two": "https://images.luxuryescapes.com/loxhfv3fjojmauzn1tdh",
-      "image_three": "https://images.luxuryescapes.com/q04881sbncm20v3eb75",
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CPtF9AAL",
+      "hero_image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
+      "image_two": "https://images.luxuryescapes.com/1qvyke39vf9qx5y9pggq",
+      "image_three": "https://images.luxuryescapes.com/cmrjkkvxckwb3kcn2oyk",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-16",
+    "last_updated": "2026-03-17",
     "hotel_count": 2,
-    "average_price": 976,
+    "average_price": 800,
     "average_discount": 0
   }
 }

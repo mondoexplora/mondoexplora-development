@@ -41,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Peppers Moonah Links Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Mornington Peninsula",
+      "title": "Mornington Peninsula Escape with Daily Breakfast, Golf Discounts & Hot Springs Upgrades Available",
+      "description": "Swing into a secluded coastal escape at this romantic retreat, perfectly located only moments from the award-winning Peninsula Hot Springs. Crowning the entry to two 18-hole championship golf courses, this upscale oasis boasts sweeping vistas from every angle, with each room and suite offering private balconies with glorious rolling green views. Tee off at first light or linger over a leisurely breakfast at the onsite Pebbles Restaurant as golden sunrises wash across the fairways. Spend afternoons unwinding with a rejuvenating soak at nearby Peninsula Hot Springs, exploring cellar doors and beach-framed towns dotted along the Mornington Peninsula or strolling coastal trails at Cape Schanck before retreating to your spacious, contemporary stay. Savour every bite at Pebbles Restaurant, which showcases the best of Victoria’s seasonal produce, expertly paired with exquisite local wines - think chips triple-fried in duck fat, stuffed king mushrooms and olive oil cake parfaits. Whether you’re seeking a golfer’s getaway, a gourmet escape or a tranquil couples’ retreat, this refined haven delivers the perfect balance of relaxation and recreation in one of Victoria’s most coveted coastal enclaves.",
+      "location_subheading": "Australia",
+      "price": 249,
+      "original_price": 623,
+      "discount_percentage": 60,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RiNhKYAV",
+      "hero_image": "https://images.luxuryescapes.com/4jdqcy3gbig6f130a9gm",
+      "image_two": "https://images.luxuryescapes.com/yl3lavzryqln01hzop1l",
+      "image_three": "https://images.luxuryescapes.com/43ib3wy1lms4g150aisi",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 2,
+      "end_date_utc": "2026-05-01 13:59:00"
     }
   ],
   "seo": {
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-16",
-    "hotel_count": 2,
-    "average_price": 724,
-    "average_discount": 3
+    "last_updated": "2026-03-17",
+    "hotel_count": 3,
+    "average_price": 566,
+    "average_discount": 22
   }
 }

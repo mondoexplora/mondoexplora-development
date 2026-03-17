@@ -4,8 +4,26 @@
   "country_code": "US",
   "hero_title": "Hotels in Washington DC",
   "description": "Discover the best hotels in Washington DC, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/3abdpaiqgk8yvtrysj5u4",
+  "hero_image": "https://images.luxuryescapes.com/zxb471hhklyhf6grckgd",
   "hotels": [
+    {
+      "vendor_name": "Kimpton George Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Washington DC",
+      "title": "Washington DC Stay Near Iconic Landmarks with Onsite Bistro",
+      "description": "Immerse yourself in America's esteemed history with a stay at Kimpton George Hotel, an IHG Hotel, located in the renowned Capitol Hill district. Learn more about the political heritage of Washington DC in the heart of downtown with access to iconic landmarks like the Capitol Building, Washington Monument and the Lincoln Memorial. After a day of exploration, fuel up at the onsite Bistro Bis or stretch your muscles in the fitness centre before turning into your heritage-themed room.",
+      "location_subheading": "United States",
+      "price": 536,
+      "original_price": 536,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKEfAAN",
+      "hero_image": "https://images.luxuryescapes.com/zxb471hhklyhf6grckgd",
+      "image_two": "https://images.luxuryescapes.com/mdmkh8sdeyv58acpho5",
+      "image_three": "https://images.luxuryescapes.com/e1qx2hk1pg8b6vj0rrh",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Kimpton Hotel Monaco Washington DC",
       "offer_country_name": "United States",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-16",
-    "hotel_count": 2,
-    "average_price": 761,
+    "last_updated": "2026-03-17",
+    "hotel_count": 3,
+    "average_price": 686,
     "average_discount": 0
   }
 }

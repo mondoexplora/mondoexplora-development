@@ -31,8 +31,8 @@
       "title": "Bustling Chicago Loop District Hotel with Rooftop Cocktail Bar",
       "description": "Kimpton Gray Hotel, an IHG Hotel epitomises timeless luxury in the heart of Chicago. Each meticulously designed room and suite offers a sanctuary of sophistication, with Nespresso coffee machines, deep soaking tubs and accessible-friendly amenities available in select rooms. Enjoy a cocktail at one of the hotel's bespoke bars, before indulging in an upscale dining experience at The Fillmore restaurant, where culinary artistry and impeccable service combine.",
       "location_subheading": "United States",
-      "price": 557,
-      "original_price": 557,
+      "price": 550,
+      "original_price": 550,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKFdAAN",
       "hero_image": "https://images.luxuryescapes.com/h1x9ib36048v90d9056m",
@@ -115,42 +115,6 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "Sofitel Chicago Mag. Mile",
-      "offer_country_name": "United States",
-      "location_heading": "Chicago",
-      "title": "Historic French-Inspired Luxury in the Heart of Chicago with Day Spa & Onsite Restaurant & Bar",
-      "description": "Experience the allure of the Windy City with a stay at a luxurious hotel, majestically towering over the heart of Chicago's Magnificent Mile. Surrounded by the city's finest dining, shopping, and cultural attractions, this architectural marvel offers the perfect base for exploring the city's vibrant scene. Just moments away, you'll find the Art Institute of Chicago, the Navy Pier, and the iconic Millennium Park. After a day of exploration, retreat to the hotel's chic lounge for a craft cocktail or savour French-inspired dishes at the onsite CDA Restaurant.",
-      "location_subheading": "United States",
-      "price": 598,
-      "original_price": 598,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnJdnYAF",
-      "hero_image": "https://images.luxuryescapes.com/pfbgt5xq2qrsry9kuov",
-      "image_two": "https://images.luxuryescapes.com/yyyw05fhfhjq6o0r3ixp",
-      "image_three": "https://images.luxuryescapes.com/zmd9n32bn8j9mfq4z466",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Swissotel Chicago",
-      "offer_country_name": "United States",
-      "location_heading": "Chicago",
-      "title": "Chicago Riverside Retreat Near Lake Michigan with Two Restaurants & Penthouse Fitness Centre",
-      "description": "Buckle up for a Chicago stay that's anything but ordinary. Swissôtel is where Swiss slickness meets Windy City style, dropping you right in the heart and soul of the third-largest city in the US. With wrap-around views from Navy Pier to Millenium Park and top-notch amenities, your stay here is all about convenience and spotless European-style service. Amuse is your friendly downtown coffee shop and bar in the bustling Lakeshore East neighbourhood, while The Palm serves up prime beef, Nova Scotia lobsters and traditional Italian flavours all day long. Fitness fanatics can crush their workout in the 43rd-floor penthouse fitness centre, while a knockout spa is on hand to help you unwind.",
-      "location_subheading": "United States",
-      "price": 572,
-      "original_price": 572,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GRoxBYAT",
-      "hero_image": "https://images.luxuryescapes.com/pax31bx8nmexvfzo07an",
-      "image_two": "https://images.luxuryescapes.com/yj9svw215io37oftgy71",
-      "image_three": "https://images.luxuryescapes.com/l3wsldgtc9srjrpfw0w",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
       "vendor_name": "The Allegro Royal Sonesta Hotel Chicago Loop",
       "offer_country_name": "United States",
       "location_heading": "Chicago",
@@ -204,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-16",
-    "hotel_count": 10,
-    "average_price": 523,
+    "last_updated": "2026-03-17",
+    "hotel_count": 8,
+    "average_price": 506,
     "average_discount": 3
   }
 }

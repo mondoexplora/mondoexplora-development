@@ -13,8 +13,8 @@
       "title": "Five-Star Oceanfront Quy Nhon Haven Overlooking Private Cove",
       "description": "Revel in a stay at Anatara Quy Nhon, a sanctuary ensconced in lush foliage and rugged mountains, set on the emerald Quy Nhon Bay. Whether you seek action-packed adventures or lazy sun-drenched days, it's all on offer from this escape, with easy access to ancient ruins, unexplored beaches and quaint fishing villages. Unwind at your own pace as you feast on Vietnamese delights at Sea.Fire.Salt, luxuriate with a treatment at Antara Spa or indulge in a cocktail at the poolside bar.",
       "location_subheading": "Vietnam",
-      "price": 1543,
-      "original_price": 1543,
+      "price": 2463,
+      "original_price": 2463,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009C7FDAA0",
       "hero_image": "https://images.luxuryescapes.com/jpumbfjah5ns2qzy1dzk",
@@ -31,8 +31,8 @@
       "title": "Boutique Quy Nhon Private Beach Indulgence with Cliff-Top Restaurant",
       "description": "The perfect blend of lush green hillside, pristine golden sand beaches and crystal blue waters, Avani Quy Nhon Resort boasts one of the most picturesque positions on Vietnam’s coastline. Bask on sun-soaked beaches, dive into crystal clear waters and observe sublime sunsets with a cool cocktail in hand from the rooftop Tre Restaurant. Indulge in a treatment at the spa or explore the local region - whatever you choose, Avani promises a serene tropical hideaway.",
       "location_subheading": "Vietnam",
-      "price": 363,
-      "original_price": 363,
+      "price": 588.6,
+      "original_price": 588.6,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009C7FwAAK",
       "hero_image": "https://images.luxuryescapes.com/p7sqcvjkendeykiguf2",
@@ -41,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 01:59:00"
+    },
+    {
+      "vendor_name": "The Ocean Resort by Fusion Quy Nhon",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Quy Nhon",
+      "title": "Vietnam Coastal Studios & Pool Villas with Daily Breakfast, Nightly Dinner & Free-Flow Drinks Hour",
+      "description": "Set along the tranquil Quy Nhon coastline, The Ocean Resort by Fusion Quy Nhon is a private sanctuary with sweeping ocean views, a dazzling infinity pool and wellness at its core. Quy Nhon is a coastal beauty, known for its rich heritage, ancient temples and crystal-clear waters. Perfectly positioned between the bustling hubs of Nha Trang and Hoi An, this serene retreat gives you the space to slow down. A top trending destination, Lonely Planet awarded Quy Nhon a top 25 destination to visit in 2026, celebrating its laid-back atmosphere, culture and natural beauty. Stay in your own studio or villa retreat, where calm interiors open to lush gardens and sea breezes. Spend leisurely days floating in the resort’s infinity pool, paddling out on kayaks or snorkelling in crystal-clear waters. At Maia Spa, restore body and mind with hydrotherapy, steam and sauna sessions, or surrender to signature treatments in serene private villas.",
+      "location_subheading": "Vietnam",
+      "price": 299,
+      "original_price": 831,
+      "discount_percentage": 64,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SjJXyYAN",
+      "hero_image": "https://images.luxuryescapes.com/55yycrbeclfwb1r9admi",
+      "image_two": "https://images.luxuryescapes.com/8bct22fmrng1iqyrpw",
+      "image_three": "https://images.luxuryescapes.com/tncxh68i1sv96aa9feip",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-06-02 13:59:00"
     }
   ],
   "seo": {
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-16",
-    "hotel_count": 2,
-    "average_price": 953,
-    "average_discount": 0
+    "last_updated": "2026-03-17",
+    "hotel_count": 3,
+    "average_price": 1117,
+    "average_discount": 21
   }
 }

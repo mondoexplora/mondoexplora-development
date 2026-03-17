@@ -12,34 +12,16 @@
       "description": "Explore Al Khobar with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 360
-    },
-    {
-      "name": "Makkah",
-      "slug": "makkah",
-      "image": "https://images.luxuryescapes.com/w5062zm2fxmp06emxpjf",
-      "description": "Explore Makkah with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 572
+      "avg_price": 356
     },
     {
       "name": "Riyadh",
       "slug": "riyadh",
-      "image": "https://images.luxuryescapes.com/kau8vsbgooneor10rqch",
+      "image": "https://images.luxuryescapes.com/16hr0j7p1z01ic4sxt",
       "description": "Explore Riyadh with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 583
-    },
-    {
-      "name": "Jeddah",
-      "slug": "jeddah",
-      "image": "https://images.luxuryescapes.com/onztyu5fq4lhb3uas4r",
-      "description": "Explore Jeddah with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 311
+      "avg_price": 650
     },
     {
       "name": "Medina",
@@ -51,13 +33,31 @@
       "avg_price": 409
     },
     {
+      "name": "Makkah",
+      "slug": "makkah",
+      "image": "https://images.luxuryescapes.com/w5062zm2fxmp06emxpjf",
+      "description": "Explore Makkah with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 480
+    },
+    {
+      "name": "Jeddah",
+      "slug": "jeddah",
+      "image": "https://images.luxuryescapes.com/vqlctddji9lcbhq2rhc5",
+      "description": "Explore Jeddah with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 391
+    },
+    {
       "name": "Madinah",
       "slug": "madinah",
       "image": "https://images.luxuryescapes.com/jh71czm4z2sj6neby02",
       "description": "Explore Madinah with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 481
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 638
     }
   ],
   "seo": {

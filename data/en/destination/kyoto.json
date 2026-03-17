@@ -4,8 +4,44 @@
   "country_code": "JP",
   "hero_title": "Hotels in Kyoto",
   "description": "Discover the best hotels in Kyoto, Japan. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/yhngnue3sehso7sbmtec",
+  "hero_image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
   "hotels": [
+    {
+      "vendor_name": "ANA Crowne Plaza Kyoto",
+      "offer_country_name": "Japan",
+      "location_heading": "Kyoto",
+      "title": "Kyoto Serene Urban Stay near UNESCO World Heritage-listed Nijo Castle Site",
+      "description": "Near the majestic Nijo Castle UNESCO heritage site, ANA Crowne Plaza Kyoto, an IHG Hotel, is a tranquil urban escape with stunning views of greenery and seasonal beauty. Take a calming walk through the Nijo Castle grounds while admiring verdant gardens and imposing stone walls. Dine at the multiple onsite restaurants, offering gastronomic greatness. As the day ends, retire to a tranquil guest room that combines refined minimalism with modern comfort for a sound slumber.",
+      "location_subheading": "Japan",
+      "price": 307,
+      "original_price": 307,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CPub3AAD",
+      "hero_image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
+      "image_two": "https://images.luxuryescapes.com/2qav90lvuxsibkxwtyv",
+      "image_three": "https://images.luxuryescapes.com/njvr0nofof8xh1zv8pme",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Ace Hotel Kyoto",
+      "offer_country_name": "Japan",
+      "location_heading": "Kyoto",
+      "title": "Downtown Kyoto Design Hotel with Daily Breakfast, One-Time Dinner & Rooftop Bar",
+      "description": "Discover a seamless fusion of East and West in the heart of Kyoto, where architect Kengo Kuma reimagined the former 1926 Central Telephone Office into a sleek, design-forward urban retreat. With curated artwork throughout the hotel, three onsite restaurants and an enviable central location, this trendy boutique bolthole is your ideal Kyoto base. Mornings begin with leisurely breakfast at Kosa, followed by a fresh brew from Stumptown Coffee Roasters. Evenings draw you to PIOPIKO, led by acclaimed chef Wes Avila, where tacos and cocktails have earned cult status among locals and travellers alike. Mr. Maurice’s rooftop serves up Italian fare and refreshing tipples, while the onsite art gallery and leafy courtyard offer the perfect spot to linger. Within a 10-minute walk, explore Nishiki Market and the Kyoto Art Center, or venture to nearby landmarks including Nijō Castle and the Imperial Palace, easily reached on foot or via the subway just next door. The historic streets and traditional teahouses of the Gion geisha district are just a short drive away.",
+      "location_subheading": "Japan",
+      "price": 469,
+      "original_price": 1091,
+      "discount_percentage": 57,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Oae9BYAR",
+      "hero_image": "https://images.luxuryescapes.com/xjy84r30ugieedtsfrh",
+      "image_two": "https://images.luxuryescapes.com/ec34tm58jsotn1c494k9",
+      "image_three": "https://images.luxuryescapes.com/ja95bsklrridk7u00tx",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-04-08 13:59:00"
+    },
     {
       "vendor_name": "Fauchon Hotel Kyoto",
       "offer_country_name": "Japan",
@@ -96,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-16",
-    "hotel_count": 4,
-    "average_price": 912,
-    "average_discount": 3
+    "last_updated": "2026-03-17",
+    "hotel_count": 6,
+    "average_price": 737,
+    "average_discount": 12
   }
 }

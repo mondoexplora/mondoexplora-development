@@ -31,8 +31,8 @@
       "title": "Stunning Port Macquarie Escape Moments from Town Beach with Shimmering Indoor Pool",
       "description": "Sitting opposite beautiful Town Beach, and surrounded by local bars and eateries, this charming Port Macquarie stay showcases the very best this coastal town has to offer. Spend your days exploring pristine beaches, cruising down coast-hugging roads and picking farm-fresh strawberries. Venture out to explore the Hastings River wine region. Back at the hotel, take advantage of the indoor heated lap pool, sauna and barbecue entertainment area.",
       "location_subheading": "Australia",
-      "price": 395,
-      "original_price": 395,
+      "price": 394,
+      "original_price": 394,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRes6AAD",
       "hero_image": "https://images.luxuryescapes.com/nvie7sogpq3m8ja04fh",
@@ -95,6 +95,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Sails Port Macquarie by Rydges",
+      "offer_country_name": "Australia",
+      "location_heading": "Port Macquarie",
+      "title": "Port Macquarie Waterfront Serenity with Daily Breakfast, Nightly Drinks & Cabana-Lined Pool",
+      "description": "Breathe in the fresh sea air with a tranquil escape to the Port Macquarie waterfront, where glorious beaches and lush hinterland beckon from sunrise to sundowners. Sails Port Macquarie feels more Hamptons home than hotel, making each stay feel like you’ve hit the jackpot. Pair your barista-made coffee with a sun-drenched buffet breakfast at The Boathouse Bar & Restaurant before heading out into the humming holiday destination of Port Macquarie. The area is famous for its beaches and bush walks, but the dining and shopping scene is equally attractive. Browse the waterways lined with world-class galleries, theatres, cafes and restaurants, then return to the hotel for a meal at The Pavilion & Garden Bar and a nightcap at the Boathouse. For quieter days of relaxation, seek some shade under a cabana and get to know the staff at the Poolside Bar & Terrace. Their skills in nailing your perfect cocktail will take you to holiday heaven.",
+      "location_subheading": "Australia",
+      "price": 279,
+      "original_price": 620,
+      "discount_percentage": 55,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000N32pdYAB",
+      "hero_image": "https://images.luxuryescapes.com/qbdbak24e82z5esttx",
+      "image_two": "https://images.luxuryescapes.com/zu6wqfiv7y4hh1q3yz",
+      "image_three": "https://images.luxuryescapes.com/db8q6z3hvlwkgmfbcbys",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 2,
+      "end_date_utc": "2026-03-31 12:59:00"
     }
   ],
   "seo": {
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-16",
-    "hotel_count": 5,
-    "average_price": 388,
-    "average_discount": 2
+    "last_updated": "2026-03-17",
+    "hotel_count": 6,
+    "average_price": 369,
+    "average_discount": 11
   }
 }

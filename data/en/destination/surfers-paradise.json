@@ -31,8 +31,8 @@
       "title": "Stylish Surfers Paradise Apartment Stay with Private Cinema, Three Pools & Shopping Centre Access",
       "description": "Elevate your Gold Coast stay and discover the perfect home-away-from-home at the Mantra Circle on Cavill Surfers Paradise. Offering apartment-style living and boasting top-notch facilities including a private cinema, three swimming pools, a spa, and direct access to some of the area's best shopping, you'll be in an ideal location to explore Surfers Paradise. Should you venture out, you'll find an array of tantalising eateries, gorgeous sandy beaches and activities for the whole family just a stone's throw away.",
       "location_subheading": "Australia",
-      "price": 325,
-      "original_price": 325,
+      "price": 322,
+      "original_price": 322,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Gw9f3AAB",
       "hero_image": "https://images.luxuryescapes.com/xjyma1mf1ddhz077nmtq",
@@ -151,6 +151,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Paradise Centre",
+      "offer_country_name": "Australia",
+      "location_heading": "Surfers Paradise",
+      "title": "Spacious Surfers Paradise Self-Contained Apartments Metres from the Beach with Two Pools",
+      "description": "Enjoy a home away from home in the sparkling Gold Coast with a stay at this collection of stylish apartments, perfectly positioned in the heart of Surfers Paradise. Built above the Paradise Centre shopping complex, retail therapy and the the golden sands of the beach are just moments from your doorstep. Plus the vibrant dining options and eclectic mix of boutiques along Cavill Avenue are also nearby. Each one-, two- or three-bedroom apartment offers stunning ocean views, a fully-equipped kitchen and spacious living areas. Onsite, relax as you please with two outdoor swimming pools, tennis courts, and a spa and sauna.",
+      "location_subheading": "Australia",
+      "price": 287,
+      "original_price": 287,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRer2AAD",
+      "hero_image": "https://images.luxuryescapes.com/jx86yt3bzaig8xa5pt7",
+      "image_two": "https://images.luxuryescapes.com/xxua7eilffixmg1hqmd",
+      "image_three": "https://images.luxuryescapes.com/zxdlcuvktka3vahykj7d",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Paradise Resort Gold Coast",
       "offer_country_name": "Australia",
       "location_heading": "Surfers Paradise",
@@ -222,9 +240,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-16",
-    "hotel_count": 11,
-    "average_price": 341,
+    "last_updated": "2026-03-17",
+    "hotel_count": 12,
+    "average_price": 336,
     "average_discount": 0
   }
 }

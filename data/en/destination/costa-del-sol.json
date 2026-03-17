@@ -1,0 +1,50 @@
+{
+  "city": "Costa del Sol",
+  "country": "Spain",
+  "country_code": "ES",
+  "hero_title": "Hotels in Costa del Sol",
+  "description": "Discover the best hotels in Costa del Sol, Spain. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/ylzvcffztxh10vdy12r",
+  "hotels": [
+    {
+      "vendor_name": "METT Marbella - Estepona",
+      "offer_country_name": "Spain",
+      "location_heading": "Costa del Sol",
+      "title": "Costa del Sol Beachfront Luxury with Daily Breakfast, EUR80 Dining Credit & Exclusive Beach Club",
+      "description": "Experience Mediterranean glamour along Spain’s Costa del Sol at this modern beachfront resort, where swaying palm trees, golden sands and crystal-clear waters create the perfect coastal escape. The onsite Azure Beach Club is a must-visit, offering a pool, beach and lounge area - an ideal spot to relax, people-watch and enjoy spectacular sunsets. Indulge in hearty Italian cuisine paired with an extensive wine list at Isola or embrace the beachfront ambience with a refreshing cocktail and Spanish tapas at El Bar De Lola, nestled under lush vines by the resort’s shimmering pool. Venture beyond the resort to explore Estepona’s charming Old Town, stroll around the stylish Puerto Banús marina or dive into Marbella’s vibrant art scene at the Museo del Grabado. After a day of exploring, unwind at the MOI Spa with a soothing massage or luxurious facial, or swim a few laps in the indoor pool after a workout at the world-class fitness centre.",
+      "location_subheading": "Spain",
+      "price": 839,
+      "original_price": 2996,
+      "discount_percentage": 72,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000M4WpRYAV",
+      "hero_image": "https://images.luxuryescapes.com/ylzvcffztxh10vdy12r",
+      "image_two": "https://images.luxuryescapes.com/umummdgp1p5963tp9qy",
+      "image_three": "https://images.luxuryescapes.com/g8xlfps1wpy1npxfnvm9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-04-09 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Costa del Sol - Spain Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Costa del Sol, Spain with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "costa del sol hotels",
+      "costa del sol travel",
+      "spain hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/costa-del-sol",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/costa-del-sol",
+      "es": "https://mondoexplora.com/es/destination/costa-del-sol",
+      "fr": "https://mondoexplora.com/fr/destination/costa-del-sol",
+      "it": "https://mondoexplora.com/it/destination/costa-del-sol"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-03-17",
+    "hotel_count": 1,
+    "average_price": 839,
+    "average_discount": 72
+  }
+}

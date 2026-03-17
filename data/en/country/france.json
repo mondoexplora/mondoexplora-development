@@ -3,16 +3,16 @@
   "code": "FR",
   "hero_title": "France Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in France.",
-  "hero_image": "https://images.luxuryescapes.com/ej7z33w4b3bxsraxjzy",
+  "hero_image": "https://images.luxuryescapes.com/ooohlgxzefzt3nj03y2b",
   "popular_destinations": [
     {
       "name": "Paris",
       "slug": "paris",
-      "image": "https://images.luxuryescapes.com/ej7z33w4b3bxsraxjzy",
+      "image": "https://images.luxuryescapes.com/ooohlgxzefzt3nj03y2b",
       "description": "Explore Paris with luxury accommodations",
-      "hotel_count": 23,
-      "hotel_deals": 23,
-      "avg_price": 1326
+      "hotel_count": 24,
+      "hotel_deals": 24,
+      "avg_price": 1322
     },
     {
       "name": "Lyon",
@@ -21,25 +21,25 @@
       "description": "Explore Lyon with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 520
+      "avg_price": 443
     },
     {
       "name": "Bordeaux",
       "slug": "bordeaux",
-      "image": "https://images.luxuryescapes.com/hz7b3hejmw272xvzh70g8",
+      "image": "https://images.luxuryescapes.com/e4numb74ohjtqxhumpx",
       "description": "Explore Bordeaux with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 469
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 421
     },
     {
-      "name": "Cannes",
-      "slug": "cannes",
-      "image": "https://images.luxuryescapes.com/ygev0ifhwmron4pviknk",
-      "description": "Explore Cannes with luxury accommodations",
+      "name": "Strasbourg",
+      "slug": "strasbourg",
+      "image": "https://images.luxuryescapes.com/9o0ztaigin4d4zkdunjl",
+      "description": "Explore Strasbourg with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 630
+      "avg_price": 322
     },
     {
       "name": "Marseille",

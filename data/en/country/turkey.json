@@ -3,16 +3,16 @@
   "code": "TR",
   "hero_title": "Turkey Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Turkey.",
-  "hero_image": "https://images.luxuryescapes.com/17vjwp1o78as570r7u6k",
+  "hero_image": "https://images.luxuryescapes.com/7ak7x43f0r5gvwa6wauj",
   "popular_destinations": [
     {
       "name": "Istanbul",
       "slug": "istanbul",
-      "image": "https://images.luxuryescapes.com/17vjwp1o78as570r7u6k",
+      "image": "https://images.luxuryescapes.com/7ak7x43f0r5gvwa6wauj",
       "description": "Explore Istanbul with luxury accommodations",
-      "hotel_count": 13,
-      "hotel_deals": 13,
-      "avg_price": 614
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 812
     },
     {
       "name": "Bursa",
@@ -21,16 +21,7 @@
       "description": "Explore Bursa with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 257
-    },
-    {
-      "name": "Bodrum",
-      "slug": "bodrum",
-      "image": "https://images.luxuryescapes.com/qq5ipl3g8cwgbbw4iwl4j",
-      "description": "Explore Bodrum with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 1468
+      "avg_price": 265
     },
     {
       "name": "Ankara",
@@ -58,6 +49,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 1147
+    },
+    {
+      "name": "Buyukada",
+      "slug": "buyukada",
+      "image": "https://images.luxuryescapes.com/r2i2jmyjh55tgs92owm",
+      "description": "Explore Buyukada with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1562
     }
   ],
   "seo": {

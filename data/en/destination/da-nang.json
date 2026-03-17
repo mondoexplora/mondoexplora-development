@@ -25,14 +25,32 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "KOI RESORT & RESIDENCE DA NANG",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Da Nang",
+      "title": "Da Nang Beachfront Escape with Daily Breakfast, Daily Lunch or Dinner & Free-Flow Cocktail Hour",
+      "description": "Perched on Da Nang’s coastline, this contemporary resort is in a prime location for exploring all the best the region has to offer. It sits just steps from the powder-fine sands of Non Nuoc Beach, one of Vietnam's most sought-after shorelines, and moments from the picturesque scenery of the Marble Mountains. Plus, venture for just 30 minutes by car to reach the charming, UNESCO-listed Hoi An Ancient Town. The resort's sleek rooms and villas are complemented by five onsite bars and restaurants with authentic Vietnamese dining as well as modern Asian fusion. After hours of swimming in crystal-clear waters at the beach, retreat to Koi Spa & Wellness for an aromatherapy-infused massage to relax and fully unwind. With a kids' club keeping little ones entertained, this is coastal Vietnamese luxury for the whole family.",
+      "location_subheading": "Vietnam",
+      "price": 729,
+      "original_price": 2083,
+      "discount_percentage": 65,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000P0XwuYAF",
+      "hero_image": "https://images.luxuryescapes.com/3wfasv50zwss8ldlol",
+      "image_two": "https://images.luxuryescapes.com/fj914lpgaoppcaxg6dp",
+      "image_three": "https://images.luxuryescapes.com/qijc6ggmipzy2w24gd5f",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-03-25 12:59:00"
+    },
+    {
       "vendor_name": "Novotel Danang Premier Han River",
       "offer_country_name": "Vietnam",
       "location_heading": "Da Nang",
       "title": "Vietnam Riverfront Retreat in Da Nang with Rooftop Pool & City View Spa",
       "description": "Escape to this stylish sanctuary set against the dazzling backdrop of downtown Da Nang and Han River. A destination where expansive beaches, lush mountains and vibrant riverfronts collide, Da Nang is a must-stop during your Vietnam travels. Take advantage of the hotel’s exceptional dining options, including Gourmet Bar, The Square and The Balcony, all serving up international fare and elegant surroundings. Watch the sunset cast warm hues over the Han River while sipping a cocktail at the lively Splash Pool Bar. When you're not marvelling at panoramic views of Dragon Bridge, take advantage of the hotel’s variety of wellness offerings, from fitness and yoga classes to a serene onsite spa.",
       "location_subheading": "Vietnam",
-      "price": 203,
-      "original_price": 203,
+      "price": 190,
+      "original_price": 190,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP4xYAF",
       "hero_image": "https://images.luxuryescapes.com/6c6xm092vlfi7l3z5l4",
@@ -41,24 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "voco Ma Belle Danang",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Da Nang",
-      "title": "Coastal-Cool Danang City Break near My Khe Beach",
-      "description": "Embrace surfside serenity in Vietnam’s coastal heart with a stay at the delightful voco Ma Belle Danang, an IHG Hotel. Perfectly positioned within strolling distance of My Khe Beach’s legendary breaks, this design-led hotel offers the perfect base to discover Danang’s cultural brilliance. Return to laidback Nikkei-inspired plates and spectacular panoramas at the vibrant rooftop restaurant and bar or enjoy quiet moments lazing by the hotel’s mirage-like outdoor pool.",
-      "location_subheading": "Vietnam",
-      "price": 219,
-      "original_price": 219,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNRG4AAP",
-      "hero_image": "https://images.luxuryescapes.com/qkq8d8tp59ie39yac6j",
-      "image_two": "https://images.luxuryescapes.com/sufja5a0r7stuivtxaz2",
-      "image_three": "https://images.luxuryescapes.com/9ipr9694j1ivv49zclb",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Banyan Tree Lang Co",
@@ -96,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-16",
+    "last_updated": "2026-03-17",
     "hotel_count": 4,
-    "average_price": 432,
-    "average_discount": 0
+    "average_price": 556,
+    "average_discount": 16
   }
 }
