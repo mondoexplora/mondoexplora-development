@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 01:59:00"
+    },
+    {
+      "vendor_name": "InterContinental Kaohsiung",
+      "offer_country_name": "Taiwan (Province of China)",
+      "location_heading": "Kaohsiung",
+      "title": "Beautiful Taiwanese Escape on the Banks of Local Harbour with Five Onsite Restaurants",
+      "description": "Escape to the beautiful city of Kaohsiung, home to Taiwan’s largest port, and stay at the lavish InterContinental Kaohsiung, an IHG Hotel. The hotel is perfectly positioned to overlook the tranquil Kaohsiung Harbour and is the ideal location to explore the exciting city below. Soak in the Taiwanese atmosphere, meet the locals then return to relax in the gorgeous indoor pool and enjoy a meal in one of the five onsite restaurants, all offering a variety of dining experiences to suit any appetite.",
+      "location_subheading": "Taiwan (Province of China)",
+      "price": 513,
+      "original_price": 513,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNl86AAD",
+      "hero_image": "https://images.luxuryescapes.com/867pimn3rsgnk89zvyr",
+      "image_two": "https://images.luxuryescapes.com/dk1p7u36ocoxddloa3up",
+      "image_three": "https://images.luxuryescapes.com/xsdmv8nswbs1d7e66v06",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-17",
-    "hotel_count": 1,
-    "average_price": 312,
+    "last_updated": "2026-03-18",
+    "hotel_count": 2,
+    "average_price": 413,
     "average_discount": 0
   }
 }

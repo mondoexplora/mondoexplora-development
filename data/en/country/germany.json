@@ -3,8 +3,26 @@
   "code": "DE",
   "hero_title": "Germany Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Germany.",
-  "hero_image": "https://images.luxuryescapes.com/3jkn70tstn9sxal7h9of",
+  "hero_image": "https://images.luxuryescapes.com/slbwbkhtxwk15zuaxs4",
   "popular_destinations": [
+    {
+      "name": "Berlin",
+      "slug": "berlin",
+      "image": "https://images.luxuryescapes.com/slbwbkhtxwk15zuaxs4",
+      "description": "Explore Berlin with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 421
+    },
+    {
+      "name": "Munich",
+      "slug": "munich",
+      "image": "https://images.luxuryescapes.com/43mhpife4gzr2fut19on",
+      "description": "Explore Munich with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 652
+    },
     {
       "name": "Frankfurt",
       "slug": "frankfurt",
@@ -12,25 +30,16 @@
       "description": "Explore Frankfurt with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 183
+      "avg_price": 181
     },
     {
-      "name": "Munich",
-      "slug": "munich",
-      "image": "https://images.luxuryescapes.com/2upplwii1id6x1znrges",
-      "description": "Explore Munich with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 751
-    },
-    {
-      "name": "Berlin",
-      "slug": "berlin",
-      "image": "https://images.luxuryescapes.com/o8o2oduntgt5ctimxjw",
-      "description": "Explore Berlin with luxury accommodations",
+      "name": "Hamburg",
+      "slug": "hamburg",
+      "image": "https://images.luxuryescapes.com/tfes5lgqtc1dwksjv6n7",
+      "description": "Explore Hamburg with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 664
+      "avg_price": 350
     },
     {
       "name": "Dusseldorf",
@@ -49,15 +58,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 1575
-    },
-    {
-      "name": "Garmisch-Partenkirchen",
-      "slug": "garmisch-partenkirchen",
-      "image": "https://images.luxuryescapes.com/tovaydbw4f8bpjmgc38",
-      "description": "Explore Garmisch-Partenkirchen with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 381
     }
   ],
   "seo": {

@@ -15,13 +15,22 @@
       "avg_price": 214
     },
     {
+      "name": "Recife",
+      "slug": "recife",
+      "image": "https://images.luxuryescapes.com/dihal64w8m6oehm3flglg",
+      "description": "Explore Recife with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 414
+    },
+    {
       "name": "Porto Alegre",
       "slug": "porto-alegre",
       "image": "https://images.luxuryescapes.com/ey5ifq9ie3kexcfj2dw",
       "description": "Explore Porto Alegre with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 225
+      "avg_price": 226
     },
     {
       "name": "Rio de Janeiro",
@@ -30,7 +39,7 @@
       "description": "Explore Rio de Janeiro with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 361
+      "avg_price": 362
     },
     {
       "name": "São Paulo",
@@ -39,7 +48,7 @@
       "description": "Explore São Paulo with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 236
+      "avg_price": 237
     }
   ],
   "seo": {

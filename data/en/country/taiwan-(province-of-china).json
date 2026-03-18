@@ -10,18 +10,45 @@
       "slug": "taipei",
       "image": "https://images.luxuryescapes.com/ci3o66uphlwbg6vcffz",
       "description": "Explore Taipei with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 721
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 672
     },
     {
       "name": "Kaohsiung",
       "slug": "kaohsiung",
       "image": "https://images.luxuryescapes.com/f5uimy0ynotv9esxb4ge",
       "description": "Explore Kaohsiung with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 413
+    },
+    {
+      "name": "Chiayi County",
+      "slug": "chiayi-county",
+      "image": "https://images.luxuryescapes.com/w0wq2vkz1o8unrj2uz9o",
+      "description": "Explore Chiayi County with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 312
+      "avg_price": 815
+    },
+    {
+      "name": "Taipei City",
+      "slug": "taipei-city",
+      "image": "https://images.luxuryescapes.com/bwra7naogpn7mu10mnzp",
+      "description": "Explore Taipei City with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 577
+    },
+    {
+      "name": "Taoyuan",
+      "slug": "taoyuan",
+      "image": "https://images.luxuryescapes.com/85h3yt7ps193t2pnsgo",
+      "description": "Explore Taoyuan with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 308
     }
   ],
   "seo": {
