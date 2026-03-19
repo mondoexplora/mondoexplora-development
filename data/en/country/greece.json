@@ -12,7 +12,7 @@
       "description": "Explore Athens with luxury accommodations",
       "hotel_count": 10,
       "hotel_deals": 10,
-      "avg_price": 588
+      "avg_price": 593
     },
     {
       "name": "Santorini",
@@ -37,9 +37,9 @@
       "slug": "crete",
       "image": "https://images.luxuryescapes.com/gqg07xxgnt8ol0n5wfw",
       "description": "Explore Crete with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 881
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 1017
     },
     {
       "name": "Corfu",
@@ -57,7 +57,7 @@
       "description": "Explore Thessaloniki with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 403
+      "avg_price": 400
     }
   ],
   "seo": {
