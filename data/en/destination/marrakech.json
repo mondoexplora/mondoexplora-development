@@ -4,8 +4,26 @@
   "country_code": "MA",
   "hero_title": "Hotels in Marrakech",
   "description": "Discover the best hotels in Marrakech, Morocco. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/qaq9ke22tmroeyt6ru",
+  "hero_image": "https://images.luxuryescapes.com/k233e0d10blsisexz0lc",
   "hotels": [
+    {
+      "vendor_name": "Es Saadi Marrakech Resort - Palace",
+      "offer_country_name": "Morocco",
+      "location_heading": "Marrakech",
+      "title": "Palace-Inspired Marrakech Luxury Suites & Villas with Opulent Gardens & Lagoon-Style Pool",
+      "description": "Spread across eight hectares of gardens in Marrakech's elegant Hivernage district, Es Saadi Marrakech Resort Palace offers a luxury oasis unlike any other. Palms, bougainvillea and fragrant roses frame the resort's 2,400-square-metre lagoon pool, one of the city's largest, while the sprawling The Spa at the Palace offers signature treatments and hammam rituals. Head to La Cour des Lions for gourmet Moroccan cuisine is built around produce from Le Potager du Bled, the resort's own organic farm in the Ourika Valley, or savour Venetian-inspired seafood plates at Othello. When you're ready to explore, The Medina, Jardin Majorelle and the Yves Saint Laurent Museum are all within easy reach.",
+      "location_subheading": "Morocco",
+      "price": 1763,
+      "original_price": 1763,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002Igq5IAC",
+      "hero_image": "https://images.luxuryescapes.com/k233e0d10blsisexz0lc",
+      "image_two": "https://images.luxuryescapes.com/6cdtxtmnpo3vfq7l138",
+      "image_three": "https://images.luxuryescapes.com/9kh5szsvasnclfhif2l",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Fairmont Royal Palm Marrakech",
       "offer_country_name": "Morocco",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-19",
-    "hotel_count": 3,
-    "average_price": 2199,
-    "average_discount": 4
+    "last_updated": "2026-03-20",
+    "hotel_count": 4,
+    "average_price": 2090,
+    "average_discount": 3
   }
 }

@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Marysville",
   "description": "Discover the best hotels in Marysville, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/xdx4pf6pkgzgia1xfmjgl",
+  "hero_image": "https://images.luxuryescapes.com/pokvomwb48il053uqv2",
   "hotels": [
-    {
-      "vendor_name": "Peppers Marysville",
-      "offer_country_name": "Australia",
-      "location_heading": "Marysville",
-      "title": "Yarra Valley Countryside Stay near Lake Mountain with Pristine Pool & Locally-Inspired Restaurant",
-      "description": "Discover the magic of Victoria’s breathtaking Yarra Valley region with a relaxing stay right in the heart of Marysville. Peppers Marysville is perfectly positioned to explore the abundance of highly acclaimed wineries in the sprawling Yarra Valley. When you aren’t sampling Victoria’s finest vintages and innovative drops, the rolling Cathedral Ranges, national parks and alpine wonders await. Peppers Marysville boasts a luxury onsite wellness spa and sauna, and Andiamo Restaurant and Bar, cementing the hotel as the perfect spot for an indulgent and blissful romantic escape. Take the time to soak up serenity with a swim in the long, heated pool that overlooks lush green landscapes or challenge a loved one to a tennis game on the resort’s scenic grounds.",
-      "location_subheading": "Australia",
-      "price": 398,
-      "original_price": 398,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Lf8X0YAJ",
-      "hero_image": "https://images.luxuryescapes.com/xdx4pf6pkgzgia1xfmjgl",
-      "image_two": "https://images.luxuryescapes.com/xt5p5icejp3tkvn9r2k",
-      "image_three": "https://images.luxuryescapes.com/l8zkmu6kvkh03utkkk3",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Peppers Marysville",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 2,
       "end_date_utc": "2026-03-31 12:59:00"
+    },
+    {
+      "vendor_name": "Peppers Marysville",
+      "offer_country_name": "Australia",
+      "location_heading": "Marysville",
+      "title": "Yarra Valley Countryside Stay near Lake Mountain with Pristine Pool & Locally-Inspired Restaurant",
+      "description": "Discover the magic of Victoria’s breathtaking Yarra Valley region with a relaxing stay right in the heart of Marysville. Peppers Marysville is perfectly positioned to explore the abundance of highly acclaimed wineries in the sprawling Yarra Valley. When you aren’t sampling Victoria’s finest vintages and innovative drops, the rolling Cathedral Ranges, national parks and alpine wonders await. Peppers Marysville boasts a luxury onsite wellness spa and sauna, and Andiamo Restaurant and Bar, cementing the hotel as the perfect spot for an indulgent and blissful romantic escape. Take the time to soak up serenity with a swim in the long, heated pool that overlooks lush green landscapes or challenge a loved one to a tennis game on the resort’s scenic grounds.",
+      "location_subheading": "Australia",
+      "price": 388,
+      "original_price": 388,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Lf8X0YAJ",
+      "hero_image": "https://images.luxuryescapes.com/xdx4pf6pkgzgia1xfmjgl",
+      "image_two": "https://images.luxuryescapes.com/xt5p5icejp3tkvn9r2k",
+      "image_three": "https://images.luxuryescapes.com/l8zkmu6kvkh03utkkk3",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-19",
+    "last_updated": "2026-03-20",
     "hotel_count": 2,
-    "average_price": 334,
+    "average_price": 329,
     "average_discount": 27
   }
 }

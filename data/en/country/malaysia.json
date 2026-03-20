@@ -12,7 +12,7 @@
       "description": "Explore Kuala Lumpur with luxury accommodations",
       "hotel_count": 17,
       "hotel_deals": 17,
-      "avg_price": 338
+      "avg_price": 336
     },
     {
       "name": "Penang",
@@ -21,7 +21,7 @@
       "description": "Explore Penang with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 303
+      "avg_price": 302
     },
     {
       "name": "Kota Kinabalu",
@@ -30,7 +30,7 @@
       "description": "Explore Kota Kinabalu with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 462
+      "avg_price": 460
     },
     {
       "name": "Langkawi",
@@ -39,7 +39,7 @@
       "description": "Explore Langkawi with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 601
+      "avg_price": 600
     },
     {
       "name": "Kuching",
@@ -51,13 +51,13 @@
       "avg_price": 326
     },
     {
-      "name": "Sepang",
-      "slug": "sepang",
-      "image": "https://images.luxuryescapes.com/xi501eo8e0pqccokc1l",
-      "description": "Explore Sepang with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 270
+      "name": "Johor Bahru",
+      "slug": "johor-bahru",
+      "image": "https://images.luxuryescapes.com/vu9fh1ka9u0h79i4p84",
+      "description": "Explore Johor Bahru with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 247
     }
   ],
   "seo": {

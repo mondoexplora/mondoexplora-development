@@ -4,26 +4,8 @@
   "country_code": "MV",
   "hero_title": "Hotels in Kooddoo Island",
   "description": "Discover the best hotels in Kooddoo Island, Maldives. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/8lmon526es6jm6rwdnu",
+  "hero_image": "https://images.luxuryescapes.com/q3jeml4qcjlm8vo6ginb",
   "hotels": [
-    {
-      "vendor_name": "Mercure Maldives Kooddoo",
-      "offer_country_name": "Maldives",
-      "location_heading": "Kooddoo Island",
-      "title": "Maldives Adults-Only Oasis with Two Restaurants, Onsite Spa & Infinity Pool",
-      "description": "Surrender to the allure of the Maldives at this oasis that feels worlds away from the everyday. Just a 60-minute domestic flight from Malé, the Gaafu Alifu Atoll awaits, surrounded by a vividly blue ocean. Culinary delights abound, with international flavours at Alita restaurant and authentic Italian dishes at the overwater restaurant Vista. Unwind with a handcrafted cocktail at the Pool Bar before retreating to your private island haven. Relax at the serene Suvadiva Spa, or snorkel through the pristine underwater wonders of the atoll. As an adults-only resort, this retreat offers the ultimate escape where you can bask in breathtaking sunsets and enjoy uninterrupted peace with your loved one.",
-      "location_subheading": "Maldives",
-      "price": 867,
-      "original_price": 867,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnOx3YAF",
-      "hero_image": "https://images.luxuryescapes.com/8lmon526es6jm6rwdnu",
-      "image_two": "https://images.luxuryescapes.com/cl315euaa6apiwbdxh9",
-      "image_three": "https://images.luxuryescapes.com/pyfn85s7yej0a9ho4jw",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Mercure Maldives Kooddoo",
       "offer_country_name": "Maldives",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 5,
       "end_date_utc": "2026-05-01 13:59:00"
+    },
+    {
+      "vendor_name": "Mercure Maldives Kooddoo",
+      "offer_country_name": "Maldives",
+      "location_heading": "Kooddoo Island",
+      "title": "Maldives Adults-Only Oasis with Two Restaurants, Onsite Spa & Infinity Pool",
+      "description": "Surrender to the allure of the Maldives at this oasis that feels worlds away from the everyday. Just a 60-minute domestic flight from Malé, the Gaafu Alifu Atoll awaits, surrounded by a vividly blue ocean. Culinary delights abound, with international flavours at Alita restaurant and authentic Italian dishes at the overwater restaurant Vista. Unwind with a handcrafted cocktail at the Pool Bar before retreating to your private island haven. Relax at the serene Suvadiva Spa, or snorkel through the pristine underwater wonders of the atoll. As an adults-only resort, this retreat offers the ultimate escape where you can bask in breathtaking sunsets and enjoy uninterrupted peace with your loved one.",
+      "location_subheading": "Maldives",
+      "price": 862,
+      "original_price": 862,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnOx3YAF",
+      "hero_image": "https://images.luxuryescapes.com/8lmon526es6jm6rwdnu",
+      "image_two": "https://images.luxuryescapes.com/cl315euaa6apiwbdxh9",
+      "image_three": "https://images.luxuryescapes.com/pyfn85s7yej0a9ho4jw",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-19",
+    "last_updated": "2026-03-20",
     "hotel_count": 2,
-    "average_price": 1823,
+    "average_price": 1821,
     "average_discount": 27
   }
 }
