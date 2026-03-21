@@ -4,8 +4,26 @@
   "country_code": "GR",
   "hero_title": "Hotels in Zakynthos",
   "description": "Discover the best hotels in Zakynthos, Greece. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/79pyvv7zdrirnobyyx8e",
+  "hero_image": "https://images.luxuryescapes.com/zhz0bg2zntczl4cgde4p",
   "hotels": [
+    {
+      "vendor_name": "Olea All Suite Hotel - Member of Design Hotels",
+      "offer_country_name": "Greece",
+      "location_heading": "Zakynthos",
+      "title": "Greek Island Glamour: Zakynthos Luxury Suites with Daily Breakfast, Nightly Dinner & Cocktails",
+      "description": "Perched on a Zakynthian hillside among ancient olive groves, Olea All Suite Hotel is a five-star, design-led property with panoramic views from every corner. Designed in a tropical-modernist style, the hotel wraps around a sprawling lake-like pool, with streams and waterways threading between suite clusters, hidden gardens and age-old olive trees. Eat well, sleep better and do very little in between. Flow serves elevated Mediterranean cuisine with hilltop views, Flame celebrates premium cuts with open fire cooking, while Omikron delivers exquisite dining under soaring double-height ceilings with sea views stretching to the horizon. Olea Royal Spa rounds it all out with a hammam, sauna, yoga pavilion and a menu of deep relaxation treatments.",
+      "location_subheading": "Greece",
+      "price": 1329,
+      "original_price": 3323,
+      "discount_percentage": 60,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SycIPYAZ",
+      "hero_image": "https://images.luxuryescapes.com/zhz0bg2zntczl4cgde4p",
+      "image_two": "https://images.luxuryescapes.com/cdupbwydjgurh88jp9nn",
+      "image_three": "https://images.luxuryescapes.com/dhfswnvlymtz8vsevwe",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-04-09 13:59:00"
+    },
     {
       "vendor_name": "PORTO ZANTE VILLAS & SPA",
       "offer_country_name": "Greece",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-20",
-    "hotel_count": 1,
-    "average_price": 7050,
-    "average_discount": 6
+    "last_updated": "2026-03-21",
+    "hotel_count": 2,
+    "average_price": 4190,
+    "average_discount": 33
   }
 }

@@ -4,26 +4,8 @@
   "country_code": "NZ",
   "hero_title": "Hotels in Windwhistle",
   "description": "Discover the best hotels in Windwhistle, New Zealand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ch4z2rxr1m69lb7kx3o",
+  "hero_image": "https://images.luxuryescapes.com/pdurqdv1qdcg3chzmeh",
   "hotels": [
-    {
-      "vendor_name": "Fable Terrace Downs Resort",
-      "offer_country_name": "New Zealand",
-      "location_heading": "Windwhistle",
-      "title": "New Zealand Remote Southern Alps Resort with Bar, Restaurant & 18-Hole Golf Course",
-      "description": "Soak up the beauty of Canterbury’s picturesque Southern Alps with an escape at the blissfully secluded Fable Terrace Downs Resort. Here, relaxation meets stunning scenery and avid golfers can revel in the chance to play on a high country 18-hole championship golf course designed by Sid Puddicombe. After winding your way along the green, refuel at the Clubhouse Restaurant for locally sourced produce with a contemporary take on classic favourites. Soak up the natural wonders of the region, try your hand at a round of archery, have a casual match of tennis, or hit the slopes or hire a mountain bike and trace the trails to admire the beauty of the Rakaia River and Mt Hutt.",
-      "location_subheading": "New Zealand",
-      "price": 493,
-      "original_price": 493,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000M5lUgYAJ",
-      "hero_image": "https://images.luxuryescapes.com/ch4z2rxr1m69lb7kx3o",
-      "image_two": "https://images.luxuryescapes.com/ju9colmzwjaj37vknza",
-      "image_three": "https://images.luxuryescapes.com/dlc9udck885wj6ioyl1",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Fable Terrace Downs Resort",
       "offer_country_name": "New Zealand",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-11-30 12:59:00"
+    },
+    {
+      "vendor_name": "Fable Terrace Downs Resort",
+      "offer_country_name": "New Zealand",
+      "location_heading": "Windwhistle",
+      "title": "New Zealand Remote Southern Alps Resort with Bar, Restaurant & 18-Hole Golf Course",
+      "description": "Soak up the beauty of Canterbury’s picturesque Southern Alps with an escape at the blissfully secluded Fable Terrace Downs Resort. Here, relaxation meets stunning scenery and avid golfers can revel in the chance to play on a high country 18-hole championship golf course designed by Sid Puddicombe. After winding your way along the green, refuel at the Clubhouse Restaurant for locally sourced produce with a contemporary take on classic favourites. Soak up the natural wonders of the region, try your hand at a round of archery, have a casual match of tennis, or hit the slopes or hire a mountain bike and trace the trails to admire the beauty of the Rakaia River and Mt Hutt.",
+      "location_subheading": "New Zealand",
+      "price": 489,
+      "original_price": 489,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000M5lUgYAJ",
+      "hero_image": "https://images.luxuryescapes.com/ch4z2rxr1m69lb7kx3o",
+      "image_two": "https://images.luxuryescapes.com/ju9colmzwjaj37vknza",
+      "image_three": "https://images.luxuryescapes.com/dlc9udck885wj6ioyl1",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-20",
+    "last_updated": "2026-03-21",
     "hotel_count": 2,
-    "average_price": 496,
+    "average_price": 494,
     "average_discount": 18
   }
 }
