@@ -133,6 +133,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Solar Do Castelo Hotel Lisbon",
+      "offer_country_name": "Portugal",
+      "location_heading": "Lisbon",
+      "title": "Romantic Portugal Castle Escape in the Heart of Lisbon with Daily Breakfast & Airport Transfer on Arrival",
+      "description": "Perched within the original 18th-century castle walls, Solar Do Castelo is one of Lisbon’s most atmospheric stays. Tucked inside a former palace in the shadow of São Jorge Castle, this romantic boutique hotel pairs heritage character with an intimate, elegant feel, capturing the city’s old-world charm in every detail. A beautiful courtyard adds to the sense of seclusion, while resident peacocks roaming the grounds lend the stay an unmistakably charming touch. Set in the historic Alfama district, the hotel offers a peaceful base with easy access to Lisbon’s highlights, from the grand plazas of Baixa to the lively restaurants and bars of Bairro Alto. After a day of exploring, return to this castle hideaway for a stay steeped in history, character and quiet charm.",
+      "location_subheading": "Portugal",
+      "price": 299,
+      "original_price": 1068,
+      "discount_percentage": 72,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SaO5JYAV",
+      "hero_image": "https://images.luxuryescapes.com/nvnmh5cutr6sw2yhbsti",
+      "image_two": "https://images.luxuryescapes.com/8wfc9lnn7kpqqldau5vu",
+      "image_three": "https://images.luxuryescapes.com/zk8z7if5tnr8ictt0a1q",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-04-17 13:59:00"
+    },
+    {
       "vendor_name": "The One Palácio da Anunciada",
       "offer_country_name": "Portugal",
       "location_heading": "Lisbon",
@@ -186,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-21",
-    "hotel_count": 9,
-    "average_price": 506,
-    "average_discount": 15
+    "last_updated": "2026-03-22",
+    "hotel_count": 10,
+    "average_price": 485,
+    "average_discount": 21
   }
 }

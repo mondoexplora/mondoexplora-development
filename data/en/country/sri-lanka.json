@@ -3,16 +3,25 @@
   "code": "LK",
   "hero_title": "Sri Lanka Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Sri Lanka.",
-  "hero_image": "https://images.luxuryescapes.com/5ozf29ng1xt0h6k7vje",
+  "hero_image": "https://images.luxuryescapes.com/xvnwv3w6huhvn2mpz8y4",
   "popular_destinations": [
+    {
+      "name": "Kalutara",
+      "slug": "kalutara",
+      "image": "https://images.luxuryescapes.com/xvnwv3w6huhvn2mpz8y4",
+      "description": "Explore Kalutara with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 759
+    },
     {
       "name": "Colombo",
       "slug": "colombo",
-      "image": "https://images.luxuryescapes.com/5ozf29ng1xt0h6k7vje",
+      "image": "https://images.luxuryescapes.com/m3py84qyeqonf7hjymo",
       "description": "Explore Colombo with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 424
+      "avg_price": 422
     },
     {
       "name": "Kandy",
@@ -21,7 +30,7 @@
       "description": "Explore Kandy with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 994
+      "avg_price": 985
     },
     {
       "name": "Kuchchaveli",
@@ -39,7 +48,7 @@
       "description": "Explore Ahungalla with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 975
+      "avg_price": 965
     },
     {
       "name": "Weligama",
@@ -48,16 +57,7 @@
       "description": "Explore Weligama with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1479
-    },
-    {
-      "name": "Hambantota",
-      "slug": "hambantota",
-      "image": "https://images.luxuryescapes.com/7g4sby4zoznh3y8fldd",
-      "description": "Explore Hambantota with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 467
+      "avg_price": 1464
     }
   ],
   "seo": {
