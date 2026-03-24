@@ -4,26 +4,8 @@
   "country_code": "SA",
   "hero_title": "Hotels in Mecca",
   "description": "Discover the best hotels in Mecca, Saudi Arabia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/86lqgc6lsw2rbudxnmg",
+  "hero_image": "https://images.luxuryescapes.com/ytlcwjut4qegkvzn0v8",
   "hotels": [
-    {
-      "vendor_name": "Mercure Makkah Aziziah",
-      "offer_country_name": "Saudi Arabia",
-      "location_heading": "Mecca",
-      "title": "Saudi Arabia: Serene Mecca Retreat Near Great Mosque with Onsite Restaurant",
-      "description": "This welcoming retreat is your sanctuary in the holy city, located moments away from Al Masjid Al Haram. Mercure Makkah Aziziah offers stylish rooms with modern amenities and city views. After a day of spiritual reflection, return to your haven where attentive service meets thoughtful design. Recharge your spirit and body at the onsite Al Safa Restaurant and savour delicious international and traditional Saudi dishes in a warm, inviting atmosphere. Need to maintain your wellness routine? The state-of-the-art fitness centre has all the equipment you need for an energising workout.",
-      "location_subheading": "Saudi Arabia",
-      "price": 72,
-      "original_price": 72,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ib03lYAB",
-      "hero_image": "https://images.luxuryescapes.com/86lqgc6lsw2rbudxnmg",
-      "image_two": "https://images.luxuryescapes.com/lqkldihxkn6mz0pygqgk",
-      "image_three": "https://images.luxuryescapes.com/devjw1rw4hzdvlu2vpk",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Pullman Zamzam Makkah",
       "offer_country_name": "Saudi Arabia",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-23",
-    "hotel_count": 2,
-    "average_price": 227,
+    "last_updated": "2026-03-24",
+    "hotel_count": 1,
+    "average_price": 381,
     "average_discount": 0
   }
 }

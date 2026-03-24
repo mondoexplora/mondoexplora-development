@@ -15,15 +15,6 @@
       "avg_price": 1566
     },
     {
-      "name": "Los Cabos",
-      "slug": "los-cabos",
-      "image": "https://images.luxuryescapes.com/edqtv8330piiyf8k7dp",
-      "description": "Explore Los Cabos with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 1488
-    },
-    {
       "name": "Cancun",
       "slug": "cancun",
       "image": "https://images.luxuryescapes.com/vqzbi27adn2we6xisgy",
@@ -31,6 +22,15 @@
       "hotel_count": 5,
       "hotel_deals": 5,
       "avg_price": 1200
+    },
+    {
+      "name": "Los Cabos",
+      "slug": "los-cabos",
+      "image": "https://images.luxuryescapes.com/edqtv8330piiyf8k7dp",
+      "description": "Explore Los Cabos with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 1542
     },
     {
       "name": "Mexico City",

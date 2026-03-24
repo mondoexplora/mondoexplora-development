@@ -4,26 +4,8 @@
   "country_code": "HU",
   "hero_title": "Hotels in Budapest",
   "description": "Discover the best hotels in Budapest, Hungary. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ursh6bhkbahsfe3cq2y",
+  "hero_image": "https://images.luxuryescapes.com/bve2vnoj1kamabgxt2pp",
   "hotels": [
-    {
-      "vendor_name": "Aria Hotel Budapest by Library Hotel Collection",
-      "offer_country_name": "Hungary",
-      "location_heading": "Budapest",
-      "title": "Music-Inspired Budapest Escape with Rooftop Cocktails, Daily Breakfast & Daily EUR20 Dining Credit",
-      "description": "Step into a world where luxury meets melody at this intimate five-star boutique hotel in a grand heritage building. Nestled near the city’s lively Váci Utca, this music-inspired retreat - a member of the prestigious Library Hotel Collection - offers a stay like no other, with a spectacular rooftop garden making for a one-of-a-kind place to enjoy cocktails as the sun sets beneath Budapest’s skyline. Cross the street to reach Hungary’s most sacred - and impressive - cathedral, St. Stephen’s Basilica, or spend the day exploring the city’s best, including Castle Hill and the Royal Palace. Return to the magnificent Harmony Spa, or indulge in cocktails and charcuterie at High Note SkyBar and savour breathtaking city views.",
-      "location_subheading": "Hungary",
-      "price": 569,
-      "original_price": 1538,
-      "discount_percentage": 63,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000QbdbJYAR",
-      "hero_image": "https://images.luxuryescapes.com/ursh6bhkbahsfe3cq2y",
-      "image_two": "https://images.luxuryescapes.com/lvrj666ntmftqsem65he",
-      "image_three": "https://images.luxuryescapes.com/t7pd0wbnivmdepykqmpj",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-03-23 12:59:00"
-    },
     {
       "vendor_name": "Hotel Clark Budapest",
       "offer_country_name": "Hungary",
@@ -79,24 +61,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Kozmo Hotel Suites & Spa - Small Luxury Hotels of the World",
-      "offer_country_name": "Hungary",
-      "location_heading": "Budapest",
-      "title": "Central Budapest Boutique Luxury with Daily Breakfast & Spa Access",
-      "description": "History and the high life collide at this contemporary urban retreat, housed in a renowned heritage building designed by legendary architect Rezső Lajos Ray. Budapest's Kozmo Hotel Suites & Spa earns its five stars by combining modern luxury with antique elegance in every detail, from the carved stone rooftop sentries to each plate at the refined Kozmo Restaurant. When it's time to treat yourself, get pampered with a massage or beauty treatment in the majestic Spa by Valmont. Positioned just two blocks from the city's Grand Boulevard, this hideaway is perfectly located for exploring the best of Budapest. Stroll along the famous Danube River, wander up and down the hills of Buda or meander through the flat streets of Pest to absorb the rich culture and diverse landscapes this city has to offer.",
-      "location_subheading": "Hungary",
-      "price": 269,
-      "original_price": 656,
-      "discount_percentage": 59,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SMObRYAX",
-      "hero_image": "https://images.luxuryescapes.com/9sot43yk7aeq9civt3oj",
-      "image_two": "https://images.luxuryescapes.com/55fyta573stgy7mevpx",
-      "image_three": "https://images.luxuryescapes.com/azfvqx0sch1y6z3ef3xg",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-04-14 13:59:00"
-    },
-    {
       "vendor_name": "Mystery Hotel Budapest",
       "offer_country_name": "Hungary",
       "location_heading": "Budapest",
@@ -132,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-23",
-    "hotel_count": 6,
-    "average_price": 375,
-    "average_discount": 25
+    "last_updated": "2026-03-24",
+    "hotel_count": 4,
+    "average_price": 353,
+    "average_discount": 8
   }
 }

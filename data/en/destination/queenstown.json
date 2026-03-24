@@ -4,26 +4,8 @@
   "country_code": "NZ",
   "hero_title": "Hotels in Queenstown",
   "description": "Discover the best hotels in Queenstown, New Zealand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/xe1ph65sf3ama1xbt5hmd",
+  "hero_image": "https://images.luxuryescapes.com/ylb8648jzk6x01er2cyr",
   "hotels": [
-    {
-      "vendor_name": "Azur Lodge Queenstown",
-      "offer_country_name": "New Zealand",
-      "location_heading": "Queenstown",
-      "title": "Boutique Queenstown Villas with Lake Wakatipu Views, Daily Breakfast, Afternoon Tea & Nightly Drinks",
-      "description": "Wake up to sweeping lake and mountain views at this boutique Queenstown retreat. Perched atop a hillside amid native bushland, this exclusive hideaway offers blissful seclusion just five minutes from the heart of New Zealand’s adventure capital. Soak in uninterrupted views from the bathtub, perfectly placed in a bay window to bring the beauty of the outdoors inside. Watch the iconic century-old TSS Earnslaw glide through the lake's water, savour locally-sourced ingredients for breakfast in the Main Lodge, and explore Queenstown’s adrenaline-filled attractions or hike the surrounding trails. As evening falls, return to the lodge for a glass of New Zealand wine by the fire, soaking in the serenity of this lakeside sanctuary.",
-      "location_subheading": "New Zealand",
-      "price": 1049,
-      "original_price": 2280,
-      "discount_percentage": 54,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000QbFVoYAN",
-      "hero_image": "https://images.luxuryescapes.com/xe1ph65sf3ama1xbt5hmd",
-      "image_two": "https://images.luxuryescapes.com/x2atkiseohstbqnr9eaa",
-      "image_three": "https://images.luxuryescapes.com/31pisu1tmttn69mzznjp",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-04-11 13:59:00"
-    },
     {
       "vendor_name": "Crowne Plaza Queenstown",
       "offer_country_name": "New Zealand",
@@ -139,8 +121,8 @@
       "title": "Tranquil Queenstown Alpine Indulgence on Lake Wakatipu with Onsite Restaurant & Bar",
       "description": "Experience the irresistible allure of alpine beauty at this elegant Novotel sanctuary, perfectly positioned on the serene shores of Lake Wakatipu. Enveloped by the lofty Ben Lomond and the Remarkables, breathe in the crisp, mountain air and savour breathtaking lake vistas as you unwind in the plush comforts of your thoughtfully appointed room. When hunger strikes, head to Elements Restaurant and dine on seasonal delicacies indoors or al fresco in the Rose Garden while sipping on exquisite cocktails. For thrill-seekers looking to make the most of their escape to the Adventure Capital of the World, a visit to Skyline Gondola and bungee jumping off Kawarau Bridge should be on the bucket list.",
       "location_subheading": "New Zealand",
-      "price": 351,
-      "original_price": 351,
+      "price": 348,
+      "original_price": 348,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002Ilw5IAC",
       "hero_image": "https://images.luxuryescapes.com/d9pifhkqypfqo9zup7a0r",
@@ -203,24 +185,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Rosewood Matakauri",
-      "offer_country_name": "New Zealand",
-      "location_heading": "Queenstown",
-      "title": "Award-Winning Queenstown Lakeside Luxury with Daily Breakfast, Nightly Drinks & NZ$150 Spa Credit",
-      "description": "Be enveloped in alpine beauty at one of New Zealand's most spectacular and luxurious lodges: Queenstown's Rosewood Matakauri. It’s not an understatement to say this offers one of the most remarkable bedside views in New Zealand, where from the shores of Lake Wakatipu, you'll rise each morning to jaw-dropping vistas of The Remarkables and the Cecil and Walter peaks. Awarded the prestigious one Michelin Key status in 2025, here you'll experience the refined luxury Rosewood is renowned for. Spend your days by the heated outdoor pool or cedar-clad sauna, or indulge with a treatment at The Spa. When evening rolls around, enjoy canapes and aperitifs as you admire panoramic lake and mountain views; a landscape carved from storybooks. The Remarkables Terrace offers refined alfresco dining with the scent of freshly manicured gardens, where as the air chills and conversation heats up, you can huddle around the fire pit and reminisce on an escape well spent.",
-      "location_subheading": "New Zealand",
-      "price": 1679,
-      "original_price": 2798,
-      "discount_percentage": 40,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000N6fZVYAZ",
-      "hero_image": "https://images.luxuryescapes.com/hzxxqqdz8ezf39t2ou16",
-      "image_two": "https://images.luxuryescapes.com/lfrakk5pcq74jecrwvu8",
-      "image_three": "https://images.luxuryescapes.com/xlss36stu4cz3vsmhu7o",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 2,
-      "end_date_utc": "2026-05-01 13:59:00"
     },
     {
       "vendor_name": "Sofitel Queenstown and Spa",
@@ -330,9 +294,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-23",
-    "hotel_count": 17,
-    "average_price": 940,
-    "average_discount": 7
+    "last_updated": "2026-03-24",
+    "hotel_count": 15,
+    "average_price": 883,
+    "average_discount": 2
   }
 }
