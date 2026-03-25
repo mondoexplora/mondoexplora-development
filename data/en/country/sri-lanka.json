@@ -10,27 +10,9 @@
       "slug": "kandy",
       "image": "https://images.luxuryescapes.com/pvt6ytekdhc6y95lbze",
       "description": "Explore Kandy with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 912
-    },
-    {
-      "name": "Hambantota",
-      "slug": "hambantota",
-      "image": "https://images.luxuryescapes.com/7g4sby4zoznh3y8fldd",
-      "description": "Explore Hambantota with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 510
-    },
-    {
-      "name": "Colombo",
-      "slug": "colombo",
-      "image": "https://images.luxuryescapes.com/m3py84qyeqonf7hjymo",
-      "description": "Explore Colombo with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 422
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 986
     },
     {
       "name": "Ahungalla",
@@ -39,7 +21,7 @@
       "description": "Explore Ahungalla with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 964
+      "avg_price": 967
     },
     {
       "name": "Weligama",
@@ -48,7 +30,34 @@
       "description": "Explore Weligama with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1462
+      "avg_price": 1466
+    },
+    {
+      "name": "Hambantota",
+      "slug": "hambantota",
+      "image": "https://images.luxuryescapes.com/7g4sby4zoznh3y8fldd",
+      "description": "Explore Hambantota with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 463
+    },
+    {
+      "name": "Galle",
+      "slug": "galle",
+      "image": "https://images.luxuryescapes.com/2zbqjlij9a1z3mcqb98",
+      "description": "Explore Galle with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 559
+    },
+    {
+      "name": "Colombo",
+      "slug": "colombo",
+      "image": "https://images.luxuryescapes.com/m3py84qyeqonf7hjymo",
+      "description": "Explore Colombo with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 505
     }
   ],
   "seo": {

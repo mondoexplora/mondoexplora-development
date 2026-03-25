@@ -10,9 +10,9 @@
       "slug": "dubai",
       "image": "https://images.luxuryescapes.com/bk11fbt9fad6gcgfp96e",
       "description": "Explore Dubai with luxury accommodations",
-      "hotel_count": 75,
-      "hotel_deals": 75,
-      "avg_price": 504
+      "hotel_count": 64,
+      "hotel_deals": 64,
+      "avg_price": 535
     },
     {
       "name": "Abu Dhabi",
@@ -21,16 +21,16 @@
       "description": "Explore Abu Dhabi with luxury accommodations",
       "hotel_count": 14,
       "hotel_deals": 14,
-      "avg_price": 974
+      "avg_price": 1004
     },
     {
       "name": "Ras Al Khaimah",
       "slug": "ras-al-khaimah",
-      "image": "https://images.luxuryescapes.com/zhfhaguori9dqsg2jdl8",
+      "image": "https://images.luxuryescapes.com/z1twobe4uqt038zvfrml",
       "description": "Explore Ras Al Khaimah with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 459
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 651
     },
     {
       "name": "Fujairah",
@@ -39,25 +39,25 @@
       "description": "Explore Fujairah with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 537
+      "avg_price": 512
+    },
+    {
+      "name": "Palm Jumeirah",
+      "slug": "palm-jumeirah",
+      "image": "https://images.luxuryescapes.com/veopkamzktw0qwgzpk",
+      "description": "Explore Palm Jumeirah with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 478
     },
     {
       "name": "Sharjah",
       "slug": "sharjah",
-      "image": "https://images.luxuryescapes.com/uak7lkjvx3uyyfyt05",
+      "image": "https://images.luxuryescapes.com/b8vnjm9zxi2tzba40xg",
       "description": "Explore Sharjah with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 167
-    },
-    {
-      "name": "Ajman",
-      "slug": "ajman",
-      "image": "https://images.luxuryescapes.com/gf586qrpa3aara4wbm29",
-      "description": "Explore Ajman with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 489
+      "avg_price": 201
     }
   ],
   "seo": {

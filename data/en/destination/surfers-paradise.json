@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Surfers Paradise",
   "description": "Discover the best hotels in Surfers Paradise, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/m2k6187ngr7q3ibuy95",
+  "hero_image": "https://images.luxuryescapes.com/ikznnc3x4o8qjrqm1smf",
   "hotels": [
-    {
-      "vendor_name": "Breakfree Acapulco",
-      "offer_country_name": "Australia",
-      "location_heading": "Surfers Paradise",
-      "title": "Surfers Paradise Self-Contained Apartment Stay Moments from the Beach with Two Pools & Tennis Courts",
-      "description": "Hang ten at this stylish apartment stay, located just 25 metres from the golden sands and first-class waves of Surfer’s Paradise Beach. Backed by showstopping views over the Pacific Ocean, you’ll be all set to discover the city’s best, with Pacific Fair and The Star Gold Coast both easily accessible via the nearby G:link tram. After a day exploring the city's iconic sights, return to the comfort of your self-contained apartment and feel the calming sea breeze from your sun-kissed private balcony. Cool off at one of the hotel's two outdoor pools, the perfect place to laze away the afternoon, have a hit at the onsite tennis courts or cook up a storm in the fully equipped barbecue area.",
-      "location_subheading": "Australia",
-      "price": 251,
-      "original_price": 251,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRerbAAD",
-      "hero_image": "https://images.luxuryescapes.com/m2k6187ngr7q3ibuy95",
-      "image_two": "https://images.luxuryescapes.com/5wey6x4k7jttuqjihae",
-      "image_three": "https://images.luxuryescapes.com/cs8f453pcvmzij3cl3o",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Breakfree Moroccan",
       "offer_country_name": "Australia",
@@ -239,24 +221,6 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "voco Gold Coast, an IHG Hotel",
-      "offer_country_name": "Australia",
-      "location_heading": "Surfers Paradise",
-      "title": "Stylish Surfers Paradise Escape near Cavill Avenue with Two Pools",
-      "description": "Sparkling azure waters, pristine white sand and trendy beachfront restaurants await at the modern voco™ Gold Coast. Steps away from the golden shores of Surfers Paradise Beach and the unmissable shopping of Cavill Avenue, this contemporary hotel is the perfect place to soak up the Gold Coast sun. Catch a wave at some of Australia’s best beaches or spend the day exploring the diverse culinary offerings around the hotel, before heading back to your contemporary accommodation for a dip in one of the two pools. Dig into juicy steaks at Clifford's Grill & Lounge or pamper yourself with an indulgent massage at the luxurious L’Aqua Day Spa. At night, kick back on your plush bedding, take in the stunning views and enjoy a restful sleep to prepare for more days of sun, surf and sand.",
-      "location_subheading": "Australia",
-      "price": 334,
-      "original_price": 334,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009BVSdAAO",
-      "hero_image": "https://images.luxuryescapes.com/vmypjaolqr725sxriy8i",
-      "image_two": "https://images.luxuryescapes.com/h59ylpx4hiuubxyvhhhf",
-      "image_three": "https://images.luxuryescapes.com/eddmiefr4p4hfjqgrpmd",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -276,9 +240,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-24",
-    "hotel_count": 14,
-    "average_price": 321,
+    "last_updated": "2026-03-25",
+    "hotel_count": 12,
+    "average_price": 326,
     "average_discount": 0
   }
 }

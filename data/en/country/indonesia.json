@@ -10,9 +10,9 @@
       "slug": "seminyak",
       "image": "https://images.luxuryescapes.com/pmua5odtlg8k976ng4k",
       "description": "Explore Seminyak with luxury accommodations",
-      "hotel_count": 27,
-      "hotel_deals": 27,
-      "avg_price": 465
+      "hotel_count": 26,
+      "hotel_deals": 26,
+      "avg_price": 435
     },
     {
       "name": "Ubud",
@@ -21,43 +21,43 @@
       "description": "Explore Ubud with luxury accommodations",
       "hotel_count": 21,
       "hotel_deals": 21,
-      "avg_price": 838
-    },
-    {
-      "name": "Jakarta",
-      "slug": "jakarta",
-      "image": "https://images.luxuryescapes.com/52oe9wn665xt7hhnai32",
-      "description": "Explore Jakarta with luxury accommodations",
-      "hotel_count": 21,
-      "hotel_deals": 21,
-      "avg_price": 284
+      "avg_price": 846
     },
     {
       "name": "Nusa Dua",
       "slug": "nusa-dua",
       "image": "https://images.luxuryescapes.com/uzd9wbnh8awquhdnrd1",
       "description": "Explore Nusa Dua with luxury accommodations",
-      "hotel_count": 18,
-      "hotel_deals": 18,
-      "avg_price": 887
+      "hotel_count": 15,
+      "hotel_deals": 15,
+      "avg_price": 836
     },
     {
-      "name": "Jimbaran",
-      "slug": "jimbaran",
-      "image": "https://images.luxuryescapes.com/kbken7kfatv2bln9dtznn",
-      "description": "Explore Jimbaran with luxury accommodations",
-      "hotel_count": 12,
-      "hotel_deals": 12,
-      "avg_price": 1002
+      "name": "Jakarta",
+      "slug": "jakarta",
+      "image": "https://images.luxuryescapes.com/52oe9wn665xt7hhnai32",
+      "description": "Explore Jakarta with luxury accommodations",
+      "hotel_count": 15,
+      "hotel_deals": 15,
+      "avg_price": 278
     },
     {
       "name": "Lombok",
       "slug": "lombok",
       "image": "https://images.luxuryescapes.com/42gje7mmdjnu5nmlbsn",
       "description": "Explore Lombok with luxury accommodations",
-      "hotel_count": 12,
-      "hotel_deals": 12,
-      "avg_price": 470
+      "hotel_count": 11,
+      "hotel_deals": 11,
+      "avg_price": 464
+    },
+    {
+      "name": "Jimbaran",
+      "slug": "jimbaran",
+      "image": "https://images.luxuryescapes.com/kbken7kfatv2bln9dtznn",
+      "description": "Explore Jimbaran with luxury accommodations",
+      "hotel_count": 10,
+      "hotel_deals": 10,
+      "avg_price": 955
     }
   ],
   "seo": {

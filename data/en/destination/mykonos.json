@@ -113,6 +113,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Semeli Coast Mykonos Curio Collection By Hilton",
+      "offer_country_name": "Greece",
+      "location_heading": "Mykonos",
+      "title": "Mykonos Oceanfront Suites with Daily Breakfast, Nightly Cocktails & Return Transfers",
+      "description": "Perched on the shores of Merchia Bay, this picturesque haven - part of Hilton's prestigious Curio Collection - is where Greek island dreams come true. With each Aegean-chic room boasting either a private jacuzzi or pool - plus breathtaking ocean views that'll stop you in your tracks - it's an escape steeped in laidback luxury. With a secluded private beach and two shimmering pools, there’s no finer location for pure barefoot bliss. Savour Greek dining at the onsite Icare Restaurant and soak up the poolside setting before a sunset stroll. Whether you’re floating in one of the pools or kicking back on a plush sunbed, Semeli Coast brings a whole new meaning to 'room with a view'. Between drinks and dining, head to the Azalea Luxury Spa where personalised treatments will lull you deep into holiday mode.",
+      "location_subheading": "Greece",
+      "price": 944,
+      "original_price": 3045,
+      "discount_percentage": 69,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SSlQTYA1",
+      "hero_image": "https://images.luxuryescapes.com/fx4e00pdo8l4tvn4by",
+      "image_two": "https://images.luxuryescapes.com/dn6z43zd2ewrxcamtx",
+      "image_three": "https://images.luxuryescapes.com/1x0nmh9pj93kvyxek19",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-03-31 12:59:00"
     }
   ],
   "seo": {
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-24",
-    "hotel_count": 6,
-    "average_price": 850,
-    "average_discount": 18
+    "last_updated": "2026-03-25",
+    "hotel_count": 7,
+    "average_price": 864,
+    "average_discount": 25
   }
 }

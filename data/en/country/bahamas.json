@@ -12,7 +12,7 @@
       "description": "Explore Great Exuma with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 2518
+      "avg_price": 2525
     },
     {
       "name": "Bahamas",
@@ -21,16 +21,7 @@
       "description": "Explore Bahamas with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 577
-    },
-    {
-      "name": "Nassau",
-      "slug": "nassau",
-      "image": "https://images.luxuryescapes.com/1e3mktizoevsl3b0biho",
-      "description": "Explore Nassau with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 948
+      "avg_price": 579
     },
     {
       "name": "Paradise Island",
@@ -39,7 +30,7 @@
       "description": "Explore Paradise Island with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1552
+      "avg_price": 1556
     },
     {
       "name": "South Andros",
@@ -48,7 +39,7 @@
       "description": "Explore South Andros with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1576
+      "avg_price": 1580
     }
   ],
   "seo": {

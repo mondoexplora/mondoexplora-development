@@ -10,18 +10,18 @@
       "slug": "bangkok",
       "image": "https://images.luxuryescapes.com/dd9aiawuh45gqps4v4y",
       "description": "Explore Bangkok with luxury accommodations",
-      "hotel_count": 38,
-      "hotel_deals": 38,
-      "avg_price": 504
+      "hotel_count": 36,
+      "hotel_deals": 36,
+      "avg_price": 522
     },
     {
       "name": "Phuket",
       "slug": "phuket",
       "image": "https://images.luxuryescapes.com/c5241ajuon7gfafaifqw",
       "description": "Explore Phuket with luxury accommodations",
-      "hotel_count": 38,
-      "hotel_deals": 38,
-      "avg_price": 777
+      "hotel_count": 32,
+      "hotel_deals": 32,
+      "avg_price": 842
     },
     {
       "name": "Koh Samui",
@@ -30,34 +30,34 @@
       "description": "Explore Koh Samui with luxury accommodations",
       "hotel_count": 12,
       "hotel_deals": 12,
-      "avg_price": 1210
-    },
-    {
-      "name": "Khao Lak",
-      "slug": "khao-lak",
-      "image": "https://images.luxuryescapes.com/8z14h4n1tffr0mgyq1g7",
-      "description": "Explore Khao Lak with luxury accommodations",
-      "hotel_count": 10,
-      "hotel_deals": 10,
-      "avg_price": 459
+      "avg_price": 1252
     },
     {
       "name": "Hua Hin",
       "slug": "hua-hin",
       "image": "https://images.luxuryescapes.com/h0mom142psdp1prlom8",
       "description": "Explore Hua Hin with luxury accommodations",
-      "hotel_count": 9,
-      "hotel_deals": 9,
-      "avg_price": 488
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 547
+    },
+    {
+      "name": "Khao Lak",
+      "slug": "khao-lak",
+      "image": "https://images.luxuryescapes.com/8z14h4n1tffr0mgyq1g7",
+      "description": "Explore Khao Lak with luxury accommodations",
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 310
     },
     {
       "name": "Pattaya",
       "slug": "pattaya",
       "image": "https://images.luxuryescapes.com/55dxriyj3nd485cf9m2q",
       "description": "Explore Pattaya with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 500
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 555
     }
   ],
   "seo": {

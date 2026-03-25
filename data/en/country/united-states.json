@@ -10,27 +10,27 @@
       "slug": "new-york",
       "image": "https://images.luxuryescapes.com/4elm1zhlrmb0e26g6vw5",
       "description": "Explore New York with luxury accommodations",
-      "hotel_count": 29,
-      "hotel_deals": 29,
-      "avg_price": 1071
+      "hotel_count": 28,
+      "hotel_deals": 28,
+      "avg_price": 1001
     },
     {
       "name": "California",
       "slug": "california",
       "image": "https://images.luxuryescapes.com/y1xmg8jbi3r8xp975qhc",
       "description": "Explore California with luxury accommodations",
-      "hotel_count": 14,
-      "hotel_deals": 14,
-      "avg_price": 1127
+      "hotel_count": 13,
+      "hotel_deals": 13,
+      "avg_price": 1157
     },
     {
       "name": "San Francisco",
       "slug": "san-francisco",
       "image": "https://images.luxuryescapes.com/m2svymv8ky5i0gdbe9",
       "description": "Explore San Francisco with luxury accommodations",
-      "hotel_count": 14,
-      "hotel_deals": 14,
-      "avg_price": 547
+      "hotel_count": 13,
+      "hotel_deals": 13,
+      "avg_price": 560
     },
     {
       "name": "Los Angeles",
@@ -39,7 +39,7 @@
       "description": "Explore Los Angeles with luxury accommodations",
       "hotel_count": 11,
       "hotel_deals": 11,
-      "avg_price": 662
+      "avg_price": 664
     },
     {
       "name": "Chicago",
@@ -48,16 +48,16 @@
       "description": "Explore Chicago with luxury accommodations",
       "hotel_count": 10,
       "hotel_deals": 10,
-      "avg_price": 520
+      "avg_price": 521
     },
     {
-      "name": "Florida",
-      "slug": "florida",
-      "image": "https://images.luxuryescapes.com/tdtsgjze1oytb17zdf4g",
-      "description": "Explore Florida with luxury accommodations",
+      "name": "New Orleans",
+      "slug": "new-orleans",
+      "image": "https://images.luxuryescapes.com/obdi22cxlk6sm1vr9ki",
+      "description": "Explore New Orleans with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 958
+      "avg_price": 356
     }
   ],
   "seo": {

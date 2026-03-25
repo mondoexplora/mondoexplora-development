@@ -3,17 +3,8 @@
   "code": "SA",
   "hero_title": "Saudi Arabia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Saudi Arabia.",
-  "hero_image": "https://images.luxuryescapes.com/w5062zm2fxmp06emxpjf",
+  "hero_image": "https://images.luxuryescapes.com/kau8vsbgooneor10rqch",
   "popular_destinations": [
-    {
-      "name": "Makkah",
-      "slug": "makkah",
-      "image": "https://images.luxuryescapes.com/w5062zm2fxmp06emxpjf",
-      "description": "Explore Makkah with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 507
-    },
     {
       "name": "Riyadh",
       "slug": "riyadh",
@@ -21,7 +12,7 @@
       "description": "Explore Riyadh with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 624
+      "avg_price": 641
     },
     {
       "name": "Al Khobar",
@@ -30,7 +21,7 @@
       "description": "Explore Al Khobar with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 351
+      "avg_price": 352
     },
     {
       "name": "Jeddah",
@@ -39,7 +30,16 @@
       "description": "Explore Jeddah with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 337
+      "avg_price": 346
+    },
+    {
+      "name": "Makkah",
+      "slug": "makkah",
+      "image": "https://images.luxuryescapes.com/w5062zm2fxmp06emxpjf",
+      "description": "Explore Makkah with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 611
     },
     {
       "name": "Medina",
@@ -48,7 +48,7 @@
       "description": "Explore Medina with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 387
+      "avg_price": 388
     },
     {
       "name": "Madinah",
