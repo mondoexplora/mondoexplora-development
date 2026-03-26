@@ -10,9 +10,9 @@
       "slug": "auckland",
       "image": "https://images.luxuryescapes.com/pmyz74jnnr9qagosiv4a",
       "description": "Explore Auckland with luxury accommodations",
-      "hotel_count": 21,
-      "hotel_deals": 21,
-      "avg_price": 391
+      "hotel_count": 23,
+      "hotel_deals": 23,
+      "avg_price": 382
     },
     {
       "name": "Queenstown",
@@ -21,25 +21,25 @@
       "description": "Explore Queenstown with luxury accommodations",
       "hotel_count": 15,
       "hotel_deals": 15,
-      "avg_price": 913
+      "avg_price": 904
     },
     {
       "name": "Christchurch",
       "slug": "christchurch",
       "image": "https://images.luxuryescapes.com/od5xt9s0l5cuisblm6",
       "description": "Explore Christchurch with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 389
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 375
     },
     {
       "name": "Wellington",
       "slug": "wellington",
       "image": "https://images.luxuryescapes.com/8ofusp0qqc8qj7asix9",
       "description": "Explore Wellington with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 331
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 324
     },
     {
       "name": "Rotorua",
@@ -51,13 +51,13 @@
       "avg_price": 310
     },
     {
-      "name": "Oamaru",
-      "slug": "oamaru",
-      "image": "https://images.luxuryescapes.com/gxd39ylirjlb3q597yk",
-      "description": "Explore Oamaru with luxury accommodations",
+      "name": "Lake Tekapo",
+      "slug": "lake-tekapo",
+      "image": "https://images.luxuryescapes.com/4vf195i4jwb0ydqh0rkw",
+      "description": "Explore Lake Tekapo with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 972
+      "avg_price": 344
     }
   ],
   "seo": {

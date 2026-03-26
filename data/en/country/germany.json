@@ -10,9 +10,18 @@
       "slug": "berlin",
       "image": "https://images.luxuryescapes.com/slbwbkhtxwk15zuaxs4",
       "description": "Explore Berlin with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 413
+    },
+    {
+      "name": "Munich",
+      "slug": "munich",
+      "image": "https://images.luxuryescapes.com/43mhpife4gzr2fut19on",
+      "description": "Explore Munich with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 472
+      "avg_price": 653
     },
     {
       "name": "Frankfurt",
@@ -22,15 +31,6 @@
       "hotel_count": 4,
       "hotel_deals": 4,
       "avg_price": 182
-    },
-    {
-      "name": "Munich",
-      "slug": "munich",
-      "image": "https://images.luxuryescapes.com/2upplwii1id6x1znrges",
-      "description": "Explore Munich with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 749
     },
     {
       "name": "Hamburg",
@@ -48,7 +48,7 @@
       "description": "Explore Dusseldorf with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 220
+      "avg_price": 222
     },
     {
       "name": "Baden-Baden",

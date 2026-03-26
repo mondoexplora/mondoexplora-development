@@ -12,7 +12,7 @@
       "description": "Explore Kandy with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 986
+      "avg_price": 982
     },
     {
       "name": "Ahungalla",
@@ -21,7 +21,7 @@
       "description": "Explore Ahungalla with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 967
+      "avg_price": 994
     },
     {
       "name": "Weligama",
@@ -30,7 +30,7 @@
       "description": "Explore Weligama with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1466
+      "avg_price": 1460
     },
     {
       "name": "Hambantota",
@@ -39,16 +39,7 @@
       "description": "Explore Hambantota with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 463
-    },
-    {
-      "name": "Galle",
-      "slug": "galle",
-      "image": "https://images.luxuryescapes.com/2zbqjlij9a1z3mcqb98",
-      "description": "Explore Galle with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 559
+      "avg_price": 461
     },
     {
       "name": "Colombo",
@@ -57,7 +48,7 @@
       "description": "Explore Colombo with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 505
+      "avg_price": 503
     }
   ],
   "seo": {

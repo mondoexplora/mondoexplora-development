@@ -4,8 +4,26 @@
   "country_code": "FR",
   "hero_title": "Hotels in Lyon",
   "description": "Discover the best hotels in Lyon, France. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/4ua1yjmljtr9vz3kirp",
+  "hero_image": "https://images.luxuryescapes.com/f1xh8vumeq649231cg7k",
   "hotels": [
+    {
+      "vendor_name": "Le Royal Hotel Lyon - MGallery Collection",
+      "offer_country_name": "France",
+      "location_heading": "Lyon",
+      "title": "Heritage Lyon Stay Overlooking Place Bellecour with Onsite Restaurant & Cooking School",
+      "description": "Step into a world of Lyonnais charm and Belle Époque grandeur at this historic property, the only five-star hotel in Bellacour Square. Nestled in the Presqu'île district, Le Royal Lyon MGallery showcases period details alongside contemporary comforts. Unwind in cosy rooms with plush bedding and marble bathrooms, then savour authentic cuisine at L'Institut restaurant, where chefs creates magic with local ingredients. Fancy learning a trick or two? The first-floor Ecole de Cuisine offers lessons in pastry, baking, mixology, general cooking and more. Just steps from Place Bellecour and the River Rhône, this hotel puts Lyon's treasures at your fingertips. Wander cobblestone streets to discover hidden bouchons, browse luxury boutiques, or explore the magnificent Basilica Notre-Dame de Fourvière. After a day immersed in Lyon's culinary scene and rich history, return to the elegant Cote Bellecour bar for a perfectly crafted cocktail.",
+      "location_subheading": "France",
+      "price": 474,
+      "original_price": 474,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnJdwYAF",
+      "hero_image": "https://images.luxuryescapes.com/f1xh8vumeq649231cg7k",
+      "image_two": "https://images.luxuryescapes.com/ufat6gxhc50n8j487vf",
+      "image_three": "https://images.luxuryescapes.com/yixmh2yhda4itoxlgmkh",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Crowne Plaza Lyon - Cite Internationale",
       "offer_country_name": "France",
@@ -59,6 +77,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Sofitel Lyon Bellecour",
+      "offer_country_name": "France",
+      "location_heading": "Lyon",
+      "title": "Riverside Sofitel Lyon Luxury Overlooking Place Bellecour with Panoramic Rooftop Restaurant & Day Spa",
+      "description": "Perfectly positioned on the banks of the Rhône River, this five-star sanctuary places you at the heart of Lyon’s UNESCO-listed Presqu’île district. Stroll to the cobbled streets of Vieux Lyon, where Renaissance architecture and bouchons await, or wander to the vibrant Place Bellecour, just steps away, for boutique shopping and art galleries. Savour refined French gastronomy at the panoramic Les 3 Dômes restaurant overlooking the city’s rooftops or indulge in a craft cocktail at one of the two onsite bars. After exploring the Musée des Beaux-Arts or the lively Les Halles de Lyon Paul Bocuse, retreat to the acclaimed Sofitel Spa before settling into your elegantly appointed room.",
+      "location_subheading": "France",
+      "price": 462,
+      "original_price": 462,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Jjw0aYAB",
+      "hero_image": "https://images.luxuryescapes.com/sqyv0930zstj5qrzpxfl",
+      "image_two": "https://images.luxuryescapes.com/bh8nzt2z1nvjhfjdeyu",
+      "image_three": "https://images.luxuryescapes.com/0v5hkfizurfs60s4a1cl",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -78,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-25",
-    "hotel_count": 3,
-    "average_price": 440,
+    "last_updated": "2026-03-26",
+    "hotel_count": 5,
+    "average_price": 451,
     "average_discount": 0
   }
 }

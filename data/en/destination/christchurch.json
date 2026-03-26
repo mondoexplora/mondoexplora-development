@@ -31,9 +31,9 @@
       "title": "Five-Star All-Suite City Break in Heart of Christchurch",
       "description": "Discover the secrets of the Garden City at Christchurch's stylish Hotel Montreal, which combines the best of European style with contemporary design. Recognised for its five-star comforts, this suite-only hotel invites you to experience a new meaning of laidback luxury, with stylish and self-contained havens that offer everything you need for a comfortable escape, including a kitchenette, expansive wardrobe area and inviting lounge seating. The fun polo-inspired theme won’t go unnoticed, with odes to the sport are represented in artwork around the hotel, along with a croquet set you can borrow. Your stay, right in the heart of this vibrant city, is only moments from Hagley Park - 165 hectares of wide-open spaces and woodlands. From Hotel Montreal, take a short walk to board one of the beautifully restored trams and enjoy a 17-stop loop, departing every 15 minutes, taking in a host of city highlights including Cathedral Square and New Regent St.",
       "location_subheading": "New Zealand",
-      "price": 595,
-      "original_price": 744,
-      "discount_percentage": 20,
+      "price": 582,
+      "original_price": 737,
+      "discount_percentage": 21,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000008fSIiAAM",
       "hero_image": "https://images.luxuryescapes.com/6s4a9rs1kx4i1ofog1q",
       "image_two": "https://images.luxuryescapes.com/fn1kgbku0hbin57yhtjf",
@@ -56,6 +56,24 @@
       "hero_image": "https://images.luxuryescapes.com/mp459ttd2912dvbtkl2r",
       "image_two": "https://images.luxuryescapes.com/b18uegrevehjbdzlh",
       "image_three": "https://images.luxuryescapes.com/3amuwwqgkevtgvr533ns",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Peppers Clearwater Resort Christchurch",
+      "offer_country_name": "New Zealand",
+      "location_heading": "Christchurch",
+      "title": "Christchurch Lakeside Resort with Championship Golf Course, Onsite Restaurant & Bar",
+      "description": "Step into lakeside luxury with a tranquil stay on the banks of Lake Kaikainui, right outside of Christchurch. With the perfect blend of outdoor living and proximity to city comforts, you can tee off at the onsite golf course one day and discover the natural beauty and innovative urban design of Christchurch the next. Indulge in local flavours and mountain views at Lume Restaurant or a casual cocktail at The Sprig Bar and Cafe.",
+      "location_subheading": "New Zealand",
+      "price": 320,
+      "original_price": 320,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRewWAAT",
+      "hero_image": "https://images.luxuryescapes.com/6i4duw32lmie88j732mi",
+      "image_two": "https://images.luxuryescapes.com/5f7ce7t9bo5qr4rwhbn",
+      "image_three": "https://images.luxuryescapes.com/sjqegdvs285jic9g2sfp",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-25",
-    "hotel_count": 5,
-    "average_price": 389,
-    "average_discount": 9
+    "last_updated": "2026-03-26",
+    "hotel_count": 6,
+    "average_price": 375,
+    "average_discount": 8
   }
 }

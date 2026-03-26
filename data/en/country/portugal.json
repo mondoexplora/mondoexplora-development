@@ -12,7 +12,7 @@
       "description": "Explore Lisbon with luxury accommodations",
       "hotel_count": 8,
       "hotel_deals": 8,
-      "avg_price": 512
+      "avg_price": 511
     },
     {
       "name": "Porto",
@@ -21,7 +21,7 @@
       "description": "Explore Porto with luxury accommodations",
       "hotel_count": 8,
       "hotel_deals": 8,
-      "avg_price": 408
+      "avg_price": 411
     },
     {
       "name": "Alentejo",
@@ -39,7 +39,7 @@
       "description": "Explore Madeira with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 960
+      "avg_price": 962
     },
     {
       "name": "Vilamoura",
@@ -48,7 +48,7 @@
       "description": "Explore Vilamoura with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 406
+      "avg_price": 418
     },
     {
       "name": "Ericeira",
@@ -57,7 +57,7 @@
       "description": "Explore Ericeira with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 695
+      "avg_price": 750
     }
   ],
   "seo": {

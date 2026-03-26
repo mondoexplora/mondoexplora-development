@@ -10,9 +10,9 @@
       "slug": "seoul",
       "image": "https://images.luxuryescapes.com/binzih0j9gliw48in1xk",
       "description": "Explore Seoul with luxury accommodations",
-      "hotel_count": 10,
-      "hotel_deals": 10,
-      "avg_price": 596
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 580
     },
     {
       "name": "Pyeongchang",
@@ -21,7 +21,16 @@
       "description": "Explore Pyeongchang with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 296
+      "avg_price": 299
+    },
+    {
+      "name": "Suwon",
+      "slug": "suwon",
+      "image": "https://images.luxuryescapes.com/qddud8bshi7oqvuimtz",
+      "description": "Explore Suwon with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 314
     },
     {
       "name": "Incheon",
@@ -30,7 +39,7 @@
       "description": "Explore Incheon with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 222
+      "avg_price": 224
     },
     {
       "name": "Jeju",
@@ -39,7 +48,7 @@
       "description": "Explore Jeju with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 406
+      "avg_price": 409
     }
   ],
   "seo": {
