@@ -77,6 +77,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Paralos Venus Suites",
+      "offer_country_name": "Greece",
+      "location_heading": "Crete",
+      "title": "Adults-Only Crete Luxury Suites with Daily Breakfast, Nightly Dinner & Sunset Cocktail",
+      "description": "Escape to an adults-only sanctuary in Crete's quiet village of Analipsi, where contemporary design meets effortless comfort, ad every detail is curated for a refined and intimate experience. Paralos Venus Suites delivers the kind of stay where time slows down - mornings start with fresh breakfasts, evenings unfold from sunset cocktails at the main hotel bar, and three-course dinners arrive nightly without stepping off the property. Beyond your suite, Analipsi Beach sits just minutes away for barefoot walks in the sand, while Hersonissos delivers waterfront dining and nightlife when you're ready to explore. The Roman Fountain, Aquaworld Aquarium and Labyrinth Park all sit within easy reach for day trips. Wake to the gentle sound of the Aegean from your suite, claim a sunbed by the heated pool, or simply let the hours drift blissfully by.",
+      "location_subheading": "Greece",
+      "price": 604,
+      "original_price": 1549,
+      "discount_percentage": 61,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SJM4kYAH",
+      "hero_image": "https://images.luxuryescapes.com/thuul57m4kwzc3jyh3og",
+      "image_two": "https://images.luxuryescapes.com/e2q90kwipi5zp1heb8o",
+      "image_three": "https://images.luxuryescapes.com/wb8fs2503pzfnd2qpufp",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 5,
+      "end_date_utc": "2026-04-15 13:59:00"
     }
   ],
   "seo": {
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-26",
-    "hotel_count": 4,
-    "average_price": 723,
-    "average_discount": 1
+    "last_updated": "2026-03-27",
+    "hotel_count": 5,
+    "average_price": 699,
+    "average_discount": 13
   }
 }

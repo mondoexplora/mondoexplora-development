@@ -10,9 +10,9 @@
       "slug": "muscat",
       "image": "https://images.luxuryescapes.com/bw9fwgfp792uvm9yhzkq",
       "description": "Explore Muscat with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 681
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 652
     },
     {
       "name": "Sohar",
@@ -21,7 +21,7 @@
       "description": "Explore Sohar with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 234
+      "avg_price": 233
     },
     {
       "name": "Duqm",
@@ -30,16 +30,7 @@
       "description": "Explore Duqm with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 289
-    },
-    {
-      "name": "Salalah",
-      "slug": "salalah",
-      "image": "https://images.luxuryescapes.com/pdl1so0qmpm6etusra2f",
-      "description": "Explore Salalah with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 322
+      "avg_price": 288
     },
     {
       "name": "Dibba",
@@ -48,7 +39,7 @@
       "description": "Explore Dibba with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 2799
+      "avg_price": 2797
     },
     {
       "name": "Bandar Jissah",
@@ -57,7 +48,7 @@
       "description": "Explore Bandar Jissah with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 787
+      "avg_price": 786
     }
   ],
   "seo": {
