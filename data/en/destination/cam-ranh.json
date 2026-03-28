@@ -4,8 +4,26 @@
   "country_code": "VN",
   "hero_title": "Hotels in Cam Ranh",
   "description": "Discover the best hotels in Cam Ranh, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/qns95s28hjl6edcwob5",
+  "hero_image": "https://images.luxuryescapes.com/2srjlpsawxkm7nbgt4tn",
   "hotels": [
+    {
+      "vendor_name": "Melia Vinpearl Cam Ranh",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Cam Ranh",
+      "title": "Vietnam All-Inclusive Pool Villas with Massages & Unlimited Free-Flow Drinks",
+      "description": "Escape to all-inclusive private pool villa paradise on one of central Vietnam's most spectacular stretches of shoreline at this five-star retreat. Set on undisturbed Long Beach in Cam Ranh Bay - just fifteen minutes from the airport - this luxury retreat delivers everything you need to let the good times roll, all backed by Meliá's legendary hospitality. This is all-inclusive living at its finest. Savour views over the resort's magnificent lake while dining at Merkado, enjoy authentic Vietnamese cuisine at Muối or simply unwind by the pool. Return to your modern villa, featuring a spacious outside terrace and luxe private pool.",
+      "location_subheading": "Vietnam",
+      "price": 1119,
+      "original_price": 2602,
+      "discount_percentage": 57,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000OZD7qYAH",
+      "hero_image": "https://images.luxuryescapes.com/2srjlpsawxkm7nbgt4tn",
+      "image_two": "https://images.luxuryescapes.com/x21bbn6foauptnnjfg9d",
+      "image_three": "https://images.luxuryescapes.com/wgd90izpnpi5jwf98d3k",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-03-31 12:59:00"
+    },
     {
       "vendor_name": "Mövenpick Resort Cam Ranh",
       "offer_country_name": "Vietnam",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-27",
-    "hotel_count": 2,
-    "average_price": 420,
-    "average_discount": 0
+    "last_updated": "2026-03-28",
+    "hotel_count": 3,
+    "average_price": 653,
+    "average_discount": 19
   }
 }

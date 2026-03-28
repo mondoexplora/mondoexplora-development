@@ -79,6 +79,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Torel Avantgarde Porto",
+      "offer_country_name": "Portugal",
+      "location_heading": "Porto",
+      "title": "Five-Star Art-Inspired Porto Escape with River-View Pool",
+      "description": "Centuries of culture, art and tradition are at your fingertips with a stay at Torel Avantgarde, Porto, a designer boutique hotel inspired by history’s most creative figures. Sitting high above the Portuguese coastal city, looking over rooftops to the river below, this five-star hotel is perfectly positioned for days spent exploring the city’s laneways and attractions. Wander through trendy art district Rua Miguel Bombarda or stroll to Livraria Lello bookstore, Crystal Palace gardens, Clérigos Church or Rua das Flores - all within 750m of the hotel’s imposing carved doors. Taking both its name and design from the avant-garde era, this boutique art hotel celebrates the elegance of the 1930s alongside contemporary Portuguese artisanship. Each room takes on the personality of a painter, writer, designer or musician, and is decorated to reflect their personality and work - think Nina Simone, Joan Miro, Janis Joplin, Charlie Chaplin or Frida Kahlo. The common spaces are similarly Instagram-ready - snap a shot in front of the floral ceiling and rose walls of the onsite bar, dine at the Digby restaurant or take a dip in the pool while admiring the jaw-dropping views of the river below. Take a moment out at Calla Wellness & Spa with a massage or facial, or indulge with a meal at Sir Digby, the contemporary Portuguese restaurant and bar with two alfresco terraces.",
+      "location_subheading": "Portugal",
+      "price": 384,
+      "original_price": 565,
+      "discount_percentage": 32,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004VgMAAA0",
+      "hero_image": "https://images.luxuryescapes.com/ejjjsirvns5xddyensi",
+      "image_two": "https://images.luxuryescapes.com/9np7k44zmd4ee1tia68",
+      "image_three": "https://images.luxuryescapes.com/obv95790krfaip84xa8g",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Torel Palace Porto",
       "offer_country_name": "Portugal",
       "location_heading": "Porto",
@@ -150,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-27",
-    "hotel_count": 7,
-    "average_price": 433,
-    "average_discount": 12
+    "last_updated": "2026-03-28",
+    "hotel_count": 8,
+    "average_price": 427,
+    "average_discount": 15
   }
 }

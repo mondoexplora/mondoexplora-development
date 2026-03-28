@@ -4,8 +4,26 @@
   "country_code": "ID",
   "hero_title": "Hotels in Surakarta",
   "description": "Discover the best hotels in Surakarta, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/utpe4ax2egb43ewj0w8n",
+  "hero_image": "https://images.luxuryescapes.com/6oodrio2dfyp4jhvkx",
   "hotels": [
+    {
+      "vendor_name": "Novotel Solo",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Surakarta",
+      "title": "Central Java Retreat in Solo with Onsite Restaurant, Outdoor Pool & Spa",
+      "description": "Make the most of your time in Java from this urban oasis in Surakarta (known as Solo to the locals) that offers phenomenal vistas of the glittering skyline. Stylish and central, Novotel Solo features a sparkling outdoor pool with cosy sun loungers, sleek rooms and suites, and an indulgent spa with indoor jacuzzi. Celebrate your escape with a drink in your hand at the Saraswati Bar, and delight your tastebuds with Javan and international delicacies at the Andrawina Restaurant. When it's time to explore, you'll find vibrant local markets, magnificent royal palaces and historical temples all just a short stroll away.",
+      "location_subheading": "Indonesia",
+      "price": 90,
+      "original_price": 90,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnOvHYAV",
+      "hero_image": "https://images.luxuryescapes.com/6oodrio2dfyp4jhvkx",
+      "image_two": "https://images.luxuryescapes.com/1e99tratvl1auguwbfjs",
+      "image_three": "https://images.luxuryescapes.com/9qrjji0ykl03cz8v0mea",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "The Royal Surakarta Heritage",
       "offer_country_name": "Indonesia",
@@ -42,8 +60,8 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-27",
-    "hotel_count": 1,
+    "last_updated": "2026-03-28",
+    "hotel_count": 2,
     "average_price": 90,
     "average_discount": 0
   }
