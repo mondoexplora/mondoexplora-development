@@ -13,8 +13,8 @@
       "title": "Elegant Central Athens Retreat Overlooking the Acropolis with Rooftop Infinity Pool & Two Restaurants",
       "description": "Uncover the eternal allure of Greece's capital city at this ideally located retreat, where modern sophistication meets Grecian elegance. Perfectly positioned between the upmarket Kolonaki and historic Plaka neighbourhoods, this five-star haven captures the city's vibrant spirit through its refined design, curated art collection and breathtaking views. The jewel in the hotel's crown is it's sun-kissed rooftop terrace, featuring a sparkling infinity pool, lively restaurant and bar, and panoramic views over the ancient Acropolis. As the sun sets over the ruins, sip handcrafted cocktails and savour Mediterranean-inspired plates before retreating to Galerie Cafe, where fine wines and the hotel's signature coffee blend are served alongside an ever-evolving art display.",
       "location_subheading": "Greece",
-      "price": 586,
-      "original_price": 586,
+      "price": 589,
+      "original_price": 589,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Jjw0FYAR",
       "hero_image": "https://images.luxuryescapes.com/nx6xti8clm9hic2vc4ef",
@@ -23,6 +23,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Athens City Centre",
+      "offer_country_name": "Greece",
+      "location_heading": "Athens",
+      "title": "Athens City Centre Retreat with Rooftop Sundeck and Pool",
+      "description": "Discover contemporary and classic Greece in convenience and comfort from the urban oasis that is Crowne Plaza Athens - City Centre, an IHG Hotel. Journey back in time, with the iconic Acropolis and Parthenon a short drive away. Dine on delectable Greek gastronomy at Ambrosia restaurant or bask in the Mediterranean sun by the pool and rooftop sun deck. When you're done exploring the best of Athens, soothe tired muscles at the onsite sauna.",
+      "location_subheading": "Greece",
+      "price": 388,
+      "original_price": 388,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CPz1AAAT",
+      "hero_image": "https://images.luxuryescapes.com/i82sh732qdiui0v4zd",
+      "image_two": "https://images.luxuryescapes.com/jo34d4y3era4eledg0z",
+      "image_three": "https://images.luxuryescapes.com/iyknq0k1br1tliywxj1",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Herodion Hotel",
@@ -204,9 +222,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-28",
-    "hotel_count": 10,
-    "average_price": 582,
+    "last_updated": "2026-03-29",
+    "hotel_count": 11,
+    "average_price": 565,
     "average_discount": 1
   }
 }

@@ -4,8 +4,26 @@
   "country_code": "PT",
   "hero_title": "Hotels in Lisbon",
   "description": "Discover the best hotels in Lisbon, Portugal. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/5yckyvfavi9x20wjcmm",
+  "hero_image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
   "hotels": [
+    {
+      "vendor_name": "Convent Square Hotel, Vignette Collection",
+      "offer_country_name": "Portugal",
+      "location_heading": "Lisbon",
+      "title": "Opulent Lisbon Stay in 13th Century Convent with Iconic Restaurant & Bar",
+      "description": "Find refined elegance within the walls of a 13th-century Dominican Convent atConvent Square Lisbon, Vignette Collection, an IHG Hotel. From savoring delectable Portuguese cuisine at Capítulo Restaurant to embracing Portugal's stunning architecture in the emblematic cloister, every moment is an invitation to elevate your senses. Unwind in the sauna or rejuvenate in the heated plunge pool while gazing at Lisbon's breathtaking church top views.",
+      "location_subheading": "Portugal",
+      "price": 610,
+      "original_price": 610,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNR7rAAH",
+      "hero_image": "https://images.luxuryescapes.com/u5cbcjiznm09z179kmq2",
+      "image_two": "https://images.luxuryescapes.com/36g2a0oynstczadxvqgm",
+      "image_three": "https://images.luxuryescapes.com/4kb396xsk369lx0lw5o",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Corinthia Lisbon",
       "offer_country_name": "Portugal",
@@ -121,8 +139,8 @@
       "title": "Lisbon Ocean-View Luxury with a Nine-Hole Golf Course",
       "description": "Stay a stone's throw from the Atlantic Ocean at Crowne Plaza Caparica Lisbon, an IHG Hotel, a modern hideaway located along the pristine 26-kilometre stretch of golden shoreline in Costa da Caparica. Spend sunny days basking by the outdoor swimming pool, practice your swing at the nine-hole golf course, or opt to treat yourself to a massage, body wrap or steam bath at the spa. For all-day dining, Raimundo is your go-to for authentic Portuguese cuisine and tasty regional morsels.",
       "location_subheading": "Portugal",
-      "price": 163,
-      "original_price": 163,
+      "price": 167,
+      "original_price": 167,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJYuAAP",
       "hero_image": "https://images.luxuryescapes.com/y036kixcsfx0r29o4azr",
@@ -150,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-28",
-    "hotel_count": 7,
-    "average_price": 507,
-    "average_discount": 11
+    "last_updated": "2026-03-29",
+    "hotel_count": 8,
+    "average_price": 521,
+    "average_discount": 10
   }
 }
