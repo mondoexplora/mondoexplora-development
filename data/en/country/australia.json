@@ -3,33 +3,33 @@
   "code": "AU",
   "hero_title": "Australia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Australia.",
-  "hero_image": "https://images.luxuryescapes.com/dpkfunte11jazg8whie",
+  "hero_image": "https://images.luxuryescapes.com/hlmi6k6ud5fce8j8z0p",
   "popular_destinations": [
-    {
-      "name": "Melbourne",
-      "slug": "melbourne",
-      "image": "https://images.luxuryescapes.com/dpkfunte11jazg8whie",
-      "description": "Explore Melbourne with luxury accommodations",
-      "hotel_count": 59,
-      "hotel_deals": 59,
-      "avg_price": 335
-    },
     {
       "name": "Sydney",
       "slug": "sydney",
       "image": "https://images.luxuryescapes.com/hlmi6k6ud5fce8j8z0p",
       "description": "Explore Sydney with luxury accommodations",
-      "hotel_count": 57,
-      "hotel_deals": 57,
-      "avg_price": 472
+      "hotel_count": 67,
+      "hotel_deals": 67,
+      "avg_price": 483
+    },
+    {
+      "name": "Melbourne",
+      "slug": "melbourne",
+      "image": "https://images.luxuryescapes.com/dpkfunte11jazg8whie",
+      "description": "Explore Melbourne with luxury accommodations",
+      "hotel_count": 66,
+      "hotel_deals": 66,
+      "avg_price": 335
     },
     {
       "name": "Brisbane",
       "slug": "brisbane",
       "image": "https://images.luxuryescapes.com/ivrsdu2d982sm4v3ha3",
       "description": "Explore Brisbane with luxury accommodations",
-      "hotel_count": 32,
-      "hotel_deals": 32,
+      "hotel_count": 37,
+      "hotel_deals": 37,
       "avg_price": 375
     },
     {
@@ -37,27 +37,27 @@
       "slug": "adelaide",
       "image": "https://images.luxuryescapes.com/xxk1kjw6xoccof9p9yqt",
       "description": "Explore Adelaide with luxury accommodations",
-      "hotel_count": 25,
-      "hotel_deals": 25,
-      "avg_price": 312
-    },
-    {
-      "name": "Canberra",
-      "slug": "canberra",
-      "image": "https://images.luxuryescapes.com/uu6uxgtlqpf8yqfvsn",
-      "description": "Explore Canberra with luxury accommodations",
-      "hotel_count": 16,
-      "hotel_deals": 16,
-      "avg_price": 470
+      "hotel_count": 30,
+      "hotel_deals": 30,
+      "avg_price": 309
     },
     {
       "name": "Perth",
       "slug": "perth",
       "image": "https://images.luxuryescapes.com/lx0kop4ioo2y351tm2fi",
       "description": "Explore Perth with luxury accommodations",
-      "hotel_count": 15,
-      "hotel_deals": 15,
-      "avg_price": 459
+      "hotel_count": 21,
+      "hotel_deals": 21,
+      "avg_price": 422
+    },
+    {
+      "name": "Canberra",
+      "slug": "canberra",
+      "image": "https://images.luxuryescapes.com/uu6uxgtlqpf8yqfvsn",
+      "description": "Explore Canberra with luxury accommodations",
+      "hotel_count": 19,
+      "hotel_deals": 19,
+      "avg_price": 437
     }
   ],
   "seo": {

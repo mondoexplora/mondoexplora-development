@@ -1,0 +1,50 @@
+{
+  "city": "Cumbria",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hotels in Cumbria",
+  "description": "Discover the best hotels in Cumbria, United Kingdom. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/b2sjdgk8l6i62t1oei",
+  "hotels": [
+    {
+      "vendor_name": "Lakeside Hotel",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Cumbria",
+      "title": "English Lake District Manor Overlooking Lake Windermere with Daily Breakfast & Afternoon Tea",
+      "description": "Perched on the shores of Lake Windermere, this romantic 17th-century retreat pairs classic English countryside charm with modern comforts: expect elegant heritage character, peaceful waterfront views and standout wellness facilities in one of England’s most scenic regions. No British experience is complete without an indulgent afternoon tea: savour sandwiches and scones before heading off to the Muddy Boot Pub for heartier helpings of burgers, bar snacks and the countryside's best local brews. Complete with multiple casual and fine dining options, guests can choose to take an alfresco lunch by the lakeside, or head indoors to Lakeview Restaurant where sophisticated plates pair with fine wine and contemporary decor. Between bites, visit the exquisite leisure facilities, including the indoor-outdoor Elemis spa, large indoor heated pool and light-filled fitness centre.",
+      "location_subheading": "United Kingdom",
+      "price": 299,
+      "original_price": 934,
+      "discount_percentage": 68,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Smx2UYAR",
+      "hero_image": "https://images.luxuryescapes.com/b2sjdgk8l6i62t1oei",
+      "image_two": "https://images.luxuryescapes.com/porlgmhrab3181ho76yaw",
+      "image_three": "https://images.luxuryescapes.com/75ztg2dgbiwnoye4seb1",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-04-20 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Cumbria - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Cumbria, United Kingdom with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "cumbria hotels",
+      "cumbria travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/cumbria",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/cumbria",
+      "es": "https://mondoexplora.com/es/destination/cumbria",
+      "fr": "https://mondoexplora.com/fr/destination/cumbria",
+      "it": "https://mondoexplora.com/it/destination/cumbria"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-03-30",
+    "hotel_count": 1,
+    "average_price": 299,
+    "average_discount": 68
+  }
+}

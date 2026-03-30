@@ -12,7 +12,7 @@
       "description": "Explore Sao Paulo with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 204
+      "avg_price": 206
     },
     {
       "name": "Recife",
@@ -21,7 +21,7 @@
       "description": "Explore Recife with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 404
+      "avg_price": 370
     },
     {
       "name": "Porto Alegre",
@@ -40,6 +40,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 364
+    },
+    {
+      "name": "São Paulo",
+      "slug": "são-paulo",
+      "image": "https://images.luxuryescapes.com/oaf3c3hq7794hddhf142",
+      "description": "Explore São Paulo with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 238
     }
   ],
   "seo": {

@@ -41,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Langham Boston",
+      "offer_country_name": "United States",
+      "location_heading": "Massachusetts",
+      "title": "Glamorous Boston Langham Retreat in the Heart of the City with Italian Restaurant & Chic Bar",
+      "description": "Bostonian elegance of the highest degree awaits at the lavish five-star Langham Hotel, Boston - perfectly positioned in the heart of the city. This historic hotel, once the Federal Reserve Bank, is a stone's throw from the iconic Freedom Trail, the city's sparkling harbour and the bustling shops of Newbury Street. Dine on Italian family-style dishes in the grand hall of Grana, or relax with a New England concoction in hand at The Fed cocktail bar.",
+      "location_subheading": "United States",
+      "price": 1195,
+      "original_price": 1195,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GxPOOAA3",
+      "hero_image": "https://images.luxuryescapes.com/7raekv4degoxzfzh3wi",
+      "image_two": "https://images.luxuryescapes.com/jy9pm8tf4hz97wjbj7o",
+      "image_three": "https://images.luxuryescapes.com/ni0ec0wuuz7jozc8hrr",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-29",
-    "hotel_count": 2,
-    "average_price": 662,
+    "last_updated": "2026-03-30",
+    "hotel_count": 3,
+    "average_price": 839,
     "average_discount": 0
   }
 }

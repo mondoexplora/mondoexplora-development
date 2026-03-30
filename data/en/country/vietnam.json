@@ -10,18 +10,45 @@
       "slug": "hanoi",
       "image": "https://images.luxuryescapes.com/gyi5m2dyywvdyi2xtrx",
       "description": "Explore Hanoi with luxury accommodations",
-      "hotel_count": 12,
-      "hotel_deals": 12,
-      "avg_price": 386
+      "hotel_count": 13,
+      "hotel_deals": 13,
+      "avg_price": 390
     },
     {
       "name": "Phu Quoc",
       "slug": "phu-quoc",
       "image": "https://images.luxuryescapes.com/fqwdthuy1wk6bvnzbh",
       "description": "Explore Phu Quoc with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 559
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 533
+    },
+    {
+      "name": "Ho Chi Minh City",
+      "slug": "ho-chi-minh-city",
+      "image": "https://images.luxuryescapes.com/gneo9fura76d3qfnox58",
+      "description": "Explore Ho Chi Minh City with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 428
+    },
+    {
+      "name": "Da Nang",
+      "slug": "da-nang",
+      "image": "https://images.luxuryescapes.com/dbcytx308e99am4uadjj",
+      "description": "Explore Da Nang with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 489
+    },
+    {
+      "name": "Hoi An",
+      "slug": "hoi-an",
+      "image": "https://images.luxuryescapes.com/5j9a0a5kgbw1jqq8r36d",
+      "description": "Explore Hoi An with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 346
     },
     {
       "name": "Nha Trang",
@@ -31,33 +58,6 @@
       "hotel_count": 5,
       "hotel_deals": 5,
       "avg_price": 308
-    },
-    {
-      "name": "Da Nang",
-      "slug": "da-nang",
-      "image": "https://images.luxuryescapes.com/dbcytx308e99am4uadjj",
-      "description": "Explore Da Nang with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 432
-    },
-    {
-      "name": "Hoi An",
-      "slug": "hoi-an",
-      "image": "https://images.luxuryescapes.com/dkgsrjwqkqrfcvpxmchk",
-      "description": "Explore Hoi An with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 312
-    },
-    {
-      "name": "Danang",
-      "slug": "danang",
-      "image": "https://images.luxuryescapes.com/erbmey0ulpdnkswl9am",
-      "description": "Explore Danang with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 502
     }
   ],
   "seo": {

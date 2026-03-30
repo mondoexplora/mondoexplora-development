@@ -3,16 +3,16 @@
   "code": "NZ",
   "hero_title": "New Zealand Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in New Zealand.",
-  "hero_image": "https://images.luxuryescapes.com/pmyz74jnnr9qagosiv4a",
+  "hero_image": "https://images.luxuryescapes.com/1bs29g5wyy8vfsuqch",
   "popular_destinations": [
     {
       "name": "Auckland",
       "slug": "auckland",
-      "image": "https://images.luxuryescapes.com/pmyz74jnnr9qagosiv4a",
+      "image": "https://images.luxuryescapes.com/1bs29g5wyy8vfsuqch",
       "description": "Explore Auckland with luxury accommodations",
-      "hotel_count": 22,
-      "hotel_deals": 22,
-      "avg_price": 376
+      "hotel_count": 24,
+      "hotel_deals": 24,
+      "avg_price": 369
     },
     {
       "name": "Queenstown",
@@ -21,7 +21,7 @@
       "description": "Explore Queenstown with luxury accommodations",
       "hotel_count": 15,
       "hotel_deals": 15,
-      "avg_price": 871
+      "avg_price": 875
     },
     {
       "name": "Christchurch",
@@ -30,25 +30,25 @@
       "description": "Explore Christchurch with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 380
+      "avg_price": 370
     },
     {
       "name": "Wellington",
       "slug": "wellington",
-      "image": "https://images.luxuryescapes.com/3y52ofn50nfhbhsxfdfj",
+      "image": "https://images.luxuryescapes.com/8ofusp0qqc8qj7asix9",
       "description": "Explore Wellington with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 302
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 320
     },
     {
       "name": "Rotorua",
       "slug": "rotorua",
-      "image": "https://images.luxuryescapes.com/u7f4mnrr1p9oauyn7yr",
+      "image": "https://images.luxuryescapes.com/d72ap53wxhbs9ptl5tms",
       "description": "Explore Rotorua with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 326
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 299
     },
     {
       "name": "Lake Tekapo",
@@ -57,7 +57,7 @@
       "description": "Explore Lake Tekapo with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 342
+      "avg_price": 341
     }
   ],
   "seo": {

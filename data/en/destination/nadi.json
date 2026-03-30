@@ -4,8 +4,26 @@
   "country_code": "FJ",
   "hero_title": "Hotels in Nadi",
   "description": "Discover the best hotels in Nadi, Fiji. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ah1octnsr2ejlf13dj",
+  "hero_image": "https://images.luxuryescapes.com/lm5x74j31t3uxiscfdp9",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Fiji Nadi Bay Resort & Spa",
+      "offer_country_name": "Fiji",
+      "location_heading": "Nadi",
+      "title": "Fiji Family Two-Bedroom Suites with Daily Breakfast, Nightly Dinner & Two Kids Stay, Play & Eat Free",
+      "description": "Perched on the shores of Wailoaloa Beach, this oceanfront haven blends effortless island relaxation with a prime Fiji address just moments from Nadi's main airport, marina and tropical island adventures. A network of seven lagoon-style pools winds through the resort, linking sun-drenched terraces, swim-up bars and lively social spaces. Guests can join yoga sessions, paddleboard along the coast or unwind at the serene Mareqeti Spa, while younger travellers enjoy the Tutuwalu kids’ club, waterslide and family-friendly pools. From sunrise espresso at Bean Bar Café to fresh island flavours at Harvest or wood-fired Italian at La Bottega, dining here is anything but ordinary. As the stars come out, 17.78 Whiskey Bar and Latitude Lounge ensure the night is every bit as good as the day, or experience Urban Sugar Beach Club to keep the good times going.",
+      "location_subheading": "Fiji",
+      "price": 1559,
+      "original_price": 3898,
+      "discount_percentage": 60,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000HUJY5YAP",
+      "hero_image": "https://images.luxuryescapes.com/lm5x74j31t3uxiscfdp9",
+      "image_two": "https://images.luxuryescapes.com/ctzay1k6ou4ssg3oqx",
+      "image_three": "https://images.luxuryescapes.com/91ga58oc2j9ie8fmif48",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2026-04-01 12:59:00"
+    },
     {
       "vendor_name": "Crowne Plaza Fiji Nadi Bay Resort & Spa",
       "offer_country_name": "Fiji",
@@ -31,8 +49,8 @@
       "title": "Nadi City Centre Hotel near Airport with Onsite Pool & Restaurant",
       "description": "Situated in the heart of bustling Nadi town, this charming retreat offers a tranquil oasis, with lush gardens and a refreshing swimming pool. Explore the vibrant local markets, brimming with fresh produce and artisan crafts, or take a short drive to the stunning Wailoaloa Beach. Savour the flavours of Fiji at Rokete Restaurant and Bar, where you can enjoy local dishes and refreshing drinks while soaking in the serene garden views, or breathe in the smell of flowers during treatments at the onsite spa.",
       "location_subheading": "Fiji",
-      "price": 281,
-      "original_price": 281,
+      "price": 282,
+      "original_price": 282,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlweIAC",
       "hero_image": "https://images.luxuryescapes.com/6671unmkdlkhsk2wju56",
@@ -49,8 +67,8 @@
       "title": "Tropical Fiji Garden Retreat near Denarau Island & Nadi Airport",
       "description": "Bask in heavenly island luxury at this Novotel gem, set on 42 acres of tropical gardens, with every room overlooking the golf course and verdant green surrounds. Let serenity wash over you by the sparkling outdoor pool or indulge in alfresco dining with a pina colada at Talei Restaurant and Bar. Just five minutes from the airport and a 20-minute drive from the picturesque Denarau Island, you're within easy reach of natural gems and local attractions alike. Take a trip to the Garden of the Sleeping Giant and marvel at the incredible array of Asian Orchids, or explore the Coral Coast before returning to relax in your contemporary room.",
       "location_subheading": "Fiji",
-      "price": 262,
-      "original_price": 262,
+      "price": 319,
+      "original_price": 319,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002Ilw3IAC",
       "hero_image": "https://images.luxuryescapes.com/7raghulnxw0tmks2tbo3",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-29",
-    "hotel_count": 3,
-    "average_price": 322,
-    "average_discount": 0
+    "last_updated": "2026-03-30",
+    "hotel_count": 4,
+    "average_price": 646,
+    "average_discount": 15
   }
 }

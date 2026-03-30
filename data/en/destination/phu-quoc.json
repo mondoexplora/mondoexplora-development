@@ -61,14 +61,32 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Movenpick Resort Waverly Phu Quoc",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Phu Quoc",
+      "title": "Vietnam Family-Friendly Seaside Luxury in Phu Quoc with Oversized Pool & Spa",
+      "description": "Nestled along the pristine shores of Ong Lang Beach, your tropical island paradise awaits. Designed to inspire connection and relaxation, this Mövenpick gem offers an abundance of facilities for all ages, including a sprawling beachfront pool, a fun-for-all kids' club and the brand's iconic Chocolate Hour experience. Savour 70 years of Mövenpick’s culinary heritage at one of two restaurants, rejuvenate in a luxurious spa with 15 treatment rooms and enjoy refreshing tipples at the Beach Club or Waverley Lounge. When it's time to explore, the bustling Duong Dong town, with its colourful markets and seafood restaurants, is just a short drive away.",
+      "location_subheading": "Vietnam",
+      "price": 325,
+      "original_price": 325,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP50YAF",
+      "hero_image": "https://images.luxuryescapes.com/e29n9yciunuykuqor5ql",
+      "image_two": "https://images.luxuryescapes.com/keg8kgbum9bbg26agg8",
+      "image_three": "https://images.luxuryescapes.com/zhj2m3anzsgh9ed3g9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Mövenpick Villas & Residences Phu Quoc",
       "offer_country_name": "Vietnam",
       "location_heading": "Phu Quoc",
       "title": "Phu Quoc Movenpick Luxury with Onsite Dining, Beachfront Infinity Pool & Spa",
       "description": "Experience the best of barefoot luxury on the shores of the idyllic Phu Quoc island at this five-star family-friendly resort. Indulge in world-class dining at the onsite restaurants, serving a fusion of local and international cuisine, or sip on handcrafted cocktails at the poolside Aura Beach Club, offering panoramic views of the sparkling sea. Venture out to explore the island's vibrant night markets, lush national parks and traditional fishing villages. For a unique experience, take a boat trip to the surrounding islands for snorkelling or diving. Back at the hotel, relax in the infinity pool, rejuvenate at the state-of-the-art spa or keep active at the fully equipped fitness centre.",
       "location_subheading": "Vietnam",
-      "price": 229,
-      "original_price": 229,
+      "price": 258,
+      "original_price": 258,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ib17hYAB",
       "hero_image": "https://images.luxuryescapes.com/mhsv76t5rgdb8axvi2xf",
@@ -150,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-29",
-    "hotel_count": 7,
-    "average_price": 559,
+    "last_updated": "2026-03-30",
+    "hotel_count": 8,
+    "average_price": 533,
     "average_discount": 2
   }
 }

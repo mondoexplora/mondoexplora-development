@@ -43,6 +43,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "InterContinental Boston",
+      "offer_country_name": "United States",
+      "location_heading": "Boston",
+      "title": "Modern Waterfront Escape on Boston Harbour with Three Onsite Restaurants & Bars",
+      "description": "Experience Boston's historic charm with a stay at InterContinental Boston, an IHG Hotel. Perfectly positioned on the city's waterfront, this modern glass tower offers breathtaking views of Boston Harbour. Venture out to explore the nearby Freedom Trail, a 2.5-mile long path through the city that passes 16 locations significant to the history of the United States. After a day of sightseeing, dine at Miel Brasserie for French cuisine with an American flair or grab an outdoor cocktail and light bites while taking in city views at 510 on the Waterfront.",
+      "location_subheading": "United States",
+      "price": 875,
+      "original_price": 875,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt7XAAR",
+      "hero_image": "https://images.luxuryescapes.com/yna3a42k222w3y1a2dcn",
+      "image_two": "https://images.luxuryescapes.com/s2fnfefzfssgwgwdtjdk",
+      "image_three": "https://images.luxuryescapes.com/xhislb591we2vnkslrae",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Mandarin Oriental, Boston",
       "offer_country_name": "United States",
       "location_heading": "Boston",
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-29",
-    "hotel_count": 6,
-    "average_price": 952,
+    "last_updated": "2026-03-30",
+    "hotel_count": 7,
+    "average_price": 941,
     "average_discount": 3
   }
 }

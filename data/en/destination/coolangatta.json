@@ -4,25 +4,25 @@
   "country_code": "AU",
   "hero_title": "Hotels in Coolangatta",
   "description": "Discover the best hotels in Coolangatta, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/4ycydzrqxbqbmm7jo7wr",
+  "hero_image": "https://images.luxuryescapes.com/mmuiiowi6154i9b7jl",
   "hotels": [
     {
-      "vendor_name": "Mantra Coolangatta Beach",
+      "vendor_name": "X Kirra Apartments",
       "offer_country_name": "Australia",
       "location_heading": "Coolangatta",
-      "title": "Gold Coast Beachfront Self-Contained Escape on Coolangatta Beach with Pool & Spa",
-      "description": "Discover the allure of sunny Queensland with a stay along the beautiful Coolangatta Beach. Perfectly positioned on Marine Parade, this beachfront escape is a stone's throw from the world-renowned Snapper Rocks surf break and the vibrant Coolangatta dining precinct. With spacious self-contained studios and apartments, a heated swimming pool, tennis courts and a fully equipped gym, the retreat offers a perfect blend of relaxation and activity.",
+      "title": "Gold Coast Luxe Self-Contained Two-Bedroom Apartment Stay Overlooking Kirra Beach",
+      "description": "X marks the spot for your new favourite family escape at X Kirra Apartments, perfectly positioned on the Gold Coast's sparkling southernmost shores. Each two-bedroom apartment offers light-filled luxe living and spectacular views over the Pacific Ocean or hinterland. Beaming above the glossy sands of Kirra Beach, just moments from world-class surf, top-notch dining and the Gold Coast Airport, this sophisticated complex will be your home-away-from-home when exploring the region's extraordinary natural wonders and theme parks. Each self-contained apartment has first-class features, including fully equipped kitchens, sleek ensuites and expansive balconies framing postcard ocean or hinterland views, while the complex's heated swimming pool invites year-round relaxation. For family-friendly adventure, head to the nearby Currumbin Wildlife Sanctuary and get to know the emus, koalas and crocodiles.",
       "location_subheading": "Australia",
-      "price": 322,
-      "original_price": 322,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000IdehfAAB",
-      "hero_image": "https://images.luxuryescapes.com/4ycydzrqxbqbmm7jo7wr",
-      "image_two": "https://images.luxuryescapes.com/zatm6nynlnjv56e34p6",
-      "image_three": "https://images.luxuryescapes.com/6yu7yxg9chyafiysg7w5",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 00:59:00"
+      "price": 449,
+      "original_price": 641,
+      "discount_percentage": 30,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Srb9OYAR",
+      "hero_image": "https://images.luxuryescapes.com/mmuiiowi6154i9b7jl",
+      "image_two": "https://images.luxuryescapes.com/ch8xtp206qzzvcbd6fl",
+      "image_three": "https://images.luxuryescapes.com/2c3iidtuw13mhtnpnsf5",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 3,
+      "end_date_utc": "2026-04-27 13:59:00"
     }
   ],
   "seo": {
@@ -42,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-28",
+    "last_updated": "2026-03-30",
     "hotel_count": 1,
-    "average_price": 322,
-    "average_discount": 0
+    "average_price": 449,
+    "average_discount": 30
   }
 }

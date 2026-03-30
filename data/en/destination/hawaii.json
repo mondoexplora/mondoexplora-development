@@ -25,6 +25,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Embassy Suites by Hilton Waikiki Beach Walk",
+      "offer_country_name": "United States",
+      "location_heading": "Hawaii",
+      "title": "All-Suite Hawaii Retreat Steps from Waikiki Beach with Daily Breakfast & US$100 Dining Credit",
+      "description": "Live out your Hawaiian fairytale at this all-suite escape just steps from iconic Waikiki Beach and buzzing Beach Walk. Spend your days lounging by the shimmering palm-fringed pool, let serenity wash over you in the outdoor hot tub or take your pick from various resort activities including yoga, hula lessons, live music shows and so much more. When adventure calls, head out to explore the scenery of Diamond Head or take the little ones for a visit to Honolulu Zoo or Waikiki Aquarium, before returning to your private pocket of paradise at Embassy Suites. Back onsite, while the days away at Pakini Bar and Lounge, serving up delectable cocktails and tropical vibes. In the evenings, raise a toast with a nightly cocktail reception, before heading out to explore the local nightlife and food scene - the best of Waikiki is on your doorstep.",
+      "location_subheading": "United States",
+      "price": 1449,
+      "original_price": 3083,
+      "discount_percentage": 53,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RndVJYAZ",
+      "hero_image": "https://images.luxuryescapes.com/pm30a9ut9hmvvhorlmbp",
+      "image_two": "https://images.luxuryescapes.com/cu5mve71yldr4bu38x1i",
+      "image_three": "https://images.luxuryescapes.com/scdff9nittmlue3nn4od",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-04-14 13:59:00"
+    },
+    {
       "vendor_name": "Outrigger Reef Waikiki Beach Resort",
       "offer_country_name": "United States",
       "location_heading": "Hawaii",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-29",
-    "hotel_count": 5,
-    "average_price": 2136,
-    "average_discount": 0
+    "last_updated": "2026-03-30",
+    "hotel_count": 6,
+    "average_price": 2022,
+    "average_discount": 9
   }
 }

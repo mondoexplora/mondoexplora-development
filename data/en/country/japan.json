@@ -10,9 +10,18 @@
       "slug": "tokyo",
       "image": "https://images.luxuryescapes.com/kiynmoi9772c9xpopp3p",
       "description": "Explore Tokyo with luxury accommodations",
-      "hotel_count": 12,
-      "hotel_deals": 12,
-      "avg_price": 1026
+      "hotel_count": 13,
+      "hotel_deals": 13,
+      "avg_price": 1006
+    },
+    {
+      "name": "Kyoto",
+      "slug": "kyoto",
+      "image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
+      "description": "Explore Kyoto with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 754
     },
     {
       "name": "Osaka",
@@ -21,16 +30,7 @@
       "description": "Explore Osaka with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 573
-    },
-    {
-      "name": "Kyoto",
-      "slug": "kyoto",
-      "image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
-      "description": "Explore Kyoto with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 811
+      "avg_price": 575
     },
     {
       "name": "Sapporo",

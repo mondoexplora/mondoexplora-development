@@ -10,9 +10,18 @@
       "slug": "baa-atoll",
       "image": "https://images.luxuryescapes.com/a9pm77fw58c7keyadhl",
       "description": "Explore Baa Atoll with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 5395
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 4541
+    },
+    {
+      "name": "North Male Atoll",
+      "slug": "north-male-atoll",
+      "image": "https://images.luxuryescapes.com/4mdf9kid57dtmnhzuod",
+      "description": "Explore North Male Atoll with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 2729
     },
     {
       "name": "North Malé Atoll",
@@ -21,7 +30,7 @@
       "description": "Explore North Malé Atoll with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 3303
+      "avg_price": 3307
     },
     {
       "name": "Malé",
@@ -49,15 +58,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 2685
-    },
-    {
-      "name": "Thaa Atoll",
-      "slug": "thaa-atoll",
-      "image": "https://images.luxuryescapes.com/8cm51zfvtrr7f4s56iug",
-      "description": "Explore Thaa Atoll with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 3340
     }
   ],
   "seo": {

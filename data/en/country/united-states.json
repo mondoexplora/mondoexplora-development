@@ -10,45 +10,45 @@
       "slug": "new-york",
       "image": "https://images.luxuryescapes.com/4elm1zhlrmb0e26g6vw5",
       "description": "Explore New York with luxury accommodations",
-      "hotel_count": 28,
-      "hotel_deals": 28,
-      "avg_price": 1103
+      "hotel_count": 29,
+      "hotel_deals": 29,
+      "avg_price": 1085
     },
     {
       "name": "California",
       "slug": "california",
-      "image": "https://images.luxuryescapes.com/2eh86y2mv3bsnzv6iit",
+      "image": "https://images.luxuryescapes.com/y1xmg8jbi3r8xp975qhc",
       "description": "Explore California with luxury accommodations",
-      "hotel_count": 12,
-      "hotel_deals": 12,
-      "avg_price": 1139
+      "hotel_count": 14,
+      "hotel_deals": 14,
+      "avg_price": 1132
+    },
+    {
+      "name": "San Francisco",
+      "slug": "san-francisco",
+      "image": "https://images.luxuryescapes.com/m2svymv8ky5i0gdbe9",
+      "description": "Explore San Francisco with luxury accommodations",
+      "hotel_count": 13,
+      "hotel_deals": 13,
+      "avg_price": 611
     },
     {
       "name": "Los Angeles",
       "slug": "los-angeles",
       "image": "https://images.luxuryescapes.com/2gz9hcpe3z0kaefsk6r4",
       "description": "Explore Los Angeles with luxury accommodations",
-      "hotel_count": 10,
-      "hotel_deals": 10,
-      "avg_price": 629
-    },
-    {
-      "name": "San Francisco",
-      "slug": "san-francisco",
-      "image": "https://images.luxuryescapes.com/754xmdpftfofw82s7cxw",
-      "description": "Explore San Francisco with luxury accommodations",
-      "hotel_count": 10,
-      "hotel_deals": 10,
-      "avg_price": 436
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 668
     },
     {
       "name": "Chicago",
       "slug": "chicago",
       "image": "https://images.luxuryescapes.com/dhgtjm158ttec5fzgy88",
       "description": "Explore Chicago with luxury accommodations",
-      "hotel_count": 9,
-      "hotel_deals": 9,
-      "avg_price": 534
+      "hotel_count": 10,
+      "hotel_deals": 10,
+      "avg_price": 515
     },
     {
       "name": "New Orleans",

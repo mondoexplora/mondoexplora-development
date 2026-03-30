@@ -79,6 +79,42 @@
       "end_date_utc": "2050-12-30 14:59:00"
     },
     {
+      "vendor_name": "Crowne Plaza Istanbul-Oryapark",
+      "offer_country_name": "Turkey",
+      "location_heading": "Istanbul",
+      "title": "Stylish Istanbul Escape with Indoor Swimming Pool",
+      "description": "The intrigue of Istanbul beckons visitors from across the globe - discover the city's wonders for yourself with a stay at the Crowne Plaza Istanbul - Oryapark, an IHG Hotel. During your stay, take a cooling dip in the indoor swimming pool, keep up with your fitness regime at the fitness centre, or enjoy a pampering treatment at the spa. For dinner, feast on authentic Turkish fare at Oval Restaurant or cap off your evening with a tipple or two at the suave lobby bar.",
+      "location_subheading": "Turkey",
+      "price": 347,
+      "original_price": 347,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJa7AAH",
+      "hero_image": "https://images.luxuryescapes.com/romp236s9jlc5hhxnfv",
+      "image_two": "https://images.luxuryescapes.com/k9c1uikpi984fdje5lj8",
+      "image_three": "https://images.luxuryescapes.com/t7vitil1452efvou66k",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Istanbul Tuzla Viaport Marina",
+      "offer_country_name": "Turkey",
+      "location_heading": "Istanbul",
+      "title": "Sophisticated Seafront Resort Just an Hour from Istanbul",
+      "description": "Discover Turkiye's legendary culture, history and cuisine with a sophisticated stay at the Crowne Plaza Istanbul Tuzla Viaport Marina, an IHG Hotel, your gateway to vibrant Istanbul. This eye-catching hotel is built on a private man-made island in the centre of Viaport Marina, an hour from the city centre. Find yourself surrounded by the amazing landmarks, monuments and architecture of this unique metropolis, while your peaceful hotel offers calming water views and authentic Turkish flavours.",
+      "location_subheading": "Turkey",
+      "price": 490,
+      "original_price": 490,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJbGAAX",
+      "hero_image": "https://images.luxuryescapes.com/mpx2zcqiunksapkog6dq",
+      "image_two": "https://images.luxuryescapes.com/b47avzbtc01h6lhocxq",
+      "image_three": "https://images.luxuryescapes.com/3i80a62abjxz9twu3b2j",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Crowne Plaza Istanbul - Florya",
       "offer_country_name": "Turkey",
       "location_heading": "Istanbul",
@@ -222,9 +258,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-29",
-    "hotel_count": 11,
-    "average_price": 657,
-    "average_discount": 1
+    "last_updated": "2026-03-30",
+    "hotel_count": 13,
+    "average_price": 621,
+    "average_discount": 0
   }
 }

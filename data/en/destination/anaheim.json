@@ -43,6 +43,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Disney's Grand Californian Hotel & Spa",
+      "offer_country_name": "United States",
+      "location_heading": "Anaheim",
+      "title": "Family-Friendly Disneyland Resort Grand Californian Escape near Downtown Disney with Three Pools & Spa",
+      "description": "Step into the heart of the magic at _Disney’s Grand Californian Hotel & Spa_, an exclusive retreat located in _Disneyland_ Resort. With direct access to _Disney California Adventure_ and just moments from _Disneyland_ Resort and the vibrant _Downtown Disney_ District, this craftsman-style hotel immerses you in the wonder of Disney like never before. Perfect for families, the hotel offers elegantly designed rooms, ensuring a restful haven after days of adventure. Beyond the parks, the fun continues with multiple themed pools, award-winning dining options and the serene Tenaya Stone Spa, where relaxation takes centre stage.",
+      "location_subheading": "United States",
+      "price": 1700,
+      "original_price": 1700,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000DbVuzYAF",
+      "hero_image": "https://images.luxuryescapes.com/yruekbdzmxvfo9oqgkkn",
+      "image_two": "https://images.luxuryescapes.com/eztpt7u2vhcrte493djn",
+      "image_three": "https://images.luxuryescapes.com/uctuf9gifsosaesffmv",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Sonesta Anaheim Resort",
       "offer_country_name": "United States",
       "location_heading": "Anaheim",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-29",
-    "hotel_count": 3,
-    "average_price": 689,
-    "average_discount": 6
+    "last_updated": "2026-03-30",
+    "hotel_count": 4,
+    "average_price": 942,
+    "average_discount": 4
   }
 }

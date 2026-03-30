@@ -3,8 +3,17 @@
   "code": "CA",
   "hero_title": "Canada Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Canada.",
-  "hero_image": "https://images.luxuryescapes.com/5fcqyfaafdcpsgnucgj7",
+  "hero_image": "https://images.luxuryescapes.com/i3fljywt07lgaf32r1",
   "popular_destinations": [
+    {
+      "name": "Toronto",
+      "slug": "toronto",
+      "image": "https://images.luxuryescapes.com/i3fljywt07lgaf32r1",
+      "description": "Explore Toronto with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 634
+    },
     {
       "name": "Vancouver",
       "slug": "vancouver",
@@ -15,22 +24,13 @@
       "avg_price": 852
     },
     {
-      "name": "Toronto",
-      "slug": "toronto",
-      "image": "https://images.luxuryescapes.com/i3fljywt07lgaf32r1",
-      "description": "Explore Toronto with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 643
-    },
-    {
       "name": "Montreal",
       "slug": "montreal",
       "image": "https://images.luxuryescapes.com/v15g0w465xjz340jrdq",
       "description": "Explore Montreal with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 561
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 635
     },
     {
       "name": "Banff",

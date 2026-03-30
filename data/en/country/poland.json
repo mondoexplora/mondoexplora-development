@@ -3,8 +3,17 @@
   "code": "PL",
   "hero_title": "Poland Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Poland.",
-  "hero_image": "https://images.luxuryescapes.com/wrah7xlqdognui7xau4",
+  "hero_image": "https://images.luxuryescapes.com/44ybr1z2nq0fhq5vjrkh",
   "popular_destinations": [
+    {
+      "name": "Warsaw",
+      "slug": "warsaw",
+      "image": "https://images.luxuryescapes.com/44ybr1z2nq0fhq5vjrkh",
+      "description": "Explore Warsaw with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 209
+    },
     {
       "name": "Kraków",
       "slug": "kraków",
@@ -12,7 +21,7 @@
       "description": "Explore Kraków with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 569
+      "avg_price": 485
     },
     {
       "name": "Krakow",
@@ -22,15 +31,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 322
-    },
-    {
-      "name": "Warsaw",
-      "slug": "warsaw",
-      "image": "https://images.luxuryescapes.com/44ybr1z2nq0fhq5vjrkh",
-      "description": "Explore Warsaw with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 166
     }
   ],
   "seo": {

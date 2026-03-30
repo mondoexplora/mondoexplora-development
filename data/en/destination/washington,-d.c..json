@@ -25,14 +25,32 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Intercontinental The Willard Washington DC",
+      "offer_country_name": "United States",
+      "location_heading": "Washington, D.C.",
+      "title": "Grand Heritage Washington D.C. Retreat Moments from the White House with Historic Onsite Bar",
+      "description": "Experience the grandeur of the USA's capital city with a stay at the iconic InterContinental The Willard Washington D.C., an IHG Hotel. Located just two blocks from the White House, this historic hotel has hosted numerous dignitaries and celebrities since 1818. Savour exquisite French cuisine at Café du Parc or sip classic cocktails at Round Robin Bar, dubbed the 'Oval Office of Bars' by Condé Nast Traveller. For a touch of tranquillity amid the city buzz, retreat to The Willard Spa.",
+      "location_subheading": "United States",
+      "price": 1265,
+      "original_price": 1265,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt7qAAB",
+      "hero_image": "https://images.luxuryescapes.com/q0voq11dk975w5so5tyk",
+      "image_two": "https://images.luxuryescapes.com/ih0yoxhmpxolk3wx6p9",
+      "image_three": "https://images.luxuryescapes.com/uz5ul0zwj4743ytte4h",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Kimpton Banneker Hotel",
       "offer_country_name": "United States",
       "location_heading": "Washington, D.C.",
       "title": "Washington DC Sophisticated Downtown Stay with Rooftop Bar",
       "description": "Stay within arm’s reach of Washington DC’s iconic monuments at Kimpton Banneker Hotel, an IHG Hotel, located on a tree-lined avenue with views of The White House. Dine at the timeless French bistro, Le SeL, which tantalises with Parisian flavours, or sip cocktails at the enchanting Lady Bird rooftop bar. Take leisurely strolls through buzzing Dupont Circle and peruse bustling downtown during your Washington DC stay.",
       "location_subheading": "United States",
-      "price": 548,
-      "original_price": 548,
+      "price": 544,
+      "original_price": 544,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKFGAA3",
       "hero_image": "https://images.luxuryescapes.com/hsxc0hq0f8y1gkvn6db",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-29",
-    "hotel_count": 5,
-    "average_price": 689,
+    "last_updated": "2026-03-30",
+    "hotel_count": 6,
+    "average_price": 784,
     "average_discount": 2
   }
 }
