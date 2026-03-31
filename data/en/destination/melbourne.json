@@ -421,24 +421,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Next Hotel Melbourne, Curio Collection by Hilton",
-      "offer_country_name": "Australia",
-      "location_heading": "Melbourne",
-      "title": "Award-Winning Manhattan-Style Melbourne CBD Stay with Daily $A75 Dining Credit",
-      "description": "Step into a world of bespoke sophistication at this cosmopolitan sanctuary that crowns Melbourne's glamorous 80 Collins retail and dining precinct. Consistently ranked as one of the best stays in the city, this haven in the sky redefines the hotel experience. This landmark precinct in the CBD's prestigious 'Paris End' claims prime real estate among renowned retailers, high-end boutiques, first-class eateries and industry influencers. Throughout the space, you can find thought-provoking pieces by internationally acclaimed Melbourne artists and boutique elements from its heritage past. The heart and soul of this hotel can be found in its super-sleek dining venues: La Madonna Restaurant & Bar, where the menu perfectly encapsulates the very best of local produce through provocative dishes, and The Barrel Room, where you can enjoy house-distilled, barrel-aged spirits. With daily dining and drinks credit to use at any onsite venue, your stay here promises pure indulgence.",
-      "location_subheading": "Australia",
-      "price": 299,
-      "original_price": 534,
-      "discount_percentage": 44,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RdE8SYAV",
-      "hero_image": "https://images.luxuryescapes.com/7y7xtsrql96hotvjwzc",
-      "image_two": "https://images.luxuryescapes.com/u41zibu79c8a5zoeslb",
-      "image_three": "https://images.luxuryescapes.com/6dius3go5h1bw3v8uvn",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 2,
-      "end_date_utc": "2026-03-30 12:59:00"
-    },
-    {
       "vendor_name": "Novotel Melbourne Airport",
       "offer_country_name": "Australia",
       "location_heading": "Melbourne",
@@ -1212,9 +1194,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-30",
-    "hotel_count": 66,
-    "average_price": 335,
-    "average_discount": 7
+    "last_updated": "2026-03-31",
+    "hotel_count": 65,
+    "average_price": 336,
+    "average_discount": 6
   }
 }

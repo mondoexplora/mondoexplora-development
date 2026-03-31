@@ -655,24 +655,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Paradox Sydney",
-      "offer_country_name": "Australia",
-      "location_heading": "Sydney",
-      "title": "Sydney CBD Elegance near Circular Quay & Opera House with Daily Breakfast",
-      "description": "Discover new heights of luxury in the heart of Sydney with this five-star stay, located just minutes from iconic landmarks like the Sydney Opera House, Circular Quay and The Rocks. Set within a heritage-listed architectural masterpiece dating from 1856, Paradox Sydney offers guests an unrivalled central position and is a breezy walk from many of Sydney’s countless delights. Wander the idyllic lawns of the Royal Botanic Garden, peruse Pitt Street Mall’s celebrated upscale boutiques or head to Barangaroo, the city’s electrifying nightlife and entertainment precinct, for world-class bites and stunning views of the harbour. After days of discovery, return to the hotel for vintage opulence and contemporary comfort. The hotel’s exquisite, marble-backed lobby promises brilliance in abundance - experience world-class high tea and relax with a casual lunch or dinner at The Fax Bar, or savour sophisticated plates at the acclaimed Bentley Restaurant & Bar.",
-      "location_subheading": "Australia",
-      "price": 349,
-      "original_price": 969,
-      "discount_percentage": 64,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Q0whmYAB",
-      "hero_image": "https://images.luxuryescapes.com/imjepfv835m8h4nmy8l5",
-      "image_two": "https://images.luxuryescapes.com/lk881iczu997kdqcuivn",
-      "image_three": "https://images.luxuryescapes.com/0k44goovnmlxw22owu",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 2,
-      "end_date_utc": "2026-03-30 12:59:00"
-    },
-    {
       "vendor_name": "Park Hyatt Sydney",
       "offer_country_name": "Australia",
       "location_heading": "Sydney",
@@ -1230,9 +1212,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-30",
-    "hotel_count": 67,
-    "average_price": 483,
+    "last_updated": "2026-03-31",
+    "hotel_count": 66,
+    "average_price": 485,
     "average_discount": 4
   }
 }
