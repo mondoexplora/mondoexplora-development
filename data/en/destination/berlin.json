@@ -25,6 +25,24 @@
       "end_date_utc": "2026-12-31 01:59:00"
     },
     {
+      "vendor_name": "H10 Berlin Ku'damm",
+      "offer_country_name": "Germany",
+      "location_heading": "Berlin",
+      "title": "Heritage Berlin Escape near Iconic Kurfürstendamm with Daily Breakfast & Spa Access",
+      "description": "From the Brandenburg Gate to the East Side Gallery, soak up the sights of Berlin from the stylish H10 Berlin Ku'Damm. Housed in a historic former school building with a glorious heritage facade, this elegant hotel sits just moments from the famed Kurfürstendamm - the city's premier shopping and dining boulevard where new and old collide. The magnificent Charlottenburg Palace is just a bus ride away, while the sprawling Tiergarten is easily accessed on foot. After days exploring the streets of Berlin, you can retreat to your central launchpad where outstanding service awaits. Refuel at the sumptuous Salt & Pepper restaurant for breakfast or head to the incredible Steps Bar, which showcases a fusion of German and Mediterranean dishes. When it's time to pamper yourself, Despacio Beauty Centre and the indulgent spa await, complete with sauna, steam room, shower temple and thermal lounge.",
+      "location_subheading": "Germany",
+      "price": 256,
+      "original_price": 474,
+      "discount_percentage": 46,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000QTmYYYA1",
+      "hero_image": "https://images.luxuryescapes.com/qv8mmg2s7gto4p3nd9pp",
+      "image_two": "https://images.luxuryescapes.com/51clz1dgf8p5c5jx3ub",
+      "image_three": "https://images.luxuryescapes.com/w73sjytlcu1g0kpxwq",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-04-28 13:59:00"
+    },
+    {
       "vendor_name": "Adlon Kempinski",
       "offer_country_name": "Germany",
       "location_heading": "Berlin",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-31",
-    "hotel_count": 5,
-    "average_price": 418,
-    "average_discount": 0
+    "last_updated": "2026-04-01",
+    "hotel_count": 6,
+    "average_price": 391,
+    "average_discount": 8
   }
 }

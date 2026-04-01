@@ -97,6 +97,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Radisson Blu Zaffron Resort Santorini",
+      "offer_country_name": "Greece",
+      "location_heading": "Santorini",
+      "title": "Romantic Santorini Retreat with Daily Breakfast, Nightly Dinner & Beach Access",
+      "description": "Journey across the sunken caldera to experience five-star luxury in Santorini, where stunning black sands, whitewashed architecture and the sparkling Aegean Sea set the scene. Nestled in the charming Kamari village, this chic hideaway epitomises Greek island elegance, with Mediterranean-inspired touches and exquisite dining options. Indulge in poolside cocktails at the Pool Bar or savour Mediterranean flavours at Zaffron Restaurant. Spend sunlit days uncovering Kamari Village’s treasures - from ancient ruins to taverna-lined boardwalks and Santorini’s only open-air cinema - then unwind at one of the resort’s luxe pools or on its private stretch of beach.",
+      "location_subheading": "Greece",
+      "price": 774,
+      "original_price": 1888,
+      "discount_percentage": 59,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000QFHw1YAH",
+      "hero_image": "https://images.luxuryescapes.com/10gw16oxld4ycpxl7o",
+      "image_two": "https://images.luxuryescapes.com/d4ja8dgdb8klwnsrs8",
+      "image_three": "https://images.luxuryescapes.com/zbnzypi1xjdtb4dhiehm",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-04-08 13:59:00"
+    },
+    {
       "vendor_name": "Santo Mine Oia Suites",
       "offer_country_name": "Greece",
       "location_heading": "Santorini",
@@ -168,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-31",
-    "hotel_count": 8,
-    "average_price": 920,
-    "average_discount": 9
+    "last_updated": "2026-04-01",
+    "hotel_count": 9,
+    "average_price": 904,
+    "average_discount": 15
   }
 }

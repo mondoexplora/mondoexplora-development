@@ -12,16 +12,25 @@
       "description": "Explore Hanoi with luxury accommodations",
       "hotel_count": 13,
       "hotel_deals": 13,
-      "avg_price": 390
+      "avg_price": 392
     },
     {
       "name": "Phu Quoc",
       "slug": "phu-quoc",
       "image": "https://images.luxuryescapes.com/fqwdthuy1wk6bvnzbh",
       "description": "Explore Phu Quoc with luxury accommodations",
-      "hotel_count": 8,
-      "hotel_deals": 8,
-      "avg_price": 533
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 622
+    },
+    {
+      "name": "Da Nang",
+      "slug": "da-nang",
+      "image": "https://images.luxuryescapes.com/dbcytx308e99am4uadjj",
+      "description": "Explore Da Nang with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 507
     },
     {
       "name": "Ho Chi Minh City",
@@ -31,15 +40,6 @@
       "hotel_count": 6,
       "hotel_deals": 6,
       "avg_price": 428
-    },
-    {
-      "name": "Da Nang",
-      "slug": "da-nang",
-      "image": "https://images.luxuryescapes.com/dbcytx308e99am4uadjj",
-      "description": "Explore Da Nang with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 489
     },
     {
       "name": "Hoi An",
@@ -57,7 +57,7 @@
       "description": "Explore Nha Trang with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 308
+      "avg_price": 309
     }
   ],
   "seo": {

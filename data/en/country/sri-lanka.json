@@ -3,25 +3,43 @@
   "code": "LK",
   "hero_title": "Sri Lanka Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Sri Lanka.",
-  "hero_image": "https://images.luxuryescapes.com/5ozf29ng1xt0h6k7vje",
+  "hero_image": "https://images.luxuryescapes.com/64gnmm9rrfiy2v32ir5r",
   "popular_destinations": [
-    {
-      "name": "Colombo",
-      "slug": "colombo",
-      "image": "https://images.luxuryescapes.com/5ozf29ng1xt0h6k7vje",
-      "description": "Explore Colombo with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 423
-    },
     {
       "name": "Kandy",
       "slug": "kandy",
-      "image": "https://images.luxuryescapes.com/pvt6ytekdhc6y95lbze",
+      "image": "https://images.luxuryescapes.com/64gnmm9rrfiy2v32ir5r",
       "description": "Explore Kandy with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 916
+    },
+    {
+      "name": "Hambantota",
+      "slug": "hambantota",
+      "image": "https://images.luxuryescapes.com/7g4sby4zoznh3y8fldd",
+      "description": "Explore Hambantota with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 513
+    },
+    {
+      "name": "Colombo",
+      "slug": "colombo",
+      "image": "https://images.luxuryescapes.com/m3py84qyeqonf7hjymo",
+      "description": "Explore Colombo with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 424
+    },
+    {
+      "name": "Kalkudah",
+      "slug": "kalkudah",
+      "image": "https://images.luxuryescapes.com/5nvf2c35d82zr1kywb9",
+      "description": "Explore Kalkudah with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 987
+      "avg_price": 509
     },
     {
       "name": "Kuchchaveli",
@@ -39,25 +57,7 @@
       "description": "Explore Ahungalla with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 968
-    },
-    {
-      "name": "Weligama",
-      "slug": "weligama",
-      "image": "https://images.luxuryescapes.com/0yfoqvnnqwe7h0cm0xfh",
-      "description": "Explore Weligama with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 1468
-    },
-    {
-      "name": "Hambantota",
-      "slug": "hambantota",
-      "image": "https://images.luxuryescapes.com/7g4sby4zoznh3y8fldd",
-      "description": "Explore Hambantota with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 463
+      "avg_price": 973
     }
   ],
   "seo": {
