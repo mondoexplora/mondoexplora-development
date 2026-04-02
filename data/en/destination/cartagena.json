@@ -1,0 +1,50 @@
+{
+  "city": "Cartagena",
+  "country": "Colombia",
+  "country_code": "CO",
+  "hero_title": "Hotels in Cartagena",
+  "description": "Discover the best hotels in Cartagena, Colombia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/000u1s1xqnnthmvyuqq",
+  "hotels": [
+    {
+      "vendor_name": "Sofitel Legend Santa Clara",
+      "offer_country_name": "Colombia",
+      "location_heading": "Cartagena",
+      "title": "Sofitel Cartagena Restored Colonial Grandeur with Onsite Restaurants & Swimming Pool",
+      "description": "Step into Cartagena’s walled Old Town at this restored former convent, set within 17th-century stone cloisters and leafy courtyards near Plaza de los Coches. The property pairs colonial arches with contemporary design, and many rooms feature balconies overlooking the historic streets. A palm-fringed outdoor pool sits beside the original walls, and the spa offers hammam-style rituals and massages. Dine on refined Colombian flavours at the signature 1621 restaurant, or sample ceviche and rum cocktails at nearby La Cevichería in San Diego. The Gold Museum and the Palace of the Inquisition are within a short walk, and the Getsemaní district’s street art and late-night bars begin just beyond the clock tower.",
+      "location_subheading": "Colombia",
+      "price": 826,
+      "original_price": 826,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ib042YAB",
+      "hero_image": "https://images.luxuryescapes.com/000u1s1xqnnthmvyuqq",
+      "image_two": "https://images.luxuryescapes.com/d95z2ieucv7ein6dhcas",
+      "image_three": "https://images.luxuryescapes.com/fuxzub7yng3u9psx19aj",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Cartagena - Colombia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Cartagena, Colombia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "cartagena hotels",
+      "cartagena travel",
+      "colombia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/cartagena",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/cartagena",
+      "es": "https://mondoexplora.com/es/destination/cartagena",
+      "fr": "https://mondoexplora.com/fr/destination/cartagena",
+      "it": "https://mondoexplora.com/it/destination/cartagena"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-04-02",
+    "hotel_count": 1,
+    "average_price": 826,
+    "average_discount": 0
+  }
+}
