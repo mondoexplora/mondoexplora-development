@@ -30,7 +30,7 @@
       "description": "Explore Mallorca with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 871
+      "avg_price": 877
     },
     {
       "name": "Ibiza",
@@ -39,7 +39,16 @@
       "description": "Explore Ibiza with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 723
+      "avg_price": 720
+    },
+    {
+      "name": "San Roque",
+      "slug": "san-roque",
+      "image": "https://images.luxuryescapes.com/u7lezps8pp06w52tta",
+      "description": "Explore San Roque with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 817
     },
     {
       "name": "Analucia",
@@ -49,15 +58,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 1190
-    },
-    {
-      "name": "Marbella",
-      "slug": "marbella",
-      "image": "https://images.luxuryescapes.com/fktsbmfbhee6yccuwpuwq",
-      "description": "Explore Marbella with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 745
     }
   ],
   "seo": {

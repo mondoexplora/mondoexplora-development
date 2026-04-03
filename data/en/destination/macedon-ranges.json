@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Macedon Ranges",
   "description": "Discover the best hotels in Macedon Ranges, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ftikb7hm5rlaqs9im6yv",
+  "hero_image": "https://images.luxuryescapes.com/e4lj2p0df994edtyutm",
   "hotels": [
-    {
-      "vendor_name": "Cleveland Estate Macedon Ranges",
-      "offer_country_name": "Australia",
-      "location_heading": "Macedon Ranges",
-      "title": "Macedon Ranges Scenic Vineyard Hideaway with Daily Breakfast & Boutique Beer Tastings",
-      "description": "Relax and reboot with a countryside winery escape, just an hour from Melbourne’s CBD in the glorious Macedon Ranges. Set on the edge of the heritage town of Lancefield, this hideaway is surrounded by rolling greenery and leafy vines, with a 19th-century homestead at its heart. Today, this sleek winery escape offers every modern luxury, with rooms and suites offering views of the estate's vineyards or the charming township. Unwind in sophistication with the region's only underground cellar door, manicured gardens, more than 100 acres of vineyards and a small lake. The refined Carriage House Restaurant serves up modern farmhouse cuisine with views across the soaring Macedon Ranges. Soak up the simple pleasures of this boutique escape, explore the nearby Hanging Rock or the Lancefield & District Farmers' Market, and at the end of a long day, head nearby to the Lost Watering Hole Brewery for a complimentary beer tasting paddle.",
-      "location_subheading": "Australia",
-      "price": 299,
-      "original_price": 554,
-      "discount_percentage": 46,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RiTuoYAF",
-      "hero_image": "https://images.luxuryescapes.com/ftikb7hm5rlaqs9im6yv",
-      "image_two": "https://images.luxuryescapes.com/qamputt8haf4q3wp39eq",
-      "image_three": "https://images.luxuryescapes.com/of2ag6l24jkii8gmkfwj",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 2,
-      "end_date_utc": "2026-05-18 13:59:00"
-    },
     {
       "vendor_name": "Cleveland Estate Macedon Ranges",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Cleveland Estate Macedon Ranges",
+      "offer_country_name": "Australia",
+      "location_heading": "Macedon Ranges",
+      "title": "Macedon Ranges Scenic Vineyard Hideaway with Daily Breakfast & Boutique Beer Tastings",
+      "description": "Relax and reboot with a countryside winery escape, just an hour from Melbourne’s CBD in the glorious Macedon Ranges. Set on the edge of the heritage town of Lancefield, this hideaway is surrounded by rolling greenery and leafy vines, with a 19th-century homestead at its heart. Today, this sleek winery escape offers every modern luxury, with rooms and suites offering views of the estate's vineyards or the charming township. Unwind in sophistication with the region's only underground cellar door, manicured gardens, more than 100 acres of vineyards and a small lake. The refined Carriage House Restaurant serves up modern farmhouse cuisine with views across the soaring Macedon Ranges. Soak up the simple pleasures of this boutique escape, explore the nearby Hanging Rock or the Lancefield & District Farmers' Market, and at the end of a long day, head nearby to the Lost Watering Hole Brewery for a complimentary beer tasting paddle.",
+      "location_subheading": "Australia",
+      "price": 299,
+      "original_price": 554,
+      "discount_percentage": 46,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RiTuoYAF",
+      "hero_image": "https://images.luxuryescapes.com/ftikb7hm5rlaqs9im6yv",
+      "image_two": "https://images.luxuryescapes.com/qamputt8haf4q3wp39eq",
+      "image_three": "https://images.luxuryescapes.com/of2ag6l24jkii8gmkfwj",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-05-18 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-02",
+    "last_updated": "2026-04-03",
     "hotel_count": 2,
     "average_price": 380,
     "average_discount": 23

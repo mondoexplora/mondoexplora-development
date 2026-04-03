@@ -12,7 +12,7 @@
       "description": "Explore Lisbon with luxury accommodations",
       "hotel_count": 9,
       "hotel_deals": 9,
-      "avg_price": 496
+      "avg_price": 480
     },
     {
       "name": "Porto",
@@ -21,7 +21,7 @@
       "description": "Explore Porto with luxury accommodations",
       "hotel_count": 8,
       "hotel_deals": 8,
-      "avg_price": 432
+      "avg_price": 430
     },
     {
       "name": "Alentejo",
@@ -51,13 +51,13 @@
       "avg_price": 418
     },
     {
-      "name": "Ericeira",
-      "slug": "ericeira",
-      "image": "https://images.luxuryescapes.com/pb1jl1v8ujfvjeq2d4c",
-      "description": "Explore Ericeira with luxury accommodations",
+      "name": "Algarve",
+      "slug": "algarve",
+      "image": "https://images.luxuryescapes.com/mn70u9j8a6u7h6oy2y2",
+      "description": "Explore Algarve with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 750
+      "avg_price": 399
     }
   ],
   "seo": {

@@ -49,8 +49,8 @@
       "title": "Five-Star Santorini Clifftop Suite Opulence with Jaw-Dropping Caldera Views",
       "description": "Experience unparalleled bliss enveloped by the velvet blue of the Aegean Sea, unbeatable views of the charming Caldera and impeccable five-star service on your next Santorini stay at the Canaves Oia Suites. Situated on the clifftops above the island's labyrinth-like alleys, this award-winning hideaway offers a world-class stay. Enjoy an intimate Mediterranean dinner on the spectacular Panorama Balcony, savour the finest Greek cuisine under the stars at Petra Restaurant or taste the region's finest wines with a wine tasting journey curated by Canaves Oia. Create memories to last a lifetime with those closest to you with a private yacht charter or indulge in a treatment in the calming caves of Canaves Oia Spa. Experience life's finest splendour within the Cycladic beauty of this opulent Santorini getaway.",
       "location_subheading": "Greece",
-      "price": 1600,
-      "original_price": 1600,
+      "price": 1755,
+      "original_price": 1755,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FO66VAAT",
       "hero_image": "https://images.luxuryescapes.com/3h0j2up8o8m6sjyk631g",
@@ -77,6 +77,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "NOUS Hotel",
+      "offer_country_name": "Greece",
+      "location_heading": "Santorini",
+      "title": "Design-Led Santorini Escape w. Daily Breakfast, Nightly Sunset Cocktails & EUR100 Dining Credit",
+      "description": "Set near Monolithos' black-sand shore, NOŪS Santorini is a design-forward haven built around Cycladic minimalism and contemporary art. A sprawling lagoon-style pool, dreamy wellness facilities and serene accommodations compose the grounds, redefining the Santorini experience. Unobstructed caldera and sunset views are just the cherry on top, with Fira and Oia both within easy reach. When it's time to indulge, head to Pool Restaurant & Bar for tasty bites, decadent Santorini wines and craft cocktails under the Mediterranean sun. Beyond the property, wine tastings at Estate Argyros, the Akrotiri ruins and Red Beach are some of Santorini's greatest highlights.",
+      "location_subheading": "Greece",
+      "price": 599,
+      "original_price": 2852,
+      "discount_percentage": 79,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RM789YAD",
+      "hero_image": "https://images.luxuryescapes.com/bh4j9vlarj2h981ugie",
+      "image_two": "https://images.luxuryescapes.com/uvqwberr05e4gncpr2j7",
+      "image_three": "https://images.luxuryescapes.com/3bzyzfd52tdrqkz25tlw",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-04-24 13:59:00"
     },
     {
       "vendor_name": "Nikki Beach Resort & Spa Santorini",
@@ -186,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-02",
-    "hotel_count": 9,
-    "average_price": 904,
-    "average_discount": 15
+    "last_updated": "2026-04-03",
+    "hotel_count": 10,
+    "average_price": 889,
+    "average_discount": 21
   }
 }

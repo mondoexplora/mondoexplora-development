@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Waurn Ponds",
   "description": "Discover the best hotels in Waurn Ponds, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/suv72wbp3c9srqhjhe73",
+  "hero_image": "https://images.luxuryescapes.com/gue60flexc0smpy99o9q",
   "hotels": [
-    {
-      "vendor_name": "Mt Duneed Estate",
-      "offer_country_name": "Australia",
-      "location_heading": "Waurn Ponds",
-      "title": "Victoria Winery Escape with Daily Breakfast Hamper & Wine Tasting Experience",
-      "description": "Experience the allure of Victoria's Surf Coast at Mount Duneed Estate, a boutique sanctuary nestled amid the vines just outside Geelong. This chic retreat offers a daily gourmet breakfast hamper, a daily bottle of estate wine, a premium wine tasting and an artisan cheese platter on arrival. Immerse yourself in vineyard vistas from your private terrace, venture through the vine rows, and enjoy refreshments at the Cellar Door, The Barrel Hall or the seasonal Garden Bar. With Torquay's beaches and the Great Ocean Road just 15 minutes away, you're perfectly positioned for coastal exploration.",
-      "location_subheading": "Australia",
-      "price": 269,
-      "original_price": 673,
-      "discount_percentage": 60,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000S1njKYAR",
-      "hero_image": "https://images.luxuryescapes.com/suv72wbp3c9srqhjhe73",
-      "image_two": "https://images.luxuryescapes.com/r2ozqid8yromjkiz4syq",
-      "image_three": "https://images.luxuryescapes.com/vfah6yowdj0xbmsk3v6o",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-05-07 13:59:00"
-    },
     {
       "vendor_name": "Mt Duneed Estate",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-03-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mt Duneed Estate",
+      "offer_country_name": "Australia",
+      "location_heading": "Waurn Ponds",
+      "title": "Victoria Winery Escape with Daily Breakfast Hamper & Wine Tasting Experience",
+      "description": "Experience the allure of Victoria's Surf Coast at Mount Duneed Estate, a boutique sanctuary nestled amid the vines just outside Geelong. This chic retreat offers a daily gourmet breakfast hamper, a daily bottle of estate wine, a premium wine tasting and an artisan cheese platter on arrival. Immerse yourself in vineyard vistas from your private terrace, venture through the vine rows, and enjoy refreshments at the Cellar Door, The Barrel Hall or the seasonal Garden Bar. With Torquay's beaches and the Great Ocean Road just 15 minutes away, you're perfectly positioned for coastal exploration.",
+      "location_subheading": "Australia",
+      "price": 269,
+      "original_price": 673,
+      "discount_percentage": 60,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000S1njKYAR",
+      "hero_image": "https://images.luxuryescapes.com/suv72wbp3c9srqhjhe73",
+      "image_two": "https://images.luxuryescapes.com/r2ozqid8yromjkiz4syq",
+      "image_three": "https://images.luxuryescapes.com/vfah6yowdj0xbmsk3v6o",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-05-07 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-02",
+    "last_updated": "2026-04-03",
     "hotel_count": 2,
     "average_price": 444,
     "average_discount": 35
