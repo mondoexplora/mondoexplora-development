@@ -24,15 +24,6 @@
       "avg_price": 599
     },
     {
-      "name": "Mallorca",
-      "slug": "mallorca",
-      "image": "https://images.luxuryescapes.com/kal2cbz5thqfj5f7gec",
-      "description": "Explore Mallorca with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 877
-    },
-    {
       "name": "Ibiza",
       "slug": "ibiza",
       "image": "https://images.luxuryescapes.com/km0y1pe9t375yfveyt9",
@@ -40,6 +31,15 @@
       "hotel_count": 6,
       "hotel_deals": 6,
       "avg_price": 720
+    },
+    {
+      "name": "Mallorca",
+      "slug": "mallorca",
+      "image": "https://images.luxuryescapes.com/kal2cbz5thqfj5f7gec",
+      "description": "Explore Mallorca with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 985
     },
     {
       "name": "San Roque",
