@@ -31,13 +31,31 @@
       "title": "Canggu Five-Star Laidback Beachfront Luxury with Ultra-Cool Beach Club",
       "description": "For the laidback traveller looking for a splash of luxury, the world-class COMO Uma Canggu breaks the mould for breathtaking escapes. Spend balmy days at the sleek and sophisticated COMO Beach Club, where Indian Ocean panoramas are the backdrop to barrel-aged cocktails, poolside dining, live music, DJ sets and daybeds. For a touch of pampering, float over to Shambhala spa for Balinese treatments and steam rooms that are guaranteed to invigorate body and soul.",
       "location_subheading": "Indonesia",
-      "price": 570,
-      "original_price": 570,
+      "price": 573,
+      "original_price": 573,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNx4AAAT",
       "hero_image": "https://images.luxuryescapes.com/z0k7qcz0ohw9xrxil8o",
       "image_two": "https://images.luxuryescapes.com/7tdgezbryhnkbvtukv79",
       "image_three": "https://images.luxuryescapes.com/4fvgelvfd8gyyb06lg7c",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Canggu Cabana Resort by Ini Vie Hospitality",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Canggu",
+      "title": "Beachfront Canggu Suite Escape with Restaurant & Spa",
+      "description": "Discover bliss at this boutique five-star beachfront Canggu oasis. You’ll be just moments from some of Canggu’s hottest spots, including The Lawn and Old Man day clubs, as well as the region's legendary dining experiences. Begin each morning with a dip in the gently curving infinity pool, dine at Seabird Restaurant or head to the resort’s wellness centre, Svaha Spa Nelayan, for massages and holistic treatments backed by timeless tradition.",
+      "location_subheading": "Indonesia",
+      "price": 444,
+      "original_price": 577,
+      "discount_percentage": 23,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ie9MBAAZ",
+      "hero_image": "https://images.luxuryescapes.com/xdfa97bhhm0vbt37sivf9",
+      "image_two": "https://images.luxuryescapes.com/l758toc6hgt729sxjo",
+      "image_three": "https://images.luxuryescapes.com/7e0j32hofmjaoh29ojl",
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -59,24 +77,6 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 5,
       "end_date_utc": "2026-05-09 13:59:00"
-    },
-    {
-      "vendor_name": "Canggu Cabana Resort by Ini Vie Hospitality",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Canggu",
-      "title": "Beachfront Canggu Suite Escape with Restaurant & Spa",
-      "description": "Discover bliss at this boutique five-star beachfront Canggu oasis. You’ll be just moments from some of Canggu’s hottest spots, including The Lawn and Old Man day clubs, as well as the region's legendary dining experiences. Begin each morning with a dip in the gently curving infinity pool, dine at Seabird Restaurant or head to the resort’s wellness centre, Svaha Spa Nelayan, for massages and holistic treatments backed by timeless tradition.",
-      "location_subheading": "Indonesia",
-      "price": 444,
-      "original_price": 577,
-      "discount_percentage": 23,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ie9MBAAZ",
-      "hero_image": "https://images.luxuryescapes.com/xdfa97bhhm0vbt37sivf9",
-      "image_two": "https://images.luxuryescapes.com/l758toc6hgt729sxjo",
-      "image_three": "https://images.luxuryescapes.com/7e0j32hofmjaoh29ojl",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Hotel Tugu Bali",
@@ -121,8 +121,8 @@
       "title": "Canggu Beachfront Elegance with Six Dining Venues & Spa",
       "description": "Located on the shores of central Canggu, this elegant retreat is ideally positioned for tranquil beach days, shopping and nightlife. Savour international flavours at the hotel's six restaurants and bars, including Cure, helmed by celebrity chef Andrew Walsh. Sip on a refreshing cocktail in a private cabana by the infinity pool, look out at the boundless Indian Ocean and indulge in lavish spa treatments at Regent Spa & Wellness. Venture out to explore the nearby Tanah Lot Temple, a stunning sea temple perched on a rocky outcrop, or browse the eclectic boutiques of Seminyak, just a short drive away.",
       "location_subheading": "Indonesia",
-      "price": 1583,
-      "original_price": 1583,
+      "price": 1617,
+      "original_price": 1617,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FMDKXAA5",
       "hero_image": "https://images.luxuryescapes.com/o4wrrmxkg9009a1ak0v8",
@@ -186,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-04",
+    "last_updated": "2026-04-05",
     "hotel_count": 9,
-    "average_price": 651,
+    "average_price": 655,
     "average_discount": 21
   }
 }
