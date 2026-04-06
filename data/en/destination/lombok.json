@@ -157,8 +157,8 @@
       "title": "Luxury Lombok Villa Hideaway with Onsite Restaurant & Spa",
       "description": "Discover a luxury hideaway in Lombok, featuring bespoke villas with private plunge pools overlooking a pristine bay. This intimate sanctuary, set against the backdrop of a world-class surf beach and framed by lush palm trees, offers the perfect tranquil escape. Immerse yourself in nature’s beauty as you hit the waves or simply relax poolside, taking in stunning valley and sea views. Enjoy locally sourced international fusion cuisine, sip on a refreshing cocktail and embrace tranquillity with ample opportunities for mindfulness and relaxation. End your day watching the sky ignite with the colours of a breathtaking sunset.",
       "location_subheading": "Indonesia",
-      "price": 530,
-      "original_price": 530,
+      "price": 520,
+      "original_price": 520,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ey6a5AAB",
       "hero_image": "https://images.luxuryescapes.com/wfqi06dbkc2d9mp4iy1e",
@@ -167,24 +167,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Somewhere Lombok",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Lombok",
-      "title": "Lombok Luxury Villas with Massages, Daily Breakfast & Nightly Free-Flow Cocktail Hour",
-      "description": "Discover a luxury hideaway boasting bespoke villas with private plunge pools overlooking a pristine bay, somewhere in Lombok. Nestled alongside a world-class surf beach framed by lush palm trees, this intimate sanctuary delivers daily breakfast, your choice of lunch or dinner, one-hour free-flow cocktails, a 60-minute massage per person, waterfall trekking, and one-way airport transfers included. When you’re ready to explore, catch the daily shuttle to downtown Kuta or experience Lombok’s countless treasures, from the towering Mount Rinjani to the postcard-perfect beaches and coral reefs of the nearby Gili Islands. Wind down your day by sinking into a cosy beanbag chair while watching a gorgeous sunset light the sky with blazing hues of burnt orange, bubblegum pink and deep red.",
-      "location_subheading": "Indonesia",
-      "price": 539,
-      "original_price": 1859,
-      "discount_percentage": 71,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PHPEwYAP",
-      "hero_image": "https://images.luxuryescapes.com/dcbz12qy8agh2vprph9v",
-      "image_two": "https://images.luxuryescapes.com/2sw1avm0j6lxrwtmr0s",
-      "image_three": "https://images.luxuryescapes.com/s3bcw380ajzp1fjqcn47",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 4,
-      "end_date_utc": "2026-04-05 13:59:00"
     },
     {
       "vendor_name": "The Oberoi Beach Resort Lombok",
@@ -240,9 +222,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-05",
-    "hotel_count": 12,
-    "average_price": 482,
-    "average_discount": 23
+    "last_updated": "2026-04-06",
+    "hotel_count": 11,
+    "average_price": 476,
+    "average_discount": 19
   }
 }

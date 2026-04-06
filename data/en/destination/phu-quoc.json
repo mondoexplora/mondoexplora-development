@@ -13,8 +13,8 @@
       "title": "Beachfront Phu Quoc Haven with Ultra-Cool Beach Club",
       "description": "Wake up to the sounds of waves crashing from oceanfront paradise at Crowne Plaza Phu Quoc Starbay, an IHG Hotel. With the idyllic Bai Dai beach at its doorstep, the hotel is in prime position for seaside enjoyment. When you're not lapping up the laidback coastal vibes, enjoy a splash in the hotel swimming pool, be wined and dined at the Horizons Restaurant, or live it up at the ultra-cool Amber Sands Beach Club. If you have kids in tow, drop them off at Tribe Kids' Club for endless fun.",
       "location_subheading": "Vietnam",
-      "price": 336,
-      "original_price": 336,
+      "price": 340,
+      "original_price": 340,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJboAAH",
       "hero_image": "https://images.luxuryescapes.com/fqwdthuy1wk6bvnzbh",
@@ -59,6 +59,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Meliá Vinpearl Phu Quoc",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Phu Quoc",
+      "title": "Vietnam All-Inclusive Pool Villas: Phu Quoc Beachfront Stay with Massages & Return Airport Transfers",
+      "description": "Vietnam’s pristine 'Pearl Island' beaches and mesmerising lakeside vistas await at the five-star Meliá Vinpearl Phu Quoc. With stunning private pool villas, this dream destination is the perfect escape for couples seeking luxurious seclusion, and groups of friends and families looking to create unforgettable memories in paradise. Take advantage of this glorious location, sipping cocktails by the sea as you watch the sun set below the glimmering horizon, followed by a wholesome movie night, cosied up on a beanbag with snacks at the beach cinema. Spend your days between dips in the pool, indulging in lavish spa treatments, or at the nearby beach with watersports including jet skiing and kayaking. The best of this luxury resort doesn’t stop there, with three restaurants to savour sublime dishes in the dreamiest of tropical destinations. Cape Nao restaurant sets the stage for unforgettable evenings, with a glamorous interior and international fine dining set against the backdrop of the pool and sparkling beach.",
+      "location_subheading": "Vietnam",
+      "price": 949,
+      "original_price": 2157,
+      "discount_percentage": 56,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000OsSpWYAV",
+      "hero_image": "https://images.luxuryescapes.com/w5cetg9u1b7cr2i0h66",
+      "image_two": "https://images.luxuryescapes.com/4ieli44kvozrcct93c99",
+      "image_three": "https://images.luxuryescapes.com/f0d8peze3q2z7i5yvch",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-06-01 13:59:00"
     },
     {
       "vendor_name": "Movenpick Resort Waverly Phu Quoc",
@@ -186,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-05",
-    "hotel_count": 9,
-    "average_price": 600,
-    "average_discount": 9
+    "last_updated": "2026-04-06",
+    "hotel_count": 10,
+    "average_price": 635,
+    "average_discount": 13
   }
 }

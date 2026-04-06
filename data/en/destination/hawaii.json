@@ -13,8 +13,8 @@
       "title": "Oceanfront Hawaii Glamour on Iconic Waikiki Beach with Infinity Pool",
       "description": "Discover the best of iconic Hawaii with a stay at ‘Alohilani Resort Waikiki Beach, perfectly positioned in the heart of Honolulu’s glamorous main beachfront promenade, Kalakaua Avenue. Admire the resort’s breathtaking oceanarium or visit SWELL, a sprawling, cabana-flanked infinity pool and bar offering panoramic views over the Pacific Ocean from its high floor elevation. The dining is top-notch - head to Morimoto Asia for a taste of the renowned Iron Chef’s masterful Asian plates, Piccola Onda for Italian bites served with a Roman flair or savour small-batch, artisanal scoops at Double Fat Ice Cream, Hawaii’s best-loved ice creamery.",
       "location_subheading": "United States",
-      "price": 866,
-      "original_price": 866,
+      "price": 930,
+      "original_price": 930,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004UZwxAAG",
       "hero_image": "https://images.luxuryescapes.com/4r6a8zqk0gowg30qnsv1",
@@ -67,8 +67,8 @@
       "title": "Hawaii Big Island Family Resort by Outrigger with Spa & Multi-Level Pool",
       "description": "Discover the magic of Hawaii at Outrigger Kona Resort and Spa, a family paradise on the sun-kissed shores of Hawaii's Big Island. This idyllic retreat is a stone's throw from vibrant Kailua-Kona town, brimming with historic sites and oceanfront dining. Kids and grown-ups alike will love the multi-level fantasy pool with a 200-foot water slide, manta-ray viewing and sweeping views of the Pacific Ocean. Hit the spa to relax and as the sun sets, savour the flavours of Hawaii at the resort's Wailele Café.",
       "location_subheading": "United States",
-      "price": 813,
-      "original_price": 813,
+      "price": 800,
+      "original_price": 800,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000G1teNAAR",
       "hero_image": "https://images.luxuryescapes.com/kdqlvoxinxenj94qc4nce",
@@ -151,6 +151,24 @@
       "end_date_utc": "2026-04-14 13:59:00"
     },
     {
+      "vendor_name": "The Twin Fin Hotel Waikiki",
+      "offer_country_name": "United States",
+      "location_heading": "Hawaii",
+      "title": "Waikiki Oceanfront Escape near Kuhio Beach with Daily Breakfast & Cabana Rental",
+      "description": "Cross the street to Kūhiō Beach and bask in the coastal glow on the mellow end of Waikiki Bay. The Twin Fin Hotel - born from a multi-million-dollar renovation - channels the golden era of Hawaiian surf culture. From the art on the walls to the rolling swells just steps from your door, families chasing that true Hawaiian experience will immediately catch a wave of warm hospitality. A natural reef in front of the hotel creates calm waters for kids to play, while a gentle break down the shore keeps things interesting for budding surfers. At Beach Candy Waikiki, families can hire body boards, stand up paddle boards, beach chairs, umbrellas and bluetooth speakers, or tick surf lessons off their bucket list. One day of your stay also includes a complimentary cabana as a beachside base. Every morning begins at the Coconut Club, where a full breakfast is served with sweeping views of Waikiki Beach, Diamond Head crater and the Pacific Ocean beyond. As the day winds down, Tiki's Grill & Bar serves up casual Pacific Rim flavours with live Hawaiian music, while Sunrise Shack keeps things fresh with organic smoothies, acai bowls and cold brew just steps from the sand.",
+      "location_subheading": "United States",
+      "price": 1359,
+      "original_price": 2228,
+      "discount_percentage": 39,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SAS4XYAX",
+      "hero_image": "https://images.luxuryescapes.com/lc3atve5vudenw6n02",
+      "image_two": "https://images.luxuryescapes.com/dft90671wmkds8m35vwf",
+      "image_three": "https://images.luxuryescapes.com/g3ws49az2b2u1sny3b",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 6,
+      "end_date_utc": "2026-05-06 13:59:00"
+    },
+    {
       "vendor_name": "Timbers Kauai Ocean Club & Residences",
       "offer_country_name": "United States",
       "location_heading": "Hawaii",
@@ -186,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-05",
-    "hotel_count": 9,
-    "average_price": 1722,
-    "average_discount": 21
+    "last_updated": "2026-04-06",
+    "hotel_count": 10,
+    "average_price": 1691,
+    "average_discount": 23
   }
 }

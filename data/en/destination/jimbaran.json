@@ -28,24 +28,6 @@
       "vendor_name": "AYANA Segara Bali",
       "offer_country_name": "Indonesia",
       "location_heading": "Jimbaran",
-      "title": "Ultimate Jimbaran Bay Clifftop Luxury with Daily Breakfast & Daily Lunch or Dinner at 11 Restaurants",
-      "description": "With sparkling pools and unbeatable sunset views, AYANA Segara is an extraordinary example of the modern Bali experience. Taking full advantage of its clifftop position with sweeping views over Jimbaran Bay, the resort features the largest indoor-outdoor pool in Bali and a dreamy rooftop bar with daybeds and al fresco dining - all with a side of Indian Ocean views. Sit atop the cliff at Luna Bar, take a cooling dip in the pool and embrace the golden sunsets and ocean breeze, all while experiencing the kind and caring hospitality that Bali is famous for. For a cocktail with a view, make your way to one of the island’s most legendary venues - Rock Bar, carved into the cliffside where the waves crash below. AYANA Segara Bali is a luxurious addition to the award-winning AYANA Bali complex. Spend your days exploring the renowned wellness and dining facilities of the wider 90-hectare resort, including 14 pools, a miniature 18-hole golf course, Kubu Beach, and a spa and fitness centre. At the end of the day, relax in style with deep-soaking bathtubs and private balconies in every room.",
-      "location_subheading": "Indonesia",
-      "price": 1399,
-      "original_price": 4115,
-      "discount_percentage": 66,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000OhnJ0YAJ",
-      "hero_image": "https://images.luxuryescapes.com/2u3ctxhvjks9mtug46tj",
-      "image_two": "https://images.luxuryescapes.com/cpjph9bxvuuta8hvi70i",
-      "image_three": "https://images.luxuryescapes.com/j3s8xn8s92xaxj5qrzj",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 5,
-      "end_date_utc": "2026-04-14 13:59:00"
-    },
-    {
-      "vendor_name": "AYANA Segara Bali",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Jimbaran",
       "title": "Clifftop Bali Oasis Overlooking Jimbaran Bay with 14 Swimming Pools",
       "description": "AYANA Segara Bali, the latest addition to AYANA Bali provides an intimate, boutique experience within a peaceful and personal escape. Its minimalist, modern and chic design offers an exceptional retreat with rooms and suites featuring private balconies that provide stunning views of the sparkling ocean or lush, tropical gardens. Thoughtfully designed spaces create a serene atmosphere, ideal for unwinding and rejuvenating in complete comfort. Sip on sunset cocktails at Luna Rooftop Bar and indulge in a Mediterranean feast at Scusa. With access to the secluded beach, enjoy the best of both worlds; a quiet retreat with the option of indulging in the larger resort's vibrant offerings.",
       "location_subheading": "Indonesia",
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "AYANA Segara Bali",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Jimbaran",
+      "title": "Ultimate Jimbaran Bay Clifftop Luxury with Daily Breakfast & Daily Lunch or Dinner at 11 Restaurants",
+      "description": "With sparkling pools and unbeatable sunset views, AYANA Segara is an extraordinary example of the modern Bali experience. Taking full advantage of its clifftop position with sweeping views over Jimbaran Bay, the resort features the largest indoor-outdoor pool in Bali and a dreamy rooftop bar with daybeds and al fresco dining - all with a side of Indian Ocean views. Sit atop the cliff at Luna Bar, take a cooling dip in the pool and embrace the golden sunsets and ocean breeze, all while experiencing the kind and caring hospitality that Bali is famous for. For a cocktail with a view, make your way to one of the island’s most legendary venues - Rock Bar, carved into the cliffside where the waves crash below. AYANA Segara Bali is a luxurious addition to the award-winning AYANA Bali complex. Spend your days exploring the renowned wellness and dining facilities of the wider 90-hectare resort, including 14 pools, a miniature 18-hole golf course, Kubu Beach, and a spa and fitness centre. At the end of the day, relax in style with deep-soaking bathtubs and private balconies in every room.",
+      "location_subheading": "Indonesia",
+      "price": 1399,
+      "original_price": 4115,
+      "discount_percentage": 66,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000OhnJ0YAJ",
+      "hero_image": "https://images.luxuryescapes.com/2u3ctxhvjks9mtug46tj",
+      "image_two": "https://images.luxuryescapes.com/cpjph9bxvuuta8hvi70i",
+      "image_three": "https://images.luxuryescapes.com/j3s8xn8s92xaxj5qrzj",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2026-04-14 13:59:00"
     },
     {
       "vendor_name": "AYANA Villas Bali",
@@ -258,7 +258,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-05",
+    "last_updated": "2026-04-06",
     "hotel_count": 13,
     "average_price": 969,
     "average_discount": 23
