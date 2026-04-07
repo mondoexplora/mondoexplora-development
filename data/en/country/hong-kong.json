@@ -12,7 +12,7 @@
       "description": "Explore Hong Kong with luxury accommodations",
       "hotel_count": 10,
       "hotel_deals": 10,
-      "avg_price": 725
+      "avg_price": 728
     },
     {
       "name": "Kowloon",
@@ -21,7 +21,7 @@
       "description": "Explore Kowloon with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 525
+      "avg_price": 532
     },
     {
       "name": "Hong Kong Island",
@@ -39,7 +39,7 @@
       "description": "Explore Central with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1392
+      "avg_price": 1417
     },
     {
       "name": "Hung Hom Bay",
@@ -57,7 +57,7 @@
       "description": "Explore Tsim Sha Tsui with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 484
+      "avg_price": 498
     }
   ],
   "seo": {

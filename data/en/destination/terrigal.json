@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Terrigal",
   "description": "Discover the best hotels in Terrigal, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/pw19cvk8jusyn7rsf6o",
+  "hero_image": "https://images.luxuryescapes.com/21w3f2rgs9hhjg55ijlo",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Terrigal Pacific",
+      "offer_country_name": "Australia",
+      "location_heading": "Terrigal",
+      "title": "NSW Central Coast Beachfront Escape Just 90 Minutes from Sydney with Endota Spa",
+      "description": "For dazzling ocean panoramas and Miami Beach vibes, make a beeline for Crowne Plaza Terrigal Pacific, an IHG Hotel, just 90 minutes from Sydney along NSW's Central Coast. Dine at Seasalt for fresh seafood dinners and divine views of the South Pacific Ocean, while fun times await at Terrigal Beach House outdoor beer garden, where you'll get your kicks with live entertainment overlooking Terrigal Beach. For a spot of pampering, book a massage or glowing facial at the onsite Endota Spa.",
+      "location_subheading": "Australia",
+      "price": 493,
+      "original_price": 493,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt5jAAB",
+      "hero_image": "https://images.luxuryescapes.com/21w3f2rgs9hhjg55ijlo",
+      "image_two": "https://images.luxuryescapes.com/4mykrk9l9fsxwrh66sf",
+      "image_three": "https://images.luxuryescapes.com/r2lvf48i1oh6bccthsqr",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Crowne Plaza Terrigal Pacific",
       "offer_country_name": "Australia",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 2,
       "end_date_utc": "2026-04-16 13:59:00"
-    },
-    {
-      "vendor_name": "Crowne Plaza Terrigal Pacific",
-      "offer_country_name": "Australia",
-      "location_heading": "Terrigal",
-      "title": "NSW Central Coast Beachfront Escape Just 90 Minutes from Sydney with Endota Spa",
-      "description": "For dazzling ocean panoramas and Miami Beach vibes, make a beeline for Crowne Plaza Terrigal Pacific, an IHG Hotel, just 90 minutes from Sydney along NSW's Central Coast. Dine at Seasalt for fresh seafood dinners and divine views of the South Pacific Ocean, while fun times await at Terrigal Beach House outdoor beer garden, where you'll get your kicks with live entertainment overlooking Terrigal Beach. For a spot of pampering, book a massage or glowing facial at the onsite Endota Spa.",
-      "location_subheading": "Australia",
-      "price": 488,
-      "original_price": 488,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt5jAAB",
-      "hero_image": "https://images.luxuryescapes.com/21w3f2rgs9hhjg55ijlo",
-      "image_two": "https://images.luxuryescapes.com/4mykrk9l9fsxwrh66sf",
-      "image_three": "https://images.luxuryescapes.com/r2lvf48i1oh6bccthsqr",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-06",
+    "last_updated": "2026-04-07",
     "hotel_count": 2,
-    "average_price": 409,
+    "average_price": 411,
     "average_discount": 29
   }
 }
