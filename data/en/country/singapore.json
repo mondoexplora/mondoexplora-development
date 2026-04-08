@@ -3,16 +3,16 @@
   "code": "SG",
   "hero_title": "Singapore Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Singapore.",
-  "hero_image": "https://images.luxuryescapes.com/cvr6steubemq9bc7dh5w",
+  "hero_image": "https://images.luxuryescapes.com/q80uok6ieqip4vtbg1m",
   "popular_destinations": [
     {
       "name": "Singapore",
       "slug": "singapore",
-      "image": "https://images.luxuryescapes.com/cvr6steubemq9bc7dh5w",
+      "image": "https://images.luxuryescapes.com/q80uok6ieqip4vtbg1m",
       "description": "Explore Singapore with luxury accommodations",
-      "hotel_count": 42,
-      "hotel_deals": 42,
-      "avg_price": 730
+      "hotel_count": 40,
+      "hotel_deals": 40,
+      "avg_price": 733
     },
     {
       "name": "Sentosa Island",
@@ -21,7 +21,7 @@
       "description": "Explore Sentosa Island with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1881
+      "avg_price": 1880
     },
     {
       "name": "Orchard Road",
@@ -30,7 +30,7 @@
       "description": "Explore Orchard Road with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 582
+      "avg_price": 557
     },
     {
       "name": "Tanglin",
@@ -48,7 +48,7 @@
       "description": "Explore Orchard with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 736
+      "avg_price": 735
     }
   ],
   "seo": {

@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Seppeltsfield",
   "description": "Discover the best hotels in Seppeltsfield, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/9mkxbqdyo4w2pat1ztee",
+  "hero_image": "https://images.luxuryescapes.com/gbpuxk6j949c4jz4hhg",
   "hotels": [
+    {
+      "vendor_name": "CABN X Seppeltsfield Barossa",
+      "offer_country_name": "Australia",
+      "location_heading": "Seppeltsfield",
+      "title": "Barossa Valley Eco-Cabins Steps from Seppeltsfield Winery with Private Sauna & Breakfast Hamper",
+      "description": "Disconnect from the world and step into nature’s embrace in an elevated eco-cabin retreat amid the vineyards of one of Australia’s most prestigious wine regions. You’re invited to slow down at CABN X Seppeltsfield, a calming off-grid cabin offering a romantic and relaxing escape. Boasting a luxe in-cabin private sauna, gas fireplace, kitchenette and a deep soaking bathtub, this is the perfect way to embrace the beauty of the Barossa Valley. Perfectly positioned within breathtaking South Australian wine country, this haven is home to some of the oldest vines in Australia, 90 cellar doors and world-class restaurants - all just a 60-minute drive from Adelaide. Find yourself moments from Hentley Farm, while Nuriootpa and Tanunda townships are both a 10-minutes drive away, offering quaint cafes, boutique shops and antique stores.",
+      "location_subheading": "Australia",
+      "price": 339,
+      "original_price": 737,
+      "discount_percentage": 54,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000OCfuQYAT",
+      "hero_image": "https://images.luxuryescapes.com/gbpuxk6j949c4jz4hhg",
+      "image_two": "https://images.luxuryescapes.com/wy2bee22osrkebqukwj7",
+      "image_three": "https://images.luxuryescapes.com/va9k5h0o3kaf1anqug",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-05-11 13:59:00"
+    },
     {
       "vendor_name": "CABN X Seppeltsfield Barossa",
       "offer_country_name": "Australia",
@@ -13,8 +31,8 @@
       "title": "Barossa Valley Romantic Eco-Cabins near Seppeltsfield Winery with Private Sauna",
       "description": "The gateway to the Barossa is opening just for you. Disconnect with the world and escape to wine country at CABN X Seppeltsfield - a unique self-contained retreat nestled amid the vineyards of one of Australia's most prestigious wine regions. Your eco-friendly, off-grid cabin offers a romantic escape, boasting a luxe in-cabin private sauna and gas fireplace - all just a short stroll from the historic Seppeltsfield Estate.",
       "location_subheading": "Australia",
-      "price": 880,
-      "original_price": 967,
+      "price": 881,
+      "original_price": 968,
       "discount_percentage": 9,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FoMT6AAN",
       "hero_image": "https://images.luxuryescapes.com/9mkxbqdyo4w2pat1ztee",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-07",
-    "hotel_count": 1,
-    "average_price": 880,
-    "average_discount": 9
+    "last_updated": "2026-04-08",
+    "hotel_count": 2,
+    "average_price": 610,
+    "average_discount": 32
   }
 }
