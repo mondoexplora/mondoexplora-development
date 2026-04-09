@@ -42,15 +42,6 @@
       "avg_price": 1396
     },
     {
-      "name": "Hung Hom Bay",
-      "slug": "hung-hom-bay",
-      "image": "https://images.luxuryescapes.com/rr7yiu303rfdwex6i0ad",
-      "description": "Explore Hung Hom Bay with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 617
-    },
-    {
       "name": "Tsim Sha Tsui",
       "slug": "tsim-sha-tsui",
       "image": "https://images.luxuryescapes.com/x4wk3tiadjr3an3jxc0s",
@@ -58,6 +49,15 @@
       "hotel_count": 2,
       "hotel_deals": 2,
       "avg_price": 533
+    },
+    {
+      "name": "Wan Chai",
+      "slug": "wan-chai",
+      "image": "https://images.luxuryescapes.com/4374u90jxi90inl2rha",
+      "description": "Explore Wan Chai with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 364
     }
   ],
   "seo": {

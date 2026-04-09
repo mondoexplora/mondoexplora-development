@@ -24,15 +24,6 @@
       "avg_price": 633
     },
     {
-      "name": "Da Nang",
-      "slug": "da-nang",
-      "image": "https://images.luxuryescapes.com/dbcytx308e99am4uadjj",
-      "description": "Explore Da Nang with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 496
-    },
-    {
       "name": "Ho Chi Minh City",
       "slug": "ho-chi-minh-city",
       "image": "https://images.luxuryescapes.com/gneo9fura76d3qfnox58",
@@ -40,6 +31,15 @@
       "hotel_count": 6,
       "hotel_deals": 6,
       "avg_price": 435
+    },
+    {
+      "name": "Da Nang",
+      "slug": "da-nang",
+      "image": "https://images.luxuryescapes.com/dbcytx308e99am4uadjj",
+      "description": "Explore Da Nang with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 449
     },
     {
       "name": "Hoi An",
