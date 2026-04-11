@@ -12,7 +12,7 @@
       "description": "Explore Hanoi with luxury accommodations",
       "hotel_count": 13,
       "hotel_deals": 13,
-      "avg_price": 378
+      "avg_price": 379
     },
     {
       "name": "Phu Quoc",
@@ -48,16 +48,16 @@
       "description": "Explore Hoi An with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 345
+      "avg_price": 334
     },
     {
-      "name": "Nha Trang",
-      "slug": "nha-trang",
-      "image": "https://images.luxuryescapes.com/u4ufey4u1clqzmvqipzo",
-      "description": "Explore Nha Trang with luxury accommodations",
+      "name": "Ho Tram",
+      "slug": "ho-tram",
+      "image": "https://images.luxuryescapes.com/yuyqrt5q9a52i8orab7",
+      "description": "Explore Ho Tram with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 306
+      "avg_price": 548
     }
   ],
   "seo": {

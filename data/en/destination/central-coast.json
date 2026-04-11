@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Central Coast",
   "description": "Discover the best hotels in Central Coast, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/qkwfnufjoum1gq5tgubm",
+  "hero_image": "https://images.luxuryescapes.com/kkag8jouqb3wchfncvll",
   "hotels": [
+    {
+      "vendor_name": "Encore By Mingara",
+      "offer_country_name": "Australia",
+      "location_heading": "Central Coast",
+      "title": "Modern Central Coast Escape Just 90 Minutes From Sydney near Tuggerah Lake with Daily Breakfast",
+      "description": "Central Coast escapes don’t get much sweeter than this. Kick back and enjoy the region’s abundance of beaches, restaurants and bars with a stay at Encore by Mingara, conveniently located just a short drive from the tranquil shores of Tuggerah Lake and the spectacular Wyrrabalong National Park. Check out local highlights including ocean pools, weekend markets, and endless walking and cycling tracks. Before your adventures, fuel up with breakfast at The Roasted Berry, then return to a menu of modern Australian favourites at Hadley’s or Australian-Chinese fare at Ming Dragon. Access state-of-the-art fitness centre One by Mingara, including a heated indoor pool, athletic track and group fitness classes with yoga, pilates and more.",
+      "location_subheading": "Australia",
+      "price": 189,
+      "original_price": 310,
+      "discount_percentage": 39,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TGVLiYAP",
+      "hero_image": "https://images.luxuryescapes.com/kkag8jouqb3wchfncvll",
+      "image_two": "https://images.luxuryescapes.com/z4afz6yswu1uc14ipd8",
+      "image_three": "https://images.luxuryescapes.com/1ylnt10qe86797qnqr46",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-07-02 13:59:00"
+    },
     {
       "vendor_name": "Mercure Kooindah Waters Central Coast",
       "offer_country_name": "Australia",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-10",
-    "hotel_count": 3,
-    "average_price": 292,
-    "average_discount": 31
+    "last_updated": "2026-04-11",
+    "hotel_count": 4,
+    "average_price": 266,
+    "average_discount": 33
   }
 }

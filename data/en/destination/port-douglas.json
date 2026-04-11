@@ -136,24 +136,6 @@
       "vendor_name": "Oaks Port Douglas Resort",
       "offer_country_name": "Australia",
       "location_heading": "Port Douglas",
-      "title": "Tropical Port Douglas Escape near Four Mile Beach with Daily Breakfast & Lagoon-Style Pool",
-      "description": "Sandy beaches and sunshine-filled days await at this relaxing Tropical North Queensland oasis surrounded by lush gardens, just a five-minute drive from the iconic curving shoreline of Four Mile Beach. Couples will love the resort's spacious, contemporary rooms, while families can savour time together in a self-contained two-bedroom apartment, the perfect base from which to discover Port Douglas' countless treasures. Spend your days lazing by the lagoon-style pool and sipping cocktails from the swim-up bar, or truly unwind with a treatment at The Spa. When the sun melts into the horizon, savour a slice of Italy at the laid-back Little Pizza Company or indulge in wood-fired pizza, classic burgers or prime-cut steaks at Oak & Vine restaurant, best paired with a creative cocktail. This sun-soaked property will allow you to truly immerse yourself in the laidback lifestyle of Port Douglas, your launchpad to the UNESCO World Heritage-listed Great Barrier Reef and the sprawling green expanse of the Daintree Rainforest. Embark on incredible adventures amid nature from the nearby marina, walk pristine white sands and taste your way across Port Douglas' award-winning restaurants, top-shelf bars and boutique shopping streets.",
-      "location_subheading": "Australia",
-      "price": 279,
-      "original_price": 649,
-      "discount_percentage": 57,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000NK3NtYAL",
-      "hero_image": "https://images.luxuryescapes.com/sqzdkgjbfib9e6xajba",
-      "image_two": "https://images.luxuryescapes.com/yg2dvxxwcbo1b58mbrkb",
-      "image_three": "https://images.luxuryescapes.com/68i5uhfni1n92pkijs7",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-04-13 13:59:00"
-    },
-    {
-      "vendor_name": "Oaks Port Douglas Resort",
-      "offer_country_name": "Australia",
-      "location_heading": "Port Douglas",
       "title": "Tropical Port Douglas Escape near Four Mile Beach",
       "description": "The warm climate and sandy beaches of Tropical North Queensland beckon with a stay at Oaks Port Douglas Resort, a relaxing oasis surrounded by lush gardens, and just a five-minute drive from iconic Four Mile Beach. With a collection of beautifully designed rooms and apartments, an onsite restaurant offering tropical-inspired fare, woodfired pizzas and tasty tacos, a relaxing spa, and a sparkling pool surrounded by verdant gardens, Oaks Port Douglas Resort is the ideal destination for a relaxing escape.",
       "location_subheading": "Australia",
@@ -167,6 +149,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Oaks Port Douglas Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Port Douglas",
+      "title": "Tropical Port Douglas Escape near Four Mile Beach with Daily Breakfast & Lagoon-Style Pool",
+      "description": "Sandy beaches and sunshine-filled days await at this relaxing Tropical North Queensland oasis surrounded by lush gardens, just a five-minute drive from the iconic curving shoreline of Four Mile Beach. Couples will love the resort's spacious, contemporary rooms, while families can savour time together in a self-contained two-bedroom apartment, the perfect base from which to discover Port Douglas' countless treasures. Spend your days lazing by the lagoon-style pool and sipping cocktails from the swim-up bar, or truly unwind with a treatment at The Spa. When the sun melts into the horizon, savour a slice of Italy at the laid-back Little Pizza Company or indulge in wood-fired pizza, classic burgers or prime-cut steaks at Oak & Vine restaurant, best paired with a creative cocktail. This sun-soaked property will allow you to truly immerse yourself in the laidback lifestyle of Port Douglas, your launchpad to the UNESCO World Heritage-listed Great Barrier Reef and the sprawling green expanse of the Daintree Rainforest. Embark on incredible adventures amid nature from the nearby marina, walk pristine white sands and taste your way across Port Douglas' award-winning restaurants, top-shelf bars and boutique shopping streets.",
+      "location_subheading": "Australia",
+      "price": 279,
+      "original_price": 649,
+      "discount_percentage": 57,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000NK3NtYAL",
+      "hero_image": "https://images.luxuryescapes.com/sqzdkgjbfib9e6xajba",
+      "image_two": "https://images.luxuryescapes.com/yg2dvxxwcbo1b58mbrkb",
+      "image_three": "https://images.luxuryescapes.com/68i5uhfni1n92pkijs7",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-04-13 13:59:00"
     },
     {
       "vendor_name": "Peppers Beach Club Port Douglas",
@@ -294,7 +294,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-10",
+    "last_updated": "2026-04-11",
     "hotel_count": 15,
     "average_price": 445,
     "average_discount": 9

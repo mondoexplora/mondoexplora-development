@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "AVANI Seychelles Barbarons Resort & Spa",
+      "offer_country_name": "Seychelles",
+      "location_heading": "Mahe",
+      "title": "Seychelles Beachfront Indulgence with Daily Breakfast, Lunch or Dinner & Nightly Sunset Cocktails",
+      "description": "Perched along Mahé's sun-drenched west coast, Avani+ Barbarons Seychelles is a beachfront retreat where contemporary design meets the unhurried rhythm of island life. Swaying palms, pristine white sands and the warm turquoise waters of the Indian Ocean set the scene, welcoming couples seeking romance and families chasing adventure in equal measure. When serenity calls, visit AvaniSpa, where treatment rooms tucked among the trees offer deep relaxation for body and mind. Five restaurants and bars ensure that no craving goes unanswered. Somewhere, the resort's grill and seafood restaurant, delivers beachfront evening dining, while Pti-Bazar takes guests on a global culinary journey through live cooking stations and the smoky theatre of an open-flame braai. For something lighter, SEYUMAI's chic sushi counter beckons and a swim-up bar ensures the good times flow long into the afternoon.",
+      "location_subheading": "Seychelles",
+      "price": 1539,
+      "original_price": 2798,
+      "discount_percentage": 45,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TdIlxYAF",
+      "hero_image": "https://images.luxuryescapes.com/ny9f0hj66agpg72ps05",
+      "image_two": "https://images.luxuryescapes.com/dt9k8l7d9oynxc4ohhv",
+      "image_three": "https://images.luxuryescapes.com/a0u8p7d18hszynza6e",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 5,
+      "end_date_utc": "2026-05-07 13:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-10",
-    "hotel_count": 1,
-    "average_price": 966,
-    "average_discount": 0
+    "last_updated": "2026-04-11",
+    "hotel_count": 2,
+    "average_price": 1253,
+    "average_discount": 23
   }
 }
