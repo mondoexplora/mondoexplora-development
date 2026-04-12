@@ -28,24 +28,6 @@
       "vendor_name": "Sequoia Lodge",
       "offer_country_name": "Australia",
       "location_heading": "Adelaide Hills",
-      "title": "Adults-Only Adelaide Hills Luxury Lodge with Three Chef Hat Restaurant",
-      "description": "Hide away from the rest of the world at the intimate adults-only Sequoia Lodge, a five-star private sanctuary nestled in the Adelaide Hills. An oasis of serenity, with all the trimmings needed for an indulgent gourmet escape, it’s hard to believe that this storied setting is just a 20-minute drive from Adelaide's CBD. Feel a world apart from anywhere else: treat yourself with three-chef-hatted deliciousness at Hardy’s Verandah Restaurant, lavish in the attention of an expert spa therapist or take a wander through the grounds as if they were your own - after a day of vineyard hopping, of course. The estate also features artesian spring-fed hot pools, an infinity pool and a wildlife enclosure.",
-      "location_subheading": "Australia",
-      "price": 3630,
-      "original_price": 3862,
-      "discount_percentage": 6,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009D7f4AAC",
-      "hero_image": "https://images.luxuryescapes.com/xgm9sifnafhv3hp03jq4",
-      "image_two": "https://images.luxuryescapes.com/5t2ngd9mv6iopfwzhx",
-      "image_three": "https://images.luxuryescapes.com/iv7ish0unsf6ejafl75k",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Sequoia Lodge",
-      "offer_country_name": "Australia",
-      "location_heading": "Adelaide Hills",
       "title": "Adelaide Hills Ultra-Lux Adults-Only Escape with Daily Breakfast, A$100 Lodge Credit & Mixology Class",
       "description": "Welcome to Sequoia Lodge: an unparalleled, adults-only luxury stay in the Adelaide Hills. Retreat from the world to a picturesque hideaway perched atop Mount Lofty, boasting panoramic valley views, fine dining, curated experiences and natural hot springs. Serene and sophisticated, Sequoia Lodge is the gateway to five world-class wine regions including McLaren Vale, Adelaide Hills and the Barossa. Sequoia Lodge offers culinary experiences like no other with three gourmet restaurants, four bars and a 1,300-bottle wine cellar. Choose to dine in Sequoia Lounge, Hardy’s Verandah Restaurant, Martha Hardy’s or the privacy of your suite, with menus crafted from the finest local ingredients. Awarded the Australian Hotel Association's Best Luxury Accommodation South Australia 2025, this is the ultimate romantic retreat, with high-end facilities and complimentary credits towards spa and dining experiences. Enjoy a dip in the panoramic infinity pool, take a morning guided nature walk or relax in artesian hot pools fed by the mountain’s natural springs. Located a mere 20 minute drive from Adelaide’s CBD, this hidden gem is so close yet so far from the everyday.",
       "location_subheading": "Australia",
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 2,
       "end_date_utc": "2026-05-19 13:59:00"
+    },
+    {
+      "vendor_name": "Sequoia Lodge",
+      "offer_country_name": "Australia",
+      "location_heading": "Adelaide Hills",
+      "title": "Adults-Only Adelaide Hills Luxury Lodge with Three Chef Hat Restaurant",
+      "description": "Hide away from the rest of the world at the intimate adults-only Sequoia Lodge, a five-star private sanctuary nestled in the Adelaide Hills. An oasis of serenity, with all the trimmings needed for an indulgent gourmet escape, it’s hard to believe that this storied setting is just a 20-minute drive from Adelaide's CBD. Feel a world apart from anywhere else: treat yourself with three-chef-hatted deliciousness at Hardy’s Verandah Restaurant, lavish in the attention of an expert spa therapist or take a wander through the grounds as if they were your own - after a day of vineyard hopping, of course. The estate also features artesian spring-fed hot pools, an infinity pool and a wildlife enclosure.",
+      "location_subheading": "Australia",
+      "price": 3630,
+      "original_price": 3862,
+      "discount_percentage": 6,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009D7f4AAC",
+      "hero_image": "https://images.luxuryescapes.com/xgm9sifnafhv3hp03jq4",
+      "image_two": "https://images.luxuryescapes.com/5t2ngd9mv6iopfwzhx",
+      "image_three": "https://images.luxuryescapes.com/iv7ish0unsf6ejafl75k",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "The Crafers Hotel",
@@ -96,7 +96,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-11",
+    "last_updated": "2026-04-12",
     "hotel_count": 4,
     "average_price": 1667,
     "average_discount": 17
