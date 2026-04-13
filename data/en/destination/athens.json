@@ -85,8 +85,8 @@
       "title": "Stylish Athens Escape with Acropolis Views & Rooftop Bar",
       "description": "The wonders of Ancient Greece are at your fingertips when you stay at InterContinental Athenaeum Athens, an IHG Hotel, where contemporary design meets the crumbling remains of the Acropolis. When you're not out there exploring UNESCO World Heritage-listed sites, head up to Premiere, a rooftop restaurant and bar with spectacular views of the Acropolis, then venture to the poolside Cafezoe Terrace for cocktails and desserts.",
       "location_subheading": "Greece",
-      "price": 293,
-      "original_price": 293,
+      "price": 304,
+      "original_price": 304,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt68AAB",
       "hero_image": "https://images.luxuryescapes.com/d68y2ueodgnql0ipfnk",
@@ -95,6 +95,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "La Divina Athens",
+      "offer_country_name": "Greece",
+      "location_heading": "Athens",
+      "title": "Award-Winning Athens Glamour near Acropolis with Daily A La Carte Breakfast & Olympic Tennis Club",
+      "description": "Experience refined elegance in the heart of Athens, just moments from Syntagma Square, Ermou Street and the timeless streets of Thessio. Set inside a beautifully restored neoclassical building once known as the Odeon Athenaeum, La Divina was created in honour of Maria Callas - one of the most renowned opera singers of the 20th century. The hotel’s 12 spacious rooms feature bespoke furnishings and large windows, opening onto charming views of the city’s sun-washed rooftops. Mornings begin slowly with artisanal Greek pastries and coffee at the onsite restaurant, before wandering through the National Garden, the Benaki Museum or the historic lanes just outside your door.",
+      "location_subheading": "Greece",
+      "price": 303,
+      "original_price": 459,
+      "discount_percentage": 34,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000U3wCgYAJ",
+      "hero_image": "https://images.luxuryescapes.com/dsfpwimljfbzcmkks0g3v",
+      "image_two": "https://images.luxuryescapes.com/ursq1avkaj2rgcoaodnr",
+      "image_three": "https://images.luxuryescapes.com/exec8lci0kg3g9ithe73",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-05-04 13:59:00"
     },
     {
       "vendor_name": "NEW Hotel, a Member of Design Hotels",
@@ -222,9 +240,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-12",
-    "hotel_count": 11,
-    "average_price": 564,
-    "average_discount": 1
+    "last_updated": "2026-04-13",
+    "hotel_count": 12,
+    "average_price": 543,
+    "average_discount": 4
   }
 }
