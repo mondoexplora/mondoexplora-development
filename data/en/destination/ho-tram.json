@@ -4,8 +4,26 @@
   "country_code": "VN",
   "hero_title": "Hotels in Ho Tram",
   "description": "Discover the best hotels in Ho Tram, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/yuyqrt5q9a52i8orab7",
+  "hero_image": "https://images.luxuryescapes.com/dyj89jne3okqo8yvk5",
   "hotels": [
+    {
+      "vendor_name": "Angsana Ho Tram",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Ho Tram",
+      "title": "Idyllic Vietnam Beachfront Hideaway Overlooking Unspoilt Greenery",
+      "description": "Venture out of Vietnam’s heaving capital and dive deep in the essence of coastal tranquillity at Angsana Ho Tram. Find your inner sense of serenity within verdant, untouched scenery that nudges up against a sparkling, and virtually secluded, coastline. Admire thriving gardens as you laze poolside or get to the heart of the area’s natural beauty with a stroll through waving trees to the magnificent beachfront. After days full of adventure, nourish your body with culinary delights at Nook, or watch the sunset as you enjoy mouthwatering dishes at Azura.",
+      "location_subheading": "Vietnam",
+      "price": 356,
+      "original_price": 356,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EeJr6AAF",
+      "hero_image": "https://images.luxuryescapes.com/dyj89jne3okqo8yvk5",
+      "image_two": "https://images.luxuryescapes.com/3t20r197ziss0amtiamw",
+      "image_three": "https://images.luxuryescapes.com/xgfrsimt4kdlvy0kgxd9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Angsana Ho Tram",
       "offer_country_name": "Vietnam",
@@ -25,32 +43,14 @@
       "end_date_utc": "2026-06-05 13:59:00"
     },
     {
-      "vendor_name": "Angsana Ho Tram",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Ho Tram",
-      "title": "Idyllic Vietnam Beachfront Hideaway Overlooking Unspoilt Greenery",
-      "description": "Venture out of Vietnam’s heaving capital and dive deep in the essence of coastal tranquillity at Angsana Ho Tram. Find your inner sense of serenity within verdant, untouched scenery that nudges up against a sparkling, and virtually secluded, coastline. Admire thriving gardens as you laze poolside or get to the heart of the area’s natural beauty with a stroll through waving trees to the magnificent beachfront. After days full of adventure, nourish your body with culinary delights at Nook, or watch the sunset as you enjoy mouthwatering dishes at Azura.",
-      "location_subheading": "Vietnam",
-      "price": 345,
-      "original_price": 345,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EeJr6AAF",
-      "hero_image": "https://images.luxuryescapes.com/dyj89jne3okqo8yvk5",
-      "image_two": "https://images.luxuryescapes.com/3t20r197ziss0amtiamw",
-      "image_three": "https://images.luxuryescapes.com/xgfrsimt4kdlvy0kgxd9",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Dhawa Ho Tram",
       "offer_country_name": "Vietnam",
       "location_heading": "Ho Tram",
       "title": "Lush Coastal Vietnam Escape Overlooking the Beach with Four Onsite Restaurants",
       "description": "Adventure to a tranquil haven on one of Vietnam’s most serene stretches of coast with a hideaway at Dhawa Ho Tram Vietnam. Just two hours from Ho Chi Minh City, explore the natural beauty of the verdant forests and the sparkling magic of the beach. Steal views of the sunset from the comfort of Zephyr, the trendy bar slinging coast-front cocktails. When you’re not outside exploring, dine on delicious Mediterranean fare at Azura, or taste-test Vietnamese classics at Nook.",
       "location_subheading": "Vietnam",
-      "price": 256,
-      "original_price": 256,
+      "price": 264,
+      "original_price": 264,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EeEJlAAN",
       "hero_image": "https://images.luxuryescapes.com/dudm63xoxylgoj0tvhzc",
@@ -67,8 +67,8 @@
       "title": "Five-Star Vietnam Beachside Retreat Just 2.5 Hours from Ho Chi Minh City with 16 Restaurants & World-Class Golf Course",
       "description": "Surrounded by the famed sand dunes of one of Asia’s most acclaimed golf courses and the shimmering turquoise waters of the South China Sea, InterContinental Grand Ho Tram, an IHG Hotel offers Las Vegas-style luxury in the heart of Vietnam’s premier entertainment complex. Dine your way across 16 top-notch venues, head to The Bluffs Grand Ho Tram Strip to practice your long game or simply laze the day way by the hotel’s dazzling lagoon-style pool before an afternoon dip in the ocean.",
       "location_subheading": "Vietnam",
-      "price": 301,
-      "original_price": 301,
+      "price": 302,
+      "original_price": 302,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNUAKAA5",
       "hero_image": "https://images.luxuryescapes.com/yvbx30q1mmv5oojwvpm",
@@ -77,24 +77,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Melia Ho Tram",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Ho Tram",
-      "title": "Vietnam All-Inclusive Beachfront Paradise with Massages & Unlimited Free-Flow Drinks",
-      "description": "Discover seaside serenity at this five-star all-inclusive paradise, delivering Mediterranean-style luxury on the pristine shores of one of Vietnam’s most beautiful beaches. This sun-kissed coastal strip, home to the charming nearby town of Ho Tram, remains blissfully untouched and is blessed with spectacular white-sand beaches lapped by blue waters. Between tropical adventures, enjoy all-inclusive dining at its finest: savour Meditteranean bites at Breeza Beach Club, sample street food favourites at Sasa, dine on Vietnamese plates at Muối and refresh between dips in the spectacular central pool with a smoothie or fresh juice from Elyxr Café. This vibrant tropical resort offers fun for the whole family, including a kids' club, basketball court and open-air cinema for the little ones, while adults can rejuvenate with a tension-melting treatment at YHI Spa and the yoga deck. At the heart of this resort lies a sprawling pool, bordered by lush gardens and just steps from the beach.",
-      "location_subheading": "Vietnam",
-      "price": 1119,
-      "original_price": 2487,
-      "discount_percentage": 55,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ORdIoYAL",
-      "hero_image": "https://images.luxuryescapes.com/uyetlavbukcczat5gczj",
-      "image_two": "https://images.luxuryescapes.com/7fyo3lx54pn9mg1oat1",
-      "image_three": "https://images.luxuryescapes.com/rkexk4tjbfiid8m3trau",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 5,
-      "end_date_utc": "2026-04-15 13:59:00"
     }
   ],
   "seo": {
@@ -114,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-13",
-    "hotel_count": 5,
-    "average_price": 544,
-    "average_discount": 23
+    "last_updated": "2026-04-14",
+    "hotel_count": 4,
+    "average_price": 405,
+    "average_discount": 15
   }
 }
