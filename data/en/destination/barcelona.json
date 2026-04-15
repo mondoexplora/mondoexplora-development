@@ -4,8 +4,26 @@
   "country_code": "ES",
   "hero_title": "Hotels in Barcelona",
   "description": "Discover the best hotels in Barcelona, Spain. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/1yqqtuarqnk9pql59viq",
+  "hero_image": "https://images.luxuryescapes.com/h54ctgnz4kqoy44sr2nq",
   "hotels": [
+    {
+      "vendor_name": "Almanac Barcelona",
+      "offer_country_name": "Spain",
+      "location_heading": "Barcelona",
+      "title": "Five-Star Barcelona Luxury at Spain's #1 Hotel with Daily Breakfast",
+      "description": "Experience the vibrancy of Barcelona from the Best Hotel in Spain and Portugal, as voted by the 2020 Condé Nast Traveler Readers’ Choice Awards: the five-star Almanac Barcelona. Boasting an address to impress just steps from Spain's answer to the Champs-Elysées - the prominent Passeig de Gràcia - this sumptuous hotel takes you to the heart of the action in style and luxury. Wake up in one of the beautifully styled rooms and immerse yourself in the pulsing streets of Barcelona. Discover Gaudi’s masterpieces, Casa Batlló and Casa Milà, take a five-minute stroll to reach the bustling Las Ramblas boulevard and the historic streets of the old city, taste tapas with locals, then retreat to the hotel’s rooftop bar to toast your five-star city escape. Styled by local designer Jaime Beriestain, the hotel showcases contemporary décor with a wealth of textures and exquisite living spaces. Its long list of impeccable facilities includes a wellness centre, spa and the acclaimed, plant-focused restaurant VIRENS, serving exquisite dishes such as artichokes with candied flowers and Chinese cabbage dumplings (there's organic meat and fish too for the carnivores). The jewel in the hotel’s crown? The majestic, multitiered rooftop terrace, which offers spectacular views over Barcelona’s skyline, a sparkling pool and a laidback bar, Azimuth. Visit for yourself and discover why this stunning hotel is rated among Tripadvisor's top 1% worldwide, earning it a spot in the top luxury hotels in Spain at the Travellers' Choice 2020 Best of the Best awards. **Luxury Escapes inclusions (select nights)** - Indulgent **daily à la carte breakfast** served in the elegant surroundings of VIRENS restaurant - A **welcome cocktail, glass of wine or sparkling on arrival** to celebrate your city escape (for stays of 2+ nights) - **Complimentary upgrade to the next room category**, subject to availability (for stays of 4+ nights, excludes Almanac Suite) - **EUR25 food and drinks credit per room** to spend at the hotel’s restaurant and rooftop bar (for stays of 6+ nights) **Travelling with kids?** Check out the Family Upgrade for two adults and one child (aged 11 years and under). **Tripadvisor Travellers' Choice Best of the Best 2020** Top Luxury Hotels - Spain",
+      "location_subheading": "Spain",
+      "price": 668,
+      "original_price": 825,
+      "discount_percentage": 19,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GJahAAG",
+      "hero_image": "https://images.luxuryescapes.com/h54ctgnz4kqoy44sr2nq",
+      "image_two": "https://images.luxuryescapes.com/4syt61rjqhbf9c6ztjn",
+      "image_three": "https://images.luxuryescapes.com/1imyegknmlgn9bot2zyo",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Barcelona Gran Via Plaza Espana",
       "offer_country_name": "Spain",
@@ -366,9 +384,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-14",
-    "hotel_count": 19,
-    "average_price": 724,
+    "last_updated": "2026-04-15",
+    "hotel_count": 20,
+    "average_price": 721,
     "average_discount": 13
   }
 }
