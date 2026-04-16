@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Port Stephens",
   "description": "Discover the best hotels in Port Stephens, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/e6obiuatwo6qx3ioumg",
+  "hero_image": "https://images.luxuryescapes.com/q7gf1i5vrq6092b4txxg",
   "hotels": [
+    {
+      "vendor_name": "Anchorage Port Stephens",
+      "offer_country_name": "Australia",
+      "location_heading": "Port Stephens",
+      "title": "Hamptons-Style Waterfront Luxury in Serene Port Stephens",
+      "description": "Experience Hamptons-style luxury at its finest at The Anchorage Port Stephens Hotel & Spa, a breezy seaside haven overlooking one of the world’s most beautiful ports. Featuring spacious waterfront guestrooms and mezzanine-style suites in an idyllic location, the resort is home to The Galley Kitchen restaurant, serving a seasonal menu of local produce, two swimming pools, including an adults-only infinity pool, and a decadent day spa - Spa Lucca.",
+      "location_subheading": "Australia",
+      "price": 632,
+      "original_price": 790,
+      "discount_percentage": 20,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DeW2RAAV",
+      "hero_image": "https://images.luxuryescapes.com/q7gf1i5vrq6092b4txxg",
+      "image_two": "https://images.luxuryescapes.com/927739ivasyna10tc9vt",
+      "image_three": "https://images.luxuryescapes.com/ud4oc3h6txpc8n5rz9yl",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Anchorage Port Stephens",
       "offer_country_name": "Australia",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 2,
       "end_date_utc": "2026-04-21 13:59:00"
-    },
-    {
-      "vendor_name": "Anchorage Port Stephens",
-      "offer_country_name": "Australia",
-      "location_heading": "Port Stephens",
-      "title": "Hamptons-Style Waterfront Luxury in Serene Port Stephens",
-      "description": "Experience Hamptons-style luxury at its finest at The Anchorage Port Stephens Hotel & Spa, a breezy seaside haven overlooking one of the world’s most beautiful ports. Featuring spacious waterfront guestrooms and mezzanine-style suites in an idyllic location, the resort is home to The Galley Kitchen restaurant, serving a seasonal menu of local produce, two swimming pools, including an adults-only infinity pool, and a decadent day spa - Spa Lucca.",
-      "location_subheading": "Australia",
-      "price": 631,
-      "original_price": 789,
-      "discount_percentage": 20,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DeW2RAAV",
-      "hero_image": "https://images.luxuryescapes.com/q7gf1i5vrq6092b4txxg",
-      "image_two": "https://images.luxuryescapes.com/927739ivasyna10tc9vt",
-      "image_three": "https://images.luxuryescapes.com/ud4oc3h6txpc8n5rz9yl",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Oaks Port Stephens Pacific Blue Resort",
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-04-16",
     "hotel_count": 3,
     "average_price": 408,
     "average_discount": 20
