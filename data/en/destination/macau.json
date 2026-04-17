@@ -13,8 +13,8 @@
       "title": "Five-Star Macau Waterfront Stay with Swimming Pool Overlooking South China Sea",
       "description": "Pure style and sophistication are the focus of the five-star Mandarin Oriental Macau, which boasts an unbeatable location on the prestigious Macau waterfront. Incredible facilities ensure a memorable stay, including four world-class restaurants and bars, an artisan cake shop, a swimming pool overlooking the South China Sea, and a harbourfront fitness centre. For a dose of relaxation, the onsite spa offers a range of treatments designed to pamper you from top to toe.",
       "location_subheading": "Macao",
-      "price": 683,
-      "original_price": 683,
+      "price": 682,
+      "original_price": 682,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009DMM4AAO",
       "hero_image": "https://images.luxuryescapes.com/6ki8hw3puo679udx72h",
@@ -23,6 +23,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Sofitel Macau at Ponte 16",
+      "offer_country_name": "Macao",
+      "location_heading": "Macau",
+      "title": "Lavish Macau Waterfront Escape with Onsite Dining, Two Pools & Spa",
+      "description": "Uncover the urban charm of Macau with a stay at this prestigious Sofitel retreat, a beacon of French elegance in the heart of the city. Located in the historic Inner Harbour, you'll find yourself steps away from the UNESCO World Heritage-listed Historic Centre of Macau, a vibrant tapestry of Portuguese and Chinese cultures. After a day of exploration, retreat to the hotel's tranquil spa or take a dip in one of two pools. When hunger strikes, delight in French and Chinese fusion at Le Chinois, or delectable international flavours at Mistral. End each day with a night cap at the elgenat Rendez Vous Lobby Bar, complete with golden chandeliers and plush interiors.",
+      "location_subheading": "Macao",
+      "price": 247,
+      "original_price": 247,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ib180YAB",
+      "hero_image": "https://images.luxuryescapes.com/g2tmpu4keirp25ki6bwa",
+      "image_two": "https://images.luxuryescapes.com/xash7rf592apkxf7j4",
+      "image_three": "https://images.luxuryescapes.com/5gxodwy04fijxymcnzv9",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-16",
-    "hotel_count": 1,
-    "average_price": 683,
+    "last_updated": "2026-04-17",
+    "hotel_count": 2,
+    "average_price": 465,
     "average_discount": 0
   }
 }

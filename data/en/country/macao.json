@@ -3,8 +3,17 @@
   "code": "MO",
   "hero_title": "Macao Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Macao.",
-  "hero_image": "https://images.luxuryescapes.com/37tj1pa37kkpl7pcyzr",
+  "hero_image": "https://images.luxuryescapes.com/6ki8hw3puo679udx72h",
   "popular_destinations": [
+    {
+      "name": "Macau",
+      "slug": "macau",
+      "image": "https://images.luxuryescapes.com/6ki8hw3puo679udx72h",
+      "description": "Explore Macau with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 465
+    },
     {
       "name": "Cotai Central",
       "slug": "cotai-central",
@@ -13,15 +22,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 349
-    },
-    {
-      "name": "Macau",
-      "slug": "macau",
-      "image": "https://images.luxuryescapes.com/6ki8hw3puo679udx72h",
-      "description": "Explore Macau with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 683
     }
   ],
   "seo": {

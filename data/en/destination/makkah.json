@@ -13,8 +13,8 @@
       "title": "Saudi Arabia Five-Star Makkah Escape near Masqid al-Haram",
       "description": "Just across from the resplendent white marbles of Masqid al-Haram, InterContinental Dar Al Tawhid Makkah, an IHG Hotel, is a five-star property only a few steps from the Holy Kaaba and King Fahad Gate. This luxury hotel is located near the city's Islamic sites, such as Mina, Muzdalifah, Mount Arafat and Jabal al-Nour. Beyond its convenient central position, the hotel also boasts a private Prayer Hall and three elegant restaurants serving up international cuisine and traditional specialties.",
       "location_subheading": "Saudi Arabia",
-      "price": 857,
-      "original_price": 857,
+      "price": 856,
+      "original_price": 856,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNF8EAAX",
       "hero_image": "https://images.luxuryescapes.com/w5062zm2fxmp06emxpjf",
@@ -67,13 +67,31 @@
       "title": "Makkah Spiritual Oasis near Kaaba with Restaurant & Tea Lounge",
       "description": "Soak up the serene spirituality of Makkah from this sophisticated sanctuary in the iconic Abraj Al Bait complex, offering direct access to Masjid al-Haram and sweeping Kaaba views. Elegant rooms and suites are designed for quiet reflection and comfort, blending contemporary Swiss design with warm Arabian touches. Savour international and traditional flavours at Al Khairat Restaurant and unwind with a soothing tea or coffee at Masharif Tea Lounge. With the Abraj Al Bait Mall just steps away, shopping and entertainment are always within reach. Whether you're visiting for spiritual renewal or simply a peaceful retreat, this haven offers a deeply meaningful stay in the heart of Islam's holiest city.",
       "location_subheading": "Saudi Arabia",
-      "price": 436,
-      "original_price": 436,
+      "price": 435,
+      "original_price": 435,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ib181YAB",
       "hero_image": "https://images.luxuryescapes.com/wr72ckldw99jl8hot9",
       "image_two": "https://images.luxuryescapes.com/1tw97jacergu598k38e",
       "image_three": "https://images.luxuryescapes.com/lp5qivy625lvawqi6hn",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Swissotel Makkah",
+      "offer_country_name": "Saudi Arabia",
+      "location_heading": "Makkah",
+      "title": "Central Makkah Swissôtel Stay Moments from the Grand Mosque & Abraj Al Bait Mall with Onsite Restaurant",
+      "description": "Journey into the heart of Islam with a stay at five-star Swissôtel Makkah, overlooking the city's Grand Mosque and sacred Kaaba. Set within the iconic Makkah Royal Clock Tower, the contemporary hotel blends modern design with thoughtful comforts, including marble bathrooms, prayer mats and in-room espresso machines. Beyond its elegant guestrooms, the hotel features a vibrant buffet restaurant offering a range of international flavours, from Indian and Southeast Asian to Mediterranean and Arab cuisine. After fuelling up, step outside to discover the wonders of Makkah. Complete your pilgrimage at the Grand Mosque, just steps away, explore the high-end boutiques at Abraj Al Bait Mall, and immerse yourself in the unique spirit of this holy city.",
+      "location_subheading": "Saudi Arabia",
+      "price": 410,
+      "original_price": 410,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000IH1N7YAL",
+      "hero_image": "https://images.luxuryescapes.com/xwcwh3zzng4kxwmc8sxm",
+      "image_two": "https://images.luxuryescapes.com/yodaz6v53meu79dn0emp",
+      "image_three": "https://images.luxuryescapes.com/w88msfcqnxqrksv25igj",
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-16",
-    "hotel_count": 5,
-    "average_price": 507,
+    "last_updated": "2026-04-17",
+    "hotel_count": 6,
+    "average_price": 491,
     "average_discount": 0
   }
 }
