@@ -13,8 +13,8 @@
       "title": "Darwin Studio Apartment Stay Along the Waterfront",
       "description": "Stay at the gateway to Australia's Top End at Adina Apartment Hotel Darwin Waterfront, perfectly positioned along the capital's promenade with vibrant restaurants and popular city sights at your fingertips. The hotel's studios and apartments ensure a home-away-from-home feel, coupled with the excitement of exploring a new city. Between exploring Darwin and its surrounds, enjoy a meal at the onsite Curve Restaurant and Bar or cool off with a dip in the pool.",
       "location_subheading": "Australia",
-      "price": 406,
-      "original_price": 406,
+      "price": 407,
+      "original_price": 407,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009DMhgAAG",
       "hero_image": "https://images.luxuryescapes.com/nei9o2g03npqa7bhhe4m",
@@ -23,24 +23,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "H on Mitchell Apartment Hotel",
-      "offer_country_name": "Australia",
-      "location_heading": "Darwin",
-      "title": "Contemporary Darwin City Self-Contained Stay with Rooftop Pool, Restaurant & Bar",
-      "description": "Experience the vibrancy of Darwin from this contemporary self-contained stay. Located in the heart of the city, this modern retreat offers a rooftop pool with city views, a fully equipped gym and an onsite sports bar. Savour the flavours of the Northern Territory at the hotel's restaurant, Lizards Bar and Restaurant, or venture out to explore the bustling Mitchell Street, lined with bars, eateries and shops. When you're ready for adventure, the stunning Litchfield National Park is just over an hour's drive away.",
-      "location_subheading": "Australia",
-      "price": 208,
-      "original_price": 208,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HkRaIAK",
-      "hero_image": "https://images.luxuryescapes.com/iseiqs7nlbko0i8uoqwe",
-      "image_two": "https://images.luxuryescapes.com/rf3viwl7b8vgbqqi51me",
-      "image_three": "https://images.luxuryescapes.com/l57xna9zjamio5orry9",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "H on Mitchell Apartment Hotel",
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-05-31 13:59:00"
+    },
+    {
+      "vendor_name": "H on Mitchell Apartment Hotel",
+      "offer_country_name": "Australia",
+      "location_heading": "Darwin",
+      "title": "Contemporary Darwin City Self-Contained Stay with Rooftop Pool, Restaurant & Bar",
+      "description": "Experience the vibrancy of Darwin from this contemporary self-contained stay. Located in the heart of the city, this modern retreat offers a rooftop pool with city views, a fully equipped gym and an onsite sports bar. Savour the flavours of the Northern Territory at the hotel's restaurant, Lizards Bar and Restaurant, or venture out to explore the bustling Mitchell Street, lined with bars, eateries and shops. When you're ready for adventure, the stunning Litchfield National Park is just over an hour's drive away.",
+      "location_subheading": "Australia",
+      "price": 208,
+      "original_price": 208,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HkRaIAK",
+      "hero_image": "https://images.luxuryescapes.com/iseiqs7nlbko0i8uoqwe",
+      "image_two": "https://images.luxuryescapes.com/rf3viwl7b8vgbqqi51me",
+      "image_three": "https://images.luxuryescapes.com/l57xna9zjamio5orry9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Mantra Pandanas",
@@ -240,7 +240,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-17",
+    "last_updated": "2026-04-18",
     "hotel_count": 12,
     "average_price": 264,
     "average_discount": 5

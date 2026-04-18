@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Palm Cove",
   "description": "Discover the best hotels in Palm Cove, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/a7b6czflhcw4hjsopce8",
+  "hero_image": "https://images.luxuryescapes.com/ecq2smx75gt5q52j5ie4",
   "hotels": [
-    {
-      "vendor_name": "Alamanda Palm Cove by Lancemore",
-      "offer_country_name": "Australia",
-      "location_heading": "Palm Cove",
-      "title": "Tropical Palm Cove Beachfront Apartments with Daily Yoga, A$50 Spa Credit & Sparkling Wine",
-      "description": "Take it easy with your loved ones at this tropical beachfront gem in Palm Cove. The resort is perfectly positioned with views over Tropical North Queensland’s shimmering Coral Sea, creating the perfect excuse to discover the region’s best, including the nearby Great Barrier Reef and Daintree Rainforest. With convenient kitchen facilities and daily yoga sessions, complete relaxation awaits couples and families at these luxurious self-contained apartments. When you’re no longer barefoot sun-soaking and sea-splashing, explore Palm Cove’s diverse food scene, boutique shops and lookouts dotting the coast. If you want to stay closer to home, treat your mind, body and soul to an ethereal escape at the L.M. Spa where the massages and facials are just as rejuvenating as the ocean next door. Round off your day at the onsite, award-winning restaurant NuNu for an evening of cocktails and exquisite tropical dining.",
-      "location_subheading": "Australia",
-      "price": 519,
-      "original_price": 1059,
-      "discount_percentage": 51,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SfjYvYAJ",
-      "hero_image": "https://images.luxuryescapes.com/a7b6czflhcw4hjsopce8",
-      "image_two": "https://images.luxuryescapes.com/gywt9za91pddh0lsbjf",
-      "image_three": "https://images.luxuryescapes.com/9hk517fuwx856jbyq7e",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-04-27 13:59:00"
-    },
     {
       "vendor_name": "Alamanda Palm Cove by Lancemore",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 2,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Alamanda Palm Cove by Lancemore",
+      "offer_country_name": "Australia",
+      "location_heading": "Palm Cove",
+      "title": "Tropical Palm Cove Beachfront Apartments with Daily Yoga, A$50 Spa Credit & Sparkling Wine",
+      "description": "Take it easy with your loved ones at this tropical beachfront gem in Palm Cove. The resort is perfectly positioned with views over Tropical North Queensland’s shimmering Coral Sea, creating the perfect excuse to discover the region’s best, including the nearby Great Barrier Reef and Daintree Rainforest. With convenient kitchen facilities and daily yoga sessions, complete relaxation awaits couples and families at these luxurious self-contained apartments. When you’re no longer barefoot sun-soaking and sea-splashing, explore Palm Cove’s diverse food scene, boutique shops and lookouts dotting the coast. If you want to stay closer to home, treat your mind, body and soul to an ethereal escape at the L.M. Spa where the massages and facials are just as rejuvenating as the ocean next door. Round off your day at the onsite, award-winning restaurant NuNu for an evening of cocktails and exquisite tropical dining.",
+      "location_subheading": "Australia",
+      "price": 519,
+      "original_price": 1059,
+      "discount_percentage": 51,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SfjYvYAJ",
+      "hero_image": "https://images.luxuryescapes.com/a7b6czflhcw4hjsopce8",
+      "image_two": "https://images.luxuryescapes.com/gywt9za91pddh0lsbjf",
+      "image_three": "https://images.luxuryescapes.com/9hk517fuwx856jbyq7e",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-04-27 13:59:00"
     },
     {
       "vendor_name": "Mantra Amphora Palm Cove",
@@ -132,7 +132,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-17",
+    "last_updated": "2026-04-18",
     "hotel_count": 6,
     "average_price": 586,
     "average_discount": 13

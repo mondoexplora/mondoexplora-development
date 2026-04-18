@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Kangaroo Island",
   "description": "Discover the best hotels in Kangaroo Island, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/sdpcx093420d4fxteu3",
+  "hero_image": "https://images.luxuryescapes.com/n668dyo022fnneymb58",
   "hotels": [
-    {
-      "vendor_name": "CABN X Kangaroo Island",
-      "offer_country_name": "Australia",
-      "location_heading": "Kangaroo Island",
-      "title": "Kangaroo Island Off-Grid Eco-Cabin with Ocean Views & Private Sauna",
-      "description": "Surround yourself with nature and disconnect in ultimate luxury with a Kangaroo Island stay that elevates eco-tourism to new heights. Light-filled, romantic and meticulously curated, each CABN X is carefully positioned with privacy in mind, offering captivating views over the rambling wilderness and the waters of Antechamber Bay. With a coffee machine, furnished deck with an outdoor bathtub, indoor gas fireplace, kitchenette and luxe in-cabin sauna - for your exclusive use - this off-grid eco-cabin has everything you need to soak up Kangaroo Island’s world-famous serenity. Indulge in the perfect blend of seclusion and sophistication, where every detail has been designed to enhance your connection with nature.",
-      "location_subheading": "Australia",
-      "price": 359,
-      "original_price": 816,
-      "discount_percentage": 56,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RlNjBYAV",
-      "hero_image": "https://images.luxuryescapes.com/sdpcx093420d4fxteu3",
-      "image_two": "https://images.luxuryescapes.com/ku499qap64lzjpclkcih",
-      "image_three": "https://images.luxuryescapes.com/ca9sj9jhnpwbflp1gygr",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-05-18 13:59:00"
-    },
     {
       "vendor_name": "CABN X Kangaroo Island",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "CABN X Kangaroo Island",
+      "offer_country_name": "Australia",
+      "location_heading": "Kangaroo Island",
+      "title": "Kangaroo Island Off-Grid Eco-Cabin with Ocean Views & Private Sauna",
+      "description": "Surround yourself with nature and disconnect in ultimate luxury with a Kangaroo Island stay that elevates eco-tourism to new heights. Light-filled, romantic and meticulously curated, each CABN X is carefully positioned with privacy in mind, offering captivating views over the rambling wilderness and the waters of Antechamber Bay. With a coffee machine, furnished deck with an outdoor bathtub, indoor gas fireplace, kitchenette and luxe in-cabin sauna - for your exclusive use - this off-grid eco-cabin has everything you need to soak up Kangaroo Island’s world-famous serenity. Indulge in the perfect blend of seclusion and sophistication, where every detail has been designed to enhance your connection with nature.",
+      "location_subheading": "Australia",
+      "price": 359,
+      "original_price": 816,
+      "discount_percentage": 56,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RlNjBYAV",
+      "hero_image": "https://images.luxuryescapes.com/sdpcx093420d4fxteu3",
+      "image_two": "https://images.luxuryescapes.com/ku499qap64lzjpclkcih",
+      "image_three": "https://images.luxuryescapes.com/ca9sj9jhnpwbflp1gygr",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-05-18 13:59:00"
     },
     {
       "vendor_name": "Mercure Kangaroo Island Lodge",
@@ -96,7 +96,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-17",
+    "last_updated": "2026-04-18",
     "hotel_count": 4,
     "average_price": 1815,
     "average_discount": 17

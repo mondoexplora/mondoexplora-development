@@ -103,8 +103,8 @@
       "title": "Tranquil Canberra Escape in Heart of CBD Close to Wine Region",
       "description": "Take in the best of Australia’s tranquil capital with a stay at the contemporary Crowne Plaza Canberra, an IHG Hotel. Perfect for business travellers or a romantic city escape, the hotel creates a welcoming atmosphere with an ideal CBD location close to the museums and galleries, the bustling shopping district and an array of vibrant restaurants and bars. Take a relaxing short drive through Canberra’s iconic wine region and explore charming towns like Bungendore, Gundaroo and Murrumbateman, along with stunning local vineyards and sophisticated cellar doors. After a long day of discovery, grab a decadent dinner at the hotel’s Redsalt Restaurant, serving up modern Australian fare, before relaxing with an evening cocktail in hand.",
       "location_subheading": "Australia",
-      "price": 301,
-      "original_price": 301,
+      "price": 353,
+      "original_price": 353,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt5XAAR",
       "hero_image": "https://images.luxuryescapes.com/muy4jzuiqc2y6xxwq3mn",
@@ -280,24 +280,6 @@
       "vendor_name": "QT Canberra",
       "offer_country_name": "Australia",
       "location_heading": "Canberra",
-      "title": "Stylish Canberra QT Escape in the Heart of NewActon",
-      "description": "Where cultural cool meets national politics, discover your ultimate base for exploring Australia’s capital city at QT Canberra. Cast your vote for a luxurious stay close to Molonglo River and experience an escape that places you within walking distance of stylish bars, restaurants, art galleries and Parliament House. After days spent exploring, retreat to your stylish abode in the heart of NewActon and feast on innovative Italian delights at Capitol Bar & Grill, a must for dining during your stay.",
-      "location_subheading": "Australia",
-      "price": 356,
-      "original_price": 356,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004v1XxAAI",
-      "hero_image": "https://images.luxuryescapes.com/7de1dxvg29uhsb3n22h",
-      "image_two": "https://images.luxuryescapes.com/f33dphlw8mpt1kaoext",
-      "image_three": "https://images.luxuryescapes.com/w7xxu3rrkqrr25xdiolm",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "QT Canberra",
-      "offer_country_name": "Australia",
-      "location_heading": "Canberra",
       "title": "Stylish Canberra Glamour in the Heart of the CBD with Daily Breakfast & Nightly Drink",
       "description": "With a slice of cultural cool, QT Canberra is your ultimate base for exploring Australia's capital city. With a unique architectural design fusing wooden beams, polished marble floors and splashes of colourful decor, QT tips its hat to a city that needs no introduction. Feast on modern Australian cuisine at Capitol Bar & Grill, specialising in premium steaks and wood-fired theatrics. Among breathtaking natural scenery, Canberra is peppered with markers of Australia's history. Visit the Australian War Memorial for a heartfelt look into the country's past. For arguably the best view of Canberra, head straight down Anzac Parade, around Lake Burley Griffin and over to Old Parliament House.",
       "location_subheading": "Australia",
@@ -311,6 +293,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-04-20 13:59:00"
+    },
+    {
+      "vendor_name": "QT Canberra",
+      "offer_country_name": "Australia",
+      "location_heading": "Canberra",
+      "title": "Stylish Canberra QT Escape in the Heart of NewActon",
+      "description": "Where cultural cool meets national politics, discover your ultimate base for exploring Australia’s capital city at QT Canberra. Cast your vote for a luxurious stay close to Molonglo River and experience an escape that places you within walking distance of stylish bars, restaurants, art galleries and Parliament House. After days spent exploring, retreat to your stylish abode in the heart of NewActon and feast on innovative Italian delights at Capitol Bar & Grill, a must for dining during your stay.",
+      "location_subheading": "Australia",
+      "price": 356,
+      "original_price": 356,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004v1XxAAI",
+      "hero_image": "https://images.luxuryescapes.com/7de1dxvg29uhsb3n22h",
+      "image_two": "https://images.luxuryescapes.com/f33dphlw8mpt1kaoext",
+      "image_three": "https://images.luxuryescapes.com/w7xxu3rrkqrr25xdiolm",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Rydges Canberra",
@@ -384,9 +384,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-17",
+    "last_updated": "2026-04-18",
     "hotel_count": 20,
-    "average_price": 430,
+    "average_price": 433,
     "average_discount": 6
   }
 }

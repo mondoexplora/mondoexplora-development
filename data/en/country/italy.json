@@ -3,16 +3,16 @@
   "code": "IT",
   "hero_title": "Italy Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Italy.",
-  "hero_image": "https://images.luxuryescapes.com/r960jsrp7qvo5hyu1h2",
+  "hero_image": "https://images.luxuryescapes.com/yfhsmh8qnvhgvawjnm9p",
   "popular_destinations": [
     {
       "name": "Rome",
       "slug": "rome",
-      "image": "https://images.luxuryescapes.com/r960jsrp7qvo5hyu1h2",
+      "image": "https://images.luxuryescapes.com/yfhsmh8qnvhgvawjnm9p",
       "description": "Explore Rome with luxury accommodations",
-      "hotel_count": 10,
-      "hotel_deals": 10,
-      "avg_price": 834
+      "hotel_count": 11,
+      "hotel_deals": 11,
+      "avg_price": 794
     },
     {
       "name": "Milan",
@@ -30,7 +30,7 @@
       "description": "Explore Florence with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 617
+      "avg_price": 615
     },
     {
       "name": "Venice",

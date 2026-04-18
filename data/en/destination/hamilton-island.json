@@ -46,24 +46,6 @@
       "vendor_name": "Reef View Hotel Hamilton Island",
       "offer_country_name": "Australia",
       "location_heading": "Hamilton Island",
-      "title": "Iconic Hamilton Island Family Escape near Catseye Beach",
-      "description": "Overlooking Catseye Beach's hypnotic turquoise waters, Reef View Hotel Hamilton Island offers an iconic Whitsundays experience. For those looking to relax and unwind, there's Spa wumurdaylin (additional costs apply), a sauna and several pools to choose from: the Reef View Hotel Pool, Bougainvillea Pool and the 35m lagoon-style Main Pool with a swim-up bar. For family-friendly fun, there's the beach, non-motorised watersport equipment, access to the nearby Passage Peak Scenic Trail and Clownfish Club, a kids' haven (12 years and under). Best of all, kids stay and eat free.",
-      "location_subheading": "Australia",
-      "price": 820,
-      "original_price": 820,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004Vgw7AAC",
-      "hero_image": "https://images.luxuryescapes.com/j21e26x8br0qahuolrvd",
-      "image_two": "https://images.luxuryescapes.com/i8xy02tylpksk4kcdvkg",
-      "image_three": "https://images.luxuryescapes.com/m8vodxf9qd93dsqddn4v",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Reef View Hotel Hamilton Island",
-      "offer_country_name": "Australia",
-      "location_heading": "Hamilton Island",
       "title": "Iconic Hamilton Island Oasis near Great Barrier Reef with Daily Breakfast & A$100 Resort Credit",
       "description": "Barefoot relaxation, palm-fringed beauty and world-class water activities on the Great Barrier Reef await you at this Hamilton Island gem, overlooking Catseye Beach. A tropical paradise where romantic seclusion and family fun exist side by side, this coastal hideaway is the perfect island break in one of Australia's most spectacular and sought-after destinations. For those looking to relax and unwind, there's a spa, sauna and four glittering pools to choose from. Indulge in sumptuous fare at the Pool Terrace, or laze on your private balcony and admire the spectacular sunrise. When it's time to tear yourself away from the comfort of the hotel, you're perfectly positioned to explore the area, with stunning beaches, renowned restaurants and a myriad outdoor activities all within easy reach by foot, golf buggy or complimentary island shuttle.",
       "location_subheading": "Australia",
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 4,
       "end_date_utc": "2026-04-27 13:59:00"
+    },
+    {
+      "vendor_name": "Reef View Hotel Hamilton Island",
+      "offer_country_name": "Australia",
+      "location_heading": "Hamilton Island",
+      "title": "Iconic Hamilton Island Family Escape near Catseye Beach",
+      "description": "Overlooking Catseye Beach's hypnotic turquoise waters, Reef View Hotel Hamilton Island offers an iconic Whitsundays experience. For those looking to relax and unwind, there's Spa wumurdaylin (additional costs apply), a sauna and several pools to choose from: the Reef View Hotel Pool, Bougainvillea Pool and the 35m lagoon-style Main Pool with a swim-up bar. For family-friendly fun, there's the beach, non-motorised watersport equipment, access to the nearby Passage Peak Scenic Trail and Clownfish Club, a kids' haven (12 years and under). Best of all, kids stay and eat free.",
+      "location_subheading": "Australia",
+      "price": 820,
+      "original_price": 820,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004Vgw7AAC",
+      "hero_image": "https://images.luxuryescapes.com/j21e26x8br0qahuolrvd",
+      "image_two": "https://images.luxuryescapes.com/i8xy02tylpksk4kcdvkg",
+      "image_three": "https://images.luxuryescapes.com/m8vodxf9qd93dsqddn4v",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "The Sundays Hamilton Island",
@@ -114,7 +114,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-17",
+    "last_updated": "2026-04-18",
     "hotel_count": 5,
     "average_price": 1178,
     "average_discount": 9

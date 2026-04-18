@@ -25,6 +25,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Chateau de Berne",
+      "offer_country_name": "France",
+      "location_heading": "Provence",
+      "title": "Boutique French Vineyard Retreat in Provence by Relais & Châteaux with Michelin-Starred Restaurant",
+      "description": "Discover a new level of elegance at this luxurious wine country escape, set within a grand 18th-century French chateau. Spanning 515 hectares of lush nature, look no further than this charming base for discovering the many treasures of sun-kissed Provence. Unwind at the serene onsite spa, take a dip in one of the sparkling outdoor pools or disconnect with a yoga class among vineyards. For a true taste of the region, indulge at the Michelin-starred Le Jardin de Berne, or enjoy a more relaxed meal at the adjoining Bistrot. For wine enthusiasts, Château de Berne offers the opportunity to indulge in its award-winning drops through guided tastings and cellar tours. With 150 hectares of vineyards producing red, rosé and white Côtes de Provence, you'll be spoilt for choice.",
+      "location_subheading": "France",
+      "price": 1007,
+      "original_price": 1343,
+      "discount_percentage": 25,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IpTPIA0",
+      "hero_image": "https://images.luxuryescapes.com/brfqjivom9ohkdwm0s7q",
+      "image_two": "https://images.luxuryescapes.com/oibxxbtjy4rbkfqg2xr",
+      "image_three": "https://images.luxuryescapes.com/of1lmt92qdwyybc43rc",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Château de Fonscolombe",
       "offer_country_name": "France",
       "location_heading": "Provence",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-17",
-    "hotel_count": 2,
-    "average_price": 891,
-    "average_discount": 10
+    "last_updated": "2026-04-18",
+    "hotel_count": 3,
+    "average_price": 929,
+    "average_discount": 15
   }
 }
