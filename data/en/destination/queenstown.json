@@ -85,8 +85,8 @@
       "title": "Queenstown Boutique Cottage Stay on Working Vineyard with Cellar Door",
       "description": "Embrace Central Otago's beautiful natural scenery and discover New Zealand's finest wines with a stay at Kinross Cottages, a boutique property set amid lush pinot gris and pino noir vines - just 30 minutes from Queenstown. This private, 40-acre haven of 14 generously sized rooms is ideally located for days spent exploring the verdant grounds, sampling gourmet food at the onsite bistro and fine wines at the cellar door, or simply unwinding while admiring the incredible mountain vistas.",
       "location_subheading": "New Zealand",
-      "price": 553,
-      "original_price": 674,
+      "price": 548,
+      "original_price": 668,
       "discount_percentage": 18,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DqHXZAA3",
       "hero_image": "https://images.luxuryescapes.com/ibcgulpnvgeph2wwm6t3",
@@ -247,8 +247,8 @@
       "title": "Five-Star Boutique Queenstown Retreat Overlooking Lake Wakatipu",
       "description": "Whether you're cosying up by your gas fireplace or relaxing in your terrace spa, spectacular vistas of Lake Wakatipu will greet you at every turn from the five-star The Carlin Boutique Hotel. Much more than just a gateway to adventure-capital Queenstown and surrounding wine region, this hillside refuge promises exquisite attention to detail and sophistication. After days of exploration, feast on local produce at ORO restaurant, book an in-suite spa treatment (charges apply), or simply sit back with a glass of wine and drink in the views.",
       "location_subheading": "New Zealand",
-      "price": 2397,
-      "original_price": 2397,
+      "price": 2396,
+      "original_price": 2396,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNmlnAAD",
       "hero_image": "https://images.luxuryescapes.com/ug0854uuebp0lm9kjzko",
@@ -293,6 +293,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Spire Hotel",
+      "offer_country_name": "New Zealand",
+      "location_heading": "Queenstown",
+      "title": "Five-Star Central Queenstown Suites with Daily Breakfast, Nightly Drink & NZ$100 Dining Credit",
+      "description": "Moments from the glistening shores of crystal-clear Lake Wakatipu and surrounded by award-winning restaurants and bars, this boutique hideaway is so intimate that most locals don’t even know it’s there. Hidden down Church Lane, and home to just 10 spacious luxury suites, this five-star hotel offers true privacy in the heart of Queenstown. Each morning, head next door to No5 Church Lane for an a la carte breakfast that is sure to kick-start your day. After hours exploring New Zealand’s adventure capital, return to Church Lane for a pre-dinner drink and toast to an exhilarating day. Sink into designer comfort in your private suite, featuring elegant furnishings and a private balcony for enjoying the crisp Queenstown air. Cosy up in front of the stone fireplace or head back out to discover the city’s top dining. As for adventure, Skyline Queenstown gondola is within a 12-minute walk and the lift line of Coronet Peak and The Remarkables is a 40 minute drive away.",
+      "location_subheading": "New Zealand",
+      "price": 959,
+      "original_price": 1918,
+      "discount_percentage": 50,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ScB0mYAF",
+      "hero_image": "https://images.luxuryescapes.com/cm6of78b5ua0jno5fk3s",
+      "image_two": "https://images.luxuryescapes.com/1ers9ortlx2d66vj2bzq",
+      "image_three": "https://images.luxuryescapes.com/4yzwlej5rus7ri1re9",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-07-29 13:59:00"
     }
   ],
   "seo": {
@@ -312,9 +330,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-19",
-    "hotel_count": 16,
-    "average_price": 935,
-    "average_discount": 5
+    "last_updated": "2026-04-20",
+    "hotel_count": 17,
+    "average_price": 936,
+    "average_discount": 7
   }
 }

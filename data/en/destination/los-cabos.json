@@ -49,31 +49,13 @@
       "title": "Los Cabos Five-Star One&Only Beachfront Indulgence with Four Gourmet Restaurants",
       "description": "Along the sweeping coast of the Baja Peninsula, you'll find a secluded Mexican sanctuary: the five-star One&Only Palmilla. A stay here means exquisite dining across four onsite restaurants - go for premium steaks crafted by Michelin-star chef Jean-Georges Vongerichten at SEARED, dine cliffside on the best locally sourced produce at Agua, sample modern Japanese and sake at Suviche or savour classic Mexican comfort food poolside at Breeze. The One&Only Spa offers Mayan rituals, relaxing massages and holistic therapy with a Mexican Spiritual Healer to help you feel brand new. Take a dip in the Agua infinity pool, which overlooks the Gulf of Cortez, or opt to spend sun-soaked days on the beach, lounging on your very own oceanside cabana.",
       "location_subheading": "Mexico",
-      "price": 2532,
-      "original_price": 2532,
+      "price": 2531,
+      "original_price": 2531,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000008gJCcAAM",
       "hero_image": "https://images.luxuryescapes.com/tu4re230lxc6atlm8vxf",
       "image_two": "https://images.luxuryescapes.com/e45q2job0klypsgw0pc",
       "image_three": "https://images.luxuryescapes.com/btdnixyp5ayx24k34m4n",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Viceroy Los Cabos",
-      "offer_country_name": "Mexico",
-      "location_heading": "Los Cabos",
-      "title": "Los Cabos Five-Star Viceroy Beachfront Resort with Five Swimming Pools & Rooftop Lounge",
-      "description": "Immerse yourself in a Mexican dreamscape at the luxurious Viceroy Los Cabos on the Sea of Cortés in Baja California. Rising above Los Cabo's pristine peninsular beachfront, this breathtaking resort effortlessly blends cinematic ambience with absolute tranquillity through its striking architecture and first-class facilities including five lavish swimming pools, an exceptional spa and a high-tech gym. When it comes to dining, Viceroy Los Cabos won't disappoint - savour champagne at the Cielomar Rooftop restaurant and bar, enjoy luxe cocktails at Casero Restaurant or enter Nido's wicker cocoon to dine on fresh ceviche and sushi. When you're not perusing the on-site art gallery and its upmarket boutique, The Beach Store, sink your toes into the resort's endless stretch of powder-white sand before heading into Los Cabos to admire the picturesque colonial streetscape.",
-      "location_subheading": "Mexico",
-      "price": 977,
-      "original_price": 977,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GMWeAAO",
-      "hero_image": "https://images.luxuryescapes.com/pjzycoe1992jwln0fzwi",
-      "image_two": "https://images.luxuryescapes.com/xmhbqk8brhuopbm4znvt",
-      "image_three": "https://images.luxuryescapes.com/49ofkbfqbg2ywiz3xtl",
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
@@ -95,6 +77,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 3,
       "end_date_utc": "2026-04-24 13:59:00"
+    },
+    {
+      "vendor_name": "Viceroy Los Cabos",
+      "offer_country_name": "Mexico",
+      "location_heading": "Los Cabos",
+      "title": "Los Cabos Five-Star Viceroy Beachfront Resort with Five Swimming Pools & Rooftop Lounge",
+      "description": "Immerse yourself in a Mexican dreamscape at the luxurious Viceroy Los Cabos on the Sea of Cortés in Baja California. Rising above Los Cabo's pristine peninsular beachfront, this breathtaking resort effortlessly blends cinematic ambience with absolute tranquillity through its striking architecture and first-class facilities including five lavish swimming pools, an exceptional spa and a high-tech gym. When it comes to dining, Viceroy Los Cabos won't disappoint - savour champagne at the Cielomar Rooftop restaurant and bar, enjoy luxe cocktails at Casero Restaurant or enter Nido's wicker cocoon to dine on fresh ceviche and sushi. When you're not perusing the on-site art gallery and its upmarket boutique, The Beach Store, sink your toes into the resort's endless stretch of powder-white sand before heading into Los Cabos to admire the picturesque colonial streetscape.",
+      "location_subheading": "Mexico",
+      "price": 977,
+      "original_price": 977,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GMWeAAO",
+      "hero_image": "https://images.luxuryescapes.com/pjzycoe1992jwln0fzwi",
+      "image_two": "https://images.luxuryescapes.com/xmhbqk8brhuopbm4znvt",
+      "image_three": "https://images.luxuryescapes.com/49ofkbfqbg2ywiz3xtl",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Villa La Valencia Beach Resort & Spa Los Cabos",
@@ -132,7 +132,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-19",
+    "last_updated": "2026-04-20",
     "hotel_count": 6,
     "average_price": 1339,
     "average_discount": 23
