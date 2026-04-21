@@ -38,7 +38,7 @@
       "hero_image": "https://images.luxuryescapes.com/dkgsrjwqkqrfcvpxmchk",
       "image_two": "https://images.luxuryescapes.com/y4qcimxw8ij4vqx6wzk7",
       "image_three": "https://images.luxuryescapes.com/s0a1pu97qbmx3zaewas",
-      "deal_tier": "Luxury Escapes - Tier 2",
+      "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     },
@@ -67,14 +67,14 @@
       "title": "Five-Star Hoi An Opulence on Hoai River with Restaurant, Bar & Pool with Ancient Town Views",
       "description": "Retreat to the banks of the Hoai River at this enchanting escape designed to embrace the very best of this vibrant Vietnamese town. With hints of local architecture intertwined with sleek modern features, this charming hotel is the perfect riverside abode, just minutes from the UNESCO World Heritage Site of Hoi An Ancient Town. Savour Mediterranean flavours at the onsite restaurant, sip cocktails by the pool and take a moment of rest at Breathe Spa - here, there's no reason to rush.",
       "location_subheading": "Vietnam",
-      "price": 375,
-      "original_price": 375,
+      "price": 376,
+      "original_price": 376,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GDzMDYA1",
       "hero_image": "https://images.luxuryescapes.com/e060g5aee1mjsbuoulni",
       "image_two": "https://images.luxuryescapes.com/32pau40fushgv1ku3j8",
       "image_three": "https://images.luxuryescapes.com/gxb830u8r8kzqx44sk1f",
-      "deal_tier": "Luxury Escapes - Tier 3",
+      "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     },
@@ -92,7 +92,7 @@
       "hero_image": "https://images.luxuryescapes.com/96rn2d5a4j5dccauwbu",
       "image_two": "https://images.luxuryescapes.com/4sc19ylfkuhrqomff8u",
       "image_three": "https://images.luxuryescapes.com/akmhigk0t6k81sgl4fx",
-      "deal_tier": "",
+      "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     },
@@ -110,7 +110,7 @@
       "hero_image": "https://images.luxuryescapes.com/szy5pon5erbn3rz2qhmm",
       "image_two": "https://images.luxuryescapes.com/qiegtg3kfefcdhuvs8ck",
       "image_three": "https://images.luxuryescapes.com/zudi7rz97jcmjugtjn",
-      "deal_tier": "Luxury Escapes - Tier 3",
+      "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     }
@@ -132,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-20",
+    "last_updated": "2026-04-21",
     "hotel_count": 6,
-    "average_price": 362,
+    "average_price": 363,
     "average_discount": 24
   }
 }

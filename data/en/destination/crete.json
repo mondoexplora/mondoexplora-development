@@ -67,14 +67,14 @@
       "title": "Eastern Crete Coastal Retreat near Mirabello Bay with Tranquil Infinity Pools",
       "description": "Experience the epitome of Crete luxury with a stay at this beachfront oasis overlooking Mirabello Bay. Explore the charming coastal town of Agios Nikolaos, or venture further afield to Archanes, renowned for its vineyards and olive groves. Return to your tranquil base and take a dip in two glittering infinity pools which appear to merge harmoniously with the bay beyond, or simply savour a refreshing beverage at the hotel's onsite bars.",
       "location_subheading": "Greece",
-      "price": 527,
-      "original_price": 527,
+      "price": 518,
+      "original_price": 518,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ie57MAAR",
       "hero_image": "https://images.luxuryescapes.com/v3b2fyr61qf4gqtjhf6",
       "image_two": "https://images.luxuryescapes.com/d3h159i6qbdbj48xkiql",
       "image_three": "https://images.luxuryescapes.com/8kwqczmohf6jshirytch",
-      "deal_tier": "Luxury Escapes - Tier 3",
+      "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     },
@@ -92,9 +92,27 @@
       "hero_image": "https://images.luxuryescapes.com/a73hnlyuxg0rwl27w7l",
       "image_two": "https://images.luxuryescapes.com/tgpbfckqjy84147hgsn",
       "image_three": "https://images.luxuryescapes.com/qzqpleyoofcp0noyoai",
-      "deal_tier": "Luxury Escapes - Tier 3",
+      "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Porto Elounda",
+      "offer_country_name": "Greece",
+      "location_heading": "Crete",
+      "title": "Five-Star Greek Island Getaway with Aegean Sea Views & Onsite Par-3 Golf Course",
+      "description": "Draped along Crete's Mirabello Bay, this luxury resort brings the sparkling Aegean Sea into focus, as golf, dining and a dreamy spa complete an idyllic Greek retreat. Guests could be forgiven for never leaving this coastal sanctuary, complete with two restaurants, two bars and a private, 9-hole par-3 golf course. The Six Senses Spa brings world-class wellness to the Cretan coastline, with a 2,200sqm sanctuary blending Eastern and Western techniques across 23 treatment rooms, a Turkish hammam and a thalassotherapy pool. On the water, watersports, scuba diving and sailing keep things active. Once you've built up an appetite on the golf course or strolling the quiet streets of Elounda, resort dining spans everything from Greek buffets at Cosmos to fresh and healthy share plates at Elies Beach House by bestselling author, Emily English. For a laidback drink, head to Thea where expert bartenders will satisfy with every sip serving tropical and tasty tipples.",
+      "location_subheading": "Greece",
+      "price": 762,
+      "original_price": 837,
+      "discount_percentage": 9,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PtNjxYAF",
+      "hero_image": "https://images.luxuryescapes.com/6od3rj9ywj64zzg8qogk",
+      "image_two": "https://images.luxuryescapes.com/bx9beer6574tzurq8th",
+      "image_three": "https://images.luxuryescapes.com/yrp27wfkl4lchzu1r4nw",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-20",
-    "hotel_count": 5,
-    "average_price": 670,
-    "average_discount": 1
+    "last_updated": "2026-04-21",
+    "hotel_count": 6,
+    "average_price": 684,
+    "average_discount": 2
   }
 }

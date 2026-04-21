@@ -20,7 +20,7 @@
       "hero_image": "https://images.luxuryescapes.com/i31jde3fkihs3gyichoc",
       "image_two": "https://images.luxuryescapes.com/p5yhhybx3vg77ute2lt",
       "image_three": "https://images.luxuryescapes.com/geghspbi4y9202cbpvc",
-      "deal_tier": "Luxury Escapes - Tier 1",
+      "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     },
@@ -92,7 +92,7 @@
       "hero_image": "https://images.luxuryescapes.com/4frp2jx0p3ogaqbred4l",
       "image_two": "https://images.luxuryescapes.com/xd12f2iezkfvwkyxpn3i",
       "image_three": "https://images.luxuryescapes.com/ejzi0mnbbfvfe262vodi",
-      "deal_tier": "Luxury Escapes - Tier 1",
+      "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     },
@@ -110,7 +110,7 @@
       "hero_image": "https://images.luxuryescapes.com/tgb3itsvhz9r42uun6a",
       "image_two": "https://images.luxuryescapes.com/06b861kg17al91sjvqp",
       "image_three": "https://images.luxuryescapes.com/zga8rwswmblozuyaxigv",
-      "deal_tier": "Luxury Escapes - Tier 3",
+      "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     },
@@ -121,8 +121,8 @@
       "title": "Five-Star Madrid Escape on Paseo de la Castellana near Iconic Sorolla Museum",
       "description": "Step into the marble-lined lobby of the InterContinental Madrid, an IHG Hotel, to discover a luxurious retreat amid the bustling streets of Spain's vibrant capital. Take a moment to indulge in sumptuous fine dining served on a verdant garden terrace before discovering the city’s longest avenue right on your doorstep. Stroll down the vibrant Paseo de la Castellana, lined with mouth-watering dining options, marvel at iconic artwork in countless museums or wander around the nearby shopping districts.",
       "location_subheading": "Spain",
-      "price": 405,
-      "original_price": 405,
+      "price": 409,
+      "original_price": 409,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt62AAB",
       "hero_image": "https://images.luxuryescapes.com/x0gssf7i1kd5pu5jc3r7",
@@ -146,7 +146,7 @@
       "hero_image": "https://images.luxuryescapes.com/yyoqgv9cyopl2zwzd8la",
       "image_two": "https://images.luxuryescapes.com/au17t2p2xwcdegdo4ki",
       "image_three": "https://images.luxuryescapes.com/0jh1vaafm8dvupxeu2j",
-      "deal_tier": "Luxury Escapes - Tier 1",
+      "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     },
@@ -218,7 +218,7 @@
       "hero_image": "https://images.luxuryescapes.com/q0x1c1j45yant9be0d39",
       "image_two": "https://images.luxuryescapes.com/siy6arm95qlxsvn955x",
       "image_three": "https://images.luxuryescapes.com/t7ycdzvqzlxjqf1eewrt",
-      "deal_tier": "Luxury Escapes - Tier 3",
+      "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     },
@@ -258,7 +258,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-20",
+    "last_updated": "2026-04-21",
     "hotel_count": 13,
     "average_price": 597,
     "average_discount": 4

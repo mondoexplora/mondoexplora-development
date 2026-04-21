@@ -56,7 +56,7 @@
       "hero_image": "https://images.luxuryescapes.com/t6frbndjg8354pbg5pr",
       "image_two": "https://images.luxuryescapes.com/bti2mk7ktdakmrg24bdj",
       "image_three": "https://images.luxuryescapes.com/ijg58i0o36599dcn9u",
-      "deal_tier": "Luxury Escapes - Tier 2",
+      "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 3,
       "end_date_utc": "2026-12-31 12:59:00"
     },
@@ -74,7 +74,7 @@
       "hero_image": "https://images.luxuryescapes.com/0segwkr9j8f9wchgl4h",
       "image_two": "https://images.luxuryescapes.com/rlj974os1ckouwrc3zw8",
       "image_three": "https://images.luxuryescapes.com/19epjisre65qs7opgkf",
-      "deal_tier": "Luxury Escapes - Tier 2",
+      "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 3,
       "end_date_utc": "2026-12-31 12:59:00"
     },
@@ -92,7 +92,7 @@
       "hero_image": "https://images.luxuryescapes.com/c2v9b4d0487opoxqeivx",
       "image_two": "https://images.luxuryescapes.com/suzgqj4xjhp8ypnz9suf",
       "image_three": "https://images.luxuryescapes.com/97fr0zj9g209dvi9uziq",
-      "deal_tier": "Luxury Escapes - Tier 2",
+      "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 3,
       "end_date_utc": "2026-12-31 12:59:00"
     },
@@ -139,14 +139,14 @@
       "title": "Cook Islands Adults-Only Beachfront Retreat with Spa & Swim-Up Bar",
       "description": "Indulge in ultimate relaxation amid stunning tropical scenery with this idyllic adults-only retreat nestled on the pristine shores of Rarotonga. This resort offers a serene escape on the edge of Aroa Lagoon Marine Reserve, a vibrant underwater playground. Savour the flavours of the South Pacific at the resort's Bluewater Grill & Bar, unwind with a fruity cocktail at the dreamy swim-up pool bar or with a relaxing treatment at the spa, or take advantage of complimentary watersports.",
       "location_subheading": "Cook Islands",
-      "price": 549,
-      "original_price": 654,
+      "price": 528,
+      "original_price": 629,
       "discount_percentage": 16,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CO49fAAD",
       "hero_image": "https://images.luxuryescapes.com/5xgr0hbtxn3dyg5gazsg",
       "image_two": "https://images.luxuryescapes.com/p2zou1vc337lqv1ds57",
       "image_three": "https://images.luxuryescapes.com/99rkfw5jp7lhy0wuoon",
-      "deal_tier": "Luxury Escapes - Tier 3",
+      "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     },
@@ -164,7 +164,7 @@
       "hero_image": "https://images.luxuryescapes.com/2ux371zpuikuvm50y0mmc",
       "image_two": "https://images.luxuryescapes.com/7cejssro1m9nz8bseus",
       "image_three": "https://images.luxuryescapes.com/vuu59t7hptfy1vc0v0i",
-      "deal_tier": "Luxury Escapes - Tier 2",
+      "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 3,
       "end_date_utc": "2026-12-31 12:59:00"
     },
@@ -182,7 +182,7 @@
       "hero_image": "https://images.luxuryescapes.com/lrre2fg4f7r8xuym9z7",
       "image_two": "https://images.luxuryescapes.com/8tlu9fsgnnoim5e2hsld",
       "image_three": "https://images.luxuryescapes.com/ugc35gmrm4rbrbcjy",
-      "deal_tier": "Luxury Escapes - Tier 2",
+      "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     }
@@ -204,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-20",
+    "last_updated": "2026-04-21",
     "hotel_count": 10,
-    "average_price": 1155,
+    "average_price": 1153,
     "average_discount": 11
   }
 }

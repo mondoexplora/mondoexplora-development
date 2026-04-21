@@ -12,21 +12,21 @@
       "description": "Explore Kandy with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 904
+      "avg_price": 905
     },
     {
       "name": "Hambantota",
       "slug": "hambantota",
-      "image": "https://images.luxuryescapes.com/7g4sby4zoznh3y8fldd",
+      "image": "https://images.luxuryescapes.com/jgmi4b544djvkuywqogd",
       "description": "Explore Hambantota with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 507
+      "avg_price": 508
     },
     {
       "name": "Colombo",
       "slug": "colombo",
-      "image": "https://images.luxuryescapes.com/m3py84qyeqonf7hjymo",
+      "image": "https://images.luxuryescapes.com/5ozf29ng1xt0h6k7vje",
       "description": "Explore Colombo with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
@@ -42,13 +42,13 @@
       "avg_price": 509
     },
     {
-      "name": "Kuchchaveli",
-      "slug": "kuchchaveli",
-      "image": "https://images.luxuryescapes.com/ifc3rxn0lk0g053785gc",
-      "description": "Explore Kuchchaveli with luxury accommodations",
+      "name": "Balapitiya",
+      "slug": "balapitiya",
+      "image": "https://images.luxuryescapes.com/nz5h57q4p8lfbwr0gdhe",
+      "description": "Explore Balapitiya with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 559
+      "avg_price": 539
     },
     {
       "name": "Ahungalla",
@@ -57,7 +57,7 @@
       "description": "Explore Ahungalla with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 949
+      "avg_price": 952
     }
   ],
   "seo": {
