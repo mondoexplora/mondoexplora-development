@@ -4,7 +4,7 @@
   "country_code": "IT",
   "hero_title": "Hotels in Rome",
   "description": "Discover the best hotels in Rome, Italy. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/yfhsmh8qnvhgvawjnm9p",
+  "hero_image": "https://images.luxuryescapes.com/47e1ttjh9i802zkv1tqq",
   "hotels": [
     {
       "vendor_name": "Palazzo 4 Fontane 12",
@@ -17,8 +17,8 @@
       "original_price": 973,
       "discount_percentage": 59,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Toy57YAB",
-      "hero_image": "https://images.luxuryescapes.com/yfhsmh8qnvhgvawjnm9p",
-      "image_two": "https://images.luxuryescapes.com/3s3wsxeuj7op7cy0g3l",
+      "hero_image": "https://images.luxuryescapes.com/47e1ttjh9i802zkv1tqq",
+      "image_two": "https://images.luxuryescapes.com/yfhsmh8qnvhgvawjnm9p",
       "image_three": "https://images.luxuryescapes.com/l0dhwpvdoyuc0r1w9kh7",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 3,
@@ -85,8 +85,8 @@
       "title": "Historic Five-Star Rome Escape on Iconic Via Giulia",
       "description": "Embrace Roman resplendence in the heart of the city’s historic Via Giulia with a five-star stay at Hotel Indigo Rome - St. George, an IHG Hotel, masterfully positioned amid endless galleries, upscale boutiques and artisanal cafes. After days exploring the Vatican, Piazza Navona and the Pantheon - all within easy strolling distance - soak the day away at the onsite Roman baths or enjoy aperitifs and antipasti at I Sofà Bar Restaurant & Roof Terrace and savour glorious Italian sunsets.",
       "location_subheading": "Italy",
-      "price": 997,
-      "original_price": 997,
+      "price": 1011,
+      "original_price": 1011,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CuiRlAAJ",
       "hero_image": "https://images.luxuryescapes.com/zyagpli3rr1n3w464aun",
@@ -113,24 +113,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Mama Shelter Rome",
-      "offer_country_name": "Italy",
-      "location_heading": "Rome",
-      "title": "Design-Led Rome City Break near Vatican Museums with Daily Breakfast & Welcome Drink",
-      "description": "Uncover the wonders of Rome at this glamorous, design-led escape, offering a blissful retreat from the bustling streets of the Italian capital. Cosy up in dreamy bedding, sip espresso on your breezy balcony or unwind in Mama Baths, complete with a pool, sauna and steam room. When hunger calls, feast on Roman-style pizza at Mama Pizzeria, or tuck into European dishes and signature cocktails at Giardino d'Inverno & Bar. In the summer months, Rooftop Restaurant & Bar is the perfect place to soak up the famous Mediterranean sun while looking out over the vibrant cityscape. All this is just a stone’s throw away from Rome’s enchanting wonders.",
-      "location_subheading": "Italy",
-      "price": 319,
-      "original_price": 862,
-      "discount_percentage": 63,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SmBxBYAV",
-      "hero_image": "https://images.luxuryescapes.com/81xb4up64gusgo8hbms",
-      "image_two": "https://images.luxuryescapes.com/ry52a48wykr2fi03pimo",
-      "image_three": "https://images.luxuryescapes.com/1petegyksdtzuokn3g2e",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 2,
-      "end_date_utc": "2026-04-21 13:59:00"
     },
     {
       "vendor_name": "ROMANICO PALACE & SPA",
@@ -222,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-21",
-    "hotel_count": 11,
-    "average_price": 797,
-    "average_discount": 13
+    "last_updated": "2026-04-22",
+    "hotel_count": 10,
+    "average_price": 846,
+    "average_discount": 8
   }
 }

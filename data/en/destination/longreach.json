@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Longreach",
   "description": "Discover the best hotels in Longreach, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/l1jjuokxlki5cqyc9037",
+  "hero_image": "https://images.luxuryescapes.com/xhfr4ao9rm2jbi4e7z",
   "hotels": [
-    {
-      "vendor_name": "Mitchell Grass Retreat",
-      "offer_country_name": "Australia",
-      "location_heading": "Longreach",
-      "title": "Award-Winning Queensland Glamping Retreat with Two-Course Private Dinner & Smithy's Outback Dinner Show",
-      "description": "Set on Queensland’s Mitchell Grass Plains outside Longreach, this luxury glamping retreat captures the raw beauty of the Channel Country through wide-sky views, changing light across the paddocks and near-perfect stargazing after dark. Low-slung weatherproof canvas pavilions are oriented to make the most of the landscape in every direction. Spend an evening at Smithy's Outback Dinner & Show for live entertainment and camp-oven cuisine beside the coolabah-lined Thomson River, or kayak at your own pace come morning. Indulge in gourmet breakfast food with your included hamper, then enjoy a privately cooked dinner with premium wine. Heli-flight tours to Darr River Downs Station offer an authentic working cattle property experience, while the communal firepit area is the perfect spot to share stories under a canopy of stars.",
-      "location_subheading": "Australia",
-      "price": 779,
-      "original_price": 999,
-      "discount_percentage": 22,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TOgi9YAD",
-      "hero_image": "https://images.luxuryescapes.com/l1jjuokxlki5cqyc9037",
-      "image_two": "https://images.luxuryescapes.com/4xidi4qcrhj4rn885c6",
-      "image_three": "https://images.luxuryescapes.com/1bt76kyoba8v2sl1g11",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 3,
-      "end_date_utc": "2026-04-21 13:59:00"
-    },
     {
       "vendor_name": "Outback Pioneers",
       "offer_country_name": "Australia",
@@ -40,7 +22,7 @@
       "image_three": "https://images.luxuryescapes.com/od9x99yv2h623kqxi7k",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
-      "end_date_utc": "2026-04-27 13:59:00"
+      "end_date_utc": "2026-05-03 13:59:00"
     }
   ],
   "seo": {
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-21",
-    "hotel_count": 2,
-    "average_price": 1039,
-    "average_discount": 25
+    "last_updated": "2026-04-22",
+    "hotel_count": 1,
+    "average_price": 1299,
+    "average_discount": 27
   }
 }
