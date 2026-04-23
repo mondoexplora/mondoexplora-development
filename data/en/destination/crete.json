@@ -13,8 +13,8 @@
       "title": "Greek Island Beachfront Opulence with Nine Dining Venues & Olympic-Sized Pool",
       "description": "Dive into seaside sophistication at this meticulously designed resort, complete with an Olympic-sized lagoon pool, the famed Minotaur restaurant showcasing original Picasso art, and the rejuvenating Elixir Alchemy Spa. Days are full of outdoor recreation, while evenings delight with live music and magnificent sunsets on the resort's private beach. Marvel at the classic Grecian architecture surrounding the resort or take in the historic white-washed churches in the nearby village of Gouves. Explore the vibrant waterfront restaurants and shops or take a trip further afield to ancient ruins and archaeological museums, ideal for learning about the rich history of this Mediterranean paradise.",
       "location_subheading": "Greece",
-      "price": 714,
-      "original_price": 714,
+      "price": 679,
+      "original_price": 679,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HufUIAS",
       "hero_image": "https://images.luxuryescapes.com/gqg07xxgnt8ol0n5wfw",
@@ -28,14 +28,14 @@
       "vendor_name": "Creta Maris Resort",
       "offer_country_name": "Greece",
       "location_heading": "Crete",
-      "title": "Five-Star Crete Beachfront Escape with 17 Pools and 16 Onsite Restaurants & Bars",
-      "description": "Escape to the sun-kissed Greek islands and let your worries melt away at the Creta Maris Resort. Perfectly positioned on Crete's golden shores, the resort ensures that your toughest decision each day will be how to spend your time. Enjoy the 17 swimming pools, some family time with hours of fun in the Mediterranean sun at the onsite waterpark, or rejuvenate at the soothing spa. Dine across seven restaurants serving up mouthwatering dishes or enjoy a refreshing cocktail at one of the 9 bars, lounges, or grab a bite at one of the 6 snack points.",
+      "title": "Five-Star Crete Beachfront Escape with 16 Pools and 16 Onsite Restaurants & Bars",
+      "description": "Escape to the sun-kissed Greek islands and let your worries melt away at the Creta Maris Resort. Perfectly positioned on Crete's golden shores, the resort ensures that your toughest decision each day will be how to spend your time. Enjoy the 16 swimming pools, some family time with hours of fun in the Mediterranean sun at the onsite waterpark, or rejuvenate at the soothing spa. Dine across seven restaurants serving up mouthwatering dishes or enjoy a refreshing cocktail at one of the 9 bars, lounges, or grab a bite at one of the 6 snack points.",
       "location_subheading": "Greece",
       "price": 492,
       "original_price": 492,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000ED0WgAAL",
-      "hero_image": "https://images.luxuryescapes.com/y7p7yw7jaxvboj05t67",
+      "hero_image": "https://images.luxuryescapes.com/vver0n3kz8gu7roqn4j",
       "image_two": "https://images.luxuryescapes.com/dv372vxk5sddejocpeoh",
       "image_three": "https://images.luxuryescapes.com/y5h8t7r0mcclo5uaw4vg",
       "deal_tier": "Luxury Escapes - Tier 3",
@@ -113,6 +113,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Royal Marmin Bay Boutique & Art Hotel - Adults Only",
+      "offer_country_name": "Greece",
+      "location_heading": "Crete",
+      "title": "Crete Adults-Only Indulgence with Ocean Views, Daily Breakfast, Nightly Dinner & Sunset Cocktails",
+      "description": "Find pure bliss at Royal Marmin Bay Boutique & Art Hotel, an adults-only eco-luxury retreat perched above the shimmering waters of Mirabello Bay in Crete. Celebrated as Greece’s first certified energy-efficient hotel, it features 97 rooms with sweeping views across the bay toward the historic island of Spinalonga. Spend your days lounging on the hotel’s private beach, take a dip in the exquisite infinity pool, or find your zen with signature treatments at Euphoria Spa. When it’s time to indulge, taste and sip your way across two restaurants and three onsite bars, serving everything from colourful sushi to Greek specialties and poolside cocktails. Beyond the resort, take a short boat ride to Spinalonga Island, explore vibrant Agios Nikolaos with its charming lake and boutique shops, or peer into the submerged ruins of Olous shimmering beneath the crystal-clear waters just offshore.",
+      "location_subheading": "Greece",
+      "price": 539,
+      "original_price": 929,
+      "discount_percentage": 42,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UNzuLYAT",
+      "hero_image": "https://images.luxuryescapes.com/yvvnzjrjhrobzs9wj2og",
+      "image_two": "https://images.luxuryescapes.com/9c8eq5k8scl4zxfnn0ve",
+      "image_three": "https://images.luxuryescapes.com/76bnf8fdu7un2nyhociq",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-05-13 13:59:00"
     }
   ],
   "seo": {
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-22",
-    "hotel_count": 6,
-    "average_price": 685,
-    "average_discount": 2
+    "last_updated": "2026-04-23",
+    "hotel_count": 7,
+    "average_price": 659,
+    "average_discount": 8
   }
 }

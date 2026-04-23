@@ -4,8 +4,26 @@
   "country_code": "VN",
   "hero_title": "Hotels in Nha Trang",
   "description": "Discover the best hotels in Nha Trang, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/u4ufey4u1clqzmvqipzo",
+  "hero_image": "https://images.luxuryescapes.com/pmkcvc433vi7umrbs4zh",
   "hotels": [
+    {
+      "vendor_name": "Boma Resort Nha Trang",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Nha Trang",
+      "title": "Nha Trang Oceanfront Retreat with Daily Breakfast, Nightly Dinner & Cocktails",
+      "description": "Discover tranquillity and modern luxury at this refined sanctuary perched along Vietnam's eastern coastline. Spend your days unwinding with refreshing dips in the waterfront pools or lounging on the manmade beach, all while soaking in sweeping views of the dazzling South China Sea. Satisfy your taste buds with the vibrant seafood dishes Nha Trang is known for at Boma Beach Club and indulge in soothing treatments at the Sensory Spa. Little adventurers will be entertained with daily activities at the Kids' Club, leaving you free to truly relax. When you're ready to explore, the bustling Dam Market with its ocean-fresh seafood and the heritage Po Nagar Cham Towers are just moments away, and Nha Trang city is just a short drive away.",
+      "location_subheading": "Vietnam",
+      "price": 359,
+      "original_price": 1088,
+      "discount_percentage": 67,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ScQnlYAF",
+      "hero_image": "https://images.luxuryescapes.com/pmkcvc433vi7umrbs4zh",
+      "image_two": "https://images.luxuryescapes.com/5wmit6gs9stfmul1ppr",
+      "image_three": "https://images.luxuryescapes.com/hfqq1upougd1mc9zez2u",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-06-18 13:59:00"
+    },
     {
       "vendor_name": "Intercontinental Nha Trang",
       "offer_country_name": "Vietnam",
@@ -13,8 +31,8 @@
       "title": "Nha Trang Coastal Bliss with Three Swimming Pools",
       "description": "The buzzing beach town of Nha Trang offers the perfect combination of city living and coastal charms and is best enjoyed from the stylish InterContinental Nha Trang, an IHG Hotel. Enjoy superb views of the city's bay from this hotel, then visit the four bars and restaurants, including a poolside bar. Fill your days however you please: dive into one of three outdoor swimming pools or head to the day spa for a spot of pampering and unwinding.",
       "location_subheading": "Vietnam",
-      "price": 395,
-      "original_price": 395,
+      "price": 370,
+      "original_price": 370,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt80AAB",
       "hero_image": "https://images.luxuryescapes.com/u4ufey4u1clqzmvqipzo",
@@ -31,8 +49,8 @@
       "title": "Five-Star Vietnam Self-Catering Apartments Overlooking Nha Trang Bay",
       "description": "Shouldered by mountain ranges and sitting above the sparkling bay, InterContinental Residences Nha Trang is the perfect base for exploring Nha Trang. Cool off under the Vietnam sun on the pool deck, dipping in and out of the glistening pool, or take a leisurely walk to the nearby beach and soak up Nha Trang Bay vistas. Taste ocean-fresh seafood at nearby restaurants and stretch your muscles at the fitness centre, all on your doorstep.",
       "location_subheading": "Vietnam",
-      "price": 271,
-      "original_price": 271,
+      "price": 272,
+      "original_price": 272,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ew6JZAAZ",
       "hero_image": "https://images.luxuryescapes.com/6wiq04l0ohddr5oftdk",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-22",
-    "hotel_count": 5,
-    "average_price": 310,
-    "average_discount": 8
+    "last_updated": "2026-04-23",
+    "hotel_count": 6,
+    "average_price": 314,
+    "average_discount": 18
   }
 }
