@@ -133,6 +133,24 @@
       "end_date_utc": "2026-05-01 13:59:00"
     },
     {
+      "vendor_name": "The Emerald House Lisbon, Curio Collection by Hilton",
+      "offer_country_name": "Portugal",
+      "location_heading": "Lisbon",
+      "title": "Lisbon Luxury Boutique Retreat with Two-Course Dinner, Dining Credit & Daily Breakfast",
+      "description": "Step into the elegance of The Emerald House Lisbon, a beautifully restored 19th-century building perched beside the port in Portugal's capital. Combining old-world charm with eye-catching aesthetics, this urban haven - a member of Hilton's prestigious Curio Collection - claims an enviable spot in Lisbon, a short train journey from Rossio Square and the historic Alfama district. Wind your way along the city's narrow cobbled alleys, hop onboard the iconic tram, sip wine at a local tasca or dine at onsite Portuguese-Italian restaurant A Mesa. Then, return to your plush room, featuring chic emerald accents, original antiques and quiet sophistication in spades.",
+      "location_subheading": "Portugal",
+      "price": 279,
+      "original_price": 845,
+      "discount_percentage": 67,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UuqtuYAB",
+      "hero_image": "https://images.luxuryescapes.com/o3dvb96ivdhumfruzkm",
+      "image_two": "https://images.luxuryescapes.com/wlr6ns0je5fp7fyn1ppx",
+      "image_three": "https://images.luxuryescapes.com/8wz5d9n9t2p6y2977bi7",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-05-22 13:59:00"
+    },
+    {
       "vendor_name": "The One Palácio da Anunciada",
       "offer_country_name": "Portugal",
       "location_heading": "Lisbon",
@@ -186,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-23",
-    "hotel_count": 9,
-    "average_price": 478,
-    "average_discount": 17
+    "last_updated": "2026-04-24",
+    "hotel_count": 10,
+    "average_price": 458,
+    "average_discount": 22
   }
 }
