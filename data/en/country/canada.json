@@ -12,7 +12,7 @@
       "description": "Explore Toronto with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 696
+      "avg_price": 669
     },
     {
       "name": "Vancouver",
@@ -21,7 +21,7 @@
       "description": "Explore Vancouver with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 962
+      "avg_price": 1034
     },
     {
       "name": "Montreal",
@@ -30,7 +30,7 @@
       "description": "Explore Montreal with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 637
+      "avg_price": 639
     },
     {
       "name": "Banff",
@@ -48,7 +48,7 @@
       "description": "Explore Lake Louise with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1192
+      "avg_price": 1191
     },
     {
       "name": "Edmonton",
@@ -57,7 +57,7 @@
       "description": "Explore Edmonton with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 652
+      "avg_price": 662
     }
   ],
   "seo": {

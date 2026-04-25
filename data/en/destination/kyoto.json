@@ -13,8 +13,8 @@
       "title": "Kyoto Serene Urban Stay near UNESCO World Heritage-listed Nijo Castle Site",
       "description": "Near the majestic Nijo Castle UNESCO heritage site, ANA Crowne Plaza Kyoto, an IHG Hotel, is a tranquil urban escape with stunning views of greenery and seasonal beauty. Take a calming walk through the Nijo Castle grounds while admiring verdant gardens and imposing stone walls. Dine at the multiple onsite restaurants, offering gastronomic greatness. As the day ends, retire to a tranquil guest room that combines refined minimalism with modern comfort for a sound slumber.",
       "location_subheading": "Japan",
-      "price": 260,
-      "original_price": 260,
+      "price": 332,
+      "original_price": 332,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CPub3AAD",
       "hero_image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Banyan Tree Higashiyama Kyoto",
+      "offer_country_name": "Japan",
+      "location_heading": "Kyoto",
+      "title": "Kyoto Luxury in Gion District with Breakfast, Nightly Free-Flow Cocktail Hour & One Child Stays Free",
+      "description": "Nestled on a hillside beside the Kiyomizu-dera Temple and surrounded by a bamboo forest, Banyan Tree Higashiyama Kyoto offers a retreat in the heart of Japan’s cultural capital. This newly opened boutique hotel brings together the spirit of a traditional ryokan with contemporary luxury, offering a rare sense of tranquillity just moments from the atmospheric streets of Gion. With just 52 spacious rooms, each elegantly styled with modern Japanese design and sweeping views of Kyoto’s historic cityscape, the hotel offers a heightened sense of privacy, exclusivity and calm. Select rooms feature private onsen baths, while shared indoor-outdoor thermal baths draw from natural hot springs. Guests can unwind with award-winning treatments at the Banyan Tree Spa, enjoy haute Japanese cuisine and curated sake pairings at Ryozen Kaiseki or sip handcrafted cocktails in the bar. The property is also Kyoto’s only hotel to feature a Noh stage, offering curated cultural performances, and the only hotel with a Bamboo Pavilion.",
+      "location_subheading": "Japan",
+      "price": 41199,
+      "original_price": 41199,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UB3isYAD",
+      "hero_image": "https://images.luxuryescapes.com/c5ovo565jmtn8pnifuq9",
+      "image_two": "https://images.luxuryescapes.com/qr0u5y8yprduneyiy2smn",
+      "image_three": "https://images.luxuryescapes.com/ypttps8de9ie7gqp7ag9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-05-18 13:59:00"
     },
     {
       "vendor_name": "Capella Kyoto",
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-24",
-    "hotel_count": 6,
-    "average_price": 1259,
+    "last_updated": "2026-04-25",
+    "hotel_count": 7,
+    "average_price": 6975,
     "average_discount": 0
   }
 }

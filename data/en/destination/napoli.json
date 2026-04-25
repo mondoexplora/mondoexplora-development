@@ -1,0 +1,50 @@
+{
+  "city": "Napoli",
+  "country": "Italy",
+  "country_code": "IT",
+  "hero_title": "Hotels in Napoli",
+  "description": "Discover the best hotels in Napoli, Italy. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/f85gslnlbiv4k5cgyw4x",
+  "hotels": [
+    {
+      "vendor_name": "Unahotel Napoli",
+      "offer_country_name": "Italy",
+      "location_heading": "Napoli",
+      "title": "Boutique Design Escape in the Heart of Naples with Rooftop Bar Overlooking Mount Vesuvius",
+      "description": "The soul-stirring beauty and elegant architecture of Naples are yours to explore from the stylish UNA Hotels Napoli. Housed in a restored historic building near the Porto neighbourhood, the hotel offers sweeping views over Italy’s oldest streets and frescoes, just a short walk from the city’s main attractions. Guests can enjoy authentic Italian hospitality at the rooftop Vesuvio Roof Bar & Restaurant, with home-cooked dishes, an extensive wine list and panoramic views of Mount Vesuvius. Nearby, explore Porta Nolana, Basilica della Santissima Annunziata Maggiore and Santa Maria Egiziaca a Forcella, or catch a train from Napoli Centrale to venture further afield.",
+      "location_subheading": "Italy",
+      "price": 432,
+      "original_price": 514,
+      "discount_percentage": 16,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000005I5lvAAC",
+      "hero_image": "https://images.luxuryescapes.com/f85gslnlbiv4k5cgyw4x",
+      "image_two": "https://images.luxuryescapes.com/obe7gev68ov2lyydrm8j",
+      "image_three": "https://images.luxuryescapes.com/d4xc010q2r3qf3jn7ty",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Napoli - Italy Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Napoli, Italy with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "napoli hotels",
+      "napoli travel",
+      "italy hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/napoli",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/napoli",
+      "es": "https://mondoexplora.com/es/destination/napoli",
+      "fr": "https://mondoexplora.com/fr/destination/napoli",
+      "it": "https://mondoexplora.com/it/destination/napoli"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-04-25",
+    "hotel_count": 1,
+    "average_price": 432,
+    "average_discount": 16
+  }
+}
