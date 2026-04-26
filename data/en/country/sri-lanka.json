@@ -3,16 +3,16 @@
   "code": "LK",
   "hero_title": "Sri Lanka Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Sri Lanka.",
-  "hero_image": "https://images.luxuryescapes.com/pvt6ytekdhc6y95lbze",
+  "hero_image": "https://images.luxuryescapes.com/64gnmm9rrfiy2v32ir5r",
   "popular_destinations": [
     {
       "name": "Kandy",
       "slug": "kandy",
-      "image": "https://images.luxuryescapes.com/pvt6ytekdhc6y95lbze",
+      "image": "https://images.luxuryescapes.com/64gnmm9rrfiy2v32ir5r",
       "description": "Explore Kandy with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 908
+      "avg_price": 906
     },
     {
       "name": "Weligama",
@@ -21,7 +21,7 @@
       "description": "Explore Weligama with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1265
+      "avg_price": 1263
     },
     {
       "name": "Hambantota",
@@ -30,7 +30,7 @@
       "description": "Explore Hambantota with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 509
+      "avg_price": 508
     },
     {
       "name": "Colombo",
