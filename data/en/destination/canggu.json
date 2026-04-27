@@ -46,24 +46,6 @@
       "vendor_name": "Canggu Cabana Resort by Ini Vie Hospitality",
       "offer_country_name": "Indonesia",
       "location_heading": "Canggu",
-      "title": "Canggu All-Suite Escape with Daily Breakfast, Daily Lunch or Dinner & Nightly Free-Flow Cocktail Hour",
-      "description": "Discover bliss at this sophisticated collection of suites designed to deliver you Bali’s best. You’ll be just moments from some of Canggu’s hottest spots, including The Lawn and Old Man day clubs, as well as the region's legendary dining experiences. Return to moments of laid-back luxury in your ultra-modern suite, masterfully designed to offer sweeping views of lush gardens or the endlessly shining Indian Ocean, perfect for savouring Bali's famous sunset. Begin each morning with a dip in the gently curving infinity pool, breathtaking yoga on the resort’s rooftop or head to the wellness centre, Svaha Spa Nelayan, for massages and holistic treatments backed by timeless tradition. For mouth-watering Mediterranean flavours, then look no further than the electric Seabird Restaurant, dishing up international favourites all day long.",
-      "location_subheading": "Indonesia",
-      "price": 539,
-      "original_price": 1418,
-      "discount_percentage": 62,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RvuZ0YAJ",
-      "hero_image": "https://images.luxuryescapes.com/uxfn8om39df7jmez4rf",
-      "image_two": "https://images.luxuryescapes.com/e3yt8oe2f7cs3st6t36wj",
-      "image_three": "https://images.luxuryescapes.com/j68qrts3e33197duzna",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 5,
-      "end_date_utc": "2026-05-09 13:59:00"
-    },
-    {
-      "vendor_name": "Canggu Cabana Resort by Ini Vie Hospitality",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Canggu",
       "title": "Beachfront Canggu Suite Escape with Restaurant & Spa",
       "description": "Discover bliss at this boutique five-star beachfront Canggu oasis. You’ll be just moments from some of Canggu’s hottest spots, including The Lawn and Old Man day clubs, as well as the region's legendary dining experiences. Begin each morning with a dip in the gently curving infinity pool, dine at Seabird Restaurant or head to the resort’s wellness centre, Svaha Spa Nelayan, for massages and holistic treatments backed by timeless tradition.",
       "location_subheading": "Indonesia",
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Canggu Cabana Resort by Ini Vie Hospitality",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Canggu",
+      "title": "Canggu All-Suite Escape with Daily Breakfast, Daily Lunch or Dinner & Nightly Free-Flow Cocktail Hour",
+      "description": "Discover bliss at this sophisticated collection of suites designed to deliver you Bali’s best. You’ll be just moments from some of Canggu’s hottest spots, including The Lawn and Old Man day clubs, as well as the region's legendary dining experiences. Return to moments of laid-back luxury in your ultra-modern suite, masterfully designed to offer sweeping views of lush gardens or the endlessly shining Indian Ocean, perfect for savouring Bali's famous sunset. Begin each morning with a dip in the gently curving infinity pool, breathtaking yoga on the resort’s rooftop or head to the wellness centre, Svaha Spa Nelayan, for massages and holistic treatments backed by timeless tradition. For mouth-watering Mediterranean flavours, then look no further than the electric Seabird Restaurant, dishing up international favourites all day long.",
+      "location_subheading": "Indonesia",
+      "price": 539,
+      "original_price": 1418,
+      "discount_percentage": 62,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RvuZ0YAJ",
+      "hero_image": "https://images.luxuryescapes.com/uxfn8om39df7jmez4rf",
+      "image_two": "https://images.luxuryescapes.com/e3yt8oe2f7cs3st6t36wj",
+      "image_three": "https://images.luxuryescapes.com/j68qrts3e33197duzna",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-05-09 13:59:00"
     },
     {
       "vendor_name": "Hotel Tugu Bali",
@@ -204,7 +204,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-26",
+    "last_updated": "2026-04-27",
     "hotel_count": 10,
     "average_price": 811,
     "average_discount": 22

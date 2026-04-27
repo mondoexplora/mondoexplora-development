@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Bower Byron Bay",
+      "offer_country_name": "Australia",
+      "location_heading": "Byron Bay",
+      "title": "Boutique Byron Bay Coastal Escape with Daily Drinks, Outdoor Pool & Spa",
+      "description": "The Bower Byron Bay brings boutique design to Byron's coastal scene, minutes from the beach and the town's thriving restaurant strip. This reimagined boutique resort wraps Byron Bay's soulful coastal lifestyle in a layer of effortless New York-style sophistication. At the heart of it all sits the outdoor heated magnesium pool, surrounded by lush greenery. Unwind at The Bower Hotel Spa with an expansive spa menu, including soothing facials and relaxing full-body massages. Mornings might start with a cycle to the Thursday farmers' markets or a stroll down to the beach for a sunrise swim, before rolling back for an afternoon by the pool. With local breweries, Cape Byron's iconic lighthouse and endless stretches of sand all within easy reach, so you're perfectly positioned to explore Byron's best - or simply claim a sunlounger and let the world slow down around you.",
+      "location_subheading": "Australia",
+      "price": 299,
+      "original_price": 482,
+      "discount_percentage": 38,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UAsh1YAD",
+      "hero_image": "https://images.luxuryescapes.com/b3mdhwlvlwvw2nap8n5",
+      "image_two": "https://images.luxuryescapes.com/3jtje5oaponek5tpuft",
+      "image_three": "https://images.luxuryescapes.com/xlw4mji9g7qqnfw70o18",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-05-25 13:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-26",
-    "hotel_count": 1,
-    "average_price": 504,
-    "average_discount": 17
+    "last_updated": "2026-04-27",
+    "hotel_count": 2,
+    "average_price": 402,
+    "average_discount": 28
   }
 }
