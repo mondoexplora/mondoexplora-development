@@ -28,24 +28,6 @@
       "vendor_name": "Kouros Hotel & Suites, Mykonos",
       "offer_country_name": "Greece",
       "location_heading": "Mykonos",
-      "title": "Mykonos Sea-View Suites with Daily Breakfast, Nightly Cocktails & Return Airport Transfers",
-      "description": "Succumb to the charms of the Aegean with a romantic five-star escape to the dreamy Greek island of Mykonos. Inspired by the breathtaking beauty of the surrounding Cyclades islands, this haven promises modern luxury with a glittering sun-drenched pool overlooking the translucent blue sea, idyllic wellness studio and holistic spa. Take a culinary journey through Mykonos’ history at Narcissus, the resort’s signature alfresco restaurant, where a seductive menu combines traditional Greek flavours with modern fine dining, or treat yourself to Mediterranean favourites at the relaxed Bites Pool Restaurant. On the shores of magnificent Mykonos, Kouros Hotel & Suites promises pure pampering with refreshing Grecian flair.",
-      "location_subheading": "Greece",
-      "price": 599,
-      "original_price": 1872,
-      "discount_percentage": 68,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TunoYYAR",
-      "hero_image": "https://images.luxuryescapes.com/m44j7kd9kjz38ot9c31k",
-      "image_two": "https://images.luxuryescapes.com/dkvq2dx4ilq5zxdrys",
-      "image_three": "https://images.luxuryescapes.com/umob6yon944p1pshdbl",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 3,
-      "end_date_utc": "2026-05-18 13:59:00"
-    },
-    {
-      "vendor_name": "Kouros Hotel & Suites, Mykonos",
-      "offer_country_name": "Greece",
-      "location_heading": "Mykonos",
       "title": "Mykonos Boutique Opulence w. Guaranteed Ocean Views, Infinity Pool & Onsite Restaurants",
       "description": "Experience the charm of the Aegean Sea with a luxurious stay at the five-star, boutique Kouros Hotel & Suites, a sanctuary steps from the lively heart of Mykonos Town. Nestled within a stunning whitewashed Cycladic building on a cliffside, this resort redefines Grecian luxury. Delight in modern indulgences, including a sparkling pool with breathtaking sea views, a state-of-the-art wellness studio for invigorating workouts and a holistic spa offering unparalleled relaxation. Discover the island's culinary treasures at Narcissus Fine Dining, where traditional Greek flavours meet innovative gastronomy, or savour Mediterranean favourites at the casual Bites Pool Restaurant.",
       "location_subheading": "Greece",
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Kouros Hotel & Suites, Mykonos",
+      "offer_country_name": "Greece",
+      "location_heading": "Mykonos",
+      "title": "Mykonos Sea-View Suites with Daily Breakfast, Nightly Cocktails & Return Airport Transfers",
+      "description": "Succumb to the charms of the Aegean with a romantic five-star escape to the dreamy Greek island of Mykonos. Inspired by the breathtaking beauty of the surrounding Cyclades islands, this haven promises modern luxury with a glittering sun-drenched pool overlooking the translucent blue sea, idyllic wellness studio and holistic spa. Take a culinary journey through Mykonos’ history at Narcissus, the resort’s signature alfresco restaurant, where a seductive menu combines traditional Greek flavours with modern fine dining, or treat yourself to Mediterranean favourites at the relaxed Bites Pool Restaurant. On the shores of magnificent Mykonos, Kouros Hotel & Suites promises pure pampering with refreshing Grecian flair.",
+      "location_subheading": "Greece",
+      "price": 599,
+      "original_price": 1872,
+      "discount_percentage": 68,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TunoYYAR",
+      "hero_image": "https://images.luxuryescapes.com/m44j7kd9kjz38ot9c31k",
+      "image_two": "https://images.luxuryescapes.com/dkvq2dx4ilq5zxdrys",
+      "image_three": "https://images.luxuryescapes.com/umob6yon944p1pshdbl",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-05-18 13:59:00"
     },
     {
       "vendor_name": "Myconian O",
@@ -168,7 +168,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-04-28",
     "hotel_count": 8,
     "average_price": 779,
     "average_discount": 29
