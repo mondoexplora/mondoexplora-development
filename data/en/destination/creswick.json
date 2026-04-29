@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Creswick",
   "description": "Discover the best hotels in Creswick, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ggxh1hx4owk55fm0suh",
+  "hero_image": "https://images.luxuryescapes.com/qmjxjhow8oaqr73gb41",
   "hotels": [
+    {
+      "vendor_name": "The Sebel Forest Resort Creswick",
+      "offer_country_name": "Australia",
+      "location_heading": "Creswick",
+      "title": "Secluded Self-Contained Apartment Stay near Ballarat & Daylesford with Forest Views & Fireplace",
+      "description": "Nestled in the heart of Victoria’s forested Goldfields region, The Sebel Creswick Forest Resort offers a tranquil escape surrounded by towering trees and serene walking trails. Take a short drive to explore the charming towns of Creswick and Ballarat, sample award-winning drops at local wineries including Meredith Wines and Eastern Peake Vineyard, or enjoy a soothing session at the renowned Hepburn Bathhouse & Spa. The resort’s peaceful setting invites relaxation, with nature at your doorstep and the fresh forest air setting the scene for a rejuvenating stay. Each apartment is designed for comfort and connection to the outdoors, featuring open-plan living spaces, a cosy fireplace and a balcony with sweeping views. After days exploring the region, unwind with a glass of local wine, soak in the lavish bathtub or curl up by the fire as evening settles over the treetops.",
+      "location_subheading": "Australia",
+      "price": 440,
+      "original_price": 440,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000M5lV7YAJ",
+      "hero_image": "https://images.luxuryescapes.com/qmjxjhow8oaqr73gb41",
+      "image_two": "https://images.luxuryescapes.com/3r3wird2nlt1zrzwdur",
+      "image_three": "https://images.luxuryescapes.com/trmipae9t46q5hizmp1n",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "The Sebel Forest Resort Creswick",
       "offer_country_name": "Australia",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 3,
       "end_date_utc": "2026-05-28 13:59:00"
-    },
-    {
-      "vendor_name": "The Sebel Forest Resort Creswick",
-      "offer_country_name": "Australia",
-      "location_heading": "Creswick",
-      "title": "Secluded Self-Contained Apartment Stay near Ballarat & Daylesford with Forest Views & Fireplace",
-      "description": "Nestled in the heart of Victoria’s forested Goldfields region, The Sebel Creswick Forest Resort offers a tranquil escape surrounded by towering trees and serene walking trails. Take a short drive to explore the charming towns of Creswick and Ballarat, sample award-winning drops at local wineries including Meredith Wines and Eastern Peake Vineyard, or enjoy a soothing session at the renowned Hepburn Bathhouse & Spa. The resort’s peaceful setting invites relaxation, with nature at your doorstep and the fresh forest air setting the scene for a rejuvenating stay. Each apartment is designed for comfort and connection to the outdoors, featuring open-plan living spaces, a cosy fireplace and a balcony with sweeping views. After days exploring the region, unwind with a glass of local wine, soak in the lavish bathtub or curl up by the fire as evening settles over the treetops.",
-      "location_subheading": "Australia",
-      "price": 437,
-      "original_price": 437,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000M5lV7YAJ",
-      "hero_image": "https://images.luxuryescapes.com/qmjxjhow8oaqr73gb41",
-      "image_two": "https://images.luxuryescapes.com/3r3wird2nlt1zrzwdur",
-      "image_three": "https://images.luxuryescapes.com/trmipae9t46q5hizmp1n",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-28",
+    "last_updated": "2026-04-29",
     "hotel_count": 2,
-    "average_price": 383,
+    "average_price": 385,
     "average_discount": 34
   }
 }

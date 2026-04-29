@@ -12,7 +12,7 @@
       "description": "Explore Manila with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 386
+      "avg_price": 384
     },
     {
       "name": "Boracay",
@@ -21,7 +21,7 @@
       "description": "Explore Boracay with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 690
+      "avg_price": 687
     },
     {
       "name": "Panglao",
@@ -30,16 +30,16 @@
       "description": "Explore Panglao with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 509
+      "avg_price": 508
     },
     {
       "name": "Cebu",
       "slug": "cebu",
-      "image": "https://images.luxuryescapes.com/j6pgli3oecid7kwbn2n",
+      "image": "https://images.luxuryescapes.com/owtefzap3cyguysypil",
       "description": "Explore Cebu with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 597
+      "avg_price": 596
     },
     {
       "name": "Mactan",
@@ -48,7 +48,7 @@
       "description": "Explore Mactan with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 591
+      "avg_price": 589
     },
     {
       "name": "Mactan Island",
@@ -57,7 +57,7 @@
       "description": "Explore Mactan Island with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 308
+      "avg_price": 307
     }
   ],
   "seo": {
