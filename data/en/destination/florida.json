@@ -4,8 +4,26 @@
   "country_code": "US",
   "hero_title": "Hotels in Florida",
   "description": "Discover the best hotels in Florida, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/tdtsgjze1oytb17zdf4g",
+  "hero_image": "https://images.luxuryescapes.com/dssecaycu2x2thk7pr",
   "hotels": [
+    {
+      "vendor_name": "One Ocean Resort & Spa",
+      "offer_country_name": "United States",
+      "location_heading": "Florida",
+      "title": "Florida Oceanfront Retreat with Luxury Day Spa, Outdoor Swimming Pool & Onsite Restaurant",
+      "description": "A sophisticated Floridian sojourn awaits at this lavish seaside retreat, located on the shores of the pristine Atlantic Beach. One Ocean Resort & Spa claims a prime position just steps from the sparkling shoreline and the vibrant Beaches Town Centre, brimming with eclectic boutiques, art galleries, and gourmet dining. Enjoy the freshest seafood at the upscale Azurea restaurant, or indulge in a rejuvenating treatment at the world-class spa. Explore the nearby Kathryn Abbey Hanna Park, renowned for its scenic trails and freshwater lake, or take a short drive to Jacksonville for a wealth of cultural attractions. The resort also offers a state-of-the-art fitness centre and an outdoor pool overlooking the Atlantic Ocean.",
+      "location_subheading": "United States",
+      "price": 890,
+      "original_price": 890,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ci6M9YAJ",
+      "hero_image": "https://images.luxuryescapes.com/dssecaycu2x2thk7pr",
+      "image_two": "https://images.luxuryescapes.com/7t41vokcfpg9nckq36i",
+      "image_three": "https://images.luxuryescapes.com/e0kd5zu4bjbg206kamug",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Hawks Cay Resort",
       "offer_country_name": "United States",
@@ -31,8 +49,8 @@
       "title": "Beachfront Florida Resort Stay near Everglades National Park",
       "description": "The warm climate, glorious golden beaches and sapphire waters of Florida’s Gulf Coast beckon - and you are invited to stay at the luxurious Naples Grande Beach Resort. This breathtaking, 23-acre beachfront resort offers a delightful taste of what southern elegance in a lush tropical setting. Couples will love the resort’s modern rooms and stylish spa, while families can make the most of the resort facilities, including three outdoor pools, a thrilling waterslide and private beach. If you can tear yourself away from the exceptional restaurants and bars, 18-hole championship golf course and tournament-grade tennis courts, you'll find yourself perfectly located to explore the UNESCO World Heritage-listed Everglades National Park, a Florida icon, and perhaps spot some of its resident alligators and manatees.",
       "location_subheading": "United States",
-      "price": 1367,
-      "original_price": 1367,
+      "price": 1368,
+      "original_price": 1368,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000008JDCQAA4",
       "hero_image": "https://images.luxuryescapes.com/djjtwdhnmegutg9r9n8",
@@ -85,8 +103,8 @@
       "title": "Florida Captiva Island Bayside Resort with Onsite Dining, Pools & Golf Course",
       "description": "Unwind in tropical paradise at this inviting bayside retreat, located on a 330-acre wildlife preserve on Florida's Captiva Island. Just a stone's throw from the pristine white sands of the Gulf of Mexico, this beachfront oasis offers a wealth of activities for adventure and nature lovers alike, from water sports and fishing to cycling and nature walks. Dine on fresh seafood at Redfish Grill, or enjoy a casual meal at the poolside Scoops and Slices. Explore the island's charming boutiques and art galleries, or take a short drive to the J.N. \\\"Ding\\\" Darling National Wildlife Refuge. With a shiny spa, waterpark and golf course onsite, this is the perfect escape for families of all sizes.",
       "location_subheading": "United States",
-      "price": 889,
-      "original_price": 977,
+      "price": 890,
+      "original_price": 978,
       "discount_percentage": 9,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HvjhIAC",
       "hero_image": "https://images.luxuryescapes.com/26fkl8vk4clbei2byni",
@@ -103,8 +121,8 @@
       "title": "Boutique Orlando Florida Stay with Daily Breakfast, Heated Pool & Room Upgrade",
       "description": "Just a short stroll from Park Avenue, relish in the stylish boutique feel of The Alfond Inn at Rollins College, Winter Park's premier hotel. Blending warm hospitality with local care, the hotel donates all profits towards Rollins College Scholarships. Boasting 183 rooms, two pools, two fitness centres, and an onsite cafe, the hotel’s welcoming and modern interior invites you to set your own pace. Take advantage of prime location with a quick trip downtown, or stay in and dine on locally sourced, Southern fare with a modern twist at Hamilton’s Kitchen.",
       "location_subheading": "United States",
-      "price": 793,
-      "original_price": 793,
+      "price": 794,
+      "original_price": 794,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007lZP1AAM",
       "hero_image": "https://images.luxuryescapes.com/lvztb9vdkfzcg4eb48ke",
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-29",
-    "hotel_count": 6,
-    "average_price": 924,
+    "last_updated": "2026-04-30",
+    "hotel_count": 7,
+    "average_price": 919,
     "average_discount": 3
   }
 }

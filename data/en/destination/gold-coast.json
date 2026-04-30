@@ -172,24 +172,6 @@
       "vendor_name": "Sea World Resort",
       "offer_country_name": "Australia",
       "location_heading": "Gold Coast",
-      "title": "Bestselling Sea World Resort for Ultimate Family Fun",
-      "description": "Treat the family to the ultimate Gold Coast adventure with a stay at Sea World Resort, located on the glittering Gold Coast’s Main Beach, adjacent to Sea World. Discover adrenaline-pumping action and uncover underwater mysteries at The New Atlantis, Sea World's newest and most immersive entertainment precinct, featuring a host of brand-new attractions - experience sky-high thrills on iconic wooden coaster The Leviathan, brave the colossal currents of the Vortex and decipher ancient glyphs in The Garden of Cyphers. Little ones can make a splash at the SpongeBob aqua play area, while adults can unwind at luxury onsite spa Sea World Resort Relaxation Corporation. Finish carefree days at the award-winning Hatsuhana Japanese Restaurant, pull up a seat at Shoreline Restaurant for bites inspired by the ocean or soak up some sun at Boatshed Bar & Grill.",
-      "location_subheading": "Australia",
-      "price": 531,
-      "original_price": 531,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009CpurAAC",
-      "hero_image": "https://images.luxuryescapes.com/r7hp5mibbqfzc6y1iuz",
-      "image_two": "https://images.luxuryescapes.com/76m699i93cd9c67k3zt",
-      "image_three": "https://images.luxuryescapes.com/le9zgoidylj3xllprpec",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Sea World Resort",
-      "offer_country_name": "Australia",
-      "location_heading": "Gold Coast",
       "title": "Bestselling Gold Coast Resort with Unlimited Entry for Up to Four Guests to Four Theme Parks & Daily A$100 Dining Credit",
       "description": "Treat the family to the ultimate Gold Coast adventure with a stay at this bestselling resort, located on the glittering Main Beach. Included in your escape is unlimited theme park entry for four to Sea World, Warner Bros. Movie World, Wet’n’Wild and Paradise Country (plus lots of bonus inclusions) - valued at almost A$800 for four guests. Visit the resort’s neighbouring marine life at Sea World and discover The New Atlantis, Sea World’s latest immersive entertainment precinct. Here you’ll experience sky-high thrills on The Trident, conquer the mighty wooden coaster Leviathan, and brave the colossal currents of the Vortex - plus, you can meet your favourite Nickelodeon characters. Next up, visit Warner Bros. Movie World, home to DC Rivals HyperCoaster, the tallest, longest and fastest ride in the Southern Hemisphere. Explore the enchanting new Wizard of Oz™ Precinct and follow the Yellow Brick Road to two family-friendly coasters filled with colour & adventure. After, the pure fun of Australia’s biggest and most extreme water slides at Wet‘n’Wild await. Plus, get up close to unique Australian wildlife with entry to Paradise Country. After theme park days, the sun-drenched Gold Coast has iconic beaches, gorgeous hinterland trails and top-notch dining to experience. Make time to kick back at the resort’s award-winning Hatsuhana Japanese Restaurant, pull up a seat at the onsite Shoreline Restaurant for a buffet inspired by the ocean, feast on mouthwatering pizza at Melrose Italian or soak up the sun at the lagoon pool and Aqua Playground.",
       "location_subheading": "Australia",
@@ -203,6 +185,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 4,
       "end_date_utc": "2026-05-20 13:59:00"
+    },
+    {
+      "vendor_name": "Sea World Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Gold Coast",
+      "title": "Bestselling Sea World Resort for Ultimate Family Fun",
+      "description": "Treat the family to the ultimate Gold Coast adventure with a stay at Sea World Resort, located on the glittering Gold Coast’s Main Beach, adjacent to Sea World. Discover adrenaline-pumping action and uncover underwater mysteries at The New Atlantis, Sea World's newest and most immersive entertainment precinct, featuring a host of brand-new attractions - experience sky-high thrills on iconic wooden coaster The Leviathan, brave the colossal currents of the Vortex and decipher ancient glyphs in The Garden of Cyphers. Little ones can make a splash at the SpongeBob aqua play area, while adults can unwind at luxury onsite spa Sea World Resort Relaxation Corporation. Finish carefree days at the award-winning Hatsuhana Japanese Restaurant, pull up a seat at Shoreline Restaurant for bites inspired by the ocean or soak up some sun at Boatshed Bar & Grill.",
+      "location_subheading": "Australia",
+      "price": 531,
+      "original_price": 531,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009CpurAAC",
+      "hero_image": "https://images.luxuryescapes.com/r7hp5mibbqfzc6y1iuz",
+      "image_two": "https://images.luxuryescapes.com/76m699i93cd9c67k3zt",
+      "image_three": "https://images.luxuryescapes.com/le9zgoidylj3xllprpec",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "The Darling - The Star Gold Coast",
@@ -312,7 +312,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-29",
+    "last_updated": "2026-04-30",
     "hotel_count": 16,
     "average_price": 560,
     "average_discount": 8
