@@ -61,6 +61,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Palazzo Castri 1874",
+      "offer_country_name": "Italy",
+      "location_heading": "Florence",
+      "title": "Romantic Florence Escape near the Duomo with Daily Breakfast, Daily Dining Credit & Spa Access",
+      "description": "This hideaway is where discreet luxury and Italian romance intertwine in the heart of Florence. Wake up to lemon and magnolia scents from the La Limonaia secret garden, sip morning espresso overlooking the beautiful 1,000-square-metre private grounds, then surrender to the spa's hydromassage bliss and Turkish bath dreams. This is la dolce vita, redefined. Treat yourself to freshly-baked pastries at breakfast, local wines and handcrafted cocktails at Florentia, or an indulgent spa session finished with a herbal tea. Just a short stroll from Florence's iconic Cathedral of Santa Maria del Fiore, this boutique beauty is your gateway to the city's magic. Whether you're museum-hopping or melting into a Maria Galland massage, this is where memories are made.",
+      "location_subheading": "Italy",
+      "price": 329,
+      "original_price": 997,
+      "discount_percentage": 67,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000U3UhpYAF",
+      "hero_image": "https://images.luxuryescapes.com/7nkjmoexsp9ikxx7kvb",
+      "image_two": "https://images.luxuryescapes.com/00ylrt8039xaws73iq9w",
+      "image_three": "https://images.luxuryescapes.com/9uvfym6c2t5qu03h9bfq",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-05-22 13:59:00"
+    },
+    {
       "vendor_name": "Palazzo Firenze by Baglioni Hotels & Resorts",
       "offer_country_name": "Italy",
       "location_heading": "Florence",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-01",
-    "hotel_count": 4,
-    "average_price": 596,
-    "average_discount": 0
+    "last_updated": "2026-05-02",
+    "hotel_count": 5,
+    "average_price": 543,
+    "average_discount": 13
   }
 }

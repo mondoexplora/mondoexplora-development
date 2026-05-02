@@ -13,8 +13,8 @@
       "title": "Byron Bay Eco-Luxury Retreat Amidst Tranquil Rainforest with Indulgent Spa & Forest-Themed Restaurant",
       "description": "Celebrate a harmony of nature and contemporary elegance at this five-star eco-conscious sanctuary nestled amid 45 acres of lush subtropical rainforest in the heart of Byron Bay. Immerse yourself in the serenity of verdant foliage, savour the flavours of locally sourced cuisine at Forest which boasts an onsite herb garden and offers biodynamic wines and rejuvenate your senses at the world-class Eléme Spa. If you wish to venture out, Byron Bay's vibrant town centre and the renowned beaches of Tallow and Pass are a short drive away.",
       "location_subheading": "Australia",
-      "price": 554,
-      "original_price": 667,
+      "price": 547,
+      "original_price": 659,
       "discount_percentage": 17,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000IeEAjAAN",
       "hero_image": "https://images.luxuryescapes.com/7d4397iqqbb1w9u5sm",
@@ -41,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-05-25 13:59:00"
+    },
+    {
+      "vendor_name": "The Brooklet",
+      "offer_country_name": "Australia",
+      "location_heading": "Byron Bay",
+      "title": "Byron Bay Hinterland Adults-Only Luxury with One-, Two-, & Three-Bedroom Villas",
+      "description": "Spread across 125 acres of Byron Bay hinterland, The Brooklet is an adults-only retreat where oversized luxury villas and sweeping views set the tone for a deeply restorative stay. Find your favourite spot between the 25-metre heated mineral pool, hot tub, sauna, ice bath and tennis court, then retreat to your private abode amid lush landscapes. For all its sense of seclusion, The Brooklet still places you within easy reach of the region’s best-known spots, from the village charm of Newrybar and Bangalow to the beaches, boutiques and dining of Byron Bay. It feels blissfully removed, yet close enough to dip into the coast before retreating to the calm of the hinterland.",
+      "location_subheading": "Australia",
+      "price": 479,
+      "original_price": 921,
+      "discount_percentage": 48,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TrZADYA3",
+      "hero_image": "https://images.luxuryescapes.com/uc6inqcxwmzcpejeuhfq",
+      "image_two": "https://images.luxuryescapes.com/gdwyrqvihf4om8ssjn7",
+      "image_three": "https://images.luxuryescapes.com/jsf5yq7iwavupo8vebm",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-05-29 13:59:00"
     }
   ],
   "seo": {
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-01",
-    "hotel_count": 2,
-    "average_price": 427,
-    "average_discount": 28
+    "last_updated": "2026-05-02",
+    "hotel_count": 3,
+    "average_price": 442,
+    "average_discount": 34
   }
 }
