@@ -19,6 +19,71 @@
   status = 200
 
 [[redirects]]
+  from = "/de"
+  to = "/de.html"
+  status = 200
+
+[[redirects]]
+  from = "/de/*"
+  to = "/de/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/fr"
+  to = "/fr.html"
+  status = 200
+
+[[redirects]]
+  from = "/fr/*"
+  to = "/fr/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/es"
+  to = "/es.html"
+  status = 200
+
+[[redirects]]
+  from = "/es/*"
+  to = "/es/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/it"
+  to = "/it.html"
+  status = 200
+
+[[redirects]]
+  from = "/it/*"
+  to = "/it/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/pt"
+  to = "/pt.html"
+  status = 200
+
+[[redirects]]
+  from = "/pt/*"
+  to = "/pt/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/api/tracking/visit"
+  to = "/.netlify/functions/tracking-visit"
+  status = 200
+
+[[redirects]]
+  from = "/api/tracking/outbound-click"
+  to = "/.netlify/functions/tracking-outbound-click"
+  status = 200
+
+[[redirects]]
+  from = "/api/tracking/health"
+  to = "/.netlify/functions/tracking-health"
+  status = 200
+
+[[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200 

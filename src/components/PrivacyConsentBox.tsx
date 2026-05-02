@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { emitConsentChanged } from '@/lib/trackingBackend';
 
 interface PrivacyConsentBoxProps {
   lang?: string;
@@ -50,7 +51,7 @@ export default function PrivacyConsentBox({ lang = 'en' }: PrivacyConsentBoxProp
     if (typeof window !== 'undefined' && (window as any).trackingManager) {
       (window as any).trackingManager.setConsent(consent);
     }
-    
+    emitConsentChanged();
     alert(getTexts().successMessage);
   };
 
@@ -78,7 +79,7 @@ export default function PrivacyConsentBox({ lang = 'en' }: PrivacyConsentBoxProp
         personalization: false,
       });
     }
-    
+    emitConsentChanged();
     alert(getTexts().rejectMessage);
   };
 

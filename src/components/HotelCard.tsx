@@ -3,6 +3,7 @@
 import { Hotel } from '@/types';
 import { useState } from 'react';
 import { trackingManager } from '@/lib/trackingManager';
+import { appendOutboundTrackingUrl } from '@/lib/trackingBackend';
 
 interface HotelCardProps {
   hotel: Hotel;
@@ -13,41 +14,39 @@ interface HotelCardProps {
 export default function HotelCard({ hotel, onViewDeal, lang = 'en' }: HotelCardProps) {
   const [imageError, setImageError] = useState(false);
 
+  const openAffiliate = async () => {
+    trackingManager.trackHotelView(hotel.title, hotel.price, hotel.location_heading);
+    const url = await appendOutboundTrackingUrl(hotel.link, {
+      placement: 'hotel_card',
+      partner: 'luxuryescapes',
+    });
+    window.open(url, '_blank');
+    trackingManager.trackHotelBooking(hotel.title, hotel.price, hotel.location_heading);
+  };
+
   const handleCardClick = (e: React.MouseEvent) => {
     e.preventDefault();
-    
-    // Track hotel view before opening affiliate link
-    trackingManager.trackHotelView(hotel.title, hotel.price, hotel.location_heading);
-    
-    // Abrir enlace de afiliado en nueva pestaña
-    window.open(hotel.link, '_blank');
-    
-    // Track conversion after opening affiliate link
-    trackingManager.trackHotelBooking(hotel.title, hotel.price, hotel.location_heading);
+    void openAffiliate();
   };
 
   const handleViewDeal = (e: React.MouseEvent) => {
     e.preventDefault();
     e.stopPropagation(); // Evitar que se active el click de la tarjeta
-    
-    // Track hotel view before opening affiliate link
-    trackingManager.trackHotelView(hotel.title, hotel.price, hotel.location_heading);
-    
-    // Abrir enlace de afiliado en nueva pestaña
-    window.open(hotel.link, '_blank');
-    
-    // Track conversion after opening affiliate link
-    trackingManager.trackHotelBooking(hotel.title, hotel.price, hotel.location_heading);
+    void openAffiliate();
   };
 
   const getCTAText = () => {
     switch (lang) {
-      case 'es':
-        return 'Ver oferta →';
+      case 'de':
+        return 'Angebot ansehen →';
       case 'fr':
         return 'Voir l\'offre →';
+      case 'es':
+        return 'Ver oferta →';
       case 'it':
         return 'Vedi offerta →';
+      case 'pt':
+        return 'Ver oferta →';
       default:
         return 'View Deal →';
     }
@@ -76,7 +75,7 @@ export default function HotelCard({ hotel, onViewDeal, lang = 'en' }: HotelCardP
         <div className="hotel-location">
           {hotel.location_heading}, {hotel.location_subheading}
         </div>
-        <p>{hotel.description}</p>
+        {hotel.description && <p>{hotel.description}</p>}
         
         <a 
           href="#" 

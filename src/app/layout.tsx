@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import ConsentInitializer from "@/components/ConsentInitializer";
+import TrackingBootstrap from "@/components/TrackingBootstrap";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -74,9 +75,11 @@ export const metadata: Metadata = {
     canonical: "https://mondoexplora.com",
     languages: {
       'en': 'https://mondoexplora.com/en',
-      'es': 'https://mondoexplora.com/es',
+      'de': 'https://mondoexplora.com/de',
       'fr': 'https://mondoexplora.com/fr',
+      'es': 'https://mondoexplora.com/es',
       'it': 'https://mondoexplora.com/it',
+      'pt': 'https://mondoexplora.com/pt',
       'x-default': 'https://mondoexplora.com/en'
     }
   },
@@ -120,6 +123,7 @@ export default function RootLayout({
       >
         {children}
         <ConsentInitializer lang="en" />
+        <TrackingBootstrap />
       </body>
     </html>
   );
