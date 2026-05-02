@@ -1,5 +1,7 @@
 'use client';
 
+import { appendOutboundTrackingUrl } from '@/lib/trackingBackend';
+
 interface RouteCTAProps {
   lang: string;
   origin: string;
@@ -9,13 +11,17 @@ interface RouteCTAProps {
 
 export default function RouteCTA({ lang, origin, destination, affiliateLink }: RouteCTAProps) {
   const handleClick = () => {
-    // Open travel modes page in new tab
-    window.open(`/${lang}/travel_modes/${origin}/${destination}`, '_blank');
-    
-    // Redirect current page to affiliate link if it exists
-    if (affiliateLink) {
-      window.location.href = affiliateLink;
-    }
+    void (async () => {
+      window.open(`/${lang}/travel_modes/${origin}/${destination}`, '_blank');
+
+      if (affiliateLink) {
+        const url = await appendOutboundTrackingUrl(affiliateLink, {
+          placement: 'route_cta_affiliate',
+          partner: 'luxuryescapes',
+        });
+        window.location.href = url;
+      }
+    })();
   };
 
   return (

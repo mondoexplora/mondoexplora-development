@@ -3,6 +3,7 @@
 import { useEffect } from "react";
 import CookieConsent from "@/components/CookieConsent";
 import { trackingManager } from "@/lib/trackingManager";
+import { emitConsentChanged } from "@/lib/trackingBackend";
 
 export default function ConsentInitializer({ lang = 'en' }: { lang?: string }) {
   useEffect(() => {
@@ -37,6 +38,7 @@ export default function ConsentInitializer({ lang = 'en' }: { lang?: string }) {
       trackingManager.setConsent(preferences);
     }
     // If no consent exists, let the banner handle it
+    emitConsentChanged();
   }, []);
 
   return (
@@ -58,6 +60,7 @@ export default function ConsentInitializer({ lang = 'en' }: { lang?: string }) {
         
         // Initialize tracking with consent
         trackingManager.initialize();
+        emitConsentChanged();
       }}
       onDecline={() => {
         const consent = {
@@ -73,6 +76,7 @@ export default function ConsentInitializer({ lang = 'en' }: { lang?: string }) {
         
         // Apply to tracking manager
         trackingManager.setConsent(consent);
+        emitConsentChanged();
       }}
       lang={lang}
     />
