@@ -1,5 +1,20 @@
 # Copy this file to .env and fill in your actual values
 
+# --- MondoExplora tracking API (browser) ---
+# Leave empty on production (same origin: /api/tracking/* on Netlify).
+# For local Next dev without Netlify functions, set to your Netlify preview URL or run `netlify dev`.
+NEXT_PUBLIC_TRACKING_API_BASE=
+# Set to 0 to disable all tracking API calls from the browser.
+NEXT_PUBLIC_TRACKING_ENABLED=
+
+# --- Netlify + Supabase (set in Netlify UI, not in the public bundle) ---
+SUPABASE_URL=
+SUPABASE_SERVICE_ROLE_KEY=
+# Comma-separated allowed Origin values for CORS (include production + local dev).
+TRACKING_ALLOW_ORIGIN=https://mondoexplora.com,http://localhost:8888,http://localhost:3000
+# Query param appended to partner URLs (must match what Impact / partners read back).
+TRACKING_SUB_ID_PARAM=mx_sub
+
 # Google Maps API Key (Get yours from: https://console.cloud.google.com/)
 GOOGLE_MAPS_API_KEY=your_actual_api_key_here
 
