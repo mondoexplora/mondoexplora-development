@@ -10,16 +10,19 @@
   from = "/api/tracking/visit"
   to = "/.netlify/functions/tracking-visit"
   status = 200
+  force = true
 
 [[redirects]]
   from = "/api/tracking/outbound-click"
   to = "/.netlify/functions/tracking-outbound-click"
   status = 200
+  force = true
 
 [[redirects]]
   from = "/api/tracking/health"
   to = "/.netlify/functions/tracking-health"
   status = 200
+  force = true
 
 # Handle Next.js static export properly
 [[redirects]]
