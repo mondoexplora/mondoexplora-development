@@ -6,7 +6,7 @@
   "transport_modes": {
     "flight": {
       "duration": "1h 55m",
-      "price_range": "$150 - $400",
+      "price_range": "$120 - $350",
       "providers": [
         "Skyscanner",
         "Kayak",
@@ -14,7 +14,7 @@
       ]
     },
     "train": {
-      "duration": "3h 30m",
+      "duration": "3h 15m",
       "price_range": "$80 - $200",
       "providers": [
         "Rail Europe",
@@ -23,8 +23,8 @@
       ]
     },
     "bus": {
-      "duration": "4h 55m",
-      "price_range": "$25 - $60",
+      "duration": "5h 30m",
+      "price_range": "$20 - $50",
       "providers": [
         "FlixBus",
         "Greyhound",
@@ -33,7 +33,7 @@
     },
     "car": {
       "duration": "3h 55m",
-      "distance": "420 km",
+      "distance": "310 km",
       "price_range": "$45 - $110"
     }
   },
