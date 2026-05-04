@@ -4,8 +4,26 @@
   "country_code": "VN",
   "hero_title": "Hotels in Cam Ranh",
   "description": "Discover the best hotels in Cam Ranh, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/qns95s28hjl6edcwob5",
+  "hero_image": "https://images.luxuryescapes.com/j6apd76vcbrwh8atohu",
   "hotels": [
+    {
+      "vendor_name": "ALMA Resort Cam Ranh",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Cam Ranh",
+      "title": "Vietnam All-Inclusive Oasis: Family-Friendly Bliss with Waterpark & Unlimited Free-Flow Drinks",
+      "description": "Discover coastal luxury redefined at Alma Resort Cam Ranh, a breathtaking tropical sanctuary stretching across 30 pristine hectares of Vietnam's stunning Cam Ranh Peninsula. This fully-integrated resort in one of Southeast Asia's most celebrated seaside destinations has mastered the art of the perfect family escape - where every desire is anticipated and every moment is crafted to delight. Fourteen distinctive restaurants and bars take you on a culinary journey around the world, from authentic Vietnamese flavours and casual bites at the Beach Bar, to Italian classics at La Casa and refined seafood dishes with ocean views at Atlantis. Beyond the table, 12 spectacular pools cascade gracefully toward the golden sands of Long Beach, while a thrilling waterpark keeps the whole family entertained from morning to night. Here, the hardest decision of the day is simply choosing where to begin. When it's time to slow down, the resort's world-class amenities invite you to savour every second. Surrender to sublime treatments at Le Spa, catch a film at the resort's very own cinema or challenge the family to a round on the 18-hole mini golf course. From sunrise yoga on the beach to moonlit strolls along the shoreline, Alma Resort Cam Ranh creates those pinch-me moments where luxury feels personal and paradise feels like home.",
+      "location_subheading": "Vietnam",
+      "price": 1079,
+      "original_price": 2116,
+      "discount_percentage": 49,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TPmjtYAD",
+      "hero_image": "https://images.luxuryescapes.com/j6apd76vcbrwh8atohu",
+      "image_two": "https://images.luxuryescapes.com/k0jfmx0yg3tfl8tugpt",
+      "image_three": "https://images.luxuryescapes.com/vo1n1zvpvpfxc2srrb2l",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 4,
+      "end_date_utc": "2026-06-29 13:59:00"
+    },
     {
       "vendor_name": "Mövenpick Resort Cam Ranh",
       "offer_country_name": "Vietnam",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-03",
-    "hotel_count": 2,
-    "average_price": 394,
-    "average_discount": 0
+    "last_updated": "2026-05-04",
+    "hotel_count": 3,
+    "average_price": 622,
+    "average_discount": 16
   }
 }

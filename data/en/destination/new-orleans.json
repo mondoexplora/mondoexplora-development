@@ -131,6 +131,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Royal Sonesta New Orleans",
+      "offer_country_name": "United States",
+      "location_heading": "New Orleans",
+      "title": "New Orleans French Quarter Glamour Along Bourbon Street with Daily Breakfast, Drink & Dining Credit",
+      "description": "Located on the world-famous Bourbon Street in New Orleans is The Royal Sonesta New Orleans, a landmark hotel opened in 1969. Here, time comes to a halt and old-world French Quarter elegance takes over. The hotel is located just steps from the city's best restaurants, bars and entertainment venues, so you'll never run out of things to do. Inside, incredible facilities including five restaurants and bars will keep your nights fun-filled. Catch a live jazz performance with a cocktail in hand at The Jazz Playhouse, where local musicians take the stage, experience world-class Cajun-Creole cuisine at Restaurant R'evolution and enjoy a tipple or two at Le Booze, a polished lobby bar built for old-school cocktails.",
+      "location_subheading": "United States",
+      "price": 329,
+      "original_price": 621,
+      "discount_percentage": 47,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UeQ7NYAV",
+      "hero_image": "https://images.luxuryescapes.com/0mjlnej2l9leinz20flv",
+      "image_two": "https://images.luxuryescapes.com/mg3745ie1lhcw51oszhb",
+      "image_three": "https://images.luxuryescapes.com/zuxurbgiqlb2iwppz13",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-06-29 13:59:00"
     }
   ],
   "seo": {
@@ -150,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-03",
-    "hotel_count": 7,
-    "average_price": 344,
-    "average_discount": 5
+    "last_updated": "2026-05-04",
+    "hotel_count": 8,
+    "average_price": 342,
+    "average_discount": 11
   }
 }

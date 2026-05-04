@@ -28,24 +28,6 @@
       "vendor_name": "H on Mitchell Apartment Hotel",
       "offer_country_name": "Australia",
       "location_heading": "Darwin",
-      "title": "Contemporary Darwin City Self-Contained Stay with Rooftop Pool, Restaurant & Bar",
-      "description": "Experience the vibrancy of Darwin from this contemporary self-contained stay. Located in the heart of the city, this modern retreat offers a rooftop pool with city views, a fully equipped gym and an onsite sports bar. Savour the flavours of the Northern Territory at the hotel's restaurant, Lizards Bar and Restaurant, or venture out to explore the bustling Mitchell Street, lined with bars, eateries and shops. When you're ready for adventure, the stunning Litchfield National Park is just over an hour's drive away.",
-      "location_subheading": "Australia",
-      "price": 210,
-      "original_price": 210,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HkRaIAK",
-      "hero_image": "https://images.luxuryescapes.com/iseiqs7nlbko0i8uoqwe",
-      "image_two": "https://images.luxuryescapes.com/rf3viwl7b8vgbqqi51me",
-      "image_three": "https://images.luxuryescapes.com/l57xna9zjamio5orry9",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "H on Mitchell Apartment Hotel",
-      "offer_country_name": "Australia",
-      "location_heading": "Darwin",
       "title": "Modern Darwin Self-Contained Apartments with Daily Breakfast & Complimentary Parking",
       "description": "Elevate your stay in the Top End with a self-contained apartment in the heart of Darwin’s CBD. This modern retreat has everything you need for ultimate relaxation: spend your days unwinding in a cabana by the rooftop pool - offering sweeping views over the city - or head to Lizards Sports Bar & Restaurant for easygoing beers and good times. When you're ready to explore, venture out to the laid-back Darwin Waterfront Precinct and Mitchell Street’s bustling nightlife. Here, you’ll find frothy pints and pub music at Shenannigans or try locally crafted brews at Six Tanks. Adventure abounds in the Top End: the awe-inspiring waterfalls of Litchfield National Park are just over an hour’s drive away.",
       "location_subheading": "Australia",
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-05-31 13:59:00"
+    },
+    {
+      "vendor_name": "H on Mitchell Apartment Hotel",
+      "offer_country_name": "Australia",
+      "location_heading": "Darwin",
+      "title": "Contemporary Darwin City Self-Contained Stay with Rooftop Pool, Restaurant & Bar",
+      "description": "Experience the vibrancy of Darwin from this contemporary self-contained stay. Located in the heart of the city, this modern retreat offers a rooftop pool with city views, a fully equipped gym and an onsite sports bar. Savour the flavours of the Northern Territory at the hotel's restaurant, Lizards Bar and Restaurant, or venture out to explore the bustling Mitchell Street, lined with bars, eateries and shops. When you're ready for adventure, the stunning Litchfield National Park is just over an hour's drive away.",
+      "location_subheading": "Australia",
+      "price": 210,
+      "original_price": 210,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HkRaIAK",
+      "hero_image": "https://images.luxuryescapes.com/iseiqs7nlbko0i8uoqwe",
+      "image_two": "https://images.luxuryescapes.com/rf3viwl7b8vgbqqi51me",
+      "image_three": "https://images.luxuryescapes.com/l57xna9zjamio5orry9",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Mantra Pandanas",
@@ -157,8 +157,8 @@
       "title": "Contemporary Darwin City Break Overlooking the Harbour",
       "description": "For a city escape that's only a stone's throw from Darwin's CBD and waterfront precinct, look no further than Oaks Darwin Elan Hotel. The contemporary hotel is perfectly positioned to explore Darwin's dining, entertaining and shopping hubs, sitting near Crocosaurus Cove and Smith Street Mall. After a day of discovering the Territory, sample local flavours at The O.A.K Restaurant or relax with a dip in the outdoor pool.",
       "location_subheading": "Australia",
-      "price": 364.8,
-      "original_price": 368,
+      "price": 355.2,
+      "original_price": 359,
       "discount_percentage": 1,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009BTkfAAG",
       "hero_image": "https://images.luxuryescapes.com/6gagyr9d6osvn54gorm",
@@ -175,8 +175,8 @@
       "title": "Top-Rated Central Darwin Self-Contained Apartments",
       "description": "For a perfect city escape that's only a stone's throw from Darwin's CBD and waterfront precinct, look no further than Ramada Suites by Wyndham Zen Quarter Darwin, ranked within the top 10% of properties on Tripadvisor. Located just 550 metres from the centre of the city, you're perfectly positioned to explore Darwin's cultural curiosities and outdoor adventures - including Crocosaurus Cove, home to the world’s largest display of Australian reptiles, less than a 15-minute walk away. Further afield, discover the UNESCO World Heritage-listed Kakadu National Park and Litchfield National Park, and when you return, enjoy the use of a rooftop café overlooking the leafy streets below, or take a dip in the 28-metre saltwater infinity pool, the perfect way to relax after a day exploring this incredible part of the world.",
       "location_subheading": "Australia",
-      "price": 304,
-      "original_price": 349,
+      "price": 266,
+      "original_price": 306,
       "discount_percentage": 13,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000008fSM6AAM",
       "hero_image": "https://images.luxuryescapes.com/lq2yx35ug4fvfknmxnqp",
@@ -240,9 +240,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-03",
+    "last_updated": "2026-05-04",
     "hotel_count": 12,
-    "average_price": 269,
+    "average_price": 265,
     "average_discount": 5
   }
 }

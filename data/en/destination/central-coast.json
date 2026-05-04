@@ -64,24 +64,6 @@
       "vendor_name": "The Beachcomber Hotel",
       "offer_country_name": "Australia",
       "location_heading": "Central Coast",
-      "title": "Central Coast Waterfront Glamour Just 90 Minutes from Sydney with Daily Breakfast",
-      "description": "Switch off and unwind at this ultra-stylish boutique stay on the laidback waterfront of New South Wales' Central Coast. Escape from Sydney to a coastal haven just 90 minutes away, soaking up the sun at The Beachcomber Hotel & Resort. Set in the charming town of Toukley, on the gorgeous coastline overlooking the glittering waters of Budgewoi Lake, this Hamptons-inspired sanctuary (known by locals as 'The Beachie') is the perfect high-end launchpad for discovering the wonders of the region and an idyllic retreat after days filled with sun-kissed adventures. This lakeside oasis offers state-of-the-art amenities and outstanding service - from the expert chefs preparing signature dishes at Bistro at The Beachie to the iconic waterfront bar, an ideal setting for sipping cocktails. Enjoy your days floating in the blissful outdoor heated pool, discovering the postcard-perfect attractions just out of town, or relaxing by the waterfront at sunset.",
-      "location_subheading": "Australia",
-      "price": 239,
-      "original_price": 598,
-      "discount_percentage": 60,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000MRYLvYAP",
-      "hero_image": "https://images.luxuryescapes.com/8q9s2m0qhjw41rto5o9r",
-      "image_two": "https://images.luxuryescapes.com/gmncupvv2l8bn0ycmfuh",
-      "image_three": "https://images.luxuryescapes.com/iemkg0527ipg2l3e8yjj",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 2,
-      "end_date_utc": "2026-05-18 13:59:00"
-    },
-    {
-      "vendor_name": "The Beachcomber Hotel",
-      "offer_country_name": "Australia",
-      "location_heading": "Central Coast",
       "title": "Hamptons-Style Central Coast Getaway with Waterfront Bar & Pool",
       "description": "Escape from Sydney to a coastal haven just 90 minutes away, soaking up sun at The Beachcomber Hotel & Resort. Slip into holiday mode at this bright and vibrant waterfront locale that rivals a Hamptons holiday home. Take in sparkling views of Budgewoi Lake from the Club Cyan bar or one of the many cabanas surrounding the heated deckside pool, and indulge your way all day at The Beachie Pub, Bar & Grill which features a menu of elevated pub classics.",
       "location_subheading": "Australia",
@@ -95,6 +77,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Beachcomber Hotel",
+      "offer_country_name": "Australia",
+      "location_heading": "Central Coast",
+      "title": "Central Coast Waterfront Glamour Just 90 Minutes from Sydney with Daily Breakfast",
+      "description": "Switch off and unwind at this ultra-stylish boutique stay on the laidback waterfront of New South Wales' Central Coast. Escape from Sydney to a coastal haven just 90 minutes away, soaking up the sun at The Beachcomber Hotel & Resort. Set in the charming town of Toukley, on the gorgeous coastline overlooking the glittering waters of Budgewoi Lake, this Hamptons-inspired sanctuary (known by locals as 'The Beachie') is the perfect high-end launchpad for discovering the wonders of the region and an idyllic retreat after days filled with sun-kissed adventures. This lakeside oasis offers state-of-the-art amenities and outstanding service - from the expert chefs preparing signature dishes at Bistro at The Beachie to the iconic waterfront bar, an ideal setting for sipping cocktails. Enjoy your days floating in the blissful outdoor heated pool, discovering the postcard-perfect attractions just out of town, or relaxing by the waterfront at sunset.",
+      "location_subheading": "Australia",
+      "price": 239,
+      "original_price": 598,
+      "discount_percentage": 60,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000MRYLvYAP",
+      "hero_image": "https://images.luxuryescapes.com/8q9s2m0qhjw41rto5o9r",
+      "image_two": "https://images.luxuryescapes.com/gmncupvv2l8bn0ycmfuh",
+      "image_three": "https://images.luxuryescapes.com/iemkg0527ipg2l3e8yjj",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 2,
+      "end_date_utc": "2026-05-18 13:59:00"
     }
   ],
   "seo": {
@@ -114,7 +114,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-03",
+    "last_updated": "2026-05-04",
     "hotel_count": 5,
     "average_price": 262,
     "average_discount": 39
