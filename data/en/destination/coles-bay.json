@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Coles Bay",
   "description": "Discover the best hotels in Coles Bay, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/f5dyyc2n2n8jbyeah6",
+  "hero_image": "https://images.luxuryescapes.com/05ml8ivbnc9wy7r0sknm",
   "hotels": [
+    {
+      "vendor_name": "Freycinet Lodge",
+      "offer_country_name": "Australia",
+      "location_heading": "Coles Bay",
+      "title": "Tasmania Waterside Escape: Freycinet Lodge with Daily Breakfast, Drinks & A$120 Dining Credit",
+      "description": "Discover Tasmania's wild east coast with a stay within the Freycinet National Park, where rugged bushland meets the sweeping sands of Richardsons Beach. Wake to panoramic views of The Hazards mountains and Great Oyster Bay, with direct access to untouched shoreline and coastal walking trails steps from your door. Savour local seafood at Richardson's Bistro (open seasonally), indulge in fine-dining as you watch the crashing waves from The Bay Restaurant, or enjoy a pint of local Tasmanian beer or a cocktail at Hazards Bar & Lounge. For the adventurous, the lodge's own company, Freycinet Adventures, offers thrilling experiences from sea kayaking to e-biking through the wilderness. A short stroll leads to the renowned Wineglass Bay, or should you wish to stay closer to home, wander to the Lodge's picturesque deck to enjoy a glass of bubbles and fresh Tasmanian oysters as you watch the sunset over the bay's pristine waters.",
+      "location_subheading": "Australia",
+      "price": 395,
+      "original_price": 1646,
+      "discount_percentage": 76,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UW8PNYA1",
+      "hero_image": "https://images.luxuryescapes.com/05ml8ivbnc9wy7r0sknm",
+      "image_two": "https://images.luxuryescapes.com/k0yvz7oazjdzw6we962",
+      "image_three": "https://images.luxuryescapes.com/8ir16hzvb4ekv7ap3bi",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 2,
+      "end_date_utc": "2026-06-03 13:59:00"
+    },
     {
       "vendor_name": "Freycinet Resort",
       "offer_country_name": "Australia",
@@ -13,8 +31,8 @@
       "title": "Tasmania Wilderness Retreat in Coles Bay near Freycinet National Park",
       "description": "Secluded in the rugged wilderness of Tasmania's East Coast, Freycinet Resort offers unparalleled access to the stunning Freycinet National Park, home to the iconic Wineglass Bay. Indulge in the region's freshest seafood at the acclaimed Marine Farm, or sample award-winning wines at the nearby Devil's Corner Cellar Door. After a day of exploration, retreat to your private cabin, where floor-to-ceiling windows offer breathtaking views of the surrounding landscape.",
       "location_subheading": "Australia",
-      "price": 580,
-      "original_price": 637,
+      "price": 581,
+      "original_price": 638,
       "discount_percentage": 9,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Fle0xAAB",
       "hero_image": "https://images.luxuryescapes.com/f5dyyc2n2n8jbyeah6",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-04",
-    "hotel_count": 1,
-    "average_price": 580,
-    "average_discount": 9
+    "last_updated": "2026-05-05",
+    "hotel_count": 2,
+    "average_price": 488,
+    "average_discount": 43
   }
 }

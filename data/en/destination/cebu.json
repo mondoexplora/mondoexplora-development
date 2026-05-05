@@ -4,26 +4,8 @@
   "country_code": "PH",
   "hero_title": "Hotels in Cebu",
   "description": "Discover the best hotels in Cebu, Philippines. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/j6pgli3oecid7kwbn2n",
+  "hero_image": "https://images.luxuryescapes.com/owtefzap3cyguysypil",
   "hotels": [
-    {
-      "vendor_name": "Shangri-La's Mactan Resort & Spa",
-      "offer_country_name": "Philippines",
-      "location_heading": "Cebu",
-      "title": "Philippines Coastal Oasis on Mactan Island with Massages, Daily Breakfast, Nightly Dinner & Drinks",
-      "description": "Experience true coastal glam with a stay at this Shangri-La haven just off the island of Cebu. Sitting within a tropical paradise on Mactan Island, you can spend your days exploring 13 hectares of manicured gardens, snorkel and dive into pristine waters, and come face-to-face with Cebu’s magnificent whale sharks. With a serene onsite spa, private white-sand beach and two sparkling pools, there’s a spot for everyone to find their zen. Foodies will be spoiled for choice across four onsite restaurants, from Italian fare at Acqua to al-fresco grill and seafood at Cowrie Cove. For light bites and cocktails right on the beach, head to Breeze, or enjoy a live cultural show at the poolside Buko Bar.",
-      "location_subheading": "Philippines",
-      "price": 629,
-      "original_price": 1310,
-      "discount_percentage": 52,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TzaAkYAJ",
-      "hero_image": "https://images.luxuryescapes.com/j6pgli3oecid7kwbn2n",
-      "image_two": "https://images.luxuryescapes.com/rpyx83e9zmhrkjowzfyg",
-      "image_three": "https://images.luxuryescapes.com/52bn2rhfbrb6xqd165f",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-05-08 13:59:00"
-    },
     {
       "vendor_name": "Shangri-La's Mactan Resort & Spa",
       "offer_country_name": "Philippines",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Shangri-La's Mactan Resort & Spa",
+      "offer_country_name": "Philippines",
+      "location_heading": "Cebu",
+      "title": "Philippines Coastal Oasis on Mactan Island with Massages, Daily Breakfast, Nightly Dinner & Drinks",
+      "description": "Experience true coastal glam with a stay at this Shangri-La haven just off the island of Cebu. Sitting within a tropical paradise on Mactan Island, you can spend your days exploring 13 hectares of manicured gardens, snorkel and dive into pristine waters, and come face-to-face with Cebu’s magnificent whale sharks. With a serene onsite spa, private white-sand beach and two sparkling pools, there’s a spot for everyone to find their zen. Foodies will be spoiled for choice across four onsite restaurants, from Italian fare at Acqua to al-fresco grill and seafood at Cowrie Cove. For light bites and cocktails right on the beach, head to Breeze, or enjoy a live cultural show at the poolside Buko Bar.",
+      "location_subheading": "Philippines",
+      "price": 629,
+      "original_price": 1310,
+      "discount_percentage": 52,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TzaAkYAJ",
+      "hero_image": "https://images.luxuryescapes.com/j6pgli3oecid7kwbn2n",
+      "image_two": "https://images.luxuryescapes.com/rpyx83e9zmhrkjowzfyg",
+      "image_three": "https://images.luxuryescapes.com/52bn2rhfbrb6xqd165f",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-05-08 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-04",
+    "last_updated": "2026-05-05",
     "hotel_count": 2,
     "average_price": 594,
     "average_discount": 36

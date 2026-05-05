@@ -61,6 +61,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Wyndham Hoi An Beachfront Resort & Villas",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Hoi An",
+      "title": "Hoi An Private Pool Villa Bliss with Massages, Daily Breakfast, Nightly Dinner & Club Lounge Access",
+      "description": "Experience a magical slice of Vietnam's coastline with a five-star stay at Wyndham Hoi An Royal Beachfront Resort & Villas. Set on the pristine shores of the South China Sea, this luxurious resort is a tranquil oasis, gracefully located on the golden sands between Da Nang and the UNESCO World Heritage-listed Hoi An Old Town. Sink your toes into the soft sand of An Bang Beach, where you’ll have a front-row seat to golden sunrises, and enjoy the resort’s state-of-the-art facilities, including the tranquil Sense Spa and sprawling infinity pool. Treat your palate to authentic Vietnamese cuisine at the resort’s onsite restaurant, or venture out to explore the vibrant local food scene at Hoi An’s night market. The resort’s prime location also puts you within easy reach of the region’s top attractions. Take a leisurely bike ride through the lush rice fields, visit the historic Japanese Covered Bridge, or explore the colourful lantern-lit streets of Hoi An’s Old Town before heading back to the resort for a nightcap at Sky Bar.",
+      "location_subheading": "Vietnam",
+      "price": 1199,
+      "original_price": 4796,
+      "discount_percentage": 75,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UHKsHYAX",
+      "hero_image": "https://images.luxuryescapes.com/lab4khrdlki249qyr8",
+      "image_two": "https://images.luxuryescapes.com/rn889jgm1wor2u2tt9rq",
+      "image_three": "https://images.luxuryescapes.com/eu2299vhff1fkiwqr7rj",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2026-05-22 13:59:00"
+    },
+    {
       "vendor_name": "Victoria Hoi An Beach Resort & Spa",
       "offer_country_name": "Vietnam",
       "location_heading": "Hoi An",
@@ -77,24 +95,6 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Wyndham Hoi An Beachfront Resort & Villas",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Hoi An",
-      "title": "Hoi An Beachfront Sanctuary with Daily Breakfast, Nightly Dinner & All-Inclusive Upgrades Available",
-      "description": "Experience the magic of Vietnam’s ancient Hoi An with a five-star stay at Wyndham Hoi An Royal Beachfront Resort & Villas. Set on the pristine shores of the South China Sea, this luxurious resort is a tranquil oasis, gracefully located on the golden sands between Da Nang and the UNESCO World Heritage-listed Hoi An Old Town. Sink your toes into the soft sand of An Bang Beach, where you’ll have a front-row seat to golden sunrises, and enjoy the resort’s state-of-the-art facilities, including the tranquil Royal Retreat Spa and sprawling infinity pool. Treat your palate to authentic Vietnamese cuisine at the resort’s onsite restaurant, or venture out to explore the vibrant local food scene at Hoi An’s night market. The resort’s prime location also puts you within easy reach of the region’s top attractions. Take a leisurely bike ride through the lush rice fields, visit the historic Japanese Covered Bridge, or explore the colourful lantern-lit streets of Hoi An’s Old Town before heading back to the resort for a nightcap at Sky Bar.",
-      "location_subheading": "Vietnam",
-      "price": 559,
-      "original_price": 1363,
-      "discount_percentage": 59,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PbNFOYA3",
-      "hero_image": "https://images.luxuryescapes.com/gg0qbazj9b6lffbdlb5",
-      "image_two": "https://images.luxuryescapes.com/igr2dpw78eokr4zx7ii",
-      "image_three": "https://images.luxuryescapes.com/mq4dw027vsnztn99u1ts",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 5,
-      "end_date_utc": "2026-05-22 13:59:00"
     },
     {
       "vendor_name": "Wyndham Hoi An Beachfront Resort & Villas",
@@ -132,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-04",
+    "last_updated": "2026-05-05",
     "hotel_count": 6,
-    "average_price": 376,
-    "average_discount": 21
+    "average_price": 483,
+    "average_discount": 24
   }
 }

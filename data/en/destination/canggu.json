@@ -31,31 +31,13 @@
       "title": "Canggu Five-Star Laidback Beachfront Luxury with Ultra-Cool Beach Club",
       "description": "For the laidback traveller looking for a splash of luxury, the world-class COMO Uma Canggu breaks the mould for breathtaking escapes. Spend balmy days at the sleek and sophisticated COMO Beach Club, where Indian Ocean panoramas are the backdrop to barrel-aged cocktails, poolside dining, live music, DJ sets and daybeds. For a touch of pampering, float over to Shambhala spa for Balinese treatments and steam rooms that are guaranteed to invigorate body and soul.",
       "location_subheading": "Indonesia",
-      "price": 867,
-      "original_price": 867,
+      "price": 866,
+      "original_price": 866,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNx4AAAT",
       "hero_image": "https://images.luxuryescapes.com/z0k7qcz0ohw9xrxil8o",
       "image_two": "https://images.luxuryescapes.com/7tdgezbryhnkbvtukv79",
       "image_three": "https://images.luxuryescapes.com/4fvgelvfd8gyyb06lg7c",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Canggu Cabana Resort by Ini Vie Hospitality",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Canggu",
-      "title": "Beachfront Canggu Suite Escape with Restaurant & Spa",
-      "description": "Discover bliss at this boutique five-star beachfront Canggu oasis. You’ll be just moments from some of Canggu’s hottest spots, including The Lawn and Old Man day clubs, as well as the region's legendary dining experiences. Begin each morning with a dip in the gently curving infinity pool, dine at Seabird Restaurant or head to the resort’s wellness centre, Svaha Spa Nelayan, for massages and holistic treatments backed by timeless tradition.",
-      "location_subheading": "Indonesia",
-      "price": 379,
-      "original_price": 505,
-      "discount_percentage": 25,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ie9MBAAZ",
-      "hero_image": "https://images.luxuryescapes.com/xdfa97bhhm0vbt37sivf9",
-      "image_two": "https://images.luxuryescapes.com/l758toc6hgt729sxjo",
-      "image_three": "https://images.luxuryescapes.com/7e0j32hofmjaoh29ojl",
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 5,
       "end_date_utc": "2026-05-09 13:59:00"
+    },
+    {
+      "vendor_name": "Canggu Cabana Resort by Ini Vie Hospitality",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Canggu",
+      "title": "Beachfront Canggu Suite Escape with Restaurant & Spa",
+      "description": "Discover bliss at this boutique five-star beachfront Canggu oasis. You’ll be just moments from some of Canggu’s hottest spots, including The Lawn and Old Man day clubs, as well as the region's legendary dining experiences. Begin each morning with a dip in the gently curving infinity pool, dine at Seabird Restaurant or head to the resort’s wellness centre, Svaha Spa Nelayan, for massages and holistic treatments backed by timeless tradition.",
+      "location_subheading": "Indonesia",
+      "price": 379,
+      "original_price": 505,
+      "discount_percentage": 25,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ie9MBAAZ",
+      "hero_image": "https://images.luxuryescapes.com/xdfa97bhhm0vbt37sivf9",
+      "image_two": "https://images.luxuryescapes.com/l758toc6hgt729sxjo",
+      "image_three": "https://images.luxuryescapes.com/7e0j32hofmjaoh29ojl",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Hotel Tugu Bali",
@@ -204,7 +204,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-04",
+    "last_updated": "2026-05-05",
     "hotel_count": 10,
     "average_price": 813,
     "average_discount": 22
