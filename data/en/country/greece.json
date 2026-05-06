@@ -15,6 +15,15 @@
       "avg_price": 545
     },
     {
+      "name": "Crete",
+      "slug": "crete",
+      "image": "https://images.luxuryescapes.com/gqg07xxgnt8ol0n5wfw",
+      "description": "Explore Crete with luxury accommodations",
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 737
+    },
+    {
       "name": "Santorini",
       "slug": "santorini",
       "image": "https://images.luxuryescapes.com/dqtd75imlwtlhnlwuai",
@@ -22,15 +31,6 @@
       "hotel_count": 9,
       "hotel_deals": 9,
       "avg_price": 943
-    },
-    {
-      "name": "Crete",
-      "slug": "crete",
-      "image": "https://images.luxuryescapes.com/gqg07xxgnt8ol0n5wfw",
-      "description": "Explore Crete with luxury accommodations",
-      "hotel_count": 8,
-      "hotel_deals": 8,
-      "avg_price": 772
     },
     {
       "name": "Mykonos",

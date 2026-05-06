@@ -13,8 +13,8 @@
       "title": "Enchanting Fairmont Whistler Alpine Luxury with Mountainside Spa & Golf Course",
       "description": "Ski-in to alpine luxury at the iconic Fairmont Chateau, set between the breathtaking peaks of Whistler and Blackcomb Peak. This grand, castle-like resort gives way to warm, lodge-style interiors with roaring fireplaces and an inviting apres-ski atmosphere - a haven for outdoor enthusiasts and lovers of the finer things. Dining is exceptional with onsite dining venues offering the perfect spot to indulge as the alpenglow settles over the resort. After days hitting the slopes, guests can unwind at Vida Spa or tee off at the stunning mountain-backed golf course.",
       "location_subheading": "Canada",
-      "price": 962,
-      "original_price": 962,
+      "price": 963,
+      "original_price": 963,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GRm90YAD",
       "hero_image": "https://images.luxuryescapes.com/qz5a8anlibemhp6oxrs",
@@ -23,6 +23,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Crystal Lodge Whistler",
+      "offer_country_name": "Canada",
+      "location_heading": "Whistler",
+      "title": "Whistler Ski Lodge Luxury with Airport Transfers, Heated Outdoor Pool & CAD50 Dining Credit",
+      "description": "In the snowy heart of Whistler Village, just minutes from the gondolas and vibrant apres-ski hotspots, this cosy lodge is the ultimate base for your alpine adventure. Combining mountain-lodge charm with contemporary interiors, this inviting retreat offers everything from fireplace-warmed lounges to breathtaking views of snow-capped peaks and bustling village life. Step outside and find yourself deep in the action - from world-class skiing and biking, to boutique shopping and award-winning dining. At the hotel, relax in the heated outdoor pool or bubbling hot tub, energise in the fitness centre or simply kick back in your refined retreat in between hitting the slopes. Whether you’re chasing powder, sunshine or serenity, The Crystal Lodge, Whistler Hotel puts it all at your feet.",
+      "location_subheading": "Canada",
+      "price": 799,
+      "original_price": 1631,
+      "discount_percentage": 51,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UNNAmYAP",
+      "hero_image": "https://images.luxuryescapes.com/d55ehn02o6k1dqz9rnk7",
+      "image_two": "https://images.luxuryescapes.com/l9gz0facvfpbrw0p8kzl",
+      "image_three": "https://images.luxuryescapes.com/jfr17o6norpy219l8q6j",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 5,
+      "end_date_utc": "2026-09-05 13:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-05",
-    "hotel_count": 1,
-    "average_price": 962,
-    "average_discount": 0
+    "last_updated": "2026-05-06",
+    "hotel_count": 2,
+    "average_price": 881,
+    "average_discount": 26
   }
 }

@@ -3,8 +3,17 @@
   "code": "TH",
   "hero_title": "Thailand Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Thailand.",
-  "hero_image": "https://images.luxuryescapes.com/dd9aiawuh45gqps4v4y",
+  "hero_image": "https://images.luxuryescapes.com/c5241ajuon7gfafaifqw",
   "popular_destinations": [
+    {
+      "name": "Phuket",
+      "slug": "phuket",
+      "image": "https://images.luxuryescapes.com/c5241ajuon7gfafaifqw",
+      "description": "Explore Phuket with luxury accommodations",
+      "hotel_count": 42,
+      "hotel_deals": 42,
+      "avg_price": 773
+    },
     {
       "name": "Bangkok",
       "slug": "bangkok",
@@ -12,16 +21,7 @@
       "description": "Explore Bangkok with luxury accommodations",
       "hotel_count": 41,
       "hotel_deals": 41,
-      "avg_price": 483
-    },
-    {
-      "name": "Phuket",
-      "slug": "phuket",
-      "image": "https://images.luxuryescapes.com/c5241ajuon7gfafaifqw",
-      "description": "Explore Phuket with luxury accommodations",
-      "hotel_count": 41,
-      "hotel_deals": 41,
-      "avg_price": 777
+      "avg_price": 482
     },
     {
       "name": "Koh Samui",
@@ -30,7 +30,7 @@
       "description": "Explore Koh Samui with luxury accommodations",
       "hotel_count": 14,
       "hotel_deals": 14,
-      "avg_price": 1409
+      "avg_price": 1414
     },
     {
       "name": "Khao Lak",
@@ -39,7 +39,7 @@
       "description": "Explore Khao Lak with luxury accommodations",
       "hotel_count": 10,
       "hotel_deals": 10,
-      "avg_price": 368
+      "avg_price": 365
     },
     {
       "name": "Hua Hin",
@@ -48,7 +48,7 @@
       "description": "Explore Hua Hin with luxury accommodations",
       "hotel_count": 9,
       "hotel_deals": 9,
-      "avg_price": 485
+      "avg_price": 464
     },
     {
       "name": "Pattaya",
@@ -57,7 +57,7 @@
       "description": "Explore Pattaya with luxury accommodations",
       "hotel_count": 8,
       "hotel_deals": 8,
-      "avg_price": 452
+      "avg_price": 446
     }
   ],
   "seo": {
