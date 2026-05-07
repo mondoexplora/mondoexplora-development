@@ -4,25 +4,25 @@
   "country_code": "IT",
   "hero_title": "Hotels in Sicily",
   "description": "Discover the best hotels in Sicily, Italy. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/4lqjwwzwwfvimm6mrrw",
+  "hero_image": "https://images.luxuryescapes.com/osm3uesn9io0phyhmepi",
   "hotels": [
     {
-      "vendor_name": "Almar Giardino di Costanza Mazara del Vallo",
+      "vendor_name": "Villa Neri Resort & Spa",
       "offer_country_name": "Italy",
       "location_heading": "Sicily",
-      "title": "Sicily All-Suite Opulence with Private Beach Access & Daily Breakfast",
-      "description": "Sicilian elegance awaits at this lavish five-star retreat, set among the verdant vineyards and olive groves of Mazara del Vallo. This Italian gem offers world-class dining at AquaMadre Restaurant, serving up authentic Mediterranean flavours and perfectly fresh seafood. Take some time to laze by the sparkling outdoor pool, then indulge in a multi-sensory journey at the Almablu Spa and set out to discover the sprawling countryside gardens bathed in Sicilian sunshine. Whether you're exploring the nearby town of Marzara del Vallo or strolling the tranquil grounds, this little slice of paradise promises a memorable escape, moments from the Mediterranean coast. Visit local wineries for a taste of the region's renowned Marsala wine, marvel at Sant'Ignazio church and hop from one pristine beach to the rocky alcove of another.",
+      "title": "Sicily Boutique Luxury near Mount Etna with Daily Breakfast, Nightly Cocktails & EUR70 Dining Credit",
+      "description": "Nestled amid vineyards and olive groves on the slopes of Mount Etna, Villa Neri Resort & Spa is a sun-soaked Sicilian sanctuary where boutique luxury meets raw natural beauty. A member of the prestigious Small Luxury Hotels of the World collection, this five-star haven pairs authentic Italian craftsmanship with contemporary comfort, with just 24 pristine rooms offering a blissful escape. Unwind by the saltwater pool, indulge at Petra Spa, savour creative cuisine at 12 Fontane and uncork the region's volcanic wines with an included tasting at Casa Arrigo countryhouse winery. When adventure calls, few hotels are better placed to answer - guided Etna treks, bike or jeep excursions and the clifftop streets of Taormina are all within easy reach.",
       "location_subheading": "Italy",
-      "price": 749,
-      "original_price": 1314,
-      "discount_percentage": 43,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PItkQYAT",
-      "hero_image": "https://images.luxuryescapes.com/4lqjwwzwwfvimm6mrrw",
-      "image_two": "https://images.luxuryescapes.com/49ut5j3f70famyblizi",
-      "image_three": "https://images.luxuryescapes.com/0bqa6ng3mmdvb18bxk",
+      "price": 359,
+      "original_price": 1197,
+      "discount_percentage": 70,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Unda1YAB",
+      "hero_image": "https://images.luxuryescapes.com/osm3uesn9io0phyhmepi",
+      "image_two": "https://images.luxuryescapes.com/xnsi9c6o0vu2e1wr7va",
+      "image_three": "https://images.luxuryescapes.com/7lam06nalpf78ksivz",
       "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 3,
-      "end_date_utc": "2026-03-16 12:59:00"
+      "min_duration": 2,
+      "end_date_utc": "2026-05-27 13:59:00"
     }
   ],
   "seo": {
@@ -42,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-13",
+    "last_updated": "2026-05-07",
     "hotel_count": 1,
-    "average_price": 749,
-    "average_discount": 43
+    "average_price": 359,
+    "average_discount": 70
   }
 }
