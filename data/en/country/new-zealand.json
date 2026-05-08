@@ -3,16 +3,16 @@
   "code": "NZ",
   "hero_title": "New Zealand Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in New Zealand.",
-  "hero_image": "https://images.luxuryescapes.com/1bs29g5wyy8vfsuqch",
+  "hero_image": "https://images.luxuryescapes.com/pmyz74jnnr9qagosiv4a",
   "popular_destinations": [
     {
       "name": "Auckland",
       "slug": "auckland",
-      "image": "https://images.luxuryescapes.com/1bs29g5wyy8vfsuqch",
+      "image": "https://images.luxuryescapes.com/pmyz74jnnr9qagosiv4a",
       "description": "Explore Auckland with luxury accommodations",
-      "hotel_count": 24,
-      "hotel_deals": 24,
-      "avg_price": 355
+      "hotel_count": 23,
+      "hotel_deals": 23,
+      "avg_price": 367
     },
     {
       "name": "Queenstown",
@@ -21,7 +21,7 @@
       "description": "Explore Queenstown with luxury accommodations",
       "hotel_count": 17,
       "hotel_deals": 17,
-      "avg_price": 944
+      "avg_price": 948
     },
     {
       "name": "Christchurch",
@@ -30,7 +30,7 @@
       "description": "Explore Christchurch with luxury accommodations",
       "hotel_count": 8,
       "hotel_deals": 8,
-      "avg_price": 324
+      "avg_price": 325
     },
     {
       "name": "Wellington",
@@ -39,7 +39,7 @@
       "description": "Explore Wellington with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 293
+      "avg_price": 292
     },
     {
       "name": "Rotorua",
@@ -48,7 +48,7 @@
       "description": "Explore Rotorua with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 270
+      "avg_price": 274
     },
     {
       "name": "Windwhistle",
@@ -57,7 +57,7 @@
       "description": "Explore Windwhistle with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 502
+      "avg_price": 504
     }
   ],
   "seo": {

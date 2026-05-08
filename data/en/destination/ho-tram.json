@@ -4,26 +4,8 @@
   "country_code": "VN",
   "hero_title": "Hotels in Ho Tram",
   "description": "Discover the best hotels in Ho Tram, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/dyj89jne3okqo8yvk5",
+  "hero_image": "https://images.luxuryescapes.com/yuyqrt5q9a52i8orab7",
   "hotels": [
-    {
-      "vendor_name": "Angsana Ho Tram",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Ho Tram",
-      "title": "Idyllic Vietnam Beachfront Hideaway Overlooking Unspoilt Greenery",
-      "description": "Venture out of Vietnam’s heaving capital and dive deep in the essence of coastal tranquillity at Angsana Ho Tram. Find your inner sense of serenity within verdant, untouched scenery that nudges up against a sparkling, and virtually secluded, coastline. Admire thriving gardens as you laze poolside or get to the heart of the area’s natural beauty with a stroll through waving trees to the magnificent beachfront. After days full of adventure, nourish your body with culinary delights at Nook, or watch the sunset as you enjoy mouthwatering dishes at Azura.",
-      "location_subheading": "Vietnam",
-      "price": 345,
-      "original_price": 345,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EeJr6AAF",
-      "hero_image": "https://images.luxuryescapes.com/dyj89jne3okqo8yvk5",
-      "image_two": "https://images.luxuryescapes.com/3t20r197ziss0amtiamw",
-      "image_three": "https://images.luxuryescapes.com/xgfrsimt4kdlvy0kgxd9",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Angsana Ho Tram",
       "offer_country_name": "Vietnam",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 5,
       "end_date_utc": "2026-06-05 13:59:00"
+    },
+    {
+      "vendor_name": "Angsana Ho Tram",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Ho Tram",
+      "title": "Idyllic Vietnam Beachfront Hideaway Overlooking Unspoilt Greenery",
+      "description": "Venture out of Vietnam’s heaving capital and dive deep in the essence of coastal tranquillity at Angsana Ho Tram. Find your inner sense of serenity within verdant, untouched scenery that nudges up against a sparkling, and virtually secluded, coastline. Admire thriving gardens as you laze poolside or get to the heart of the area’s natural beauty with a stroll through waving trees to the magnificent beachfront. After days full of adventure, nourish your body with culinary delights at Nook, or watch the sunset as you enjoy mouthwatering dishes at Azura.",
+      "location_subheading": "Vietnam",
+      "price": 345,
+      "original_price": 345,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EeJr6AAF",
+      "hero_image": "https://images.luxuryescapes.com/dyj89jne3okqo8yvk5",
+      "image_two": "https://images.luxuryescapes.com/3t20r197ziss0amtiamw",
+      "image_three": "https://images.luxuryescapes.com/xgfrsimt4kdlvy0kgxd9",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Dhawa Ho Tram",
@@ -67,8 +67,8 @@
       "title": "Five-Star Vietnam Beachside Retreat Just 2.5 Hours from Ho Chi Minh City with 16 Restaurants & World-Class Golf Course",
       "description": "Surrounded by the famed sand dunes of one of Asia’s most acclaimed golf courses and the shimmering turquoise waters of the South China Sea, InterContinental Grand Ho Tram, an IHG Hotel offers Las Vegas-style luxury in the heart of Vietnam’s premier entertainment complex. Dine your way across 16 top-notch venues, head to The Bluffs Grand Ho Tram Strip to practice your long game or simply laze the day way by the hotel’s dazzling lagoon-style pool before an afternoon dip in the ocean.",
       "location_subheading": "Vietnam",
-      "price": 301,
-      "original_price": 301,
+      "price": 300,
+      "original_price": 300,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNUAKAA5",
       "hero_image": "https://images.luxuryescapes.com/yvbx30q1mmv5oojwvpm",
@@ -96,7 +96,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-07",
+    "last_updated": "2026-05-08",
     "hotel_count": 4,
     "average_price": 400,
     "average_discount": 15

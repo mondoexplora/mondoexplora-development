@@ -133,6 +133,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "H10 Universitat",
+      "offer_country_name": "Spain",
+      "location_heading": "Barcelona",
+      "title": "Boutique Barcelona City Break near Plaça Catalunya with Daily Breakfast",
+      "description": "Discover buzzing mercados, electric street art and iconic museums in the Catalan capital with a stay at this vibrant hotel. Located in the heart of Barcelona, next to Plaça Catalunya, this charming escape is steps away from world-class shopping on Passeig de Gracia, a handful of Gaudi's mind-blowing creations and legendary tapas spots that locals actually frequent. Twenty One Terrace is where the rooftop magic happens, serving up 9th-floor views and golden-hour cocktails with the city stretching out beneath you. Downstairs, Moments Lounge Bar is your one-stop shop for all-day coffee, cosmopolitan cocktails and tempting tapas. This is your launchpad for enjoying Barcelona like a local.",
+      "location_subheading": "Spain",
+      "price": 289,
+      "original_price": 1032,
+      "discount_percentage": 72,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Sxv3mYAB",
+      "hero_image": "https://images.luxuryescapes.com/9un4jthh6qxwdolxqfcj",
+      "image_two": "https://images.luxuryescapes.com/m186cmcofotm5ljrivw",
+      "image_three": "https://images.luxuryescapes.com/gqa3ou2mui4t4apg10bhu",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-06-05 13:59:00"
+    },
+    {
       "vendor_name": "H10 Urquinaona Plaza Barcelona",
       "offer_country_name": "Spain",
       "location_heading": "Barcelona",
@@ -384,9 +402,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-07",
-    "hotel_count": 20,
-    "average_price": 720,
-    "average_discount": 13
+    "last_updated": "2026-05-08",
+    "hotel_count": 21,
+    "average_price": 700,
+    "average_discount": 16
   }
 }

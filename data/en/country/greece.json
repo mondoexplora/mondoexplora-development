@@ -15,22 +15,22 @@
       "avg_price": 544
     },
     {
+      "name": "Santorini",
+      "slug": "santorini",
+      "image": "https://images.luxuryescapes.com/dqtd75imlwtlhnlwuai",
+      "description": "Explore Santorini with luxury accommodations",
+      "hotel_count": 10,
+      "hotel_deals": 10,
+      "avg_price": 928
+    },
+    {
       "name": "Crete",
       "slug": "crete",
       "image": "https://images.luxuryescapes.com/gqg07xxgnt8ol0n5wfw",
       "description": "Explore Crete with luxury accommodations",
       "hotel_count": 9,
       "hotel_deals": 9,
-      "avg_price": 741
-    },
-    {
-      "name": "Santorini",
-      "slug": "santorini",
-      "image": "https://images.luxuryescapes.com/dqtd75imlwtlhnlwuai",
-      "description": "Explore Santorini with luxury accommodations",
-      "hotel_count": 9,
-      "hotel_deals": 9,
-      "avg_price": 964
+      "avg_price": 748
     },
     {
       "name": "Mykonos",
@@ -48,7 +48,7 @@
       "description": "Explore Corfu with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 794
+      "avg_price": 798
     },
     {
       "name": "Paros",
