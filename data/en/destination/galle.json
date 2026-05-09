@@ -4,25 +4,25 @@
   "country_code": "LK",
   "hero_title": "Hotels in Galle",
   "description": "Discover the best hotels in Galle, Sri Lanka. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/2zbqjlij9a1z3mcqb98",
+  "hero_image": "https://images.luxuryescapes.com/mkkc4scohz1whbry81",
   "hotels": [
     {
       "vendor_name": "The Fortress Resort & Spa Sri Lanka",
       "offer_country_name": "Sri Lanka",
       "location_heading": "Galle",
-      "title": "Sri Lanka Beachfront Haven with Massages, Daily Breakfast, Nightly Dinner & Free-Flow Cocktail Hour",
-      "description": "Overlooking the magnificent Indian Ocean, this luxurious coastal escape is where relaxation and refined comforts come together for an unforgettable five-star experience. Located just a 30-minute drive from the popular town of Galle and set against the crashing waves of tranquil Galle Beach - mere moments from Sri Lanka’s iconic stilt fishermen - the property draws inspiration from the unique architecture of historic Galle Fort. Traditional Dutch and Portuguese design nuances cast you back in time, while 55 exquisite rooms and suites coccoon you in sleek, modern comforts for a seamless retreat. Choose from two fine-dining options framed by sweeping ocean panoramas and stop by the Ayurveda spa for holistic wellness therapies. Take a dip in the 52-metre free-form pool or simply lounge on the heavenly beach as the sun dips below the horizon.",
+      "title": "Sri Lanka Beachfront Luxury with Daily Breakfast, Nightly Dinner & Free-Flow Cocktail Hour",
+      "description": "Styled after the ramparts of historic Galle Fort and set on a private stretch of Sri Lanka's southern coast, The Fortress Resort and Spa blends Dutch colonial heritage with contemporary design. The cobbled streets, Portuguese churches and colourful bazaars of Galle's old town are only 30 minutes by car, while the stilt fishermen of Koggala cast their lines just beyond the resort's shoreline. The experience here is unhurried and deeply considered. Senses Spa fuses traditional Ayurveda and Thai healing techniques, delivering a truly distinctive approach to wellness. Beyond the spa, a sweeping infinity pool faces the Indian Ocean, three dining venues span from authentic Sri Lankan to wood-fired pizza, and the beachfront provides a quietly spectacular setting for doing very little at all.",
       "location_subheading": "Sri Lanka",
-      "price": 559,
-      "original_price": 1803,
-      "discount_percentage": 69,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JDTyvYAH",
-      "hero_image": "https://images.luxuryescapes.com/2zbqjlij9a1z3mcqb98",
-      "image_two": "https://images.luxuryescapes.com/2l4gt2tct7tnn7770i46",
-      "image_three": "https://images.luxuryescapes.com/jrewtxwmo3ocqtzbcr",
+      "price": 779,
+      "original_price": 2226,
+      "discount_percentage": 65,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000V1Q59YAF",
+      "hero_image": "https://images.luxuryescapes.com/mkkc4scohz1whbry81",
+      "image_two": "https://images.luxuryescapes.com/u8419go9l9hcetisr036",
+      "image_three": "https://images.luxuryescapes.com/hfbxe0n6xzuchbz3nv",
       "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 7,
-      "end_date_utc": "2026-04-14 13:59:00"
+      "min_duration": 5,
+      "end_date_utc": "2026-08-06 13:59:00"
     }
   ],
   "seo": {
@@ -42,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-14",
+    "last_updated": "2026-05-09",
     "hotel_count": 1,
-    "average_price": 559,
-    "average_discount": 69
+    "average_price": 779,
+    "average_discount": 65
   }
 }

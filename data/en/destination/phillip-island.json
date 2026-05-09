@@ -1,0 +1,50 @@
+{
+  "city": "Phillip Island",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Phillip Island",
+  "description": "Discover the best hotels in Phillip Island, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/a9uvcw4ly9jx2vzbyd6q",
+  "hotels": [
+    {
+      "vendor_name": "Ramada Resort Phillip Island",
+      "offer_country_name": "Australia",
+      "location_heading": "Phillip Island",
+      "title": "Phillip Island Family-Friendly Villas with Daily Breakfast, Pizza Dinner & Penguin Tour Upgrades Available",
+      "description": "Set across 65 acres of native bushland and gardens in Cowes, Ramada Resort by Wyndham Phillip Island is a family-friendly retreat perfectly placed for exploring Phillip Island. Every member of the family can find days of excitement just nearby at attractions such as The Koala Conservation Centre, the famous Penguin Parade and the Phillip Island Grand Prix Circuit. Back at the resort, comprehensive facilities keep the whole family occupied. Three swimming pools, two tennis courts, a kids' club and an arcade cater to younger guests, while two health centres with a fitness centre and spa pool give adults plenty of reason to slow down. Flametrees Restaurant and Bar serves woodfired pizzas, and self-contained villas make it easy to cook in if you prefer.",
+      "location_subheading": "Australia",
+      "price": 269,
+      "original_price": 472,
+      "discount_percentage": 43,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000U75cnYAB",
+      "hero_image": "https://images.luxuryescapes.com/a9uvcw4ly9jx2vzbyd6q",
+      "image_two": "https://images.luxuryescapes.com/nnzgbmy7apa68po6i046",
+      "image_three": "https://images.luxuryescapes.com/egcezqetynwvz742m54c",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-07-03 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Phillip Island - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Phillip Island, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "phillip island hotels",
+      "phillip island travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/phillip-island",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/phillip-island",
+      "es": "https://mondoexplora.com/es/destination/phillip-island",
+      "fr": "https://mondoexplora.com/fr/destination/phillip-island",
+      "it": "https://mondoexplora.com/it/destination/phillip-island"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-05-09",
+    "hotel_count": 1,
+    "average_price": 269,
+    "average_discount": 43
+  }
+}
