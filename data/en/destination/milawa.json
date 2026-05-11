@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Milawa",
   "description": "Discover the best hotels in Milawa, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/424e5njudbsw40ixetm",
+  "hero_image": "https://images.luxuryescapes.com/gs8o561cxpto2xramlsq",
   "hotels": [
-    {
-      "vendor_name": "Lancemore Milawa",
-      "offer_country_name": "Australia",
-      "location_heading": "Milawa",
-      "title": "Boutique King Valley Vineyard Escape with Daily Breakfast, Nightly Drinks & Wine Tastings",
-      "description": "Discover Victoria’s beautiful High Country with a romantic escape among the vineyards of the King Valley gourmet food and wine region. Ideally located three hours' drive from Melbourne, this elegant hotel is perfectly placed for an indulgent getaway, with world-class epicurean hot spots on its doorstep. Overlooking picture-perfect gardens, each elegant room is designed to bring the beauty of the outside in. First-class facilities include a sauna and outdoor swimming pool, plus a cosy wood fireplace for a romantic year-round retreat. The onsite Merlot Restaurant Bar boasts floor-to-ceiling windows and celebrates the region’s finest artisanal producers. When it's time to venture out, spend an afternoon cruising the famous King Valley Prosecco Road or pop into local breweries to sample intriguing craft brews. The quaint High Country towns of Bright and Beechworth also make for easy day trips through lush countryside.",
-      "location_subheading": "Australia",
-      "price": 329,
-      "original_price": 783,
-      "discount_percentage": 58,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RiWxWYAV",
-      "hero_image": "https://images.luxuryescapes.com/424e5njudbsw40ixetm",
-      "image_two": "https://images.luxuryescapes.com/a1fihq79dko99cop9fy",
-      "image_three": "https://images.luxuryescapes.com/8yjan8a4hrqejk3foc15",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 2,
-      "end_date_utc": "2026-06-17 13:59:00"
-    },
     {
       "vendor_name": "Lancemore Milawa",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Lancemore Milawa",
+      "offer_country_name": "Australia",
+      "location_heading": "Milawa",
+      "title": "Boutique King Valley Vineyard Escape with Daily Breakfast, Nightly Drinks & Wine Tastings",
+      "description": "Discover Victoria’s beautiful High Country with a romantic escape among the vineyards of the King Valley gourmet food and wine region. Ideally located three hours' drive from Melbourne, this elegant hotel is perfectly placed for an indulgent getaway, with world-class epicurean hot spots on its doorstep. Overlooking picture-perfect gardens, each elegant room is designed to bring the beauty of the outside in. First-class facilities include a sauna and outdoor swimming pool, plus a cosy wood fireplace for a romantic year-round retreat. The onsite Merlot Restaurant Bar boasts floor-to-ceiling windows and celebrates the region’s finest artisanal producers. When it's time to venture out, spend an afternoon cruising the famous King Valley Prosecco Road or pop into local breweries to sample intriguing craft brews. The quaint High Country towns of Bright and Beechworth also make for easy day trips through lush countryside.",
+      "location_subheading": "Australia",
+      "price": 329,
+      "original_price": 783,
+      "discount_percentage": 58,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RiWxWYAV",
+      "hero_image": "https://images.luxuryescapes.com/424e5njudbsw40ixetm",
+      "image_two": "https://images.luxuryescapes.com/a1fihq79dko99cop9fy",
+      "image_three": "https://images.luxuryescapes.com/8yjan8a4hrqejk3foc15",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-06-17 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-10",
+    "last_updated": "2026-05-11",
     "hotel_count": 2,
     "average_price": 425,
     "average_discount": 34

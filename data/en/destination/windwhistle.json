@@ -4,26 +4,8 @@
   "country_code": "NZ",
   "hero_title": "Hotels in Windwhistle",
   "description": "Discover the best hotels in Windwhistle, New Zealand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/pdurqdv1qdcg3chzmeh",
+  "hero_image": "https://images.luxuryescapes.com/ch4z2rxr1m69lb7kx3o",
   "hotels": [
-    {
-      "vendor_name": "Fable Terrace Downs Resort",
-      "offer_country_name": "New Zealand",
-      "location_heading": "Windwhistle",
-      "title": "New Zealand South Island Two-Bedroom Villas with Two Rounds of Golf, Champion Course & Daily Breakfast",
-      "description": "Soak up the beauty of Canterbury’s picturesque Southern Alps with an escape at the blissfully secluded Fable Terrace Downs Resort. Here, luxurious relaxation meets stunning scenery and avid golfers can revel in the chance to play on a high country 18-hole championship golf course designed by Sid Puddicombe. After hours winding your way along the green, refuel at the Clubhouse Restaurant for locally sourced produce with a contemporary take on classic favourites. Soak up the natural wonders of the region, or try your hand at a round of archery, a casual match of tennis or hire a mountain bike and trace the trails to admire the beauty of the Rakaia River and Mt Hutt.",
-      "location_subheading": "New Zealand",
-      "price": 499,
-      "original_price": 780,
-      "discount_percentage": 36,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000MJ3ojYAD",
-      "hero_image": "https://images.luxuryescapes.com/pdurqdv1qdcg3chzmeh",
-      "image_two": "https://images.luxuryescapes.com/1riyfgl635espnvc0u5",
-      "image_three": "https://images.luxuryescapes.com/n31od9j6xeupysh9qu7e",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-11-30 12:59:00"
-    },
     {
       "vendor_name": "Fable Terrace Downs Resort",
       "offer_country_name": "New Zealand",
@@ -41,6 +23,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Fable Terrace Downs Resort",
+      "offer_country_name": "New Zealand",
+      "location_heading": "Windwhistle",
+      "title": "New Zealand South Island Two-Bedroom Villas with Two Rounds of Golf, Champion Course & Daily Breakfast",
+      "description": "Soak up the beauty of Canterbury’s picturesque Southern Alps with an escape at the blissfully secluded Fable Terrace Downs Resort. Here, luxurious relaxation meets stunning scenery and avid golfers can revel in the chance to play on a high country 18-hole championship golf course designed by Sid Puddicombe. After hours winding your way along the green, refuel at the Clubhouse Restaurant for locally sourced produce with a contemporary take on classic favourites. Soak up the natural wonders of the region, or try your hand at a round of archery, a casual match of tennis or hire a mountain bike and trace the trails to admire the beauty of the Rakaia River and Mt Hutt.",
+      "location_subheading": "New Zealand",
+      "price": 499,
+      "original_price": 780,
+      "discount_percentage": 36,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000MJ3ojYAD",
+      "hero_image": "https://images.luxuryescapes.com/pdurqdv1qdcg3chzmeh",
+      "image_two": "https://images.luxuryescapes.com/1riyfgl635espnvc0u5",
+      "image_three": "https://images.luxuryescapes.com/n31od9j6xeupysh9qu7e",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-11-30 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-10",
+    "last_updated": "2026-05-11",
     "hotel_count": 2,
     "average_price": 503,
     "average_discount": 18

@@ -61,6 +61,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Outrigger Waikiki Beachcomber Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Hawaii",
+      "title": "Hawaii Tropical Bliss Steps from Waikiki Beach with Daily Breakfast & Outdoor Pool",
+      "description": "Just steps from one of the world’s most iconic shorelines, OUTRIGGER Waikiki Beachcomber Hotel is Hawaii’s first and only craft hotel. Brought to you by the iconic OUTRIGGER Resorts & Hotels, curated by local artists and reflecting Hawaii's unique natural landscapes and rich culture, this stylish retreat is an iconic destination set right on Kalakaua Avenue - Honolulu's vibrant shopping and entertainment precinct. A standout entertainment feature, the onsite Cirque du Soleil’s 'Auana brings breathtaking acrobatics, side-splitting comedy, live music and hula dancers together in a dazzling celebration of Hawaii’s spirit - and a 10% discount means you'll be perfectly placed to savour the spectacle. Be sure to take advantage of the hotel's glorious outdoor pool for a refreshing dip. Grab a well-deserved pint at Maui Brewing Co. - an incredible craft brewery and bar, offering local beers, artisan cocktails and island cuisine - and savour locally grown Kona coffee and acai bowls at Hawaiian Aroma Caffe, Waikiki’s most Instagrammable coffee shop.",
+      "location_subheading": "United States",
+      "price": 1379,
+      "original_price": 2758,
+      "discount_percentage": 50,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000QBkv0YAD",
+      "hero_image": "https://images.luxuryescapes.com/wkjjd1jwqyis23v5tg",
+      "image_two": "https://images.luxuryescapes.com/i5buhnrtsw0iwik2m0y",
+      "image_three": "https://images.luxuryescapes.com/txvve1u7kigfvbmo0xro",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2026-06-15 13:59:00"
+    },
+    {
       "vendor_name": "Outrigger Kona Resort and Spa",
       "offer_country_name": "United States",
       "location_heading": "Hawaii",
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-10",
-    "hotel_count": 6,
-    "average_price": 1518,
-    "average_discount": 0
+    "last_updated": "2026-05-11",
+    "hotel_count": 7,
+    "average_price": 1498,
+    "average_discount": 7
   }
 }
