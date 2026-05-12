@@ -5,8 +5,8 @@
   "destination_country": "Australia",
   "transport_modes": {
     "flight": {
-      "duration": "1h 55m",
-      "price_range": "$95 - $220",
+      "duration": "1h 30m",
+      "price_range": "$120 - $350",
       "providers": [
         "Skyscanner",
         "Kayak",
@@ -14,7 +14,7 @@
       ]
     },
     "train": {
-      "duration": "5h 20m",
+      "duration": "3h 15m",
       "price_range": "$55 - $130",
       "providers": [
         "Rail Europe",
@@ -23,8 +23,8 @@
       ]
     },
     "bus": {
-      "duration": "6h 45m",
-      "price_range": "$35 - $80",
+      "duration": "4h 55m",
+      "price_range": "$25 - $60",
       "providers": [
         "FlixBus",
         "Greyhound",
@@ -33,8 +33,8 @@
     },
     "car": {
       "duration": "4h 15m",
-      "distance": "480 km",
-      "price_range": "$60 - $140"
+      "distance": "350 km",
+      "price_range": "$40 - $95"
     }
   },
   "seo": {
