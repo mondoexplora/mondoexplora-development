@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Torquay",
   "description": "Discover the best hotels in Torquay, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/t94vss4xsg20615bmfkf",
+  "hero_image": "https://images.luxuryescapes.com/yd2piat97t6fws5h8103",
   "hotels": [
+    {
+      "vendor_name": "RACV Torquay Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Torquay",
+      "title": "Award-Winning Surf Coast Escape on Great Ocean Road with Daily Breakfast & Nightly Drinks",
+      "description": "From world-class golf to acclaimed fine dining, this newly refurbished coastal resort offers unparalleled experiences just steps from the Great Ocean Road’s renowned surf beaches. Awarded the 2025 Tripadvisor Best of the Best title as one of Australia’s top hotels, RACV Torquay Resort has everything you could wish for. Start your holiday strong with a rejuvenating treatment at One Spa, or head to the pool for a few leisurely laps while the little ones enjoy the separate recreation area and wading pool. Perfect your swing at the 18-hole, par-71 golf course or stop by the tennis courts to work up a sweat - there’s something for the whole family here. When it’s time to indulge, treat your palate at Number One restaurant, unwind in the relaxed ambience of White’s Paddock, or soak up the sun and ocean views with a drink in hand at SeaSpray Co. When you're ready to discover the region, venture out to explore the Great Ocean Road, Bells Beach and the charming town of Torquay, all just a stone’s throw away.",
+      "location_subheading": "Australia",
+      "price": 359,
+      "original_price": 718,
+      "discount_percentage": 50,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000U8FDXYA3",
+      "hero_image": "https://images.luxuryescapes.com/yd2piat97t6fws5h8103",
+      "image_two": "https://images.luxuryescapes.com/awnhg45xml0g69bgc9o",
+      "image_three": "https://images.luxuryescapes.com/53povit96djciwp2nztv",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-05-31 13:59:00"
+    },
     {
       "vendor_name": "The Sands Torquay",
       "offer_country_name": "Australia",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-12",
-    "hotel_count": 2,
-    "average_price": 276,
-    "average_discount": 26
+    "last_updated": "2026-05-13",
+    "hotel_count": 3,
+    "average_price": 303,
+    "average_discount": 34
   }
 }
