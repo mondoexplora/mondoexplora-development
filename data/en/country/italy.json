@@ -12,7 +12,7 @@
       "description": "Explore Rome with luxury accommodations",
       "hotel_count": 10,
       "hotel_deals": 10,
-      "avg_price": 840
+      "avg_price": 836
     },
     {
       "name": "Milan",
@@ -21,7 +21,7 @@
       "description": "Explore Milan with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 435
+      "avg_price": 434
     },
     {
       "name": "Florence",
@@ -57,7 +57,7 @@
       "description": "Explore Verona with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 391
+      "avg_price": 386
     }
   ],
   "seo": {

@@ -5,8 +5,8 @@
   "destination_country": "United States",
   "transport_modes": {
     "flight": {
-      "duration": "3h 45m",
-      "price_range": "$120 - $350",
+      "duration": "4h 20m",
+      "price_range": "$150 - $400",
       "providers": [
         "Skyscanner",
         "Kayak",
@@ -23,8 +23,8 @@
       ]
     },
     "bus": {
-      "duration": "7h 20m",
-      "price_range": "$35 - $80",
+      "duration": "6h 45m",
+      "price_range": "$20 - $50",
       "providers": [
         "FlixBus",
         "Greyhound",
@@ -34,7 +34,7 @@
     "car": {
       "duration": "4h 30m",
       "distance": "350 km",
-      "price_range": "$60 - $140"
+      "price_range": "$30 - $70"
     }
   },
   "seo": {
