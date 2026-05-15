@@ -97,6 +97,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Modernity Suites",
+      "offer_country_name": "Greece",
+      "location_heading": "Santorini",
+      "title": "Intimate 4-Suite Santorini Escape with Welcome Wine, One-Way Transfers, Private Jacuzzi & Sunset Views",
+      "description": "With just four suites perched above the caldera in the heart of Fira, Modernity Suites delivers one of Santorini's most intimate escapes. The views are exactly what you come to this island for - sweeping panoramas of the caldera, the volcano and the deep Aegean blue, best enjoyed from your own private jacuzzi terrace. The property sits in the vibrant centre of Fira, Santorini's whitewashed capital, where elegant boutiques, cafes, restaurants and bars spill along sun-drenched alleyways above the sea. Everything the island's most cosmopolitan town has to offer is on your doorstep, yet the suites themselves feel like a private retreat from it all. Stylish contemporary decor, modern amenities and genuinely personalised service round out a stay that strikes the balance between being beautifully located and quietly secluded.",
+      "location_subheading": "Greece",
+      "price": 605,
+      "original_price": 605,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Rdy4rYAB",
+      "hero_image": "https://images.luxuryescapes.com/ilfvs74n79oj6mhxsf7",
+      "image_two": "https://images.luxuryescapes.com/7934fdg1z9eg6iebaeec",
+      "image_three": "https://images.luxuryescapes.com/s4u68wea2ph934hpght",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Nikki Beach Resort & Spa Santorini",
       "offer_country_name": "Greece",
       "location_heading": "Santorini",
@@ -113,24 +131,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Palm Island Suites, Santorini",
-      "offer_country_name": "Greece",
-      "location_heading": "Santorini",
-      "title": "Boutique Santorini Oceanview Suites with Daily Breakfast, Nightly Dinner & Daily Cocktails",
-      "description": "Perched on Santorini's iconic caldera rim, Palm Island Suites is where whitewashed Cycladic design meets endless Aegean views, with just 21 luxurious suites scattered across pristine grounds. Every accommodation comes with its own private terrace or pool, creating a serene base for soaking up the island’s most spectacular setting. Slow mornings begin with breakfast above the cliffs, while afternoons unfold around the palm-fringed pool framed by panoramic sea views. When culture calls, Fira's gold-domed cathedral and the Museum of Prehistoric Thera are a short drive away. Follow the caldera path to Firostefani for dinner, head to Imerovigli for fresh seafood and local Assyrtiko, or venture 15 minutes away to the white-washed charm of Oia.",
-      "location_subheading": "Greece",
-      "price": 485,
-      "original_price": 1470,
-      "discount_percentage": 67,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TM6qtYAD",
-      "hero_image": "https://images.luxuryescapes.com/24b1jq7gy9sj5orqh8j",
-      "image_two": "https://images.luxuryescapes.com/3zbodugb1hvew5d8yhjr",
-      "image_three": "https://images.luxuryescapes.com/fdfim8twh86e3g3zg309",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 3,
-      "end_date_utc": "2026-05-14 13:59:00"
     },
     {
       "vendor_name": "Santo Mine Oia Suites",
@@ -204,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-14",
+    "last_updated": "2026-05-15",
     "hotel_count": 10,
-    "average_price": 928,
-    "average_discount": 21
+    "average_price": 940,
+    "average_discount": 14
   }
 }
