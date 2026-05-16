@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Hahndorf",
   "description": "Discover the best hotels in Hahndorf, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/4fgic6lvhdnagrn3876",
+  "hero_image": "https://images.luxuryescapes.com/p84qjdvx0cbquj3mtl1",
   "hotels": [
-    {
-      "vendor_name": "CABN Hahndorf",
-      "offer_country_name": "Australia",
-      "location_heading": "Hahndorf",
-      "title": "Hahndorf Off-Grid Luxury Eco-Cabin within Adelaide Hills Wine Country",
-      "description": "Unplug and unwind at this off-grid eco-sanctuary, a collection of cosy cabins in the Adelaide Hills, housed within a natural amphitheatre of native gum trees. Disconnect from the noise and reconnect with the earth’s rhythms from the comfort of your chic retreat, boasting a fireplace, barbeque, kitchenette and an outdoor sitting area to enjoy the native flora and fauna from your doorstep. Venture further afield to discover the charming German village of Hahndorf where the streets are lined with artisan shops, or taste local drops from Shaw and Smith, Sidewood Estate, Hahndorf Hill Winery and Ambleside Distillers in the renowned Adelaide Hills region. Visit the Beerenberg Family farm, where Australian jams, chutneys, relishes and sauces are made, pick fresh strawberries in the summertime or head to Jurlique Farm - home to the renowned beauty label of the same name - just a 15-minute drive away.",
-      "location_subheading": "Australia",
-      "price": 239,
-      "original_price": 398,
-      "discount_percentage": 40,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PreiTYAR",
-      "hero_image": "https://images.luxuryescapes.com/4fgic6lvhdnagrn3876",
-      "image_two": "https://images.luxuryescapes.com/zefnxwcmssicd2rbfjr",
-      "image_three": "https://images.luxuryescapes.com/go078riunlyg7wsc4iev",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-06-08 13:59:00"
-    },
     {
       "vendor_name": "CABN Hahndorf",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "CABN Hahndorf",
+      "offer_country_name": "Australia",
+      "location_heading": "Hahndorf",
+      "title": "Hahndorf Off-Grid Luxury Eco-Cabin within Adelaide Hills Wine Country",
+      "description": "Unplug and unwind at this off-grid eco-sanctuary, a collection of cosy cabins in the Adelaide Hills, housed within a natural amphitheatre of native gum trees. Disconnect from the noise and reconnect with the earth’s rhythms from the comfort of your chic retreat, boasting a fireplace, barbeque, kitchenette and an outdoor sitting area to enjoy the native flora and fauna from your doorstep. Venture further afield to discover the charming German village of Hahndorf where the streets are lined with artisan shops, or taste local drops from Shaw and Smith, Sidewood Estate, Hahndorf Hill Winery and Ambleside Distillers in the renowned Adelaide Hills region. Visit the Beerenberg Family farm, where Australian jams, chutneys, relishes and sauces are made, pick fresh strawberries in the summertime or head to Jurlique Farm - home to the renowned beauty label of the same name - just a 15-minute drive away.",
+      "location_subheading": "Australia",
+      "price": 239,
+      "original_price": 398,
+      "discount_percentage": 40,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PreiTYAR",
+      "hero_image": "https://images.luxuryescapes.com/4fgic6lvhdnagrn3876",
+      "image_two": "https://images.luxuryescapes.com/zefnxwcmssicd2rbfjr",
+      "image_three": "https://images.luxuryescapes.com/go078riunlyg7wsc4iev",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-06-08 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-15",
+    "last_updated": "2026-05-16",
     "hotel_count": 2,
     "average_price": 383,
     "average_discount": 25
