@@ -100,24 +100,6 @@
       "vendor_name": "Torel Palace Porto",
       "offer_country_name": "Portugal",
       "location_heading": "Porto",
-      "title": "Five-Star Porto Heritage Palace Luxury",
-      "description": "Embrace the romance and regality of Porto with an escape at Torel Palace Porto, a luxurious five-star hotel housed in a stunningly restored Romantic-era palace. This ornate oasis, once known as the Palacete Campos Navarro, takes pride of place in the middle of Porto, just steps from Batalha Square and its striking Santo Ildefonso Church, the famous Bolháo food market, and iconic shopping strip Rua Santa Catarina. There’s no mistaking the palatial property - the jewel in its crown is a stunning skylight (claraboia), which floods the interiors with natural light, illuminating the beautifully restored stucco details, artwork and opulent textures. Each room and suite takes inspiration from the works of a regarded Portuguese writer or poet, including Florbela Espanca, José Régio and Miguel Torga, honouring their contribution to the country's cultural tapestry. Cosy up in the peaceful library or while away the day on the terrace. Continue the descent into serenity with a massage or scrub at CALLA Wellness Suite, or feast at the atmospheric BLIND Restaurant & Bar, inspired by Nobel laureate writer José Saramago, with sense-led dishes that celebrate Porto’s bounty of local and seasonal produce.",
-      "location_subheading": "Portugal",
-      "price": 402,
-      "original_price": 583,
-      "discount_percentage": 31,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004VgNIAA0",
-      "hero_image": "https://images.luxuryescapes.com/en7krdn2m4o3bxepfe9",
-      "image_two": "https://images.luxuryescapes.com/nz64klj8obey0cj7co5c",
-      "image_three": "https://images.luxuryescapes.com/xyg15kl4rjsfiiz15ka",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Torel Palace Porto",
-      "offer_country_name": "Portugal",
-      "location_heading": "Porto",
       "title": "Portugal Boutique Luxury in the Heart of Porto with Daily Breakfast & Michelin-Starred Restaurant",
       "description": "Housed in a beautifully restored 19th-century mansion, Torel Palace Porto is a boutique retreat that makes for the perfect Porto base. The hotel was awarded a Michelin Key in 2025, and every one of just 41 opulent rooms pays homage to a celebrated Portuguese writer - complete with ornate stucco ceilings, lavish onyx bathrooms and maximalist decor. Indulge with Michelin-starred fare and a sensory dining concept at Blind, and sample decadent pastries at the in-house Florbela Pâtisserie. Find your bliss with luxurious treatments at Calla Wellness Suite, then lounge by the emerald outdoor pool, all wrapped in exceptionally personalised service. Set in Porto's historic Old Town, the hotel is a short stroll from top attractions including São Bento station, the Santo Ildefonso Church and the lively Bolhão market. The city's best dining, shopping and riverside Ribeira quarter are all within easy reach, making this your ideal Porto launchpad.",
       "location_subheading": "Portugal",
@@ -131,6 +113,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-06-02 13:59:00"
+    },
+    {
+      "vendor_name": "Torel Palace Porto",
+      "offer_country_name": "Portugal",
+      "location_heading": "Porto",
+      "title": "Five-Star Porto Heritage Palace Luxury",
+      "description": "Embrace the romance and regality of Porto with an escape at Torel Palace Porto, a luxurious five-star hotel housed in a stunningly restored Romantic-era palace. This ornate oasis, once known as the Palacete Campos Navarro, takes pride of place in the middle of Porto, just steps from Batalha Square and its striking Santo Ildefonso Church, the famous Bolháo food market, and iconic shopping strip Rua Santa Catarina. There’s no mistaking the palatial property - the jewel in its crown is a stunning skylight (claraboia), which floods the interiors with natural light, illuminating the beautifully restored stucco details, artwork and opulent textures. Each room and suite takes inspiration from the works of a regarded Portuguese writer or poet, including Florbela Espanca, José Régio and Miguel Torga, honouring their contribution to the country's cultural tapestry. Cosy up in the peaceful library or while away the day on the terrace. Continue the descent into serenity with a massage or scrub at CALLA Wellness Suite, or feast at the atmospheric BLIND Restaurant & Bar, inspired by Nobel laureate writer José Saramago, with sense-led dishes that celebrate Porto’s bounty of local and seasonal produce.",
+      "location_subheading": "Portugal",
+      "price": 402,
+      "original_price": 583,
+      "discount_percentage": 31,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004VgNIAA0",
+      "hero_image": "https://images.luxuryescapes.com/en7krdn2m4o3bxepfe9",
+      "image_two": "https://images.luxuryescapes.com/nz64klj8obey0cj7co5c",
+      "image_three": "https://images.luxuryescapes.com/xyg15kl4rjsfiiz15ka",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Casa da Companhia",
@@ -186,7 +186,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-16",
+    "last_updated": "2026-05-17",
     "hotel_count": 9,
     "average_price": 424,
     "average_discount": 17
