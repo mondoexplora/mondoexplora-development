@@ -4,8 +4,26 @@
   "country_code": "MY",
   "hero_title": "Hotels in Kuching",
   "description": "Discover the best hotels in Kuching, Malaysia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/21i7llxujr5xkfnd9o",
+  "hero_image": "https://images.luxuryescapes.com/j9aoy7us0us1tp4woo4j",
   "hotels": [
+    {
+      "vendor_name": "Cove 55",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Kuching",
+      "title": "Intimate Malaysia Hideaway near Kuching City",
+      "description": "Hidden at the foot of Mount Santubong near the alluring Malaysian Borneo capital of Kuching, Cove 55 is the place to completely retreat from the rest of the world. A former holiday home turned intimate hideaway with ranking as Tripadvisor’s #1 property in Kuching, this boutique escape is home to 28 light-filled rooms. Take a stroll through the perfectly manicured gardens and you'll find pristine white exteriors, tribal-inspired luxury and a 30-metre infinity swimming pool suspended above the South China Sea. The water is gloriously refreshing - you'll be tempted to soak until sunset. Then it's up to Kechala Restaurant & Bar for tantalising dishes infused with Sarawakian flavours, or perhaps the Cove Bar perched on the Sea Deck for a mixologist-crafted cocktail. Less than a 40-minute drive from Kuching City, this secluded spot is somewhere you can discover pristine nature and local culture effortlessly, while away an afternoon in the Library and fall asleep each night to the sound of waves.",
+      "location_subheading": "Malaysia",
+      "price": 432,
+      "original_price": 502,
+      "discount_percentage": 14,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003qkCoAAI",
+      "hero_image": "https://images.luxuryescapes.com/j9aoy7us0us1tp4woo4j",
+      "image_two": "https://images.luxuryescapes.com/0z13k8azejhgjkpyj2r5",
+      "image_three": "https://images.luxuryescapes.com/c72sdhxz1q5dl07q97hc",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Cove 55",
       "offer_country_name": "Malaysia",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 3,
       "end_date_utc": "2026-06-29 13:59:00"
-    },
-    {
-      "vendor_name": "Cove 55",
-      "offer_country_name": "Malaysia",
-      "location_heading": "Kuching",
-      "title": "Intimate Malaysia Hideaway near Kuching City",
-      "description": "Hidden at the foot of Mount Santubong near the alluring Malaysian Borneo capital of Kuching, Cove 55 is the place to completely retreat from the rest of the world. A former holiday home turned intimate hideaway with ranking as Tripadvisor’s #1 property in Kuching, this boutique escape is home to 28 light-filled rooms. Take a stroll through the perfectly manicured gardens and you'll find pristine white exteriors, tribal-inspired luxury and a 30-metre infinity swimming pool suspended above the South China Sea. The water is gloriously refreshing - you'll be tempted to soak until sunset. Then it's up to Kechala Restaurant & Bar for tantalising dishes infused with Sarawakian flavours, or perhaps the Cove Bar perched on the Sea Deck for a mixologist-crafted cocktail. Less than a 40-minute drive from Kuching City, this secluded spot is somewhere you can discover pristine nature and local culture effortlessly, while away an afternoon in the Library and fall asleep each night to the sound of waves.",
-      "location_subheading": "Malaysia",
-      "price": 432,
-      "original_price": 497,
-      "discount_percentage": 13,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003qkCoAAI",
-      "hero_image": "https://images.luxuryescapes.com/j9aoy7us0us1tp4woo4j",
-      "image_two": "https://images.luxuryescapes.com/0z13k8azejhgjkpyj2r5",
-      "image_three": "https://images.luxuryescapes.com/c72sdhxz1q5dl07q97hc",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Pullman Kuching",
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-17",
+    "last_updated": "2026-05-18",
     "hotel_count": 3,
     "average_price": 357,
     "average_discount": 25
