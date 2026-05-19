@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Milawa",
   "description": "Discover the best hotels in Milawa, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/gs8o561cxpto2xramlsq",
+  "hero_image": "https://images.luxuryescapes.com/424e5njudbsw40ixetm",
   "hotels": [
-    {
-      "vendor_name": "Lancemore Milawa",
-      "offer_country_name": "Australia",
-      "location_heading": "Milawa",
-      "title": "Romantic Lancemore Wine-Lovers' Escape in the Heart of the King Valley",
-      "description": "Known as a foodie’s heaven and a wine connoisseur’s delight, the picturesque Lancemore Milawa offers visitors a breath of fresh country air in the gourmet King Valley region of Victoria’s beautiful High Country. Nestled amid lush countryside and rolling vineyards, the hotel provides the perfect opportunity to indulge, relax and explore the stunning scenery and local culinary scene. Ideally located only 2.5 hours' drive from Melbourne, the hotel is perfectly placed for exploring world-class epicurean hot spots such as the award-winning Milawa Cheese Company and the King Valley Prosecco Road, a haven of picturesque vineyards home to the iconic Brown Brothers winery. First-class onsite facilities include a gourmet restaurant, outdoor swimming pool and a cosy wood fireplace to ensure a romantic escape year-round.",
-      "location_subheading": "Australia",
-      "price": 503,
-      "original_price": 565,
-      "discount_percentage": 11,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000BctBqAAJ",
-      "hero_image": "https://images.luxuryescapes.com/gs8o561cxpto2xramlsq",
-      "image_two": "https://images.luxuryescapes.com/i3cfsjqm4t3u870kbu9",
-      "image_three": "https://images.luxuryescapes.com/5g8giuv5xlliwuyd502",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Lancemore Milawa",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 2,
       "end_date_utc": "2026-06-17 13:59:00"
+    },
+    {
+      "vendor_name": "Lancemore Milawa",
+      "offer_country_name": "Australia",
+      "location_heading": "Milawa",
+      "title": "Romantic Lancemore Wine-Lovers' Escape in the Heart of the King Valley",
+      "description": "Known as a foodie’s heaven and a wine connoisseur’s delight, the picturesque Lancemore Milawa offers visitors a breath of fresh country air in the gourmet King Valley region of Victoria’s beautiful High Country. Nestled amid lush countryside and rolling vineyards, the hotel provides the perfect opportunity to indulge, relax and explore the stunning scenery and local culinary scene. Ideally located only 2.5 hours' drive from Melbourne, the hotel is perfectly placed for exploring world-class epicurean hot spots such as the award-winning Milawa Cheese Company and the King Valley Prosecco Road, a haven of picturesque vineyards home to the iconic Brown Brothers winery. First-class onsite facilities include a gourmet restaurant, outdoor swimming pool and a cosy wood fireplace to ensure a romantic escape year-round.",
+      "location_subheading": "Australia",
+      "price": 472,
+      "original_price": 530,
+      "discount_percentage": 11,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000BctBqAAJ",
+      "hero_image": "https://images.luxuryescapes.com/gs8o561cxpto2xramlsq",
+      "image_two": "https://images.luxuryescapes.com/i3cfsjqm4t3u870kbu9",
+      "image_three": "https://images.luxuryescapes.com/5g8giuv5xlliwuyd502",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-18",
+    "last_updated": "2026-05-19",
     "hotel_count": 2,
-    "average_price": 416,
+    "average_price": 401,
     "average_discount": 35
   }
 }

@@ -4,26 +4,8 @@
   "country_code": "IT",
   "hero_title": "Hotels in Rome",
   "description": "Discover the best hotels in Rome, Italy. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/47e1ttjh9i802zkv1tqq",
+  "hero_image": "https://images.luxuryescapes.com/r960jsrp7qvo5hyu1h2",
   "hotels": [
-    {
-      "vendor_name": "Palazzo 4 Fontane 12",
-      "offer_country_name": "Italy",
-      "location_heading": "Rome",
-      "title": "Grand Opening: Central Rome Palatial Retreat with Daily Breakfast & Nightly Spritz",
-      "description": "On a storied street where four Baroque fountains have marked the crossroads since 1588, Palazzo 4 Fontane 12 sits steps from Piazza Barberini and a short stroll from the Trevi Fountain, Spanish Steps and Via Veneto. Contemporary rooms look out over Via delle Quattro Fontane or the gardens of the adjacent Palazzo Barberini. The lounge, styled like a private home, is built for lingering with a book, informal gatherings or a quiet Negroni. Come warmer months, the rooftop terrace opens with sweeping views over the Barberini gardens. Barberini metro station is just around the corner, putting Termini and the rest of the city just moments away.",
-      "location_subheading": "Italy",
-      "price": 399,
-      "original_price": 973,
-      "discount_percentage": 59,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Toy57YAB",
-      "hero_image": "https://images.luxuryescapes.com/47e1ttjh9i802zkv1tqq",
-      "image_two": "https://images.luxuryescapes.com/yfhsmh8qnvhgvawjnm9p",
-      "image_three": "https://images.luxuryescapes.com/l0dhwpvdoyuc0r1w9kh7",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 3,
-      "end_date_utc": "2026-05-18 13:59:00"
-    },
     {
       "vendor_name": "Baglioni Hotel Regina",
       "offer_country_name": "Italy",
@@ -67,8 +49,8 @@
       "title": "Contemporary Rome City Escape with Rooftop Pool & Onsite Restaurant",
       "description": "Discover an oasis in the heart of Rome at this contemporary retreat, combining modern comforts with traditional Italian touches for an urban reprieve perfect after days spent exploring this historic city. Kick start your day at the onsite Uno Zero Uno restaurant, or venture out to discover local trattorias and bustling markets. Located beside the picturesque Trastevere district known for its lively laneways, restaurants and nightlife, this escape invites you to unwind after the day's adventures with its sparkling rooftop pool and jacuzzi, plus calming rooms and suites.",
       "location_subheading": "Italy",
-      "price": 359,
-      "original_price": 359,
+      "price": 390,
+      "original_price": 390,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EcEJLAA3",
       "hero_image": "https://images.luxuryescapes.com/bgtxvyea4nbuv2g3bnoh",
@@ -204,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-18",
-    "hotel_count": 10,
-    "average_price": 836,
-    "average_discount": 8
+    "last_updated": "2026-05-19",
+    "hotel_count": 9,
+    "average_price": 888,
+    "average_discount": 3
   }
 }
