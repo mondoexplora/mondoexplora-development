@@ -241,14 +241,32 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Ohla Barcelona",
+      "offer_country_name": "Spain",
+      "location_heading": "Barcelona",
+      "title": "Barcelona Art-Inspired Luxury with Daily Breakfast, Rooftop Pool & MICHELIN-Starred Restaurant",
+      "description": "Coined ‘the hotel with a thousand eyes’, this five-star hotel’s neoclassical design has been hijacked by sculptor Frederic Amat, who pinned hundreds of ceramic eyes on its front to spectacular effect. The extravagant tone continues throughout the magnificent Hotel Ohla, with facilities that ensure your experience is equal parts comfortable and exciting - including a rooftop pool with some of the city's best views and a dining scene that's worth raving about. Savour one of the city's finest meals at MICHELIN-starred French restaurant Caelis from Romain Fornell, enjoy sunset apertifs at the breathtaking rooftop terrace bar, or head to the hotel's own tapas restaurant, La Plassohla, for a taste of Barcelona. Set in the heart of the Gothic Quarter, this urban retreat is surrounded by a vibrant array of restaurants, shops, bars and cafes - the perfect launchpad for a Spanish escape.",
+      "location_subheading": "Spain",
+      "price": 489,
+      "original_price": 998,
+      "discount_percentage": 51,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ViOw2YAF",
+      "hero_image": "https://images.luxuryescapes.com/vmtvq35gq7u90nkdjam",
+      "image_two": "https://images.luxuryescapes.com/jsjmlww4eifl7b58i48",
+      "image_three": "https://images.luxuryescapes.com/fbjgx2zhzat46ao136q",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-06-17 13:59:00"
+    },
+    {
       "vendor_name": "InterContinental Barcelona",
       "offer_country_name": "Spain",
       "location_heading": "Barcelona",
       "title": "Five-Star Barcelona Escape with Serene Spa & Rooftop Terrace",
       "description": "InterContinental Barcelona, an IHG Hotel combines contemporary design and five-star comfort for guests seeking a slice of seaside Catalonia. Lose yourself in the historic city, discovering works of great artists like Picasso or sightseeing and shopping at Passeig de Gracia. Savour fine dining at Quirat or Arrel restaurants, find a moment of relaxation at the spa or soak up stunning views of the Barcelona skyline and Montjuïc Castle from the rooftop terrace.",
       "location_subheading": "Spain",
-      "price": 544,
-      "original_price": 544,
+      "price": 564,
+      "original_price": 564,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNUCBAA5",
       "hero_image": "https://images.luxuryescapes.com/uqg0v1ytbo6il7ugc8",
@@ -366,9 +384,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-19",
-    "hotel_count": 19,
-    "average_price": 722,
-    "average_discount": 12
+    "last_updated": "2026-05-20",
+    "hotel_count": 20,
+    "average_price": 712,
+    "average_discount": 14
   }
 }

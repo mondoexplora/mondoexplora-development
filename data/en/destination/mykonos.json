@@ -4,8 +4,26 @@
   "country_code": "GR",
   "hero_title": "Hotels in Mykonos",
   "description": "Discover the best hotels in Mykonos, Greece. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/tsb94k0j2bykhgnl6gh",
+  "hero_image": "https://images.luxuryescapes.com/34isjychidoj61pu818",
   "hotels": [
+    {
+      "vendor_name": "Archipelagos Hotel Mykonos",
+      "offer_country_name": "Greece",
+      "location_heading": "Mykonos",
+      "title": "Mykonos Beachfront Indulgence with Ocean-View Rooms, Onsite Spa & Restaurant",
+      "description": "Fulfil your Greek island dreams at Archipelagos Hotel Mykonos, a proud member of Small Luxury Hotels of the World and a five-star Cycladic haven capturing the timeless beauty of the Aegean. Framed by whitewashed architecture and sweeping sea views, this exquisitely designed retreat invites you to slow down and savour the very best of island life. Bask beside the sun-drenched pool with a cocktail, wander through the organic garden or unwind in the holistic spa and wellness studio. Dine alfresco on heritage-inspired dishes that trace the island’s culinary history, or opt for a nine-course degustation at the fine-dining restaurant, thoughtfully paired with exceptional Greek wines.",
+      "location_subheading": "Greece",
+      "price": 394,
+      "original_price": 394,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003HJE3AAO",
+      "hero_image": "https://images.luxuryescapes.com/34isjychidoj61pu818",
+      "image_two": "https://images.luxuryescapes.com/uty85ybh20lez74p23a",
+      "image_three": "https://images.luxuryescapes.com/vd1oydyjhq8kjgz8vru",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Casa Del Mar Mykonos Seaside Resort",
       "offer_country_name": "Greece",
@@ -25,14 +43,32 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Cubic Hotel",
+      "offer_country_name": "Greece",
+      "location_heading": "Mykonos",
+      "title": "Adults-Only Greek Islands Glamour: Mykonos Private Pool Luxury near Ornos Beach with Ocean Views",
+      "description": "Perched directly above Ornos Beach, one of Mykonos's most sheltered bays, Cubic Hotel is a boutique adults-only retreat that proves small can be spectacular. Boasting just 11 rooms and suites, each shaped by the angular Cycladic architecture the hotel takes its name from, this romantic hideaway offers direct access to the golden sends of Ornos Beach and Greek Island bliss in spades. Step out onto private terraces where private plunge pools hang over the Aegean or savour moments of tranquility at the onsite spa.",
+      "location_subheading": "Greece",
+      "price": 736,
+      "original_price": 736,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RkLJdYAN",
+      "hero_image": "https://images.luxuryescapes.com/safkkb08596524zmsr1",
+      "image_two": "https://images.luxuryescapes.com/gbdy0bssmpjk4zdjyf",
+      "image_three": "https://images.luxuryescapes.com/upvy4zv913ggl2k8ggn",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Kouros Hotel & Suites, Mykonos",
       "offer_country_name": "Greece",
       "location_heading": "Mykonos",
       "title": "Mykonos Boutique Opulence w. Guaranteed Ocean Views, Infinity Pool & Onsite Restaurants",
       "description": "Experience the charm of the Aegean Sea with a luxurious stay at the five-star, boutique Kouros Hotel & Suites, a sanctuary steps from the lively heart of Mykonos Town. Nestled within a stunning whitewashed Cycladic building on a cliffside, this resort redefines Grecian luxury. Delight in modern indulgences, including a sparkling pool with breathtaking sea views, a state-of-the-art wellness studio for invigorating workouts and a holistic spa offering unparalleled relaxation. Discover the island's culinary treasures at Narcissus Fine Dining, where traditional Greek flavours meet innovative gastronomy, or savour Mediterranean favourites at the casual Bites Pool Restaurant.",
       "location_subheading": "Greece",
-      "price": 837,
-      "original_price": 1213,
+      "price": 840,
+      "original_price": 1217,
       "discount_percentage": 31,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000DQs5JYAT",
       "hero_image": "https://images.luxuryescapes.com/wpnqlxd7emd76uqg0mj",
@@ -150,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-19",
-    "hotel_count": 7,
-    "average_price": 860,
-    "average_discount": 23
+    "last_updated": "2026-05-20",
+    "hotel_count": 9,
+    "average_price": 795,
+    "average_discount": 18
   }
 }

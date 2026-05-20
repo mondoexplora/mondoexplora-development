@@ -95,6 +95,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Sarena de Muro Resort Mallorca, part of Destination by Hyatt",
+      "offer_country_name": "Spain",
+      "location_heading": "Mallorca",
+      "title": "Grand Opening: Mallorca Beachfront Paradise on Playa del Muro with Daily Breakfast",
+      "description": "Nestled on the doorstep of Playa de Muro, one of the Mediterranean's most jaw-dropping stretches of sand, this resort pairs direct beach access with a pace of life so blissfully slow you'll forget the rest of the world exists. Two lagoon-style pools and the world-class Sarena Spa with a steam bath and sauna means you'll never run out of reasons to stay just one more day. Start your mornings at Biniterra with fresh local ingredients crafted into a love letter to the wider Mediterranean. Come evening, pull up a chair at Ópalo by Andreu Genestra, where bold sharing plates and signature pizzetas make dinner feel like an occasion. In between, the Pool Club keeps the good times rolling with flame-grilled bites and chilled drinks on Balinese daybeds, while Ópalo Lounge Bar has cocktails covered from mid-morning well into the night.",
+      "location_subheading": "Spain",
+      "price": 659,
+      "original_price": 1063,
+      "discount_percentage": 38,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Th0TtYAJ",
+      "hero_image": "https://images.luxuryescapes.com/so72f0ax299mw6kkwmog",
+      "image_two": "https://images.luxuryescapes.com/gc3ryu1m6read67f217q",
+      "image_three": "https://images.luxuryescapes.com/f93ru7soviki57ic6t5v",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-06-16 13:59:00"
     }
   ],
   "seo": {
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-19",
-    "hotel_count": 5,
-    "average_price": 1055,
-    "average_discount": 5
+    "last_updated": "2026-05-20",
+    "hotel_count": 6,
+    "average_price": 989,
+    "average_discount": 11
   }
 }
