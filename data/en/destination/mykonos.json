@@ -79,6 +79,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Kove Mykonos - A Myconian Collection Hotel",
+      "offer_country_name": "Greece",
+      "location_heading": "Mykonos",
+      "title": "Mykonos Escape near Ornos Beach with Cave-Style Spa, Daily Breakfast & Nightly Cocktails",
+      "description": "Perched above the peaceful cove of Ornos, Kove Mykonos sits just minutes from the beach and the labyrinthine lanes of Mykonos Town. Every room comes with a private hot tub or plunge pool and most are framed by sweeping Aegean views, while the pool terrace and Kove Sunset & Lounge Bar create a vibe that's effortlessly boho-chic yet quietly sophisticated. Ena Restaurant serves seasonal Greek and Mediterranean dishes with Ornos beach views, farm-to-table ingredients and a wine list anchored in Greek varietals. Deeper into the property, Cave Spa offers massages, bespoke facials and body rituals in a subterranean retreat designed for total disconnection. Beyond the resort, sail to the ancient ruins of Delos, wander the windmill-topped lanes of Mykonos Town, or let the night take over in Little Venice as the sun drops into the Aegean.",
+      "location_subheading": "Greece",
+      "price": 599,
+      "original_price": 1222,
+      "discount_percentage": 51,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TAODFYA5",
+      "hero_image": "https://images.luxuryescapes.com/kb8dt0vw2m7drz2jb0wt",
+      "image_two": "https://images.luxuryescapes.com/ta1byk2xw408ctlow7ig",
+      "image_three": "https://images.luxuryescapes.com/sk162quv74lo8e3v049",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-06-10 13:59:00"
+    },
+    {
       "vendor_name": "Myconian O",
       "offer_country_name": "Greece",
       "location_heading": "Mykonos",
@@ -186,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-20",
-    "hotel_count": 9,
-    "average_price": 795,
-    "average_discount": 18
+    "last_updated": "2026-05-21",
+    "hotel_count": 10,
+    "average_price": 776,
+    "average_discount": 21
   }
 }

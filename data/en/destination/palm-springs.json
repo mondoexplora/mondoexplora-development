@@ -1,0 +1,50 @@
+{
+  "city": "Palm Springs",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Palm Springs",
+  "description": "Discover the best hotels in Palm Springs, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/561bqwpau4kvvna9oxpd",
+  "hotels": [
+    {
+      "vendor_name": "Thompson Palm Springs, by Hyatt",
+      "offer_country_name": "United States",
+      "location_heading": "Palm Springs",
+      "title": "Award-Winning Downtown Palm Springs Desert Retreat with Nightly Drinks & US$50 Dining Credit",
+      "description": "Downtown Palm Springs moves at its own pace, where mid-century architecture frames a strip of art galleries, design boutiques and desert-warmed restaurants that stay busy well into the evening. Lying squarely in the middle of it is Thompson Palm Springs, an award-winning hotel on Palm Canyon Drive where the Walk of Stars is three minutes on foot and the Palm Springs Art Museum is five. Head to The Perch rooftop for sundowners above the cityscape, or work through the state's finest bottles at the onsite HALL Napa Valley Tasting Room & Wine Lounge. Use the hotel as your launchpad into Palm Springs' design district, where La Plaza Historic District is a two-minute walk and the galleries, boutiques and restaurants of Palm Canyon Drive are effectively on your doorstep. Moorten Botanical Garden is five minutes by car, and the wider Coachella Valley opens up from there.",
+      "location_subheading": "United States",
+      "price": 429,
+      "original_price": 894,
+      "discount_percentage": 52,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Uup9qYAB",
+      "hero_image": "https://images.luxuryescapes.com/561bqwpau4kvvna9oxpd",
+      "image_two": "https://images.luxuryescapes.com/mo9xofkvmpftm9iwluv6",
+      "image_three": "https://images.luxuryescapes.com/r4yxbmwk1ulq19518rq",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-07-15 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Palm Springs - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Palm Springs, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "palm springs hotels",
+      "palm springs travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/palm-springs",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/palm-springs",
+      "es": "https://mondoexplora.com/es/destination/palm-springs",
+      "fr": "https://mondoexplora.com/fr/destination/palm-springs",
+      "it": "https://mondoexplora.com/it/destination/palm-springs"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-05-21",
+    "hotel_count": 1,
+    "average_price": 429,
+    "average_discount": 52
+  }
+}
