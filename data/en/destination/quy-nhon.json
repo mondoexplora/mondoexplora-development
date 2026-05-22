@@ -4,8 +4,26 @@
   "country_code": "VN",
   "hero_title": "Hotels in Quy Nhon",
   "description": "Discover the best hotels in Quy Nhon, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/55yycrbeclfwb1r9admi",
+  "hero_image": "https://images.luxuryescapes.com/xsmbbnk5jndtoy8gv6fr",
   "hotels": [
+    {
+      "vendor_name": "Avani Quy Nhon Resort",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Quy Nhon",
+      "title": "All-Inclusive Vietnam Beachfront Retreat with Unlimited Free-Flow Drinks & Return Airport Transfers",
+      "description": "Discover tropical Vietnamese bliss along a cliff-sheltered stretch of golden sands, perfectly positioned just outside coastal Quy Nhon. Indulge in the luxury of spacious rooms overlooking the South China Sea before lounging by the sparkling outdoor pool. Cool off with a tiki cocktail at the poolside bar, Gio, or sink your toes into the private beach and gaze upon epic sunsets. Thanks to an all-inclusive dining and drinks package, you can confidently enjoy cliffside dining at the bamboo-clad TRE restaurant, where a variety of Vietnamese delicacies and international flavours are ready for sampling. As you venture beyond the resort, follow the call of 11th-century Cham towers and the vibrant local markets of Quy Nhon. One of Vietnam's most exciting up-and-coming destinations, Quy Nhon offers laidback atmosphere and natural beauty with an abundance of culture to uncover. Upon returning from a day of tropical exploration, take a moment to unwind at the jungle-enveloped Anantara Spa, where soothing massages are enjoyed in open-air treatment pavilions.",
+      "location_subheading": "Vietnam",
+      "price": 799,
+      "original_price": 2219,
+      "discount_percentage": 64,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UsPTCYA3",
+      "hero_image": "https://images.luxuryescapes.com/xsmbbnk5jndtoy8gv6fr",
+      "image_two": "https://images.luxuryescapes.com/g4r9tvr3nbisj5t43jb",
+      "image_three": "https://images.luxuryescapes.com/m3c687s4dg2oq7e1pzc",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-07-16 13:59:00"
+    },
     {
       "vendor_name": "The Ocean Resort by Fusion Quy Nhon",
       "offer_country_name": "Vietnam",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-21",
-    "hotel_count": 1,
-    "average_price": 299,
+    "last_updated": "2026-05-22",
+    "hotel_count": 2,
+    "average_price": 549,
     "average_discount": 64
   }
 }

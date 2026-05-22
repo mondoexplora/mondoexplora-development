@@ -13,9 +13,9 @@
       "title": "Mykonos Beachfront Indulgence with Ocean-View Rooms, Onsite Spa & Restaurant",
       "description": "Fulfil your Greek island dreams at Archipelagos Hotel Mykonos, a proud member of Small Luxury Hotels of the World and a five-star Cycladic haven capturing the timeless beauty of the Aegean. Framed by whitewashed architecture and sweeping sea views, this exquisitely designed retreat invites you to slow down and savour the very best of island life. Bask beside the sun-drenched pool with a cocktail, wander through the organic garden or unwind in the holistic spa and wellness studio. Dine alfresco on heritage-inspired dishes that trace the island’s culinary history, or opt for a nine-course degustation at the fine-dining restaurant, thoughtfully paired with exceptional Greek wines.",
       "location_subheading": "Greece",
-      "price": 394,
-      "original_price": 394,
-      "discount_percentage": 0,
+      "price": 354,
+      "original_price": 389,
+      "discount_percentage": 9,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003HJE3AAO",
       "hero_image": "https://images.luxuryescapes.com/34isjychidoj61pu818",
       "image_two": "https://images.luxuryescapes.com/uty85ybh20lez74p23a",
@@ -49,9 +49,9 @@
       "title": "Adults-Only Greek Islands Glamour: Mykonos Private Pool Luxury near Ornos Beach with Ocean Views",
       "description": "Perched directly above Ornos Beach, one of Mykonos's most sheltered bays, Cubic Hotel is a boutique adults-only retreat that proves small can be spectacular. Boasting just 11 rooms and suites, each shaped by the angular Cycladic architecture the hotel takes its name from, this romantic hideaway offers direct access to the golden sends of Ornos Beach and Greek Island bliss in spades. Step out onto private terraces where private plunge pools hang over the Aegean or savour moments of tranquility at the onsite spa.",
       "location_subheading": "Greece",
-      "price": 736,
-      "original_price": 736,
-      "discount_percentage": 0,
+      "price": 526,
+      "original_price": 658,
+      "discount_percentage": 20,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RkLJdYAN",
       "hero_image": "https://images.luxuryescapes.com/safkkb08596524zmsr1",
       "image_two": "https://images.luxuryescapes.com/gbdy0bssmpjk4zdjyf",
@@ -77,24 +77,6 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Kove Mykonos - A Myconian Collection Hotel",
-      "offer_country_name": "Greece",
-      "location_heading": "Mykonos",
-      "title": "Mykonos Escape near Ornos Beach with Cave-Style Spa, Daily Breakfast & Nightly Cocktails",
-      "description": "Perched above the peaceful cove of Ornos, Kove Mykonos sits just minutes from the beach and the labyrinthine lanes of Mykonos Town. Every room comes with a private hot tub or plunge pool and most are framed by sweeping Aegean views, while the pool terrace and Kove Sunset & Lounge Bar create a vibe that's effortlessly boho-chic yet quietly sophisticated. Ena Restaurant serves seasonal Greek and Mediterranean dishes with Ornos beach views, farm-to-table ingredients and a wine list anchored in Greek varietals. Deeper into the property, Cave Spa offers massages, bespoke facials and body rituals in a subterranean retreat designed for total disconnection. Beyond the resort, sail to the ancient ruins of Delos, wander the windmill-topped lanes of Mykonos Town, or let the night take over in Little Venice as the sun drops into the Aegean.",
-      "location_subheading": "Greece",
-      "price": 599,
-      "original_price": 1222,
-      "discount_percentage": 51,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TAODFYA5",
-      "hero_image": "https://images.luxuryescapes.com/kb8dt0vw2m7drz2jb0wt",
-      "image_two": "https://images.luxuryescapes.com/ta1byk2xw408ctlow7ig",
-      "image_three": "https://images.luxuryescapes.com/sk162quv74lo8e3v049",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-06-10 13:59:00"
     },
     {
       "vendor_name": "Myconian O",
@@ -130,7 +112,7 @@
       "image_three": "https://images.luxuryescapes.com/zkzz24ouldkpxo8h7q1",
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 3,
-      "end_date_utc": "2026-06-01 13:59:00"
+      "end_date_utc": "2026-06-11 13:59:00"
     },
     {
       "vendor_name": "Mykonos Blu, A Grecotel Resort to Live",
@@ -204,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-21",
-    "hotel_count": 10,
-    "average_price": 776,
+    "last_updated": "2026-05-22",
+    "hotel_count": 9,
+    "average_price": 767,
     "average_discount": 21
   }
 }
