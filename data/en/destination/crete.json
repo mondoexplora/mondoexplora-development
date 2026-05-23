@@ -149,6 +149,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 3,
       "end_date_utc": "2026-05-24 13:59:00"
+    },
+    {
+      "vendor_name": "The Royal Senses Resort & Spa, Curio Collection by Hilton",
+      "offer_country_name": "Greece",
+      "location_heading": "Crete",
+      "title": "Crete Luxury Oasis with Daily Breakfast, Nightly Dinner & EUR50 Resort Credit",
+      "description": "Find Greek island paradise at this contemporary oasis perched along Crete's sparkling northern coast. With a stunning modern design, seven bars and restaurants and six pools, this heavenly resort encourages guests to reconnect and rejuvenate while surrounded by the natural splendour of Crete's remarkable landscape. Reinvigorate your body and mind at Pure Senses Spa or find a new type of bliss at one of the dreamy pools. Relax under the setting sun with a cocktail in hand at Euphoria Pool Bar while the kids are entertained at the Splash Aqua Park or kids' club. When hunger strikes, sample traditional Greek dishes at Mitato, hearty gyros at Platia or seasonal ingredients at Gea.",
+      "location_subheading": "Greece",
+      "price": 644,
+      "original_price": 1130,
+      "discount_percentage": 43,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UgOKoYAN",
+      "hero_image": "https://images.luxuryescapes.com/z7j9ng0qv9ad28ldef",
+      "image_two": "https://images.luxuryescapes.com/lr5xw2zlig85l38ack48",
+      "image_three": "https://images.luxuryescapes.com/g7sp2c3mh9yl8c58nf48",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-06-15 13:59:00"
     }
   ],
   "seo": {
@@ -168,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-22",
-    "hotel_count": 8,
-    "average_price": 781,
-    "average_discount": 15
+    "last_updated": "2026-05-23",
+    "hotel_count": 9,
+    "average_price": 766,
+    "average_discount": 18
   }
 }
