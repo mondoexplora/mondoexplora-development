@@ -24,15 +24,6 @@
       "avg_price": 940
     },
     {
-      "name": "Crete",
-      "slug": "crete",
-      "image": "https://images.luxuryescapes.com/gqg07xxgnt8ol0n5wfw",
-      "description": "Explore Crete with luxury accommodations",
-      "hotel_count": 9,
-      "hotel_deals": 9,
-      "avg_price": 771
-    },
-    {
       "name": "Mykonos",
       "slug": "mykonos",
       "image": "https://images.luxuryescapes.com/34isjychidoj61pu818",
@@ -40,6 +31,15 @@
       "hotel_count": 9,
       "hotel_deals": 9,
       "avg_price": 764
+    },
+    {
+      "name": "Crete",
+      "slug": "crete",
+      "image": "https://images.luxuryescapes.com/gqg07xxgnt8ol0n5wfw",
+      "description": "Explore Crete with luxury accommodations",
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 815
     },
     {
       "name": "Corfu",

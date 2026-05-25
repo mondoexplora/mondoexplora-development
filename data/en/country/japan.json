@@ -12,16 +12,16 @@
       "description": "Explore Tokyo with luxury accommodations",
       "hotel_count": 11,
       "hotel_deals": 11,
-      "avg_price": 937
+      "avg_price": 927
     },
     {
       "name": "Osaka",
       "slug": "osaka",
       "image": "https://images.luxuryescapes.com/1va8jgfgvoyxp3s7so7k",
       "description": "Explore Osaka with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 580
+      "hotel_count": 8,
+      "hotel_deals": 8,
+      "avg_price": 623
     },
     {
       "name": "Kyoto",
@@ -39,7 +39,7 @@
       "description": "Explore Sapporo with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 200
+      "avg_price": 203
     },
     {
       "name": "Okinawa",

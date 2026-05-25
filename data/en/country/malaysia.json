@@ -39,25 +39,25 @@
       "description": "Explore Langkawi with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 521
+      "avg_price": 526
     },
     {
       "name": "Kuching",
       "slug": "kuching",
-      "image": "https://images.luxuryescapes.com/21i7llxujr5xkfnd9o",
+      "image": "https://images.luxuryescapes.com/j9aoy7us0us1tp4woo4j",
       "description": "Explore Kuching with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 361
+      "avg_price": 355
     },
     {
-      "name": "Desaru",
-      "slug": "desaru",
-      "image": "https://images.luxuryescapes.com/hw6cjna4a86gvlfl22",
-      "description": "Explore Desaru with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 929
+      "name": "Selangor",
+      "slug": "selangor",
+      "image": "https://images.luxuryescapes.com/yqc5ulgtrmex3rbovek",
+      "description": "Explore Selangor with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 341
     }
   ],
   "seo": {

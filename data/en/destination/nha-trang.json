@@ -100,24 +100,6 @@
       "vendor_name": "Potique Hotel",
       "offer_country_name": "Vietnam",
       "location_heading": "Nha Trang",
-      "title": "Nha Trang's #1 Hotel: Vietnam Glamour with Daily Breakfast & Free-Flow Rooftop Cocktail Hour",
-      "description": "Discover a blend of old-world Vietnamese opulence, touches of striking style and modern luxury at this five-star sanctuary, crowned Nha Trang’s #1 Hotel by Tripadvisor and named Vietnam’s Leading Lifestyle Hotel 2025 by the World Travel Awards. Among the city’s dazzling array of marketplaces, restaurants and nightlife, just a block from the emerald waters of Nha Trang Bay, this hotel is the perfect base to explore Vietnam’s golden beaches, diving spots and idyllic offshore islands. Whether it’s laid-back beachside bliss or unforgettable evenings, Potique Hotel promises the best of both worlds. Enjoy panoramic views while sipping a refreshing local beer at the rooftop Blue Bar, visit Nha Trang Restaurant for indulgent Vietnamese fare or indulge in fresh ingredients and unique cooking styles at Indochine Restaurant. Spend your afternoons splashing in the iridescent infinity pool or experiencing Nha Trang’s countless treasures, including the nearby Agarwood Tower and Khanh Hoa Museum.",
-      "location_subheading": "Vietnam",
-      "price": 239,
-      "original_price": 703,
-      "discount_percentage": 66,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TkCFCYA3",
-      "hero_image": "https://images.luxuryescapes.com/resiqd2jjlak4z4iy6v",
-      "image_two": "https://images.luxuryescapes.com/u9kbtcrchaw4u7jg37xq",
-      "image_three": "https://images.luxuryescapes.com/uq4gthg8amshibbi2ql",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-08-13 13:59:00"
-    },
-    {
-      "vendor_name": "Potique Hotel",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Nha Trang",
       "title": "Top-Rated Five-Star Vietnam Hotel with Rooftop Bar",
       "description": "Step into a world of sophisticated beauty when you enter the elegant lobby of Vietnam's five-star Potique Nha Trang. Take the time to discover the sun-kissed lifestyle of this thriving coastal paradise, plush with turquoise beaches and cosmopolitan dining options. Then, indulge in a bespoke spa treatment at the onsite Sen Spa, enjoy a cocktail on the rooftop Blue Bar and dine on local cuisine at the romantic Indochine Restaurant.",
       "location_subheading": "Vietnam",
@@ -131,6 +113,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Potique Hotel",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Nha Trang",
+      "title": "Nha Trang's #1 Hotel: Vietnam Glamour with Daily Breakfast & Free-Flow Rooftop Cocktail Hour",
+      "description": "Discover a blend of old-world Vietnamese opulence, touches of striking style and modern luxury at this five-star sanctuary, crowned Nha Trang’s #1 Hotel by Tripadvisor and named Vietnam’s Leading Lifestyle Hotel 2025 by the World Travel Awards. Among the city’s dazzling array of marketplaces, restaurants and nightlife, just a block from the emerald waters of Nha Trang Bay, this hotel is the perfect base to explore Vietnam’s golden beaches, diving spots and idyllic offshore islands. Whether it’s laid-back beachside bliss or unforgettable evenings, Potique Hotel promises the best of both worlds. Enjoy panoramic views while sipping a refreshing local beer at the rooftop Blue Bar, visit Nha Trang Restaurant for indulgent Vietnamese fare or indulge in fresh ingredients and unique cooking styles at Indochine Restaurant. Spend your afternoons splashing in the iridescent infinity pool or experiencing Nha Trang’s countless treasures, including the nearby Agarwood Tower and Khanh Hoa Museum.",
+      "location_subheading": "Vietnam",
+      "price": 239,
+      "original_price": 703,
+      "discount_percentage": 66,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TkCFCYA3",
+      "hero_image": "https://images.luxuryescapes.com/resiqd2jjlak4z4iy6v",
+      "image_two": "https://images.luxuryescapes.com/u9kbtcrchaw4u7jg37xq",
+      "image_three": "https://images.luxuryescapes.com/uq4gthg8amshibbi2ql",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-08-13 13:59:00"
     }
   ],
   "seo": {
@@ -150,7 +150,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-24",
+    "last_updated": "2026-05-25",
     "hotel_count": 7,
     "average_price": 306,
     "average_discount": 25
