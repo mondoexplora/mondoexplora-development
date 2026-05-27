@@ -4,8 +4,26 @@
   "country_code": "GR",
   "hero_title": "Hotels in Zakynthos",
   "description": "Discover the best hotels in Zakynthos, Greece. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/79pyvv7zdrirnobyyx8e",
+  "hero_image": "https://images.luxuryescapes.com/slhfwkcpas0f7u9u84ae",
   "hotels": [
+    {
+      "vendor_name": "Lesante Classic - Preferred Hotels & Resorts",
+      "offer_country_name": "Greece",
+      "location_heading": "Zakynthos",
+      "title": "Greek Islands Zakynthos Wellness Escape with Daily Breakfast, Resort Pool & Four Dining Venues",
+      "description": "Set above the shimmering waters of Tsilivi on the northeastern coast of Zakynthos - Zante as it's fondly known - Lesante Classic Luxury Hotel & Spa captures everything the Ionian Islands do best. Lush greenery, blue skies, sea views and an unhurried pace define the experience from arrival. The hotel's four dining venues keep things interesting well beyond breakfast. Elysian Restaurant serves lunch and dinner in smart-casual surrounds, the Palm Bar is the spot for long afternoons poolside, and The Pavilion Bar brings a sophisticated edge to evenings, staying lively until late. Beyond the table, the Lesante Spa offers healing escapes for body and mind, while private yachting excursions give guests the chance to discover Zakynthos from the sea - including its famous sea turtle nesting beaches and the ethereal Blue Caves along the island's northern coast.",
+      "location_subheading": "Greece",
+      "price": 477,
+      "original_price": 524,
+      "discount_percentage": 9,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RweiHYAR",
+      "hero_image": "https://images.luxuryescapes.com/slhfwkcpas0f7u9u84ae",
+      "image_two": "https://images.luxuryescapes.com/yfbmqfedxtqgvhboxaw",
+      "image_three": "https://images.luxuryescapes.com/9ehvgwlfobu67lxystf",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:55:51"
+    },
     {
       "vendor_name": "PORTO ZANTE VILLAS & SPA",
       "offer_country_name": "Greece",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-25",
-    "hotel_count": 1,
-    "average_price": 7050,
-    "average_discount": 6
+    "last_updated": "2026-05-27",
+    "hotel_count": 2,
+    "average_price": 3764,
+    "average_discount": 8
   }
 }

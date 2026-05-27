@@ -13,8 +13,8 @@
       "title": "Kangaroo Island Off-Grid Cabin with Ocean Views & Private Sauna",
       "description": "Surround yourself with nature and disconnect in ultimate luxury with a stay at CABN X Kangaroo Island. Light-filled, romantic and meticulously curated, each CABN X is carefully positioned with privacy in mind, offering captivating views over the rambling wilderness, access to a private beach and the waters of Antechamber Bay. Spend your days exploring the island’s treasures before returning to moments of repose by the fireplace and drinks on the deck.",
       "location_subheading": "Australia",
-      "price": 988,
-      "original_price": 1086,
+      "price": 989,
+      "original_price": 1087,
       "discount_percentage": 9,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FcXA6AAN",
       "hero_image": "https://images.luxuryescapes.com/n668dyo022fnneymb58",
@@ -43,6 +43,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Mercure Kangaroo Island Lodge",
+      "offer_country_name": "Australia",
+      "location_heading": "Kangaroo Island",
+      "title": "Boutique Kangaroo Island Waterfront Retreat with Daily Breakfast & Nightly Drinks",
+      "description": "Wake to American River Bay and the kind of quiet that eases you into total relaxation at this boutique retreat. Mercure Kangaroo Island Lodge sits between the bay and four acres of native bushland, where birdsong in the trees and kangaroos bounding around remind you where you are before you've even set out. Wander the bushland trails by day, refresh with a dip in the outdoor pool, then settle in by the fireplace at the Lodge Bar & Lounge with a glass of local red. Reflections Restaurant is a strong reason to stay in for dinner, with a menu that changes with the island's regional produce. The lodge sits within easy reach of the island's biggest names, with Seal Bay's wild sea lions about an hour's drive south and Flinders Chase National Park a worthwhile day-trip across the island.",
+      "location_subheading": "Australia",
+      "price": 239,
+      "original_price": 771,
+      "discount_percentage": 69,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UuBE3YAN",
+      "hero_image": "https://images.luxuryescapes.com/sxywlbbvyaflzvngzz",
+      "image_two": "https://images.luxuryescapes.com/edno6344imn969y348g",
+      "image_three": "https://images.luxuryescapes.com/fozh05egx6tyikdylk8",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-06-23 13:59:00"
+    },
+    {
       "vendor_name": "Sea Dragon Kangaroo Island",
       "offer_country_name": "Australia",
       "location_heading": "Kangaroo Island",
@@ -67,8 +85,8 @@
       "title": "All-Inclusive Kangaroo Island Luxury Lodge with Gourmet Dining & Island-Inspired Spa",
       "description": "Frequently heralded as one of the world's top luxury lodges, Kangaroo Island's Southern Ocean Lodge has reopened with elevated luxuries, redefining the gold standard for experiential travel. Situated amidst vast geo- and biodiversity, the lodge's architectural design seamlessly melds with the natural landscape, providing breathtaking views of the rugged Southern Ocean from its exclusive cliffside perch. Whether you choose to admire the rolling Australian bushlands during a spa treatment, simply recline on the beach or venture into the wonders of Kangaroo Island and spot native wildlife on a Signature Experience, the refreshing sea spray is your companion. With coastal serenity and local bounty at your fingertips, wining and dining is a gourmet affair featuring artisan pastries in the morning and regional degustation in the evening, paired with famous South Australian varietals. This is access to the wild beauty of 'Australia's Galapagos' at its most immersive.",
       "location_subheading": "Australia",
-      "price": 5647,
-      "original_price": 5704,
+      "price": 5657,
+      "original_price": 5714,
       "discount_percentage": 1,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GN33tAAD",
       "hero_image": "https://images.luxuryescapes.com/dnhs13cjvtrbqs9sbeh",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-25",
-    "hotel_count": 4,
-    "average_price": 2101,
-    "average_discount": 14
+    "last_updated": "2026-05-27",
+    "hotel_count": 5,
+    "average_price": 1731,
+    "average_discount": 25
   }
 }

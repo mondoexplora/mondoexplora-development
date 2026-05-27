@@ -1,0 +1,50 @@
+{
+  "city": "Alicante",
+  "country": "Spain",
+  "country_code": "ES",
+  "hero_title": "Hotels in Alicante",
+  "description": "Discover the best hotels in Alicante, Spain. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/rpue1dnzy72cgfl9k4zr",
+  "hotels": [
+    {
+      "vendor_name": "ZEM Wellness Clinic Altea",
+      "offer_country_name": "Spain",
+      "location_heading": "Alicante",
+      "title": "Award-Winning Spain Wellness Resort with Daily Breakfast, One Dinner & Spa Treatments",
+      "description": "Opened in 2025 within Spain's prestigious Altea Hills, ZEM Wellness Clinic is where integrative medicine and luxury Mediterranean living come together in one breathtaking setting. With twenty-five medical specialties and Europe's largest dedicated wellness spa under one roof, every element of your stay is shaped around your health goals. Good food is good medicine at ZEM, and it starts at the on-site Finca Althaya organic farm, that grows pesticide-free, seasonal produce steps from the kitchen, so what arrives on your plate is as fresh as the sea air. The charming village of Altea is ten minutes away, with the Mediterranean coast a leisurely two kilometres beyond. The spa is 4,000 square metres of pure indulgence, with 42 treatment rooms and an extraordinary menu of wellness experiences. Drift between hydro-jet pools and contrast plunge wells, warm up in the biosauna, breathe deep in the Himalayan salt cabin and hammam, or float weightlessly in the dedicated Watsu pool. Wellness at ZEM is woven into every moment of your day. Movement, recovery, and mindfulness aren't afterthoughts - they're part of the rhythm of your stay, sitting naturally alongside your treatments and appointments so that the whole experience simply flows.",
+      "location_subheading": "Spain",
+      "price": 1649,
+      "original_price": 3365,
+      "discount_percentage": 51,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UQRWLYA5",
+      "hero_image": "https://images.luxuryescapes.com/rpue1dnzy72cgfl9k4zr",
+      "image_two": "https://images.luxuryescapes.com/q8qze5uozv5y2c6ut0c",
+      "image_three": "https://images.luxuryescapes.com/jlnc0ri1n9k9tycwe3grd",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-06-22 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Alicante - Spain Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Alicante, Spain with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "alicante hotels",
+      "alicante travel",
+      "spain hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/alicante",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/alicante",
+      "es": "https://mondoexplora.com/es/destination/alicante",
+      "fr": "https://mondoexplora.com/fr/destination/alicante",
+      "it": "https://mondoexplora.com/it/destination/alicante"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-05-27",
+    "hotel_count": 1,
+    "average_price": 1649,
+    "average_discount": 51
+  }
+}

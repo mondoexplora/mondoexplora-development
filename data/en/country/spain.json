@@ -10,9 +10,9 @@
       "slug": "barcelona",
       "image": "https://images.luxuryescapes.com/h54ctgnz4kqoy44sr2nq",
       "description": "Explore Barcelona with luxury accommodations",
-      "hotel_count": 21,
-      "hotel_deals": 21,
-      "avg_price": 701
+      "hotel_count": 22,
+      "hotel_deals": 22,
+      "avg_price": 705
     },
     {
       "name": "Madrid",
@@ -21,16 +21,16 @@
       "description": "Explore Madrid with luxury accommodations",
       "hotel_count": 13,
       "hotel_deals": 13,
-      "avg_price": 563
+      "avg_price": 571
     },
     {
       "name": "Mallorca",
       "slug": "mallorca",
       "image": "https://images.luxuryescapes.com/kal2cbz5thqfj5f7gec",
       "description": "Explore Mallorca with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 989
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 1036
     },
     {
       "name": "Ibiza",
@@ -42,15 +42,6 @@
       "avg_price": 716
     },
     {
-      "name": "Marbella",
-      "slug": "marbella",
-      "image": "https://images.luxuryescapes.com/vb0sgscpwtghhqbwto3e",
-      "description": "Explore Marbella with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 776
-    },
-    {
       "name": "San Roque",
       "slug": "san-roque",
       "image": "https://images.luxuryescapes.com/u7lezps8pp06w52tta",
@@ -58,6 +49,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 817
+    },
+    {
+      "name": "Analucia",
+      "slug": "analucia",
+      "image": "https://images.luxuryescapes.com/3khpetlbt8zc1np8nbn",
+      "description": "Explore Analucia with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1190
     }
   ],
   "seo": {

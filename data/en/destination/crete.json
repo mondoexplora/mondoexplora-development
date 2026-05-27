@@ -103,8 +103,8 @@
       "title": "Crete Five-Star Art-Inspired Oasis Overlooking Mirabello Bay with Two Private Beaches",
       "description": "Greek island opulence awaits at Minos Beach Art Hotel, a chic five-star Crete oasis overlooking the glistening waterfront of Mirabello Bay. Adorned with a wealth of contemporary art and a façade of fuchsia blooms, this architectural retreat (part of the prestigious Design Hotels collections) balances minimalist design with maximum luxury. This is an ultra-modern oasis softening 2.5 kilometres of rugged Cretan coastline through its elegant assembly of waterfront accommodation and picturesque gardens. When you're not plunging into the sun-kissed ocean or sipping cocktails at the beachfront bar, choose to bask in the Greek heat on one of two private beaches or escape the rays with a stroll around the hotel's open-air art museum. Nourish your soul with authentic food and wine across three exceptional restaurants and indulge in a daily Kafeneion pick-me-up at the traditional coffee shop before curating your day in paradise. The onsite dive centre offers an array of activities for the adventurous, from windsurfing to waterskiing, while the wellness spa promises absolute bliss for those seeking relaxation.",
       "location_subheading": "Greece",
-      "price": 901,
-      "original_price": 939,
+      "price": 967,
+      "original_price": 1007,
       "discount_percentage": 4,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004i4GUAAY",
       "hero_image": "https://images.luxuryescapes.com/a73hnlyuxg0rwl27w7l",
@@ -113,6 +113,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Paralos Irini Mare, Crete",
+      "offer_country_name": "Greece",
+      "location_heading": "Crete",
+      "title": "Greek Island Luxury with Daily Breakfast, Nightly Dinner & Poolside Cocktails",
+      "description": "Perched on the hillsides above the Libyan Sea, Paralos Irini Mare is a family-run retreat with more than thirty years of Cretan hospitality behind it. The recently renovated rooms and suites are spread throughout fragrant herb gardens, orchards and the shade of a two-century-old olive tree, with Agia Galini beach just below. Facilities centre on relaxation and activity in equal measure. The outdoor pool looks out over the sea, while spa treatments and a sauna offer unhurried relaxation. Guests looking to stay active will find a well-equipped gym and tennis courts on site. The restaurant draws on seasonal Cretan produce and the hotel's own olive oil, pressed from groves near the Minoan palace of Phaistos. Beyond the property, Agia Galini's waterfront and the gorge walks of south Crete are on the doorstep. The Minoan palace of Phaistos, Preveli beach and the Samaria Gorge are all within reach, making this a natural base for exploring one of the less-toured sides of the island.",
+      "location_subheading": "Greece",
+      "price": 429,
+      "original_price": 1589,
+      "discount_percentage": 73,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ViyeaYAB",
+      "hero_image": "https://images.luxuryescapes.com/ghajd65f5a7qvlrcycrm",
+      "image_two": "https://images.luxuryescapes.com/e4xmr51tfc8uajcrb8ln",
+      "image_three": "https://images.luxuryescapes.com/aceglcaaej0eukwraa3g",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-06-16 13:59:00"
     },
     {
       "vendor_name": "Porto Elounda Golf & Spa Resort",
@@ -168,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-25",
-    "hotel_count": 8,
-    "average_price": 815,
-    "average_discount": 14
+    "last_updated": "2026-05-27",
+    "hotel_count": 9,
+    "average_price": 779,
+    "average_discount": 20
   }
 }

@@ -43,6 +43,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Domes Miramare, a Luxury Collection Resort, Corfu - Adults Only",
+      "offer_country_name": "Greece",
+      "location_heading": "Corfu",
+      "title": "Corfu Adults-Only Beachfront Suites with Daily Breakfast, Daily Cocktails & Nightly Dinner",
+      "description": "Perched on Corfu's stunning east coast, Domes Miramare is where Greek sophistication meets barefoot luxury. This adults-only sanctuary boasts private beach access, multiple pools that seem to melt into the Ionian Sea, and restaurants where Mediterranean flavours come alive. Soma Spa is a serene haven, the state-of-the-art gym keeps the motivated on track, and every corner radiates boutique elegance. You're perfectly planted in Moraitika, where authentic tavernas, shimmering seaside views and island charm are at your doorstep. A short drive brings you to Corfu Town's UNESCO-listed old quarter, with Venetian fortresses, twisting laneways and the famous Liston arcade. From there, island-hop to Paxos, hike the Corfu Trail's olive groves, or simply lounge on the beach with an Aperol Spritz watching fishing boats drift by.",
+      "location_subheading": "Greece",
+      "price": 899,
+      "original_price": 2900,
+      "discount_percentage": 69,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000VnQsLYAV",
+      "hero_image": "https://images.luxuryescapes.com/090oys7d8kd6s0s6761",
+      "image_two": "https://images.luxuryescapes.com/0z0ogvxgn7p0i0fvi18",
+      "image_three": "https://images.luxuryescapes.com/rklluhj5h8kyiatahur",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-06-12 13:59:00"
+    },
+    {
       "vendor_name": "Kontokali Bay Resort & Spa",
       "offer_country_name": "Greece",
       "location_heading": "Corfu",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-25",
-    "hotel_count": 4,
-    "average_price": 830,
-    "average_discount": 0
+    "last_updated": "2026-05-27",
+    "hotel_count": 5,
+    "average_price": 844,
+    "average_discount": 14
   }
 }

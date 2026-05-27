@@ -61,6 +61,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Portella Palma",
+      "offer_country_name": "Spain",
+      "location_heading": "Mallorca",
+      "title": "Mallorca Island Elegance in Palma's Historic Centre with Rooftop Terrace",
+      "description": "Tucked away in the heart of Palma de Mallorca’s Old Town, this 17th-century home breathes around its authentic inner courtyard. Blending modern elegance with traditional charms, the designer abode boasts a rooftop terrace overlooking the city’s cathedral and a tranquil wellness area, ideal for some relaxation in between exploring. Wander the alluring streets of Palma and explore the Spanish city’s countless historic sites, including the Palma Cathedral and the Royal Palace of La Almudaina. If you wish to venture further, visit the island's pristine beaches and feast on Mediterranean cuisine ranging from fresh seafood, delectable tapas and regional delicacies like the coca Mallorquina.",
+      "location_subheading": "Spain",
+      "price": 1319,
+      "original_price": 1319,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CyHbmYAF",
+      "hero_image": "https://images.luxuryescapes.com/2pd61hmk4sv0v6qj73z",
+      "image_two": "https://images.luxuryescapes.com/sd38tst76r0ifjnabue",
+      "image_three": "https://images.luxuryescapes.com/ykrd3xfxth9tyedhjes",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:55:51"
+    },
+    {
       "vendor_name": "Pure Salt Port Adriano",
       "offer_country_name": "Spain",
       "location_heading": "Mallorca",
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-25",
-    "hotel_count": 6,
-    "average_price": 989,
-    "average_discount": 11
+    "last_updated": "2026-05-27",
+    "hotel_count": 7,
+    "average_price": 1036,
+    "average_discount": 9
   }
 }

@@ -3,8 +3,17 @@
   "code": "GR",
   "hero_title": "Greece Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Greece.",
-  "hero_image": "https://images.luxuryescapes.com/nx6xti8clm9hic2vc4ef",
+  "hero_image": "https://images.luxuryescapes.com/dqtd75imlwtlhnlwuai",
   "popular_destinations": [
+    {
+      "name": "Santorini",
+      "slug": "santorini",
+      "image": "https://images.luxuryescapes.com/dqtd75imlwtlhnlwuai",
+      "description": "Explore Santorini with luxury accommodations",
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 898
+    },
     {
       "name": "Athens",
       "slug": "athens",
@@ -15,40 +24,31 @@
       "avg_price": 557
     },
     {
-      "name": "Santorini",
-      "slug": "santorini",
-      "image": "https://images.luxuryescapes.com/dqtd75imlwtlhnlwuai",
-      "description": "Explore Santorini with luxury accommodations",
-      "hotel_count": 10,
-      "hotel_deals": 10,
-      "avg_price": 940
-    },
-    {
       "name": "Mykonos",
       "slug": "mykonos",
       "image": "https://images.luxuryescapes.com/34isjychidoj61pu818",
       "description": "Explore Mykonos with luxury accommodations",
-      "hotel_count": 9,
-      "hotel_deals": 9,
-      "avg_price": 764
+      "hotel_count": 10,
+      "hotel_deals": 10,
+      "avg_price": 747
     },
     {
       "name": "Crete",
       "slug": "crete",
       "image": "https://images.luxuryescapes.com/gqg07xxgnt8ol0n5wfw",
       "description": "Explore Crete with luxury accommodations",
-      "hotel_count": 8,
-      "hotel_deals": 8,
-      "avg_price": 815
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 779
     },
     {
       "name": "Corfu",
       "slug": "corfu",
       "image": "https://images.luxuryescapes.com/oluxxfirotc0iqohfukb",
       "description": "Explore Corfu with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 830
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 844
     },
     {
       "name": "Paros",
@@ -57,7 +57,7 @@
       "description": "Explore Paros with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 1201
+      "avg_price": 1199
     }
   ],
   "seo": {

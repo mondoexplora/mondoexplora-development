@@ -4,26 +4,8 @@
   "country_code": "ES",
   "hero_title": "Hotels in Marbella",
   "description": "Discover the best hotels in Marbella, Spain. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/vb0sgscpwtghhqbwto3e",
+  "hero_image": "https://images.luxuryescapes.com/fktsbmfbhee6yccuwpuwq",
   "hotels": [
-    {
-      "vendor_name": "Kimpton Los Monteros Marbella",
-      "offer_country_name": "Spain",
-      "location_heading": "Marbella",
-      "title": "Marbella Mediterranean Opulence with Daily Breakfast & Free-Flow Wine Hour",
-      "description": "Experience coastal magic at Kimpton Los Monteros Marbella, nestled along the glistening Costa del Sol. This hotel is where Andalusian soul meets Kimpton style, with Mediterranean architecture and manicured grounds setting the tone for laid-back living. Spend lazy days around the indoor or outdoor pool, then wind down in Codage Spa, where steam, stillness and skilled hands melt every last care away. Linger over local flavours at Jara before ascending to Escondido Rooftop to watch the sun dip over the horizon. Just a short drive from Marbella’s old town and its yacht-filled marina, Los Monteros gives you the best of both worlds - buzz when you want it, bliss when you don’t. As for paradise? Let’s just say it comes with sea views and seriously good sangria.",
-      "location_subheading": "Spain",
-      "price": 719,
-      "original_price": 1754,
-      "discount_percentage": 59,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RRnZmYAL",
-      "hero_image": "https://images.luxuryescapes.com/vb0sgscpwtghhqbwto3e",
-      "image_two": "https://images.luxuryescapes.com/qr4crje1k7arwk7156",
-      "image_three": "https://images.luxuryescapes.com/aa53uvlaax3dw3qtwa",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 3,
-      "end_date_utc": "2026-05-26 13:59:00"
-    },
     {
       "vendor_name": "METT Marbella - Estepona",
       "offer_country_name": "Spain",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-25",
-    "hotel_count": 2,
-    "average_price": 776,
-    "average_discount": 30
+    "last_updated": "2026-05-27",
+    "hotel_count": 1,
+    "average_price": 832,
+    "average_discount": 0
   }
 }
