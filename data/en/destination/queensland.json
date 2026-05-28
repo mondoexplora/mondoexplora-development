@@ -13,8 +13,8 @@
       "title": "Beachfront Hervey Bay Oaks Resort Stay",
       "description": "Escape to the idyllic Fraser Coast with a relaxing stay at Oaks Hervey Bay Resort and Spa boasting spectacular ocean panoramas. When you're not making footprints in the sand along the beach or exploring the many eateries along the vibrant Esplanade, rejuvenate at the gym or transcend into bliss at Mineral Earth Wellness Spa. Afterwards, return to your apartment sanctuary home-away-from-home experience.",
       "location_subheading": "Australia",
-      "price": 603.9,
-      "original_price": 603.9,
+      "price": 677.1,
+      "original_price": 677.1,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DPKRaAAP",
       "hero_image": "https://images.luxuryescapes.com/9uufhz510oaf0c9gvofa",
@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Rhapsody Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Queensland",
+      "title": "Gold Coast Luxury Apartments Overlooking Surfers Paradise with Outdoor Pool & Rooftop Terrace",
+      "description": "Marvel at the glitz and glamour of Surfers Paradise from above with a stay at Rhapsody Resort, a beach-inspired all-apartment stay with all the home comforts and modern luxury rolled into one. Spend your days lounging in your modern sanctuary while admiring the vibrant foreshore, dotted with buzzing restaurants, cafes and world-class nightlife. The rooftop deck and garden offer a quiet perch above it all, with 360 degree views across the ocean and Surfers Paradise. This stylish retreat is your launchpad to iconic Cavill Avenue and the weekly markets that make Surfers Paradise so distinctive. When you've had your fill of the Gold Coast's myriad activities, make the most of your beachside setting and the resort's impeccable facilities, including BBQ facilities, an onsite pool and a fully equipped fitness centre.",
+      "location_subheading": "Australia",
+      "price": 309,
+      "original_price": 813,
+      "discount_percentage": 62,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000V0JjxYAF",
+      "hero_image": "https://images.luxuryescapes.com/fc74ucelqicxx4q04qt",
+      "image_two": "https://images.luxuryescapes.com/4mwn047ytvqqd007atav",
+      "image_three": "https://images.luxuryescapes.com/6015olg7r954dhcnkinf",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-06-25 13:59:00"
     },
     {
       "vendor_name": "Manor Apartment Hotel",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-27",
-    "hotel_count": 3,
-    "average_price": 561,
-    "average_discount": 5
+    "last_updated": "2026-05-28",
+    "hotel_count": 4,
+    "average_price": 516,
+    "average_discount": 19
   }
 }

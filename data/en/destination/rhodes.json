@@ -4,8 +4,26 @@
   "country_code": "GR",
   "hero_title": "Hotels in Rhodes",
   "description": "Discover the best hotels in Rhodes, Greece. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/1dpcdjup9jz4ldm82jh",
+  "hero_image": "https://images.luxuryescapes.com/l887h91vondko55l3x3h",
   "hotels": [
+    {
+      "vendor_name": "Amoh, a Luxury Collection Resort, Rhodes",
+      "offer_country_name": "Greece",
+      "location_heading": "Rhodes",
+      "title": "Greek Island Glamour: Rhodes Beachfront Hideaway with Daily Breakfast & Daily EUR50 Dining Credit",
+      "description": "Carved into an ancient stone quarry on Rhodes' southeastern peninsula, this resort has the mythology of the Dodecanese Islands written into the architecture, spa rituals and culinary concept. Sprawling spa retreat ELISPA features wellness rituals that draw on the island’s renowned healing traditions, while restaurants and bars celebrate the island’s culinary heritage, from seafood-focused house of fine dining Kymata to farm-sourced Mediterranean fare and views over the quarry ruins at Cava di Pietra. Beyond the resort’s peninsula setting, guests discover Rhodes through curated cultural experiences - story nights with local storytellers, ceramic workshops with Rhodian artisans and guided excursions to ancient sites. The iconic village of Lindos captivates with its whitewashed alleyways leading to the dramatic Acropolis perched above the sea, while secluded coves and crystal-clear waters dot the coastline within easy reach of this exclusive retreat.",
+      "location_subheading": "Greece",
+      "price": 1114,
+      "original_price": 3094,
+      "discount_percentage": 64,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000VPyITYA1",
+      "hero_image": "https://images.luxuryescapes.com/l887h91vondko55l3x3h",
+      "image_two": "https://images.luxuryescapes.com/9eki28ba7qndtf9afpn",
+      "image_three": "https://images.luxuryescapes.com/2hl14wyscu7ysiem8gi5",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-06-17 13:59:00"
+    },
     {
       "vendor_name": "Caesars Gardens Hotel & Spa - Adults Only- Rhodes, Greece",
       "offer_country_name": "Greece",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-27",
-    "hotel_count": 1,
-    "average_price": 1069,
-    "average_discount": 0
+    "last_updated": "2026-05-28",
+    "hotel_count": 2,
+    "average_price": 1092,
+    "average_discount": 32
   }
 }
