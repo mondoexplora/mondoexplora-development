@@ -46,24 +46,6 @@
       "vendor_name": "SILA Urban Living",
       "offer_country_name": "Vietnam",
       "location_heading": "Ho Chi Minh",
-      "title": "Designer Apartment Stay in the Heart of Ho Chi Minh City",
-      "description": "More than a launchpad from which to explore some of Vietnam's top attractions, SILA Urban Living invites you to embrace Ho Chi Minh City's modern lifestyle in absolute luxury. Tucked into one of the city's most charming neighbourhoods, this modern sanctuary surpasses expectations, effortlessly merging self-contained apartments with the service and style associated with a high-end hotel experience. Indulge in some self-care at the onsite health club, complete with a 20-metre outdoor pool, before satisfying your cravings at Cocotte Bistro, one of the latest restaurants to grace the Saigon food scene. Step out of the front doors to discover a bustling streetscape lined with classic colonial architecture, upmarket boutiques and a smattering of cafés. Kickstart explorations with an iconic Vietnamese coffee, then take your pick from myriad nearby attractions including the fascinating War Remnants Museum and Archbishop’s Residence, both a five-minute stroll away.",
-      "location_subheading": "Vietnam",
-      "price": 232,
-      "original_price": 232,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000006xJyGAAU",
-      "hero_image": "https://images.luxuryescapes.com/rwagvgp0t9kufqv6h8s4",
-      "image_two": "https://images.luxuryescapes.com/mtekqy56bk2292ojv1uh",
-      "image_three": "https://images.luxuryescapes.com/kxdpqw9secx3nztgrawh",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "SILA Urban Living",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Ho Chi Minh",
       "title": "Sophisticated Ho Chi Minh City Escape near Notre Dame with Daily Breakfast & Nightly Cocktail",
       "description": "Set in the vibrant heart of Ho Chi Minh City’s District 3, this sophisticated retreat places you steps from the leafy avenues of Turtle Lake and the creative energy of Le Van Tam Park. Take time to discover the city’s French colonial heritage or stroll to the buzzing cafes and boutiques along Pasteur Street. Back onsite, bask in the service and style of a luxury hotel, with the convenience and living space of a serviced apartment, paired with access to an outdoor pool and fitness centre. When it’s time to indulge, head to Cocotte Bistro, serving up traditional French cuisine and tasty tipples in a modern setting. To catch some rays, opt to dine poolside or on the alfresco terrace. After busy days of exploring, wind down with relaxing treatments at the spa, treat yourself to a sauna and steam room session, soak in the bubbling jacuzzi or find your zen at the onsite yoga studio - everything you need is right here.",
       "location_subheading": "Vietnam",
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 3,
       "end_date_utc": "2026-06-29 13:59:00"
+    },
+    {
+      "vendor_name": "SILA Urban Living",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Ho Chi Minh",
+      "title": "Designer Apartment Stay in the Heart of Ho Chi Minh City",
+      "description": "More than a launchpad from which to explore some of Vietnam's top attractions, SILA Urban Living invites you to embrace Ho Chi Minh City's modern lifestyle in absolute luxury. Tucked into one of the city's most charming neighbourhoods, this modern sanctuary surpasses expectations, effortlessly merging self-contained apartments with the service and style associated with a high-end hotel experience. Indulge in some self-care at the onsite health club, complete with a 20-metre outdoor pool, before satisfying your cravings at Cocotte Bistro, one of the latest restaurants to grace the Saigon food scene. Step out of the front doors to discover a bustling streetscape lined with classic colonial architecture, upmarket boutiques and a smattering of cafés. Kickstart explorations with an iconic Vietnamese coffee, then take your pick from myriad nearby attractions including the fascinating War Remnants Museum and Archbishop’s Residence, both a five-minute stroll away.",
+      "location_subheading": "Vietnam",
+      "price": 232,
+      "original_price": 232,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000006xJyGAAU",
+      "hero_image": "https://images.luxuryescapes.com/rwagvgp0t9kufqv6h8s4",
+      "image_two": "https://images.luxuryescapes.com/mtekqy56bk2292ojv1uh",
+      "image_three": "https://images.luxuryescapes.com/kxdpqw9secx3nztgrawh",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -96,7 +96,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-29",
+    "last_updated": "2026-05-30",
     "hotel_count": 4,
     "average_price": 271,
     "average_discount": 17

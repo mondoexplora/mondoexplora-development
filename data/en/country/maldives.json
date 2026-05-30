@@ -12,7 +12,7 @@
       "description": "Explore Baa Atoll with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 5671
+      "avg_price": 5655
     },
     {
       "name": "North Male Atoll",
@@ -30,7 +30,7 @@
       "description": "Explore North Malé Atoll with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 3395
+      "avg_price": 3485
     },
     {
       "name": "Malé",
@@ -39,7 +39,7 @@
       "description": "Explore Malé with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 916
+      "avg_price": 913
     },
     {
       "name": "Huvahendhoo",
@@ -48,16 +48,16 @@
       "description": "Explore Huvahendhoo with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 3252
+      "avg_price": 3248
     },
     {
-      "name": "Fonimagoodhoo",
-      "slug": "fonimagoodhoo",
-      "image": "https://images.luxuryescapes.com/sgnr70fhenwcru9nbb9",
-      "description": "Explore Fonimagoodhoo with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 3069
+      "name": "Kooddoo Island",
+      "slug": "kooddoo-island",
+      "image": "https://images.luxuryescapes.com/8lmon526es6jm6rwdnu",
+      "description": "Explore Kooddoo Island with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 1972
     }
   ],
   "seo": {
