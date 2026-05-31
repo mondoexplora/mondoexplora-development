@@ -12,7 +12,7 @@
       "description": "Explore Auckland with luxury accommodations",
       "hotel_count": 23,
       "hotel_deals": 23,
-      "avg_price": 363
+      "avg_price": 376
     },
     {
       "name": "Queenstown",
@@ -21,7 +21,7 @@
       "description": "Explore Queenstown with luxury accommodations",
       "hotel_count": 18,
       "hotel_deals": 18,
-      "avg_price": 933
+      "avg_price": 943
     },
     {
       "name": "Christchurch",
@@ -30,7 +30,7 @@
       "description": "Explore Christchurch with luxury accommodations",
       "hotel_count": 8,
       "hotel_deals": 8,
-      "avg_price": 319
+      "avg_price": 324
     },
     {
       "name": "Wellington",
@@ -39,7 +39,7 @@
       "description": "Explore Wellington with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 298
+      "avg_price": 305
     },
     {
       "name": "Rotorua",
@@ -48,16 +48,16 @@
       "description": "Explore Rotorua with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 265
+      "avg_price": 276
     },
     {
       "name": "Windwhistle",
       "slug": "windwhistle",
-      "image": "https://images.luxuryescapes.com/ch4z2rxr1m69lb7kx3o",
+      "image": "https://images.luxuryescapes.com/pdurqdv1qdcg3chzmeh",
       "description": "Explore Windwhistle with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 505
+      "avg_price": 507
     }
   ],
   "seo": {
