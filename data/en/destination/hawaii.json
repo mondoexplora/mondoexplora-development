@@ -149,6 +149,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Wayfinder Waikiki",
+      "offer_country_name": "United States",
+      "location_heading": "Hawaii",
+      "title": "Award-Winning Waikiki Boutique Hideaway near Kalākaua Avenue with Daily Breakfast & Nightly Drinks",
+      "description": "Named among Hawaii's top 10 hotels by readers of Condé Nast Traveller, Wayfinder Waikiki brings a design-forward sensibility to one of the world's most famous beach strips. Mid-century lines meet island textures as local art brightens corridors and common spaces in this hotel; on opening, Vogue magazine called Wayfinder Waikiki 'the most beautiful hotel opening in 2023.' A landscaped pool courtyard with cabanas and a hot tub offers island-style relaxation. Three Hawaiian-operated venues fill the day from first coffee to last call. B-Side Coffee Bar opens early with locally roasted pours and pastries, neighbourhood favourite Redfish Poke Bar handles Hawaiian-inspired seafood and seasonal produce, and the poolside speakeasy, Lost + Found, takes over come evening with handcrafted cocktails and a mood to match its surroundings. Waikiki Beach is a short walk away, while Kalākaua Avenue's boutiques, the surf breaks of Queen's Beach, Kapiolani Park and Honolulu Zoo are all within easy reach. A hotel that more than earns its place on these coveted shores.",
+      "location_subheading": "United States",
+      "price": 739,
+      "original_price": 1421,
+      "discount_percentage": 48,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000VPY35YAH",
+      "hero_image": "https://images.luxuryescapes.com/vubpu11flbv4nz38kzcl",
+      "image_two": "https://images.luxuryescapes.com/yes9trs7paqvy2jh8ghq",
+      "image_three": "https://images.luxuryescapes.com/83bj49hm8a142fjn5x9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 4,
+      "end_date_utc": "2026-06-29 13:59:00"
     }
   ],
   "seo": {
@@ -168,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-31",
-    "hotel_count": 8,
-    "average_price": 1402,
-    "average_discount": 11
+    "last_updated": "2026-06-01",
+    "hotel_count": 9,
+    "average_price": 1328,
+    "average_discount": 15
   }
 }

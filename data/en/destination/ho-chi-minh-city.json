@@ -31,8 +31,8 @@
       "title": "Sophisticated Ho Chi Minh City Escape in Elegant Ba Son Neighbourhood with Rooftop Pool",
       "description": "Immerse yourself in the pulsating heart of Vietnam with a stay at Hotel Indigo Saigon The City, an IHG Hotel, perfectly positioned amid the city's bustling District 1. This vibrant escape is a stone's throw from the city's iconic landmarks, including the Notre-Dame Cathedral Basilica of Saigon and the Central Post Office. Savour authentic Vietnamese cuisine at the hotel's Neighbourhood Cafe, or sip on refreshing cocktails by the rooftop pool, boasting panoramic city views.",
       "location_subheading": "Vietnam",
-      "price": 362,
-      "original_price": 362,
+      "price": 355,
+      "original_price": 355,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GufhwAAB",
       "hero_image": "https://images.luxuryescapes.com/xgzri26vj1h4bdctma",
@@ -82,24 +82,6 @@
       "vendor_name": "Sofitel Saigon Plaza",
       "offer_country_name": "Vietnam",
       "location_heading": "Ho Chi Minh City",
-      "title": "Signature Luxury in Central Ho Chi Minh with Rooftop Pool, Spa & Onsite Dining",
-      "description": "Experience Ho Chi Minh City with a stay a signature Sofitel stay, perfectly positioned in the heart of the city's bustling District 1. This French colonial-style hotel is a stone's throw from the city's most renowned landmarks, including the Saigon Notre-Dame Basilica and the War Remnants Museum. Savour the flavours of Vietnam at Le 17 Bistro, where you can enjoy local dishes with a French twist, or sip on expertly crafted cocktails at the chic Boudoir Lounge. For a change of pace, take a leisurely stroll along the Saigon River, just minutes from the hotel. After a day of exploration, retreat to the hotel's rooftop pool for a refreshing dip, or rejuvenate your senses at BREMIERE Spa.",
-      "location_subheading": "Vietnam",
-      "price": 351,
-      "original_price": 351,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GVA0IYAX",
-      "hero_image": "https://images.luxuryescapes.com/0kn6x85f7ego3gtml8b",
-      "image_two": "https://images.luxuryescapes.com/hfh5p3nkn4xx9cl4u2fbg",
-      "image_three": "https://images.luxuryescapes.com/8bec9xjxgvos95r1840v",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Sofitel Saigon Plaza",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Ho Chi Minh City",
       "title": "Ho Chi Minh French-Inspired Elegance with Daily Breakfast, Nightly Cocktails & One-time Dinner",
       "description": "Indulge in world-class service and French-inspired luxury at this five-star Sofitel haven. Situated on Saigon's tree-lined Le Duan Boulevard in District 1 - just minutes from iconic landmarks like Saigon Notre Dame Cathedral, Independence Palace and the Botanical Garden - the hotel places you right in the heart of Vietnam's largest city. From the moment you enter the grand marble lobby, you’re welcomed into a world of refined elegance. The hotel’s exceptional dining venues offer something for every taste, including an open kitchen serving up Asian and French masterpieces at Mezz, or French delicacies paired with chic interiors at Le 17 Bistro. Drink in breathtaking views of the city skyline from the rooftop pool, sip expertly crafted cocktails at the extravagant Ministry concept bar, or unwind at Bremiere Wellness Centre with a treatment for the senses. Stay active with complimentary yoga classes, and relax in the sauna and steam room - every detail is taken care of.",
       "location_subheading": "Vietnam",
@@ -113,6 +95,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 3,
       "end_date_utc": "2026-07-10 13:59:00"
+    },
+    {
+      "vendor_name": "Sofitel Saigon Plaza",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Ho Chi Minh City",
+      "title": "Signature Luxury in Central Ho Chi Minh with Rooftop Pool, Spa & Onsite Dining",
+      "description": "Experience Ho Chi Minh City with a stay a signature Sofitel stay, perfectly positioned in the heart of the city's bustling District 1. This French colonial-style hotel is a stone's throw from the city's most renowned landmarks, including the Saigon Notre-Dame Basilica and the War Remnants Museum. Savour the flavours of Vietnam at Le 17 Bistro, where you can enjoy local dishes with a French twist, or sip on expertly crafted cocktails at the chic Boudoir Lounge. For a change of pace, take a leisurely stroll along the Saigon River, just minutes from the hotel. After a day of exploration, retreat to the hotel's rooftop pool for a refreshing dip, or rejuvenate your senses at BREMIERE Spa.",
+      "location_subheading": "Vietnam",
+      "price": 351,
+      "original_price": 351,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GVA0IYAX",
+      "hero_image": "https://images.luxuryescapes.com/0kn6x85f7ego3gtml8b",
+      "image_two": "https://images.luxuryescapes.com/hfh5p3nkn4xx9cl4u2fbg",
+      "image_three": "https://images.luxuryescapes.com/8bec9xjxgvos95r1840v",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -132,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-31",
+    "last_updated": "2026-06-01",
     "hotel_count": 6,
-    "average_price": 433,
+    "average_price": 431,
     "average_discount": 8
   }
 }

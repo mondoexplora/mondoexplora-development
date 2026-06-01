@@ -3,12 +3,12 @@
   "code": "LK",
   "hero_title": "Sri Lanka Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Sri Lanka.",
-  "hero_image": "https://images.luxuryescapes.com/64gnmm9rrfiy2v32ir5r",
+  "hero_image": "https://images.luxuryescapes.com/pvt6ytekdhc6y95lbze",
   "popular_destinations": [
     {
       "name": "Kandy",
       "slug": "kandy",
-      "image": "https://images.luxuryescapes.com/64gnmm9rrfiy2v32ir5r",
+      "image": "https://images.luxuryescapes.com/pvt6ytekdhc6y95lbze",
       "description": "Explore Kandy with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
@@ -33,24 +33,6 @@
       "avg_price": 634
     },
     {
-      "name": "Hambantota",
-      "slug": "hambantota",
-      "image": "https://images.luxuryescapes.com/jgmi4b544djvkuywqogd",
-      "description": "Explore Hambantota with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 488
-    },
-    {
-      "name": "Colombo",
-      "slug": "colombo",
-      "image": "https://images.luxuryescapes.com/5ozf29ng1xt0h6k7vje",
-      "description": "Explore Colombo with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 397
-    },
-    {
       "name": "Balapitiya",
       "slug": "balapitiya",
       "image": "https://images.luxuryescapes.com/nz5h57q4p8lfbwr0gdhe",
@@ -58,6 +40,24 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 539
+    },
+    {
+      "name": "Ahungalla",
+      "slug": "ahungalla",
+      "image": "https://images.luxuryescapes.com/u2smx3jm1hb975asir9j",
+      "description": "Explore Ahungalla with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 958
+    },
+    {
+      "name": "Yala National Park",
+      "slug": "yala-national-park",
+      "image": "https://images.luxuryescapes.com/kin6zba5kk8nxcjpja4",
+      "description": "Explore Yala National Park with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 979
     }
   ],
   "seo": {

@@ -4,26 +4,8 @@
   "country_code": "ID",
   "hero_title": "Hotels in Benoa",
   "description": "Discover the best hotels in Benoa, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/rr8sztlwrcbkjgs5k48",
+  "hero_image": "https://images.luxuryescapes.com/f3up1yso2b68hmbf8eil",
   "hotels": [
-    {
-      "vendor_name": "Novotel Bali Benoa",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Benoa",
-      "title": "Benoa Beachfront Bliss near Nusa Dua with Three Restaurants, Three Pools & Onsite Spa",
-      "description": "Discover your own slice of paradise along a stretch of Tanjung Benoa Beach at this family-friendly resort. Lose track of time by one of the resort’s three shimmering pools, get adventurous with an abundance of watersport activities or seek inner serenity at the onsite spa. With five diverse restaurants, cafes and bars onsite, curate your culinary journey as you please. Return to Cocos Beach Restaurant and Bar for laidback pizza on the shore, Crocokiss Restaurant & Bar for light bites or Nanas Bar for a late-night tipple. Just a 15-minute drive from the heart of Nusa Dua, Novotel Bali Benoa provides easy access to Bali Collection for some shopping and Museum Pasifika for a glimpse of the region’s artistic heritage.",
-      "location_subheading": "Indonesia",
-      "price": 176,
-      "original_price": 176,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlviIAC",
-      "hero_image": "https://images.luxuryescapes.com/rr8sztlwrcbkjgs5k48",
-      "image_two": "https://images.luxuryescapes.com/fzcsmaan8mtgp146600o",
-      "image_three": "https://images.luxuryescapes.com/i1jgg5z1qj14raqqka9j",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Novotel Bali Benoa",
       "offer_country_name": "Indonesia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 7,
       "end_date_utc": "2026-06-16 13:59:00"
+    },
+    {
+      "vendor_name": "Novotel Bali Benoa",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Benoa",
+      "title": "Benoa Beachfront Bliss near Nusa Dua with Three Restaurants, Three Pools & Onsite Spa",
+      "description": "Discover your own slice of paradise along a stretch of Tanjung Benoa Beach at this family-friendly resort. Lose track of time by one of the resort’s three shimmering pools, get adventurous with an abundance of watersport activities or seek inner serenity at the onsite spa. With five diverse restaurants, cafes and bars onsite, curate your culinary journey as you please. Return to Cocos Beach Restaurant and Bar for laidback pizza on the shore, Crocokiss Restaurant & Bar for light bites or Nanas Bar for a late-night tipple. Just a 15-minute drive from the heart of Nusa Dua, Novotel Bali Benoa provides easy access to Bali Collection for some shopping and Museum Pasifika for a glimpse of the region’s artistic heritage.",
+      "location_subheading": "Indonesia",
+      "price": 176,
+      "original_price": 176,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlviIAC",
+      "hero_image": "https://images.luxuryescapes.com/rr8sztlwrcbkjgs5k48",
+      "image_two": "https://images.luxuryescapes.com/fzcsmaan8mtgp146600o",
+      "image_three": "https://images.luxuryescapes.com/i1jgg5z1qj14raqqka9j",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-05-31",
+    "last_updated": "2026-06-01",
     "hotel_count": 2,
     "average_price": 558,
     "average_discount": 34
