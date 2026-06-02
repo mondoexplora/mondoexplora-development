@@ -6,7 +6,7 @@
   "transport_modes": {
     "flight": {
       "duration": "1h 55m",
-      "price_range": "$120 - $350",
+      "price_range": "$95 - $220",
       "providers": [
         "Skyscanner",
         "Kayak",
@@ -14,8 +14,8 @@
       ]
     },
     "train": {
-      "duration": "5h 20m",
-      "price_range": "$45 - $120",
+      "duration": "2h 30m",
+      "price_range": "$60 - $150",
       "providers": [
         "Rail Europe",
         "Eurail",
@@ -32,9 +32,9 @@
       ]
     },
     "car": {
-      "duration": "4h 30m",
+      "duration": "3h 55m",
       "distance": "380 km",
-      "price_range": "$40 - $95"
+      "price_range": "$60 - $140"
     }
   },
   "seo": {
