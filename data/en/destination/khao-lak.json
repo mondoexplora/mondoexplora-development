@@ -49,9 +49,9 @@
       "title": "Khao Lak Boutique Luxury with Beachfront Infinity Pool",
       "description": "Discover the natural beauty of Thailand with a stay at the stunning Devasom Khao Lak, nestled between a natural lagoon and one of the country's most stunning sunset beaches. This small luxury property offers direct access to the flawless white sands of a private beach, framed by gently swaying palms. Savour the flavours of Thai-western fusion at the oceanfront Takola Thai Restaurant - featured in the Michelin Guide for 2025 - or for a more relaxed dining experience, head to Devasom Beach Grill and Bar, where you can dine alfresco on seafood as you watch the sun go down. Unwind at the onsite wellness centre, which offers Muay Thai classes, morning yoga, a state-of-the-art fitness centre and a serene spa. You can make the most of your Khao Lak experience by treating yourself to a Thai cooking class, an oceanfront cocktail party, a Thai garland-making class or by taking the guided spice tour of the property. Travelling with family? Let little ones run free at the kids' club or invite the whole family to the party with a beach picnic experience.",
       "location_subheading": "Thailand",
-      "price": 630.74,
-      "original_price": 701,
-      "discount_percentage": 10,
+      "price": 643.55,
+      "original_price": 707,
+      "discount_percentage": 9,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000008J9JTAA0",
       "hero_image": "https://images.luxuryescapes.com/ir3dpl6s7hxwzq8qqnq8",
       "image_two": "https://images.luxuryescapes.com/45k43o2jwzoawktlt8nu",
@@ -59,24 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Grand Mercure Khao Lak Bangsak",
-      "offer_country_name": "Thailand",
-      "location_heading": "Khao Lak",
-      "title": "Khao Lak Beachfront Paradise with Massages, Daily Breakfast, Dinner & Nightly Free-Flow Drinks Hour",
-      "description": "Ensconced in tropical gardens on Thailand’s tranquil southwest coast, Grand Mercure Khao Lak Bangsak is a pristine hideaway that offers endless indulgence by the shores of Khao Lak. Inspired by traditional riverside Thai villages, this unique resort is centred on a picturesque, winding canal, lined by lush greenery and immaculate accommodation. High-end amenities invite complete relaxation: enjoy an invigorating swim in the beachfront pool, spoil yourself at Pran Spa, or experience a fresh take on Thai favourites at one of two innovative restaurants, Patio Restaurant and Green Mango Restaurant. Soak Pool Bar is on hand with tropical sips while the young kids are entertained at Manta Ray Kids’ Club. When you manage to tear yourself away from your slice of paradise, enjoy a stroll along the white-sand beach mere moments from the resort, or head to one of the nearby elephant sanctuaries to learn about these gentle giants.",
-      "location_subheading": "Thailand",
-      "price": 599,
-      "original_price": 1932,
-      "discount_percentage": 69,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PIbltYAD",
-      "hero_image": "https://images.luxuryescapes.com/0ylzpgtgado0rwy3f26",
-      "image_two": "https://images.luxuryescapes.com/jl8mtifgwijpt9uv03sd",
-      "image_three": "https://images.luxuryescapes.com/54jxax4cbaxgwxuoxvve",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 7,
-      "end_date_utc": "2026-06-06 13:59:00"
     },
     {
       "vendor_name": "Grand Mercure Khao Lak Bangsak",
@@ -95,6 +77,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Grand Mercure Khao Lak Bangsak",
+      "offer_country_name": "Thailand",
+      "location_heading": "Khao Lak",
+      "title": "Khao Lak Beachfront Paradise with Massages, Daily Breakfast, Dinner & Nightly Free-Flow Drinks Hour",
+      "description": "Ensconced in tropical gardens on Thailand’s tranquil southwest coast, Grand Mercure Khao Lak Bangsak is a pristine hideaway that offers endless indulgence by the shores of Khao Lak. Inspired by traditional riverside Thai villages, this unique resort is centred on a picturesque, winding canal, lined by lush greenery and immaculate accommodation. High-end amenities invite complete relaxation: enjoy an invigorating swim in the beachfront pool, spoil yourself at Pran Spa, or experience a fresh take on Thai favourites at one of two innovative restaurants, Patio Restaurant and Green Mango Restaurant. Soak Pool Bar is on hand with tropical sips while the young kids are entertained at Manta Ray Kids’ Club. When you manage to tear yourself away from your slice of paradise, enjoy a stroll along the white-sand beach mere moments from the resort, or head to one of the nearby elephant sanctuaries to learn about these gentle giants.",
+      "location_subheading": "Thailand",
+      "price": 599,
+      "original_price": 1932,
+      "discount_percentage": 69,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PIbltYAD",
+      "hero_image": "https://images.luxuryescapes.com/0ylzpgtgado0rwy3f26",
+      "image_two": "https://images.luxuryescapes.com/jl8mtifgwijpt9uv03sd",
+      "image_three": "https://images.luxuryescapes.com/54jxax4cbaxgwxuoxvve",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 7,
+      "end_date_utc": "2026-06-06 13:59:00"
     },
     {
       "vendor_name": "Pullman Khao Lak Resort",
@@ -186,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-02",
+    "last_updated": "2026-06-03",
     "hotel_count": 9,
-    "average_price": 294,
-    "average_discount": 18
+    "average_price": 295,
+    "average_discount": 17
   }
 }
