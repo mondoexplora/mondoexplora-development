@@ -1,0 +1,50 @@
+{
+  "city": "Lake Tahoe",
+  "country": "United States",
+  "country_code": "US",
+  "hero_title": "Hotels in Lake Tahoe",
+  "description": "Discover the best hotels in Lake Tahoe, United States. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/vx2dyeez77y855twm9tm",
+  "hotels": [
+    {
+      "vendor_name": "The Coachman Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Lake Tahoe",
+      "title": "Lake Tahoe Boutique Lodge with US$50 Daily Resort Credit & Nightly Drinks",
+      "description": "Five minutes from the Heavenly Gondola base and walking distance to Lakeside Beach and the marina, this South Lake Tahoe boutique retreat puts every adventure at your door. Ski world-class slopes in winter, then kayak, paddleboard or parasail in summer - all with complimentary resort bikes to explore at your own pace. Back at the hotel, modern mountain lodge interiors, plush bedding, a heated pool and year-round hot tub bring the cosy factor. When you're not out on the mountain or the water, the Coachman Café is your go-to. Expect craft beers, local wines and legendary waffles piled high with whipped cream. Visit the wellness room, burn off steam in the Peloton gym, then gather around the fire pit for nightly s'mores. This is Lake Tahoe living at its best.",
+      "location_subheading": "United States",
+      "price": 299,
+      "original_price": 636,
+      "discount_percentage": 53,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UbgjnYAB",
+      "hero_image": "https://images.luxuryescapes.com/vx2dyeez77y855twm9tm",
+      "image_two": "https://images.luxuryescapes.com/8psr4fnv08w5kdkf2nl8",
+      "image_three": "https://images.luxuryescapes.com/4p5bdz0cws7cpforbt79",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-07-30 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Lake Tahoe - United States Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Lake Tahoe, United States with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "lake tahoe hotels",
+      "lake tahoe travel",
+      "united states hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/lake-tahoe",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/lake-tahoe",
+      "es": "https://mondoexplora.com/es/destination/lake-tahoe",
+      "fr": "https://mondoexplora.com/fr/destination/lake-tahoe",
+      "it": "https://mondoexplora.com/it/destination/lake-tahoe"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-06-05",
+    "hotel_count": 1,
+    "average_price": 299,
+    "average_discount": 53
+  }
+}

@@ -4,8 +4,26 @@
   "country_code": "ES",
   "hero_title": "Hotels in Ibiza",
   "description": "Discover the best hotels in Ibiza, Spain. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/km0y1pe9t375yfveyt9",
+  "hero_image": "https://images.luxuryescapes.com/rfi7sa6mpktumq5qn4p",
   "hotels": [
+    {
+      "vendor_name": "Cala San Miguel Ibiza Resort, Curio Collection by Hilton",
+      "offer_country_name": "Spain",
+      "location_heading": "Ibiza",
+      "title": "Ibiza Adults-Only Oceanfront Glamour with Daily Breakfast & Direct Beach Access",
+      "description": "Signature Hilton hospitality meets Ibiza’s legendary golden sands at this adults-only oceanfront oasis, perfectly positioned just moments from Cala San Miguel’s brilliant blue waters. After a tremendous 2024 opening, this resort offers everything you need for the ultimate Mediterranean escape: spend your days sipping cocktails by the pool or exploring Ibiza’s famed Old Town, just a 30-minute drive away. Surrounded by spectacular rugged cliffs and sweeping ocean views, this luxury retreat is tucked away in the northern port village of San Miguel. Taste your way across the resort’s seven restaurants and bars, from Calido’s poolside poke bowls and sushi rolls to Paseo’s flame-kissed grilled meats and fresh seafood.",
+      "location_subheading": "Spain",
+      "price": 549,
+      "original_price": 1771,
+      "discount_percentage": 69,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SaNXRYA3",
+      "hero_image": "https://images.luxuryescapes.com/rfi7sa6mpktumq5qn4p",
+      "image_two": "https://images.luxuryescapes.com/2nrkndpdrj8g3ozckqq",
+      "image_three": "https://images.luxuryescapes.com/3tktexfmsijpco7twlm",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-07-03 13:59:00"
+    },
     {
       "vendor_name": "Hyde Ibiza",
       "offer_country_name": "Spain",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-04",
-    "hotel_count": 5,
-    "average_price": 716,
-    "average_discount": 4
+    "last_updated": "2026-06-05",
+    "hotel_count": 6,
+    "average_price": 688,
+    "average_discount": 15
   }
 }
