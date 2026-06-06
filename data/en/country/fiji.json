@@ -3,21 +3,21 @@
   "code": "FJ",
   "hero_title": "Fiji Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Fiji.",
-  "hero_image": "https://images.luxuryescapes.com/tvsj8zq19e332x2sljd",
+  "hero_image": "https://images.luxuryescapes.com/45e0v0v8t5f1p8bmfv39",
   "popular_destinations": [
     {
       "name": "Malolo Island",
       "slug": "malolo-island",
-      "image": "https://images.luxuryescapes.com/tvsj8zq19e332x2sljd",
+      "image": "https://images.luxuryescapes.com/45e0v0v8t5f1p8bmfv39",
       "description": "Explore Malolo Island with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 3234
+      "avg_price": 3235
     },
     {
       "name": "Coral Coast",
       "slug": "coral-coast",
-      "image": "https://images.luxuryescapes.com/b59quc2qhwz4j90watb",
+      "image": "https://images.luxuryescapes.com/6vaom3hbevceaddf5v",
       "description": "Explore Coral Coast with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
@@ -30,7 +30,7 @@
       "description": "Explore Viti Levu with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 850
+      "avg_price": 842
     },
     {
       "name": "Nadi",
@@ -57,7 +57,7 @@
       "description": "Explore Denarau Island with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 3924
+      "avg_price": 3925
     }
   ],
   "seo": {

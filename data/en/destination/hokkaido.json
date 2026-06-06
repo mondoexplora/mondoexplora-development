@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Yu Kiroro",
+      "offer_country_name": "Japan",
+      "location_heading": "Hokkaido",
+      "title": "Hokkaido Ski-In, Ski-Out Luxury Suites with Daily Breakfast, Three-Day Lift Passes & Onsen Access",
+      "description": "As far as enchanting, snow-dusted landscapes go, it doesn't get much better than Hokkaido. These spacious ski-in, ski-out suites at Yu Kiroro in the island's south give the whole family the perfect base for a winter adventure. Escape the snow to modern, warm, timber interiors that make coming in from the cold one of the best parts of the day. Hokkaido has slopes to suit every age and ability, from first-timers finding their feet to seasoned powder enthusiasts. Step straight onto the slopes thanks to your included three-day lift pass, with the Gateway Express Gondola less than 100 metres from Yu Kiroro's slope-side entrance - no shuttle, no fuss, just skiing. After a day on the mountain, the whole family can recharge together. Indoor and outdoor onsens with a stone sauna soothe tired legs, a dedicated family lounge gives kids a space to unwind, and Yukashi Restaurant serves inventive dishes built around locally-sourced Hokkaido ingredients.",
+      "location_subheading": "Japan",
+      "price": 1829,
+      "original_price": 5900,
+      "discount_percentage": 69,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UynavYAB",
+      "hero_image": "https://images.luxuryescapes.com/89zyxq147c48fidjwvqp",
+      "image_two": "https://images.luxuryescapes.com/ofbwlhkdfa7pfxvxsd2",
+      "image_three": "https://images.luxuryescapes.com/bh3u9ak095sq5jc92kc",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-06-19 13:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-05",
-    "hotel_count": 1,
-    "average_price": 288,
-    "average_discount": 0
+    "last_updated": "2026-06-06",
+    "hotel_count": 2,
+    "average_price": 1059,
+    "average_discount": 35
   }
 }
