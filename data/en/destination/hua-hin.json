@@ -4,26 +4,8 @@
   "country_code": "TH",
   "hero_title": "Hotels in Hua Hin",
   "description": "Discover the best hotels in Hua Hin, Thailand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/pcy5y7xn3yotvn7cfeo",
+  "hero_image": "https://images.luxuryescapes.com/h0mom142psdp1prlom8",
   "hotels": [
-    {
-      "vendor_name": "Avani+ Hua Hin Resort",
-      "offer_country_name": "Thailand",
-      "location_heading": "Hua Hin",
-      "title": "Seaside Hua Hin Hideaway with All-Inclusive Dining, Two Hours of Nightly Free-Flow Drinks & Massages",
-      "description": "Tucked away on the Gulf of Thailand less than three hours from Bangkok, this oceanfront hideaway serves up tropical vibes with three stunning outdoor pools and sprawling gardens. Oceanfront dining at Brezza Beach Bar & Restaurant pairs freshly caught seafood with craft cocktails, while beach horse riding and lagoon pool access keep the good times at a gallop from sunrise to sunset. Get pampered like royalty at AvaniWell spa, where wellness experts craft personalised programmes that leave you floating on cloud nine and daily activities like yoga and sound baths keep you centred. This beachfront playground sits pretty in laid-back Hua Hin with idyllic sea views, making it the ultimate escape when you need to trade city stress for sandy toes and salty air.",
-      "location_subheading": "Thailand",
-      "price": 359,
-      "original_price": 570,
-      "discount_percentage": 37,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000STpDYYA1",
-      "hero_image": "https://images.luxuryescapes.com/pcy5y7xn3yotvn7cfeo",
-      "image_two": "https://images.luxuryescapes.com/8pbniumt9rknay9ahxh",
-      "image_three": "https://images.luxuryescapes.com/ed30zu5wjyvr2jyqpv",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-06-07 13:59:00"
-    },
     {
       "vendor_name": "Devasom Hua Hin",
       "offer_country_name": "Thailand",
@@ -49,8 +31,8 @@
       "title": "Contemporary Hua Hin Sofitel Beachfront Indulgence with Three Pools, SO/ SPA & Three Restaurants",
       "description": "Embrace signature Sofitel luxury directly on the pristine sands of tranquil Cha-Am beach, perfectly positioned in the family-friendly beach resort town of Hua Hin. Experience a fine blend of playful luxury and effortless elegance as you unwind in the five-star hotel's chic rooms with contemporary interiors and delight in the vast array of amenities to suit guests of all ages. Spend your days soaking up the sun, wade around in the hotel's three pools, including the one-of-a-kind Wet Bubble Pool, pamper yourself with treatments at the SO/ Spa and check into the hip beach club, Beach Society. When you feel peckish, savour Hua Hin's legendary seafood at White Oven or head to SO Sundae for laidback alco popsicles.",
       "location_subheading": "Thailand",
-      "price": 360,
-      "original_price": 360,
+      "price": 362,
+      "original_price": 362,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnGg2YAF",
       "hero_image": "https://images.luxuryescapes.com/zlic709if8zxkbfqwufl",
@@ -95,6 +77,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Aleenta Hua Hin - Pranburi Resort & Spa",
+      "offer_country_name": "Thailand",
+      "location_heading": "Hua Hin",
+      "title": "Ultimate Hua Hin Secluded Luxury Near Khao Sam Roi Yot National Park with Onsite Spa",
+      "description": "Unwind in the lap of sophistication at the Aleenta property that started it all - the five-star Aleenta Hua Hin - Pranburi Resort & Spa, part of the acclaimed Small Luxury Hotels of the World collection. Nestled in captivating Paknampran Bay, close to Hua Hin town and just 40 minutes from the soaring limestone mountains, otherworldly caves and champagne beaches of Khao Sam Roi Yot National Park, this resort is the ultimate secluded escape overlooking the Gulf of Thailand. Tucked away within Thailand’s historical royal seaside retreat, Hua Hin, and home to just 25 impeccable residences - some just steps from the crystal-clear ocean and others with private plunge pools - this boutique resort is nothing short of spectacular. Let this exquisite hideaway lure you in with an extensive menu of wellness treatments at Ayurah Spa, including nourishing mud treatments, body polishes, therapeutic massages and more. As part of the Ayurah Wellness retreat offerings guests can enjoy complimentary wellness classes along with personalised exercise programs led by trainers.",
+      "location_subheading": "Thailand",
+      "price": 380,
+      "original_price": 458,
+      "discount_percentage": 17,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GnmRAAS",
+      "hero_image": "https://images.luxuryescapes.com/qmrnvui569y8jrc2i54n",
+      "image_two": "https://images.luxuryescapes.com/88nikzikql0n16jb3zq",
+      "image_three": "https://images.luxuryescapes.com/qzsh5be1zreomf7frgnv",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Intercontinental Hua Hin Resort",
@@ -204,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-07",
+    "last_updated": "2026-06-08",
     "hotel_count": 10,
-    "average_price": 493,
-    "average_discount": 19
+    "average_price": 495,
+    "average_discount": 17
   }
 }

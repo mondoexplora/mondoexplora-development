@@ -5,7 +5,7 @@
   "destination_country": "Japan",
   "transport_modes": {
     "flight": {
-      "duration": "4h 20m",
+      "duration": "2h 15m",
       "price_range": "$89 - $250",
       "providers": [
         "Skyscanner",
@@ -14,7 +14,7 @@
       ]
     },
     "train": {
-      "duration": "3h 15m",
+      "duration": "2h 30m",
       "price_range": "$35 - $90",
       "providers": [
         "Rail Europe",
@@ -23,7 +23,7 @@
       ]
     },
     "bus": {
-      "duration": "7h 20m",
+      "duration": "5h 30m",
       "price_range": "$25 - $60",
       "providers": [
         "FlixBus",
@@ -32,9 +32,9 @@
       ]
     },
     "car": {
-      "duration": "4h 30m",
-      "distance": "350 km",
-      "price_range": "$45 - $110"
+      "duration": "6h 20m",
+      "distance": "380 km",
+      "price_range": "$30 - $70"
     }
   },
   "seo": {

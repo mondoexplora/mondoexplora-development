@@ -4,8 +4,26 @@
   "country_code": "PT",
   "hero_title": "Hotels in Porto",
   "description": "Discover the best hotels in Porto, Portugal. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/cwxxbyrbxf194xrl5lo5",
+  "hero_image": "https://images.luxuryescapes.com/ec4uqpj2dy0z5ftv7z",
   "hotels": [
+    {
+      "vendor_name": "Axis Porto Club Hotel",
+      "offer_country_name": "Portugal",
+      "location_heading": "Porto",
+      "title": "Central Porto Boutique Heritage Retreat with Daily Breakfast & Port Wine Tasting",
+      "description": "Set in a grand 1930s heritage building that once served as a historic football club headquarters, this boutique stay is just off Porto’s elegant Rua do Clube dos Fenianos and minutes from the azulejo-lined São Bento Station. Ornate architectural bones give way to sleek, monochromatic guest rooms, while downstairs, a stylish lounge bar serves as an intimate hub for winding down. Livraria Lello’s sculptural staircase and the commanding Clérigos Tower are mere steps away, while the historic Mercado do Bolhão hums with local morning traders nearby. Wander down to Ribeira’s riverside promenade to enjoy grilled sardines on outdoor terraces, before crossing the iconic Dom Luís I Bridge to sample world-class vintages inside Vila Nova de Gaia’s famed port cellars.",
+      "location_subheading": "Portugal",
+      "price": 229,
+      "original_price": 674,
+      "discount_percentage": 66,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000XQW4VYAX",
+      "hero_image": "https://images.luxuryescapes.com/ec4uqpj2dy0z5ftv7z",
+      "image_two": "https://images.luxuryescapes.com/mhhbrmtp7fsgegcdg5i",
+      "image_three": "https://images.luxuryescapes.com/2atnh26treoov58694fk",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-07-06 13:59:00"
+    },
     {
       "vendor_name": "Crowne Plaza Porto",
       "offer_country_name": "Portugal",
@@ -168,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-07",
-    "hotel_count": 8,
-    "average_price": 427,
-    "average_discount": 14
+    "last_updated": "2026-06-08",
+    "hotel_count": 9,
+    "average_price": 405,
+    "average_discount": 20
   }
 }

@@ -13,8 +13,8 @@
       "title": "Christchurch Modern City Break overlooking Victoria Square with Skyline Views",
       "description": "Take a South Island city escape to Crowne Plaza Christchurch, masterfully positioned at the centre of one of New Zealand’s funkiest cities. This stylish base overlooks the historic fountains of Victoria Square and the gentle waters of the Avon River, and the is the perfect spot to discover the Garden City's vast wealth of trendy bars, refined restaurants, cool cafés and vivid street art. After a day exploring the city’s many treasures, retreat to Market Place Restaurant and Bar for exquisite plates backed entirely by local butchers, fishmongers and growers, or head to the Cafe 1851 for a coffee or Social Wine Bar for sauvignon blanc and sensational cocktails.",
       "location_subheading": "New Zealand",
-      "price": 360,
-      "original_price": 360,
+      "price": 352,
+      "original_price": 352,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6kAAB",
       "hero_image": "https://images.luxuryescapes.com/od5xt9s0l5cuisblm6",
@@ -85,8 +85,8 @@
       "title": "Christchurch Lakeside Resort with Championship Golf Course, Onsite Restaurant & Bar",
       "description": "Step into lakeside luxury with a tranquil stay on the banks of Lake Kaikainui, right outside of Christchurch. With the perfect blend of outdoor living and proximity to city comforts, you can tee off at the onsite golf course one day and discover the natural beauty and innovative urban design of Christchurch the next. Indulge in local flavours and mountain views at Lume Restaurant or a casual cocktail at The Sprig Bar and Cafe.",
       "location_subheading": "New Zealand",
-      "price": 273,
-      "original_price": 273,
+      "price": 242,
+      "original_price": 242,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRewWAAT",
       "hero_image": "https://images.luxuryescapes.com/6i4duw32lmie88j732mi",
@@ -95,6 +95,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Rydges Latimer Christchurch",
+      "offer_country_name": "New Zealand",
+      "location_heading": "Christchurch",
+      "title": "Stylish Stay in the Heart of Christchurch",
+      "description": "The many charms of the Garden City are yours to enjoy from the stylish Rydges Latimer Christchurch. Surrounded by the lush gardens of Latimer Square, this modern sanctuary boasts one of the best addresses in the city, a stone’s throw from the iconic Cardboard Cathedral and funky bars, art galleries and fine-dining restaurants, and a leisurely stroll from the Botanic Gardens and Canterbury Cathedral. Make use of the onsite fitness centre and premium steakhouse, Bloody Mary’s - one of the city’s most-loved restaurants.",
+      "location_subheading": "New Zealand",
+      "price": 293,
+      "original_price": 293,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004v1ZtAAI",
+      "hero_image": "https://images.luxuryescapes.com/7ke9xuxlbzodpasfzyq",
+      "image_two": "https://images.luxuryescapes.com/gvzwh11jvrzzng2ibhbj",
+      "image_three": "https://images.luxuryescapes.com/totkxfgb8mqljuq95j69",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Rydges Latimer Christchurch",
@@ -113,24 +131,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-06-30 13:59:00"
-    },
-    {
-      "vendor_name": "Rydges Latimer Christchurch",
-      "offer_country_name": "New Zealand",
-      "location_heading": "Christchurch",
-      "title": "Stylish Stay in the Heart of Christchurch",
-      "description": "The many charms of the Garden City are yours to enjoy from the stylish Rydges Latimer Christchurch. Surrounded by the lush gardens of Latimer Square, this modern sanctuary boasts one of the best addresses in the city, a stone’s throw from the iconic Cardboard Cathedral and funky bars, art galleries and fine-dining restaurants, and a leisurely stroll from the Botanic Gardens and Canterbury Cathedral. Make use of the onsite fitness centre and premium steakhouse, Bloody Mary’s - one of the city’s most-loved restaurants.",
-      "location_subheading": "New Zealand",
-      "price": 299,
-      "original_price": 299,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004v1ZtAAI",
-      "hero_image": "https://images.luxuryescapes.com/7ke9xuxlbzodpasfzyq",
-      "image_two": "https://images.luxuryescapes.com/gvzwh11jvrzzng2ibhbj",
-      "image_three": "https://images.luxuryescapes.com/totkxfgb8mqljuq95j69",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Sudima Christchurch City",
@@ -168,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-07",
+    "last_updated": "2026-06-08",
     "hotel_count": 8,
-    "average_price": 322,
+    "average_price": 317,
     "average_discount": 14
   }
 }
