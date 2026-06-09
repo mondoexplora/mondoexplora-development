@@ -4,26 +4,8 @@
   "country_code": "FJ",
   "hero_title": "Hotels in Malolo Island",
   "description": "Discover the best hotels in Malolo Island, Fiji. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/45e0v0v8t5f1p8bmfv39",
+  "hero_image": "https://images.luxuryescapes.com/tvsj8zq19e332x2sljd",
   "hotels": [
-    {
-      "vendor_name": "Likuliku Lagoon Resort",
-      "offer_country_name": "Fiji",
-      "location_heading": "Malolo Island",
-      "title": "Award-Winning Fiji Adults-Only Retreat on Malolo Island in the Mamanuca Archipelago",
-      "description": "Discover Fiji’s only overwater bures - exclusively at Likuliku Lagoon Resort - where barefoot luxury meets the shimmering turquoise of the South Pacific. Designed exclusively for adults, this sanctuary is crafted with couples in mind, offering uninterrupted ocean views, direct lagoon access and the perfect setting for romance. Just a short boat ride from the mainland, but worlds away in atmosphere, this award-winning resort is nestled on the edge of a crystal-clear lagoon, within a protected marine sanctuary. Every detail is rooted in sustainability, from a native tree planting program to its efforts in protecting the critically endangered Fijian crested iguana. Spend your days soaking up the sun by the infinity pool, surrendering to blissful treatments at Tatadra Spa or indulging in ever-changing culinary delights at Fijana Restaurant.",
-      "location_subheading": "Fiji",
-      "price": 3281,
-      "original_price": 3281,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004Rx7FAAS",
-      "hero_image": "https://images.luxuryescapes.com/45e0v0v8t5f1p8bmfv39",
-      "image_two": "https://images.luxuryescapes.com/o1kzpsbp2lz8s0vwbqvo",
-      "image_three": "https://images.luxuryescapes.com/mxadyj7449wivaeyjkj",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Likuliku Lagoon Resort",
       "offer_country_name": "Fiji",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 5,
       "end_date_utc": "2026-07-13 13:59:00"
+    },
+    {
+      "vendor_name": "Likuliku Lagoon Resort",
+      "offer_country_name": "Fiji",
+      "location_heading": "Malolo Island",
+      "title": "Award-Winning Fiji Adults-Only Retreat on Malolo Island in the Mamanuca Archipelago",
+      "description": "Discover Fiji’s only overwater bures - exclusively at Likuliku Lagoon Resort - where barefoot luxury meets the shimmering turquoise of the South Pacific. Designed exclusively for adults, this sanctuary is crafted with couples in mind, offering uninterrupted ocean views, direct lagoon access and the perfect setting for romance. Just a short boat ride from the mainland, but worlds away in atmosphere, this award-winning resort is nestled on the edge of a crystal-clear lagoon, within a protected marine sanctuary. Every detail is rooted in sustainability, from a native tree planting program to its efforts in protecting the critically endangered Fijian crested iguana. Spend your days soaking up the sun by the infinity pool, surrendering to blissful treatments at Tatadra Spa or indulging in ever-changing culinary delights at Fijana Restaurant.",
+      "location_subheading": "Fiji",
+      "price": 3282,
+      "original_price": 3282,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004Rx7FAAS",
+      "hero_image": "https://images.luxuryescapes.com/45e0v0v8t5f1p8bmfv39",
+      "image_two": "https://images.luxuryescapes.com/o1kzpsbp2lz8s0vwbqvo",
+      "image_three": "https://images.luxuryescapes.com/mxadyj7449wivaeyjkj",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Malolo Island Fiji",
@@ -114,7 +114,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-08",
+    "last_updated": "2026-06-09",
     "hotel_count": 5,
     "average_price": 3236,
     "average_discount": 4
