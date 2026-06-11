@@ -1,15 +1,5 @@
 {
   "regions": {
-    "Australia & New Zealand": {
-      "totalHotels": 4171,
-      "countries": 1,
-      "destinations": 0
-    },
-    "US, Canada & Mexico": {
-      "totalHotels": 857,
-      "countries": 1,
-      "destinations": 0
-    },
     "Europe": {
       "totalHotels": 1455,
       "countries": 1,
@@ -20,13 +10,23 @@
       "countries": 1,
       "destinations": 0
     },
-    "Latin America": {
-      "totalHotels": 29,
+    "Australia & New Zealand": {
+      "totalHotels": 4171,
+      "countries": 1,
+      "destinations": 0
+    },
+    "US, Canada & Mexico": {
+      "totalHotels": 857,
       "countries": 1,
       "destinations": 0
     },
     "Japan & South Korea": {
       "totalHotels": 191,
+      "countries": 1,
+      "destinations": 0
+    },
+    "Latin America": {
+      "totalHotels": 29,
       "countries": 1,
       "destinations": 0
     }
