@@ -4,7 +4,7 @@
   "country_code": "GR",
   "hero_title": "Hotels in Rhodes",
   "description": "Discover the best hotels in Rhodes, Greece. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/l887h91vondko55l3x3h",
+  "hero_image": "https://images.luxuryescapes.com/9eki28ba7qndtf9afpn",
   "hotels": [
     {
       "vendor_name": "Amoh, a Luxury Collection Resort, Rhodes",
@@ -17,12 +17,30 @@
       "original_price": 3094,
       "discount_percentage": 64,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000VPyITYA1",
-      "hero_image": "https://images.luxuryescapes.com/l887h91vondko55l3x3h",
-      "image_two": "https://images.luxuryescapes.com/9eki28ba7qndtf9afpn",
+      "hero_image": "https://images.luxuryescapes.com/9eki28ba7qndtf9afpn",
+      "image_two": "https://images.luxuryescapes.com/l887h91vondko55l3x3h",
       "image_three": "https://images.luxuryescapes.com/2hl14wyscu7ysiem8gi5",
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 3,
       "end_date_utc": "2026-06-27 13:59:00"
+    },
+    {
+      "vendor_name": "Aulūs Lindos Rhodes, by Domes Resorts",
+      "offer_country_name": "Greece",
+      "location_heading": "Rhodes",
+      "title": "Family-Friendly Rhodes Oceanfront Escape with Onsite Dining, Spa & Kids' Club",
+      "description": "Sitting along the sun-drenched coast of Rhodes, close to the whitewashed lanes of Lindos village, Aulūs Lindos Rhodes by Domes is a dreamy all-inclusive resort built with families in mind. Spacious suites and private-pool retreats open onto sunlit terraces, with the warm light and relaxed pace of the Greek islands setting the tone from arrival. Dining is entirely taken care of across four restaurants - spanning Mediterranean comfort, Italian flair and Greek family recipes - along with a 24/7 buffet, food-fest evenings, grab-and-go beach bites and premium drinks at two bars throughout the day. KiEPOS Kids Club keeps younger guests happily occupied, while Soma Spa offers ELEMIS and Codage Paris treatments for parents looking to unwind.",
+      "location_subheading": "Greece",
+      "price": 631,
+      "original_price": 631,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SlDhfYAF",
+      "hero_image": "https://images.luxuryescapes.com/0a1enpfofa6rh3hd2lp9",
+      "image_two": "https://images.luxuryescapes.com/tnspfdjk0f8v09rx6hov",
+      "image_three": "https://images.luxuryescapes.com/3uoj7mxe1j05sxg5mygq",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:55:51"
     },
     {
       "vendor_name": "Caesars Gardens Hotel & Spa - Adults Only- Rhodes, Greece",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-11",
-    "hotel_count": 2,
-    "average_price": 1092,
-    "average_discount": 32
+    "last_updated": "2026-06-12",
+    "hotel_count": 3,
+    "average_price": 938,
+    "average_discount": 21
   }
 }

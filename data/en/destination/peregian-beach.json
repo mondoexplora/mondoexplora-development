@@ -13,8 +13,8 @@
       "title": "Boutique Sunshine Coast Beach Escape 15 Minutes from Noosa with Two Resort-Style Pools",
       "description": "Experience bespoke beachside luxury in the heart of the Sunshine Coast, just 15 minutes from Noosa, in a designer beach house or studio at Essence Peregian Beach. Refined coastal design meets high-end resort living, where guests have access to two heated pools, one with an exclusive bar, all while staying in supreme luxury. With a backdrop of Noosa’s verdant UNESCO-listed Biosphere Reserve and mere meters from Peregian Beach, this is laidback coastal living at its best.",
       "location_subheading": "Australia",
-      "price": 498,
-      "original_price": 530,
+      "price": 496,
+      "original_price": 528,
       "discount_percentage": 6,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FmMsoAAF",
       "hero_image": "https://images.luxuryescapes.com/94shi32e8dvz94ysfkb",
@@ -23,24 +23,6 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Essence Peregian Beach",
-      "offer_country_name": "Australia",
-      "location_heading": "Peregian Beach",
-      "title": "Sunshine Coast Three-, Four- & Five-Bedroom Beach Houses near Noosa with Dining Credit",
-      "description": "Experience bespoke beachside luxury in the heart of the Sunshine Coast, just 15 minutes from Noosa, in a boutique designer beach house. This is the holiday escape you’ve been dreaming of - refined coastal design meets high-end resort living, where guests can access two heated pools, one with an exclusive bar, all while staying in supreme luxury. Take a family holiday or plan your next group getaway with a collection of chic three-, four- and five-bedroom beach houses offering well-appointed kitchens and outdoor entertainment areas. Every detail is finely curated in this gated hotel complex, from signature bathroom products to private landscaped gardens. With a backdrop of Noosa’s verdant UNESCO-listed Biosphere Reserve, a short walk from the white sands of Peregian Beach and a 15-minute drive from Noosa’s Hastings Street, this is laidback coastal living at its very best.",
-      "location_subheading": "Australia",
-      "price": 739,
-      "original_price": 1802,
-      "discount_percentage": 59,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TrcssYAB",
-      "hero_image": "https://images.luxuryescapes.com/24k198tzmdwkkq75ewcq",
-      "image_two": "https://images.luxuryescapes.com/nh3c4nm8wfyfzcffultm",
-      "image_three": "https://images.luxuryescapes.com/ex5nynqdfaxap0luwlp",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-06-29 13:59:00"
     },
     {
       "vendor_name": "Essence Peregian Beach",
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 3,
       "end_date_utc": "2026-06-15 13:59:00"
+    },
+    {
+      "vendor_name": "Essence Peregian Beach",
+      "offer_country_name": "Australia",
+      "location_heading": "Peregian Beach",
+      "title": "Sunshine Coast Three-, Four- & Five-Bedroom Beach Houses near Noosa with Dining Credit",
+      "description": "Experience bespoke beachside luxury in the heart of the Sunshine Coast, just 15 minutes from Noosa, in a boutique designer beach house. This is the holiday escape you’ve been dreaming of - refined coastal design meets high-end resort living, where guests can access two heated pools, one with an exclusive bar, all while staying in supreme luxury. Take a family holiday or plan your next group getaway with a collection of chic three-, four- and five-bedroom beach houses offering well-appointed kitchens and outdoor entertainment areas. Every detail is finely curated in this gated hotel complex, from signature bathroom products to private landscaped gardens. With a backdrop of Noosa’s verdant UNESCO-listed Biosphere Reserve, a short walk from the white sands of Peregian Beach and a 15-minute drive from Noosa’s Hastings Street, this is laidback coastal living at its very best.",
+      "location_subheading": "Australia",
+      "price": 739,
+      "original_price": 1802,
+      "discount_percentage": 59,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TrcssYAB",
+      "hero_image": "https://images.luxuryescapes.com/24k198tzmdwkkq75ewcq",
+      "image_two": "https://images.luxuryescapes.com/nh3c4nm8wfyfzcffultm",
+      "image_three": "https://images.luxuryescapes.com/ex5nynqdfaxap0luwlp",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-06-29 13:59:00"
     }
   ],
   "seo": {
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-11",
+    "last_updated": "2026-06-12",
     "hotel_count": 3,
     "average_price": 555,
     "average_discount": 37

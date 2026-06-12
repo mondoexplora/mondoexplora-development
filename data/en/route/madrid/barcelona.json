@@ -5,7 +5,7 @@
   "destination_country": "Spain",
   "transport_modes": {
     "flight": {
-      "duration": "3h 45m",
+      "duration": "4h 20m",
       "price_range": "$150 - $400",
       "providers": [
         "Skyscanner",
@@ -15,7 +15,7 @@
     },
     "train": {
       "duration": "2h 30m",
-      "price_range": "$35 - $90",
+      "price_range": "$60 - $150",
       "providers": [
         "Rail Europe",
         "Eurail",
@@ -23,8 +23,8 @@
       ]
     },
     "bus": {
-      "duration": "4h 55m",
-      "price_range": "$40 - $100",
+      "duration": "5h 30m",
+      "price_range": "$35 - $80",
       "providers": [
         "FlixBus",
         "Greyhound",
@@ -32,9 +32,9 @@
       ]
     },
     "car": {
-      "duration": "5h 45m",
-      "distance": "480 km",
-      "price_range": "$40 - $95"
+      "duration": "3h 55m",
+      "distance": "380 km",
+      "price_range": "$30 - $70"
     }
   },
   "seo": {
