@@ -3,17 +3,8 @@
   "code": "GR",
   "hero_title": "Greece Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Greece.",
-  "hero_image": "https://images.luxuryescapes.com/dqtd75imlwtlhnlwuai",
+  "hero_image": "https://images.luxuryescapes.com/r21kker399zp8zf9jfgh",
   "popular_destinations": [
-    {
-      "name": "Santorini",
-      "slug": "santorini",
-      "image": "https://images.luxuryescapes.com/dqtd75imlwtlhnlwuai",
-      "description": "Explore Santorini with luxury accommodations",
-      "hotel_count": 13,
-      "hotel_deals": 13,
-      "avg_price": 890
-    },
     {
       "name": "Athens",
       "slug": "athens",
@@ -22,6 +13,15 @@
       "hotel_count": 12,
       "hotel_deals": 12,
       "avg_price": 599
+    },
+    {
+      "name": "Santorini",
+      "slug": "santorini",
+      "image": "https://images.luxuryescapes.com/dqtd75imlwtlhnlwuai",
+      "description": "Explore Santorini with luxury accommodations",
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 927
     },
     {
       "name": "Mykonos",
@@ -46,9 +46,9 @@
       "slug": "corfu",
       "image": "https://images.luxuryescapes.com/oluxxfirotc0iqohfukb",
       "description": "Explore Corfu with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 822
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 806
     },
     {
       "name": "Paros",

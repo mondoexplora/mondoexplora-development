@@ -1,37 +1,37 @@
 {
   "city": "x",
-  "country": "Vanuatu",
-  "country_code": "VU",
+  "country": "Mexico",
+  "country_code": "MX",
   "hero_title": "Hotels in x",
-  "description": "Discover the best hotels in x, Vanuatu. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/bukvjvhxltmcj38y8e0i",
+  "description": "Discover the best hotels in x, Mexico. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/ojva3k03xpn7tuqwf1u",
   "hotels": [
     {
-      "vendor_name": "Barrier Beach Resort",
-      "offer_country_name": "Vanuatu",
+      "vendor_name": "One & Only Mandarina",
+      "offer_country_name": "Mexico",
       "location_heading": "x",
-      "title": "Secluded Vanuatu Beachfront Oasis with Onsite Spa",
-      "description": "Resting on 150m of white-sand beachfront on Vanuatu’s coastline, Barrier Beach Resort is an oasis of gorgeous blue water, kaleidoscopic reef and world-class service. This beautiful Espiritu Santo retreat is an architect-designed haven made up of just a handful of private wooden fares (traditional bungalows), each set up for the ultimate in beachfront luxury, just 20 minutes from the closest airport. With hypnotisingly blue ocean views in front and palm forest behind, each fare is completely private. Spend your days swaying in a hammock between two palms, cycling to the crystal-clear Riri Blue Hole or taking romantic strolls along nearby Champagne Beach - just a 30-minute drive away. Feel any and all tension melt away as you’re indulged with treatments at Moyyan Day Spa and tantalised with a bespoke menu of fresh-off-the-fishing-line seafood.",
-      "location_subheading": "Vanuatu",
-      "price": 714,
-      "original_price": 714,
+      "title": "Mexico One&Only All-Villa Luxury with Beach Club & Celebrity Chef Dining",
+      "description": "Set on a dreamy stretch of coastline on Mexico's Riviera Nayarit is the five-star One&Only Mandarina, a secluded resort overlooking the Pacific Ocean. Be wined and dined at three celebrity chef-led restaurants, or enjoy local, sustainably made tipples at The Treetop bar and savour each captivating sunset. The One&Only Spa is heaven on Earth, serving up a range of treatments using Tata Harper products designed to pamper you into bliss. A dedicated butler will take care of everything during your stay, leaving you free to enjoy the world-class facilities, including six swimming pools, a pristine beach with crystal-clear swimmable water and immersive nature activities. Did we mention the resort's beach club? This oceanfront haven invites you to pad barefoot from your cabana to the warm waters of the ocean, feast on fresh oysters and sip on expertly-mixed drinks in the sunshine.",
+      "location_subheading": "Mexico",
+      "price": 2318,
+      "original_price": 2318,
       "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GkYLAA0",
-      "hero_image": "https://images.luxuryescapes.com/bukvjvhxltmcj38y8e0i",
-      "image_two": "https://images.luxuryescapes.com/aq22n76h3mo8ao6i1t3q",
-      "image_three": "https://images.luxuryescapes.com/xvww77vqtgi7vmflxtqt",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 2,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000008gJJzAAM",
+      "hero_image": "https://images.luxuryescapes.com/ojva3k03xpn7tuqwf1u",
+      "image_two": "https://images.luxuryescapes.com/tcgb5d7p6pdnd6w20iqh",
+      "image_three": "https://images.luxuryescapes.com/86p1lqs4s8q9nseuph34",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
-    "title": "Hotels in x - Vanuatu Hotels & Travel Guide 2024",
-    "description": "Find the best hotels in x, Vanuatu with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "title": "Hotels in x - Mexico Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in x, Mexico with exclusive deals. Book your perfect getaway with up to 60% off.",
     "keywords": [
       "x hotels",
       "x travel",
-      "vanuatu hotels"
+      "mexico hotels"
     ],
     "canonical": "https://mondoexplora.com/en/destination/x",
     "hreflang": {
@@ -42,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-12",
+    "last_updated": "2026-06-13",
     "hotel_count": 1,
-    "average_price": 714,
+    "average_price": 2318,
     "average_discount": 0
   }
 }
