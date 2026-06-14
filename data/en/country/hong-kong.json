@@ -3,16 +3,16 @@
   "code": "HK",
   "hero_title": "Hong Kong Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Hong Kong.",
-  "hero_image": "https://images.luxuryescapes.com/wb481svsstntqqs8wbb",
+  "hero_image": "https://images.luxuryescapes.com/ub5e2uy47jx8xp9omoi",
   "popular_destinations": [
     {
       "name": "Hong Kong",
       "slug": "hong-kong",
-      "image": "https://images.luxuryescapes.com/wb481svsstntqqs8wbb",
+      "image": "https://images.luxuryescapes.com/ub5e2uy47jx8xp9omoi",
       "description": "Explore Hong Kong with luxury accommodations",
-      "hotel_count": 12,
-      "hotel_deals": 12,
-      "avg_price": 735
+      "hotel_count": 11,
+      "hotel_deals": 11,
+      "avg_price": 766
     },
     {
       "name": "Kowloon",
@@ -21,7 +21,7 @@
       "description": "Explore Kowloon with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 519
+      "avg_price": 526
     },
     {
       "name": "Hong Kong Island",
@@ -30,7 +30,7 @@
       "description": "Explore Hong Kong Island with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 637
+      "avg_price": 633
     },
     {
       "name": "Central",
@@ -39,7 +39,7 @@
       "description": "Explore Central with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1080
+      "avg_price": 1092
     },
     {
       "name": "Tsim Sha Tsui",
@@ -48,7 +48,7 @@
       "description": "Explore Tsim Sha Tsui with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 477
+      "avg_price": 471
     },
     {
       "name": "Wan Chai",

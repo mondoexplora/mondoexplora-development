@@ -28,24 +28,6 @@
       "vendor_name": "Mercure Kangaroo Island Lodge",
       "offer_country_name": "Australia",
       "location_heading": "Kangaroo Island",
-      "title": "Boutique Kangaroo Island Waterfront Retreat with Daily Breakfast & Nightly Drinks",
-      "description": "Wake to American River Bay and the kind of quiet that eases you into total relaxation at this boutique retreat. Mercure Kangaroo Island Lodge sits between the bay and four acres of native bushland, where birdsong in the trees and kangaroos bounding around remind you where you are before you've even set out. Wander the bushland trails by day, refresh with a dip in the outdoor pool, then settle in by the fireplace at the Lodge Bar & Lounge with a glass of local red. Reflections Restaurant is a strong reason to stay in for dinner, with a menu that changes with the island's regional produce. The lodge sits within easy reach of the island's biggest names, with Seal Bay's wild sea lions about an hour's drive south and Flinders Chase National Park a worthwhile day-trip across the island.",
-      "location_subheading": "Australia",
-      "price": 239,
-      "original_price": 771,
-      "discount_percentage": 69,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UuBE3YAN",
-      "hero_image": "https://images.luxuryescapes.com/sxywlbbvyaflzvngzz",
-      "image_two": "https://images.luxuryescapes.com/edno6344imn969y348g",
-      "image_three": "https://images.luxuryescapes.com/fozh05egx6tyikdylk8",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-06-23 13:59:00"
-    },
-    {
-      "vendor_name": "Mercure Kangaroo Island Lodge",
-      "offer_country_name": "Australia",
-      "location_heading": "Kangaroo Island",
       "title": "Tranquil Kangaroo Island Escape Overlooking American River Bay with Onsite Restaurant & Bar",
       "description": "Experience Australia’s version of the Galapagos at this waterfront resort in Kangaroo Island, nestled between American River’s tranquil coves and native bushland. Enjoy well-appointed accommodations with stunning views, an onsite restaurant showcasing local produce, and easy access to nature trails. Spend days relaxing by the fireplace with a glass of local red wine, swim in the outdoor saltwater pool and explore island highlights like Stokes Bay and Admiral Arch.",
       "location_subheading": "Australia",
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mercure Kangaroo Island Lodge",
+      "offer_country_name": "Australia",
+      "location_heading": "Kangaroo Island",
+      "title": "Boutique Kangaroo Island Waterfront Retreat with Daily Breakfast & Nightly Drinks",
+      "description": "Wake to American River Bay and the kind of quiet that eases you into total relaxation at this boutique retreat. Mercure Kangaroo Island Lodge sits between the bay and four acres of native bushland, where birdsong in the trees and kangaroos bounding around remind you where you are before you've even set out. Wander the bushland trails by day, refresh with a dip in the outdoor pool, then settle in by the fireplace at the Lodge Bar & Lounge with a glass of local red. Reflections Restaurant is a strong reason to stay in for dinner, with a menu that changes with the island's regional produce. The lodge sits within easy reach of the island's biggest names, with Seal Bay's wild sea lions about an hour's drive south and Flinders Chase National Park a worthwhile day-trip across the island.",
+      "location_subheading": "Australia",
+      "price": 239,
+      "original_price": 771,
+      "discount_percentage": 69,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UuBE3YAN",
+      "hero_image": "https://images.luxuryescapes.com/sxywlbbvyaflzvngzz",
+      "image_two": "https://images.luxuryescapes.com/edno6344imn969y348g",
+      "image_three": "https://images.luxuryescapes.com/fozh05egx6tyikdylk8",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-06-23 13:59:00"
     },
     {
       "vendor_name": "Sea Dragon Kangaroo Island",
@@ -114,7 +114,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-13",
+    "last_updated": "2026-06-14",
     "hotel_count": 5,
     "average_price": 1724,
     "average_discount": 25
