@@ -4,26 +4,8 @@
   "country_code": "ID",
   "hero_title": "Hotels in Benoa",
   "description": "Discover the best hotels in Benoa, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/f3up1yso2b68hmbf8eil",
+  "hero_image": "https://images.luxuryescapes.com/rr8sztlwrcbkjgs5k48",
   "hotels": [
-    {
-      "vendor_name": "Novotel Bali Benoa",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Benoa",
-      "title": "Nusa Dua Beachfront Luxury with Daily Breakfast, Nightly Dinner, Massages & Free-Flow Cocktail Hour",
-      "description": "Slip into this expansive tropical haven on a private golden stretch of Tanjung Benoa Beach in Nusa Dua, with a cocktail in hand and dinner on the way. Novotel Bali Benoa is your own slice of paradise, surrounded by lush resort gardens and direct access to the sea for easy relaxation. Backed by Novotel’s signature five-star service, every element of the resort delivers countless good times with family and friends. Visit Cocos Restaurant & Bar for laidback pizza on the shore, Crocokiss Restaurant & Bar for light bites or Nanas Bar for cocktails. Ready to explore? Nusa Dua has more than extraordinary beaches - though Novotel Bali Benoa offers an abundance of equipment for waterskiing, diving and more. Head to Bali Collection for the island’s best shopping, Museum Pasifika to glimpse the region’s spectacular artistic heritage and laze your days away by any of the resort’s three shimmering pools.",
-      "location_subheading": "Indonesia",
-      "price": 939,
-      "original_price": 2934,
-      "discount_percentage": 68,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000VoTZfYAN",
-      "hero_image": "https://images.luxuryescapes.com/f3up1yso2b68hmbf8eil",
-      "image_two": "https://images.luxuryescapes.com/k9sfbhefmj0vgn7140v4",
-      "image_three": "https://images.luxuryescapes.com/svhrlb5ld8o6ff8ptawo",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 7,
-      "end_date_utc": "2026-07-06 13:59:00"
-    },
     {
       "vendor_name": "Novotel Bali Benoa",
       "offer_country_name": "Indonesia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Novotel Bali Benoa",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Benoa",
+      "title": "Nusa Dua Beachfront Luxury with Daily Breakfast, Nightly Dinner, Massages & Free-Flow Cocktail Hour",
+      "description": "Slip into this expansive tropical haven on a private golden stretch of Tanjung Benoa Beach in Nusa Dua, with a cocktail in hand and dinner on the way. Novotel Bali Benoa is your own slice of paradise, surrounded by lush resort gardens and direct access to the sea for easy relaxation. Backed by Novotel’s signature five-star service, every element of the resort delivers countless good times with family and friends. Visit Cocos Restaurant & Bar for laidback pizza on the shore, Crocokiss Restaurant & Bar for light bites or Nanas Bar for cocktails. Ready to explore? Nusa Dua has more than extraordinary beaches - though Novotel Bali Benoa offers an abundance of equipment for waterskiing, diving and more. Head to Bali Collection for the island’s best shopping, Museum Pasifika to glimpse the region’s spectacular artistic heritage and laze your days away by any of the resort’s three shimmering pools.",
+      "location_subheading": "Indonesia",
+      "price": 939,
+      "original_price": 2934,
+      "discount_percentage": 68,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000VoTZfYAN",
+      "hero_image": "https://images.luxuryescapes.com/f3up1yso2b68hmbf8eil",
+      "image_two": "https://images.luxuryescapes.com/k9sfbhefmj0vgn7140v4",
+      "image_three": "https://images.luxuryescapes.com/svhrlb5ld8o6ff8ptawo",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 7,
+      "end_date_utc": "2026-07-06 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-14",
+    "last_updated": "2026-06-15",
     "hotel_count": 2,
     "average_price": 557,
     "average_discount": 34

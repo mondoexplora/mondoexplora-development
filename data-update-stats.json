@@ -1,19 +1,19 @@
 {
   "success": true,
-  "timestamp": "2026-06-14T10:29:41.176Z",
-  "totalHotels": 2824,
-  "totalDestinations": 1023,
+  "timestamp": "2026-06-15T13:22:08.437Z",
+  "totalHotels": 2828,
+  "totalDestinations": 1025,
   "totalCountries": 97,
   "totalJsonFiles": 1270,
   "destinationFiles": 1165,
   "countryFiles": 104,
-  "totalValue": 1977218.7199999995,
-  "avgPrice": 700,
+  "totalValue": 1982900.3599999994,
+  "avgPrice": 701,
   "topDestinations": [
     "Dubai, United Arab Emirates (81 hotels)",
     "Sydney, Australia (69 hotels)",
     "Melbourne, Australia (62 hotels)",
     "London, United Kingdom (56 hotels)",
-    "Phuket, Thailand (46 hotels)"
+    "Phuket, Thailand (47 hotels)"
   ]
 }

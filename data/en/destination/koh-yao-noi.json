@@ -46,24 +46,6 @@
       "vendor_name": "TreeHouse Villas Koh Yao Noi Luxury Resort",
       "offer_country_name": "Thailand",
       "location_heading": "Koh Yao Noi",
-      "title": "Thailand Treehouse Pool Villa Escape",
-      "description": "Experience an adults-only eco-escape like no other, staying in a romantic beachfront treehouse villa at TreeHouse Villas. Sleep in your very own treehouse, nestled amid the jungle canopy of Koh Yao Noi - a dreamy Thai island easily reachable via a 50-minute speedboat ride from Phuket. Regarded as one of Thailand’s last unspoiled islands, Koh Yao Noi is located within the famous Phang Nga Bay (between Phuket and Krabi). Here you’ll find pristine beaches and lush untouched jungle, as well as one of the most unique resorts in Asia. TreeHouse Villas will allow you to experience the magic of this island with its idyllic combination of sustainable eco-living and tropical island luxury. Unwind in style in your unique treehouse featuring an outdoor plunge pool that juts into the jungle and an open-air living space complete with daybeds and a double swing. The resort’s exquisite facilities include a blissful spa, three restaurants and bars, and a sparkling pool overlooking the beach.",
-      "location_subheading": "Thailand",
-      "price": 711,
-      "original_price": 1016,
-      "discount_percentage": 30,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GLg4AAG",
-      "hero_image": "https://images.luxuryescapes.com/rs0toyok4i30zmsabk",
-      "image_two": "https://images.luxuryescapes.com/3pig2jxrvdg8qvh8ot",
-      "image_three": "https://images.luxuryescapes.com/yjhnwvum675pjgqteys",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "TreeHouse Villas Koh Yao Noi Luxury Resort",
-      "offer_country_name": "Thailand",
-      "location_heading": "Koh Yao Noi",
       "title": "Thailand Adults-Only Treehouse Villas with Daily Breakfast, Nightly Cocktails & Return Transfers",
       "description": "Escape to this adults-only jungle sanctuary, where elevated treehouse villas and beachfront retreats offer an unparalleled connection with nature on pristine Koh Yao. Located between Phuket and Krabi, Koh Yao provides an untouched island experience, accessible from Thailand's most celebrated destinations thanks to return land and boat transfers from Phuket or Krabi. Set among lush canopy with sweeping views to Phang Nga Bay's ancient limestone karsts, this visionary resort redefines luxury accommodation with suspended bridge entrances and plunge pools. Each villa features modern amenities with eco-conscious design, creating intimate spaces perfect for couples seeking adventure and tranquility. Indulge in a restorative yoga session, authentic Thai cooking classes and traditional spa treatments at Aruna Aura Spa & Wellness, or explore the island's natural wonders through kayaking, paddleboarding and guided excursions. Blending nature and luxurious modernity, this is an extraordinary escape for those seeking something beyond traditional resort experiences.",
       "location_subheading": "Thailand",
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 3,
       "end_date_utc": "2026-06-30 13:59:00"
+    },
+    {
+      "vendor_name": "TreeHouse Villas Koh Yao Noi Luxury Resort",
+      "offer_country_name": "Thailand",
+      "location_heading": "Koh Yao Noi",
+      "title": "Thailand Treehouse Pool Villa Escape",
+      "description": "Experience an adults-only eco-escape like no other, staying in a romantic beachfront treehouse villa at TreeHouse Villas. Sleep in your very own treehouse, nestled amid the jungle canopy of Koh Yao Noi - a dreamy Thai island easily reachable via a 50-minute speedboat ride from Phuket. Regarded as one of Thailand’s last unspoiled islands, Koh Yao Noi is located within the famous Phang Nga Bay (between Phuket and Krabi). Here you’ll find pristine beaches and lush untouched jungle, as well as one of the most unique resorts in Asia. TreeHouse Villas will allow you to experience the magic of this island with its idyllic combination of sustainable eco-living and tropical island luxury. Unwind in style in your unique treehouse featuring an outdoor plunge pool that juts into the jungle and an open-air living space complete with daybeds and a double swing. The resort’s exquisite facilities include a blissful spa, three restaurants and bars, and a sparkling pool overlooking the beach.",
+      "location_subheading": "Thailand",
+      "price": 709,
+      "original_price": 1013,
+      "discount_percentage": 30,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GLg4AAG",
+      "hero_image": "https://images.luxuryescapes.com/rs0toyok4i30zmsabk",
+      "image_two": "https://images.luxuryescapes.com/3pig2jxrvdg8qvh8ot",
+      "image_three": "https://images.luxuryescapes.com/yjhnwvum675pjgqteys",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -96,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-14",
+    "last_updated": "2026-06-15",
     "hotel_count": 4,
-    "average_price": 567,
+    "average_price": 566,
     "average_discount": 55
   }
 }

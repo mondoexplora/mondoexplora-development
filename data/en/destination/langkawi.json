@@ -28,24 +28,6 @@
       "vendor_name": "PARKROYAL Langkawi Resort",
       "offer_country_name": "Malaysia",
       "location_heading": "Langkawi",
-      "title": "Glorious Malaysia Beachfront Paradise with Onsite Spa",
-      "description": "The blonde sandy beaches of Malaysia are calling you to a stay at PARKROYAL Langkawi Resort, an immaculate beachfront oasis. Experience true island paradise in this idyllic destination, with days basking in the fabulous tropical sunshine, lounging by the infinity pool and enjoying a cocktail or two at the swim-up bar - all while gazing out at the crystal-clear waters of Pantai Tengah beach. Set your body clock to island time with bespoke spa treatments, thrilling water activities and delicious dining.",
-      "location_subheading": "Malaysia",
-      "price": 613,
-      "original_price": 613,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Cw2TbAAJ",
-      "hero_image": "https://images.luxuryescapes.com/74lp4j9ijnhir1drgp4a",
-      "image_two": "https://images.luxuryescapes.com/16szs4px4lnyq1mcwwomk",
-      "image_three": "https://images.luxuryescapes.com/knd7nk8zaqjzjt956fw",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "PARKROYAL Langkawi Resort",
-      "offer_country_name": "Malaysia",
-      "location_heading": "Langkawi",
       "title": "Langkawi Beachfront Luxury with Daily Breakfast, Nightly Dinner & Cocktails",
       "description": "Set on the powdery sands of Pantai Tengah, one of Langkawi's longest and most serene beaches, PARKROYAL Langkawi Resort is a lush retreat where the sea meets the horizon. This is a rare opportunity to stay directly on the beachfront on this idyllic Malaysian island, offering a quieter alternative to the area's busier stretches, while maintaining easy access to the livelier Pantai Cenang. The crowning glory is the adults-only infinity sky pool - a stunning perch above the treetops with panoramic views over the Strait of Malacca. Down on the ground floor, the sprawling beachfront pool is perfect for lazy afternoon dips with the ocean as your backdrop. Dine amid the action of the open kitchen at CASSIA or Mediterranean restaurant Lancava, unwind at SUASANA Spa, and keep the little ones occupied at the fun and educational Jungle Camp kids' club.",
       "location_subheading": "Malaysia",
@@ -61,15 +43,33 @@
       "end_date_utc": "2026-07-22 13:59:00"
     },
     {
+      "vendor_name": "PARKROYAL Langkawi Resort",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Langkawi",
+      "title": "Glorious Malaysia Beachfront Paradise with Onsite Spa",
+      "description": "The blonde sandy beaches of Malaysia are calling you to a stay at PARKROYAL Langkawi Resort, an immaculate beachfront oasis. Experience true island paradise in this idyllic destination, with days basking in the fabulous tropical sunshine, lounging by the infinity pool and enjoying a cocktail or two at the swim-up bar - all while gazing out at the crystal-clear waters of Pantai Tengah beach. Set your body clock to island time with bespoke spa treatments, thrilling water activities and delicious dining.",
+      "location_subheading": "Malaysia",
+      "price": 613,
+      "original_price": 613,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Cw2TbAAJ",
+      "hero_image": "https://images.luxuryescapes.com/74lp4j9ijnhir1drgp4a",
+      "image_two": "https://images.luxuryescapes.com/16szs4px4lnyq1mcwwomk",
+      "image_three": "https://images.luxuryescapes.com/knd7nk8zaqjzjt956fw",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Rebak Island Resort & Marina, Langkawi",
       "offer_country_name": "Malaysia",
       "location_heading": "Langkawi",
       "title": "Secluded Malaysia Private Island Retreat with Beachfront Dining, Bars & Serene Spa",
       "description": "Dive deep into luxurious island living with a stay at the tropical paradise of Rebak Island Resort & Marina, Langkawi. This serene retreat calls Rebak Island home, a private island in the heart of Malaysia's Langkawi archipelago, just a short boat ride from the vibrant mainland. Enjoy waking to the sounds of the beach just steps from your plush king bed, and the tranquility of being surrounded by lush rainforest. When you’re not exploring the magnificent island, dine on exquisite local cuisine at Senari Sea View Restaurant, or simply unwind with a cocktail at the Beach Bar, all while soaking up breathtaking views of the strait of Malacca.",
       "location_subheading": "Malaysia",
-      "price": 209,
-      "original_price": 327,
-      "discount_percentage": 36,
+      "price": 205,
+      "original_price": 331,
+      "discount_percentage": 38,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000G3UXSAA3",
       "hero_image": "https://images.luxuryescapes.com/vqqglgvx0ctb7gd0wp",
       "image_two": "https://images.luxuryescapes.com/h823nkcmhbov02davsu",
@@ -114,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-14",
+    "last_updated": "2026-06-15",
     "hotel_count": 5,
-    "average_price": 602,
+    "average_price": 601,
     "average_discount": 22
   }
 }
