@@ -4,8 +4,26 @@
   "country_code": "ID",
   "hero_title": "Hotels in Gianyar",
   "description": "Discover the best hotels in Gianyar, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/uiiqql4pcj7mi1rtpmcs",
+  "hero_image": "https://images.luxuryescapes.com/f4mbzefvz3l4xkrhqc9m",
   "hotels": [
+    {
+      "vendor_name": "Anapuri Villas Bali",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Gianyar",
+      "title": "Bali Secluded Beachfront Private Pool Villas with Butler Service, In-Villa Fine Dining & Onsite Spa",
+      "description": "Set along Bali’s southeast coast, Anapuri Villas offers direct access to Saba Beach and sweeping views across the Lombok Strait. All four secluded villas pair contemporary design with Balinese detailing, each with a private pool and generous indoor-outdoor living spaces. Sanur’s cafes and galleries are a short drive away, while Ubud’s temples and rice terraces sit inland for a day trip. Nearby, guests can dine on fresh seafood in Ketewel or visit the Sukawati Art Market for carved wood, textiles and local produce.",
+      "location_subheading": "Indonesia",
+      "price": 1334,
+      "original_price": 1334,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SUOG8YAP",
+      "hero_image": "https://images.luxuryescapes.com/f4mbzefvz3l4xkrhqc9m",
+      "image_two": "https://images.luxuryescapes.com/4gdhcsebbpscld1tgb",
+      "image_three": "https://images.luxuryescapes.com/yjm5qiz4rwzmegxwplgm",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Buahan, a Banyan Tree Escape",
       "offer_country_name": "Indonesia",
@@ -13,8 +31,8 @@
       "title": "Secluded Adults-Only Central Bali Jungle Escape with Restaurant, Bar & Spa",
       "description": "Forget everything you know about traditional hotels - at Buahan, sixteen open-air bales float like dream pods above Bali's untamed jungle. Adults-only bliss meets raw wilderness in the Indonesian island's best-kept secret, where guests breathe with the forest, sleep beneath the stars and wake with birdsong. Watch culinary wizards work their magic at the open kitchen, where 70% plant-based menus shine through a zero-waste philosophy. The Botanist Bar crafts liquid poetry from garden-fresh herbs, while Toja Spa channels ancient Balinese healing wisdom through expert hands. Every sip, bite and treatment connects you deeper to this island's soul and centuries-old traditions. Perched where seven sacred peaks kiss the sky, Buahan commands Bali's most jaw-dropping view. The Ayung River trickles gently below while untouched jungle stretches endlessly before the infinity pool. This is nature's VIP lounge, where adventure doesn't knock - it surrounds you.",
       "location_subheading": "Indonesia",
-      "price": 2509,
-      "original_price": 2509,
+      "price": 2561,
+      "original_price": 2561,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IStNIAW",
       "hero_image": "https://images.luxuryescapes.com/uiiqql4pcj7mi1rtpmcs",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-16",
-    "hotel_count": 2,
-    "average_price": 1367,
+    "last_updated": "2026-06-17",
+    "hotel_count": 3,
+    "average_price": 1373,
     "average_discount": 0
   }
 }
