@@ -12,7 +12,7 @@
       "description": "Explore Sydney with luxury accommodations",
       "hotel_count": 69,
       "hotel_deals": 69,
-      "avg_price": 474
+      "avg_price": 476
     },
     {
       "name": "Melbourne",
@@ -21,7 +21,7 @@
       "description": "Explore Melbourne with luxury accommodations",
       "hotel_count": 64,
       "hotel_deals": 64,
-      "avg_price": 338
+      "avg_price": 334
     },
     {
       "name": "Brisbane",
@@ -30,7 +30,7 @@
       "description": "Explore Brisbane with luxury accommodations",
       "hotel_count": 38,
       "hotel_deals": 38,
-      "avg_price": 405
+      "avg_price": 404
     },
     {
       "name": "Adelaide",
@@ -39,7 +39,7 @@
       "description": "Explore Adelaide with luxury accommodations",
       "hotel_count": 33,
       "hotel_deals": 33,
-      "avg_price": 328
+      "avg_price": 323
     },
     {
       "name": "Perth",
@@ -48,7 +48,7 @@
       "description": "Explore Perth with luxury accommodations",
       "hotel_count": 21,
       "hotel_deals": 21,
-      "avg_price": 446
+      "avg_price": 447
     },
     {
       "name": "Canberra",
@@ -57,7 +57,7 @@
       "description": "Explore Canberra with luxury accommodations",
       "hotel_count": 17,
       "hotel_deals": 17,
-      "avg_price": 446
+      "avg_price": 444
     }
   ],
   "seo": {
