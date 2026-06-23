@@ -25,14 +25,32 @@
       "end_date_utc": "2026-07-02 13:59:00"
     },
     {
+      "vendor_name": "Hyatt Regency Nha Trang",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Nha Trang",
+      "title": "Vietnam Beachfront Luxury on Nha Trang Bay with 30th-Floor Pool & Onsite Restaurant & Bar",
+      "description": "Beachfront bliss awaits at Hyatt Regency Nha Trang, located steps from both the city centre and the golden sands and clear waters of Nha Trang Bay. The hotel's design seamlessly blends local culture with modern luxury, creating an inviting atmosphere that feels both sophisticated and comfortable. Start your morning with a leisurely breakfast at Market Café, then unwind at the 30th-floor pool, offering sweeping views of the ocean and the surrounding city. For those seeking adventure, the hotel's prime location places you within easy reach of attractions like the ancient Po Nagar Temple and the bustling Dam Market. After a day of discovery, return to your serene retreat, perhaps indulging in a spa treatment or simply enjoying a drink at the onsite pool bar.",
+      "location_subheading": "Vietnam",
+      "price": 392,
+      "original_price": 392,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000QpbRaYAJ",
+      "hero_image": "https://images.luxuryescapes.com/rsgw4n17fb6z2znoo85d",
+      "image_two": "https://images.luxuryescapes.com/una0cnie1dw2hprwesmi",
+      "image_three": "https://images.luxuryescapes.com/mpda9lk68gf1lvwt1xgp",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Intercontinental Nha Trang",
       "offer_country_name": "Vietnam",
       "location_heading": "Nha Trang",
       "title": "Nha Trang Coastal Bliss with Three Swimming Pools",
       "description": "The buzzing beach town of Nha Trang offers the perfect combination of city living and coastal charms and is best enjoyed from the stylish InterContinental Nha Trang, an IHG Hotel. Enjoy superb views of the city's bay from this hotel, then visit the four bars and restaurants, including a poolside bar. Fill your days however you please: dive into one of three outdoor swimming pools or head to the day spa for a spot of pampering and unwinding.",
       "location_subheading": "Vietnam",
-      "price": 267,
-      "original_price": 267,
+      "price": 238,
+      "original_price": 238,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt80AAB",
       "hero_image": "https://images.luxuryescapes.com/u4ufey4u1clqzmvqipzo",
@@ -49,8 +67,8 @@
       "title": "Five-Star Vietnam Self-Catering Apartments Overlooking Nha Trang Bay",
       "description": "Shouldered by mountain ranges and sitting above the sparkling bay, InterContinental Residences Nha Trang is the perfect base for exploring Nha Trang. Cool off under the Vietnam sun on the pool deck, dipping in and out of the glistening pool, or take a leisurely walk to the nearby beach and soak up Nha Trang Bay vistas. Taste ocean-fresh seafood at nearby restaurants and stretch your muscles at the fitness centre, all on your doorstep.",
       "location_subheading": "Vietnam",
-      "price": 252,
-      "original_price": 252,
+      "price": 242,
+      "original_price": 242,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ew6JZAAZ",
       "hero_image": "https://images.luxuryescapes.com/6wiq04l0ohddr5oftdk",
@@ -150,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-22",
-    "hotel_count": 7,
-    "average_price": 333,
-    "average_discount": 25
+    "last_updated": "2026-06-23",
+    "hotel_count": 8,
+    "average_price": 335,
+    "average_discount": 22
   }
 }

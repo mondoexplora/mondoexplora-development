@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Port Douglas",
   "description": "Discover the best hotels in Port Douglas, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/lyvxzi74cdf9iezbkum",
+  "hero_image": "https://images.luxuryescapes.com/aah1f6s7afwcdaybfr7e",
   "hotels": [
+    {
+      "vendor_name": "Club Tropical Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Port Douglas",
+      "title": "Port Douglas Newly Refurbished Tropical Escape with Club Apartment Upgrade & A$100 Dining Credit",
+      "description": "Stay in an upgraded Club Apartment at the newly refurbished Club Tropical Resort in the heart of Macrossan Street, Port Douglas. Fresh from a major renovation, the resort now offers a true tropical wellness experience with hot and cold therapy pools, a steam room, cedar dry sauna and traditional Swedish drop-bucket shower (for those who dare). Renovated rooms offer crisp interiors with spacious, open-plan lounge area and kitchenette. The resort pool is dotted with shaded loungers, and staff are well-versed in the best of Port Douglas, from where to eat - with an exclusive cocktail experience at Cosmos Lounge - to the most rewarding day trips, such as your included Lady Douglas River Cruise for two. Four Mile Beach is a 10-minute walk, while reef and rainforest experiences are on your doorstep via Crystalbrook Superyacht Marina and the Captain Cook Highway.",
+      "location_subheading": "Australia",
+      "price": 839,
+      "original_price": 1583,
+      "discount_percentage": 47,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PLUZNYA5",
+      "hero_image": "https://images.luxuryescapes.com/aah1f6s7afwcdaybfr7e",
+      "image_two": "https://images.luxuryescapes.com/fk1ohccg9abftzk6qpn9",
+      "image_three": "https://images.luxuryescapes.com/bli8ildkqtdhmoo7p6b",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-07-20 13:59:00"
+    },
     {
       "vendor_name": "Coconut Grove Apartments, Port Douglas",
       "offer_country_name": "Australia",
@@ -13,8 +31,8 @@
       "title": "Tropical Port Douglas Luxury Apartments near Four Mile Beach",
       "description": "Find serenity amid the swaying palm trees of paradisical Port Douglas with a stay at the luxe Coconut Grove Apartments - an idyllic retreat for families, friends or couples looking to spend quality time in Tropical North Queensland. This centrally- located retreat is home to a collection of apartments on vibrant Macrossan Street, within walking distance of Four Mile Beach and the town's boutique shops, bars and restaurants.",
       "location_subheading": "Australia",
-      "price": 1170,
-      "original_price": 1170,
+      "price": 1169,
+      "original_price": 1169,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004THZKAA4",
       "hero_image": "https://images.luxuryescapes.com/lyvxzi74cdf9iezbkum",
@@ -85,8 +103,8 @@
       "title": "Contemporary Port Douglas Stay near Macrossan Street & Four Mile Beach",
       "description": "With a prime position in Port Douglas - just moments away from the restaurants, cafes and shops of Macrossan Street, the town’s charming heart - this laidback hotel offers the perfect opportunity to kick back and enjoy the serenity of Tropical North Queensland. After days spent exploring the Great Barrier Reef or Daintree Rainforest, complimentary parking facilities and a Tuscan-inspired central pool make Mantra in the Village Port Douglas the perfect base to return to.",
       "location_subheading": "Australia",
-      "price": 266,
-      "original_price": 266,
+      "price": 265,
+      "original_price": 265,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JReugAAD",
       "hero_image": "https://images.luxuryescapes.com/iozjwnaazjho4l62d0km",
@@ -103,8 +121,8 @@
       "title": "Central Port Douglas Retreat on Macrossan Street with Heated Outdoor Pool",
       "description": "Experience the charm of tropical Port Douglas at this boutique retreat conveniently positioned on the corner of Macrossan and Wharf Streets. This colonial-style hotel, with its traditional Queenslander architecture, offers the perfect base to explore the Great Barrier Reef and the Daintree Rainforest, and the vibrant Macrossan Street, lined with trendy cafes, restaurants and boutiques. Spend balmy afternoons taking a dip in the outdoor pool, and evenings at Port Douglas' oldest pub, the Court House Hotel, located downstairs.",
       "location_subheading": "Australia",
-      "price": 266,
-      "original_price": 266,
+      "price": 265,
+      "original_price": 265,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRevEAAT",
       "hero_image": "https://images.luxuryescapes.com/nhfzswdoiilkgvxyub",
@@ -258,9 +276,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-22",
-    "hotel_count": 13,
-    "average_price": 440,
-    "average_discount": 3
+    "last_updated": "2026-06-23",
+    "hotel_count": 14,
+    "average_price": 468,
+    "average_discount": 6
   }
 }

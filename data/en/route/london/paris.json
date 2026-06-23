@@ -5,8 +5,8 @@
   "destination_country": "France",
   "transport_modes": {
     "flight": {
-      "duration": "3h 45m",
-      "price_range": "$150 - $400",
+      "duration": "1h 55m",
+      "price_range": "$95 - $220",
       "providers": [
         "Skyscanner",
         "Kayak",
@@ -14,8 +14,8 @@
       ]
     },
     "train": {
-      "duration": "4h 45m",
-      "price_range": "$45 - $120",
+      "duration": "2h 30m",
+      "price_range": "$80 - $200",
       "providers": [
         "Rail Europe",
         "Eurail",
@@ -23,7 +23,7 @@
       ]
     },
     "bus": {
-      "duration": "5h 15m",
+      "duration": "5h 30m",
       "price_range": "$35 - $80",
       "providers": [
         "FlixBus",
@@ -33,7 +33,7 @@
     },
     "car": {
       "duration": "3h 55m",
-      "distance": "380 km",
+      "distance": "310 km",
       "price_range": "$35 - $85"
     }
   },

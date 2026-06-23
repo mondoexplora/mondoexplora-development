@@ -3,16 +3,16 @@
   "code": "JP",
   "hero_title": "Japan Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Japan.",
-  "hero_image": "https://images.luxuryescapes.com/8f4z1aqggclf2ws7zgna",
+  "hero_image": "https://images.luxuryescapes.com/ytxhg81phz1wvm6hurcc",
   "popular_destinations": [
     {
       "name": "Tokyo",
       "slug": "tokyo",
-      "image": "https://images.luxuryescapes.com/8f4z1aqggclf2ws7zgna",
+      "image": "https://images.luxuryescapes.com/ytxhg81phz1wvm6hurcc",
       "description": "Explore Tokyo with luxury accommodations",
-      "hotel_count": 14,
-      "hotel_deals": 14,
-      "avg_price": 979
+      "hotel_count": 16,
+      "hotel_deals": 16,
+      "avg_price": 960
     },
     {
       "name": "Kyoto",
@@ -21,7 +21,7 @@
       "description": "Explore Kyoto with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 1023
+      "avg_price": 1024
     },
     {
       "name": "Osaka",
@@ -48,7 +48,7 @@
       "description": "Explore Okinawa with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 272
+      "avg_price": 271
     },
     {
       "name": "Hokkaido",
