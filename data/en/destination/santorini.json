@@ -100,24 +100,6 @@
       "vendor_name": "NOUS Hotel",
       "offer_country_name": "Greece",
       "location_heading": "Santorini",
-      "title": "Design-Led Santorini Escape with Spa, Lagoon-Style Pool & Hilltop Sea Views",
-      "description": "Set near Monolithos’ black-sand shore, NOŪS Santorini is a design-forward haven built around Cycladic minimalism and contemporary art. A sprawling lagoon-style pool, dreamy wellness facilities and serene accommodations compose the grounds, redefining the Santorini experience. Unobstructed caldera and sunset views are just the cherry on top, with Fira and Oia both within easy reach. When it’s time to indulge, head to Pool Restaurant & Bar for tasty bites, decadent Greek wines and craft cocktails under the Mediterranean sun. Beyond the property, wine tastings at Estate Argyros, the Akrotiri ruins and Red Beach are some of the island’s greatest highlights.",
-      "location_subheading": "Greece",
-      "price": 729,
-      "original_price": 801,
-      "discount_percentage": 9,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UnOfqYAF",
-      "hero_image": "https://images.luxuryescapes.com/kk8pazx6vjlxwldqxhr",
-      "image_two": "https://images.luxuryescapes.com/q81t7zwiggqny4s9g7m",
-      "image_three": "https://images.luxuryescapes.com/rv5sj5deluc2cj6m1ojo8",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:55:51"
-    },
-    {
-      "vendor_name": "NOUS Hotel",
-      "offer_country_name": "Greece",
-      "location_heading": "Santorini",
       "title": "Design-Led Santorini Escape w. Daily Breakfast, Nightly Sunset Cocktails & EUR100 Dining Credit",
       "description": "Set near Monolithos' black-sand shore, NOŪS Santorini is a design-forward haven built around Cycladic minimalism and contemporary art. A sprawling lagoon-style pool, dreamy wellness facilities and serene accommodations compose the grounds, redefining the Santorini experience. Unobstructed caldera and sunset views are just the cherry on top, with Fira and Oia both within easy reach. When it's time to indulge, head to Pool Restaurant & Bar for tasty bites, decadent Greek wines and craft cocktails under the Mediterranean sun. Beyond the property, wine tastings at Estate Argyros, the Akrotiri ruins and Red Beach are some of the island's greatest highlights.",
       "location_subheading": "Greece",
@@ -131,6 +113,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 3,
       "end_date_utc": "2026-06-24 13:59:00"
+    },
+    {
+      "vendor_name": "NOUS Hotel",
+      "offer_country_name": "Greece",
+      "location_heading": "Santorini",
+      "title": "Design-Led Santorini Escape with Spa, Lagoon-Style Pool & Hilltop Sea Views",
+      "description": "Set near Monolithos’ black-sand shore, NOŪS Santorini is a design-forward haven built around Cycladic minimalism and contemporary art. A sprawling lagoon-style pool, dreamy wellness facilities and serene accommodations compose the grounds, redefining the Santorini experience. Unobstructed caldera and sunset views are just the cherry on top, with Fira and Oia both within easy reach. When it’s time to indulge, head to Pool Restaurant & Bar for tasty bites, decadent Greek wines and craft cocktails under the Mediterranean sun. Beyond the property, wine tastings at Estate Argyros, the Akrotiri ruins and Red Beach are some of the island’s greatest highlights.",
+      "location_subheading": "Greece",
+      "price": 729,
+      "original_price": 801,
+      "discount_percentage": 9,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UnOfqYAF",
+      "hero_image": "https://images.luxuryescapes.com/kk8pazx6vjlxwldqxhr",
+      "image_two": "https://images.luxuryescapes.com/q81t7zwiggqny4s9g7m",
+      "image_three": "https://images.luxuryescapes.com/rv5sj5deluc2cj6m1ojo8",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:55:51"
     },
     {
       "vendor_name": "Neema Maison Finikia Santorini",
@@ -240,7 +240,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-23",
+    "last_updated": "2026-06-24",
     "hotel_count": 12,
     "average_price": 917,
     "average_discount": 13
