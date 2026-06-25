@@ -4,8 +4,26 @@
   "country_code": "ID",
   "hero_title": "Hotels in Kuta",
   "description": "Discover the best hotels in Kuta, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/tx9gkw90ddebbtecpux",
+  "hero_image": "https://images.luxuryescapes.com/x8bd1zz9oqitc8gtoknsi",
   "hotels": [
+    {
+      "vendor_name": "Aryaduta Bali",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Kuta",
+      "title": "Ultra-Spacious South Kuta Stay with Daily Breakfast & Nightly Free-Flow Cocktail Hour",
+      "description": "Find yourself hidden away in Bali’s most vibrant beach resort town, while keeping just minutes from the trendy restaurants, bars and sands of South Kuta Beach. Stylish and modern, Aryaduta Bali is perfect for those looking to surrender to Bali’s unparalleled serenity, with a rooftop infinity pool and bar where you can enjoy endless ocean views. Escape to this contemporary haven and fill your days lazing by the pool, staying satiated thanks to two diverse dining options and soaking up the hotel’s nightly free-flow cocktail hour. For a touch of local culture, bustling Legian is just a short ride away, while the stylish Lippo Mall Kuta sits adjacent, ensuring you’re never too far from Bali’s vibrancy and action.",
+      "location_subheading": "Indonesia",
+      "price": 419,
+      "original_price": 1822,
+      "discount_percentage": 77,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000VXCqBYAX",
+      "hero_image": "https://images.luxuryescapes.com/x8bd1zz9oqitc8gtoknsi",
+      "image_two": "https://images.luxuryescapes.com/rllk78rl62axfrsqto",
+      "image_three": "https://images.luxuryescapes.com/camv3ysoc9n2tradf70q",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 5,
+      "end_date_utc": "2026-07-22 13:59:00"
+    },
     {
       "vendor_name": "Mamaka by Ovolo",
       "offer_country_name": "Indonesia",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-24",
-    "hotel_count": 4,
-    "average_price": 278,
-    "average_discount": 18
+    "last_updated": "2026-06-25",
+    "hotel_count": 5,
+    "average_price": 306,
+    "average_discount": 29
   }
 }
