@@ -4,8 +4,26 @@
   "country_code": "GB",
   "hero_title": "Hotels in Bath",
   "description": "Discover the best hotels in Bath, United Kingdom. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/uizngck99hijt67vx4bj",
+  "hero_image": "https://images.luxuryescapes.com/fsjoxrq0wofp5lvd0y9",
   "hotels": [
+    {
+      "vendor_name": "Abbey Hotel Bath, a Tribute Portfolio Hotel",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Bath",
+      "title": "Charming Central Bath Escape with Dining Credit, Daily Breakfast & Optional Afternoon Tea Upgrades",
+      "description": "Set in the heart of the UNESCO-listed city of Bath, this Georgian townhouse places you moments from the Roman Baths, Bath Abbey and honey-coloured crescent streets. Pulteney Bridge and the Thermae Bath Spa are both within easy reach, while Milsom Street offers elegant shopping and cafes. From morning coffees on the charming Summer Terrace to a quintessentially British experience at The Abbey Tea Bar, these stylish spaces spill naturally into Bath's historic lanes, coaxing guests towards independent boutiques, dreamy riverside walks along the Avon, and the city’s most celebrated secret tearooms.",
+      "location_subheading": "United Kingdom",
+      "price": 289,
+      "original_price": 1257,
+      "discount_percentage": 77,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000WqKMoYAN",
+      "hero_image": "https://images.luxuryescapes.com/fsjoxrq0wofp5lvd0y9",
+      "image_two": "https://images.luxuryescapes.com/l6d2s0xgeeg2osyipgc",
+      "image_three": "https://images.luxuryescapes.com/wlectexq08x89fosawk",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-07-24 13:59:00"
+    },
     {
       "vendor_name": "Homewood Hotel Bath",
       "offer_country_name": "United Kingdom",
@@ -13,8 +31,8 @@
       "title": "Quaint Bath Stay with Spa and Outdoor Heated Pool",
       "description": "Escape to rolling green hills on a magnificent countryside stay at the quaint and welcoming Homewood. Step inside the hotel’s historic stone walls and be swept away by opulent interiors filled with vibrant art and lavish furniture. If rejuvenation is in order, a visit to the hotel’s luxurious spa is the perfect way to enhance your escape. When hunger bites, sample succulent Mediterranean dishes on the terrace, or indulge under the stars in a futuristic dining dome.",
       "location_subheading": "United Kingdom",
-      "price": 769,
-      "original_price": 884,
+      "price": 768,
+      "original_price": 883,
       "discount_percentage": 13,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DQUnrAAH",
       "hero_image": "https://images.luxuryescapes.com/uizngck99hijt67vx4bj",
@@ -67,8 +85,8 @@
       "title": "Five-Star Boutique Break in Historic Bath overlooking Henrietta Park",
       "description": "Experience a boutique, five-star escape at The Roseate Villa Bath, a quintessential British stay consisting of two beautifully restored Victorian houses in the heart of the historic Somerset city. Expect elegant touches such as faux-bookcase wallpaper, bespoke wooden furniture that triggers memories of days gone by and a meticulously landscaped garden that's the perfect setting for a twilight stroll. Indulge in a classic English afternoon tea complete with scones and prosecco, or sip a lavish cocktail mixed by an expert at Henrietta Bar. Ideally located in a quiet corner of Bath, but only a moment's walk from the heart of the city centre, The Roseate Villa Bath overlooks the perfectly manicured gardens of Henrietta Park - an historic seven-acre park built in celebration of Queen Victoria's Diamond Jubilee in 1897. The ideal stay to relax or explore, this stunning hotel delivers immaculate hospitality and luxury amenities within a short walk of the Jane Austen Museum and the grandeur of Bath Abbey.",
       "location_subheading": "United Kingdom",
-      "price": 683,
-      "original_price": 683,
+      "price": 696,
+      "original_price": 696,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GfeQAAS",
       "hero_image": "https://images.luxuryescapes.com/6ho6opw0qf9z8hmfegij",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-25",
-    "hotel_count": 5,
-    "average_price": 652,
-    "average_discount": 8
+    "last_updated": "2026-06-26",
+    "hotel_count": 6,
+    "average_price": 594,
+    "average_discount": 19
   }
 }

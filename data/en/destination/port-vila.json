@@ -28,24 +28,6 @@
       "vendor_name": "Iririki Island Resort",
       "offer_country_name": "Vanuatu",
       "location_heading": "Port Vila",
-      "title": "Vanuatu Haven with Snorkelling Cove, Day Spa & Resort Pools",
-      "description": "A dreamy island retreat awaits at luxurious Iririki Island Resort & Spa, a tropical oasis in the heart of Vanuatu's Port Vila Harbour. This breezy retreat offers access to pristine beaches, vibrant coral reefs and the bustling markets of Port Vila, just a few minutes away by ferry. Savour exquisite local cuisine at the resort's Azure Restaurant, which provides sweeping views of the harbour. Then unwind at the indulgent spa, or snorkel the day away in the picturesque coves before returning to shore and reclining on the white sands or shady pool decks.",
-      "location_subheading": "Vanuatu",
-      "price": 602,
-      "original_price": 782,
-      "discount_percentage": 23,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000G53QPAAZ",
-      "hero_image": "https://images.luxuryescapes.com/y00la3tend2g3ofch1m",
-      "image_two": "https://images.luxuryescapes.com/3dr5qehxmjpgirmy7rwq",
-      "image_three": "https://images.luxuryescapes.com/cza84hglsrycmbf5sajd",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Iririki Island Resort",
-      "offer_country_name": "Vanuatu",
-      "location_heading": "Port Vila",
       "title": "Vanuatu Private Island Paradise with Massages, Daily Breakfast, Nightly Dinner & Nightly Drinks",
       "description": "Some resorts come and go, while others become institutions; Iririki Island Resort & Spa has been Vanuatu's for the past 40 years. A three-minute ferry from Port Vila lands you on the private island, where coral reefs, tropical gardens and lapping waves set the scene for the kind of South Pacific escape the whole family remembers. Your stay with Luxury Escapes upgrades you to a Deluxe Spa Ocean View Studio, a spacious room with a private spa tub on the balcony and open ocean views. Days here are spent drifting between the infinity pool, poolside with a cocktail in hand, and snorkelling, paddleboarding and kayaking through the beyond blue waters. Refuel at Azure Restaurant with daily buffet breakfast and nightly dinner included, enjoying local produce and seafood with views of the harbour. Plus, the Kids Club runs supervised activities throughout the day, meaning adults can spend more time at Iririki Spa with an indulgent treatment or quiet moments by the water. When adventure calls, Port Vila's markets, restaurants and harbourfront shopping sit just across the water.",
       "location_subheading": "Vanuatu",
@@ -61,14 +43,32 @@
       "end_date_utc": "2026-07-01 13:59:00"
     },
     {
+      "vendor_name": "Iririki Island Resort",
+      "offer_country_name": "Vanuatu",
+      "location_heading": "Port Vila",
+      "title": "Vanuatu Haven with Snorkelling Cove, Day Spa & Resort Pools",
+      "description": "A dreamy island retreat awaits at luxurious Iririki Island Resort & Spa, a tropical oasis in the heart of Vanuatu's Port Vila Harbour. This breezy retreat offers access to pristine beaches, vibrant coral reefs and the bustling markets of Port Vila, just a few minutes away by ferry. Savour exquisite local cuisine at the resort's Azure Restaurant, which provides sweeping views of the harbour. Then unwind at the indulgent spa, or snorkel the day away in the picturesque coves before returning to shore and reclining on the white sands or shady pool decks.",
+      "location_subheading": "Vanuatu",
+      "price": 602,
+      "original_price": 782,
+      "discount_percentage": 23,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000G53QPAAZ",
+      "hero_image": "https://images.luxuryescapes.com/y00la3tend2g3ofch1m",
+      "image_two": "https://images.luxuryescapes.com/3dr5qehxmjpgirmy7rwq",
+      "image_three": "https://images.luxuryescapes.com/cza84hglsrycmbf5sajd",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Ramada Resort Port Vila",
       "offer_country_name": "Vanuatu",
       "location_heading": "Port Vila",
       "title": "Vanuatu Beachfront Hideaway with Swim-Up Pool Bar",
       "description": "Nestled on golden shores, the Ramada Resort by Wyndham Port Vila offers azure views of the glistening Erakor Lagoon from each of its self-contained apartments. Appealing to both couples looking for a romantic getaway, and families searching for a sun-kissed holiday, resort activities include kayaking, stand-up paddle boarding, snorkelling, beach volley and more. After days of fun in the sun, enjoy a refreshing cocktail at the pool swim-up bar or grab a bite to eat at Akiriki Restaurant.",
       "location_subheading": "Vanuatu",
-      "price": 515,
-      "original_price": 515,
+      "price": 516,
+      "original_price": 516,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GQKHjAAP",
       "hero_image": "https://images.luxuryescapes.com/uuhzpg8dwijua6y2bu4",
@@ -96,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-25",
+    "last_updated": "2026-06-26",
     "hotel_count": 4,
-    "average_price": 677,
+    "average_price": 678,
     "average_discount": 20
   }
 }
