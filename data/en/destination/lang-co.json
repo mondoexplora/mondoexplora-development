@@ -4,26 +4,8 @@
   "country_code": "VN",
   "hero_title": "Hotels in Lang Co",
   "description": "Discover the best hotels in Lang Co, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/6y8igjb63as4q8s9t22",
+  "hero_image": "https://images.luxuryescapes.com/v93fpxlutflj512lsmqk",
   "hotels": [
-    {
-      "vendor_name": "Laguna Golf Lang Co",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Lang Co",
-      "title": "Vietnam Golf Escape near Da Nang with Massages, Daily Breakfast, Two Golf Rounds & Airport Transfers",
-      "description": "Tee off, kick back and unwind between jungle-topped mountains and golden shores at Angsana Lang Co, a must-visit for golf lovers in Vietnam. This secluded oasis is set on a private beach on the central coast between Da Nang and Hue, and is part of the greater Laguna Lang Co integrated resort. Golfers can take to the greens at Laguna Golf Lang Co, an 18-hole, par-71 championship course designed by Sir Nick Faldo, with two rounds included. Guests also enjoy access to neighbouring sister properties, meaning there's always more to discover, from wellness facilities to a plethora of restaurants and bars. Refuel with upscale dining and soothe sore muscles with a treatment at the indulgent Angsana Spa. A sprawling lagoon pool wraps around the resort - the ideal place to enjoy balmy afternoons with a cocktail - while the warm waters of the East Sea invite moments of stillness beside lapping waves.",
-      "location_subheading": "Vietnam",
-      "price": 919,
-      "original_price": 1209,
-      "discount_percentage": 24,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PiwwLYAR",
-      "hero_image": "https://images.luxuryescapes.com/6y8igjb63as4q8s9t22",
-      "image_two": "https://images.luxuryescapes.com/1enlvspuvlqxyjch50j",
-      "image_three": "https://images.luxuryescapes.com/xxq3zzudqs0oeb7tz3w7",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 4,
-      "end_date_utc": "2027-02-27 12:59:00"
-    },
     {
       "vendor_name": "Laguna Golf Lang Co",
       "offer_country_name": "Vietnam",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 7,
       "end_date_utc": "2026-12-14 12:59:00"
+    },
+    {
+      "vendor_name": "Laguna Golf Lang Co",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Lang Co",
+      "title": "Vietnam Golf Escape near Da Nang with Massages, Daily Breakfast, Two Golf Rounds & Airport Transfers",
+      "description": "Tee off, kick back and unwind between jungle-topped mountains and golden shores at Angsana Lang Co, a must-visit for golf lovers in Vietnam. This secluded oasis is set on a private beach on the central coast between Da Nang and Hue, and is part of the greater Laguna Lang Co integrated resort. Golfers can take to the greens at Laguna Golf Lang Co, an 18-hole, par-71 championship course designed by Sir Nick Faldo, with two rounds included. Guests also enjoy access to neighbouring sister properties, meaning there's always more to discover, from wellness facilities to a plethora of restaurants and bars. Refuel with upscale dining and soothe sore muscles with a treatment at the indulgent Angsana Spa. A sprawling lagoon pool wraps around the resort - the ideal place to enjoy balmy afternoons with a cocktail - while the warm waters of the East Sea invite moments of stillness beside lapping waves.",
+      "location_subheading": "Vietnam",
+      "price": 919,
+      "original_price": 1209,
+      "discount_percentage": 24,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PiwwLYAR",
+      "hero_image": "https://images.luxuryescapes.com/6y8igjb63as4q8s9t22",
+      "image_two": "https://images.luxuryescapes.com/1enlvspuvlqxyjch50j",
+      "image_three": "https://images.luxuryescapes.com/xxq3zzudqs0oeb7tz3w7",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 4,
+      "end_date_utc": "2027-02-27 12:59:00"
     },
     {
       "vendor_name": "Banyan Tree Lang Co",
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-28",
+    "last_updated": "2026-06-29",
     "hotel_count": 3,
     "average_price": 1718,
     "average_discount": 19

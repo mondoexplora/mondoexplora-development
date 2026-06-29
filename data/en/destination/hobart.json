@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Hobart",
   "description": "Discover the best hotels in Hobart, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/bgemm3g0gmnsox8hpf8j",
+  "hero_image": "https://images.luxuryescapes.com/qdze3p5agva9ctujjqa",
   "hotels": [
-    {
-      "vendor_name": "Crowne Plaza Hobart",
-      "offer_country_name": "Australia",
-      "location_heading": "Hobart",
-      "title": "Stylish City Break in the Heart of Hobart with Rooftop Bar",
-      "description": "Escape to the heart of Hobart with a stay at Crowne Plaza Hobart, an IHG Hotel, masterfully positioned on Liverpool Street near a bustling collection of cafés, boutiques and historic theatres. Admire stunning views of mighty Mt. Wellington over espressotinis at rooftop bar The Deck or feast on grilled, market-fresh seafood at Core restaurant and bar, serving seasonal plates backed by Tasmania's succulent local produce - a shining example of what makes Hobart’s culinary culture so brilliant.",
-      "location_subheading": "Australia",
-      "price": 306,
-      "original_price": 306,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt5YAAR",
-      "hero_image": "https://images.luxuryescapes.com/bgemm3g0gmnsox8hpf8j",
-      "image_two": "https://images.luxuryescapes.com/29czulh6x5bagp8yt8ei",
-      "image_three": "https://images.luxuryescapes.com/jly55m25soxmitqc4n8b",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Crowne Plaza Hobart",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 2,
       "end_date_utc": "2026-08-05 13:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Hobart",
+      "offer_country_name": "Australia",
+      "location_heading": "Hobart",
+      "title": "Stylish City Break in the Heart of Hobart with Rooftop Bar",
+      "description": "Escape to the heart of Hobart with a stay at Crowne Plaza Hobart, an IHG Hotel, masterfully positioned on Liverpool Street near a bustling collection of cafés, boutiques and historic theatres. Admire stunning views of mighty Mt. Wellington over espressotinis at rooftop bar The Deck or feast on grilled, market-fresh seafood at Core restaurant and bar, serving seasonal plates backed by Tasmania's succulent local produce - a shining example of what makes Hobart’s culinary culture so brilliant.",
+      "location_subheading": "Australia",
+      "price": 306,
+      "original_price": 306,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt5YAAR",
+      "hero_image": "https://images.luxuryescapes.com/bgemm3g0gmnsox8hpf8j",
+      "image_two": "https://images.luxuryescapes.com/29czulh6x5bagp8yt8ei",
+      "image_three": "https://images.luxuryescapes.com/jly55m25soxmitqc4n8b",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Hotel Grand Chancellor Hobart",
@@ -103,8 +103,8 @@
       "title": "Central Hobart Self-Contained Studios and Apartments Near Salamanca Place & St David's Park",
       "description": "Experience the charm of Hobart with a stay at this ideally positioned escape between the city's vibrant waterfront and historic Battery Point. Spend relaxing hours in your spacious, self-contained apartment, complete with a kitchenette, comfortable living area and views of the city below. When you feel like stepping out, savour the finest Tasmanian produce at the nearby Salamanca Market, explore the captivating exhibits at the Museum of Old and New Art, or take a scenic drive to the stunning Mount Wellington.",
       "location_subheading": "Australia",
-      "price": 254,
-      "original_price": 254,
+      "price": 289,
+      "original_price": 289,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRenlAAD",
       "hero_image": "https://images.luxuryescapes.com/517zexpdw9psqv2nfsvm",
@@ -157,8 +157,8 @@
       "title": "Waterfront Mövenpick City Break in the Heart of Hobart with Onsite Gourmet Dining",
       "description": "Soak up the allure of Tasmania's capital from this sophisticated Mövenpick sanctuary ideally positioned in the heart of Hobart's vibrant waterfront precinct. Take this chance to discover Hobart's rich culture, history and lip-smacking cuisine as you explore the iconic Salamanca Market, stroll the harbour and admire the Royal Tasmanian Botanical Gardens. Back at your hotel, unwind in your plush room and when hunger strikes, indulge in a culinary journey at the onsite Tesoro Modern Italian Restaurant sampling local dry-aged meats and house-made tiramisu. For art enthusiasts, the world-renowned Museum of Old and New Art is only a short ferry ride - or 20-minute drive - away and awaits exploration.",
       "location_subheading": "Australia",
-      "price": 244,
-      "original_price": 244,
+      "price": 248,
+      "original_price": 248,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlvXIAS",
       "hero_image": "https://images.luxuryescapes.com/vvnnsoikkry8qlq93yd5",
@@ -276,9 +276,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-28",
+    "last_updated": "2026-06-29",
     "hotel_count": 14,
-    "average_price": 335,
+    "average_price": 338,
     "average_discount": 6
   }
 }

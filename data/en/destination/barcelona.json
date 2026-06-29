@@ -151,6 +151,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "H10 Urquinaona Plaza Barcelona",
+      "offer_country_name": "Spain",
+      "location_heading": "Barcelona",
+      "title": "Modern Barcelona City Escape near La Rambla with Daily Breakfast & Rooftop Pool",
+      "description": "Experience the vibrant charm of Barcelona from this beautifully restored 19th-century building just moments from the Gothic Quarter. Boasting modern interiors and elegant Novecentista details, the hotel seamlessly blends contemporary style with the city’s storied past. With the iconic Old Town, Passeig de Gracia and Las Ramblas all at your fingertips, you’re perfectly positioned to discover the lively atmosphere and vibrant culture of the city. Teeming with cosy tapas bars and a mix of Spanish and Catalan cuisine, you can delight the taste buds along the way. In between exploring Barcelona’s iconic sights and attractions, the hotel offers an idyllic setting and plenty of spaces to unwind. Retreat to the quiet outdoor garden or opt for the Lluna Terrace for a cocktail, a dip in the plunge pool and panoramic views over the city.",
+      "location_subheading": "Spain",
+      "price": 269,
+      "original_price": 791,
+      "discount_percentage": 66,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Y7ivVYAR",
+      "hero_image": "https://images.luxuryescapes.com/oofh2ehmlvctypsgvb",
+      "image_two": "https://images.luxuryescapes.com/esbcmtw8fqxxa6mfdtli",
+      "image_three": "https://images.luxuryescapes.com/tjawtbmmnb0yqmjrsss",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-07-27 13:59:00"
+    },
+    {
       "vendor_name": "Hotel Bagues",
       "offer_country_name": "Spain",
       "location_heading": "Barcelona",
@@ -384,9 +402,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-28",
-    "hotel_count": 20,
-    "average_price": 722,
-    "average_discount": 8
+    "last_updated": "2026-06-29",
+    "hotel_count": 21,
+    "average_price": 700,
+    "average_discount": 10
   }
 }
