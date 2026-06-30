@@ -100,24 +100,6 @@
       "vendor_name": "Rydges Latimer Christchurch",
       "offer_country_name": "New Zealand",
       "location_heading": "Christchurch",
-      "title": "Stylish Stay in the Heart of Christchurch",
-      "description": "The many charms of the Garden City are yours to enjoy from the stylish Rydges Latimer Christchurch. Surrounded by the lush gardens of Latimer Square, this modern sanctuary boasts one of the best addresses in the city, a stone’s throw from the iconic Cardboard Cathedral and funky bars, art galleries and fine-dining restaurants, and a leisurely stroll from the Botanic Gardens and Canterbury Cathedral. Make use of the onsite fitness centre and premium steakhouse, Bloody Mary’s - one of the city’s most-loved restaurants.",
-      "location_subheading": "New Zealand",
-      "price": 263,
-      "original_price": 263,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004v1ZtAAI",
-      "hero_image": "https://images.luxuryescapes.com/7ke9xuxlbzodpasfzyq",
-      "image_two": "https://images.luxuryescapes.com/gvzwh11jvrzzng2ibhbj",
-      "image_three": "https://images.luxuryescapes.com/totkxfgb8mqljuq95j69",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Rydges Latimer Christchurch",
-      "offer_country_name": "New Zealand",
-      "location_heading": "Christchurch",
       "title": "Central Christchurch Escape near Latimer Square with Daily Breakfast & Complimentary Parking",
       "description": "Settle into the heart of the Garden City at Rydges Latimer Christchurch, where contemporary rooms sit alongside the leafy green expanse of Latimer Square. Just a short stroll from Cathedral Square, the Riverside Market and the Avon River, this is a genuinely central base to explore everything that Christchurch has to offer. Spend your days wandering the colourful street art laneways, browsing the Canterbury Museum or losing an afternoon in the gorgeous Christchurch Botanic Gardens. Back at the hotel, Bloody Mary's is the place to wind down - a beloved steakhouse serving prime cuts alongside locally sourced produce, South Island wines, craft beers and top-tier whiskey.",
       "location_subheading": "New Zealand",
@@ -131,6 +113,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-06-30 13:59:00"
+    },
+    {
+      "vendor_name": "Rydges Latimer Christchurch",
+      "offer_country_name": "New Zealand",
+      "location_heading": "Christchurch",
+      "title": "Stylish Stay in the Heart of Christchurch",
+      "description": "The many charms of the Garden City are yours to enjoy from the stylish Rydges Latimer Christchurch. Surrounded by the lush gardens of Latimer Square, this modern sanctuary boasts one of the best addresses in the city, a stone’s throw from the iconic Cardboard Cathedral and funky bars, art galleries and fine-dining restaurants, and a leisurely stroll from the Botanic Gardens and Canterbury Cathedral. Make use of the onsite fitness centre and premium steakhouse, Bloody Mary’s - one of the city’s most-loved restaurants.",
+      "location_subheading": "New Zealand",
+      "price": 263,
+      "original_price": 263,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004v1ZtAAI",
+      "hero_image": "https://images.luxuryescapes.com/7ke9xuxlbzodpasfzyq",
+      "image_two": "https://images.luxuryescapes.com/gvzwh11jvrzzng2ibhbj",
+      "image_three": "https://images.luxuryescapes.com/totkxfgb8mqljuq95j69",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Sudima Christchurch City",
@@ -168,7 +168,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-29",
+    "last_updated": "2026-06-30",
     "hotel_count": 8,
     "average_price": 301,
     "average_discount": 14

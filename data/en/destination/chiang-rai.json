@@ -4,26 +4,8 @@
   "country_code": "TH",
   "hero_title": "Hotels in Chiang Rai",
   "description": "Discover the best hotels in Chiang Rai, Thailand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/s60frfoojhjrcil3lyyjj",
+  "hero_image": "https://images.luxuryescapes.com/zkrmev5eepkn763467i",
   "hotels": [
-    {
-      "vendor_name": "The Riverie by Katathani",
-      "offer_country_name": "Thailand",
-      "location_heading": "Chiang Rai",
-      "title": "Elegant Five-Star Chiang Rai Riverside Escape with Mini Waterpark & Three Restaurants",
-      "description": "Discover the wonderous beauty of northern Thailand with a five-star stay at The Riverie by Katathani, on the banks of the Kok River. This elegant escape has something for everyone, from outdoor pools and a mini waterpark to the calming tranquillity of Tivaa Ratrii Spa. Enjoy a cocktail at Jujube Pool Bar before choosing which of the three restaurants to dine at: try authentic Thai plates at Blossom Restaurant where the food is surpassed only by the views.",
-      "location_subheading": "Thailand",
-      "price": 248,
-      "original_price": 248,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000ECPGYAA5",
-      "hero_image": "https://images.luxuryescapes.com/s60frfoojhjrcil3lyyjj",
-      "image_two": "https://images.luxuryescapes.com/xkwsncmm0x8fvxelgq",
-      "image_three": "https://images.luxuryescapes.com/odnw94rk4k641mtz4ge",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "The Riverie by Katathani",
       "offer_country_name": "Thailand",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 3,
       "end_date_utc": "2026-07-31 13:59:00"
+    },
+    {
+      "vendor_name": "The Riverie by Katathani",
+      "offer_country_name": "Thailand",
+      "location_heading": "Chiang Rai",
+      "title": "Elegant Five-Star Chiang Rai Riverside Escape with Mini Waterpark & Three Restaurants",
+      "description": "Discover the wonderous beauty of northern Thailand with a five-star stay at The Riverie by Katathani, on the banks of the Kok River. This elegant escape has something for everyone, from outdoor pools and a mini waterpark to the calming tranquillity of Tivaa Ratrii Spa. Enjoy a cocktail at Jujube Pool Bar before choosing which of the three restaurants to dine at: try authentic Thai plates at Blossom Restaurant where the food is surpassed only by the views.",
+      "location_subheading": "Thailand",
+      "price": 248,
+      "original_price": 248,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000ECPGYAA5",
+      "hero_image": "https://images.luxuryescapes.com/s60frfoojhjrcil3lyyjj",
+      "image_two": "https://images.luxuryescapes.com/xkwsncmm0x8fvxelgq",
+      "image_three": "https://images.luxuryescapes.com/odnw94rk4k641mtz4ge",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-29",
+    "last_updated": "2026-06-30",
     "hotel_count": 2,
     "average_price": 259,
     "average_discount": 19

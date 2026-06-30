@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Gaya Island Resort",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Gaya Island",
+      "title": "Borneo All-Villa Island Retreat with Daily Breakfast, Cocktails & Return Speedboat Transfers",
+      "description": "Set within the protected Tunku Abdul Rahman Marine Park, Gaya Island Resort sits on one of Borneo's most untouched island groups, just 10 minutes by speedboat from Kota Kinabalu's Jesselton Point - with speedboat transfers included. A member of Small Luxury Hotels of the World, the resort is vehicle-free by design: walking tracks through ancient rainforest connect the villas, and the rhythm of the island sets the pace. Secluded villas overlook the forest canopy and sheltered bays, with the mangroves and coral reefs of the marine park accessible directly from shore. Coral reef snorkelling, guided nature walks and wildlife encounters - including proboscis monkeys in the surrounding rainforest - sit alongside quieter pursuits. Tavajun Bay is the resort's private beach, where charcoal-grilled lunches are served at the water's edge. Fisherman's Cove serves sustainably sourced seafood with views across to Mount Kinabalu, while the two-storey Omakase restaurant offers teppanyaki, shabu-shabu and nabe from its hillside perch above the bay. For restoration, Spa Village Gaya Island draws on the healing traditions of Borneo.",
+      "location_subheading": "Malaysia",
+      "price": 1029,
+      "original_price": 2287,
+      "discount_percentage": 55,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000VSisIYAT",
+      "hero_image": "https://images.luxuryescapes.com/gji0t4pyxqwltlk3fhy8",
+      "image_two": "https://images.luxuryescapes.com/3j21hkderks7ovomeqjql",
+      "image_three": "https://images.luxuryescapes.com/e7b5njs0vf85wlymzuma",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2026-08-24 13:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-29",
-    "hotel_count": 1,
-    "average_price": 829,
-    "average_discount": 19
+    "last_updated": "2026-06-30",
+    "hotel_count": 2,
+    "average_price": 929,
+    "average_discount": 37
   }
 }
