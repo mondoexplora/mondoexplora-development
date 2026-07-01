@@ -230,8 +230,8 @@
       "description": "Step off Barcelona’s most luxurious avenue, Passeig de Gracia, and into a world of sophistication with a stay at Granados 83. The hotel’s immaculately designed interiors feature a striking collection of original art from across Asia, with rooms surrounding an interior courtyard covered by magnificent glass roofing. Exuding style in all aspects from the modern restaurant to the sparkling pool and rooftop bar, you'll savour looking out over central Barcelona with your favourite cocktail in hand.",
       "location_subheading": "Spain",
       "price": 430,
-      "original_price": 566,
-      "discount_percentage": 24,
+      "original_price": 573,
+      "discount_percentage": 25,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FMcjrAAD",
       "hero_image": "https://images.luxuryescapes.com/bm5lkpn1i1bj766hfnv",
       "image_two": "https://images.luxuryescapes.com/n8j30036oot6akzm6t4a",
@@ -265,8 +265,8 @@
       "title": "Five-Star Barcelona Escape with Serene Spa & Rooftop Terrace",
       "description": "InterContinental Barcelona, an IHG Hotel combines contemporary design and five-star comfort for guests seeking a slice of seaside Catalonia. Lose yourself in the historic city, discovering works of great artists like Picasso or sightseeing and shopping at Passeig de Gracia. Savour fine dining at Quirat or Arrel restaurants, find a moment of relaxation at the spa or soak up stunning views of the Barcelona skyline and Montjuïc Castle from the rooftop terrace.",
       "location_subheading": "Spain",
-      "price": 619,
-      "original_price": 619,
+      "price": 618,
+      "original_price": 618,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNUCBAA5",
       "hero_image": "https://images.luxuryescapes.com/uqg0v1ytbo6il7ugc8",
@@ -311,6 +311,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Ohla Eixample",
+      "offer_country_name": "Spain",
+      "location_heading": "Barcelona",
+      "title": "Boutique Barcelona Glamour near Passeig de Gracia with Daily Breakfast & Heated Rooftop Infinity Pool",
+      "description": "Five-star comforts surrounded by some of Barcelona's most iconic landmarks await at this chic boutique hotel, just minutes away from some of Gaudí's revered masterpieces such as Casa Batlló and the Sagrada Familia. The hotel itself is a treasure trove of elevated comforts, with an exquisite restaurant onsite serving locally caught seafood sourced daily from the city’s fish markets. During the summer months, head up to the rooftop, where a glorious heated infinity pool, bar and terrace promise fabulous views of the city's most famous sites. Right outside the hotel's doors, you'll find a plethora of restaurants, shops and cafes - to be expected from the coolest neighbourhood in the world, as heralded by Time Out Magazine. When you aren't marvelling at masterful architecture, your central location leaves you a stone's throw from La Pedrera and Passeig de Gracia.",
+      "location_subheading": "Spain",
+      "price": 419,
+      "original_price": 838,
+      "discount_percentage": 50,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Y8H89YAF",
+      "hero_image": "https://images.luxuryescapes.com/1ipquqiypq99xxrc6bk",
+      "image_two": "https://images.luxuryescapes.com/dxppkjm0nkct9vplnfl",
+      "image_three": "https://images.luxuryescapes.com/uzhnqo945fqv6zco86dc",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-07-29 13:59:00"
     },
     {
       "vendor_name": "Serras Hotel Barcelona",
@@ -402,9 +420,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-30",
-    "hotel_count": 21,
-    "average_price": 697,
-    "average_discount": 10
+    "last_updated": "2026-07-01",
+    "hotel_count": 22,
+    "average_price": 685,
+    "average_discount": 12
   }
 }

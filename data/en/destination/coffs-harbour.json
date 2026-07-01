@@ -13,8 +13,8 @@
       "title": "Tropical Beachfront Coffs Harbour Escape with Three Pools, Tennis Courts & Day Spa",
       "description": "Immerse yourself in uninterrupted coastal bliss at this relaxed, tropical-style resort, conveniently positioned on the stunning shores of Diggers Beach, Coffs Harbour. Savour the perfect blend of seaside fun and relaxation with three pools, three tennis courts and a tranquil day spa for all your pampering needs. Unwind in the elegantly appointed rooms and villas, and indulge in local cuisine at the two onsite restaurants, overlooking the beach. You'll never be lost for activities with everything from mini golf to beach volleyball. Beyond the resort, there is also the Coffs Harbour Marina and the renowned The Big Banana Fun Park nearby - ideal for some family-friendly fun!",
       "location_subheading": "Australia",
-      "price": 237,
-      "original_price": 237,
+      "price": 236,
+      "original_price": 236,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRerWAAT",
       "hero_image": "https://images.luxuryescapes.com/w112qm2wzm4iabz6m4np",
@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Nautilus Beach Resort by Charlesworth",
+      "offer_country_name": "Australia",
+      "location_heading": "Coffs Harbour",
+      "title": "Coffs Harbour Coastal Studios & Apartments near Sapphire Beach with Two Outdoor Pools",
+      "description": "Tucked into the northern end of Coffs Harbour on the shores of Sapphire Beach, Nautilus Beach Resort by Charlesworth is a no-fuss coastal escape where the beach is steps from your door. Self-contained apartments and studios with private terraces, fully equipped kitchens and stunning views of the lush gardens or sparkling ocean make it easy to settle in and stay a little longer than planned. The Big Banana Fun Park is a short drive away for a family day out, Korora Lookout and the coastal reserve walking tracks are on the doorstep, and the Coffs Harbour Jetty and Marina precinct is a 15-minute drive for fresh seafood and a wander along the waterfront.",
+      "location_subheading": "Australia",
+      "price": 319,
+      "original_price": 523,
+      "discount_percentage": 39,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000VJ9vOYAT",
+      "hero_image": "https://images.luxuryescapes.com/pb9rf8cyjvpvb5tccsrf",
+      "image_two": "https://images.luxuryescapes.com/pplxf01m4by1zcsjmg0m",
+      "image_three": "https://images.luxuryescapes.com/g0adxbit8tbz1t92f9w",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-07-28 13:59:00"
     },
     {
       "vendor_name": "ibis budget Coffs Harbour",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-06-30",
-    "hotel_count": 2,
-    "average_price": 201,
-    "average_discount": 0
+    "last_updated": "2026-07-01",
+    "hotel_count": 3,
+    "average_price": 240,
+    "average_discount": 13
   }
 }
