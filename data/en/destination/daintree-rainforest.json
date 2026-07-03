@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Daintree Rainforest",
   "description": "Discover the best hotels in Daintree Rainforest, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/vrfarhddhp4im1nw01kp",
+  "hero_image": "https://images.luxuryescapes.com/oawuydszqnd6adjpcfvp",
   "hotels": [
-    {
-      "vendor_name": "Mist at Cape Tribulation",
-      "offer_country_name": "Australia",
-      "location_heading": "Daintree Rainforest",
-      "title": "Boutique Daintree Rainforest Hideaway: Luxury Pavilions near Great Barrier Reef",
-      "description": "Escape the everyday at this eight-acre sanctuary where the Great Barrier Reef meets the Daintree Rainforest - the world's only intersection of two UNESCO World Heritage-listed sites. This spectacular tropical retreat sits just 30 metres from the world's oldest living rainforest and less than three hours' drive from Cairns. Your freestanding, self-contained pavilion comes complete with a kitchenette and is surrounded by native palms and resident sunbirds. By day, explore the property's lush jungle canopy, freshwater creek and small orchard with seasonal tropical fruits. Watch fireflies from the deck or relax in double hammocks while listening for lesser sooty owls. Nature's wonders are at your doorstep with endless adventures awaiting. Snorkel the colourful underwater paradise of the Great Barrier Reef, join guided walks through the ancient rainforest or experience an unforgettable horseback ride along pristine beaches (surcharges apply).",
-      "location_subheading": "Australia",
-      "price": 299,
-      "original_price": 534,
-      "discount_percentage": 44,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000YLDujYAH",
-      "hero_image": "https://images.luxuryescapes.com/vrfarhddhp4im1nw01kp",
-      "image_two": "https://images.luxuryescapes.com/qccnhvh3kkjf6aepegq",
-      "image_three": "https://images.luxuryescapes.com/565mafdyrddfrr69op8l",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-07-27 13:59:00"
-    },
     {
       "vendor_name": "Mist at Cape Tribulation",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mist at Cape Tribulation",
+      "offer_country_name": "Australia",
+      "location_heading": "Daintree Rainforest",
+      "title": "Boutique Daintree Rainforest Hideaway: Luxury Pavilions near Great Barrier Reef",
+      "description": "Escape the everyday at this eight-acre sanctuary where the Great Barrier Reef meets the Daintree Rainforest - the world's only intersection of two UNESCO World Heritage-listed sites. This spectacular tropical retreat sits just 30 metres from the world's oldest living rainforest and less than three hours' drive from Cairns. Your freestanding, self-contained pavilion comes complete with a kitchenette and is surrounded by native palms and resident sunbirds. By day, explore the property's lush jungle canopy, freshwater creek and small orchard with seasonal tropical fruits. Watch fireflies from the deck or relax in double hammocks while listening for lesser sooty owls. Nature's wonders are at your doorstep with endless adventures awaiting. Snorkel the colourful underwater paradise of the Great Barrier Reef, join guided walks through the ancient rainforest or experience an unforgettable horseback ride along pristine beaches (surcharges apply).",
+      "location_subheading": "Australia",
+      "price": 299,
+      "original_price": 534,
+      "discount_percentage": 44,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000YLDujYAH",
+      "hero_image": "https://images.luxuryescapes.com/vrfarhddhp4im1nw01kp",
+      "image_two": "https://images.luxuryescapes.com/qccnhvh3kkjf6aepegq",
+      "image_three": "https://images.luxuryescapes.com/565mafdyrddfrr69op8l",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-07-27 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-02",
+    "last_updated": "2026-07-03",
     "hotel_count": 2,
     "average_price": 527,
     "average_discount": 26

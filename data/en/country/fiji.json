@@ -3,16 +3,16 @@
   "code": "FJ",
   "hero_title": "Fiji Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Fiji.",
-  "hero_image": "https://images.luxuryescapes.com/45e0v0v8t5f1p8bmfv39",
+  "hero_image": "https://images.luxuryescapes.com/tvsj8zq19e332x2sljd",
   "popular_destinations": [
     {
       "name": "Malolo Island",
       "slug": "malolo-island",
-      "image": "https://images.luxuryescapes.com/45e0v0v8t5f1p8bmfv39",
+      "image": "https://images.luxuryescapes.com/tvsj8zq19e332x2sljd",
       "description": "Explore Malolo Island with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 3234
+      "avg_price": 3237
     },
     {
       "name": "Nadi",
@@ -21,16 +21,16 @@
       "description": "Explore Nadi with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 351
+      "avg_price": 357
     },
     {
       "name": "Coral Coast",
       "slug": "coral-coast",
-      "image": "https://images.luxuryescapes.com/6vaom3hbevceaddf5v",
+      "image": "https://images.luxuryescapes.com/b59quc2qhwz4j90watb",
       "description": "Explore Coral Coast with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 719
+      "avg_price": 720
     },
     {
       "name": "Viti Levu",
@@ -39,7 +39,7 @@
       "description": "Explore Viti Levu with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 860
+      "avg_price": 862
     },
     {
       "name": "Malolo Lailai",
@@ -48,7 +48,7 @@
       "description": "Explore Malolo Lailai with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1105
+      "avg_price": 1108
     },
     {
       "name": "Denarau Island",
@@ -57,7 +57,7 @@
       "description": "Explore Denarau Island with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 3911
+      "avg_price": 3917
     }
   ],
   "seo": {

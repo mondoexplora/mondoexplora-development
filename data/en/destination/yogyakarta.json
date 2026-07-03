@@ -20,7 +20,7 @@
       "hero_image": "https://images.luxuryescapes.com/boukqrvxpjlkov26ddg",
       "image_two": "https://images.luxuryescapes.com/9dnpf3pmgjzydx7q13m",
       "image_three": "https://images.luxuryescapes.com/078c0a6myp87w4dizqrg",
-      "deal_tier": "",
+      "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     },
@@ -61,6 +61,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Novotel Yogyakarta International Airport Kulon Progo",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Yogyakarta",
+      "title": "Stylish Yogyakarta Airport Stay with Onsite Spa & Pool",
+      "description": "Just minutes from Yogyakarta Airport, on the Indonesian island of Java, this sophisticated hotel is the pinnacle of convenient comfort. Everything you need is at your fingertips: unwind in the outdoor pool, keep up with your routine in the fitness centre and savour international flavours at Food Exchange. When the sun sets, sip on cocktails at the rooftop bar overlooking the Menoreh Hills. While this chic retreat is near the airport, it’s also just an hour's drive from the rich cultural treasures of Yogyakarta. Discover the Prambanan Temple Compounds, a UNESCO World Heritage Site showcasing 10th-century Hindu architecture, or immerse yourself in the bustling atmosphere of Malioboro Street for markets and trendy boutiques.",
+      "location_subheading": "Indonesia",
+      "price": 76,
+      "original_price": 76,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnOwuYAF",
+      "hero_image": "https://images.luxuryescapes.com/pn5ww0t5mtclz8xt45",
+      "image_two": "https://images.luxuryescapes.com/n2bfpwldyd84b9rkgoe",
+      "image_three": "https://images.luxuryescapes.com/3p1pgz69ljbwt16zk5cp",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "The Phoenix Yogyakarta - MGallery",
       "offer_country_name": "Indonesia",
       "location_heading": "Yogyakarta",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-02",
-    "hotel_count": 4,
-    "average_price": 134,
+    "last_updated": "2026-07-03",
+    "hotel_count": 5,
+    "average_price": 122,
     "average_discount": 0
   }
 }

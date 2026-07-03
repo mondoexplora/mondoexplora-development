@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Central Coast",
   "description": "Discover the best hotels in Central Coast, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/kkag8jouqb3wchfncvll",
+  "hero_image": "https://images.luxuryescapes.com/qkwfnufjoum1gq5tgubm",
   "hotels": [
-    {
-      "vendor_name": "Encore By Mingara",
-      "offer_country_name": "Australia",
-      "location_heading": "Central Coast",
-      "title": "Modern Central Coast Escape Just 90 Minutes From Sydney near Tuggerah Lake with Daily Breakfast",
-      "description": "Central Coast escapes don’t get much sweeter than this. Kick back and enjoy the region’s abundance of beaches, restaurants and bars with a stay at Encore by Mingara, conveniently located just a short drive from the tranquil shores of Tuggerah Lake and the spectacular Wyrrabalong National Park. Check out local highlights including ocean pools, weekend markets, and endless walking and cycling tracks. Before your adventures, fuel up with breakfast at The Roasted Berry, then return to a menu of modern Australian favourites at Hadley’s or Australian-Chinese fare at Ming Dragon. Access state-of-the-art fitness centre One by Mingara, including a heated indoor pool, athletic track and group fitness classes with yoga, pilates and more.",
-      "location_subheading": "Australia",
-      "price": 189,
-      "original_price": 310,
-      "discount_percentage": 39,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TGVLiYAP",
-      "hero_image": "https://images.luxuryescapes.com/kkag8jouqb3wchfncvll",
-      "image_two": "https://images.luxuryescapes.com/z4afz6yswu1uc14ipd8",
-      "image_three": "https://images.luxuryescapes.com/1ylnt10qe86797qnqr46",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-07-02 13:59:00"
-    },
     {
       "vendor_name": "Mercure Kooindah Waters Central Coast",
       "offer_country_name": "Australia",
@@ -31,14 +13,14 @@
       "title": "NSW Central Coast Escape 90 Minutes from Sydney with Championship Golf Course & Two Pools",
       "description": "Relax and rejuvenate at Mercure Kooindah Waters Central Coast, just a 90-minute drive north of Sydney. Ideally located on the beautiful New South Wales Central Coast, this retreat provides a peaceful escape and boasts an 18-hole championship golf course, recognised among the top 100 golf courses in Australia. Sit back in the blissful sunshine with a glass of wine in hand while enjoying the manicured grounds, take a stroll around the tranquil lake in the heart of the property and enjoy the friendly competition on the tennis court. From the moment the sun rises to the second it sets, spend your days hopping from one pristine beach to another and bask in the calmness of the region. Feel refreshed with a few laps in the outdoor or indoor pool, explore the beauty of the surrounding wetlands and national parks or spot passing dolphins and whales in the winter months. No matter where you are on the property, the views will take your breath away.",
       "location_subheading": "Australia",
-      "price": 332,
-      "original_price": 332,
+      "price": 303,
+      "original_price": 303,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000KuD77YAF",
       "hero_image": "https://images.luxuryescapes.com/qkwfnufjoum1gq5tgubm",
       "image_two": "https://images.luxuryescapes.com/m93p6j6c7wo58i87x3d",
       "image_three": "https://images.luxuryescapes.com/oa77qhp8c4eaiqgozo6m",
-      "deal_tier": "",
+      "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     },
@@ -78,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-02",
-    "hotel_count": 3,
-    "average_price": 255,
-    "average_discount": 28
+    "last_updated": "2026-07-03",
+    "hotel_count": 2,
+    "average_price": 274,
+    "average_discount": 23
   }
 }

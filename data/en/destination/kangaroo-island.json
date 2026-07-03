@@ -28,6 +28,24 @@
       "vendor_name": "Mercure Kangaroo Island Lodge",
       "offer_country_name": "Australia",
       "location_heading": "Kangaroo Island",
+      "title": "Tranquil Kangaroo Island Escape Overlooking American River Bay with Onsite Restaurant & Bar",
+      "description": "Experience Australia’s version of the Galapagos at this waterfront resort in Kangaroo Island, nestled between American River’s tranquil coves and native bushland. Enjoy well-appointed accommodations with stunning views, an onsite restaurant showcasing local produce, and easy access to nature trails. Spend days relaxing by the fireplace with a glass of local red wine, swim in the outdoor saltwater pool and explore island highlights like Stokes Bay and Admiral Arch.",
+      "location_subheading": "Australia",
+      "price": 289,
+      "original_price": 289,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlwcIAC",
+      "hero_image": "https://images.luxuryescapes.com/iynrqm4xqbxxbuu1pg0m",
+      "image_two": "https://images.luxuryescapes.com/04zfyaj93zteg3fykbg",
+      "image_three": "https://images.luxuryescapes.com/9k10qihh1r7epa5n3ce",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mercure Kangaroo Island Lodge",
+      "offer_country_name": "Australia",
+      "location_heading": "Kangaroo Island",
       "title": "Boutique Kangaroo Island Waterfront Retreat with Daily Breakfast & Nightly Drinks",
       "description": "Wake to American River Bay and the kind of quiet that eases you into total relaxation at this boutique retreat. Mercure Kangaroo Island Lodge sits between the bay and four acres of native bushland, where birdsong in the trees and kangaroos bounding around remind you where you are before you've even set out. Wander the bushland trails by day, refresh with a dip in the outdoor pool, then settle in by the fireplace at the Lodge Bar & Lounge with a glass of local red. Reflections Restaurant is a strong reason to stay in for dinner, with a menu that changes with the island's regional produce. The lodge sits within easy reach of the island's biggest names, with Seal Bay's wild sea lions about an hour's drive south and Flinders Chase National Park a worthwhile day-trip across the island.",
       "location_subheading": "Australia",
@@ -41,24 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-07-07 13:59:00"
-    },
-    {
-      "vendor_name": "Mercure Kangaroo Island Lodge",
-      "offer_country_name": "Australia",
-      "location_heading": "Kangaroo Island",
-      "title": "Tranquil Kangaroo Island Escape Overlooking American River Bay with Onsite Restaurant & Bar",
-      "description": "Experience Australia’s version of the Galapagos at this waterfront resort in Kangaroo Island, nestled between American River’s tranquil coves and native bushland. Enjoy well-appointed accommodations with stunning views, an onsite restaurant showcasing local produce, and easy access to nature trails. Spend days relaxing by the fireplace with a glass of local red wine, swim in the outdoor saltwater pool and explore island highlights like Stokes Bay and Admiral Arch.",
-      "location_subheading": "Australia",
-      "price": 325,
-      "original_price": 325,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlwcIAC",
-      "hero_image": "https://images.luxuryescapes.com/iynrqm4xqbxxbuu1pg0m",
-      "image_two": "https://images.luxuryescapes.com/04zfyaj93zteg3fykbg",
-      "image_three": "https://images.luxuryescapes.com/9k10qihh1r7epa5n3ce",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Sea Dragon Kangaroo Island",
@@ -114,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-02",
+    "last_updated": "2026-07-03",
     "hotel_count": 5,
-    "average_price": 1717,
+    "average_price": 1710,
     "average_discount": 25
   }
 }
