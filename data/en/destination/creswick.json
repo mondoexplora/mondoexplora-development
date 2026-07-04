@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Creswick",
   "description": "Discover the best hotels in Creswick, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ggxh1hx4owk55fm0suh",
+  "hero_image": "https://images.luxuryescapes.com/qmjxjhow8oaqr73gb41",
   "hotels": [
-    {
-      "vendor_name": "The Sebel Forest Resort Creswick",
-      "offer_country_name": "Australia",
-      "location_heading": "Creswick",
-      "title": "Charming Self-Contained Two-Bedroom Apartments near Daylesford & Hepburn Springs",
-      "description": "Escape the hustle and bustle of the city, and reconnect with friends and family during a relaxing stay at The Sebel Creswick Forest Resort, a private retreat nestled between the charming city of Ballarat and the mineral waters of Hepburn Springs. Surrounded by acres of lush greenery, this peaceful resort is the perfect group getaway, with gourmet dining options and local attractions within easy reach. The neighbouring RACV Goldfields Resort welcomes guests to their bar and restaurant, serving the finest local produce and cocktails alongside golf-course views and occasional live music. Creswick is well-known for its walking and cycling trails, cosy pubs, quaint cafes and forested landscapes that you can spend hours exploring.",
-      "location_subheading": "Australia",
-      "price": 329,
-      "original_price": 1028,
-      "discount_percentage": 68,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SgM8rYAF",
-      "hero_image": "https://images.luxuryescapes.com/ggxh1hx4owk55fm0suh",
-      "image_two": "https://images.luxuryescapes.com/o5g4yk1qz5hqm92f5moi",
-      "image_three": "https://images.luxuryescapes.com/83peuq4qg0w4jpjqdx",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 3,
-      "end_date_utc": "2026-07-23 13:59:00"
-    },
     {
       "vendor_name": "The Sebel Forest Resort Creswick",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Sebel Forest Resort Creswick",
+      "offer_country_name": "Australia",
+      "location_heading": "Creswick",
+      "title": "Charming Self-Contained Two-Bedroom Apartments near Daylesford & Hepburn Springs",
+      "description": "Escape the hustle and bustle of the city, and reconnect with friends and family during a relaxing stay at The Sebel Creswick Forest Resort, a private retreat nestled between the charming city of Ballarat and the mineral waters of Hepburn Springs. Surrounded by acres of lush greenery, this peaceful resort is the perfect group getaway, with gourmet dining options and local attractions within easy reach. The neighbouring RACV Goldfields Resort welcomes guests to their bar and restaurant, serving the finest local produce and cocktails alongside golf-course views and occasional live music. Creswick is well-known for its walking and cycling trails, cosy pubs, quaint cafes and forested landscapes that you can spend hours exploring.",
+      "location_subheading": "Australia",
+      "price": 329,
+      "original_price": 1028,
+      "discount_percentage": 68,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SgM8rYAF",
+      "hero_image": "https://images.luxuryescapes.com/ggxh1hx4owk55fm0suh",
+      "image_two": "https://images.luxuryescapes.com/o5g4yk1qz5hqm92f5moi",
+      "image_three": "https://images.luxuryescapes.com/83peuq4qg0w4jpjqdx",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-07-23 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-03",
+    "last_updated": "2026-07-04",
     "hotel_count": 2,
     "average_price": 382,
     "average_discount": 34
