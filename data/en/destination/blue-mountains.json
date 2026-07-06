@@ -82,24 +82,6 @@
       "vendor_name": "Parklands Country Gardens and Lodges",
       "offer_country_name": "Australia",
       "location_heading": "Blue Mountains",
-      "title": "Boutique Blue Mountains Elegance with Daily Breakfast & A$50 Dining Credit",
-      "description": "Leave it all behind for the impressive natural beauty of the UNESCO World Heritage-listed Blue Mountains with a stay at this romantic destination less than two hours from Sydney. Housed in a beautifully renovated heritage building, surrounded by acres of perfectly kept gardens reminiscent of a grand European estate, this secluded retreat is the ideal destination to relax and explore the Blue Mountains National Park in pure luxury. Days here can be spent discovering the national park (including the famous Three Sisters and Govetts Leap lookout) being pampered with spa treatments and embracing the tranquil atmosphere of this unique part of Australia. With a collection of just 28 spacious guestrooms spread across seven garden cottages, a stay at Parklands Country Gardens & Lodges will allow you to be at one with nature and unwind surrounded by the untouched beauty of the Blue Mountains.",
-      "location_subheading": "Australia",
-      "price": 339,
-      "original_price": 706,
-      "discount_percentage": 52,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SeMphYAF",
-      "hero_image": "https://images.luxuryescapes.com/b5o9em52y9p9u18itklg",
-      "image_two": "https://images.luxuryescapes.com/3uaaq0fhhk6ghcicx57",
-      "image_three": "https://images.luxuryescapes.com/xospxuc8n658f15spp9",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 2,
-      "end_date_utc": "2026-08-03 13:59:00"
-    },
-    {
-      "vendor_name": "Parklands Country Gardens and Lodges",
-      "offer_country_name": "Australia",
-      "location_heading": "Blue Mountains",
       "title": "Boutique Blue Mountains Retreat with Day Spa",
       "description": "Leave it all behind for the impressive natural beauty of the UNESCO World Heritage-listed Blue Mountains with a stay at the boutique Parklands Country Gardens and Lodges. Ideally located, days can be spent discovering the surrounding national park, wining and dining on local produce at the nearby town of Blackheath, and embracing the tranquil atmosphere of this unique part of Australia. Be sure to indulge with a hot stone massage at the onsite Parklands Day Spa.",
       "location_subheading": "Australia",
@@ -113,6 +95,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Parklands Country Gardens and Lodges",
+      "offer_country_name": "Australia",
+      "location_heading": "Blue Mountains",
+      "title": "Boutique Blue Mountains Elegance with Daily Breakfast & A$50 Dining Credit",
+      "description": "Leave it all behind for the impressive natural beauty of the UNESCO World Heritage-listed Blue Mountains with a stay at this romantic destination less than two hours from Sydney. Housed in a beautifully renovated heritage building, surrounded by acres of perfectly kept gardens reminiscent of a grand European estate, this secluded retreat is the ideal destination to relax and explore the Blue Mountains National Park in pure luxury. Days here can be spent discovering the national park (including the famous Three Sisters and Govetts Leap lookout) being pampered with spa treatments and embracing the tranquil atmosphere of this unique part of Australia. With a collection of just 28 spacious guestrooms spread across seven garden cottages, a stay at Parklands Country Gardens & Lodges will allow you to be at one with nature and unwind surrounded by the untouched beauty of the Blue Mountains.",
+      "location_subheading": "Australia",
+      "price": 339,
+      "original_price": 706,
+      "discount_percentage": 52,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SeMphYAF",
+      "hero_image": "https://images.luxuryescapes.com/b5o9em52y9p9u18itklg",
+      "image_two": "https://images.luxuryescapes.com/3uaaq0fhhk6ghcicx57",
+      "image_three": "https://images.luxuryescapes.com/xospxuc8n658f15spp9",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-08-03 13:59:00"
     },
     {
       "vendor_name": "Spicers Sangoma Retreat - Adults Only",
@@ -186,7 +186,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-05",
+    "last_updated": "2026-07-06",
     "hotel_count": 9,
     "average_price": 1178,
     "average_discount": 14

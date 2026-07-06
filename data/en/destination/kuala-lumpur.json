@@ -265,8 +265,8 @@
       "title": "Five-Star Sofitel Kuala Lumpur Glamour with Spa & Five Restaurants & Bars",
       "description": "From the iconic heights of the PETRONAS Twin Towers to the historic temples and vibrant markets of the past, immerse yourself in the sights of Malaysia’s dynamic capital from this elegant retreat. Located in one of Kuala Lumpur’s most upscale neighbourhoods, Damansara Heights - voted one of the coolest neighbourhoods in the world by Lonely Planet - you’ll be perfectly positioned to explore the city. After a day of exploration, retreat to your luxurious sanctuary, complete with a stunning swimming pool, offering an urban oasis amidst the glittering towers of Damansara. Unwind at the Sofitel SPA, or enjoy exquisite dining at five different restaurants, before sipping on a nightcap at Le Bar Cocktail & Stories.",
       "location_subheading": "Malaysia",
-      "price": 268,
-      "original_price": 268,
+      "price": 267,
+      "original_price": 267,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GWaAPYA1",
       "hero_image": "https://images.luxuryescapes.com/nykh20nd9758ipezxwn9",
@@ -352,24 +352,6 @@
       "vendor_name": "Sunway Resort Hotel & Spa",
       "offer_country_name": "Malaysia",
       "location_heading": "Kuala Lumpur",
-      "title": "Kuala Lumpur Sunway City Family Fun with Club Lounge Access, Daily Breakfast & Nightly Cocktails",
-      "description": "This opulent resort offers family fun wrapped in VIP luxuries, including daily access to the adults-only 20th Club or the family-friendly Premier Leisure Club with daily Kids Club entertainment. Just a 20-minute drive from the thriving metropolis of Kuala Lumpur, this is where Malay culture meets family adventure. After swimming under the main pool's waterfall, or splashing in the Waterventure kids' pool, gather your crew for culinary delights at any of the six distinctive dining venues, which include the renowned Gordon Ramsay Bar & Grill and Gordon Ramsay Street Pizza. Discover nature on the canopy walk or weave your way through the Golden Triangle district, home of the famous Petronas Towers. Shop your days away at the Sunway Pyramid mall, and when it's time to wind down, chill by one of the world's largest surf pools or indulge at the spa - there really is something for everyone.",
-      "location_subheading": "Malaysia",
-      "price": 359,
-      "original_price": 718,
-      "discount_percentage": 50,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000U2CQPYA3",
-      "hero_image": "https://images.luxuryescapes.com/98r4lqevw9vzkux9sl6j",
-      "image_two": "https://images.luxuryescapes.com/6bju4m4v64gdpsexvpji",
-      "image_three": "https://images.luxuryescapes.com/3cwxwryubltmq7e46xt",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 2,
-      "end_date_utc": "2026-07-31 13:59:00"
-    },
-    {
-      "vendor_name": "Sunway Resort Hotel & Spa",
-      "offer_country_name": "Malaysia",
-      "location_heading": "Kuala Lumpur",
       "title": "Five-Star Kuala Lumpur Sunway City Escape with Theme Park & Gordon Ramsay Restaurant",
       "description": "Seamlessly integrated with the Sunway City theme park, the opulent Sunway Resort Hotel offers guests the convenience of exploring elegant shopping and thrilling rides just moments away. Indulge with a myriad of dining options available across seven distinct precincts, while the hotel's spectacular rooms, suites, and villas promise to create cherished memories for the entire family.",
       "location_subheading": "Malaysia",
@@ -383,6 +365,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Sunway Resort Hotel & Spa",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Kuala Lumpur",
+      "title": "Kuala Lumpur Sunway City Family Fun with Club Lounge Access, Daily Breakfast & Nightly Cocktails",
+      "description": "This opulent resort offers family fun wrapped in VIP luxuries, including daily access to the adults-only 20th Club or the family-friendly Premier Leisure Club with daily Kids Club entertainment. Just a 20-minute drive from the thriving metropolis of Kuala Lumpur, this is where Malay culture meets family adventure. After swimming under the main pool's waterfall, or splashing in the Waterventure kids' pool, gather your crew for culinary delights at any of the six distinctive dining venues, which include the renowned Gordon Ramsay Bar & Grill and Gordon Ramsay Street Pizza. Discover nature on the canopy walk or weave your way through the Golden Triangle district, home of the famous Petronas Towers. Shop your days away at the Sunway Pyramid mall, and when it's time to wind down, chill by one of the world's largest surf pools or indulge at the spa - there really is something for everyone.",
+      "location_subheading": "Malaysia",
+      "price": 359,
+      "original_price": 718,
+      "discount_percentage": 50,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000U2CQPYA3",
+      "hero_image": "https://images.luxuryescapes.com/98r4lqevw9vzkux9sl6j",
+      "image_two": "https://images.luxuryescapes.com/6bju4m4v64gdpsexvpji",
+      "image_three": "https://images.luxuryescapes.com/3cwxwryubltmq7e46xt",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 2,
+      "end_date_utc": "2026-07-31 13:59:00"
     }
   ],
   "seo": {
@@ -402,7 +402,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-05",
+    "last_updated": "2026-07-06",
     "hotel_count": 21,
     "average_price": 331,
     "average_discount": 14

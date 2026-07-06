@@ -97,6 +97,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Rydges Resort Hunter Valley",
+      "offer_country_name": "Australia",
+      "location_heading": "Hunter Valley",
+      "title": "Back by Popular Demand: Hunter Valley Wine Country Hideaway with Daily Breakfast & Wine Tastings",
+      "description": "Perched among a myriad of cellar doors, this resort is the perfect countryside hideaway, just a few hours from Sydney. The region’s largest resort offers a tremendous number of things to see, sip and savour - settle into a pint at Sydney Brewery Hunter Valley, take a swing at Hunter Valley Golf Club or relax among the vines at Ubika Day Spa. Year-round, this slice of regional Australia earns its place among the best getaways to completely refresh and revitalise. It’s also the place to sink your teeth into a legendary farm-to-fork dining scene, with Gather restaurant plating up prime examples of the region’s best meats and wholefoods. When you’re ready to explore, Hunter Valley’s wine country has countless delights in store. Two wine-tasting experiences are included, covering tipples from a selection at Pepper Tree Winery and Mercer Wines, plus a beer and cider tasting paddle at Lovedale Brewbar to sample the region's craft brewing scene. Alternative adventures include the Hunter Valley Gardens and one of the country's most impressive arrays of local wineries and distilleries.",
+      "location_subheading": "Australia",
+      "price": 269,
+      "original_price": 498,
+      "discount_percentage": 46,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ULIogYAH",
+      "hero_image": "https://images.luxuryescapes.com/jpz45j7sqe5nazqs6c7g",
+      "image_two": "https://images.luxuryescapes.com/vqmsxgptnthmf0ej2irq",
+      "image_three": "https://images.luxuryescapes.com/iknyp3641qdvvhc4lr",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 2,
+      "end_date_utc": "2026-08-05 13:59:00"
+    },
+    {
       "vendor_name": "Spicers Vineyards Estate",
       "offer_country_name": "Australia",
       "location_heading": "Hunter Valley",
@@ -222,9 +240,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-05",
-    "hotel_count": 11,
-    "average_price": 607,
-    "average_discount": 18
+    "last_updated": "2026-07-06",
+    "hotel_count": 12,
+    "average_price": 579,
+    "average_discount": 20
   }
 }

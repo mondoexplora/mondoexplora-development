@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Sanctuary Cove",
   "description": "Discover the best hotels in Sanctuary Cove, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/40htmq7yz7bjphi9p2nb",
+  "hero_image": "https://images.luxuryescapes.com/5wrlxwgcgwu4zex7yn",
   "hotels": [
-    {
-      "vendor_name": "Intercontinental Sanctuary Cove",
-      "offer_country_name": "Australia",
-      "location_heading": "Sanctuary Cove",
-      "title": "Gold Coast Five-Star Sanctuary Cove Retreat with One-Acre Lagoon Beach Pool",
-      "description": "Fall in love with the Gold Coast's laidback atmosphere at InterContinental Sanctuary Cove Resort, an IHG Hotel. This idyllic hideaway is superbly set on 4.2-hectares of tropical gardens and boasts a sprawling one-acre lagoon pool and four exquisite dining destinations. The world-renowned Gold Coast theme parks are just a 10-minute drive away, and guests can also enjoy easy access to the tranquil Marine Village or critically-acclaimed golf course.",
-      "location_subheading": "Australia",
-      "price": 546,
-      "original_price": 546,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt5pAAB",
-      "hero_image": "https://images.luxuryescapes.com/40htmq7yz7bjphi9p2nb",
-      "image_two": "https://images.luxuryescapes.com/fr488b38rhzy8edc7aw",
-      "image_three": "https://images.luxuryescapes.com/6hptclvdmp93jfh4gaaj",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Intercontinental Sanctuary Cove",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 4,
       "end_date_utc": "2026-07-28 13:59:00"
+    },
+    {
+      "vendor_name": "Intercontinental Sanctuary Cove",
+      "offer_country_name": "Australia",
+      "location_heading": "Sanctuary Cove",
+      "title": "Gold Coast Five-Star Sanctuary Cove Retreat with One-Acre Lagoon Beach Pool",
+      "description": "Fall in love with the Gold Coast's laidback atmosphere at InterContinental Sanctuary Cove Resort, an IHG Hotel. This idyllic hideaway is superbly set on 4.2-hectares of tropical gardens and boasts a sprawling one-acre lagoon pool and four exquisite dining destinations. The world-renowned Gold Coast theme parks are just a 10-minute drive away, and guests can also enjoy easy access to the tranquil Marine Village or critically-acclaimed golf course.",
+      "location_subheading": "Australia",
+      "price": 546,
+      "original_price": 546,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt5pAAB",
+      "hero_image": "https://images.luxuryescapes.com/40htmq7yz7bjphi9p2nb",
+      "image_two": "https://images.luxuryescapes.com/fr488b38rhzy8edc7aw",
+      "image_three": "https://images.luxuryescapes.com/6hptclvdmp93jfh4gaaj",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-05",
+    "last_updated": "2026-07-06",
     "hotel_count": 2,
     "average_price": 733,
     "average_discount": 20

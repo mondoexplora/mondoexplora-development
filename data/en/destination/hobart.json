@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Hobart",
   "description": "Discover the best hotels in Hobart, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/bgemm3g0gmnsox8hpf8j",
+  "hero_image": "https://images.luxuryescapes.com/qdze3p5agva9ctujjqa",
   "hotels": [
-    {
-      "vendor_name": "Crowne Plaza Hobart",
-      "offer_country_name": "Australia",
-      "location_heading": "Hobart",
-      "title": "Stylish City Break in the Heart of Hobart with Rooftop Bar",
-      "description": "Escape to the heart of Hobart with a stay at Crowne Plaza Hobart, an IHG Hotel, masterfully positioned on Liverpool Street near a bustling collection of cafés, boutiques and historic theatres. Admire stunning views of mighty Mt. Wellington over espressotinis at rooftop bar The Deck or feast on grilled, market-fresh seafood at Core restaurant and bar, serving seasonal plates backed by Tasmania's succulent local produce - a shining example of what makes Hobart’s culinary culture so brilliant.",
-      "location_subheading": "Australia",
-      "price": 327,
-      "original_price": 327,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt5YAAR",
-      "hero_image": "https://images.luxuryescapes.com/bgemm3g0gmnsox8hpf8j",
-      "image_two": "https://images.luxuryescapes.com/29czulh6x5bagp8yt8ei",
-      "image_three": "https://images.luxuryescapes.com/jly55m25soxmitqc4n8b",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Crowne Plaza Hobart",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 2,
       "end_date_utc": "2026-08-05 13:59:00"
+    },
+    {
+      "vendor_name": "Crowne Plaza Hobart",
+      "offer_country_name": "Australia",
+      "location_heading": "Hobart",
+      "title": "Stylish City Break in the Heart of Hobart with Rooftop Bar",
+      "description": "Escape to the heart of Hobart with a stay at Crowne Plaza Hobart, an IHG Hotel, masterfully positioned on Liverpool Street near a bustling collection of cafés, boutiques and historic theatres. Admire stunning views of mighty Mt. Wellington over espressotinis at rooftop bar The Deck or feast on grilled, market-fresh seafood at Core restaurant and bar, serving seasonal plates backed by Tasmania's succulent local produce - a shining example of what makes Hobart’s culinary culture so brilliant.",
+      "location_subheading": "Australia",
+      "price": 327,
+      "original_price": 327,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt5YAAR",
+      "hero_image": "https://images.luxuryescapes.com/bgemm3g0gmnsox8hpf8j",
+      "image_two": "https://images.luxuryescapes.com/29czulh6x5bagp8yt8ei",
+      "image_three": "https://images.luxuryescapes.com/jly55m25soxmitqc4n8b",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Hotel Grand Chancellor Hobart",
@@ -247,8 +247,8 @@
       "title": "Convenient Hobart CBD Retreat with Onsite Bar, Restaurant & Pool",
       "description": "Discover contemporary Tasmanian flair in the heart of Hobart, where bustling Salamanca Market, the historic Battery Point precinct and the waterfront’s acclaimed MONA ferry terminal are all within easy reach. All rooms features playful design touches, and the heated indoor pool and modern fitness centre offer a welcome retreat after days spent exploring. Savour Asian-inspired plates at the hotel’s renowned restaurant Mr. Good Guy, or stroll to nearby Franklin Wharf for freshly shucked oysters and craft drinks. The bustling Elizabeth Street precinct, lined with artisan bakeries and independent boutiques, is just a short walk away.",
       "location_subheading": "Australia",
-      "price": 226,
-      "original_price": 226,
+      "price": 228,
+      "original_price": 228,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000M5lUmYAJ",
       "hero_image": "https://images.luxuryescapes.com/f95rkvgc4wjwoc5exu14v",
@@ -276,7 +276,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-05",
+    "last_updated": "2026-07-06",
     "hotel_count": 14,
     "average_price": 311,
     "average_discount": 7

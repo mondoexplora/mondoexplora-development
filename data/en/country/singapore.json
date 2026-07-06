@@ -21,16 +21,7 @@
       "description": "Explore Sentosa Island with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 2037
-    },
-    {
-      "name": "Tanglin",
-      "slug": "tanglin",
-      "image": "https://images.luxuryescapes.com/b7nhyral4nkxczom6iwv",
-      "description": "Explore Tanglin with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 501
+      "avg_price": 2057
     },
     {
       "name": "Orchard Road",
@@ -42,13 +33,22 @@
       "avg_price": 608
     },
     {
+      "name": "Tanglin",
+      "slug": "tanglin",
+      "image": "https://images.luxuryescapes.com/b7nhyral4nkxczom6iwv",
+      "description": "Explore Tanglin with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 413
+    },
+    {
       "name": "Orchard",
       "slug": "orchard",
       "image": "https://images.luxuryescapes.com/qj5cju4deee36sve9f1i",
       "description": "Explore Orchard with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 738
+      "avg_price": 744
     }
   ],
   "seo": {
