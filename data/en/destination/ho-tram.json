@@ -4,26 +4,8 @@
   "country_code": "VN",
   "hero_title": "Hotels in Ho Tram",
   "description": "Discover the best hotels in Ho Tram, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/yuyqrt5q9a52i8orab7",
+  "hero_image": "https://images.luxuryescapes.com/dyj89jne3okqo8yvk5",
   "hotels": [
-    {
-      "vendor_name": "Angsana Ho Tram",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Ho Tram",
-      "title": "Vietnam Beachfront Suites & Villas with All-Inclusive Dining, Nightly Cocktails & Massages",
-      "description": "Experience a serene retreat on the tranquil shores of Ho Tram, just two hours from the energy of Ho Chi Minh City. Here, the city’s hum fades into silence, replaced by the soothing rhythms of the sea and swaying palms. Stroll along the Serenity Stream Walk to explore the powder-white sands or laze by the swimming pool while the kids make a splash at Play Play Kids’ Club. With the little ones occupied or enjoying the hotel's movie nights, discover the healing power of ginger, candlenut and frangipani at Angsana Spa, or find your zen with yoga and tai chi classes. During mealtimes, Ho Tram’s scenery takes centre stage, whether you’re dining on Mediterranean fare overlooking the beach at Azura, sipping cocktails in the ocean breeze at Maila Poolbar or savouring Vietnamese classics surrounded by tropical foliage at Nook.",
-      "location_subheading": "Vietnam",
-      "price": 699,
-      "original_price": 1792,
-      "discount_percentage": 61,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TOOV8YAP",
-      "hero_image": "https://images.luxuryescapes.com/yuyqrt5q9a52i8orab7",
-      "image_two": "https://images.luxuryescapes.com/5zwnw1ai4ig5iqas2ke",
-      "image_three": "https://images.luxuryescapes.com/obxodw7j1qsvinxdta1v",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 5,
-      "end_date_utc": "2026-07-07 13:59:00"
-    },
     {
       "vendor_name": "Angsana Ho Tram",
       "offer_country_name": "Vietnam",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Angsana Ho Tram",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Ho Tram",
+      "title": "Vietnam Beachfront Suites & Villas with All-Inclusive Dining, Nightly Cocktails & Massages",
+      "description": "Experience a serene retreat on the tranquil shores of Ho Tram, just two hours from the energy of Ho Chi Minh City. Here, the city’s hum fades into silence, replaced by the soothing rhythms of the sea and swaying palms. Stroll along the Serenity Stream Walk to explore the powder-white sands or laze by the swimming pool while the kids make a splash at Play Play Kids’ Club. With the little ones occupied or enjoying the hotel's movie nights, discover the healing power of ginger, candlenut and frangipani at Angsana Spa, or find your zen with yoga and tai chi classes. During mealtimes, Ho Tram’s scenery takes centre stage, whether you’re dining on Mediterranean fare overlooking the beach at Azura, sipping cocktails in the ocean breeze at Maila Poolbar or savouring Vietnamese classics surrounded by tropical foliage at Nook.",
+      "location_subheading": "Vietnam",
+      "price": 699,
+      "original_price": 1792,
+      "discount_percentage": 61,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TOOV8YAP",
+      "hero_image": "https://images.luxuryescapes.com/yuyqrt5q9a52i8orab7",
+      "image_two": "https://images.luxuryescapes.com/5zwnw1ai4ig5iqas2ke",
+      "image_three": "https://images.luxuryescapes.com/obxodw7j1qsvinxdta1v",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-07-07 13:59:00"
     },
     {
       "vendor_name": "Dhawa Ho Tram",
@@ -114,7 +114,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-06",
+    "last_updated": "2026-07-07",
     "hotel_count": 5,
     "average_price": 560,
     "average_discount": 23

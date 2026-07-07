@@ -15,6 +15,15 @@
       "avg_price": 808
     },
     {
+      "name": "Florence",
+      "slug": "florence",
+      "image": "https://images.luxuryescapes.com/zplh7zqs3a5x21rxrjey",
+      "description": "Explore Florence with luxury accommodations",
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 944
+    },
+    {
       "name": "Milan",
       "slug": "milan",
       "image": "https://images.luxuryescapes.com/kaj4xni2qya76r3pgi8",
@@ -22,15 +31,6 @@
       "hotel_count": 5,
       "hotel_deals": 5,
       "avg_price": 470
-    },
-    {
-      "name": "Florence",
-      "slug": "florence",
-      "image": "https://images.luxuryescapes.com/zplh7zqs3a5x21rxrjey",
-      "description": "Explore Florence with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 551
     },
     {
       "name": "Venice",
@@ -48,7 +48,7 @@
       "description": "Explore Verona with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 391
+      "avg_price": 379
     },
     {
       "name": "Anacapri",

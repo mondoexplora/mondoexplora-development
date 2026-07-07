@@ -25,6 +25,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "COMO Castello Del Nero",
+      "offer_country_name": "Italy",
+      "location_heading": "Florence",
+      "title": "Elegant Five-Star Tuscan Retreat with Michelin-Starred Restaurant",
+      "description": "Escape to the rolling hills of Tuscany with a dreamy five-star stay at COMO Castello Del Nero, a breathtaking 12th-century castle draped with Renaissance frescoes. Wake up in elegant Italian style each morning and enjoy the quintessential Tuscan scenery straight from a fairy tale. This pristine retreat is located 40 minutes from Florence and is the gateway to the region’s world-class Chianti vineyards and olive groves dotted across the hilltops. Indulge at the COMO Shambhala Retreat, where the bespoke treatments induce deep relaxation and restore balance to the mind, body and soul. Bask by the turquoise pool, before embarking on a culinary journey at the Michelin-starred La Torre restaurant, which uses local produce to enhance the authentic flavours and spirit of the region.",
+      "location_subheading": "Italy",
+      "price": 2905,
+      "original_price": 2905,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNxEZAA1",
+      "hero_image": "https://images.luxuryescapes.com/nmrii1lk3oh807myu5f",
+      "image_two": "https://images.luxuryescapes.com/vxlf58ajn8eq65yn390j",
+      "image_three": "https://images.luxuryescapes.com/bzuvdjr7tjuczuxewmq",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Hotel Cerretani Firenze - MGallery Collection",
       "offer_country_name": "Italy",
       "location_heading": "Florence",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-06",
-    "hotel_count": 5,
-    "average_price": 551,
-    "average_discount": 9
+    "last_updated": "2026-07-07",
+    "hotel_count": 6,
+    "average_price": 944,
+    "average_discount": 8
   }
 }
