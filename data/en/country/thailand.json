@@ -3,16 +3,16 @@
   "code": "TH",
   "hero_title": "Thailand Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Thailand.",
-  "hero_image": "https://images.luxuryescapes.com/c5241ajuon7gfafaifqw",
+  "hero_image": "https://images.luxuryescapes.com/npnlanii4m0sfc4nqrj",
   "popular_destinations": [
     {
       "name": "Phuket",
       "slug": "phuket",
-      "image": "https://images.luxuryescapes.com/c5241ajuon7gfafaifqw",
+      "image": "https://images.luxuryescapes.com/npnlanii4m0sfc4nqrj",
       "description": "Explore Phuket with luxury accommodations",
-      "hotel_count": 45,
-      "hotel_deals": 45,
-      "avg_price": 818
+      "hotel_count": 46,
+      "hotel_deals": 46,
+      "avg_price": 841
     },
     {
       "name": "Bangkok",
@@ -30,16 +30,7 @@
       "description": "Explore Koh Samui with luxury accommodations",
       "hotel_count": 18,
       "hotel_deals": 18,
-      "avg_price": 1349
-    },
-    {
-      "name": "Khao Lak",
-      "slug": "khao-lak",
-      "image": "https://images.luxuryescapes.com/8z14h4n1tffr0mgyq1g7",
-      "description": "Explore Khao Lak with luxury accommodations",
-      "hotel_count": 10,
-      "hotel_deals": 10,
-      "avg_price": 343
+      "avg_price": 1350
     },
     {
       "name": "Hua Hin",
@@ -48,7 +39,16 @@
       "description": "Explore Hua Hin with luxury accommodations",
       "hotel_count": 10,
       "hotel_deals": 10,
-      "avg_price": 542
+      "avg_price": 574
+    },
+    {
+      "name": "Khao Lak",
+      "slug": "khao-lak",
+      "image": "https://images.luxuryescapes.com/8z14h4n1tffr0mgyq1g7",
+      "description": "Explore Khao Lak with luxury accommodations",
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 325
     },
     {
       "name": "Pattaya",
@@ -57,7 +57,7 @@
       "description": "Explore Pattaya with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 467
+      "avg_price": 468
     }
   ],
   "seo": {

@@ -46,24 +46,6 @@
       "vendor_name": "Peppers Broadbeach",
       "offer_country_name": "Australia",
       "location_heading": "Broadbeach",
-      "title": "Sparkling Broadbeach Suite Stay in Shopping & Dining Precinct with Pool, Sauna & Outdoor Spa",
-      "description": "Embrace the easy-going glamour of the Gold Coast with a stay at Peppers Broadbeach. In the heart of Broadbeach's dining and shopping scene, just moments from the golden sands of Kurrawa Beach, this relaxing retreat offers stunning ocean views from each of the private balconies extending from the modern suites and apartments. Spend your days exploring the best local eats, spend an afternoon wandering the hotel's gardens, or take a dip in the pool followed by a sauna session.",
-      "location_subheading": "Australia",
-      "price": 450,
-      "original_price": 450,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Gw9gLAAR",
-      "hero_image": "https://images.luxuryescapes.com/qgd6g6ju1al7kwf92r5n",
-      "image_two": "https://images.luxuryescapes.com/xqe1ouux46wuexkml3qi",
-      "image_three": "https://images.luxuryescapes.com/yywjyyazle7z3672iv4m",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Peppers Broadbeach",
-      "offer_country_name": "Australia",
-      "location_heading": "Broadbeach",
       "title": "Gold Coast Family Fun: Broadbeach Two-Bedroom Suites for Four Guests with Unlimited Dreamworld Entry",
       "description": "Soak up the Gold Coast’s beachside buzz at this sleek all-suite sanctuary rising above the action. Just steps from Kurrawa Beach and surrounded by Broadbeach’s top dining, shopping and entertainment, this coastal escape pairs laid-back luxury with unbeatable comfort. Settle into your self-contained suite, with all the space and convenience of home. Then, step beyond the every day with an impressive range of facilities, including two fitness centres, two sparkling pools, a private cinema and a BBQ area perfect for balmy evenings. When it’s time to explore, you’re perfectly placed for the Gold Coast’s best. Stroll to The Star Gold Coast and Pacific Fair Shopping Centre, or hop on the nearby G:link tram to reach attractions across the region. Enjoy unlimited entry to Dreamworld for all-day thrills, or take in sweeping coastal views from SkyPoint at the top of the iconic Q1 building - perfect for families or small groups of friends.",
       "location_subheading": "Australia",
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 5,
       "end_date_utc": "2026-07-28 13:59:00"
+    },
+    {
+      "vendor_name": "Peppers Broadbeach",
+      "offer_country_name": "Australia",
+      "location_heading": "Broadbeach",
+      "title": "Sparkling Broadbeach Suite Stay in Shopping & Dining Precinct with Pool, Sauna & Outdoor Spa",
+      "description": "Embrace the easy-going glamour of the Gold Coast with a stay at Peppers Broadbeach. In the heart of Broadbeach's dining and shopping scene, just moments from the golden sands of Kurrawa Beach, this relaxing retreat offers stunning ocean views from each of the private balconies extending from the modern suites and apartments. Spend your days exploring the best local eats, spend an afternoon wandering the hotel's gardens, or take a dip in the pool followed by a sauna session.",
+      "location_subheading": "Australia",
+      "price": 455,
+      "original_price": 455,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Gw9gLAAR",
+      "hero_image": "https://images.luxuryescapes.com/qgd6g6ju1al7kwf92r5n",
+      "image_two": "https://images.luxuryescapes.com/xqe1ouux46wuexkml3qi",
+      "image_three": "https://images.luxuryescapes.com/yywjyyazle7z3672iv4m",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Sofitel Gold Coast Broadbeach",
@@ -114,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-08",
+    "last_updated": "2026-07-09",
     "hotel_count": 5,
-    "average_price": 499,
+    "average_price": 500,
     "average_discount": 14
   }
 }
