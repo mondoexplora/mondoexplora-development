@@ -295,6 +295,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Les Jardins du Marais",
+      "offer_country_name": "France",
+      "location_heading": "Paris",
+      "title": "Boutique Paris Elegance with Private Garden Terrace, Daily Breakfast & Nightly Cocktails",
+      "description": "Located in the heart of Paris, Les Jardins du Marais redefines boutique luxury with a discreet facade that hides a world of refined elegance. Take a break in Le Bar and discover a selection of cocktails and fine wines in a charming ambience, or head to the Spa du Marais, a radiant exposed stone and marble sanctuary that promises a blissful escape. Step outside into one of Paris’ most remarkable private terraces, a surprising green oasis that plays masterfully with space and light. Inside, the hotel’s intimate cinema offers a unique personal movie experience. Just moments away, the Place des Vosges invites you to admire 17th-century architecture, while the world-renowned Centre Pompidou stands ready to dazzle art enthusiasts.",
+      "location_subheading": "France",
+      "price": 319,
+      "original_price": 967,
+      "discount_percentage": 67,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000WY79WYAT",
+      "hero_image": "https://images.luxuryescapes.com/w9abgm0uppkfjcozsjj",
+      "image_two": "https://images.luxuryescapes.com/6m525b0k5nxanyo1d4uq",
+      "image_three": "https://images.luxuryescapes.com/wegybc4o858dm9j83ks",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-07-31 13:59:00"
+    },
+    {
       "vendor_name": "Maison Albar Hotels Le Diamond",
       "offer_country_name": "France",
       "location_heading": "Paris",
@@ -463,8 +481,8 @@
       "title": "Quintessential Paris Sofitel Luxury Near Champs-Elysées with Exquisite Onsite Dining",
       "description": "Nestled near the elegant Champs-Élysées, this 5-star Sofitel hotel invites indulgence in Parisian luxury. With the striking elegance of a Haussmannian façade and interiors curated by renowned designers, this haven blends warmth and sophistication. Revel in breathtaking Paris views, explore world-class museums, and indulge in high fashion throughout the famous 8th arrondissement. Unwind in rooms and suites designed for relaxation. Savour famous chef Christian Constant's bistro-style creations at Les Cocottes Arc de Triomphe Restaurant, where exquisite cuisine meets a relaxed, sunlit ambience. This is an invitation to experience Paris at its finest.",
       "location_subheading": "France",
-      "price": 1379,
-      "original_price": 1379,
+      "price": 1363,
+      "original_price": 1363,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GWYF4YAP",
       "hero_image": "https://images.luxuryescapes.com/japl8du16jh59bcbbdue",
@@ -546,9 +564,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-09",
-    "hotel_count": 29,
-    "average_price": 1181,
-    "average_discount": 5
+    "last_updated": "2026-07-10",
+    "hotel_count": 30,
+    "average_price": 1152,
+    "average_discount": 7
   }
 }

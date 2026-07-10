@@ -41,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Sebel Resort Noosa",
+      "offer_country_name": "Australia",
+      "location_heading": "Noosa Heads",
+      "title": "Modern Noosa Apartment Stay on Hastings Street Close to Noosa Main Beach",
+      "description": "Experience quintessential Sunshine Coast bliss at The Sebel Noosa, nestled in the heart of Hastings Street. This stylish home-away-from-home is a stone's throw from Noosa's Main Beach and the tranquil waters of the Noosa River. Indulge at local eateries, explore the boutique shops of Hastings Street, hike in the hinterlands and enjoy endless fun in the sun. Back at the resort, stretch out in your spacious apartment or take a dip in the sparkling pool.",
+      "location_subheading": "Australia",
+      "price": 596,
+      "original_price": 596,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Gw9gMAAR",
+      "hero_image": "https://images.luxuryescapes.com/nm705fhyz69og4wq883nl",
+      "image_two": "https://images.luxuryescapes.com/trmoonoiofy8s59otkbf",
+      "image_three": "https://images.luxuryescapes.com/rkdsu6ldbt11jpfa3i",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-09",
-    "hotel_count": 2,
-    "average_price": 524,
+    "last_updated": "2026-07-10",
+    "hotel_count": 3,
+    "average_price": 548,
     "average_discount": 0
   }
 }
