@@ -61,6 +61,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "M Social Resort Penang",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Penang",
+      "title": "Malaysia Coastal Bliss with Daily Breakfast, Nightly Dinner, Free-Flow Drinks Hour & Rooftop Pool",
+      "description": "Set on Penang’s lively Tanjung Bungah coastline, this contemporary resort places you between the island’s northern beaches and George Town’s UNESCO-listed streets. Floor-to-ceiling windows frame views of the Straits of Malacca, while the nearby Penang Botanic Gardens and Batu Ferringhi are within easy reach. Unwind at the resort’s rooftop pool and savour signature cocktails at Breezy Bites pool bar, then discover the rich flavours of Penang at Beast & Butterflies restaurant. Enjoy access to a small beach for lazy afternoons, and be sure to head into George Town for char kway teow at Siam Road, heritage shophouses along Armenian Street and Nyonya fare at Kebaya Dining Room.",
+      "location_subheading": "Malaysia",
+      "price": 359,
+      "original_price": 665,
+      "discount_percentage": 46,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000U5d9AYAR",
+      "hero_image": "https://images.luxuryescapes.com/q20hu90z99dpqlnphvzq",
+      "image_two": "https://images.luxuryescapes.com/upt3tp8k6qbkf65af4h",
+      "image_three": "https://images.luxuryescapes.com/9dun0172hej0hleyn569",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 4,
+      "end_date_utc": "2026-09-07 13:59:00"
+    },
+    {
       "vendor_name": "Mercure Penang Beach",
       "offer_country_name": "Malaysia",
       "location_heading": "Penang",
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-12",
-    "hotel_count": 6,
-    "average_price": 283,
-    "average_discount": 4
+    "last_updated": "2026-07-13",
+    "hotel_count": 7,
+    "average_price": 294,
+    "average_discount": 10
   }
 }
