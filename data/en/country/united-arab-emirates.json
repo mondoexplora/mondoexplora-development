@@ -3,43 +3,34 @@
   "code": "AE",
   "hero_title": "United Arab Emirates Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in United Arab Emirates.",
-  "hero_image": "https://images.luxuryescapes.com/bk11fbt9fad6gcgfp96e",
+  "hero_image": "https://images.luxuryescapes.com/mu52um8s5msp1ad7u2ti",
   "popular_destinations": [
     {
       "name": "Dubai",
       "slug": "dubai",
-      "image": "https://images.luxuryescapes.com/bk11fbt9fad6gcgfp96e",
+      "image": "https://images.luxuryescapes.com/mu52um8s5msp1ad7u2ti",
       "description": "Explore Dubai with luxury accommodations",
-      "hotel_count": 80,
-      "hotel_deals": 80,
-      "avg_price": 546
+      "hotel_count": 63,
+      "hotel_deals": 63,
+      "avg_price": 493
     },
     {
       "name": "Abu Dhabi",
       "slug": "abu-dhabi",
-      "image": "https://images.luxuryescapes.com/4zoo8zwdzjnsm4hmlfv9",
+      "image": "https://images.luxuryescapes.com/55nk17s9b79a63mk2u5",
       "description": "Explore Abu Dhabi with luxury accommodations",
-      "hotel_count": 15,
-      "hotel_deals": 15,
-      "avg_price": 879
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 884
     },
     {
       "name": "Ras Al Khaimah",
       "slug": "ras-al-khaimah",
-      "image": "https://images.luxuryescapes.com/zhfhaguori9dqsg2jdl8",
+      "image": "https://images.luxuryescapes.com/i14i9j1o4ci9cu4qgx4h",
       "description": "Explore Ras Al Khaimah with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 378
-    },
-    {
-      "name": "Fujairah",
-      "slug": "fujairah",
-      "image": "https://images.luxuryescapes.com/rus8eegknojpcg0z1n",
-      "description": "Explore Fujairah with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 339
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 386
     },
     {
       "name": "Sharjah",
@@ -51,13 +42,13 @@
       "avg_price": 160
     },
     {
-      "name": "Ajman",
-      "slug": "ajman",
-      "image": "https://images.luxuryescapes.com/gf586qrpa3aara4wbm29",
-      "description": "Explore Ajman with luxury accommodations",
+      "name": "Fujairah",
+      "slug": "fujairah",
+      "image": "https://images.luxuryescapes.com/rus8eegknojpcg0z1n",
+      "description": "Explore Fujairah with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 271
+      "avg_price": 305
     }
   ],
   "seo": {

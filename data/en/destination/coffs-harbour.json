@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Coffs Harbour",
   "description": "Discover the best hotels in Coffs Harbour, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/w112qm2wzm4iabz6m4np",
+  "hero_image": "https://images.luxuryescapes.com/pb9rf8cyjvpvb5tccsrf",
   "hotels": [
-    {
-      "vendor_name": "BreakFree Aanuka Beach Resort",
-      "offer_country_name": "Australia",
-      "location_heading": "Coffs Harbour",
-      "title": "Tropical Beachfront Coffs Harbour Escape with Three Pools, Tennis Courts & Day Spa",
-      "description": "Immerse yourself in uninterrupted coastal bliss at this relaxed, tropical-style resort, conveniently positioned on the stunning shores of Diggers Beach, Coffs Harbour. Savour the perfect blend of seaside fun and relaxation with three pools, three tennis courts and a tranquil day spa for all your pampering needs. Unwind in the elegantly appointed rooms and villas, and indulge in local cuisine at the two onsite restaurants, overlooking the beach. You'll never be lost for activities with everything from mini golf to beach volleyball. Beyond the resort, there is also the Coffs Harbour Marina and the renowned The Big Banana Fun Park nearby - ideal for some family-friendly fun!",
-      "location_subheading": "Australia",
-      "price": 239,
-      "original_price": 239,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRerWAAT",
-      "hero_image": "https://images.luxuryescapes.com/w112qm2wzm4iabz6m4np",
-      "image_two": "https://images.luxuryescapes.com/tnn21idhzlccp1x9xzqvm",
-      "image_three": "https://images.luxuryescapes.com/phnr9vr0tougne9d73i",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Nautilus Beach Resort by Charlesworth",
       "offer_country_name": "Australia",
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "BreakFree Aanuka Beach Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Coffs Harbour",
+      "title": "Tropical Beachfront Coffs Harbour Escape with Three Pools, Tennis Courts & Day Spa",
+      "description": "Immerse yourself in uninterrupted coastal bliss at this relaxed, tropical-style resort, conveniently positioned on the stunning shores of Diggers Beach, Coffs Harbour. Savour the perfect blend of seaside fun and relaxation with three pools, three tennis courts and a tranquil day spa for all your pampering needs. Unwind in the elegantly appointed rooms and villas, and indulge in local cuisine at the two onsite restaurants, overlooking the beach. You'll never be lost for activities with everything from mini golf to beach volleyball. Beyond the resort, there is also the Coffs Harbour Marina and the renowned The Big Banana Fun Park nearby - ideal for some family-friendly fun!",
+      "location_subheading": "Australia",
+      "price": 238,
+      "original_price": 238,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRerWAAT",
+      "hero_image": "https://images.luxuryescapes.com/w112qm2wzm4iabz6m4np",
+      "image_two": "https://images.luxuryescapes.com/tnn21idhzlccp1x9xzqvm",
+      "image_three": "https://images.luxuryescapes.com/phnr9vr0tougne9d73i",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-13",
+    "last_updated": "2026-07-14",
     "hotel_count": 3,
     "average_price": 241,
     "average_discount": 13

@@ -3,61 +3,61 @@
   "code": "AU",
   "hero_title": "Australia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Australia.",
-  "hero_image": "https://images.luxuryescapes.com/hlmi6k6ud5fce8j8z0p",
+  "hero_image": "https://images.luxuryescapes.com/gaz2wlctco6i68pn3r6s",
   "popular_destinations": [
     {
       "name": "Sydney",
       "slug": "sydney",
-      "image": "https://images.luxuryescapes.com/hlmi6k6ud5fce8j8z0p",
+      "image": "https://images.luxuryescapes.com/gaz2wlctco6i68pn3r6s",
       "description": "Explore Sydney with luxury accommodations",
-      "hotel_count": 70,
-      "hotel_deals": 70,
-      "avg_price": 478
+      "hotel_count": 46,
+      "hotel_deals": 46,
+      "avg_price": 430
     },
     {
       "name": "Melbourne",
       "slug": "melbourne",
-      "image": "https://images.luxuryescapes.com/dpkfunte11jazg8whie",
+      "image": "https://images.luxuryescapes.com/kx5ug8dgdfl9ue45nbrq",
       "description": "Explore Melbourne with luxury accommodations",
-      "hotel_count": 66,
-      "hotel_deals": 66,
-      "avg_price": 348
+      "hotel_count": 31,
+      "hotel_deals": 31,
+      "avg_price": 338
     },
     {
       "name": "Brisbane",
       "slug": "brisbane",
-      "image": "https://images.luxuryescapes.com/ivrsdu2d982sm4v3ha3",
+      "image": "https://images.luxuryescapes.com/tzuptgppe8v8ccoowry",
       "description": "Explore Brisbane with luxury accommodations",
-      "hotel_count": 38,
-      "hotel_deals": 38,
-      "avg_price": 420
+      "hotel_count": 24,
+      "hotel_deals": 24,
+      "avg_price": 437
     },
     {
       "name": "Adelaide",
       "slug": "adelaide",
-      "image": "https://images.luxuryescapes.com/xxk1kjw6xoccof9p9yqt",
+      "image": "https://images.luxuryescapes.com/a8nuj1a01413mvr5fnk8",
       "description": "Explore Adelaide with luxury accommodations",
-      "hotel_count": 33,
-      "hotel_deals": 33,
+      "hotel_count": 14,
+      "hotel_deals": 14,
       "avg_price": 330
-    },
-    {
-      "name": "Gold Coast",
-      "slug": "gold-coast",
-      "image": "https://images.luxuryescapes.com/ebmp305xdst7g33h3ss",
-      "description": "Explore Gold Coast with luxury accommodations",
-      "hotel_count": 24,
-      "hotel_deals": 24,
-      "avg_price": 596
     },
     {
       "name": "Perth",
       "slug": "perth",
-      "image": "https://images.luxuryescapes.com/lx0kop4ioo2y351tm2fi",
+      "image": "https://images.luxuryescapes.com/p5vfebgaeac2cbfh19xb",
       "description": "Explore Perth with luxury accommodations",
-      "hotel_count": 20,
-      "hotel_deals": 20,
-      "avg_price": 429
+      "hotel_count": 13,
+      "hotel_deals": 13,
+      "avg_price": 345
+    },
+    {
+      "name": "Port Douglas",
+      "slug": "port-douglas",
+      "image": "https://images.luxuryescapes.com/v4yhee7kqt6ttk1q403",
+      "description": "Explore Port Douglas with luxury accommodations",
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 441
     }
   ],
   "seo": {

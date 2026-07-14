@@ -3,17 +3,8 @@
   "code": "CO",
   "hero_title": "Colombia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Colombia.",
-  "hero_image": "https://images.luxuryescapes.com/000u1s1xqnnthmvyuqq",
+  "hero_image": "https://images.luxuryescapes.com/wdwumxf61bdm5xw7kvz",
   "popular_destinations": [
-    {
-      "name": "Cartagena",
-      "slug": "cartagena",
-      "image": "https://images.luxuryescapes.com/000u1s1xqnnthmvyuqq",
-      "description": "Explore Cartagena with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 834
-    },
     {
       "name": "Bogota",
       "slug": "bogota",
@@ -21,7 +12,16 @@
       "description": "Explore Bogota with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 625
+      "avg_price": 626
+    },
+    {
+      "name": "Cartagena",
+      "slug": "cartagena",
+      "image": "https://images.luxuryescapes.com/000u1s1xqnnthmvyuqq",
+      "description": "Explore Cartagena with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 841
     }
   ],
   "seo": {

@@ -4,8 +4,26 @@
   "country_code": "DE",
   "hero_title": "Hotels in Hamburg",
   "description": "Discover the best hotels in Hamburg, Germany. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/tfes5lgqtc1dwksjv6n7",
+  "hero_image": "https://images.luxuryescapes.com/zbugy45qbt17kdx7jj",
   "hotels": [
+    {
+      "vendor_name": "Crowne Plaza Hamburg - City Alster",
+      "offer_country_name": "Germany",
+      "location_heading": "Hamburg",
+      "title": "Hamburg Stylish Lakeview Stay near St Georg",
+      "description": "Overlooking the serene Alster Lakes and only minutes from Hamburg's St Georg district, Crowne Plaza Hamburg - City Alster, an IHG Hotel, is a stylish stay in the heart of this vibrant city. Feel refreshed in a serene guest room with lake views or invigorate your body and mind in the fitness centre. Savour a light lunch or tasty treat at The Plaza lobby bar or embark on a lively and colourful adventure exploring the galleries, cafes, boutiques and bars of this trendy city.",
+      "location_subheading": "Germany",
+      "price": 301,
+      "original_price": 301,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJZTAA5",
+      "hero_image": "https://images.luxuryescapes.com/zbugy45qbt17kdx7jj",
+      "image_two": "https://images.luxuryescapes.com/62wv6qvhxm8ecyfldb5",
+      "image_three": "https://images.luxuryescapes.com/2h05n0v4q9c7pteflggl",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
     {
       "vendor_name": "25hours Hotel Hamburg HafenCity",
       "offer_country_name": "Germany",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Crowne Plaza Hamburg - City Alster",
-      "offer_country_name": "Germany",
-      "location_heading": "Hamburg",
-      "title": "Hamburg Stylish Lakeview Stay near St Georg",
-      "description": "Overlooking the serene Alster Lakes and only minutes from Hamburg's St Georg district, Crowne Plaza Hamburg - City Alster, an IHG Hotel, is a stylish stay in the heart of this vibrant city. Feel refreshed in a serene guest room with lake views or invigorate your body and mind in the fitness centre. Savour a light lunch or tasty treat at The Plaza lobby bar or embark on a lively and colourful adventure exploring the galleries, cafes, boutiques and bars of this trendy city.",
-      "location_subheading": "Germany",
-      "price": 303,
-      "original_price": 303,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJZTAA5",
-      "hero_image": "https://images.luxuryescapes.com/zbugy45qbt17kdx7jj",
-      "image_two": "https://images.luxuryescapes.com/62wv6qvhxm8ecyfldb5",
-      "image_three": "https://images.luxuryescapes.com/2h05n0v4q9c7pteflggl",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 01:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-13",
+    "last_updated": "2026-07-14",
     "hotel_count": 2,
-    "average_price": 352,
+    "average_price": 351,
     "average_discount": 0
   }
 }

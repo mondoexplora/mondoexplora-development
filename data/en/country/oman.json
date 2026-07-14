@@ -3,25 +3,34 @@
   "code": "OM",
   "hero_title": "Oman Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Oman.",
-  "hero_image": "https://images.luxuryescapes.com/bw9fwgfp792uvm9yhzkq",
+  "hero_image": "https://images.luxuryescapes.com/t5scc4j17op651jx42yk",
   "popular_destinations": [
     {
       "name": "Muscat",
       "slug": "muscat",
-      "image": "https://images.luxuryescapes.com/bw9fwgfp792uvm9yhzkq",
+      "image": "https://images.luxuryescapes.com/t5scc4j17op651jx42yk",
       "description": "Explore Muscat with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 514
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 458
     },
     {
-      "name": "Sohar",
-      "slug": "sohar",
-      "image": "https://images.luxuryescapes.com/4fkojjca7rjht8smlvue",
-      "description": "Explore Sohar with luxury accommodations",
+      "name": "Bandar Jissah",
+      "slug": "bandar-jissah",
+      "image": "https://images.luxuryescapes.com/uk7w0bdj1a1d01r42lo9",
+      "description": "Explore Bandar Jissah with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 316
+      "avg_price": 884
+    },
+    {
+      "name": "Dibba",
+      "slug": "dibba",
+      "image": "https://images.luxuryescapes.com/d3qhs63x3vrhcdmcj8",
+      "description": "Explore Dibba with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 2849
     },
     {
       "name": "Duqm",
@@ -42,22 +51,13 @@
       "avg_price": 394
     },
     {
-      "name": "Dibba",
-      "slug": "dibba",
-      "image": "https://images.luxuryescapes.com/d3qhs63x3vrhcdmcj8",
-      "description": "Explore Dibba with luxury accommodations",
+      "name": "Sohar",
+      "slug": "sohar",
+      "image": "https://images.luxuryescapes.com/4fkojjca7rjht8smlvue",
+      "description": "Explore Sohar with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 2846
-    },
-    {
-      "name": "Bandar Jissah",
-      "slug": "bandar-jissah",
-      "image": "https://images.luxuryescapes.com/uk7w0bdj1a1d01r42lo9",
-      "description": "Explore Bandar Jissah with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 884
+      "avg_price": 316
     }
   ],
   "seo": {

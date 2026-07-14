@@ -3,17 +3,8 @@
   "code": "FJ",
   "hero_title": "Fiji Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Fiji.",
-  "hero_image": "https://images.luxuryescapes.com/tvsj8zq19e332x2sljd",
+  "hero_image": "https://images.luxuryescapes.com/ah1octnsr2ejlf13dj",
   "popular_destinations": [
-    {
-      "name": "Malolo Island",
-      "slug": "malolo-island",
-      "image": "https://images.luxuryescapes.com/tvsj8zq19e332x2sljd",
-      "description": "Explore Malolo Island with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 3242
-    },
     {
       "name": "Nadi",
       "slug": "nadi",
@@ -24,40 +15,49 @@
       "avg_price": 366
     },
     {
-      "name": "Coral Coast",
-      "slug": "coral-coast",
-      "image": "https://images.luxuryescapes.com/b59quc2qhwz4j90watb",
-      "description": "Explore Coral Coast with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 720
+      "name": "Malolo Island",
+      "slug": "malolo-island",
+      "image": "https://images.luxuryescapes.com/bvgk5wx9mm3vqw0la8k8",
+      "description": "Explore Malolo Island with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 2113
+    },
+    {
+      "name": "Denarau Island",
+      "slug": "denarau-island",
+      "image": "https://images.luxuryescapes.com/7225q1ulun5lfv09ndg",
+      "description": "Explore Denarau Island with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 7276
+    },
+    {
+      "name": "Suva",
+      "slug": "suva",
+      "image": "https://images.luxuryescapes.com/swtp2vlpyhedd86lyv7t",
+      "description": "Explore Suva with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 263
     },
     {
       "name": "Viti Levu",
       "slug": "viti-levu",
       "image": "https://images.luxuryescapes.com/j9wvf6r78vfh0nbpghki",
       "description": "Explore Viti Levu with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 865
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1409
     },
     {
-      "name": "Malolo Lailai",
-      "slug": "malolo-lailai",
-      "image": "https://images.luxuryescapes.com/bz2n7mgiznx8chyiull9",
-      "description": "Explore Malolo Lailai with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 1110
-    },
-    {
-      "name": "Denarau Island",
-      "slug": "denarau-island",
-      "image": "https://images.luxuryescapes.com/tr1p8uz6gsizxkg62khl",
-      "description": "Explore Denarau Island with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 3954
+      "name": "Vomo Island",
+      "slug": "vomo-island",
+      "image": "https://images.luxuryescapes.com/ez939xp4vfa91mfds6y",
+      "description": "Explore Vomo Island with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 3499
     }
   ],
   "seo": {

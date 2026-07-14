@@ -3,25 +3,25 @@
   "code": "JO",
   "hero_title": "Jordan Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Jordan.",
-  "hero_image": "https://images.luxuryescapes.com/g5b72ugr2vywu7wxc7g",
+  "hero_image": "https://images.luxuryescapes.com/szh9nfyq2qp4qjnrzn7b",
   "popular_destinations": [
     {
       "name": "Amman",
       "slug": "amman",
-      "image": "https://images.luxuryescapes.com/g5b72ugr2vywu7wxc7g",
+      "image": "https://images.luxuryescapes.com/szh9nfyq2qp4qjnrzn7b",
       "description": "Explore Amman with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 440
+      "avg_price": 445
     },
     {
       "name": "Aqaba",
       "slug": "aqaba",
-      "image": "https://images.luxuryescapes.com/bz5froxci5o8iyi6o2",
+      "image": "https://images.luxuryescapes.com/tvugxdus9djnjjkvcgaa8",
       "description": "Explore Aqaba with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 406
+      "avg_price": 407
     },
     {
       "name": "Petra",
@@ -30,16 +30,7 @@
       "description": "Explore Petra with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 372
-    },
-    {
-      "name": "Swemeh",
-      "slug": "swemeh",
-      "image": "https://images.luxuryescapes.com/wx5ydytx9zxb2e6dgql",
-      "description": "Explore Swemeh with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 360
+      "avg_price": 371
     },
     {
       "name": "Dead Sea",
@@ -57,7 +48,16 @@
       "description": "Explore Sweimeh with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 418
+      "avg_price": 424
+    },
+    {
+      "name": "Swemeh",
+      "slug": "swemeh",
+      "image": "https://images.luxuryescapes.com/wx5ydytx9zxb2e6dgql",
+      "description": "Explore Swemeh with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 361
     }
   ],
   "seo": {

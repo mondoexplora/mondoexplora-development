@@ -3,21 +3,21 @@
   "code": "CH",
   "hero_title": "Switzerland Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Switzerland.",
-  "hero_image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
+  "hero_image": "https://images.luxuryescapes.com/1tbouyf877b3391bloan",
   "popular_destinations": [
     {
       "name": "Geneva",
       "slug": "geneva",
-      "image": "https://images.luxuryescapes.com/93lofy90olc2dirg88yq",
+      "image": "https://images.luxuryescapes.com/1tbouyf877b3391bloan",
       "description": "Explore Geneva with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 762
+      "avg_price": 761
     },
     {
       "name": "Zurich",
       "slug": "zurich",
-      "image": "https://images.luxuryescapes.com/avlbg2ent9eqezmxvv6nh",
+      "image": "https://images.luxuryescapes.com/pqzl8vm8hnxh6s0b3cn",
       "description": "Explore Zurich with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
@@ -26,7 +26,7 @@
     {
       "name": "Crans-Montana",
       "slug": "crans-montana",
-      "image": "https://images.luxuryescapes.com/zrs5vhg3cpilfr5qk0j",
+      "image": "https://images.luxuryescapes.com/c7gioeg1ff1s9rp7iv5b",
       "description": "Explore Crans-Montana with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
@@ -42,15 +42,6 @@
       "avg_price": 1105
     },
     {
-      "name": "Gstaad",
-      "slug": "gstaad",
-      "image": "https://images.luxuryescapes.com/g4yn46fvl917lkcrztdd",
-      "description": "Explore Gstaad with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 1337
-    },
-    {
       "name": "Grindelwald",
       "slug": "grindelwald",
       "image": "https://images.luxuryescapes.com/htdvplf3m6pbqgfd6mhc",
@@ -58,6 +49,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 1256
+    },
+    {
+      "name": "Vals",
+      "slug": "vals",
+      "image": "https://images.luxuryescapes.com/o2pguhoclh6cnayuyia",
+      "description": "Explore Vals with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1538
     }
   ],
   "seo": {

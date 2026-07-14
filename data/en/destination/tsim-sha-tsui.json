@@ -4,8 +4,26 @@
   "country_code": "HK",
   "hero_title": "Hotels in Tsim Sha Tsui",
   "description": "Discover the best hotels in Tsim Sha Tsui, Hong Kong. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/x4wk3tiadjr3an3jxc0s",
+  "hero_image": "https://images.luxuryescapes.com/wca6gq4hie9tp5gbnwt",
   "hotels": [
+    {
+      "vendor_name": "Prince Hotel Hong Kong",
+      "offer_country_name": "Hong Kong",
+      "location_heading": "Tsim Sha Tsui",
+      "title": "Hong Kong Harbourside Glamour with Restaurant, Bar & Lounge",
+      "description": "Experience the best of Hong Kong with a stay at the harbourfront Prince Hotel Hong Kong, perfectly positioned in the vibrant Tsim Sha Tsui district. Located just moments from the city's best museums, restaurants and shopping areas, this contemporary retreat places the best of Hong Kong at your fingertips. Unwind in spacious, well-appointed rooms and elevate your stay with cocktails at the exclusive Continental Club Lounge. Savour Asian favourites at SAVVY before exploring cultural landmarks, strolling the waterfront or diving into the surrounding culinary scene. Delivering stylish comfort and distinctive local flair, this sleek sanctuary is the perfect base for discovering the city.",
+      "location_subheading": "Hong Kong",
+      "price": 455,
+      "original_price": 455,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000KdB3LYAV",
+      "hero_image": "https://images.luxuryescapes.com/wca6gq4hie9tp5gbnwt",
+      "image_two": "https://images.luxuryescapes.com/2f2u8ol9of3rnt6anwm",
+      "image_three": "https://images.luxuryescapes.com/fo0bo9lakavuvhnr8knc",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Kowloon Shangri-La",
       "offer_country_name": "Hong Kong",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Prince Hotel Hong Kong",
-      "offer_country_name": "Hong Kong",
-      "location_heading": "Tsim Sha Tsui",
-      "title": "Hong Kong Harbourside Glamour with Restaurant, Bar & Lounge",
-      "description": "Experience the best of Hong Kong with a stay at the harbourfront Prince Hotel Hong Kong, perfectly positioned in the vibrant Tsim Sha Tsui district. Located just moments from the city's best museums, restaurants and shopping areas, this contemporary retreat places the best of Hong Kong at your fingertips. Unwind in spacious, well-appointed rooms and elevate your stay with cocktails at the exclusive Continental Club Lounge. Savour Asian favourites at SAVVY before exploring cultural landmarks, strolling the waterfront or diving into the surrounding culinary scene. Delivering stylish comfort and distinctive local flair, this sleek sanctuary is the perfect base for discovering the city.",
-      "location_subheading": "Hong Kong",
-      "price": 454,
-      "original_price": 454,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000KdB3LYAV",
-      "hero_image": "https://images.luxuryescapes.com/wca6gq4hie9tp5gbnwt",
-      "image_two": "https://images.luxuryescapes.com/2f2u8ol9of3rnt6anwm",
-      "image_three": "https://images.luxuryescapes.com/fo0bo9lakavuvhnr8knc",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-13",
+    "last_updated": "2026-07-14",
     "hotel_count": 2,
-    "average_price": 501,
+    "average_price": 502,
     "average_discount": 0
   }
 }

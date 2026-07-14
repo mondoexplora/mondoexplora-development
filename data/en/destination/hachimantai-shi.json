@@ -4,26 +4,8 @@
   "country_code": "JP",
   "hero_title": "Hotels in Hachimantai-shi",
   "description": "Discover the best hotels in Hachimantai-shi, Japan. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/1j7ubkt2kloaxow0q9d",
+  "hero_image": "https://images.luxuryescapes.com/6q8w5hqc4netcbz6o0to",
   "hotels": [
-    {
-      "vendor_name": "Crowne Plaza Resort Appi Kogen",
-      "offer_country_name": "Japan",
-      "location_heading": "Hachimantai-shi",
-      "title": "Japan Iwate Mountain Spa Resort with Fine Dining",
-      "description": "Indulgence awaits at ANA Crowne Plaza Resort Appi Kogen, an IHG Hotel, a soothing mountain retreat delivering breathtaking vistas and direct access to the slopes. Devour a global menu of cuisines at the numerous restaurants onsite or relax with a calming cup of tea while enjoying highland views from the terrace cafe. With scorching onsen baths, golfing, hiking and Iwate's natural splendour at your fingertips, this resort offers an idyllic escape all year round.",
-      "location_subheading": "Japan",
-      "price": 202,
-      "original_price": 202,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJbxAAH",
-      "hero_image": "https://images.luxuryescapes.com/1j7ubkt2kloaxow0q9d",
-      "image_two": "https://images.luxuryescapes.com/gmozzybeunq7aawvprcx",
-      "image_three": "https://images.luxuryescapes.com/6y8l4q3vd03f1b25u",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "InterContinental Appi Kogen Resort",
       "offer_country_name": "Japan",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-13",
-    "hotel_count": 2,
-    "average_price": 386,
+    "last_updated": "2026-07-14",
+    "hotel_count": 1,
+    "average_price": 569,
     "average_discount": 0
   }
 }

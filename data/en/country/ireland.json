@@ -3,34 +3,16 @@
   "code": "IE",
   "hero_title": "Ireland Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Ireland.",
-  "hero_image": "https://images.luxuryescapes.com/7y4ofoajudathj246u82",
+  "hero_image": "https://images.luxuryescapes.com/uz7hw5t0kyd7jdfb43tq",
   "popular_destinations": [
     {
       "name": "Dublin",
       "slug": "dublin",
-      "image": "https://images.luxuryescapes.com/7y4ofoajudathj246u82",
+      "image": "https://images.luxuryescapes.com/uz7hw5t0kyd7jdfb43tq",
       "description": "Explore Dublin with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
       "avg_price": 440
-    },
-    {
-      "name": "Cork",
-      "slug": "cork",
-      "image": "https://images.luxuryescapes.com/cxkj7oz77rxqedp2bl",
-      "description": "Explore Cork with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 718
-    },
-    {
-      "name": "Kilkenny",
-      "slug": "kilkenny",
-      "image": "https://images.luxuryescapes.com/zv1943mpulqly0zcno07",
-      "description": "Explore Kilkenny with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 390
     },
     {
       "name": "County Mayo",
@@ -40,6 +22,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 490
+    },
+    {
+      "name": "Kilkenny",
+      "slug": "kilkenny",
+      "image": "https://images.luxuryescapes.com/zv1943mpulqly0zcno07",
+      "description": "Explore Kilkenny with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 390
     }
   ],
   "seo": {

@@ -4,44 +4,8 @@
   "country_code": "PH",
   "hero_title": "Hotels in Boracay",
   "description": "Discover the best hotels in Boracay, Philippines. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/gj4o01hubz6pn19ozmo",
+  "hero_image": "https://images.luxuryescapes.com/5lklngyii5g8a4hg6qd",
   "hotels": [
-    {
-      "vendor_name": "Crimson Resort and Spa Boracay",
-      "offer_country_name": "Philippines",
-      "location_heading": "Boracay",
-      "title": "Five-Star Boracay Island Hideaway",
-      "description": "Welcome to Station Zero, Boracay’s most exclusive and secluded location, home to the five-star Crimson Resort & Spa Boracay. Experience an enchanting Philippines hideaway where the architecture is designed to let the island’s unspoiled wilderness - think lush jungle, fringed by 8,000sqm of dazzling white-sand beach and crystal-clear waters - shine through. Sequestered away from the other boat stations, this resort will make you feel like you have the island all to yourself - with three drinks and dining destinations, four luminous swimming pools (including a dedicated kids' pool), a highly acclaimed spa and the top-rated Azure Beach Club all onsite. Revel in pristine isolation and experience a unique oasis where you can hike to the summit of Mount Luho, kayak across enviably turquoise waters, visit Naked Rock and Willy's Rock, and watch the sun melt away as day fades into tranquil night from this serene beachfront position.",
-      "location_subheading": "Philippines",
-      "price": 655,
-      "original_price": 978,
-      "discount_percentage": 33,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000002zUfDAAU",
-      "hero_image": "https://images.luxuryescapes.com/gj4o01hubz6pn19ozmo",
-      "image_two": "https://images.luxuryescapes.com/x29038ys7gyh91zlo7a",
-      "image_three": "https://images.luxuryescapes.com/cnxp1b5x7spy82q4fwfc",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Movenpick Resort & Spa Boracay",
-      "offer_country_name": "Philippines",
-      "location_heading": "Boracay",
-      "title": "Philippines Boracay Island Resort on Private Beach with Seven Dining Venues & Multi-Level Pool",
-      "description": "With an exclusive private beach on beautiful Boracay, this upscale tropical resort invites you to embrace barefoot luxury. Unwind in the expansive multi-level pool, rejuvenate with a tranquil treatment at the onsite Sagay Spa and curate your culinary journey through seven dining venues. This family-friendly oasis has a dedicated kids' club and playground area to keep the little ones entertained, while the adults cool off with a tropical cocktail at the swim-up bar. When the clock strikes Mövenpick Chocolate Hour, indulge in delicious daily delights from the experts themselves.",
-      "location_subheading": "Philippines",
-      "price": 292,
-      "original_price": 292,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlvtIAC",
-      "hero_image": "https://images.luxuryescapes.com/uzgzolew5iamm95qz29s",
-      "image_two": "https://images.luxuryescapes.com/p5u7s84mazmhpku1ly5h",
-      "image_three": "https://images.luxuryescapes.com/av1za4p7pl79m6007na6",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Shangri-La's Boracay Resort & Spa",
       "offer_country_name": "Philippines",
@@ -57,6 +21,24 @@
       "image_two": "https://images.luxuryescapes.com/lbeydmxqkp2a8fnfac",
       "image_three": "https://images.luxuryescapes.com/fvowuk80kgjzabi5blyv",
       "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Crimson Resort and Spa Boracay",
+      "offer_country_name": "Philippines",
+      "location_heading": "Boracay",
+      "title": "Five-Star Boracay Island Hideaway",
+      "description": "Welcome to Station Zero, Boracay’s most exclusive and secluded location, home to the five-star Crimson Resort & Spa Boracay. Experience an enchanting Philippines hideaway where the architecture is designed to let the island’s unspoiled wilderness - think lush jungle, fringed by 8,000sqm of dazzling white-sand beach and crystal-clear waters - shine through. Sequestered away from the other boat stations, this resort will make you feel like you have the island all to yourself - with three drinks and dining destinations, four luminous swimming pools (including a dedicated kids' pool), a highly acclaimed spa and the top-rated Azure Beach Club all onsite. Revel in pristine isolation and experience a unique oasis where you can hike to the summit of Mount Luho, kayak across enviably turquoise waters, visit Naked Rock and Willy's Rock, and watch the sun melt away as day fades into tranquil night from this serene beachfront position.",
+      "location_subheading": "Philippines",
+      "price": 655,
+      "original_price": 978,
+      "discount_percentage": 33,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000002zUfDAAU",
+      "hero_image": "https://images.luxuryescapes.com/gj4o01hubz6pn19ozmo",
+      "image_two": "https://images.luxuryescapes.com/x29038ys7gyh91zlo7a",
+      "image_three": "https://images.luxuryescapes.com/cnxp1b5x7spy82q4fwfc",
+      "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     }
@@ -78,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-13",
-    "hotel_count": 3,
-    "average_price": 670,
-    "average_discount": 20
+    "last_updated": "2026-07-14",
+    "hotel_count": 2,
+    "average_price": 859,
+    "average_discount": 30
   }
 }

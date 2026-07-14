@@ -4,8 +4,26 @@
   "country_code": "GB",
   "hero_title": "Hotels in Chester",
   "description": "Discover the best hotels in Chester, United Kingdom. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ofncrmmbcoxclxkv8pgn",
+  "hero_image": "https://images.luxuryescapes.com/pu7btnrf0h2fwp3f2xp3",
   "hotels": [
+    {
+      "vendor_name": "Hotel Indigo Chester",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Chester",
+      "title": "Chester Contemporary Luxury in the Heart of Historic Roman City",
+      "description": "Find a splash of contemporary luxury in the midst of Chester's historic Roman centre at Hotel Indigo Chester, an IHG Hotel, just a short walk from the 2,000-year-old city walls. While you're here be sure to dine among the elegant leather booths, sparkling glassware and wine-laden walls of The Forge, a sophisticated bar and grill headed by Head Chef Mike Robinson and fuelled by his passion for wild, sustainable British ingredients and simple cooking over fire and charcoal.",
+      "location_subheading": "United Kingdom",
+      "price": 214,
+      "original_price": 214,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CuiRFAAZ",
+      "hero_image": "https://images.luxuryescapes.com/pu7btnrf0h2fwp3f2xp3",
+      "image_two": "https://images.luxuryescapes.com/maknh8pwndoaspabw8qm",
+      "image_three": "https://images.luxuryescapes.com/59dfo7zs1kg3m5z8r5zl",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 01:59:00"
+    },
     {
       "vendor_name": "Crowne Plaza Chester",
       "offer_country_name": "United Kingdom",
@@ -20,24 +38,6 @@
       "hero_image": "https://images.luxuryescapes.com/ofncrmmbcoxclxkv8pgn",
       "image_two": "https://images.luxuryescapes.com/58mlmgx3wxrmg0ty0x2",
       "image_three": "https://images.luxuryescapes.com/xczgrz9cqlii50c7x30h",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 01:59:00"
-    },
-    {
-      "vendor_name": "Hotel Indigo Chester",
-      "offer_country_name": "United Kingdom",
-      "location_heading": "Chester",
-      "title": "Chester Contemporary Luxury in the Heart of Historic Roman City",
-      "description": "Find a splash of contemporary luxury in the midst of Chester's historic Roman centre at Hotel Indigo Chester, an IHG Hotel, just a short walk from the 2,000-year-old city walls. While you're here be sure to dine among the elegant leather booths, sparkling glassware and wine-laden walls of The Forge, a sophisticated bar and grill headed by Head Chef Mike Robinson and fuelled by his passion for wild, sustainable British ingredients and simple cooking over fire and charcoal.",
-      "location_subheading": "United Kingdom",
-      "price": 211,
-      "original_price": 211,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CuiRFAAZ",
-      "hero_image": "https://images.luxuryescapes.com/pu7btnrf0h2fwp3f2xp3",
-      "image_two": "https://images.luxuryescapes.com/maknh8pwndoaspabw8qm",
-      "image_three": "https://images.luxuryescapes.com/59dfo7zs1kg3m5z8r5zl",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 01:59:00"
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-13",
+    "last_updated": "2026-07-14",
     "hotel_count": 2,
-    "average_price": 270,
+    "average_price": 272,
     "average_discount": 0
   }
 }

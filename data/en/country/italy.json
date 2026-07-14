@@ -3,34 +3,34 @@
   "code": "IT",
   "hero_title": "Italy Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Italy.",
-  "hero_image": "https://images.luxuryescapes.com/r960jsrp7qvo5hyu1h2",
+  "hero_image": "https://images.luxuryescapes.com/rqdxrodvatfdyu2rpred",
   "popular_destinations": [
     {
       "name": "Rome",
       "slug": "rome",
-      "image": "https://images.luxuryescapes.com/r960jsrp7qvo5hyu1h2",
+      "image": "https://images.luxuryescapes.com/rqdxrodvatfdyu2rpred",
       "description": "Explore Rome with luxury accommodations",
-      "hotel_count": 10,
-      "hotel_deals": 10,
-      "avg_price": 804
-    },
-    {
-      "name": "Milan",
-      "slug": "milan",
-      "image": "https://images.luxuryescapes.com/kaj4xni2qya76r3pgi8",
-      "description": "Explore Milan with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 470
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 1006
     },
     {
       "name": "Florence",
       "slug": "florence",
-      "image": "https://images.luxuryescapes.com/zplh7zqs3a5x21rxrjey",
+      "image": "https://images.luxuryescapes.com/v2m3ulv0r814f47rnp7",
       "description": "Explore Florence with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 1097
+      "avg_price": 1093
+    },
+    {
+      "name": "Milan",
+      "slug": "milan",
+      "image": "https://images.luxuryescapes.com/c0y00fn5ldwjenvsp7cd",
+      "description": "Explore Milan with luxury accommodations",
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 470
     },
     {
       "name": "Venice",
@@ -51,13 +51,13 @@
       "avg_price": 394
     },
     {
-      "name": "Anacapri",
-      "slug": "anacapri",
-      "image": "https://images.luxuryescapes.com/857elovfxbxuetmo24",
-      "description": "Explore Anacapri with luxury accommodations",
+      "name": "Brucoli SR",
+      "slug": "brucoli-sr",
+      "image": "https://images.luxuryescapes.com/qpb8kyuaodquxdra62pm",
+      "description": "Explore Brucoli SR with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 2410
+      "avg_price": 859
     }
   ],
   "seo": {

@@ -4,26 +4,8 @@
   "country_code": "PT",
   "hero_title": "Hotels in Algarve",
   "description": "Discover the best hotels in Algarve, Portugal. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/l583eqlkmbef0k92bh6",
+  "hero_image": "https://images.luxuryescapes.com/5r8cotqq86n2tqm5k1g",
   "hotels": [
-    {
-      "vendor_name": "Domes Lake Algarve, Autograph Collection",
-      "offer_country_name": "Portugal",
-      "location_heading": "Algarve",
-      "title": "Portugal: Algarve Luxury Retreat on Private Lake with Vilamoura Marina Views & Floating Restaurant",
-      "description": "Set on a private lake with views across the Vilamoura marina, Domes Lake Algarve is a five-star retreat where the natural world blends with true luxury. Spend days between the pools and Praia de Falesia - one of Europe's most celebrated beaches, with direct access from the hotel plus dedicated loungers reserved for resort guests. Unwind at Soma Spa, where treatments draw on ancient Greek traditions alongside hammam rituals and wellness experiences. Five world-class golf courses are easily accessible via a complimentary shuttle. Dining is a highlight, spanning six distinct concepts: from Greek and Portuguese fusion at Gustatio and wood-fired Italian at Antonino's, to the lakeside floating experience at Blend Nikkei and Wine. Round off the evening at Migratory Bar, a champagne and cocktail lounge where every drink tells its own story.",
-      "location_subheading": "Portugal",
-      "price": 621,
-      "original_price": 621,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ScJG1YAN",
-      "hero_image": "https://images.luxuryescapes.com/l583eqlkmbef0k92bh6",
-      "image_two": "https://images.luxuryescapes.com/6m5f1ro4bre5aaa2wj3",
-      "image_three": "https://images.luxuryescapes.com/xpy8t2dfxppmjol4kkyk",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:55:51"
-    },
     {
       "vendor_name": "W Algarve",
       "offer_country_name": "Portugal",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 5,
       "end_date_utc": "2026-08-05 13:59:00"
+    },
+    {
+      "vendor_name": "Domes Lake Algarve, Autograph Collection",
+      "offer_country_name": "Portugal",
+      "location_heading": "Algarve",
+      "title": "Portugal: Algarve Luxury Retreat on Private Lake with Vilamoura Marina Views & Floating Restaurant",
+      "description": "Set on a private lake with views across the Vilamoura marina, Domes Lake Algarve is a five-star retreat where the natural world blends with true luxury. Spend days between the pools and Praia de Falesia - one of Europe's most celebrated beaches, with direct access from the hotel plus dedicated loungers reserved for resort guests. Unwind at Soma Spa, where treatments draw on ancient Greek traditions alongside hammam rituals and wellness experiences. Five world-class golf courses are easily accessible via a complimentary shuttle. Dining is a highlight, spanning six distinct concepts: from Greek and Portuguese fusion at Gustatio and wood-fired Italian at Antonino's, to the lakeside floating experience at Blend Nikkei and Wine. Round off the evening at Migratory Bar, a champagne and cocktail lounge where every drink tells its own story.",
+      "location_subheading": "Portugal",
+      "price": 621,
+      "original_price": 621,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ScJG1YAN",
+      "hero_image": "https://images.luxuryescapes.com/l583eqlkmbef0k92bh6",
+      "image_two": "https://images.luxuryescapes.com/6m5f1ro4bre5aaa2wj3",
+      "image_three": "https://images.luxuryescapes.com/xpy8t2dfxppmjol4kkyk",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:55:51"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-13",
+    "last_updated": "2026-07-14",
     "hotel_count": 2,
     "average_price": 805,
     "average_discount": 37

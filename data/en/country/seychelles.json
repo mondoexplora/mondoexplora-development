@@ -3,17 +3,8 @@
   "code": "SC",
   "hero_title": "Seychelles Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Seychelles.",
-  "hero_image": "https://images.luxuryescapes.com/97mh37eajhota1smfeg",
+  "hero_image": "https://images.luxuryescapes.com/xo8hl54fs7jodbdy4vcn",
   "popular_destinations": [
-    {
-      "name": "Mahe",
-      "slug": "mahe",
-      "image": "https://images.luxuryescapes.com/97mh37eajhota1smfeg",
-      "description": "Explore Mahe with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 1071
-    },
     {
       "name": "Félicité",
       "slug": "félicité",
@@ -22,6 +13,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 4198
+    },
+    {
+      "name": "Mahe",
+      "slug": "mahe",
+      "image": "https://images.luxuryescapes.com/97mh37eajhota1smfeg",
+      "description": "Explore Mahe with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1071
     }
   ],
   "seo": {

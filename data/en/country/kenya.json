@@ -3,12 +3,12 @@
   "code": "KE",
   "hero_title": "Kenya Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Kenya.",
-  "hero_image": "https://images.luxuryescapes.com/byv49cz8x9ca2li56q",
+  "hero_image": "https://images.luxuryescapes.com/ca0mw1cmb86ewic99dre",
   "popular_destinations": [
     {
       "name": "Nairobi",
       "slug": "nairobi",
-      "image": "https://images.luxuryescapes.com/byv49cz8x9ca2li56q",
+      "image": "https://images.luxuryescapes.com/ca0mw1cmb86ewic99dre",
       "description": "Explore Nairobi with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
@@ -21,7 +21,7 @@
       "description": "Explore Masai Mara with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 4687
+      "avg_price": 4693
     }
   ],
   "seo": {

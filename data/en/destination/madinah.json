@@ -4,26 +4,8 @@
   "country_code": "SA",
   "hero_title": "Hotels in Madinah",
   "description": "Discover the best hotels in Madinah, Saudi Arabia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/jh71czm4z2sj6neby02",
+  "hero_image": "https://images.luxuryescapes.com/qu8me1p4wgfmhonjs8nm",
   "hotels": [
-    {
-      "vendor_name": "InterContinental Madinah Dar Al Iman",
-      "offer_country_name": "Saudi Arabia",
-      "location_heading": "Madinah",
-      "title": "Five-Star Saudi Arabia Palatial Luxury",
-      "description": "Experience palatial luxury at InterContinental Madinah-Dar Al Iman, an IHG Hotel, perfectly positioned within the courtyard of the Prophet's Mosque Al-Masjid an-Nabawi. This five-star property defines grandeur with its contemporary and luxurious design. When not resting in your grandiose guest room or sampling fine food, find yourself within arm's reach of the city's Islamic sites for ziyarat, including Masjid Quba, Masjid Al-Qiblatain and The Seven Mosques, as well as major shopping precincts.",
-      "location_subheading": "Saudi Arabia",
-      "price": 626,
-      "original_price": 626,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNEx5AAH",
-      "hero_image": "https://images.luxuryescapes.com/jh71czm4z2sj6neby02",
-      "image_two": "https://images.luxuryescapes.com/1ce6u9pqh94p4waoixb8",
-      "image_three": "https://images.luxuryescapes.com/knbzuq2vmd8r6ylzjumg",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Pullman Zamzam Madina",
       "offer_country_name": "Saudi Arabia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "InterContinental Madinah Dar Al Iman",
+      "offer_country_name": "Saudi Arabia",
+      "location_heading": "Madinah",
+      "title": "Five-Star Saudi Arabia Palatial Luxury",
+      "description": "Experience palatial luxury at InterContinental Madinah-Dar Al Iman, an IHG Hotel, perfectly positioned within the courtyard of the Prophet's Mosque Al-Masjid an-Nabawi. This five-star property defines grandeur with its contemporary and luxurious design. When not resting in your grandiose guest room or sampling fine food, find yourself within arm's reach of the city's Islamic sites for ziyarat, including Masjid Quba, Masjid Al-Qiblatain and The Seven Mosques, as well as major shopping precincts.",
+      "location_subheading": "Saudi Arabia",
+      "price": 627,
+      "original_price": 627,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CNEx5AAH",
+      "hero_image": "https://images.luxuryescapes.com/jh71czm4z2sj6neby02",
+      "image_two": "https://images.luxuryescapes.com/1ce6u9pqh94p4waoixb8",
+      "image_three": "https://images.luxuryescapes.com/knbzuq2vmd8r6ylzjumg",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-13",
+    "last_updated": "2026-07-14",
     "hotel_count": 2,
     "average_price": 440,
     "average_discount": 0

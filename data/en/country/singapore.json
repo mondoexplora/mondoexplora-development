@@ -3,16 +3,16 @@
   "code": "SG",
   "hero_title": "Singapore Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Singapore.",
-  "hero_image": "https://images.luxuryescapes.com/vn56pb9tttn0jqod6fs",
+  "hero_image": "https://images.luxuryescapes.com/wwj7tg4fghksyga1ymzo",
   "popular_destinations": [
     {
       "name": "Singapore",
       "slug": "singapore",
-      "image": "https://images.luxuryescapes.com/vn56pb9tttn0jqod6fs",
+      "image": "https://images.luxuryescapes.com/wwj7tg4fghksyga1ymzo",
       "description": "Explore Singapore with luxury accommodations",
-      "hotel_count": 33,
-      "hotel_deals": 33,
-      "avg_price": 787
+      "hotel_count": 21,
+      "hotel_deals": 21,
+      "avg_price": 838
     },
     {
       "name": "Sentosa Island",
@@ -21,25 +21,7 @@
       "description": "Explore Sentosa Island with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 2059
-    },
-    {
-      "name": "Orchard Road",
-      "slug": "orchard-road",
-      "image": "https://images.luxuryescapes.com/nx6opw39eu63mgajzn2n",
-      "description": "Explore Orchard Road with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 609
-    },
-    {
-      "name": "Tanglin",
-      "slug": "tanglin",
-      "image": "https://images.luxuryescapes.com/b7nhyral4nkxczom6iwv",
-      "description": "Explore Tanglin with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 389
+      "avg_price": 2074
     },
     {
       "name": "Orchard",
@@ -48,7 +30,16 @@
       "description": "Explore Orchard with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 758
+      "avg_price": 759
+    },
+    {
+      "name": "Orchard Road",
+      "slug": "orchard-road",
+      "image": "https://images.luxuryescapes.com/nx6opw39eu63mgajzn2n",
+      "description": "Explore Orchard Road with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 610
     }
   ],
   "seo": {

@@ -4,26 +4,8 @@
   "country_code": "VN",
   "hero_title": "Hotels in Hai Phong",
   "description": "Discover the best hotels in Hai Phong, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/5a44wduz64gaxud3p5q",
+  "hero_image": "https://images.luxuryescapes.com/pabhkfzs0cf71c8h7apk",
   "hotels": [
-    {
-      "vendor_name": "Mercure Hai Phong",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Hai Phong",
-      "title": "Stylish Five-Star Hai Phong City Break with Rooftop Infinity Pool & Luxe Spa",
-      "description": "Feel the pulse of Vietnam with an elegant stay at this Mercure urban haven, strategically located in the heart of Hai Phong. From French colonial-era establishments to neo-classical architecture, this five-star hotel acts serves the perfect base to discover the city's timeless charms. Soak up the captivating city views while you take a dip in the sparkling rooftop infinity pool, work up a sweat at the fitness centre, and pamper yourself with invigorating massages at Bloom Spa, perched on the 28th floor. When hunger strikes, savour Vietnamese specialities and delicious steaks at Flame Grill & Bar.",
-      "location_subheading": "Vietnam",
-      "price": 150,
-      "original_price": 150,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002J2yJIAS",
-      "hero_image": "https://images.luxuryescapes.com/5a44wduz64gaxud3p5q",
-      "image_two": "https://images.luxuryescapes.com/d9e4e16lhjdga4zk0vh",
-      "image_three": "https://images.luxuryescapes.com/qo3mwvq4ok5750ol8g3v",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Pullman Hai Phong Grand Hotel",
       "offer_country_name": "Vietnam",
@@ -38,6 +20,24 @@
       "hero_image": "https://images.luxuryescapes.com/pabhkfzs0cf71c8h7apk",
       "image_two": "https://images.luxuryescapes.com/inl75p2hadvkg3q9btp",
       "image_three": "https://images.luxuryescapes.com/gxyp49eugcyb4uaxq4v",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mercure Hai Phong",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Hai Phong",
+      "title": "Stylish Five-Star Hai Phong City Break with Rooftop Infinity Pool & Luxe Spa",
+      "description": "Feel the pulse of Vietnam with an elegant stay at this Mercure urban haven, strategically located in the heart of Hai Phong. From French colonial-era establishments to neo-classical architecture, this five-star hotel acts serves the perfect base to discover the city's timeless charms. Soak up the captivating city views while you take a dip in the sparkling rooftop infinity pool, work up a sweat at the fitness centre, and pamper yourself with invigorating massages at Bloom Spa, perched on the 28th floor. When hunger strikes, savour Vietnamese specialities and delicious steaks at Flame Grill & Bar.",
+      "location_subheading": "Vietnam",
+      "price": 147,
+      "original_price": 147,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002J2yJIAS",
+      "hero_image": "https://images.luxuryescapes.com/5a44wduz64gaxud3p5q",
+      "image_two": "https://images.luxuryescapes.com/d9e4e16lhjdga4zk0vh",
+      "image_three": "https://images.luxuryescapes.com/qo3mwvq4ok5750ol8g3v",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-13",
+    "last_updated": "2026-07-14",
     "hotel_count": 2,
-    "average_price": 206,
+    "average_price": 205,
     "average_discount": 0
   }
 }

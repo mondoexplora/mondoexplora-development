@@ -3,25 +3,25 @@
   "code": "CK",
   "hero_title": "Cook Islands Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Cook Islands.",
-  "hero_image": "https://images.luxuryescapes.com/l46mnfy4572f9ol9i3pi",
+  "hero_image": "https://images.luxuryescapes.com/lrre2fg4f7r8xuym9z7",
   "popular_destinations": [
     {
       "name": "Rarotonga",
       "slug": "rarotonga",
-      "image": "https://images.luxuryescapes.com/l46mnfy4572f9ol9i3pi",
+      "image": "https://images.luxuryescapes.com/lrre2fg4f7r8xuym9z7",
       "description": "Explore Rarotonga with luxury accommodations",
-      "hotel_count": 12,
-      "hotel_deals": 12,
-      "avg_price": 1114
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 1090
     },
     {
       "name": "Aitutaki",
       "slug": "aitutaki",
       "image": "https://images.luxuryescapes.com/myanfth49penlsda7a1",
       "description": "Explore Aitutaki with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 1384
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1090
     }
   ],
   "seo": {

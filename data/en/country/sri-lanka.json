@@ -3,34 +3,16 @@
   "code": "LK",
   "hero_title": "Sri Lanka Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Sri Lanka.",
-  "hero_image": "https://images.luxuryescapes.com/64gnmm9rrfiy2v32ir5r",
+  "hero_image": "https://images.luxuryescapes.com/9dwox5elvvxcbmwswjeq",
   "popular_destinations": [
-    {
-      "name": "Kandy",
-      "slug": "kandy",
-      "image": "https://images.luxuryescapes.com/64gnmm9rrfiy2v32ir5r",
-      "description": "Explore Kandy with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 919
-    },
     {
       "name": "Weligama",
       "slug": "weligama",
-      "image": "https://images.luxuryescapes.com/0yfoqvnnqwe7h0cm0xfh",
+      "image": "https://images.luxuryescapes.com/9dwox5elvvxcbmwswjeq",
       "description": "Explore Weligama with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1311
-    },
-    {
-      "name": "Galle",
-      "slug": "galle",
-      "image": "https://images.luxuryescapes.com/wr8c06rpgnqjxubbyg94",
-      "description": "Explore Galle with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 514
+      "avg_price": 1312
     },
     {
       "name": "Balapitiya",
@@ -42,13 +24,13 @@
       "avg_price": 539
     },
     {
-      "name": "Ahungalla",
-      "slug": "ahungalla",
-      "image": "https://images.luxuryescapes.com/u2smx3jm1hb975asir9j",
-      "description": "Explore Ahungalla with luxury accommodations",
+      "name": "Galle",
+      "slug": "galle",
+      "image": "https://images.luxuryescapes.com/wr8c06rpgnqjxubbyg94",
+      "description": "Explore Galle with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 979
+      "avg_price": 489
     },
     {
       "name": "Yala National Park",
@@ -58,6 +40,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 979
+    },
+    {
+      "name": "Ahungalla",
+      "slug": "ahungalla",
+      "image": "https://images.luxuryescapes.com/u2smx3jm1hb975asir9j",
+      "description": "Explore Ahungalla with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1012
     }
   ],
   "seo": {

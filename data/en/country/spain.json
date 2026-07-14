@@ -3,52 +3,52 @@
   "code": "ES",
   "hero_title": "Spain Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Spain.",
-  "hero_image": "https://images.luxuryescapes.com/h54ctgnz4kqoy44sr2nq",
+  "hero_image": "https://images.luxuryescapes.com/v86z17xv8abuk848srg6g",
   "popular_destinations": [
     {
       "name": "Barcelona",
       "slug": "barcelona",
-      "image": "https://images.luxuryescapes.com/h54ctgnz4kqoy44sr2nq",
+      "image": "https://images.luxuryescapes.com/v86z17xv8abuk848srg6g",
       "description": "Explore Barcelona with luxury accommodations",
-      "hotel_count": 22,
-      "hotel_deals": 22,
-      "avg_price": 683
+      "hotel_count": 12,
+      "hotel_deals": 12,
+      "avg_price": 817
     },
     {
       "name": "Madrid",
       "slug": "madrid",
-      "image": "https://images.luxuryescapes.com/i31jde3fkihs3gyichoc",
+      "image": "https://images.luxuryescapes.com/2qb9jhwgsevkgndvn0fh",
       "description": "Explore Madrid with luxury accommodations",
-      "hotel_count": 13,
-      "hotel_deals": 13,
-      "avg_price": 551
-    },
-    {
-      "name": "Mallorca",
-      "slug": "mallorca",
-      "image": "https://images.luxuryescapes.com/kal2cbz5thqfj5f7gec",
-      "description": "Explore Mallorca with luxury accommodations",
-      "hotel_count": 7,
-      "hotel_deals": 7,
-      "avg_price": 1031
+      "hotel_count": 11,
+      "hotel_deals": 11,
+      "avg_price": 564
     },
     {
       "name": "Ibiza",
       "slug": "ibiza",
-      "image": "https://images.luxuryescapes.com/km0y1pe9t375yfveyt9",
+      "image": "https://images.luxuryescapes.com/nzvnzbd8uplu4tu7urfd5",
       "description": "Explore Ibiza with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 688
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 768
     },
     {
-      "name": "San Roque",
-      "slug": "san-roque",
-      "image": "https://images.luxuryescapes.com/u7lezps8pp06w52tta",
-      "description": "Explore San Roque with luxury accommodations",
+      "name": "Mallorca",
+      "slug": "mallorca",
+      "image": "https://images.luxuryescapes.com/aw4a0pmvnmvtya3zjtel",
+      "description": "Explore Mallorca with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 1428
+    },
+    {
+      "name": "Alicante",
+      "slug": "alicante",
+      "image": "https://images.luxuryescapes.com/rpue1dnzy72cgfl9k4zr",
+      "description": "Explore Alicante with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 817
+      "avg_price": 1649
     },
     {
       "name": "Analucia",

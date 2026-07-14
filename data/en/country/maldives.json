@@ -12,16 +12,7 @@
       "description": "Explore Baa Atoll with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 5912
-    },
-    {
-      "name": "North Malé Atoll",
-      "slug": "north-malé-atoll",
-      "image": "https://images.luxuryescapes.com/lnfhkuclags0sia5ixte",
-      "description": "Explore North Malé Atoll with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 3422
+      "avg_price": 5920
     },
     {
       "name": "Malé",
@@ -30,34 +21,43 @@
       "description": "Explore Malé with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1023
+      "avg_price": 1025
     },
     {
-      "name": "Kooddoo Island",
-      "slug": "kooddoo-island",
-      "image": "https://images.luxuryescapes.com/8lmon526es6jm6rwdnu",
-      "description": "Explore Kooddoo Island with luxury accommodations",
+      "name": "North Malé Atoll",
+      "slug": "north-malé-atoll",
+      "image": "https://images.luxuryescapes.com/p4llf3rj9g5ls7hpskbg",
+      "description": "Explore North Malé Atoll with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1894
+      "avg_price": 3427
     },
     {
-      "name": "South Nilandhe Atoll",
-      "slug": "south-nilandhe-atoll",
-      "image": "https://images.luxuryescapes.com/prhkpd5hfoyyoc7whlq1m",
-      "description": "Explore South Nilandhe Atoll with luxury accommodations",
+      "name": "Lhaviyani Atoll",
+      "slug": "lhaviyani-atoll",
+      "image": "https://images.luxuryescapes.com/rbun53mllbdlddnlujw",
+      "description": "Explore Lhaviyani Atoll with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1691
+      "avg_price": 3799
     },
     {
-      "name": "South Malé Atoll",
-      "slug": "south-malé-atoll",
-      "image": "https://images.luxuryescapes.com/wqelzrmsyd8yq4h7wnw",
-      "description": "Explore South Malé Atoll with luxury accommodations",
+      "name": "Dhonakulhi Island",
+      "slug": "dhonakulhi-island",
+      "image": "https://images.luxuryescapes.com/se78it4qt0q41tvwsbd",
+      "description": "Explore Dhonakulhi Island with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 2716
+      "avg_price": 1873
+    },
+    {
+      "name": "Fari Islands",
+      "slug": "fari-islands",
+      "image": "https://images.luxuryescapes.com/gc8a1zknstdab6tdhh2f",
+      "description": "Explore Fari Islands with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 4921
     }
   ],
   "seo": {

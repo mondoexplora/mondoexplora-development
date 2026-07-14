@@ -4,8 +4,26 @@
   "country_code": "BD",
   "hero_title": "Hotels in Dhaka",
   "description": "Discover the best hotels in Dhaka, Bangladesh. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/aagi85esnwi3g044yac",
+  "hero_image": "https://images.luxuryescapes.com/h5gy3mvz3pbfeskdely",
   "hotels": [
+    {
+      "vendor_name": "Intercontinental Dhaka",
+      "offer_country_name": "Bangladesh",
+      "location_heading": "Dhaka",
+      "title": "Five-Star Bangladesh Stay in the Heart of Dhaka's Prestigious Business District",
+      "description": "Masterfully placed in the centre of Bangladesh's capital, Intercontinental Dhaka, an IHG Hotel, offers sophisticated five-star luxury and world-renowned hospitality. This urban hideaway boasts a magnificent blend of locally inspired elements with modern amenities. Make yourself at home as you lounge by the pool overlooking Ramna Park, feast your way across five excellent restaurants and bars, keep active at the well-equipped gym or venture beyond the hotel to explore this historic city.",
+      "location_subheading": "Bangladesh",
+      "price": 396,
+      "original_price": 396,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6QAAR",
+      "hero_image": "https://images.luxuryescapes.com/h5gy3mvz3pbfeskdely",
+      "image_two": "https://images.luxuryescapes.com/hozmgqjy3nfh7mw445k",
+      "image_three": "https://images.luxuryescapes.com/kugi5ux13akvfdvpl5l",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Crowne Plaza Dhaka Gulshan",
       "offer_country_name": "Bangladesh",
@@ -20,24 +38,6 @@
       "hero_image": "https://images.luxuryescapes.com/aagi85esnwi3g044yac",
       "image_two": "https://images.luxuryescapes.com/1536w6jgxdihat6zicu",
       "image_three": "https://images.luxuryescapes.com/ga3k811pi4bcqhx82nte",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Intercontinental Dhaka",
-      "offer_country_name": "Bangladesh",
-      "location_heading": "Dhaka",
-      "title": "Five-Star Bangladesh Stay in the Heart of Dhaka's Prestigious Business District",
-      "description": "Masterfully placed in the centre of Bangladesh's capital, Intercontinental Dhaka, an IHG Hotel, offers sophisticated five-star luxury and world-renowned hospitality. This urban hideaway boasts a magnificent blend of locally inspired elements with modern amenities. Make yourself at home as you lounge by the pool overlooking Ramna Park, feast your way across five excellent restaurants and bars, keep active at the well-equipped gym or venture beyond the hotel to explore this historic city.",
-      "location_subheading": "Bangladesh",
-      "price": 388,
-      "original_price": 388,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6QAAR",
-      "hero_image": "https://images.luxuryescapes.com/h5gy3mvz3pbfeskdely",
-      "image_two": "https://images.luxuryescapes.com/hozmgqjy3nfh7mw445k",
-      "image_three": "https://images.luxuryescapes.com/kugi5ux13akvfdvpl5l",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-13",
+    "last_updated": "2026-07-14",
     "hotel_count": 2,
-    "average_price": 386,
+    "average_price": 390,
     "average_discount": 0
   }
 }

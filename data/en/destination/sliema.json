@@ -4,26 +4,8 @@
   "country_code": "MT",
   "hero_title": "Hotels in Sliema",
   "description": "Discover the best hotels in Sliema, Malta. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/e6empblilv93kzkf9i6b",
+  "hero_image": "https://images.luxuryescapes.com/t7j30f962iskqvrl9y2i",
   "hotels": [
-    {
-      "vendor_name": "AX The Palace",
-      "offer_country_name": "Malta",
-      "location_heading": "Sliema",
-      "title": "Five-Star Harbour-View Malta Luxury with Rooftop Infinity Pool",
-      "description": "Stay in the heart of Malta's upmarket Sliema resort town while relaxing in contemporary, five-star luxury at the stylish AX The Palace. With designer décor, superb dining options and a laidback-chic vibe, this is the perfect mix of comfort and charm. Spectacular views of the town, Mediterranean Sea and Valletta Grand Harbour can be admired from most rooms and public spaces. Dine at a handful of excellent venues; whether you’re craving Asian fusion, Mediterranean-inspired street food or coffee and burgers, you’ll find something that satisfies your tastebuds here. For a relaxed summer evening, head up to Lounge 360, the panoramic rooftop terrace with a gorgeous infinity pool, where you can enjoy a handcrafted cocktail with a side of breathtaking vistas. You can’t beat Sliema’s urban beachside location. AX The Palace is only minutes from the waterfront, where you’ll find restaurants, bars and cafés lined up along a coastline that’s perfect for swimming. Enjoy a warm summer’s night strolling along the promenade, while days can be spent exploring the historic sites of Valletta, only a 10-minute ferry across the harbour.",
-      "location_subheading": "Malta",
-      "price": 360,
-      "original_price": 529,
-      "discount_percentage": 32,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000005I8ZBAA0",
-      "hero_image": "https://images.luxuryescapes.com/e6empblilv93kzkf9i6b",
-      "image_two": "https://images.luxuryescapes.com/u4c4n8oxicjn1xvjg9wg",
-      "image_three": "https://images.luxuryescapes.com/ji0c0io8cpxwzgv9l72g",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "AX The Victoria Hotel",
       "offer_country_name": "Malta",
@@ -39,6 +21,24 @@
       "image_two": "https://images.luxuryescapes.com/lvs4t6cqlr87ha8hxkq",
       "image_three": "https://images.luxuryescapes.com/bp31321mj81o3u8ch6mt",
       "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "AX The Palace",
+      "offer_country_name": "Malta",
+      "location_heading": "Sliema",
+      "title": "Five-Star Harbour-View Malta Luxury with Rooftop Infinity Pool",
+      "description": "Stay in the heart of Malta's upmarket Sliema resort town while relaxing in contemporary, five-star luxury at the stylish AX The Palace. With designer décor, superb dining options and a laidback-chic vibe, this is the perfect mix of comfort and charm. Spectacular views of the town, Mediterranean Sea and Valletta Grand Harbour can be admired from most rooms and public spaces. Dine at a handful of excellent venues; whether you’re craving Asian fusion, Mediterranean-inspired street food or coffee and burgers, you’ll find something that satisfies your tastebuds here. For a relaxed summer evening, head up to Lounge 360, the panoramic rooftop terrace with a gorgeous infinity pool, where you can enjoy a handcrafted cocktail with a side of breathtaking vistas. You can’t beat Sliema’s urban beachside location. AX The Palace is only minutes from the waterfront, where you’ll find restaurants, bars and cafés lined up along a coastline that’s perfect for swimming. Enjoy a warm summer’s night strolling along the promenade, while days can be spent exploring the historic sites of Valletta, only a 10-minute ferry across the harbour.",
+      "location_subheading": "Malta",
+      "price": 369,
+      "original_price": 535,
+      "discount_percentage": 31,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000005I8ZBAA0",
+      "hero_image": "https://images.luxuryescapes.com/e6empblilv93kzkf9i6b",
+      "image_two": "https://images.luxuryescapes.com/u4c4n8oxicjn1xvjg9wg",
+      "image_three": "https://images.luxuryescapes.com/ji0c0io8cpxwzgv9l72g",
+      "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     }
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-13",
+    "last_updated": "2026-07-14",
     "hotel_count": 2,
-    "average_price": 271,
-    "average_discount": 42
+    "average_price": 275,
+    "average_discount": 41
   }
 }

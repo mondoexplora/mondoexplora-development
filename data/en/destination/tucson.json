@@ -4,26 +4,8 @@
   "country_code": "US",
   "hero_title": "Hotels in Tucson",
   "description": "Discover the best hotels in Tucson, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/jxfnnn6dvl888qe8jpsf",
+  "hero_image": "https://images.luxuryescapes.com/59pd7o5z4xzhd57msnb9",
   "hotels": [
-    {
-      "vendor_name": "Hacienda Del Sol",
-      "offer_country_name": "United States",
-      "location_heading": "Tucson",
-      "title": "Historic Arizona Desert Escape",
-      "description": "Get your fix of southwest charms in one of Arizona's most picturesque spots at the Hacienda Del Sol Guest Ranch Resort. This idyllic, 34-acre refuge dates back to 1929 and perfectly combines rustic touches with modern charms and is set in the shadows of the stunning Santa Catalina Mountain Range. Make the most of your superb location by exploring the nearby Finger Rock Canyon, Arizona-Sonora Desert Museum or Colossal Cave Mountain Park and hitting the shops at La Encantada. Later, recharge within the resort and make use of the luxurious facilities onsite. Indulge at either of the two fine dining restaurants, The Grill and Terraza Garden Patio & Lounge, dive into three sparkling pools, or be treated to a luxurious spa treatment. For an active escape, drop into the 24-hour fitness centre or go horseback riding along the many trails that wrap around the resort.",
-      "location_subheading": "United States",
-      "price": 477,
-      "original_price": 477,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007lpaIAAQ",
-      "hero_image": "https://images.luxuryescapes.com/jxfnnn6dvl888qe8jpsf",
-      "image_two": "https://images.luxuryescapes.com/5lf697wm8q9zoydypj0o",
-      "image_three": "https://images.luxuryescapes.com/vpyuzh0nfbl150rtbrbg",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Omni Tucson National Resort",
       "offer_country_name": "United States",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Hacienda Del Sol",
+      "offer_country_name": "United States",
+      "location_heading": "Tucson",
+      "title": "Historic Arizona Desert Escape",
+      "description": "Get your fix of southwest charms in one of Arizona's most picturesque spots at the Hacienda Del Sol Guest Ranch Resort. This idyllic, 34-acre refuge dates back to 1929 and perfectly combines rustic touches with modern charms and is set in the shadows of the stunning Santa Catalina Mountain Range. Make the most of your superb location by exploring the nearby Finger Rock Canyon, Arizona-Sonora Desert Museum or Colossal Cave Mountain Park and hitting the shops at La Encantada. Later, recharge within the resort and make use of the luxurious facilities onsite. Indulge at either of the two fine dining restaurants, The Grill and Terraza Garden Patio & Lounge, dive into three sparkling pools, or be treated to a luxurious spa treatment. For an active escape, drop into the 24-hour fitness centre or go horseback riding along the many trails that wrap around the resort.",
+      "location_subheading": "United States",
+      "price": 477,
+      "original_price": 477,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007lpaIAAQ",
+      "hero_image": "https://images.luxuryescapes.com/jxfnnn6dvl888qe8jpsf",
+      "image_two": "https://images.luxuryescapes.com/5lf697wm8q9zoydypj0o",
+      "image_three": "https://images.luxuryescapes.com/vpyuzh0nfbl150rtbrbg",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-13",
+    "last_updated": "2026-07-14",
     "hotel_count": 2,
     "average_price": 534,
     "average_discount": 0

@@ -3,16 +3,16 @@
   "code": "TW",
   "hero_title": "Taiwan (Province of China) Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Taiwan (Province of China).",
-  "hero_image": "https://images.luxuryescapes.com/ci3o66uphlwbg6vcffz",
+  "hero_image": "https://images.luxuryescapes.com/vdhxts2qkmdswqlb34eq",
   "popular_destinations": [
     {
       "name": "Taipei",
       "slug": "taipei",
-      "image": "https://images.luxuryescapes.com/ci3o66uphlwbg6vcffz",
+      "image": "https://images.luxuryescapes.com/vdhxts2qkmdswqlb34eq",
       "description": "Explore Taipei with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 608
+      "avg_price": 629
     },
     {
       "name": "Kaohsiung",
@@ -30,7 +30,7 @@
       "description": "Explore Chiayi County with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 887
+      "avg_price": 888
     },
     {
       "name": "Taipei City",
@@ -39,7 +39,7 @@
       "description": "Explore Taipei City with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 548
+      "avg_price": 570
     },
     {
       "name": "Taoyuan",
