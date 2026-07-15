@@ -4,8 +4,26 @@
   "country_code": "GR",
   "hero_title": "Hotels in Kea",
   "description": "Discover the best hotels in Kea, Greece. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/jlr2gisumloinphc88ti",
+  "hero_image": "https://images.luxuryescapes.com/2ne6v0uysiv6l5h8l8o",
   "hotels": [
+    {
+      "vendor_name": "Porto Kea Suites- Kea Island",
+      "offer_country_name": "Greece",
+      "location_heading": "Kea",
+      "title": "Greek Island Seaside Suites with Onsite Restaurant, Pool & Spa",
+      "description": "Discover laidback luxury with a dash of Cycladic charm at Porto Kea Suites, tucked away on Greece's hidden gem island, Kea. Spend sun-drenched days lounging by the pool or indulge in authentic Greek cuisine at the hotel's traditional restaurant. The dedicated bar staff offers refreshing cocktails and light bites served poolside, perfect for those lazy afternoon moments between swims. Nestled in a tranquil spot near Korissia port, the best of Kea is at your fingertips. Stroll to nearby sandy beaches, explore the ancient hiking trails that crisscross the island, or take a short drive to discover Ioulida, the island's picturesque capital known for its stone-built houses and ancient stone lion, carved from a natural slab.",
+      "location_subheading": "Greece",
+      "price": 412,
+      "original_price": 490,
+      "discount_percentage": 16,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CVCVrYAP",
+      "hero_image": "https://images.luxuryescapes.com/2ne6v0uysiv6l5h8l8o",
+      "image_two": "https://images.luxuryescapes.com/stuafgx7rk7bz8yz427s",
+      "image_three": "https://images.luxuryescapes.com/zm4doifd1tzc5ru52ol",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Ydor Hotel & Spa- Kea Island",
       "offer_country_name": "Greece",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-14",
-    "hotel_count": 1,
-    "average_price": 594,
-    "average_discount": 14
+    "last_updated": "2026-07-15",
+    "hotel_count": 2,
+    "average_price": 503,
+    "average_discount": 15
   }
 }

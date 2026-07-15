@@ -13,8 +13,8 @@
       "title": "New York Ultra-Cool Loft-Style Escape in the Heart of Tribeca",
       "description": "The downtown area of Tribeca, stomping ground for effortlessly cool New Yorkers, is yours to experience with a stylish stay at the newly opened, loft-style Smyth Tribeca. This chic hotel opened its doors in 2021 and enjoys a superb location in a quiet residential area, just off the main thoroughfare. You'll be in easy reach of New York City's world-class restaurants, art galleries, designer boutiques, parks and cultural attractions. Unwind in minimalist spaces that offer a tranquil oasis away from the buzz of the city. Spend the time between exploring sweating it out at the shiny state-of-the-art gym, grabbing a bite to eat at the onsite restaurant or ordering a cosmopolitan at the glamorous lobby bar.",
       "location_subheading": "United States",
-      "price": 1115,
-      "original_price": 1115,
+      "price": 1117,
+      "original_price": 1117,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007lrlDAAQ",
       "hero_image": "https://images.luxuryescapes.com/nzvs3r8kto29aw6ulsfd",
@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Walker Hotel Tribeca",
+      "offer_country_name": "United States",
+      "location_heading": "New York City",
+      "title": "Trendy Tribeca New York City Break with Daily Breakfast & Seasonal Rooftop Bar",
+      "description": "Step into the vibrant energy of New York City at this chic hotel - once a ribbon factory, now a beautifully reimagined urban retreat. The space blends industrial heritage with contemporary sophistication, featuring curated interiors, warm tones and thoughtful design details that nod to its storied past. Perfectly positioned in the heart of Tribeca, the hotel is surrounded by the neighbourhood's renowned art galleries, boutique shops and celebrated dining spots. It's also just a short walk from the eclectic streets of Soho, the historic charm of the West Village and the dynamic pulse of the Financial District. Savour vibrant Mediterranean flavours at the acclaimed Seventy Seven Alley, sip handcrafted cocktails with sweeping skyline views at seasonal Walker Rooftop or wind down to live music in the moody, intimate setting of Saint Tuesday. After a day of exploration, retreat to your room with plush comforts and cityscape views.",
+      "location_subheading": "United States",
+      "price": 629,
+      "original_price": 1258,
+      "discount_percentage": 50,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000WlwAzYAJ",
+      "hero_image": "https://images.luxuryescapes.com/40k20azwwf2x5q4p9qm8",
+      "image_two": "https://images.luxuryescapes.com/vn5tjk7pignyvoshsdtvl",
+      "image_three": "https://images.luxuryescapes.com/rv0indtacuyzr8dgfxz8",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-07-24 13:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-14",
-    "hotel_count": 1,
-    "average_price": 1115,
-    "average_discount": 0
+    "last_updated": "2026-07-15",
+    "hotel_count": 2,
+    "average_price": 873,
+    "average_discount": 25
   }
 }

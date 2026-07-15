@@ -25,24 +25,6 @@
       "end_date_utc": "2027-02-10 12:59:00"
     },
     {
-      "vendor_name": "The Modernist Thessaloniki",
-      "offer_country_name": "Greece",
-      "location_heading": "Thessaloniki",
-      "title": "Thessaloniki 1920s Heritage Escape near Old Town with Rooftop Terrace",
-      "description": "Immerse yourself in contemporary luxury at this boutique masterpiece that combines industrial chic with mid-century elegance. Begin your day with specialty coffee and locally-inspired breakfast at The Modernist Cafe, then soak in breathtaking sunset views from the rooftop terrace. Relax in thoughtfully designed spaces where raw concrete meets soft linens and bespoke furniture. The Modernist Thessaloniki sits in the hip Ladadika district, where traditional tavernas rub shoulders with modern art galleries and wine bars. Just steps from the city's coolest haunts and treasures, you're a three-minute wander from the bustling Aristotelous Square, or you can enjoy a leisurely stroll along the waterfront to the iconic White Tower.",
-      "location_subheading": "Greece",
-      "price": 408,
-      "original_price": 408,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FisTXAAZ",
-      "hero_image": "https://images.luxuryescapes.com/dxo94jotvsmitvjkvci",
-      "image_two": "https://images.luxuryescapes.com/acr9037n5lp58jmib4rr",
-      "image_three": "https://images.luxuryescapes.com/obyoocvm2iev2ziuzm6",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
       "vendor_name": "The Excelsior Hotel, Thessaloniki",
       "offer_country_name": "Greece",
       "location_heading": "Thessaloniki",
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Modernist Thessaloniki",
+      "offer_country_name": "Greece",
+      "location_heading": "Thessaloniki",
+      "title": "Thessaloniki 1920s Heritage Escape near Old Town with Rooftop Terrace",
+      "description": "Immerse yourself in contemporary luxury at this boutique masterpiece that combines industrial chic with mid-century elegance. Begin your day with specialty coffee and locally-inspired breakfast at The Modernist Cafe, then soak in breathtaking sunset views from the rooftop terrace. Relax in thoughtfully designed spaces where raw concrete meets soft linens and bespoke furniture. The Modernist Thessaloniki sits in the hip Ladadika district, where traditional tavernas rub shoulders with modern art galleries and wine bars. Just steps from the city's coolest haunts and treasures, you're a three-minute wander from the bustling Aristotelous Square, or you can enjoy a leisurely stroll along the waterfront to the iconic White Tower.",
+      "location_subheading": "Greece",
+      "price": 408,
+      "original_price": 408,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FisTXAAZ",
+      "hero_image": "https://images.luxuryescapes.com/dxo94jotvsmitvjkvci",
+      "image_two": "https://images.luxuryescapes.com/acr9037n5lp58jmib4rr",
+      "image_three": "https://images.luxuryescapes.com/obyoocvm2iev2ziuzm6",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-14",
+    "last_updated": "2026-07-15",
     "hotel_count": 3,
     "average_price": 410,
     "average_discount": 15

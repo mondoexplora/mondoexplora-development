@@ -3,16 +3,16 @@
   "code": "MT",
   "hero_title": "Malta Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Malta.",
-  "hero_image": "https://images.luxuryescapes.com/t7j30f962iskqvrl9y2i",
+  "hero_image": "https://images.luxuryescapes.com/e6empblilv93kzkf9i6b",
   "popular_destinations": [
     {
       "name": "Sliema",
       "slug": "sliema",
-      "image": "https://images.luxuryescapes.com/t7j30f962iskqvrl9y2i",
+      "image": "https://images.luxuryescapes.com/e6empblilv93kzkf9i6b",
       "description": "Explore Sliema with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 275
+      "avg_price": 280
     },
     {
       "name": "Valletta",
@@ -21,16 +21,7 @@
       "description": "Explore Valletta with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 445
-    },
-    {
-      "name": "St. Julian's",
-      "slug": "st.-julian's",
-      "image": "https://images.luxuryescapes.com/fpwqocdfoep1hohbx3vd",
-      "description": "Explore St. Julian's with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 239
+      "avg_price": 427
     },
     {
       "name": "Saint Julian's",
@@ -40,6 +31,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 252
+    },
+    {
+      "name": "St. Julian's",
+      "slug": "st.-julian's",
+      "image": "https://images.luxuryescapes.com/fpwqocdfoep1hohbx3vd",
+      "description": "Explore St. Julian's with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 239
     },
     {
       "name": "Senglea",

@@ -3,25 +3,25 @@
   "code": "JO",
   "hero_title": "Jordan Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Jordan.",
-  "hero_image": "https://images.luxuryescapes.com/szh9nfyq2qp4qjnrzn7b",
+  "hero_image": "https://images.luxuryescapes.com/g5b72ugr2vywu7wxc7g",
   "popular_destinations": [
     {
       "name": "Amman",
       "slug": "amman",
-      "image": "https://images.luxuryescapes.com/szh9nfyq2qp4qjnrzn7b",
+      "image": "https://images.luxuryescapes.com/g5b72ugr2vywu7wxc7g",
       "description": "Explore Amman with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 445
+      "avg_price": 444
     },
     {
       "name": "Aqaba",
       "slug": "aqaba",
-      "image": "https://images.luxuryescapes.com/tvugxdus9djnjjkvcgaa8",
+      "image": "https://images.luxuryescapes.com/bz5froxci5o8iyi6o2",
       "description": "Explore Aqaba with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 407
+      "avg_price": 408
     },
     {
       "name": "Petra",
@@ -30,25 +30,7 @@
       "description": "Explore Petra with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 371
-    },
-    {
-      "name": "Dead Sea",
-      "slug": "dead-sea",
-      "image": "https://images.luxuryescapes.com/mkyznlqr7hhy9m8hlcvp",
-      "description": "Explore Dead Sea with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 322
-    },
-    {
-      "name": "Sweimeh",
-      "slug": "sweimeh",
-      "image": "https://images.luxuryescapes.com/buqaexjuhbq8u020no3a",
-      "description": "Explore Sweimeh with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 424
+      "avg_price": 372
     },
     {
       "name": "Swemeh",
@@ -58,6 +40,24 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 361
+    },
+    {
+      "name": "Dead Sea",
+      "slug": "dead-sea",
+      "image": "https://images.luxuryescapes.com/mkyznlqr7hhy9m8hlcvp",
+      "description": "Explore Dead Sea with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 323
+    },
+    {
+      "name": "Sweimeh",
+      "slug": "sweimeh",
+      "image": "https://images.luxuryescapes.com/buqaexjuhbq8u020no3a",
+      "description": "Explore Sweimeh with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 374
     }
   ],
   "seo": {

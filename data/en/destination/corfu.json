@@ -4,26 +4,8 @@
   "country_code": "GR",
   "hero_title": "Hotels in Corfu",
   "description": "Discover the best hotels in Corfu, Greece. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/vu4bn8txkhael39kd9b",
+  "hero_image": "https://images.luxuryescapes.com/oluxxfirotc0iqohfukb",
   "hotels": [
-    {
-      "vendor_name": "The Olivar Suites - Corfu",
-      "offer_country_name": "Greece",
-      "location_heading": "Corfu",
-      "title": "Opulent Corfu Seaside Suites in 18th-Century Olive Mill with Outdoor Pool & Onsite Restaurant",
-      "description": "Located in an olive grove on Corfu's southeastern coast, The Olivar Suites honours its heritage as a former 18th-century olive oil mill. A beautiful outdoor pool serves as the heart of the resort, while Flya restaurant celebrates Mediterranean flavours using local ingredients and the hotel's herb garden. The spa is a wellness sanctuary, offering treatments inspired by ancient Greek healing practices. Perched along the pristine shores of Messonghi Beach, this resort is your gateway to relaxation and adventure. Spend mornings exploring the traditional fishing village of Messonghi, and afternoons discovering hidden coves by private boat or taking scenic drives through the hills to reach Corfu's UNESCO-listed Old Town, just 30 minutes away.",
-      "location_subheading": "Greece",
-      "price": 769,
-      "original_price": 769,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GxkDcAAJ",
-      "hero_image": "https://images.luxuryescapes.com/vu4bn8txkhael39kd9b",
-      "image_two": "https://images.luxuryescapes.com/8cuir53ontu186pu044",
-      "image_three": "https://images.luxuryescapes.com/ka9whyum6ep8mkbrfg0n",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Angsana Corfu",
       "offer_country_name": "Greece",
@@ -43,6 +25,60 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Corfu Imperial, A Grecotel Resort to Live",
+      "offer_country_name": "Greece",
+      "location_heading": "Corfu",
+      "title": "Corfu Oceanfront Island Elegance with Private Beach, Eight Bars & Restaurants & Onsite Spa",
+      "description": "Experience the ultimate Greek island getaway at this luxurious five-star resort, set against the stunning backdrop of the sapphire Ionian Sea. With sleek, modern design accented by vintage charm, the resort exudes glamour from the moment you arrive. Enjoy access to four secluded beaches, three sparkling pools and the indulgent Elixir spa. Elevate your Mediterranean escape with diverse dining options. Start your day with breakfast at the airy Mon Repos, then treat yourself to a gourmet experience at the elegant Aristos restaurant or the unique Yali Seafood, which floats directly on the water. Beyond the resort, discover Corfu's rich heritage with a short drive to the UNESCO-listed Old Town, home to Venetian fortresses and historic buildings. Nestled on a private peninsula amidst Corfu’s sun-soaked scenery, Corfu Imperial, A Grecotel Resort is the perfect base to explore the Emerald Island, renowned for its lush greenery and vibrant history.",
+      "location_subheading": "Greece",
+      "price": 877,
+      "original_price": 877,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HvFIIA0",
+      "hero_image": "https://images.luxuryescapes.com/zyf9lgf9fir13nj0lo7w",
+      "image_two": "https://images.luxuryescapes.com/b7tm617bpdbfsrl3oi79",
+      "image_three": "https://images.luxuryescapes.com/2q4jpqrq7nvyqncukeh",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Domes Miramare, a Luxury Collection Resort, Corfu",
+      "offer_country_name": "Greece",
+      "location_heading": "Corfu",
+      "title": "Corfu Adults-Only Beachfront Retreat with Private Speedboat & Three Onsite Restaurants",
+      "description": "Built as a trophy property by the Onassis family in the 1960s and once host to President Eisenhower and Maria Callas, Domes Miramare, a Luxury Collection Resort, Corfu delivers aristocratic legacy on a Corfiot shoreline, framed by ancient olive groves. The adults-only resort's low-rise Seafront and Panoramic Wings offer uninterrupted Ionian views from every suite and villa. Walk barefoot across the lawn to white marble steps that lead directly into the sea, or take the resort's private speedboat out to explore Corfu's hidden coves at your own pace. Come dinner time, the award-winning Makris anchors the property alongside 1962 Restaurant by the sea and Antonino's, an Italian venue with a nostalgic 1950s beachside spirit. Four bars, Soma Spa and a tranquil outdoor pool complete a resort that earns its five stars through quiet, unhurried confidence.",
+      "location_subheading": "Greece",
+      "price": 678,
+      "original_price": 678,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ScAFzYAN",
+      "hero_image": "https://images.luxuryescapes.com/yphf31x9r9xpgz6kcuh",
+      "image_two": "https://images.luxuryescapes.com/65cj45sul7q7krv44g",
+      "image_three": "https://images.luxuryescapes.com/6bh87p1h9qclxpi10jin6",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:55:51"
+    },
+    {
+      "vendor_name": "Domes of Corfu, Autograph Collection",
+      "offer_country_name": "Greece",
+      "location_heading": "Corfu",
+      "title": "Corfu: Glyfada Beach Luxury Resort with Onsite Beach Club Access",
+      "description": "Domes of Corfu, Autograph Collection occupies a rare position on Glyfada Beach; in fact, it's the island's only luxury resort on this Blue Flag shoreline. Pine and cypress-covered cliffs rise behind, and the Ionian Sea stretches out ahead. At the heart of the resort, the CORE cultural hub offers live music, local markets, open-air cinema and artisan masterclasses. Four restaurants span Greek beachfront seafood, reimagined Asian flavours, Italian and street food, while Sora Beach Club anchors the waterfront with resident DJ sets and sunset cocktails. Families are particularly well catered for, with a Montessori-inspired Kids Club, a dedicated teens room, and a splash park, plus an adults-only pool and spa for parents seeking a moment to themselves. Corfu's UNESCO-listed Old Town - a labyrinth of Venetian fortresses and narrow alleyways - is 25 minutes away when the resort's pull finally lets you go.",
+      "location_subheading": "Greece",
+      "price": 538,
+      "original_price": 538,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ScIGkYAN",
+      "hero_image": "https://images.luxuryescapes.com/vsf4oxv72atvfirboqtn",
+      "image_two": "https://images.luxuryescapes.com/xwue3frggqo8lhx4hl1f",
+      "image_three": "https://images.luxuryescapes.com/7sxg2wqlboobpcgzd9g",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-01 12:55:42"
+    },
+    {
       "vendor_name": "Kontokali Bay Resort & Spa",
       "offer_country_name": "Greece",
       "location_heading": "Corfu",
@@ -57,6 +93,24 @@
       "image_two": "https://images.luxuryescapes.com/jkibfxk14k05kc5zgzxk",
       "image_three": "https://images.luxuryescapes.com/zxqtuok1458mmudlrt6c",
       "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Olivar Suites - Corfu",
+      "offer_country_name": "Greece",
+      "location_heading": "Corfu",
+      "title": "Opulent Corfu Seaside Suites in 18th-Century Olive Mill with Outdoor Pool & Onsite Restaurant",
+      "description": "Located in an olive grove on Corfu's southeastern coast, The Olivar Suites honours its heritage as a former 18th-century olive oil mill. A beautiful outdoor pool serves as the heart of the resort, while Flya restaurant celebrates Mediterranean flavours using local ingredients and the hotel's herb garden. The spa is a wellness sanctuary, offering treatments inspired by ancient Greek healing practices. Perched along the pristine shores of Messonghi Beach, this resort is your gateway to relaxation and adventure. Spend mornings exploring the traditional fishing village of Messonghi, and afternoons discovering hidden coves by private boat or taking scenic drives through the hills to reach Corfu's UNESCO-listed Old Town, just 30 minutes away.",
+      "location_subheading": "Greece",
+      "price": 769,
+      "original_price": 769,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GxkDcAAJ",
+      "hero_image": "https://images.luxuryescapes.com/vu4bn8txkhael39kd9b",
+      "image_two": "https://images.luxuryescapes.com/8cuir53ontu186pu044",
+      "image_three": "https://images.luxuryescapes.com/ka9whyum6ep8mkbrfg0n",
+      "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     }
@@ -78,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-14",
-    "hotel_count": 3,
-    "average_price": 771,
+    "last_updated": "2026-07-15",
+    "hotel_count": 6,
+    "average_price": 734,
     "average_discount": 0
   }
 }

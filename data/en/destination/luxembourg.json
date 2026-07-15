@@ -4,26 +4,8 @@
   "country_code": "LU",
   "hero_title": "Hotels in Luxembourg",
   "description": "Discover the best hotels in Luxembourg, Luxembourg. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/55xoueqyz42t3etd4t",
+  "hero_image": "https://images.luxuryescapes.com/vzi2mxp33sxyh8dg2wiw",
   "hotels": [
-    {
-      "vendor_name": "Sofitel Luxembourg Le Grand Ducal",
-      "offer_country_name": "Luxembourg",
-      "location_heading": "Luxembourg",
-      "title": "Luxembourg City Oasis with French-Inspired Restaurant & Stylish Bar",
-      "description": "Rising above Luxembourg’s historic Petrusse Valley, this five-star retreat offers sweeping views over the UNESCO-listed Old Town and the gleaming Alzette River. Step outside to wander the cobbled streets of Grund, discover the Grand Ducal Palace or explore the atmospheric Bock Casemates tunnels - the best of the city is within easy reach. Within the hotel, savour French-inspired cuisine at the panoramic top-floor restaurant, or enjoy pastries and artisan coffee by morning and handcrafted cocktails by night at the elegant L’Observatoire. Keep up your routine at the state-of-the-art fitness facilities before retreating to your stylish room or suite.",
-      "location_subheading": "Luxembourg",
-      "price": 655,
-      "original_price": 655,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JjtiNYAR",
-      "hero_image": "https://images.luxuryescapes.com/55xoueqyz42t3etd4t",
-      "image_two": "https://images.luxuryescapes.com/1j4lknufwh84ss494z",
-      "image_three": "https://images.luxuryescapes.com/06q265f8kiptp6zn2vl",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Sofitel Luxembourg Europe",
       "offer_country_name": "Luxembourg",
@@ -38,6 +20,24 @@
       "hero_image": "https://images.luxuryescapes.com/vzi2mxp33sxyh8dg2wiw",
       "image_two": "https://images.luxuryescapes.com/irfwj5mkwg2kotfugv0d",
       "image_three": "https://images.luxuryescapes.com/72zcrzsymr34p5cbzo9",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Sofitel Luxembourg Le Grand Ducal",
+      "offer_country_name": "Luxembourg",
+      "location_heading": "Luxembourg",
+      "title": "Luxembourg City Oasis with French-Inspired Restaurant & Stylish Bar",
+      "description": "Rising above Luxembourg’s historic Petrusse Valley, this five-star retreat offers sweeping views over the UNESCO-listed Old Town and the gleaming Alzette River. Step outside to wander the cobbled streets of Grund, discover the Grand Ducal Palace or explore the atmospheric Bock Casemates tunnels - the best of the city is within easy reach. Within the hotel, savour French-inspired cuisine at the panoramic top-floor restaurant, or enjoy pastries and artisan coffee by morning and handcrafted cocktails by night at the elegant L’Observatoire. Keep up your routine at the state-of-the-art fitness facilities before retreating to your stylish room or suite.",
+      "location_subheading": "Luxembourg",
+      "price": 655,
+      "original_price": 655,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JjtiNYAR",
+      "hero_image": "https://images.luxuryescapes.com/55xoueqyz42t3etd4t",
+      "image_two": "https://images.luxuryescapes.com/1j4lknufwh84ss494z",
+      "image_three": "https://images.luxuryescapes.com/06q265f8kiptp6zn2vl",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-14",
+    "last_updated": "2026-07-15",
     "hotel_count": 2,
     "average_price": 592,
     "average_discount": 0

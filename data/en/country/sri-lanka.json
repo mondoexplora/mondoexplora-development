@@ -3,16 +3,25 @@
   "code": "LK",
   "hero_title": "Sri Lanka Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Sri Lanka.",
-  "hero_image": "https://images.luxuryescapes.com/9dwox5elvvxcbmwswjeq",
+  "hero_image": "https://images.luxuryescapes.com/64gnmm9rrfiy2v32ir5r",
   "popular_destinations": [
+    {
+      "name": "Kandy",
+      "slug": "kandy",
+      "image": "https://images.luxuryescapes.com/64gnmm9rrfiy2v32ir5r",
+      "description": "Explore Kandy with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 921
+    },
     {
       "name": "Weligama",
       "slug": "weligama",
-      "image": "https://images.luxuryescapes.com/9dwox5elvvxcbmwswjeq",
+      "image": "https://images.luxuryescapes.com/0yfoqvnnqwe7h0cm0xfh",
       "description": "Explore Weligama with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1312
+      "avg_price": 1313
     },
     {
       "name": "Balapitiya",
@@ -24,13 +33,13 @@
       "avg_price": 539
     },
     {
-      "name": "Galle",
-      "slug": "galle",
-      "image": "https://images.luxuryescapes.com/wr8c06rpgnqjxubbyg94",
-      "description": "Explore Galle with luxury accommodations",
+      "name": "Ahungalla",
+      "slug": "ahungalla",
+      "image": "https://images.luxuryescapes.com/u2smx3jm1hb975asir9j",
+      "description": "Explore Ahungalla with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 489
+      "avg_price": 1014
     },
     {
       "name": "Yala National Park",
@@ -42,13 +51,13 @@
       "avg_price": 979
     },
     {
-      "name": "Ahungalla",
-      "slug": "ahungalla",
-      "image": "https://images.luxuryescapes.com/u2smx3jm1hb975asir9j",
-      "description": "Explore Ahungalla with luxury accommodations",
+      "name": "Hambantota",
+      "slug": "hambantota",
+      "image": "https://images.luxuryescapes.com/7g4sby4zoznh3y8fldd",
+      "description": "Explore Hambantota with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1012
+      "avg_price": 456
     }
   ],
   "seo": {

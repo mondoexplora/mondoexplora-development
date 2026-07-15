@@ -4,26 +4,8 @@
   "country_code": "US",
   "hero_title": "Hotels in Arizona",
   "description": "Discover the best hotels in Arizona, United States. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/an4ocwdvxircpk7x4xw",
+  "hero_image": "https://images.luxuryescapes.com/h0rmsoo7rc4a1upiz00a",
   "hotels": [
-    {
-      "vendor_name": "The Westin Tempe",
-      "offer_country_name": "United States",
-      "location_heading": "Arizona",
-      "title": "Arizona Escape with Rooftop Bar, Daily US$40 Dining Credit & Nightly Cocktails",
-      "description": "Rising as a contemporary icon in the Arizona desert, The Westin Tempe redefines the desert retreat with a seamless blend of modern sophistication and holistic well-being. Building upon the energy of Mill Avenue and Arizona State University, you're steps from Tempe's best dining and entertainment, and the vibrant pule of the nearby Mill Avenue district, making for the perfect weekend away. Before stepping out, ascend to Skysill Rooftop Lounge, the Valley’s highest open-air destination, to sip artisanal cocktails against a backdrop of panoramic mountain sunsets. When hunger strikes, Terra Tempe Kitchen & Spirits serves up bold Southwestern-inspired cuisine with handcrafted cocktails and locally sourced ingredients just downstairs. Your US$40 daily dining credit keeps things flexible, whether you're grabbing a cold brew on your way out or settling in for the evening at Terra. The Westin Tempe is where downtown energy meets an elevated, tranquil escape.",
-      "location_subheading": "United States",
-      "price": 239,
-      "original_price": 854,
-      "discount_percentage": 72,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SbRYzYAN",
-      "hero_image": "https://images.luxuryescapes.com/an4ocwdvxircpk7x4xw",
-      "image_two": "https://images.luxuryescapes.com/ppzx9ur46og0i0goej",
-      "image_three": "https://images.luxuryescapes.com/iyoo8cersry0jaojh4l",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-07-29 13:59:00"
-    },
     {
       "vendor_name": "Omni Tempe Hotel at ASU",
       "offer_country_name": "United States",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Westin Tempe",
+      "offer_country_name": "United States",
+      "location_heading": "Arizona",
+      "title": "Arizona Escape with Rooftop Bar, Daily US$40 Dining Credit & Nightly Cocktails",
+      "description": "Rising as a contemporary icon in the Arizona desert, The Westin Tempe redefines the desert retreat with a seamless blend of modern sophistication and holistic well-being. Building upon the energy of Mill Avenue and Arizona State University, you're steps from Tempe's best dining and entertainment, and the vibrant pule of the nearby Mill Avenue district, making for the perfect weekend away. Before stepping out, ascend to Skysill Rooftop Lounge, the Valley’s highest open-air destination, to sip artisanal cocktails against a backdrop of panoramic mountain sunsets. When hunger strikes, Terra Tempe Kitchen & Spirits serves up bold Southwestern-inspired cuisine with handcrafted cocktails and locally sourced ingredients just downstairs. Your US$40 daily dining credit keeps things flexible, whether you're grabbing a cold brew on your way out or settling in for the evening at Terra. The Westin Tempe is where downtown energy meets an elevated, tranquil escape.",
+      "location_subheading": "United States",
+      "price": 239,
+      "original_price": 854,
+      "discount_percentage": 72,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SbRYzYAN",
+      "hero_image": "https://images.luxuryescapes.com/an4ocwdvxircpk7x4xw",
+      "image_two": "https://images.luxuryescapes.com/ppzx9ur46og0i0goej",
+      "image_three": "https://images.luxuryescapes.com/iyoo8cersry0jaojh4l",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-07-29 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-14",
+    "last_updated": "2026-07-15",
     "hotel_count": 2,
     "average_price": 355,
     "average_discount": 36

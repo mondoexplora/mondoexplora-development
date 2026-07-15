@@ -4,8 +4,26 @@
   "country_code": "GR",
   "hero_title": "Hotels in Zakynthos",
   "description": "Discover the best hotels in Zakynthos, Greece. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/slhfwkcpas0f7u9u84ae",
+  "hero_image": "https://images.luxuryescapes.com/9t2k3ypir8cy3jacptyk",
   "hotels": [
+    {
+      "vendor_name": "Domes Aulus Zante, Autograph Collection",
+      "offer_country_name": "Greece",
+      "location_heading": "Zakynthos",
+      "title": "Greek Island Modern Beachfront Haven with Eight Restaurants, Three Bars & Onsite Spa",
+      "description": "Set on the sweeping shores of Zakynthos comes this modern beachfront escape, inspired by the island's sparkling coast and soaring mountain ranges. From the private balcony of each minimalist suite, you'll see right out to the sparkling waters of the Ionian Sea. When it comes to dining, you're set with eight restaurants and three bars, as well as a decadent spa and dazzling outdoor pool. The resort is right on the shores of Laganas Beach, so take a dip in the sparkling waters whenever you please. When adventure calls, visit the Blue Caves, explore the Askos Stone Park, stop by one of the island's many churches or take a stroll around Zakynthos Town.",
+      "location_subheading": "Greece",
+      "price": 738,
+      "original_price": 738,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Sc0zoYAB",
+      "hero_image": "https://images.luxuryescapes.com/9t2k3ypir8cy3jacptyk",
+      "image_two": "https://images.luxuryescapes.com/8zj5obvb4ift22o4k3qd",
+      "image_three": "https://images.luxuryescapes.com/ezczoa6nj5dkg4acvw1",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:55:51"
+    },
     {
       "vendor_name": "Lesante Classic - Preferred Hotels & Resorts",
       "offer_country_name": "Greece",
@@ -41,24 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Domes Aulus Zante, Autograph Collection",
-      "offer_country_name": "Greece",
-      "location_heading": "Zakynthos",
-      "title": "Greek Island Modern Beachfront Haven with Eight Restaurants, Three Bars & Onsite Spa",
-      "description": "Set on the sweeping shores of Zakynthos comes this modern beachfront escape, inspired by the island's sparkling coast and soaring mountain ranges. From the private balcony of each minimalist suite, you'll see right out to the sparkling waters of the Ionian Sea. When it comes to dining, you're set with eight restaurants and three bars, as well as a decadent spa and dazzling outdoor pool. The resort is right on the shores of Laganas Beach, so take a dip in the sparkling waters whenever you please. When adventure calls, visit the Blue Caves, explore the Askos Stone Park, stop by one of the island's many churches or take a stroll around Zakynthos Town.",
-      "location_subheading": "Greece",
-      "price": 738,
-      "original_price": 738,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Sc0zoYAB",
-      "hero_image": "https://images.luxuryescapes.com/9t2k3ypir8cy3jacptyk",
-      "image_two": "https://images.luxuryescapes.com/8zj5obvb4ift22o4k3qd",
-      "image_three": "https://images.luxuryescapes.com/ezczoa6nj5dkg4acvw1",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:55:51"
     }
   ],
   "seo": {
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-14",
+    "last_updated": "2026-07-15",
     "hotel_count": 3,
     "average_price": 2755,
     "average_discount": 5

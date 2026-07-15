@@ -3,8 +3,17 @@
   "code": "DZ",
   "hero_title": "Algeria Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Algeria.",
-  "hero_image": "https://images.luxuryescapes.com/smb3r6b8fqrsee9xdvfb",
+  "hero_image": "https://images.luxuryescapes.com/5p6kjqfl2eshq3ho9u9",
   "popular_destinations": [
+    {
+      "name": "Oran",
+      "slug": "oran",
+      "image": "https://images.luxuryescapes.com/5p6kjqfl2eshq3ho9u9",
+      "description": "Explore Oran with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 706
+    },
     {
       "name": "Algiers",
       "slug": "algiers",
@@ -13,15 +22,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 527
-    },
-    {
-      "name": "Oran",
-      "slug": "oran",
-      "image": "https://images.luxuryescapes.com/5p6kjqfl2eshq3ho9u9",
-      "description": "Explore Oran with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 705
     }
   ],
   "seo": {

@@ -3,17 +3,8 @@
   "code": "BS",
   "hero_title": "Bahamas Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Bahamas.",
-  "hero_image": "https://images.luxuryescapes.com/g0cip5bg0bcr2cnqckw8",
+  "hero_image": "https://images.luxuryescapes.com/86e42bk5njjft2dsqw7n",
   "popular_destinations": [
-    {
-      "name": "Bahamas",
-      "slug": "bahamas",
-      "image": "https://images.luxuryescapes.com/g0cip5bg0bcr2cnqckw8",
-      "description": "Explore Bahamas with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 672
-    },
     {
       "name": "Great Exuma",
       "slug": "great-exuma",
@@ -21,7 +12,16 @@
       "description": "Explore Great Exuma with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 2559
+      "avg_price": 2564
+    },
+    {
+      "name": "Bahamas",
+      "slug": "bahamas",
+      "image": "https://images.luxuryescapes.com/g0cip5bg0bcr2cnqckw8",
+      "description": "Explore Bahamas with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 674
     },
     {
       "name": "Nassau",
@@ -30,7 +30,7 @@
       "description": "Explore Nassau with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1097
+      "avg_price": 1098
     },
     {
       "name": "Paradise Island",
@@ -39,7 +39,7 @@
       "description": "Explore Paradise Island with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1832
+      "avg_price": 1835
     },
     {
       "name": "South Andros",
@@ -48,7 +48,7 @@
       "description": "Explore South Andros with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1602
+      "avg_price": 1605
     }
   ],
   "seo": {

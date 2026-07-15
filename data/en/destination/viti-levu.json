@@ -23,6 +23,42 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "InterContinental Fiji Golf Resort & Spa",
+      "offer_country_name": "Fiji",
+      "location_heading": "Viti Levu",
+      "title": "Tropical Fiji Beachfront Oasis with Onsite Dining, Three Pools & Championship Golf Course",
+      "description": "Set on 35 acres of lush tropical gardens and white sands, InterContinental Fiji Golf Resort & Spa by IHG graces the shores of Natadola Beach, offering panoramic views across the Pacific Ocean and a dazzling turquoise lagoon. Blending authentic Fijian design with contemporary luxury, enjoy dips in three outdoor pools, relax with traditional therapies at Spa InterContinental, or perfect your swing on the 18-hole championship course, where fairways meet dramatic beachfront vistas. Indulge in decadent seafood at one of the resort’s acclaimed restaurants. As evening falls, Kama Lounge serves locally inspired cocktails accompanied by live music and captivating South Pacific fire dancing. The resort’s tropical gardens are alive with native flora and the gentle sounds of the ocean",
+      "location_subheading": "Fiji",
+      "price": 520,
+      "original_price": 520,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009BVPoAAO",
+      "hero_image": "https://images.luxuryescapes.com/9r3bew92ytsx27vzvpkx",
+      "image_two": "https://images.luxuryescapes.com/5y0d96k1noqx7na8uep",
+      "image_three": "https://images.luxuryescapes.com/wxtchtobpjcnyja2q5v",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Outrigger Fiji Beach Resort",
+      "offer_country_name": "Fiji",
+      "location_heading": "Viti Levu",
+      "title": "Outrigger Fiji Five-Star Family-Friendly Coral Coast Luxury",
+      "description": "Set your watch to island time and surrender to the laidback rhythm of Fiji at the five-star Outrigger Fiji Beach Resort - a beachfront haven nestled in the heart of the adventure-filled Coral Coast. This tropical sanctuary blends traditional charm with modern luxury, offering everything from sleek contemporary rooms to thatched beachfront bures inspired by classic Fijian design. Perfect for both families and couples, the resort features a dedicated adults-only zone for peaceful moments, while younger guests are entertained with a vibrant kids’ club, teen activities and babysitting services. Immerse yourself in Fiji’s rich culture with daily experiences, from kava ceremonies to mesmerising firewalking performances (on select days). Explore vibrant coral reefs and crystal-clear lagoons with snorkelling and kayaking adventures, or join the OUTRIGGER Zone coral planting program and play a part in preserving Fiji’s marine life. As the day ends, relax on sugar-soft sands and watch the sky come alive with the fiery hues of a Coral Coast sunset.",
+      "location_subheading": "Fiji",
+      "price": 621,
+      "original_price": 621,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004SYj8AAG",
+      "hero_image": "https://images.luxuryescapes.com/vgk9qqtv02qd4mtlfgtf",
+      "image_two": "https://images.luxuryescapes.com/a0etqskj3ig8q7ihi6pg",
+      "image_three": "https://images.luxuryescapes.com/6gkh9pnrerluux3rwz6",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-14",
-    "hotel_count": 1,
-    "average_price": 1409,
-    "average_discount": 11
+    "last_updated": "2026-07-15",
+    "hotel_count": 3,
+    "average_price": 850,
+    "average_discount": 4
   }
 }

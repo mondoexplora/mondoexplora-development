@@ -10,9 +10,9 @@
       "slug": "porto",
       "image": "https://images.luxuryescapes.com/ec4uqpj2dy0z5ftv7z",
       "description": "Explore Porto with luxury accommodations",
-      "hotel_count": 8,
-      "hotel_deals": 8,
-      "avg_price": 421
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 417
     },
     {
       "name": "Lisbon",
@@ -21,25 +21,25 @@
       "description": "Explore Lisbon with luxury accommodations",
       "hotel_count": 8,
       "hotel_deals": 8,
-      "avg_price": 511
-    },
-    {
-      "name": "Algarve",
-      "slug": "algarve",
-      "image": "https://images.luxuryescapes.com/5r8cotqq86n2tqm5k1g",
-      "description": "Explore Algarve with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 805
+      "avg_price": 503
     },
     {
       "name": "Alentejo",
       "slug": "alentejo",
-      "image": "https://images.luxuryescapes.com/9p6lek7m1jtlzyr6z78",
+      "image": "https://images.luxuryescapes.com/6bbjg526ghig1vh7009s",
       "description": "Explore Alentejo with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
       "avg_price": 759
+    },
+    {
+      "name": "Algarve",
+      "slug": "algarve",
+      "image": "https://images.luxuryescapes.com/l583eqlkmbef0k92bh6",
+      "description": "Explore Algarve with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 805
     },
     {
       "name": "Madeira",
@@ -48,16 +48,16 @@
       "description": "Explore Madeira with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 869
+      "avg_price": 870
     },
     {
-      "name": "Douro Valley",
-      "slug": "douro-valley",
-      "image": "https://images.luxuryescapes.com/u5ect5vjuu6tilzs6zwq",
-      "description": "Explore Douro Valley with luxury accommodations",
+      "name": "Vilamoura",
+      "slug": "vilamoura",
+      "image": "https://images.luxuryescapes.com/3olk929t5lqxpo0n688",
+      "description": "Explore Vilamoura with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 427
+      "avg_price": 434
     }
   ],
   "seo": {

@@ -4,26 +4,8 @@
   "country_code": "TW",
   "hero_title": "Hotels in Taipei",
   "description": "Discover the best hotels in Taipei, Taiwan (Province of China). Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/vdhxts2qkmdswqlb34eq",
+  "hero_image": "https://images.luxuryescapes.com/ci3o66uphlwbg6vcffz",
   "hotels": [
-    {
-      "vendor_name": "Mandarin Oriental Taipei",
-      "offer_country_name": "Taiwan (Province of China)",
-      "location_heading": "Taipei",
-      "title": "French Chateau-Inspired Mandarin Oriental Luxury near Taipei's Xinyi Shopping District",
-      "description": "There's arguably nowhere more regal to stay when in Taipei than the renowned Mandarin Oriental, Taipei. This five-star haven, which has hosted the likes of Tom Cruise and Madonna, promises to dazzle with French chateau-inspired interiors and an enviable location on tree-lined Dunhua North Road, just a 10-minute drive from Xinyi shopping district. An urban oasis, this is the perfect introduction to the magic of Taiwan, with a glistening outdoor swimming pool offering spectacular vistas and cuisine worthy of one of Asia’s greatest dining destinations. Try contemporary Italian at Bencotto and late-night classics and cocktails at M.O. Bar.",
-      "location_subheading": "Taiwan (Province of China)",
-      "price": 946,
-      "original_price": 946,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000BdkTXAAZ",
-      "hero_image": "https://images.luxuryescapes.com/vdhxts2qkmdswqlb34eq",
-      "image_two": "https://images.luxuryescapes.com/vq6z0gql3lxqfq6y9",
-      "image_three": "https://images.luxuryescapes.com/96sc2os2nm5crkikrsn",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Hotel Indigo Taipei North",
       "offer_country_name": "Taiwan (Province of China)",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 01:59:00"
+    },
+    {
+      "vendor_name": "Mandarin Oriental Taipei",
+      "offer_country_name": "Taiwan (Province of China)",
+      "location_heading": "Taipei",
+      "title": "French Chateau-Inspired Mandarin Oriental Luxury near Taipei's Xinyi Shopping District",
+      "description": "There's arguably nowhere more regal to stay when in Taipei than the renowned Mandarin Oriental, Taipei. This five-star haven, which has hosted the likes of Tom Cruise and Madonna, promises to dazzle with French chateau-inspired interiors and an enviable location on tree-lined Dunhua North Road, just a 10-minute drive from Xinyi shopping district. An urban oasis, this is the perfect introduction to the magic of Taiwan, with a glistening outdoor swimming pool offering spectacular vistas and cuisine worthy of one of Asia’s greatest dining destinations. Try contemporary Italian at Bencotto and late-night classics and cocktails at M.O. Bar.",
+      "location_subheading": "Taiwan (Province of China)",
+      "price": 946,
+      "original_price": 946,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000BdkTXAAZ",
+      "hero_image": "https://images.luxuryescapes.com/vdhxts2qkmdswqlb34eq",
+      "image_two": "https://images.luxuryescapes.com/vq6z0gql3lxqfq6y9",
+      "image_three": "https://images.luxuryescapes.com/96sc2os2nm5crkikrsn",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Regent Taipei",
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-14",
+    "last_updated": "2026-07-15",
     "hotel_count": 3,
     "average_price": 629,
     "average_discount": 0

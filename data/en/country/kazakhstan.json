@@ -3,17 +3,8 @@
   "code": "KZ",
   "hero_title": "Kazakhstan Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Kazakhstan.",
-  "hero_image": "https://images.luxuryescapes.com/tvfoe75twh9gjqo77tbd",
+  "hero_image": "https://images.luxuryescapes.com/fsd8de4m6lsz4ylznz6",
   "popular_destinations": [
-    {
-      "name": "Aktau",
-      "slug": "aktau",
-      "image": "https://images.luxuryescapes.com/tvfoe75twh9gjqo77tbd",
-      "description": "Explore Aktau with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 810
-    },
     {
       "name": "Almaty",
       "slug": "almaty",
@@ -21,7 +12,16 @@
       "description": "Explore Almaty with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1057
+      "avg_price": 1055
+    },
+    {
+      "name": "Aktau",
+      "slug": "aktau",
+      "image": "https://images.luxuryescapes.com/tvfoe75twh9gjqo77tbd",
+      "description": "Explore Aktau with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 808
     }
   ],
   "seo": {

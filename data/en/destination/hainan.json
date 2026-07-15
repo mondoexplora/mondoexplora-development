@@ -4,26 +4,8 @@
   "country_code": "CN",
   "hero_title": "Hotels in Hainan",
   "description": "Discover the best hotels in Hainan, China. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/16d4uu96751512ejxpo",
+  "hero_image": "https://images.luxuryescapes.com/bkcvs6tl4ias0ycd7xqe",
   "hotels": [
-    {
-      "vendor_name": "Pullman Sanya Bay Resort Spa",
-      "offer_country_name": "China",
-      "location_heading": "Hainan",
-      "title": "China Oceanfront Escape Overlooking Sanya Bay with Four Pools & Spa",
-      "description": "Escape to paradise at this relaxing retreat, where the turquoise waters of the South China Sea meet stylish, modern accommodations. Dive into one of four incredible pools, or head to the Thai-style Shan Spa for traditional Chinese massages to melt your stress away while gentle breezes drift through open windows. Food lovers, prepare to feast at two unique restaurants offering everything from local Cantonese cuisine to western favourites that will keep you coming back for seconds. Just steps from Sanya Bay’s pristine beach and close to downtown hotspots, you couldn't ask for a better location.",
-      "location_subheading": "China",
-      "price": 366,
-      "original_price": 366,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ib045YAB",
-      "hero_image": "https://images.luxuryescapes.com/16d4uu96751512ejxpo",
-      "image_two": "https://images.luxuryescapes.com/hlvhgqsb7y860o8zd6u",
-      "image_three": "https://images.luxuryescapes.com/m9z3tuo8rz7jzhm4kk",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Capella Tufu Bay",
       "offer_country_name": "China",
@@ -31,13 +13,31 @@
       "title": "Five-Star China Secluded Island Sanctuary with Day Spa & Four Restaurants & Bars",
       "description": "Discover Hainan Island’s best-kept secret, a haven of ultra-modern design where an appreciation for the natural world and Chinese history runs free - welcome to Capella Tufu Bay. Another sparkling beacon of beauty set in a secluded paradise, the resort claims a rightful spot within the world’s best hotel brand, Capella, as voted by Travel + Leisure Readers in the 2023 World's Best Awards. Adventure through storied surroundings and learn of the mystical Silk Road trade history, delve into the thriving green of neighbouring rainforests, or tiptoe your way to the pristine shoreline for a tranquil dip on this enchanting island. Blending sophistication and serenity, this breathtaking retreat is home to an intimate collection of world-class eateries. Indulge in Chinese fine dining at Lan Ting in traditional tea house-inspired interiors, revel in a classic marketplace atmosphere at Silk Road, and sample light snacks and creative cocktails inspired by herbs and spices at The Bar. Satisfy all of your senses with a pampering session at Auriga Wellness, or allow yourself to dive headfirst into a beautiful cultural immersion along one of China’s most pristine coastlines.",
       "location_subheading": "China",
-      "price": 949,
-      "original_price": 949,
+      "price": 950,
+      "original_price": 950,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FcMmkAAF",
       "hero_image": "https://images.luxuryescapes.com/bkcvs6tl4ias0ycd7xqe",
       "image_two": "https://images.luxuryescapes.com/abm18hwhmklc2ouolv7",
       "image_three": "https://images.luxuryescapes.com/2tlli3swk10fapbndqj",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Pullman Sanya Bay Resort Spa",
+      "offer_country_name": "China",
+      "location_heading": "Hainan",
+      "title": "China Oceanfront Escape Overlooking Sanya Bay with Four Pools & Spa",
+      "description": "Escape to paradise at this relaxing retreat, where the turquoise waters of the South China Sea meet stylish, modern accommodations. Dive into one of four incredible pools, or head to the Thai-style Shan Spa for traditional Chinese massages to melt your stress away while gentle breezes drift through open windows. Food lovers, prepare to feast at two unique restaurants offering everything from local Cantonese cuisine to western favourites that will keep you coming back for seconds. Just steps from Sanya Bay’s pristine beach and close to downtown hotspots, you couldn't ask for a better location.",
+      "location_subheading": "China",
+      "price": 367,
+      "original_price": 367,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ib045YAB",
+      "hero_image": "https://images.luxuryescapes.com/16d4uu96751512ejxpo",
+      "image_two": "https://images.luxuryescapes.com/hlvhgqsb7y860o8zd6u",
+      "image_three": "https://images.luxuryescapes.com/m9z3tuo8rz7jzhm4kk",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-14",
+    "last_updated": "2026-07-15",
     "hotel_count": 2,
-    "average_price": 658,
+    "average_price": 659,
     "average_discount": 0
   }
 }

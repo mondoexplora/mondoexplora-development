@@ -43,24 +43,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Lindos Grand Resort & Spa",
-      "offer_country_name": "Greece",
-      "location_heading": "Rhodes",
-      "title": "Greece Rhodes Adults-Only Beachfront Escape with Seven Restaurants, Two Bars & Wellness Spa",
-      "description": "Set on Rhodes' south-east coast, this polished resort overlooks Vlycha Bay and the Aegean Sea. Whitewashed rooms and suites feature private pools, while Aegeo Spa offers hammam rituals, sauna and an indoor pool with jacuzzi. Dine across internationally-inspired restaurants, from Takara Asian to Agistri Greek Fish, with rotating menus of traditional recipes, before heading into Lindos for tavernas and the Acropolis after dusk. Famed for iridescent waters, pebble shores and awe-inspiring ruins, there's no shortage of ways to spend your days. Easily accessible trails lead to the Paralia Vilcha coastline for bathing in the glittering sea, while ancient ruins and natural hot springs are a short drive away. Medieval Rhodes Town, Pefkos and boat trips to nearby coves are also within easy reach.",
-      "location_subheading": "Greece",
-      "price": 669,
-      "original_price": 669,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000QdnwLYAR",
-      "hero_image": "https://images.luxuryescapes.com/nw8bqzsr7ckvdnzi730b",
-      "image_two": "https://images.luxuryescapes.com/8zlsf1ur7qq0m9jlgi65",
-      "image_three": "https://images.luxuryescapes.com/6y189xzrtpa0w9n30yo",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:55:51"
-    },
-    {
       "vendor_name": "Gennadi Grand Resort",
       "offer_country_name": "Greece",
       "location_heading": "Rhodes",
@@ -74,6 +56,24 @@
       "hero_image": "https://images.luxuryescapes.com/cistnid2uqx0cx2y0u6",
       "image_two": "https://images.luxuryescapes.com/6g6rw9qxzoj8yfl2jculq",
       "image_three": "https://images.luxuryescapes.com/58061z20n3ne4244gi5",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:55:51"
+    },
+    {
+      "vendor_name": "Lindos Grand Resort & Spa",
+      "offer_country_name": "Greece",
+      "location_heading": "Rhodes",
+      "title": "Greece Rhodes Adults-Only Beachfront Escape with Seven Restaurants, Two Bars & Wellness Spa",
+      "description": "Set on Rhodes' south-east coast, this polished resort overlooks Vlycha Bay and the Aegean Sea. Whitewashed rooms and suites feature private pools, while Aegeo Spa offers hammam rituals, sauna and an indoor pool with jacuzzi. Dine across internationally-inspired restaurants, from Takara Asian to Agistri Greek Fish, with rotating menus of traditional recipes, before heading into Lindos for tavernas and the Acropolis after dusk. Famed for iridescent waters, pebble shores and awe-inspiring ruins, there's no shortage of ways to spend your days. Easily accessible trails lead to the Paralia Vilcha coastline for bathing in the glittering sea, while ancient ruins and natural hot springs are a short drive away. Medieval Rhodes Town, Pefkos and boat trips to nearby coves are also within easy reach.",
+      "location_subheading": "Greece",
+      "price": 669,
+      "original_price": 669,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000QdnwLYAR",
+      "hero_image": "https://images.luxuryescapes.com/nw8bqzsr7ckvdnzi730b",
+      "image_two": "https://images.luxuryescapes.com/8zlsf1ur7qq0m9jlgi65",
+      "image_three": "https://images.luxuryescapes.com/6y189xzrtpa0w9n30yo",
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:55:51"
@@ -96,7 +96,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-14",
+    "last_updated": "2026-07-15",
     "hotel_count": 4,
     "average_price": 716,
     "average_discount": 0

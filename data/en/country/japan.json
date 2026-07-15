@@ -10,9 +10,9 @@
       "slug": "tokyo",
       "image": "https://images.luxuryescapes.com/ytxhg81phz1wvm6hurcc",
       "description": "Explore Tokyo with luxury accommodations",
-      "hotel_count": 11,
-      "hotel_deals": 11,
-      "avg_price": 1114
+      "hotel_count": 14,
+      "hotel_deals": 14,
+      "avg_price": 1056
     },
     {
       "name": "Kyoto",
@@ -21,43 +21,43 @@
       "description": "Explore Kyoto with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 1000
+      "avg_price": 1019
     },
     {
       "name": "Osaka",
       "slug": "osaka",
       "image": "https://images.luxuryescapes.com/s2m0vtkvfe87mro938kc",
       "description": "Explore Osaka with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 538
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 588
     },
     {
       "name": "Sapporo",
       "slug": "sapporo",
-      "image": "https://images.luxuryescapes.com/aixbddefsiqtb7b2rl2",
+      "image": "https://images.luxuryescapes.com/bo6udncydom5cvvsjnhq",
       "description": "Explore Sapporo with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
       "avg_price": 221
     },
     {
-      "name": "Nara",
-      "slug": "nara",
-      "image": "https://images.luxuryescapes.com/u71lch9u0qgu9jmtxxjm",
-      "description": "Explore Nara with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 157
+      "name": "Okinawa",
+      "slug": "okinawa",
+      "image": "https://images.luxuryescapes.com/ab5lqi7ybp7sp19k0uih",
+      "description": "Explore Okinawa with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 276
     },
     {
-      "name": "Oita",
-      "slug": "oita",
-      "image": "https://images.luxuryescapes.com/gvhocmehvlfin4xrhhmm",
-      "description": "Explore Oita with luxury accommodations",
+      "name": "Hachimantai-shi",
+      "slug": "hachimantai-shi",
+      "image": "https://images.luxuryescapes.com/1j7ubkt2kloaxow0q9d",
+      "description": "Explore Hachimantai-shi with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 702
+      "avg_price": 379
     }
   ],
   "seo": {

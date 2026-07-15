@@ -4,8 +4,62 @@
   "country_code": "KH",
   "hero_title": "Hotels in Siem Reap",
   "description": "Discover the best hotels in Siem Reap, Cambodia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/1oegjegyjfyagek9tcrq",
+  "hero_image": "https://images.luxuryescapes.com/ffvgcfgnah9lwqwg3vc",
   "hotels": [
+    {
+      "vendor_name": "Memoire Palace Resort & Spa",
+      "offer_country_name": "Cambodia",
+      "location_heading": "Siem Reap",
+      "title": "Award-Winning Siem Reap Suite Escape near Angkor Wat",
+      "description": "Discover the timeless beauty of Siem Reap at Memoire Palace Resort & Spa: a stunning resort draped in contemporary art and Cambodian charm, located minutes from the UNESCO World Heritage Site of Angkor Wat. Combining contemporary architecture, traditional art and five-star service has led this stunning resort to be named among Tripadvisor's top 1% worldwide, with a Travellers' Choice Best of the Best 2020 mention among the Top 25 Hotels - Asia. Make the most of Memoire Palace's incredible location, placing you within easy reach of top Siem Reap attractions including Bayon Temple, Angkor Thom and the national museum. Adorned with Cambodian paintings and historical pieces, the resort is set around an impressive pool surrounded by nature. Expect a long list of state-of-the-art facilities including a luxurious spa, temple-inspired restaurant and a stylish pool bar with bean bags and sunbeds.",
+      "location_subheading": "Cambodia",
+      "price": 289,
+      "original_price": 348,
+      "discount_percentage": 17,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003Hv1nAAC",
+      "hero_image": "https://images.luxuryescapes.com/ffvgcfgnah9lwqwg3vc",
+      "image_two": "https://images.luxuryescapes.com/zmxlotrfmbm4h6ujfqa9",
+      "image_three": "https://images.luxuryescapes.com/og4v78e8cc45543w2k6h",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Shinta Mani Angkor and Bensley Collection Pool Villas",
+      "offer_country_name": "Cambodia",
+      "location_heading": "Siem Reap",
+      "title": "Boutique Cambodia Escape near Angkor Wat with Five Restaurants & Bars",
+      "description": "Discover the magic of Cambodia with a luxurious boutique escape to Shinta Mani Angkor and Bensley Collection Pool Villas, located in the heart of Siem Reap's French Quarter near the famed Angkor Wat temple complex. Designed by acclaimed architect Bill Bensley, this upscale accommodation sits next to the Siem Reap River, within easy reach of the vibrant downtown area, Kandal Village's cafés and galleries and the Royal Residence and Royal Independence Gardens. Onsite, you'll find a luxurious spa with six treatment rooms, along with five restaurants and bars offering a range of delicious fare, including burgers and sandwiches at Baitong, international bites with locally sourced ingredients at Kroya and 30 gins with thoughtful tonic pairings at Bensley's Bar.",
+      "location_subheading": "Cambodia",
+      "price": 374,
+      "original_price": 473,
+      "discount_percentage": 21,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009E5AOAA0",
+      "hero_image": "https://images.luxuryescapes.com/jlcah5umq0zg5b99cac",
+      "image_two": "https://images.luxuryescapes.com/nl9e6kg8fa4hcmm4c59j",
+      "image_three": "https://images.luxuryescapes.com/n87q1eytuq2jl91hkgq",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Sofitel Angkor Phokeethra Golf & Spa Resort",
+      "offer_country_name": "Cambodia",
+      "location_heading": "Siem Reap",
+      "title": "Five-Star Siem Reap French-Inspired Luxury near UNESCO-listed Angkor Wat with Five Restaurants, Free-Form Pool & Golf Course",
+      "description": "Snuggled amid tropical gardens just moments from the legendary temples of Angkor, this tranquil Sofitel hideaway in Siem Reap invites you to embrace the rich spirit of Khmer culture, with a French twist. By day, explore ancient ruins and sacred relics. By night, return to French elegance and warm Cambodian hospitality. Indulge in soothing treatments at the award-winning Sofitel Spa, where traditional rituals meet modern wellness, or take a leisurely dip in the expansive, free-form pool. Gourmands are in for a treat with refined Khmer cuisine and French-inspired gastronomy served across the resort's five restaurants and bars. Plus, golf enthusiasts can tee off at the nearby 18-hole championship golf course.",
+      "location_subheading": "Cambodia",
+      "price": 543,
+      "original_price": 543,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP59YAF",
+      "hero_image": "https://images.luxuryescapes.com/jigmm32nrth3bm2rqb3i",
+      "image_two": "https://images.luxuryescapes.com/w0flcvk09f647yxxz4ph",
+      "image_three": "https://images.luxuryescapes.com/9j045kekq87gzrndpavn",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "The Aviary Hotel",
       "offer_country_name": "Cambodia",
@@ -21,24 +75,6 @@
       "image_two": "https://images.luxuryescapes.com/tdcu4luhjlci9zeeh1p",
       "image_three": "https://images.luxuryescapes.com/98ppzd3lbqrgeplpfzou",
       "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Shinta Mani Angkor and Bensley Collection Pool Villas",
-      "offer_country_name": "Cambodia",
-      "location_heading": "Siem Reap",
-      "title": "Boutique Cambodia Escape near Angkor Wat with Five Restaurants & Bars",
-      "description": "Discover the magic of Cambodia with a luxurious boutique escape to Shinta Mani Angkor and Bensley Collection Pool Villas, located in the heart of Siem Reap's French Quarter near the famed Angkor Wat temple complex. Designed by acclaimed architect Bill Bensley, this upscale accommodation sits next to the Siem Reap River, within easy reach of the vibrant downtown area, Kandal Village's cafés and galleries and the Royal Residence and Royal Independence Gardens. Onsite, you'll find a luxurious spa with six treatment rooms, along with five restaurants and bars offering a range of delicious fare, including burgers and sandwiches at Baitong, international bites with locally sourced ingredients at Kroya and 30 gins with thoughtful tonic pairings at Bensley's Bar.",
-      "location_subheading": "Cambodia",
-      "price": 352,
-      "original_price": 451,
-      "discount_percentage": 22,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009E5AOAA0",
-      "hero_image": "https://images.luxuryescapes.com/jlcah5umq0zg5b99cac",
-      "image_two": "https://images.luxuryescapes.com/nl9e6kg8fa4hcmm4c59j",
-      "image_three": "https://images.luxuryescapes.com/n87q1eytuq2jl91hkgq",
-      "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     }
@@ -60,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-14",
-    "hotel_count": 2,
-    "average_price": 257,
-    "average_discount": 17
+    "last_updated": "2026-07-15",
+    "hotel_count": 4,
+    "average_price": 342,
+    "average_discount": 12
   }
 }

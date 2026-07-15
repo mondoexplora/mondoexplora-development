@@ -3,25 +3,16 @@
   "code": "MA",
   "hero_title": "Morocco Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Morocco.",
-  "hero_image": "https://images.luxuryescapes.com/mwlgtj74u4rw9pujkq81",
+  "hero_image": "https://images.luxuryescapes.com/k233e0d10blsisexz0lc",
   "popular_destinations": [
     {
       "name": "Marrakech",
       "slug": "marrakech",
-      "image": "https://images.luxuryescapes.com/mwlgtj74u4rw9pujkq81",
+      "image": "https://images.luxuryescapes.com/k233e0d10blsisexz0lc",
       "description": "Explore Marrakech with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 1621
-    },
-    {
-      "name": "Agadir",
-      "slug": "agadir",
-      "image": "https://images.luxuryescapes.com/ruqmhy7ao667vruqzxh",
-      "description": "Explore Agadir with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 562
+      "avg_price": 1620
     },
     {
       "name": "El Jadida",
@@ -30,7 +21,7 @@
       "description": "Explore El Jadida with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 574
+      "avg_price": 575
     },
     {
       "name": "Fez",
@@ -39,7 +30,7 @@
       "description": "Explore Fez with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 900
+      "avg_price": 902
     },
     {
       "name": "Rabat",
@@ -48,7 +39,7 @@
       "description": "Explore Rabat with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 567
+      "avg_price": 568
     },
     {
       "name": "Taghazout",
@@ -57,7 +48,16 @@
       "description": "Explore Taghazout with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1195
+      "avg_price": 1199
+    },
+    {
+      "name": "Agadir",
+      "slug": "agadir",
+      "image": "https://images.luxuryescapes.com/ruqmhy7ao667vruqzxh",
+      "description": "Explore Agadir with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 564
     }
   ],
   "seo": {

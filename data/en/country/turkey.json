@@ -3,16 +3,16 @@
   "code": "TR",
   "hero_title": "Turkey Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Turkey.",
-  "hero_image": "https://images.luxuryescapes.com/romp236s9jlc5hhxnfv",
+  "hero_image": "https://images.luxuryescapes.com/17vjwp1o78as570r7u6k",
   "popular_destinations": [
     {
       "name": "Istanbul",
       "slug": "istanbul",
-      "image": "https://images.luxuryescapes.com/romp236s9jlc5hhxnfv",
+      "image": "https://images.luxuryescapes.com/17vjwp1o78as570r7u6k",
       "description": "Explore Istanbul with luxury accommodations",
       "hotel_count": 13,
       "hotel_deals": 13,
-      "avg_price": 652
+      "avg_price": 649
     },
     {
       "name": "Bodrum",
@@ -30,7 +30,7 @@
       "description": "Explore Bursa with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 293
+      "avg_price": 295
     },
     {
       "name": "Ankara",

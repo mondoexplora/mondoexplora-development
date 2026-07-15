@@ -25,32 +25,14 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Kimpton The Pittman",
-      "offer_country_name": "United States",
-      "location_heading": "Dallas",
-      "title": "Ultra-Modern Dallas Neighbourhood Stay with Cocktail Bar & Pool",
-      "description": "Pristine modernity in the heart of Dallas’ thriving cultural centre, Kimpton Pittman Hotel, an IHG Hotel provides a perfect amalgamation of classic charm and contemporary design to provide top-tier relaxation. Admire the collection of modern art and sleek furnishings that decorate the expansive spaces as you enjoy a crisp beer or a creative cocktail on Deep End’s poolside open-air deck or relax in the plush confines of Elm & Good with a hearty, tavern-inspired feed.",
-      "location_subheading": "United States",
-      "price": 585,
-      "original_price": 585,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKEPAA3",
-      "hero_image": "https://images.luxuryescapes.com/bkcjzvuapongzm8h8ljd",
-      "image_two": "https://images.luxuryescapes.com/o7ukhkai6iibvf4sk4b8",
-      "image_three": "https://images.luxuryescapes.com/ydg9x8h5vdl5ae5ne07t",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Crowne Plaza Dallas Love Field - Med Area",
       "offer_country_name": "United States",
       "location_heading": "Dallas",
       "title": "Chic Dallas Escape near Downtown with Indoor Pool & Onsite Bar & Grill",
       "description": "Enjoy the very best of Dallas with a stay at Crowne Plaza Dallas Love Field - Med Area, an IHG Hotel, just minutes from the city's vibrant downtown. Indulge in delicious Texas-style cuisine at Bristol Bar & Grill, or unwind with a refreshing dip in the hotel's sparkling indoor pool. The hotel's proximity to the Dallas World Aquarium, Perot Museum of Nature and Science, and the renowned Dallas Museum of Art offers endless exploration opportunities.",
       "location_subheading": "United States",
-      "price": 310,
-      "original_price": 310,
+      "price": 311,
+      "original_price": 311,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GxYX4AAN",
       "hero_image": "https://images.luxuryescapes.com/j56ir1g0cjngnrlxgqn",
@@ -79,14 +61,32 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Kimpton The Pittman",
+      "offer_country_name": "United States",
+      "location_heading": "Dallas",
+      "title": "Ultra-Modern Dallas Neighbourhood Stay with Cocktail Bar & Pool",
+      "description": "Pristine modernity in the heart of Dallas’ thriving cultural centre, Kimpton Pittman Hotel, an IHG Hotel provides a perfect amalgamation of classic charm and contemporary design to provide top-tier relaxation. Admire the collection of modern art and sleek furnishings that decorate the expansive spaces as you enjoy a crisp beer or a creative cocktail on Deep End’s poolside open-air deck or relax in the plush confines of Elm & Good with a hearty, tavern-inspired feed.",
+      "location_subheading": "United States",
+      "price": 586,
+      "original_price": 586,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdKEPAA3",
+      "hero_image": "https://images.luxuryescapes.com/bkcjzvuapongzm8h8ljd",
+      "image_two": "https://images.luxuryescapes.com/o7ukhkai6iibvf4sk4b8",
+      "image_three": "https://images.luxuryescapes.com/ydg9x8h5vdl5ae5ne07t",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Omni Dallas Hotel",
       "offer_country_name": "United States",
       "location_heading": "Dallas",
       "title": "Downtown Dallas Stay Moments from Convention Center with Outdoor Heated Infinity Pool & Luxury Spa",
       "description": "Experience the grandeur of Texas with a modern, sleek stay in downtown Dallas. Located adjacent to the Dallas Convention Center, this hotel offers a gateway to the city's vibrant arts and culture scene, including the Dallas Museum of Art and the Perot Museum of Nature and Science. Satisfy your palate at one of the plethora of onsite dining options, with dining options at Restaurants on Lamar at your fingertips: from souther-style favourites at Texas Spice to the sophisticated steakhouse, Bob's Steak & Chop House. After a day of exploration, retreat to the Mokara Spa for a rejuvenating treatment or enjoy a drink at the The Owners Box sports bar.",
       "location_subheading": "United States",
-      "price": 727,
-      "original_price": 727,
+      "price": 718,
+      "original_price": 718,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HiI3IAK",
       "hero_image": "https://images.luxuryescapes.com/7fxv0k3ovd7gsgjuqam",
@@ -114,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-14",
+    "last_updated": "2026-07-15",
     "hotel_count": 5,
-    "average_price": 473,
+    "average_price": 472,
     "average_discount": 0
   }
 }

@@ -3,12 +3,12 @@
   "code": "PH",
   "hero_title": "Philippines Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Philippines.",
-  "hero_image": "https://images.luxuryescapes.com/e0xls18w5zx6g11rwwk",
+  "hero_image": "https://images.luxuryescapes.com/fzjeq2o6fvlnxb87az9n",
   "popular_destinations": [
     {
       "name": "Manila",
       "slug": "manila",
-      "image": "https://images.luxuryescapes.com/e0xls18w5zx6g11rwwk",
+      "image": "https://images.luxuryescapes.com/fzjeq2o6fvlnxb87az9n",
       "description": "Explore Manila with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
@@ -17,11 +17,11 @@
     {
       "name": "Boracay",
       "slug": "boracay",
-      "image": "https://images.luxuryescapes.com/5lklngyii5g8a4hg6qd",
+      "image": "https://images.luxuryescapes.com/gj4o01hubz6pn19ozmo",
       "description": "Explore Boracay with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 859
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 669
     },
     {
       "name": "Panglao",
@@ -30,16 +30,7 @@
       "description": "Explore Panglao with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 637
-    },
-    {
-      "name": "El Nido",
-      "slug": "el-nido",
-      "image": "https://images.luxuryescapes.com/urvra0h68exxohzvsec",
-      "description": "Explore El Nido with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 1696
+      "avg_price": 636
     },
     {
       "name": "Mactan",
@@ -58,6 +49,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 320
+    },
+    {
+      "name": "Cebu",
+      "slug": "cebu",
+      "image": "https://images.luxuryescapes.com/owtefzap3cyguysypil",
+      "description": "Explore Cebu with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 571
     }
   ],
   "seo": {

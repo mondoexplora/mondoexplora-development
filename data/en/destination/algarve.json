@@ -4,26 +4,8 @@
   "country_code": "PT",
   "hero_title": "Hotels in Algarve",
   "description": "Discover the best hotels in Algarve, Portugal. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/5r8cotqq86n2tqm5k1g",
+  "hero_image": "https://images.luxuryescapes.com/l583eqlkmbef0k92bh6",
   "hotels": [
-    {
-      "vendor_name": "W Algarve",
-      "offer_country_name": "Portugal",
-      "location_heading": "Algarve",
-      "title": "Portugal Oceanfront Glamour with Daily Breakfast, Nightly Drinks, Airport Transfers & Ocean Views",
-      "description": "Perched on the cliffs of the central Algarve coast, W Algarve brings the brand's signature high-energy playfulness to one of Portugal's most dramatic stretches of coastline, easily accessible with included airport transfers. All rooms come with balconies and ocean vistas, while onsite facilities span a sprawling pool and deck, the lavish AWAY Spa, and six dining venues. Market Kitchen draws on seasonal produce from local farmers, Paper Moon brings refined Italian dining to the clifftop, while Vino pairs over 200 wines with gourmet charcuterie as the sun drops into the sea. When the vibe calls for something more casual, SIP@WET serves ocean-inspired cocktails and healthy bites by the pool. Find your zen at the nearby Evaristo or Balbina Beach or head straight to AWAY Spa for endlessly indulgent treatments. A rooftop relaxation lounge, multisport courts and a fully equipped fitness pavilion keep the active set happy. From the clifftop AIR venue to the rooftop Paper Moon Terrace, everyone will find their slice of bliss here.",
-      "location_subheading": "Portugal",
-      "price": 989,
-      "original_price": 3663,
-      "discount_percentage": 73,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Y8HmTYAV",
-      "hero_image": "https://images.luxuryescapes.com/5r8cotqq86n2tqm5k1g",
-      "image_two": "https://images.luxuryescapes.com/fyge7tqxsd1xka1sk4",
-      "image_three": "https://images.luxuryescapes.com/hvfmlvcw3qrwncfu4a",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 5,
-      "end_date_utc": "2026-08-05 13:59:00"
-    },
     {
       "vendor_name": "Domes Lake Algarve, Autograph Collection",
       "offer_country_name": "Portugal",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:55:51"
+    },
+    {
+      "vendor_name": "W Algarve",
+      "offer_country_name": "Portugal",
+      "location_heading": "Algarve",
+      "title": "Portugal Oceanfront Glamour with Daily Breakfast, Nightly Drinks, Airport Transfers & Ocean Views",
+      "description": "Perched on the cliffs of the central Algarve coast, W Algarve brings the brand's signature high-energy playfulness to one of Portugal's most dramatic stretches of coastline, easily accessible with included airport transfers. All rooms come with balconies and ocean vistas, while onsite facilities span a sprawling pool and deck, the lavish AWAY Spa, and six dining venues. Market Kitchen draws on seasonal produce from local farmers, Paper Moon brings refined Italian dining to the clifftop, while Vino pairs over 200 wines with gourmet charcuterie as the sun drops into the sea. When the vibe calls for something more casual, SIP@WET serves ocean-inspired cocktails and healthy bites by the pool. Find your zen at the nearby Evaristo or Balbina Beach or head straight to AWAY Spa for endlessly indulgent treatments. A rooftop relaxation lounge, multisport courts and a fully equipped fitness pavilion keep the active set happy. From the clifftop AIR venue to the rooftop Paper Moon Terrace, everyone will find their slice of bliss here.",
+      "location_subheading": "Portugal",
+      "price": 989,
+      "original_price": 3663,
+      "discount_percentage": 73,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Y8HmTYAV",
+      "hero_image": "https://images.luxuryescapes.com/5r8cotqq86n2tqm5k1g",
+      "image_two": "https://images.luxuryescapes.com/fyge7tqxsd1xka1sk4",
+      "image_three": "https://images.luxuryescapes.com/hvfmlvcw3qrwncfu4a",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2026-08-05 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-14",
+    "last_updated": "2026-07-15",
     "hotel_count": 2,
     "average_price": 805,
     "average_discount": 37
