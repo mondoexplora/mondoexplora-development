@@ -97,6 +97,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Hotel Mercure Roma Corso Trieste",
+      "offer_country_name": "Italy",
+      "location_heading": "Rome",
+      "title": "Polished Boutique Rome Retreat with Daily Breakfast & Nightly Aperol Spritz",
+      "description": "Mercure Roma Corso Trieste is tucked into Rome's upscale Trieste district, a quiet and elegant residential neighbourhood close to Villa Ada's leafy paths, the boutiques of Via Salaria, and the Coppede district, known for its eclectic Art Nouveau architecture. The B1 Metro is conveniently close by, while the Spanish Steps, Trevi Fountain and Colosseum are a short drive away when it's time to tick off the bucket-list attractions. Inside, contemporary rooms pair parquet floors and clean lines with warm Italian touches, some with private terraces and outdoor jacuzzis. Binomio, the hotel's restaurant and pizzeria, serves refined Roman flavours on its terrace, alongside a generous breakfast buffet each morning. After dinner, stroll to the cafes of Piazza Istria, or wander toward Parioli's galleries and green spaces just beyond.",
+      "location_subheading": "Italy",
+      "price": 369,
+      "original_price": 1054,
+      "discount_percentage": 65,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000X7qBlYAJ",
+      "hero_image": "https://images.luxuryescapes.com/3v3mi8xxro5lkrxang0v",
+      "image_two": "https://images.luxuryescapes.com/6gr9zhbq43ix69gl5nfg",
+      "image_three": "https://images.luxuryescapes.com/7riomxcht8qu8voi6mmq",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-08-05 13:59:00"
+    },
+    {
       "vendor_name": "ROMANICO PALACE & SPA",
       "offer_country_name": "Italy",
       "location_heading": "Rome",
@@ -204,9 +222,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-15",
-    "hotel_count": 10,
-    "average_price": 804,
-    "average_discount": 10
+    "last_updated": "2026-07-16",
+    "hotel_count": 11,
+    "average_price": 764,
+    "average_discount": 15
   }
 }

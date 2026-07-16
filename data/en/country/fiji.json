@@ -21,16 +21,7 @@
       "description": "Explore Malolo Island with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 2380
-    },
-    {
-      "name": "Coral Coast",
-      "slug": "coral-coast",
-      "image": "https://images.luxuryescapes.com/6vaom3hbevceaddf5v",
-      "description": "Explore Coral Coast with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 721
+      "avg_price": 2382
     },
     {
       "name": "Viti Levu",
@@ -39,7 +30,16 @@
       "description": "Explore Viti Levu with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 850
+      "avg_price": 851
+    },
+    {
+      "name": "Coral Coast",
+      "slug": "coral-coast",
+      "image": "https://images.luxuryescapes.com/6vaom3hbevceaddf5v",
+      "description": "Explore Coral Coast with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 642
     },
     {
       "name": "Malolo Lailai",
@@ -48,7 +48,7 @@
       "description": "Explore Malolo Lailai with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1111
+      "avg_price": 1113
     },
     {
       "name": "Denarau Island",
@@ -57,7 +57,7 @@
       "description": "Explore Denarau Island with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 3948
+      "avg_price": 3952
     }
   ],
   "seo": {

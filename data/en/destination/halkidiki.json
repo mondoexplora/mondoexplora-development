@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Domes Noruz Kassandra Halkidiki - Adults Only",
+      "offer_country_name": "Greece",
+      "location_heading": "Halkidiki",
+      "title": "Adults-Only Greece Coastal Glamour with Infinity Pool, Spa & Onsite Dining",
+      "description": "On Halkidiki’s Kassandra peninsula, this adults-only beachfront retreat sits near Hanioti’s tavernas and the pine-fringed sands of Glarokavos Lagoon. Contemporary suites feature stylish comfort with many framing Aegean Sea views. A lagoon-style pool anchors the grounds, alongside a full-service spa and a modern fitness centre. Dining spans a broad spectrum of cuisine including nostalgic Italian classics and fresh Greek seafood, with a raw bar and cocktail lounge for late-night drinks. Day trips lead to the clifftop village of Afytos for stone lanes and sea-view dining at Strouboulis, or to Kallithea for beach clubs and the Temple of Ammon Zeus. The resort's concierge team handles the rest, from yacht charters and table reservations at the best restaurants in Halkidiki to arranging the kind of evenings that you'll still be talking about long after you get home.",
+      "location_subheading": "Greece",
+      "price": 478,
+      "original_price": 478,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SAbcTYAT",
+      "hero_image": "https://images.luxuryescapes.com/iuwzesebudk2k0m9nye",
+      "image_two": "https://images.luxuryescapes.com/xpjhe4inbfh3ndug9ut2",
+      "image_three": "https://images.luxuryescapes.com/qo2i8foeqae3y7zn93we",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:55:51"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-15",
-    "hotel_count": 1,
-    "average_price": 524,
-    "average_discount": 22
+    "last_updated": "2026-07-16",
+    "hotel_count": 2,
+    "average_price": 501,
+    "average_discount": 11
   }
 }
