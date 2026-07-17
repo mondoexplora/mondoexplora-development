@@ -67,9 +67,9 @@
       "title": "Mykonos Boutique Opulence w. Guaranteed Ocean Views, Infinity Pool & Onsite Restaurants",
       "description": "Experience the charm of the Aegean Sea with a luxurious stay at the five-star, boutique Kouros Hotel & Suites, a sanctuary steps from the lively heart of Mykonos Town. Nestled within a stunning whitewashed Cycladic building on a cliffside, this resort redefines Grecian luxury. Delight in modern indulgences, including a sparkling pool with breathtaking sea views, a state-of-the-art wellness studio for invigorating workouts and a holistic spa offering unparalleled relaxation. Discover the island's culinary treasures at Narcissus Fine Dining, where traditional Greek flavours meet innovative gastronomy, or savour Mediterranean favourites at the casual Bites Pool Restaurant.",
       "location_subheading": "Greece",
-      "price": 612,
-      "original_price": 987,
-      "discount_percentage": 38,
+      "price": 656,
+      "original_price": 1041,
+      "discount_percentage": 37,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000DQs5JYAT",
       "hero_image": "https://images.luxuryescapes.com/wpnqlxd7emd76uqg0mj",
       "image_two": "https://images.luxuryescapes.com/ctm1whsnilo8o24sw7",
@@ -149,6 +149,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Royal Myconian - Leading Hotels of the World",
+      "offer_country_name": "Greece",
+      "location_heading": "Mykonos",
+      "title": "Mykonos Beachfront Luxury Resort with Daily Breakfast, Nightly Cocktails & Return Airport Transfers",
+      "description": "At Royal Myconian, Elia Beach unfurls below in a ribbon of gold, the longest stretch of sand on Mykonos, watched over by a hillside of Cycladic stone and quiet luxury. Days here have no fixed shape. Swim at dawn, disappear into the thalassotherapy pools by mid-morning, or simply track the sun's arc from Sunset Terrace, which seems to hover above the Aegean itself. By dusk, the island reveals its other self. Camares serves octopus straight off the grill alongside crisp, cold Assyrtiko wine, while Ambrosia leans into candlelight and Mediterranean invention. Twenty minutes down the road, Mykonos Town hums with cocktail bars and local craft boutiques, or skip it entirely for a sunbed and the last of the light. Later, the pool turns to glass beneath a sky thick with stars.",
+      "location_subheading": "Greece",
+      "price": 539,
+      "original_price": 1100,
+      "discount_percentage": 51,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Zoh2PYAR",
+      "hero_image": "https://images.luxuryescapes.com/3deyis9witwo1wxpzjs",
+      "image_two": "https://images.luxuryescapes.com/yp529tl1p9uq9orcfdl",
+      "image_three": "https://images.luxuryescapes.com/7o84ziw2fd61oobhs8i",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-08-06 13:59:00"
     }
   ],
   "seo": {
@@ -168,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-16",
-    "hotel_count": 8,
-    "average_price": 764,
-    "average_discount": 17
+    "last_updated": "2026-07-17",
+    "hotel_count": 9,
+    "average_price": 744,
+    "average_discount": 21
   }
 }

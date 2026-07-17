@@ -1,0 +1,50 @@
+{
+  "city": "Great Barrier Reef",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Great Barrier Reef",
+  "description": "Discover the best hotels in Great Barrier Reef, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/g4tvujsi7dbli8l2kmix",
+  "hotels": [
+    {
+      "vendor_name": "Journey Beyond - Cruise Whitsundays",
+      "offer_country_name": "Australia",
+      "location_heading": "Great Barrier Reef",
+      "title": "Once-in-a-Lifetime Great Barrier Reef Overwater Adventure with All-Inclusive Dining & Free-Flow Drinks",
+      "description": "Experience one of the world’s most stunning natural wonders and glamp under the stars, on the waters of the Great Barrier Reef. Enjoy all-inclusive dining and drinks as you watch the sunset over the glittering Coral Sea from your overwater retreat, a once-in-a-lifetime stay. Enjoy a scenic roundtrip Whitsundays cruise to the newly-refurbished pontoon via Airlie Beach, Hamilton Island and Daydream Island, and experience a sensational sunset with the reef all to yourselves. This unmissable two-day, one-night adventure includes an overnight stay in a brand-new Reefbed on the top deck, where you can marvel at the galaxy of twinkling stars above and let the gentle waves lull you to sleep. Whether travelling solo or sharing the moment with someone special, this bucket-list experience is bound to leave you breathless.",
+      "location_subheading": "Australia",
+      "price": 599,
+      "original_price": 681,
+      "discount_percentage": 12,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ZP4YvYAL",
+      "hero_image": "https://images.luxuryescapes.com/g4tvujsi7dbli8l2kmix",
+      "image_two": "https://images.luxuryescapes.com/h9aiu8zrv6elovpyy0p8",
+      "image_three": "https://images.luxuryescapes.com/tz4lzhimhlbe5mzo1cem",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-08-13 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Great Barrier Reef - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Great Barrier Reef, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "great barrier reef hotels",
+      "great barrier reef travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/great-barrier-reef",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/great-barrier-reef",
+      "es": "https://mondoexplora.com/es/destination/great-barrier-reef",
+      "fr": "https://mondoexplora.com/fr/destination/great-barrier-reef",
+      "it": "https://mondoexplora.com/it/destination/great-barrier-reef"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-07-17",
+    "hotel_count": 1,
+    "average_price": 599,
+    "average_discount": 12
+  }
+}
