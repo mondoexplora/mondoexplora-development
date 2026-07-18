@@ -13,8 +13,8 @@
       "title": "Kyoto Serene Urban Stay near UNESCO World Heritage-listed Nijo Castle Site",
       "description": "Near the majestic Nijo Castle UNESCO heritage site, ANA Crowne Plaza Kyoto, an IHG Hotel, is a tranquil urban escape with stunning views of greenery and seasonal beauty. Take a calming walk through the Nijo Castle grounds while admiring verdant gardens and imposing stone walls. Dine at the multiple onsite restaurants, offering gastronomic greatness. As the day ends, retire to a tranquil guest room that combines refined minimalism with modern comfort for a sound slumber.",
       "location_subheading": "Japan",
-      "price": 376,
-      "original_price": 376,
+      "price": 375,
+      "original_price": 375,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CPub3AAD",
       "hero_image": "https://images.luxuryescapes.com/nip2yb6dbotqwce7t0ci",
@@ -61,6 +61,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Fauchon Hotel Kyoto",
+      "offer_country_name": "Japan",
+      "location_heading": "Kyoto",
+      "title": "Kyoto French-Inspired Boutique City Stay with Dining Credit, Daily Breakfast & Nightly Drinks",
+      "description": "Experience the allure of Japan’s cultural capital with a stay at this boutique hotel, which seamlessly blends bold Parisian design with Kyoto’s modern art movements. Centrally located alongside the Kamo River, the hotel is just a stone’s throw from ancient temples, the historic Gion district and the bustling Nishiki Market. Fauchon is a premium luxury brand synonymous with exceptional gourmet experiences for more than a century, bringing its celebrated Parisian heritage - from chocolates and macarons to fine teas - to one of its signature flagship properties outside Paris, in a city where the brand has been crafting its distinctive tea blends for almost 100 years. The hotel’s dining scene takes centre stage, with Grand Café FAUCHON offering casual French cuisine alongside views of the Higashiyama Mountain Range, while Salon de Thé FAUCHON blends the ambience of a Parisian-style afternoon tea with a Japanese tea ceremony. For cocktails with a view, head to Le Bar FAUCHON, or take some time to unwind with a signature treatment at Le Spa FAUCHON. Outside the hotel’s doors, explore the traditional wooden houses of the neighbourhood, experience a maiko or geiko show in an authentic teahouse and savour the flavours of Kyoto’s rich gastronomy.",
+      "location_subheading": "Japan",
+      "price": 739,
+      "original_price": 1421,
+      "discount_percentage": 48,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000aaT6qYAE",
+      "hero_image": "https://images.luxuryescapes.com/c9dxomevy8lf6t94dxea",
+      "image_two": "https://images.luxuryescapes.com/dn2jfdj1za6e7gug354",
+      "image_three": "https://images.luxuryescapes.com/dgmwse6m6qlhdm01j5nk",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-08-26 13:59:00"
+    },
+    {
       "vendor_name": "Garner Hotel KYOTO SHIJO KARASUMA by IHG",
       "offer_country_name": "Japan",
       "location_heading": "Kyoto",
@@ -103,8 +121,8 @@
       "title": "Modern Kyoto Stay Near Railway Station with Italian Restaurant & Bar",
       "description": "Discover the ancient charm of Kyoto with a stay at this beautifully designed hotel, conveniently located just minutes from Kyoto Railway Station. This modern retreat is the perfect base to explore the city's countless temples, shrines and teahouses. After a day of exploration, savour the authentic flavours of Italy with a uniquely Japanese twist at onsite Trattoria M Kyoto. Take advantage of Mercure Kyoto Station's central location and immerse yourself in the city's rich culture with a visit to Kyoto National Museum, Fushimi Inari Shrine or Nishiki Market. When it's time to rest, your elegantly appointed room awaits, offering all the modern comforts you might need for a relaxing stay.",
       "location_subheading": "Japan",
-      "price": 195,
-      "original_price": 195,
+      "price": 200,
+      "original_price": 200,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002J2xgIAC",
       "hero_image": "https://images.luxuryescapes.com/h62sljuuva9ik6mpcgi",
@@ -150,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-17",
-    "hotel_count": 7,
-    "average_price": 1035,
-    "average_discount": 0
+    "last_updated": "2026-07-18",
+    "hotel_count": 8,
+    "average_price": 998,
+    "average_discount": 6
   }
 }

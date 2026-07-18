@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Torquay",
   "description": "Discover the best hotels in Torquay, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/6v2wn0us2a6r6ic9ai",
+  "hero_image": "https://images.luxuryescapes.com/em1m0lrulywec4ljc9a",
   "hotels": [
+    {
+      "vendor_name": "Wyndham Resort Torquay",
+      "offer_country_name": "Australia",
+      "location_heading": "Torquay",
+      "title": "Elegant Great Ocean Road Torquay Escape Steps from Zeally Bay Beach with Indoor Pool & Spa",
+      "description": "Experience the sheer coastal bliss of Victoria's picturesque Surf Coast with an escape to this stylish retreat in Torquay, ideally sitting across Zeally Bay Beach. The perfect launchpad for exploring the unrivalled beauty of the Great Ocean Road, this resort offers a blend of modern comfort with classic charms, featuring spacious, well-appointed accommodations to ensure utmost relaxation. Take a dip in the heated indoor pool, pamper with treatments at the outdoor spa, play tennis or indulge in culinary delights at the onsite bar and cafe. From surf lessons, vibrant dining and farmers markets, to reef walks and fishing charters, you'll be perfectly placed to take advantage of everything the Great Ocean Road has to offer.",
+      "location_subheading": "Australia",
+      "price": 335,
+      "original_price": 335,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Fa4fcYAB",
+      "hero_image": "https://images.luxuryescapes.com/em1m0lrulywec4ljc9a",
+      "image_two": "https://images.luxuryescapes.com/hrcnwgwyjn0pdb86oh0k",
+      "image_three": "https://images.luxuryescapes.com/ui93jw462mxpzio8t9",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Wyndham Resort Torquay",
       "offer_country_name": "Australia",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 2,
       "end_date_utc": "2026-08-31 13:59:00"
-    },
-    {
-      "vendor_name": "Wyndham Resort Torquay",
-      "offer_country_name": "Australia",
-      "location_heading": "Torquay",
-      "title": "Elegant Great Ocean Road Torquay Escape Steps from Zeally Bay Beach with Indoor Pool & Spa",
-      "description": "Experience the sheer coastal bliss of Victoria's picturesque Surf Coast with an escape to this stylish retreat in Torquay, ideally sitting across Zeally Bay Beach. The perfect launchpad for exploring the unrivalled beauty of the Great Ocean Road, this resort offers a blend of modern comfort with classic charms, featuring spacious, well-appointed accommodations to ensure utmost relaxation. Take a dip in the heated indoor pool, pamper with treatments at the outdoor spa, play tennis or indulge in culinary delights at the onsite bar and cafe. From surf lessons, vibrant dining and farmers markets, to reef walks and fishing charters, you'll be perfectly placed to take advantage of everything the Great Ocean Road has to offer.",
-      "location_subheading": "Australia",
-      "price": 315,
-      "original_price": 315,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Fa4fcYAB",
-      "hero_image": "https://images.luxuryescapes.com/em1m0lrulywec4ljc9a",
-      "image_two": "https://images.luxuryescapes.com/hrcnwgwyjn0pdb86oh0k",
-      "image_three": "https://images.luxuryescapes.com/ui93jw462mxpzio8t9",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-17",
+    "last_updated": "2026-07-18",
     "hotel_count": 2,
-    "average_price": 257,
+    "average_price": 267,
     "average_discount": 23
   }
 }
