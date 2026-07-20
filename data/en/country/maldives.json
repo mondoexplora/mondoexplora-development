@@ -3,8 +3,17 @@
   "code": "MV",
   "hero_title": "Maldives Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Maldives.",
-  "hero_image": "https://images.luxuryescapes.com/kn1508017vjekr87bf0d",
+  "hero_image": "https://images.luxuryescapes.com/lnfhkuclags0sia5ixte",
   "popular_destinations": [
+    {
+      "name": "North Malé Atoll",
+      "slug": "north-malé-atoll",
+      "image": "https://images.luxuryescapes.com/lnfhkuclags0sia5ixte",
+      "description": "Explore North Malé Atoll with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 2737
+    },
     {
       "name": "Baa Atoll",
       "slug": "baa-atoll",
@@ -13,15 +22,6 @@
       "hotel_count": 2,
       "hotel_deals": 2,
       "avg_price": 5900
-    },
-    {
-      "name": "North Malé Atoll",
-      "slug": "north-malé-atoll",
-      "image": "https://images.luxuryescapes.com/lnfhkuclags0sia5ixte",
-      "description": "Explore North Malé Atoll with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 3416
     },
     {
       "name": "Malé",

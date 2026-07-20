@@ -31,8 +31,8 @@
       "title": "Stylish Hong Kong Escape in the Heart of Wan Chai with Rooftop Infinity Pool",
       "description": "Discover the many wonders of Wan Chai with a stay at Hotel Indigo Hong Kong Island, an IHG Hotel, located among the iconic neighbourhood’s famed collection of storied temples, soaring skyscrapers and rainbow mansions. Head to Indicolite for casual tea, street noodles and majestic views of the city’s historic Old Post Office, Skybar for cockails in the clouds, or the hotel’s glass-bottomed rooftop infinity pool for fun-filled days high in the Wan Chai sky.",
       "location_subheading": "Hong Kong",
-      "price": 388,
-      "original_price": 388,
+      "price": 378,
+      "original_price": 378,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6IAAR",
       "hero_image": "https://images.luxuryescapes.com/ub5e2uy47jx8xp9omoi",
@@ -103,8 +103,8 @@
       "title": "Five-Star Designer Hong Kong Sanctuary with Wellness Spa & Rooftop Lawn",
       "description": "In the heart of Hong Kong, where the streets are buzzing with energy, there is Upper House Hon Kong - a sanctuary of peace that feels worlds away. Embracing modern minimalist design, this inner-city haven exudes a sense of Zen. From the serene blonde-wood yoga room to the wellness suites that afford captivating vistas of the skyline, every element is thoughtfully curated. At the crown of the hotel, the Salisterra restaurant emanates a warm Mediterranean ambience, meanwhile, The Lawn invites you to indulge in delightful moments on the rooftop, a glass of wine in hand. The architectural brilliance of Andre Fu, the renowned designer, reaches its zenith in the guest suites and studios, each one of them offering unparalleled views of the iconic cityscape, reminding you that the electric pull of Hong Kong is never far away.",
       "location_subheading": "Hong Kong",
-      "price": 2127,
-      "original_price": 2148,
+      "price": 2096,
+      "original_price": 2117,
       "discount_percentage": 1,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FLJroAAH",
       "hero_image": "https://images.luxuryescapes.com/8995mvyl8b55axlg1lrq",
@@ -133,14 +133,32 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Cordis Hong Kong",
+      "offer_country_name": "Hong Kong",
+      "location_heading": "Hong Kong",
+      "title": "Five-Star Hong Kong Kowloon Escape with Outdoor Gin Bar & Award-Winning Restaurant",
+      "description": "Stay in the heart of Mongkok, Kowloon at the five-star Cordis Hong Kong. Explore the exquisite dining options onsite, from sipping gin under the stars at The Garage Bar or savouring authentic Cantonese cuisine paired with exceptional wines at the award-winning Ming Court. When the need to unwind hits, enjoy a rejuvenating body scrub or relaxing full-body massage at Chuan Spa, or float away in the heated rooftop swimming pool, complete with underwater audio for a truly relaxing swim.",
+      "location_subheading": "Hong Kong",
+      "price": 351,
+      "original_price": 351,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007m7J2AAI",
+      "hero_image": "https://images.luxuryescapes.com/2qlq887yry4nj76wwf",
+      "image_two": "https://images.luxuryescapes.com/i8ps22ugwrmnjezdxft9",
+      "image_three": "https://images.luxuryescapes.com/6q6k1em6tjwy8p3l3pn",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "Kimpton Tsim Sha Tsui Hong Kong",
       "offer_country_name": "Hong Kong",
       "location_heading": "Hong Kong",
       "title": "Hong Kong Victoria Harbour Elegance with Onsite Dining, Outdoor Pool & Spa",
       "description": "Perched above Hong Kong's electric Tsim Sha Tsui district, Kimpton transforms urban sophistication into pure artistry. Four bars and restaurants dance between tradition and innovation, while a rejuvenating spa and breathtaking rooftop pool provide an escape from the city noise. Sip extraordinary cocktails at Swim Club, where exotic flavours meet innovative mixology on the spectacular 50th-floor poolside terrace. For the ultimate indulgence, High Dive elevates nightlife with rare auction spirits served in Baccarat crystal - each sip a celebration. From harbour views to world-class amenities, every moment is an unforgettable experience in Hong Kong's most vibrant neighbourhood.",
       "location_subheading": "Hong Kong",
-      "price": 867,
-      "original_price": 867,
+      "price": 860,
+      "original_price": 860,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000KpiOWYAZ",
       "hero_image": "https://images.luxuryescapes.com/kuhozstgn47fdkx1sa9",
@@ -240,9 +258,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-19",
-    "hotel_count": 12,
-    "average_price": 754,
-    "average_discount": 6
+    "last_updated": "2026-07-20",
+    "hotel_count": 13,
+    "average_price": 719,
+    "average_discount": 5
   }
 }

@@ -121,8 +121,8 @@
       "title": "Sophisticated Tokyo Shinjuku Stay Near Yoyogi Park",
       "description": "Take the bullet train to adventure with a stay at Kimpton Shinjuku Tokyo, an IHG Hotel, just four minutes from Shinjuku Station. Surrounded by Shinjuku’s endless neon mirage of bars, upscale boutiques and nightlife venues and Yoyogi Park’s shimmering lakes, there’s no better way to discover the true Tokyo. Sip espresso at NYC-style eatery The Jones Café | Bar or head out to experience Shinjuku’s legendary nightlife scene, including Golden Gai’s endless nostalgia-filled bars.",
       "location_subheading": "Japan",
-      "price": 896,
-      "original_price": 896,
+      "price": 909,
+      "original_price": 909,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CP3REAA1",
       "hero_image": "https://images.luxuryescapes.com/m36gyga9em96x5dg0t1w",
@@ -139,8 +139,8 @@
       "title": "Sophisticated Mandarin Oriental Stay with Tokyo Skytree Views & Michelin-Starred Tapas Bar",
       "description": "Set in Tokyo's prestigious financial district, the five-star Mandarin Oriental, Tokyo is designed to dazzle with Tokyo Skytree views and a revitalising 37th-floor spa, with a one-way window offering glittering city vistas. With a staggering 12 restaurants and bars, the first Mandarin Oriental Hotel Group property in Japan sets the standard with a dining experience to suit every taste, including fine dining at Tapas Molecular Bar, masterful traditional fare at Sushi Shin by Miyakawa and refreshing cocktails at the stylish Mandarin Bar. Between adventures, be sure to visit the tranquil in-house Spa at Mandarin Oriental, Tokyo, with the same sky-high altitude and views to remember as the sauna.",
       "location_subheading": "Japan",
-      "price": 1991,
-      "original_price": 1991,
+      "price": 2055,
+      "original_price": 2055,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000BdkSAAAZ",
       "hero_image": "https://images.luxuryescapes.com/tcy3mbov4j4z5hloo3ik",
@@ -257,6 +257,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Strings by InterContinental Tokyo",
+      "offer_country_name": "Japan",
+      "location_heading": "Tokyo",
+      "title": "Award-Winning Tokyo Elegance with Daily Breakfast, Nightly Cocktails & JPY10,000 Dining Credit",
+      "description": "Perched high above Shinagawa on floors 26 to 32 of the sleek East One Tower, The Strings by InterContinental Tokyo is sky-high luxury at its most refined. The 26th-floor lobby sets the tone immediately - a soaring atrium bathed in Tokyo skyline panoramas, where InterContinental's signature global elegance meets the warmth of Japanese hospitality. The Score Dining is the hotel's celebrated culinary precinct, and is one of Tokyo's most distinctive dining destinations - three restaurants and a champagne bar rolled into one electric, music-filled floor. Pull up a seat at Melodia Italian Grill, where an open kitchen and floating lamp chandeliers set the scene; linger over Cantonese dim sum and imperial banquet dishes at the awarded China Shadow; or join the Friday night jazz crowd at Rhythmos Cafe. Guests in Club InterContinental rooms unlock one of Tokyo's most exclusive private lounges - a sky-high sanctuary with sweeping city views, daily breakfast, afternoon tea, and evening cocktails included. The hotel sits just one minute on foot from Shinagawa Station, placing the whole of Japan at your fingertips.",
+      "location_subheading": "Japan",
+      "price": 1029,
+      "original_price": 1608,
+      "discount_percentage": 36,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Uz5xZYAR",
+      "hero_image": "https://images.luxuryescapes.com/e613u27jjz5611pv91ync",
+      "image_two": "https://images.luxuryescapes.com/thx667j5looqi50mkrh5",
+      "image_three": "https://images.luxuryescapes.com/dd5n9e13b7tn7b26ifjw",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-08-29 13:59:00"
     }
   ],
   "seo": {
@@ -276,9 +294,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-19",
-    "hotel_count": 14,
-    "average_price": 1042,
-    "average_discount": 6
+    "last_updated": "2026-07-20",
+    "hotel_count": 15,
+    "average_price": 1046,
+    "average_discount": 8
   }
 }
