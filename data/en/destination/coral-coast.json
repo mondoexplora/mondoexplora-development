@@ -4,8 +4,26 @@
   "country_code": "FJ",
   "hero_title": "Hotels in Coral Coast",
   "description": "Discover the best hotels in Coral Coast, Fiji. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/b59quc2qhwz4j90watb",
+  "hero_image": "https://images.luxuryescapes.com/6vaom3hbevceaddf5v",
   "hotels": [
+    {
+      "vendor_name": "Tambua Sands Beach Resort",
+      "offer_country_name": "Fiji",
+      "location_heading": "Coral Coast",
+      "title": "Tranquil Fiji Coral Coast Villa Hideaway with Private Beach",
+      "description": "Serenity is on the menu at the oceanfront Tambua Sands Beach Resort, a pocket of paradise along the Coral Coast. Between moments spent sprawled on the private beach or splashing in the ocean, you can take advantage of the resort's exceptional facilities. Lunch and dinner are a casual affair at Tambua Sands Restaurant, where fresh seafood, traditional Fijian dishes and an extensive drinks list are perfectly accompanied by the ocean backdrop. Cool off in the vast freshwater pool, sip tropical cocktails on a sun lounger or try your hand at beach volleyball. When it's time to shake things up, nearby you can discover walking trails, sand dunes, adventure parks and a nine-hole golf course. If it's ocean magic you're after, there's snorkelling, canoeing and kayaking available. Access to the fitness centre and spa services at neighbouring resorts can be arranged, so you can enjoy the perfect balance of barefoot bliss and luxury amenities.",
+      "location_subheading": "Fiji",
+      "price": 536,
+      "original_price": 536,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000008nMHTAA2",
+      "hero_image": "https://images.luxuryescapes.com/6vaom3hbevceaddf5v",
+      "image_two": "https://images.luxuryescapes.com/qt89hwc5iywkolda4zck",
+      "image_three": "https://images.luxuryescapes.com/m6basbllwmmx8me9ro",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Tambua Sands Beach Resort",
       "offer_country_name": "Fiji",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 5,
       "end_date_utc": "2026-07-31 13:59:00"
-    },
-    {
-      "vendor_name": "Tambua Sands Beach Resort",
-      "offer_country_name": "Fiji",
-      "location_heading": "Coral Coast",
-      "title": "Tranquil Fiji Coral Coast Villa Hideaway with Private Beach",
-      "description": "Serenity is on the menu at the oceanfront Tambua Sands Beach Resort, a pocket of paradise along the Coral Coast. Between moments spent sprawled on the private beach or splashing in the ocean, you can take advantage of the resort's exceptional facilities. Lunch and dinner are a casual affair at Tambua Sands Restaurant, where fresh seafood, traditional Fijian dishes and an extensive drinks list are perfectly accompanied by the ocean backdrop. Cool off in the vast freshwater pool, sip tropical cocktails on a sun lounger or try your hand at beach volleyball. When it's time to shake things up, nearby you can discover walking trails, sand dunes, adventure parks and a nine-hole golf course. If it's ocean magic you're after, there's snorkelling, canoeing and kayaking available. Access to the fitness centre and spa services at neighbouring resorts can be arranged, so you can enjoy the perfect balance of barefoot bliss and luxury amenities.",
-      "location_subheading": "Fiji",
-      "price": 535,
-      "original_price": 535,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000008nMHTAA2",
-      "hero_image": "https://images.luxuryescapes.com/6vaom3hbevceaddf5v",
-      "image_two": "https://images.luxuryescapes.com/qt89hwc5iywkolda4zck",
-      "image_three": "https://images.luxuryescapes.com/m6basbllwmmx8me9ro",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "The Naviti Resort Fiji",
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-21",
     "hotel_count": 3,
     "average_price": 639,
     "average_discount": 20

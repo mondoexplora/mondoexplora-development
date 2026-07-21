@@ -14,8 +14,8 @@
       ]
     },
     "train": {
-      "duration": "2h 30m",
-      "price_range": "$80 - $200",
+      "duration": "4h 45m",
+      "price_range": "$45 - $120",
       "providers": [
         "Rail Europe",
         "Eurail",
@@ -23,8 +23,8 @@
       ]
     },
     "bus": {
-      "duration": "5h 15m",
-      "price_range": "$20 - $50",
+      "duration": "6h 45m",
+      "price_range": "$30 - $75",
       "providers": [
         "FlixBus",
         "Greyhound",

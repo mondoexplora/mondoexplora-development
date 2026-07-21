@@ -4,8 +4,26 @@
   "country_code": "MV",
   "hero_title": "Hotels in Lhaviyani Atoll",
   "description": "Discover the best hotels in Lhaviyani Atoll, Maldives. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/rbun53mllbdlddnlujw",
+  "hero_image": "https://images.luxuryescapes.com/0qqt6lz8hbndo997cy95",
   "hotels": [
+    {
+      "vendor_name": "Cocoon Maldives",
+      "offer_country_name": "Maldives",
+      "location_heading": "Lhaviyani Atoll",
+      "title": "Maldives Italian-Inspired Island Paradise with Three Restaurants & Onsite Spa",
+      "description": "Design leads the way at Cocoon Maldives, where LAGO-crafted villas sit between white sand, turquoise lagoon and the Indian Ocean. Set in Lhaviyani Atoll, this island resort pairs Italian style with a relaxed barefoot rhythm: wake to lagoon views, wander from villa to beach and spend the day between the water, The Cube Spa and a choice of three restaurants and two bars. Dining moves from themed buffets and live stations at Octopus to overwater a la carte dining at Manta Restaurant and teppanyaki at Japanese Garden, with Kurum-Bar and Loabi Loabi Bar ready for sunset drinks and evening entertainment. Beyond the shoreline, days can unfold with snorkelling, dolphin cruises, yoga, fishing, sandbank picnics and kids' club activities, all before a scenic seaplane return over the atoll.",
+      "location_subheading": "Maldives",
+      "price": 2653.5,
+      "original_price": 3085,
+      "discount_percentage": 14,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TnU4HYAV",
+      "hero_image": "https://images.luxuryescapes.com/0qqt6lz8hbndo997cy95",
+      "image_two": "https://images.luxuryescapes.com/xihn9osgtlcvbsalvyhr",
+      "image_three": "https://images.luxuryescapes.com/a6hnd1zb4gn32spcoa9l",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Meyyafushi Maldives",
       "offer_country_name": "Maldives",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-20",
-    "hotel_count": 1,
-    "average_price": 3799,
-    "average_discount": 73
+    "last_updated": "2026-07-21",
+    "hotel_count": 2,
+    "average_price": 3226,
+    "average_discount": 44
   }
 }

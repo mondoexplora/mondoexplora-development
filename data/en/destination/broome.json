@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Broome",
   "description": "Discover the best hotels in Broome, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/9u3n5ji00f0w1d7y1odtn",
+  "hero_image": "https://images.luxuryescapes.com/2rd8r7ci39kc4n9h460f",
   "hotels": [
+    {
+      "vendor_name": "Eco Beach Retreat",
+      "offer_country_name": "Australia",
+      "location_heading": "Broome",
+      "title": "Kimberley Eco-Friendly Villa Retreat with Daily Breakfast, Nightly Drinks & Mangrove Mud Ritual",
+      "description": "There’s magic in the Kimberley and no better place to discover it than at Eco Beach Wilderness Retreat, wonderfully positioned along the pristine shoreline just 90 minutes from Broome. With sustainable accommodations to suit couples and families alike, and a spectacular oceanfront infinity pool, there’s no finer place to take it all in. Slow down and savour Western Australia’s most spectacular coastline - kayak through the sapphire waters of the Indian Ocean, descend into sunken sandstone caves (an easy walk from the retreat) or stand in awe as the moon enters star-filled skies above rambling bush plains. Eco Beach Wilderness Retreat offers a wealth of impressive facilities. Head to Jack’s Bar & Restaurant for laid-back modern Australian bites drawing on the region’s extraordinary local produce, or hire a fishing rod and hit the sands to catch your own meals. Dragonfly Spa offers daily yoga classes and wellness treatments, many delivered directly on the beach.",
+      "location_subheading": "Australia",
+      "price": 429,
+      "original_price": 1226,
+      "discount_percentage": 65,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ZXSfjYAH",
+      "hero_image": "https://images.luxuryescapes.com/2rd8r7ci39kc4n9h460f",
+      "image_two": "https://images.luxuryescapes.com/ur1a1y47yt8qdv1kzryw",
+      "image_three": "https://images.luxuryescapes.com/lgtv39t465omloivzn58",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-08-18 13:59:00"
+    },
     {
       "vendor_name": "Mantra Frangipani",
       "offer_country_name": "Australia",
@@ -22,7 +40,7 @@
       "image_three": "https://images.luxuryescapes.com/a7ivwy16dn883arp4106p",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 3,
-      "end_date_utc": "2026-08-07 13:59:00"
+      "end_date_utc": "2026-08-31 13:59:00"
     },
     {
       "vendor_name": "Mantra Frangipani",
@@ -67,8 +85,8 @@
       "title": "Award-Winning Broome Apartment Escape near Cable Beach",
       "description": "Just steps from the white powdery sands of Cable Beach and the glistening Indian Ocean is Seashells Broome, a self-contained apartment resort in an unbeatable location near Broome’s most iconic sites. A Silver winner for Deluxe Accommodation at the 2021 Perth Airport WA Tourism Awards, this self-contained resort knows how to deliver award-winning comfort. Unwind in self-contained one and two-bedroom apartments, or an epic three-bedroom bungalow, and enjoy two refreshing swimming pools (including a kids' paddling pool), a children’s playground, lush resort gardens and BBQ facilities. Broome is beautiful from every angle and you’re perfectly placed to make the most of its adventurous activities and wildlife when you stay at Seashells Broome. Discover camels crossing Cable Beach against a sunset backdrop, dip your toes into the turquoise Indian Ocean, stroll across pearl-white beaches set against red cliffs and go seasonal whale watching between July and September. If you can tear yourself away from the resort’s pools for a day, make sure to see the Horizontal Falls, described by Sir David Attenborough as ‘Australia’s most unusual natural wonder’.",
       "location_subheading": "Australia",
-      "price": 414,
-      "original_price": 422,
+      "price": 415,
+      "original_price": 423,
       "discount_percentage": 2,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004Uy1HAAS",
       "hero_image": "https://images.luxuryescapes.com/o8o0u8lj8cam0lvzmn2",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-20",
-    "hotel_count": 4,
-    "average_price": 448,
-    "average_discount": 14
+    "last_updated": "2026-07-21",
+    "hotel_count": 5,
+    "average_price": 445,
+    "average_discount": 24
   }
 }

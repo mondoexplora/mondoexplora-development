@@ -43,6 +43,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Parian Chronicle Hotel Paros by Hyatt",
+      "offer_country_name": "Greece",
+      "location_heading": "Paros",
+      "title": "Grand Opening: Paros Private Pool Paradise with Daily Breakfast & EUR100 Resort Credit",
+      "description": "Wake to the scent of salt in the air as the sunlight catches the whitewashed curves and lush surrounds of Parian Chronicle Hotel Paros, a Destination by Hyatt Hotel. Expect days that drift between lazy swims in the Aegean and leisurely breakfasts in the shade, and evenings that soften into long dinners at Naao, where Cycladic flavours shine through every plate. Spend your afternoons between Paros Kite Beach and the large outdoor pool, with loungers that invite you to linger with a book or cocktail. Between treatments and wellness rituals at Nipson Spa and morning classes in the fitness studio, it’s easy to lose track of time and let each new day set its own, relaxed rhythm.",
+      "location_subheading": "Greece",
+      "price": 859,
+      "original_price": 2526,
+      "discount_percentage": 66,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ZT3UcYAL",
+      "hero_image": "https://images.luxuryescapes.com/hvulmsd0zprawd4h1r",
+      "image_two": "https://images.luxuryescapes.com/q395symsl8p0phxsts7f",
+      "image_three": "https://images.luxuryescapes.com/1jtuh62legu9onbg72j",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-08-10 13:59:00"
+    },
+    {
       "vendor_name": "Pilipala Suites",
       "offer_country_name": "Greece",
       "location_heading": "Paros",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-20",
-    "hotel_count": 4,
-    "average_price": 1167,
-    "average_discount": 0
+    "last_updated": "2026-07-21",
+    "hotel_count": 5,
+    "average_price": 1105,
+    "average_discount": 13
   }
 }
