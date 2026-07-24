@@ -13,8 +13,8 @@
       "title": "Hamptons-Style Waterfront Luxury in Serene Port Stephens",
       "description": "Experience Hamptons-style luxury at its finest at The Anchorage Port Stephens Hotel & Spa, a breezy seaside haven overlooking one of the world’s most beautiful ports. Featuring spacious waterfront guestrooms and mezzanine-style suites in an idyllic location, the resort is home to The Galley Kitchen restaurant, serving a seasonal menu of local produce, two swimming pools, including an adults-only infinity pool, and a decadent day spa - Spa Lucca.",
       "location_subheading": "Australia",
-      "price": 523,
-      "original_price": 737,
+      "price": 522,
+      "original_price": 735,
       "discount_percentage": 29,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DeW2RAAV",
       "hero_image": "https://images.luxuryescapes.com/q7gf1i5vrq6092b4txxg",
@@ -25,14 +25,32 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Bannisters Port Stephens",
+      "offer_country_name": "Australia",
+      "location_heading": "Port Stephens",
+      "title": "Port Stephens Waterfront Escape near Salamander Bay with Daily Breakfast & Nightly Drinks",
+      "description": "Escape it all for azure waters, powdery sands and koalas lazing in the trees at one of Australia’s leading boutique hotels. Less than three hours’ drive from Sydney, this waterfront haven boasts light and airy decor complemented by stunning bay views in one of the East Coast’s most sought-after destinations. Spend your days lounging beside the glittering infinity pool overlooking the water, best enjoyed with a cocktail in hand. Beyond the hotel, spectacular natural beauty awaits on your doorstep, from coastal walks to sandboarding at Stockton Sand Dunes. Melt away with treatments at the luxurious Spa Bannisters - with spaces curated by esteemed designer, Romy Alwill, in light pink tones and coastal textures. With an extensive range of treatments and massages on offer, you are sure to achieve ultimate relaxation.",
+      "location_subheading": "Australia",
+      "price": 279,
+      "original_price": 465,
+      "discount_percentage": 40,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Xl1dZYAR",
+      "hero_image": "https://images.luxuryescapes.com/0ccnma9374voekacm84f",
+      "image_two": "https://images.luxuryescapes.com/bzo9t6jtjcn17u6a9ls",
+      "image_three": "https://images.luxuryescapes.com/v96iocsf24w211g2sxh",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 2,
+      "end_date_utc": "2026-09-05 13:59:00"
+    },
+    {
       "vendor_name": "Oaks Port Stephens Pacific Blue Resort",
       "offer_country_name": "Australia",
       "location_heading": "Port Stephens",
       "title": "Port Stephens Oaks Resort Stay with Serene Lagoon Pool",
       "description": "Escape to the most idyllic spot on New South Wales' coastline with a relaxing stay at Oaks Port Stephens Pacific Blue Resort - a convenient retreat with resort-style facilities, including an impressive lagoon pool, onsite restaurant, tennis courts, Japanese-style steam room and gym. Enjoy a prime position to experience the region's tranquil bay, stunning natural surroundings, beautiful beaches and laidback coastal lifestyle. Located a 2.5-hour drive from Sydney and less than an hour from Newcastle, Port Stephens is blessed with everything you need for a relaxing escape with family and friends. Renowned for its spectacular natural scenery, white sand beaches, dramatic sand dunes plunging into clear aquamarine waters, as well as restaurants and boutiques, this laid-back town promises something for everyone.",
       "location_subheading": "Australia",
-      "price": 225,
-      "original_price": 247,
+      "price": 237,
+      "original_price": 260,
       "discount_percentage": 9,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009BU6MAAW",
       "hero_image": "https://images.luxuryescapes.com/5jmbghqg7thtqrzvfxj",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-23",
-    "hotel_count": 2,
-    "average_price": 374,
-    "average_discount": 19
+    "last_updated": "2026-07-24",
+    "hotel_count": 3,
+    "average_price": 346,
+    "average_discount": 26
   }
 }

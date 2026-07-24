@@ -13,8 +13,8 @@
       "title": "Koh Yao Yai Island Retreat Off the Coast of Phuket with Seven Restaurants and Bars",
       "description": "Discover pristine island landscapes with unspoilt white sands, thriving greenery and crystal-clear waters at Anantara Koh Yao Yai Resort & Villas. Melt into coastal paradise with massages from the onsite spa and traverse international cuisines between seven sophisticated bars and restaurants. If you can pull yourself away from the pool, roll through the gorgeous scenery by bike, sail across the sea on a sunset cruise, or hop to the nearby James Bond island during your stay at this picturesque locale.",
       "location_subheading": "Thailand",
-      "price": 883,
-      "original_price": 883,
+      "price": 879,
+      "original_price": 879,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EbQ2OAAV",
       "hero_image": "https://images.luxuryescapes.com/9y1fd0w5wg43410db4",
@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Anantara Koh Yao Yai Resort & Villas",
+      "offer_country_name": "Thailand",
+      "location_heading": "Koh Yao Yai",
+      "title": "Thailand Island Suites & Villas with Daily Breakfast, Daily Lunch or Dinner & Nightly Cocktails",
+      "description": "Wake up to the gentle lapping of waves and the soft rustle of palm leaves at Anantara Koh Yao Yai Resort & Villas, a secluded haven nestled between Phuket and Krabi. Mornings here begin with leisurely breakfasts at Pakarang Restaurant, where live cooking stations serve up southern Thai classics and international favourites. As the day unfolds, the resort's private beach invites you to bask in the sun or explore the calm, emerald waters of Phang Nga Bay. For families, the expansive Junior Explorers kids' club and family pool with four water slides promise endless fun. Meanwhile, adults can retreat to the Tranquillity Pool for a serene dip or indulge in a rejuvenating session at the Anantara Spa, complete with a hammam and meditation room. Discover the resort's abundance of dining options, from Japanese cuisine at TOMI Japanese Restaurant, signature beachfront BBQ at The Beach Restaurant or light bites from the poolside Food Truck. Adventurous souls can embark on island-hopping excursions to nearby Hong Island, renowned for its hidden lagoons and pristine beaches, or explore the island's lush interior on a sidecar tour through rubber plantations and jungle-fringed villages.",
+      "location_subheading": "Thailand",
+      "price": 1219,
+      "original_price": 5300,
+      "discount_percentage": 77,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Zm1k4YAB",
+      "hero_image": "https://images.luxuryescapes.com/gosg1ax8c69an7b1k6zp",
+      "image_two": "https://images.luxuryescapes.com/i92b2vxj0e008whiz00s",
+      "image_three": "https://images.luxuryescapes.com/gbvvaua2d00s8e7cfke",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2026-08-21 13:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-23",
-    "hotel_count": 1,
-    "average_price": 883,
-    "average_discount": 0
+    "last_updated": "2026-07-24",
+    "hotel_count": 2,
+    "average_price": 1049,
+    "average_discount": 39
   }
 }
