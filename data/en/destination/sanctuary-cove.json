@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Sanctuary Cove",
   "description": "Discover the best hotels in Sanctuary Cove, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/5wrlxwgcgwu4zex7yn",
+  "hero_image": "https://images.luxuryescapes.com/40htmq7yz7bjphi9p2nb",
   "hotels": [
-    {
-      "vendor_name": "Intercontinental Sanctuary Cove",
-      "offer_country_name": "Australia",
-      "location_heading": "Sanctuary Cove",
-      "title": "Sanctuary Cove Icon: Gold Coast Haven with A$100 Dining Credit & Unlimited Dreamworld Entry",
-      "description": "Fall in love with the Gold Coast’s laid-back atmosphere at this five-star Sanctuary Cove reprieve. This idyllic hideaway is superbly set across more than nine acres of tropical gardens, boasting a sprawling one-acre lagoon pool so you can soak up the tropics from every luxurious angle. Dining at this resort is defined by multiple unique culinary experiences. Savour the flavours of wood-fired fare in rustic-chic surrounds at The Fireplace, then dive into a whiskey tasting at the lively Verandah Restaurant & Bar. Treat yourself to high tea or elevate your poolside relaxation with refreshing cocktails and poke bowls influenced by local flavours. With unlimited access to Dreamworld and WhiteWater World (seasonal), you and the crew can come and go as you please, choosing between rollercoasters and full-throttle waterslides. You’ll also score unlimited entry to the SkyPoint Observation Deck, perched on Level 77 of the iconic Q1 building, where views stretch from skyline to the sea and lush hinterland.",
-      "location_subheading": "Australia",
-      "price": 919,
-      "original_price": 1532,
-      "discount_percentage": 40,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ZJjoUYAT",
-      "hero_image": "https://images.luxuryescapes.com/5wrlxwgcgwu4zex7yn",
-      "image_two": "https://images.luxuryescapes.com/fpom292udrmp1dld3bbq",
-      "image_three": "https://images.luxuryescapes.com/xtx658dmeq8jdcagdxq",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 4,
-      "end_date_utc": "2026-07-28 13:59:00"
-    },
     {
       "vendor_name": "Intercontinental Sanctuary Cove",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Intercontinental Sanctuary Cove",
+      "offer_country_name": "Australia",
+      "location_heading": "Sanctuary Cove",
+      "title": "Sanctuary Cove Icon: Gold Coast Haven with A$100 Dining Credit & Unlimited Dreamworld Entry",
+      "description": "Fall in love with the Gold Coast’s laid-back atmosphere at this five-star Sanctuary Cove reprieve. This idyllic hideaway is superbly set across more than nine acres of tropical gardens, boasting a sprawling one-acre lagoon pool so you can soak up the tropics from every luxurious angle. Dining at this resort is defined by multiple unique culinary experiences. Savour the flavours of wood-fired fare in rustic-chic surrounds at The Fireplace, then dive into a whiskey tasting at the lively Verandah Restaurant & Bar. Treat yourself to high tea or elevate your poolside relaxation with refreshing cocktails and poke bowls influenced by local flavours. With unlimited access to Dreamworld and WhiteWater World (seasonal), you and the crew can come and go as you please, choosing between rollercoasters and full-throttle waterslides. You’ll also score unlimited entry to the SkyPoint Observation Deck, perched on Level 77 of the iconic Q1 building, where views stretch from skyline to the sea and lush hinterland.",
+      "location_subheading": "Australia",
+      "price": 919,
+      "original_price": 1532,
+      "discount_percentage": 40,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ZJjoUYAT",
+      "hero_image": "https://images.luxuryescapes.com/5wrlxwgcgwu4zex7yn",
+      "image_two": "https://images.luxuryescapes.com/fpom292udrmp1dld3bbq",
+      "image_three": "https://images.luxuryescapes.com/xtx658dmeq8jdcagdxq",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 4,
+      "end_date_utc": "2026-07-28 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-25",
     "hotel_count": 2,
     "average_price": 745,
     "average_discount": 20

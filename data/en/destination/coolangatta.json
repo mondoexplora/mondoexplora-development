@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Coolangatta",
   "description": "Discover the best hotels in Coolangatta, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/4ycydzrqxbqbmm7jo7wr",
+  "hero_image": "https://images.luxuryescapes.com/byqf3qa3ynr9e8g5ond",
   "hotels": [
+    {
+      "vendor_name": "Iconic Kirra Beach Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Coolangatta",
+      "title": "Gold Coast Seaside Retreat near Kirra Beach with Outdoor Pool & Complimentary Parking",
+      "description": "Treat yourself to a relaxing Coolangatta escape with family or friends at this sunny resort stay. Experience understated coastal luxury staying in a sleek room or apartment, offering high-end sophistication on one of Australia’s most pristine shorelines. Stay active at the fitness centre, then cool off in the sparkling outdoor pool. This beachfront property will allow you to truly immerse yourself in the laid-back lifestyle of the Gold Coast - your launchpad to the ultimate group escape or fun-filled family adventure. Spend sun-drenched days at one of the many beautiful beaches, with Rainbow Bay Beach, Greenmount Beach, Coolangatta Beach and Kirra Beach on your doorstep.",
+      "location_subheading": "Australia",
+      "price": 349,
+      "original_price": 851,
+      "discount_percentage": 59,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000YvYz3YAF",
+      "hero_image": "https://images.luxuryescapes.com/byqf3qa3ynr9e8g5ond",
+      "image_two": "https://images.luxuryescapes.com/yq6hln1pwdoetg60wqe9",
+      "image_three": "https://images.luxuryescapes.com/1qz50nomnx72ngwgvcc",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-08-21 13:59:00"
+    },
     {
       "vendor_name": "Mantra Coolangatta Beach",
       "offer_country_name": "Australia",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-24",
-    "hotel_count": 1,
-    "average_price": 360,
-    "average_discount": 0
+    "last_updated": "2026-07-25",
+    "hotel_count": 2,
+    "average_price": 355,
+    "average_discount": 30
   }
 }

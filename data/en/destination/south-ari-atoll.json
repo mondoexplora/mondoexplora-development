@@ -4,8 +4,26 @@
   "country_code": "MV",
   "hero_title": "Hotels in South Ari Atoll",
   "description": "Discover the best hotels in South Ari Atoll, Maldives. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ok8p09wspgzxxy4w5xr",
+  "hero_image": "https://images.luxuryescapes.com/srnikjrp8kxa2574ylzb",
   "hotels": [
+    {
+      "vendor_name": "Outrigger Maldives Maafushivaru Resort",
+      "offer_country_name": "Maldives",
+      "location_heading": "South Ari Atoll",
+      "title": "Maldives Villa Paradise with Daily Breakfast, Lunch, Dinner, Two-Hour Free-Flow Drinks & Seaplane Transfers",
+      "description": "It’s the iconic OUTRIGGER barefoot luxury you love in the world’s most spectacular destination: surrounded by lush gardens, warm sands and the brilliant-blue South Ari Atoll. When you’re not relaxing on your sun-washed overwater villa, drift into bliss at the ocean-perched Navasana Spa, sample lobster and grilled sirloin at Moodhu Grill or savour teppanyaki thrills at Koto. The resort’s PADI dive centre and house reef - brimming with shimmering schools of fish, manta rays and the occasional whale shark - offer some of the best underwater experiences in the archipelago. Return from underwater adventures to artisanal, island-made ice cream and superb coffee at Kofee ‘n Chill or breezy poolside cocktails and light bites at Edgewater. Even little adventurers are treated to the good life, with all children (11 and under) staying and eating free (excludes Two Bedroom Villa with Private Pool). There are so many ways to enjoy the crystal-clear waters of Maafushivaru, from jet skis and wakeboarding to kayaking over shallow reefs, or chartering a private fishing trip for the day. In the evening, enjoy a complimentary sunset cruise to witness a new tapestry of colours as the sun dips below the horizon. Afterwards, take the luxury up a notch with moonlit fine dining at the exquisite Art-I-San, set at the highest point on the island, or a personalised dining experience on the beach.",
+      "location_subheading": "Maldives",
+      "price": 4089,
+      "original_price": 10223,
+      "discount_percentage": 60,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Xtg8TYAR",
+      "hero_image": "https://images.luxuryescapes.com/srnikjrp8kxa2574ylzb",
+      "image_two": "https://images.luxuryescapes.com/eewzcw8za0pcw9yjy3e",
+      "image_three": "https://images.luxuryescapes.com/casy3w2q6lk9sv7dtr",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2026-10-22 12:59:00"
+    },
     {
       "vendor_name": "Outrigger Maldives Maafushivaru Resort",
       "offer_country_name": "Maldives",
@@ -13,9 +31,9 @@
       "title": "Iconic Maldives Outrigger Villa Luxury in the Heart of the South Ari Atoll",
       "description": "It’s the world-famous barefoot luxury you love in the world’s most spectacular destination: Outrigger Maldives Maafushivaru Resort has it all. Surrounded by lush gardens, warm sands and the brilliant-blue South Ari Atoll, you'll never want to leave this all-inclusive space. Step beyond your overwater villa and embrace a different activity every day - drift into bliss at Navasana Spa, sample lobster and grilled sirloin at Moodhu Grill or savour teppanyaki thrills at Koto.",
       "location_subheading": "Maldives",
-      "price": 2670.58,
-      "original_price": 2670.58,
-      "discount_percentage": 0,
+      "price": 2418.04,
+      "original_price": 2442,
+      "discount_percentage": 1,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EeE5DAAV",
       "hero_image": "https://images.luxuryescapes.com/ok8p09wspgzxxy4w5xr",
       "image_two": "https://images.luxuryescapes.com/wf0roqou1ccm5kvz20u",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-24",
-    "hotel_count": 1,
-    "average_price": 2671,
-    "average_discount": 0
+    "last_updated": "2026-07-25",
+    "hotel_count": 2,
+    "average_price": 3254,
+    "average_discount": 31
   }
 }

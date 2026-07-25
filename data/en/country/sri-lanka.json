@@ -12,7 +12,7 @@
       "description": "Explore Weligama with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1311
+      "avg_price": 1313
     },
     {
       "name": "Colombo",
@@ -21,7 +21,7 @@
       "description": "Explore Colombo with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 367
+      "avg_price": 368
     },
     {
       "name": "Kandy",
@@ -30,7 +30,7 @@
       "description": "Explore Kandy with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1000
+      "avg_price": 1002
     },
     {
       "name": "Ahungalla",
@@ -39,7 +39,7 @@
       "description": "Explore Ahungalla with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1011
+      "avg_price": 1014
     },
     {
       "name": "Bentota",
@@ -51,13 +51,13 @@
       "avg_price": 329
     },
     {
-      "name": "Yala National Park",
-      "slug": "yala-national-park",
-      "image": "https://images.luxuryescapes.com/kin6zba5kk8nxcjpja4",
-      "description": "Explore Yala National Park with luxury accommodations",
+      "name": "Hambantota",
+      "slug": "hambantota",
+      "image": "https://images.luxuryescapes.com/7g4sby4zoznh3y8fldd",
+      "description": "Explore Hambantota with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 979
+      "avg_price": 456
     }
   ],
   "seo": {
