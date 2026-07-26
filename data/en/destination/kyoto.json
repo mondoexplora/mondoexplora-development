@@ -31,31 +31,13 @@
       "title": "Boutique Kyoto Hotel near Kenninji Temple with Onsen Suites, Japanese Gardens & Fine Dining",
       "description": "Set in Kyoto's Higashiyama district, Capella Kyoto offers 89 rooms arranged around a central courtyard garden. Rooms feature traditional shoji screens and tatami flooring with views over Kenninji Temple or the Miyagawa-cho neighbourhood. The hotel sits moments from the 800-year-old Kenninji Temple and a short walk from Gion, Kyoto's historic geisha district, putting you within reach of the city's temples, shrines and traditional craft workshops. Start your day exploring nearby Yasaka Shrine and the atmospheric lanes of Gion before returning for kaiseki dining showcasing Kyoto's culinary heritage. With easy access to Kyoto's cultural highlights, including Kiyomizu-dera Temple, the Philosopher's Path and the bamboo groves of Arashiyama, Capella Kyoto puts you at the heart of the city's traditional teahouses, artisan studios and authentic neighbourhood dining culture.",
       "location_subheading": "Japan",
-      "price": 3579,
-      "original_price": 3579,
+      "price": 3580,
+      "original_price": 3580,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000TCPQ9YAP",
       "hero_image": "https://images.luxuryescapes.com/dp2myzvyki7gulybq6l",
       "image_two": "https://images.luxuryescapes.com/9yqumdfhdo31s7dnndd",
       "image_three": "https://images.luxuryescapes.com/j0wvd6jjzmxkv801rl3r",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Fauchon Hotel Kyoto",
-      "offer_country_name": "Japan",
-      "location_heading": "Kyoto",
-      "title": "Five-Star Boutique Japan Stay with Onsite Fauchon Patisserie & Sweeping Views of Kyoto",
-      "description": "Succumb to the allure of Kyoto's vibrant culture, where Parisian style meets Japanese tradition at Fauchon Hotel Kyoto. Incorporating Japanese flavour with iconic French dishes makes this five-star boutique hotel shine. A haven of tradition, art and culture in downtown Kyoto, explore the ancient temples of Higashiyama, the enchanting bamboo groves of Arashiyama and the bustling Nishiki Market. Each space within the hotel is a declaration of French art de vivre and Japanese omotenashi hospitality. Indulge in delectable desserts at Salon De Thé FAUCHON, relax at the luxurious spa, or savour innovative Japanese cuisine with a French flair at The Grand Cafe FAUCHON, offering rare panoramic views of Higashiyama.",
-      "location_subheading": "Japan",
-      "price": 613,
-      "original_price": 613,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Fj9uxAAB",
-      "hero_image": "https://images.luxuryescapes.com/yhngnue3sehso7sbmtec",
-      "image_two": "https://images.luxuryescapes.com/lv15r80tep9xefaqdemjk",
-      "image_three": "https://images.luxuryescapes.com/t2bo1yqthlls22oeq979",
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 3,
       "end_date_utc": "2026-08-26 13:59:00"
+    },
+    {
+      "vendor_name": "Fauchon Hotel Kyoto",
+      "offer_country_name": "Japan",
+      "location_heading": "Kyoto",
+      "title": "Five-Star Boutique Japan Stay with Onsite Fauchon Patisserie & Sweeping Views of Kyoto",
+      "description": "Succumb to the allure of Kyoto's vibrant culture, where Parisian style meets Japanese tradition at Fauchon Hotel Kyoto. Incorporating Japanese flavour with iconic French dishes makes this five-star boutique hotel shine. A haven of tradition, art and culture in downtown Kyoto, explore the ancient temples of Higashiyama, the enchanting bamboo groves of Arashiyama and the bustling Nishiki Market. Each space within the hotel is a declaration of French art de vivre and Japanese omotenashi hospitality. Indulge in delectable desserts at Salon De Thé FAUCHON, relax at the luxurious spa, or savour innovative Japanese cuisine with a French flair at The Grand Cafe FAUCHON, offering rare panoramic views of Higashiyama.",
+      "location_subheading": "Japan",
+      "price": 613,
+      "original_price": 613,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Fj9uxAAB",
+      "hero_image": "https://images.luxuryescapes.com/yhngnue3sehso7sbmtec",
+      "image_two": "https://images.luxuryescapes.com/lv15r80tep9xefaqdemjk",
+      "image_three": "https://images.luxuryescapes.com/t2bo1yqthlls22oeq979",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Garner Hotel KYOTO SHIJO KARASUMA by IHG",
@@ -168,7 +168,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-25",
+    "last_updated": "2026-07-26",
     "hotel_count": 8,
     "average_price": 997,
     "average_discount": 6
