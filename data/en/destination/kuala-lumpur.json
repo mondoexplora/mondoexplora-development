@@ -301,8 +301,8 @@
       "title": "Five-Star Sofitel Kuala Lumpur Glamour with Spa & Five Restaurants & Bars",
       "description": "From the iconic heights of the PETRONAS Twin Towers to the historic temples and vibrant markets of the past, immerse yourself in the sights of Malaysia’s dynamic capital from this elegant retreat. Located in one of Kuala Lumpur’s most upscale neighbourhoods, Damansara Heights - voted one of the coolest neighbourhoods in the world by Lonely Planet - you’ll be perfectly positioned to explore the city. After a day of exploration, retreat to your luxurious sanctuary, complete with a stunning swimming pool, offering an urban oasis amidst the glittering towers of Damansara. Unwind at the Sofitel SPA, or enjoy exquisite dining at five different restaurants, before sipping on a nightcap at Le Bar Cocktail & Stories.",
       "location_subheading": "Malaysia",
-      "price": 270,
-      "original_price": 270,
+      "price": 273,
+      "original_price": 273,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GWaAPYA1",
       "hero_image": "https://images.luxuryescapes.com/nykh20nd9758ipezxwn9",
@@ -355,13 +355,31 @@
       "title": "Modern Retreat near Kuala Lumpur with Rooftop Pool & Onsite Dining",
       "description": "Immerse yourself in the cultural richness of Malaysia with a stay at this contemporary retreat in the heart of Selayang, just a short drive from Kuala Lumpur city centre. Boasting a rooftop infinity pool with 180-degree city views, a well-equipped gym and an Asian buffet restaurant, everything you need is within reach. Just a short distance from the Batu Caves, one of Malaysia's most popular Hindu shrines, this hotel is the ideal base for cultural exploration. For a taste of local cuisine, venture to the nearby Selayang Wet Market, where a myriad of food stalls serve up authentic Malaysian dishes.",
       "location_subheading": "Malaysia",
-      "price": 91,
-      "original_price": 91,
+      "price": 103,
+      "original_price": 103,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP3QYAV",
       "hero_image": "https://images.luxuryescapes.com/emzg2vtx8ljlrw33uvh8",
       "image_two": "https://images.luxuryescapes.com/5kzdh1vuyij6y8rkz6k",
       "image_three": "https://images.luxuryescapes.com/dew4wwf9aoer0ly4z89",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Sunway Resort Hotel & Spa",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Kuala Lumpur",
+      "title": "Five-Star Kuala Lumpur Sunway City Escape with Theme Park & Gordon Ramsay Restaurant",
+      "description": "Seamlessly integrated with the Sunway City theme park, the opulent Sunway Resort Hotel offers guests the convenience of exploring elegant shopping and thrilling rides just moments away. Indulge with a myriad of dining options available across seven distinct precincts, while the hotel's spectacular rooms, suites, and villas promise to create cherished memories for the entire family.",
+      "location_subheading": "Malaysia",
+      "price": 500,
+      "original_price": 735,
+      "discount_percentage": 32,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNV4vAAH",
+      "hero_image": "https://images.luxuryescapes.com/c8bkwlm4kdgwvacphjhl",
+      "image_two": "https://images.luxuryescapes.com/6fea8opshjvtvws0hy",
+      "image_three": "https://images.luxuryescapes.com/leflyv15n479e8j1euw",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -383,24 +401,6 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 2,
       "end_date_utc": "2026-07-31 13:59:00"
-    },
-    {
-      "vendor_name": "Sunway Resort Hotel & Spa",
-      "offer_country_name": "Malaysia",
-      "location_heading": "Kuala Lumpur",
-      "title": "Five-Star Kuala Lumpur Sunway City Escape with Theme Park & Gordon Ramsay Restaurant",
-      "description": "Seamlessly integrated with the Sunway City theme park, the opulent Sunway Resort Hotel offers guests the convenience of exploring elegant shopping and thrilling rides just moments away. Indulge with a myriad of dining options available across seven distinct precincts, while the hotel's spectacular rooms, suites, and villas promise to create cherished memories for the entire family.",
-      "location_subheading": "Malaysia",
-      "price": 500,
-      "original_price": 735,
-      "discount_percentage": 32,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNV4vAAH",
-      "hero_image": "https://images.luxuryescapes.com/c8bkwlm4kdgwvacphjhl",
-      "image_two": "https://images.luxuryescapes.com/6fea8opshjvtvws0hy",
-      "image_three": "https://images.luxuryescapes.com/leflyv15n479e8j1euw",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -420,9 +420,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-26",
+    "last_updated": "2026-07-27",
     "hotel_count": 22,
-    "average_price": 354,
+    "average_price": 355,
     "average_discount": 10
   }
 }

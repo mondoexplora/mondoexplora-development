@@ -208,24 +208,6 @@
       "vendor_name": "Grand Mercure Bali Seminyak",
       "offer_country_name": "Indonesia",
       "location_heading": "Seminyak",
-      "title": "Seminyak Tropical Escape with Daily Breakfast, Daily Lunch or Dinner & Nightly Cocktails",
-      "description": "Boasting tropical elegance at its finest, this blissful Balinese retreat places you in the vibrant heart of Seminyak, only a short stroll from the golden sands of Double Six Beach. Enjoy long walks along the sand or wander around this lively coastal suburb, famed for its eclectic mix of fashionable boutiques, award-winning bars and world-class restaurants. Dive headfirst into Bali’s laid-back lifestyle as you wade through one of the hotel’s three sparkling outdoor pools, then immerse yourself in a rejuvenating treatment at Naima Spa, offering tailored facial, body and skin rituals. Meanwhile, little ones can be entertained at the kids' club as adults sip craft cocktails and chilled beers poolside at Lagoon Bar. From sunrise to late evening, dine on delectable international fare and traditional Balinese dishes at Batur while admiring the elegant interiors that overlook the glistening mirror surface of the hotel’s pool. If you’d like a drink while lounging in the sun, the resort’s swim-up bar is ready to serve you in style.",
-      "location_subheading": "Indonesia",
-      "price": 779,
-      "original_price": 1277,
-      "discount_percentage": 39,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000XhHQoYAN",
-      "hero_image": "https://images.luxuryescapes.com/ckno2e5ortlvzqdnxk8n",
-      "image_two": "https://images.luxuryescapes.com/0tc4rxhqug18yj2mjzj",
-      "image_three": "https://images.luxuryescapes.com/4d21s13k9c5urf8kik8e",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 7,
-      "end_date_utc": "2026-08-22 13:59:00"
-    },
-    {
-      "vendor_name": "Grand Mercure Bali Seminyak",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Seminyak",
       "title": "Bali's First-Ever Grand Mercure Seminyak with Three Outdoor Pools & Spa",
       "description": "Experience the best of Seminyak, nestled only a short stroll from the iconic and vibrant sands of Double Six Beach. Enjoy long walks along the sand or wander around the lively district of Seminyak, famed for its eclectic mix of fashionable boutiques, award-winning bars and restaurants right on your doorstep. Experience Bali’s relaxed vibe by lounging in one of the hotel’s three outdoor pools, followed by a rejuvenating treatment at the in-house spa. Kids can enjoy the kids' club while adults sip craft cocktails at the Lagoon Pool Bar. From sunrise to evening, savor international and traditional Balinese dishes at Batur, featuring elegant interiors with views of the shimmering pool.",
       "location_subheading": "Indonesia",
@@ -239,6 +221,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Grand Mercure Bali Seminyak",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Seminyak",
+      "title": "Seminyak Tropical Escape with Daily Breakfast, Daily Lunch or Dinner & Nightly Cocktails",
+      "description": "Boasting tropical elegance at its finest, this blissful Balinese retreat places you in the vibrant heart of Seminyak, only a short stroll from the golden sands of Double Six Beach. Enjoy long walks along the sand or wander around this lively coastal suburb, famed for its eclectic mix of fashionable boutiques, award-winning bars and world-class restaurants. Dive headfirst into Bali’s laid-back lifestyle as you wade through one of the hotel’s three sparkling outdoor pools, then immerse yourself in a rejuvenating treatment at Naima Spa, offering tailored facial, body and skin rituals. Meanwhile, little ones can be entertained at the kids' club as adults sip craft cocktails and chilled beers poolside at Lagoon Bar. From sunrise to late evening, dine on delectable international fare and traditional Balinese dishes at Batur while admiring the elegant interiors that overlook the glistening mirror surface of the hotel’s pool. If you’d like a drink while lounging in the sun, the resort’s swim-up bar is ready to serve you in style.",
+      "location_subheading": "Indonesia",
+      "price": 779,
+      "original_price": 1277,
+      "discount_percentage": 39,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000XhHQoYAN",
+      "hero_image": "https://images.luxuryescapes.com/ckno2e5ortlvzqdnxk8n",
+      "image_two": "https://images.luxuryescapes.com/0tc4rxhqug18yj2mjzj",
+      "image_three": "https://images.luxuryescapes.com/4d21s13k9c5urf8kik8e",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 7,
+      "end_date_utc": "2026-08-22 13:59:00"
     },
     {
       "vendor_name": "Grand Seminyak Lifestyle Boutique Bali Resort",
@@ -546,7 +546,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-26",
+    "last_updated": "2026-07-27",
     "hotel_count": 29,
     "average_price": 477,
     "average_discount": 20
