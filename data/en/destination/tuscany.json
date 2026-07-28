@@ -4,8 +4,26 @@
   "country_code": "IT",
   "hero_title": "Hotels in Tuscany",
   "description": "Discover the best hotels in Tuscany, Italy. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/wt54xm0im8ps30la302",
+  "hero_image": "https://images.luxuryescapes.com/otaanqonb6m5qxqkw91g",
   "hotels": [
+    {
+      "vendor_name": "Il Patriarca",
+      "offer_country_name": "Italy",
+      "location_heading": "Tuscany",
+      "title": "Romantic Tuscany Escape with Daily Breakfast, Nightly Drinks & One-Time Dinner",
+      "description": "Fall in love with Tuscany's spellbinding serenity with a heritage stay at this boutique villa that exudes 19th-century Italian elegance. Lush vineyards stretch as far as the eye can see, while alfresco lounging areas invite quiet contemplation. Surrounded by a large park and beautiful hilly views, the villa's perfect gardens burst with fragrant herbs and flowers, leading to a spectacular outdoor pool. Here, dining is a triumph with two restaurants promising limitless epicurean delights. Head to La Taverna del Patriarca Restaurant for hearty, traditional Tuscan fare served in a rustic setting, or ascend to culinary heights at I Salotti del Patriarca Restaurant, recommended by the Michelin Guide, where excellence meets romantic candlelit ambience.",
+      "location_subheading": "Italy",
+      "price": 429,
+      "original_price": 913,
+      "discount_percentage": 53,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000arFtpYAE",
+      "hero_image": "https://images.luxuryescapes.com/otaanqonb6m5qxqkw91g",
+      "image_two": "https://images.luxuryescapes.com/egl4os3kbfptv3fsukw",
+      "image_three": "https://images.luxuryescapes.com/yp9pysnfvufbazy0fpy7",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-08-18 13:59:00"
+    },
     {
       "vendor_name": "Toscana Resort Castelfalfi",
       "offer_country_name": "Italy",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-27",
-    "hotel_count": 1,
-    "average_price": 1332,
-    "average_discount": 0
+    "last_updated": "2026-07-28",
+    "hotel_count": 2,
+    "average_price": 881,
+    "average_discount": 27
   }
 }
