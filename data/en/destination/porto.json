@@ -149,6 +149,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 22:59:00"
+    },
+    {
+      "vendor_name": "Wine & Books Porto Hotel - Small Luxury Hotels Of The World",
+      "offer_country_name": "Portugal",
+      "location_heading": "Porto",
+      "title": "Porto Boutique City Luxury with Daily Breakfast, Rooftop Bar & Nightly Drinks",
+      "description": "Discover the storied charm of Porto with a stay at this five-star books-and-wine-inspired retreat in the UNESCO-listed historic city centre. Here, centuries-old architecture, literary heritage and famed port wine tradition meet in perfect harmony. From leisurely strolls along the Douro River to tastings at local wine cellars and visits to Livraria Lello bookshop, every corner invites exploration. Inside the hotel, the elegant Wine & Books Cafe offers the perfect spot to unwind with a light bite and a good read, while the rooftop bar serves panoramic views alongside a curated selection of wines and cocktails. At Tasca da Memória, traditional Portuguese dishes are reimagined using fresh, local ingredients. For relaxation, retreat to the onsite wellness spa, complete with sauna and indoor pool. Whether you’re wandering the colourful lanes of the Ribeira district or sampling regional flavours at the Bolhão Market, this hotel is a refined gateway to the culture, cuisine and character that make this city truly unforgettable.",
+      "location_subheading": "Portugal",
+      "price": 339,
+      "original_price": 605,
+      "discount_percentage": 44,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ZB7mnYAD",
+      "hero_image": "https://images.luxuryescapes.com/26iqnzwki9mbo02aybe9",
+      "image_two": "https://images.luxuryescapes.com/e8i381s9mfo2x9zzyi0e",
+      "image_three": "https://images.luxuryescapes.com/v88rjoz0luvgm4v134m",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-08-25 13:59:00"
     }
   ],
   "seo": {
@@ -168,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-28",
-    "hotel_count": 8,
-    "average_price": 441,
-    "average_discount": 14
+    "last_updated": "2026-07-29",
+    "hotel_count": 9,
+    "average_price": 429,
+    "average_discount": 17
   }
 }

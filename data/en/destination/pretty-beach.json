@@ -13,8 +13,8 @@
       "title": "New South Wales Coast: All-Inclusive Luxury Couples Retreat near Bouddi National Park",
       "description": "Nestled in the Bouddi Peninsula just 90 minutes north of Sydney, the seven-acre Pretty Beach House property is the embodiment of Australian outback luxury. With four exquisite pavilions to choose from - Treetops Pavilion, Bayview Pavilion, Hideaway Pavilion and The Retreat - this all-inclusive haven provides unrivalled seclusion and elegance, complemented by world-class hospitality and an array of lavish amenities. Enjoy breathtaking intimate dining spaces, a wine cellar, magnificent sandstone open fireplace, infinity pool and a hand-crafted Stefano Ferrara pizza oven - all designed to make you feel at home. Authentic, earthy interiors and unique bespoke soft furnishings await, with plush mud-brick walls and sandstone floors engulfing the entire property.",
       "location_subheading": "Australia",
-      "price": 4144,
-      "original_price": 4144,
+      "price": 4148,
+      "original_price": 4148,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdlDlAAJ",
       "hero_image": "https://images.luxuryescapes.com/klaiu8ksg992isd4zvt",
@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 2,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Pretty Beach House",
+      "offer_country_name": "Australia",
+      "location_heading": "Pretty Beach",
+      "title": "NSW Central Coast Luxury Pavilions with All-Inclusive Dining & Daily Drinks",
+      "description": "Sleep comes easily at Pretty Beach House, cradled by ancient angophoras and the quiet rhythm of Bouddi National Park on the southern tip of the NSW Central Coast. Expect your day to drift from sunrise coffee on a private deck to a swim in the infinity pool, where the trees filter soft, dappled light and wallabies graze nearby. There's no need to plan too much here, just lean into long lunches, forest and coastal walks and evenings by the open fire. The retreat is a proud member of the Luxury Lodges of Australia collection, and interior spaces feel opulent yet tailored for lazy conversation or lingering over dishes by talented chefs who bring a seasonal sensibility to every meal. Afternoons invite you to borrow a mountain bike and reach Tallow or Putty Beach in under 10 minutes, or hike straight onto Bouddi’s wild coastal trails. Return for a sunset cocktail on the terrace, before unwinding with a deep soak in your ensuite tub or book a luxurious treatment at Bouddi Spa.",
+      "location_subheading": "Australia",
+      "price": 2199,
+      "original_price": 2749,
+      "discount_percentage": 20,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000aJfynYAC",
+      "hero_image": "https://images.luxuryescapes.com/10uteowiil2z9ab5op0h",
+      "image_two": "https://images.luxuryescapes.com/m763jzkjcfbf9ze6rvi",
+      "image_three": "https://images.luxuryescapes.com/co8afmgkobm8keg8ru",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-09-22 13:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-28",
-    "hotel_count": 1,
-    "average_price": 4144,
-    "average_discount": 0
+    "last_updated": "2026-07-29",
+    "hotel_count": 2,
+    "average_price": 3174,
+    "average_discount": 10
   }
 }
