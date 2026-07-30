@@ -41,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "The Hotel Zags Portland",
-      "offer_country_name": "United States",
-      "location_heading": "Portland",
-      "title": "Downtown Portland Escape near Art Museum with Daily Breakfast & Complimentary Bike Rental",
-      "description": "Discover the best of Oregon's vibrant capital with a stay at this stylish urban retreat. Just steps from the famous Portland Art Museum, this hotel is the perfect launchpad to explore the city's unique blend of art, culture and outdoor adventure. Explore the trendy Pearl District or take advantage of the hotel's complimentary Gear Shed, stocked with everything you need for an urban adventure. You can even hire bikes with the included amenity fee, making it easy to explore Portland like a local. Savour sumptuous food and drinks at PLS on Sixth before embarking on an adventure in a city known for its eclectic culture.",
-      "location_subheading": "United States",
-      "price": 209,
-      "original_price": 498,
-      "discount_percentage": 58,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SwfsIYAR",
-      "hero_image": "https://images.luxuryescapes.com/sjgeiffdwqlqpzymy6la",
-      "image_two": "https://images.luxuryescapes.com/nkuh99fqwtzjs3afdued",
-      "image_three": "https://images.luxuryescapes.com/niebjvhev31csz6shg8",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-07-29 13:59:00"
     }
   ],
   "seo": {
@@ -78,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-29",
-    "hotel_count": 3,
-    "average_price": 434,
-    "average_discount": 21
+    "last_updated": "2026-07-30",
+    "hotel_count": 2,
+    "average_price": 547,
+    "average_discount": 2
   }
 }
