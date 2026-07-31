@@ -3,8 +3,17 @@
   "code": "AU",
   "hero_title": "Australia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Australia.",
-  "hero_image": "https://images.luxuryescapes.com/hlmi6k6ud5fce8j8z0p",
+  "hero_image": "https://images.luxuryescapes.com/dpkfunte11jazg8whie",
   "popular_destinations": [
+    {
+      "name": "Melbourne",
+      "slug": "melbourne",
+      "image": "https://images.luxuryescapes.com/dpkfunte11jazg8whie",
+      "description": "Explore Melbourne with luxury accommodations",
+      "hotel_count": 71,
+      "hotel_deals": 71,
+      "avg_price": 595
+    },
     {
       "name": "Sydney",
       "slug": "sydney",
@@ -12,16 +21,7 @@
       "description": "Explore Sydney with luxury accommodations",
       "hotel_count": 70,
       "hotel_deals": 70,
-      "avg_price": 513
-    },
-    {
-      "name": "Melbourne",
-      "slug": "melbourne",
-      "image": "https://images.luxuryescapes.com/dpkfunte11jazg8whie",
-      "description": "Explore Melbourne with luxury accommodations",
-      "hotel_count": 70,
-      "hotel_deals": 70,
-      "avg_price": 606
+      "avg_price": 508
     },
     {
       "name": "Brisbane",
@@ -30,25 +30,25 @@
       "description": "Explore Brisbane with luxury accommodations",
       "hotel_count": 37,
       "hotel_deals": 37,
-      "avg_price": 425
+      "avg_price": 421
     },
     {
       "name": "Adelaide",
       "slug": "adelaide",
       "image": "https://images.luxuryescapes.com/xxk1kjw6xoccof9p9yqt",
       "description": "Explore Adelaide with luxury accommodations",
-      "hotel_count": 31,
-      "hotel_deals": 31,
-      "avg_price": 345
+      "hotel_count": 32,
+      "hotel_deals": 32,
+      "avg_price": 340
     },
     {
       "name": "Gold Coast",
       "slug": "gold-coast",
       "image": "https://images.luxuryescapes.com/ebmp305xdst7g33h3ss",
       "description": "Explore Gold Coast with luxury accommodations",
-      "hotel_count": 24,
-      "hotel_deals": 24,
-      "avg_price": 577
+      "hotel_count": 25,
+      "hotel_deals": 25,
+      "avg_price": 570
     },
     {
       "name": "Perth",

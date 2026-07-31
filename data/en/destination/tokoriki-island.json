@@ -4,8 +4,26 @@
   "country_code": "FJ",
   "hero_title": "Hotels in Tokoriki Island",
   "description": "Discover the best hotels in Tokoriki Island, Fiji. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/m7t8fwwt6885jqxrupqg",
+  "hero_image": "https://images.luxuryescapes.com/pdi8zzk4p9rsg18g8tgt",
   "hotels": [
+    {
+      "vendor_name": "Tokoriki Island Resort",
+      "offer_country_name": "Fiji",
+      "location_heading": "Tokoriki Island",
+      "title": "Five-Star Adults-Only Fiji Beachside Retreat on Tokoriki Island",
+      "description": "Laidback luxury on Fiji’s phenomenal sands awaits with an escape to the adults-only, five-star Tokoriki Island Resort. This award-winning resort offers just 36 traditional bures and villas surrounded by lush greenery, and each one offers a taste of secluded serenity while perfectly fusing modern Fijian-inspired design elements. Savour Fijian fine dining and watch swaying palm trees move with the salty sea breeze, rejuvenate and revitalise with a visit to the world-class Tokoriki Spa or take it easy and watch the day drift slowly by with a cocktail in hand. Whatever you decide, you'll be supported by Tokoriki Island Resort's traditional Fijian hospitality and top-notch attention to detail.",
+      "location_subheading": "Fiji",
+      "price": 3760,
+      "original_price": 3760,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007ozXwAAI",
+      "hero_image": "https://images.luxuryescapes.com/pdi8zzk4p9rsg18g8tgt",
+      "image_two": "https://images.luxuryescapes.com/l5cwca58n62u69klk8",
+      "image_three": "https://images.luxuryescapes.com/tkj43egcsirn4jjnp2tc",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Tokoriki Island Resort",
       "offer_country_name": "Fiji",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 5,
       "end_date_utc": "2026-08-31 13:59:00"
-    },
-    {
-      "vendor_name": "Tokoriki Island Resort",
-      "offer_country_name": "Fiji",
-      "location_heading": "Tokoriki Island",
-      "title": "Five-Star Adults-Only Fiji Beachside Retreat on Tokoriki Island",
-      "description": "Laidback luxury on Fiji’s phenomenal sands awaits with an escape to the adults-only, five-star Tokoriki Island Resort. This award-winning resort offers just 36 traditional bures and villas surrounded by lush greenery, and each one offers a taste of secluded serenity while perfectly fusing modern Fijian-inspired design elements. Savour Fijian fine dining and watch swaying palm trees move with the salty sea breeze, rejuvenate and revitalise with a visit to the world-class Tokoriki Spa or take it easy and watch the day drift slowly by with a cocktail in hand. Whatever you decide, you'll be supported by Tokoriki Island Resort's traditional Fijian hospitality and top-notch attention to detail.",
-      "location_subheading": "Fiji",
-      "price": 3785,
-      "original_price": 3785,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007ozXwAAI",
-      "hero_image": "https://images.luxuryescapes.com/pdi8zzk4p9rsg18g8tgt",
-      "image_two": "https://images.luxuryescapes.com/l5cwca58n62u69klk8",
-      "image_three": "https://images.luxuryescapes.com/tkj43egcsirn4jjnp2tc",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-07-30",
+    "last_updated": "2026-07-31",
     "hotel_count": 2,
-    "average_price": 4807,
+    "average_price": 4795,
     "average_discount": 8
   }
 }

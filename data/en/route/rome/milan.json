@@ -5,8 +5,8 @@
   "destination_country": "Italy",
   "transport_modes": {
     "flight": {
-      "duration": "3h 45m",
-      "price_range": "$150 - $400",
+      "duration": "2h 15m",
+      "price_range": "$75 - $180",
       "providers": [
         "Skyscanner",
         "Kayak",
@@ -15,7 +15,7 @@
     },
     "train": {
       "duration": "3h 15m",
-      "price_range": "$55 - $130",
+      "price_range": "$45 - $120",
       "providers": [
         "Rail Europe",
         "Eurail",
@@ -23,8 +23,8 @@
       ]
     },
     "bus": {
-      "duration": "4h 55m",
-      "price_range": "$30 - $75",
+      "duration": "5h 30m",
+      "price_range": "$25 - $60",
       "providers": [
         "FlixBus",
         "Greyhound",
@@ -32,9 +32,9 @@
       ]
     },
     "car": {
-      "duration": "6h 20m",
+      "duration": "5h 45m",
       "distance": "280 km",
-      "price_range": "$40 - $95"
+      "price_range": "$60 - $140"
     }
   },
   "seo": {
