@@ -12,16 +12,16 @@
       "description": "Explore Melbourne with luxury accommodations",
       "hotel_count": 71,
       "hotel_deals": 71,
-      "avg_price": 595
+      "avg_price": 594
     },
     {
       "name": "Sydney",
       "slug": "sydney",
       "image": "https://images.luxuryescapes.com/hlmi6k6ud5fce8j8z0p",
       "description": "Explore Sydney with luxury accommodations",
-      "hotel_count": 70,
-      "hotel_deals": 70,
-      "avg_price": 508
+      "hotel_count": 69,
+      "hotel_deals": 69,
+      "avg_price": 517
     },
     {
       "name": "Brisbane",
@@ -30,7 +30,7 @@
       "description": "Explore Brisbane with luxury accommodations",
       "hotel_count": 37,
       "hotel_deals": 37,
-      "avg_price": 421
+      "avg_price": 428
     },
     {
       "name": "Adelaide",
@@ -39,7 +39,7 @@
       "description": "Explore Adelaide with luxury accommodations",
       "hotel_count": 32,
       "hotel_deals": 32,
-      "avg_price": 340
+      "avg_price": 341
     },
     {
       "name": "Gold Coast",
