@@ -4,26 +4,8 @@
   "country_code": "FJ",
   "hero_title": "Hotels in Tokoriki Island",
   "description": "Discover the best hotels in Tokoriki Island, Fiji. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/m7t8fwwt6885jqxrupqg",
+  "hero_image": "https://images.luxuryescapes.com/pdi8zzk4p9rsg18g8tgt",
   "hotels": [
-    {
-      "vendor_name": "Tokoriki Island Resort",
-      "offer_country_name": "Fiji",
-      "location_heading": "Tokoriki Island",
-      "title": "Award-Winning Fiji Adults-Only Island Paradise with All-Inclusive Dining & Nightly Free-Flow Cocktail Hour",
-      "description": "Behold the benchmark for boutique luxury in Fiji - complete with many accolades. Voted the South Pacific’s #1 resort in the Travel + Leisure World’s Best Awards 2026 for the second consecutive year, this intimate adults-only hideaway has earned its reputation through something far more enduring than good looks: the kind of unhurried Fijian hospitality that stays with you long after checkout. With a maximum guest count of 72, Tokoriki is deliberately, beautifully intimate. There are no crowds here, no queues for sunbeds - just powdery white sand, the ocean’s gentle rhythm and a team that always keeps you front of mind. Surround yourself with traditional Fijian design, personal pools, lush tropical gardens and unique outdoor showers that make each morning routine a ritual. Daily a la carte breakfast arrives with free-flow French sparkling wine, while happy hour brings canapes and cocktails (according to resort schedule) as the sun dips beneath the horizon. A highlight of your stay is an evening at Oishii Teppanyaki - a theatrical dining experience that’s as much a spectacle as it is a meal.",
-      "location_subheading": "Fiji",
-      "price": 5829,
-      "original_price": 6939,
-      "discount_percentage": 16,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z5P9hYAF",
-      "hero_image": "https://images.luxuryescapes.com/m7t8fwwt6885jqxrupqg",
-      "image_two": "https://images.luxuryescapes.com/cxsfnsi3lj2fimyo4cye",
-      "image_three": "https://images.luxuryescapes.com/s3b5guc03aya7qhbgn8p",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 5,
-      "end_date_utc": "2026-08-31 13:59:00"
-    },
     {
       "vendor_name": "Tokoriki Island Resort",
       "offer_country_name": "Fiji",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Tokoriki Island Resort",
+      "offer_country_name": "Fiji",
+      "location_heading": "Tokoriki Island",
+      "title": "Award-Winning Fiji Adults-Only Island Paradise with All-Inclusive Dining & Nightly Free-Flow Cocktail Hour",
+      "description": "Behold the benchmark for boutique luxury in Fiji - complete with many accolades. Voted the South Pacific’s #1 resort in the Travel + Leisure World’s Best Awards 2026 for the second consecutive year, this intimate adults-only hideaway has earned its reputation through something far more enduring than good looks: the kind of unhurried Fijian hospitality that stays with you long after checkout. With a maximum guest count of 72, Tokoriki is deliberately, beautifully intimate. There are no crowds here, no queues for sunbeds - just powdery white sand, the ocean’s gentle rhythm and a team that always keeps you front of mind. Surround yourself with traditional Fijian design, personal pools, lush tropical gardens and unique outdoor showers that make each morning routine a ritual. Daily a la carte breakfast arrives with free-flow French sparkling wine, while happy hour brings canapes and cocktails (according to resort schedule) as the sun dips beneath the horizon. A highlight of your stay is an evening at Oishii Teppanyaki - a theatrical dining experience that’s as much a spectacle as it is a meal.",
+      "location_subheading": "Fiji",
+      "price": 5829,
+      "original_price": 6939,
+      "discount_percentage": 16,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z5P9hYAF",
+      "hero_image": "https://images.luxuryescapes.com/m7t8fwwt6885jqxrupqg",
+      "image_two": "https://images.luxuryescapes.com/cxsfnsi3lj2fimyo4cye",
+      "image_three": "https://images.luxuryescapes.com/s3b5guc03aya7qhbgn8p",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2026-08-31 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-02",
+    "last_updated": "2026-08-03",
     "hotel_count": 2,
     "average_price": 4797,
     "average_discount": 8

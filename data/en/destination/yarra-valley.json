@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Yarra Valley",
   "description": "Discover the best hotels in Yarra Valley, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/5jmvyyoi5k50swo2os7n",
+  "hero_image": "https://images.luxuryescapes.com/jf29xq9m3y566vdkou4l",
   "hotels": [
-    {
-      "vendor_name": "Yarra Valley Lodge",
-      "offer_country_name": "Australia",
-      "location_heading": "Yarra Valley",
-      "title": "Yarra Valley Lodge Retreat Overlooking Championship Golf Course",
-      "description": "It’s no secret that the Yarra Valley in Victoria is teeming with treasures, but one of the best hidden gems waiting to be uncovered is Yarra Valley Lodge, set within the Heritage Golf & Country Club. From the moment you arrive, prepare to feel instantly at ease within each of the contemporary rooms or suites, with each one carefully designed to reflect the beauty of the surrounding vineyards. Relax with a glass of wine in hand at the sophisticated onsite eatery, Bella Restaurant and enjoy a farm-to-table dinner served with the freshest seasonal ingredients, or practice your skills on the Jack Nicklaus-designed, St. John golf course. Beyond the lodge, there’s no shortage of exceptional wineries, distilleries, boutique shops, galleries and national parks to keep you entertained.",
-      "location_subheading": "Australia",
-      "price": 415,
-      "original_price": 415,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004v0oxAAA",
-      "hero_image": "https://images.luxuryescapes.com/5jmvyyoi5k50swo2os7n",
-      "image_two": "https://images.luxuryescapes.com/yo2caj1tlbb8kgkwora",
-      "image_three": "https://images.luxuryescapes.com/iybwx4ro17qnuvbayxg",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Yarra Valley Lodge",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 2,
       "end_date_utc": "2026-08-19 13:59:00"
+    },
+    {
+      "vendor_name": "Yarra Valley Lodge",
+      "offer_country_name": "Australia",
+      "location_heading": "Yarra Valley",
+      "title": "Yarra Valley Lodge Retreat Overlooking Championship Golf Course",
+      "description": "It’s no secret that the Yarra Valley in Victoria is teeming with treasures, but one of the best hidden gems waiting to be uncovered is Yarra Valley Lodge, set within the Heritage Golf & Country Club. From the moment you arrive, prepare to feel instantly at ease within each of the contemporary rooms or suites, with each one carefully designed to reflect the beauty of the surrounding vineyards. Relax with a glass of wine in hand at the sophisticated onsite eatery, Bella Restaurant and enjoy a farm-to-table dinner served with the freshest seasonal ingredients, or practice your skills on the Jack Nicklaus-designed, St. John golf course. Beyond the lodge, there’s no shortage of exceptional wineries, distilleries, boutique shops, galleries and national parks to keep you entertained.",
+      "location_subheading": "Australia",
+      "price": 415,
+      "original_price": 415,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004v0oxAAA",
+      "hero_image": "https://images.luxuryescapes.com/5jmvyyoi5k50swo2os7n",
+      "image_two": "https://images.luxuryescapes.com/yo2caj1tlbb8kgkwora",
+      "image_three": "https://images.luxuryescapes.com/iybwx4ro17qnuvbayxg",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-02",
+    "last_updated": "2026-08-03",
     "hotel_count": 2,
     "average_price": 342,
     "average_discount": 17
