@@ -4,26 +4,8 @@
   "country_code": "NZ",
   "hero_title": "Hotels in Lake Taupo",
   "description": "Discover the best hotels in Lake Taupo, New Zealand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/6q8ptv2d0wg71yt384jm",
+  "hero_image": "https://images.luxuryescapes.com/wtqe0r5hql54prqzynv8",
   "hotels": [
-    {
-      "vendor_name": "The Point Villas",
-      "offer_country_name": "New Zealand",
-      "location_heading": "Lake Taupo",
-      "title": "New Zealand Luxury Two- & Three-Bedroom Villas on Lake Taupō with Private Pool & Outdoor Spa",
-      "description": "Treat yourself and loved ones to an elevated escape on the tranquil shores of Lake Taupō, set within 58 acres of native bushland overlooking Mine Bay. Offering unrivalled privacy and seclusion within a private estate, your luxurious villa comes complete with contemporary living spaces, a sweeping deck and a solar-heated private pool, made for long afternoons stretching into golden hour. Indulgence is easy with your very own Canadian cedar barrel sauna and outdoor spa, nestled in lush foliage with pristine lake vistas. Try your hand at tennis, petanque and croquet, or take a kayak onto the glassy waters of Lake Taupō, where the remarkable Ngātoroirangi Mine Bay Māori Rock Carvings await. Taupō town is just 10 minutes away for a selection of restaurants, cafes and boutique shops.",
-      "location_subheading": "New Zealand",
-      "price": 1859,
-      "original_price": 3508,
-      "discount_percentage": 47,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SwjxXYAR",
-      "hero_image": "https://images.luxuryescapes.com/6q8ptv2d0wg71yt384jm",
-      "image_two": "https://images.luxuryescapes.com/b0vgossbhgncvvj7k7",
-      "image_three": "https://images.luxuryescapes.com/aje3yjyas995gmoxtrvp",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-08-31 13:59:00"
-    },
     {
       "vendor_name": "The Point Villas",
       "offer_country_name": "New Zealand",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Point Villas",
+      "offer_country_name": "New Zealand",
+      "location_heading": "Lake Taupo",
+      "title": "New Zealand Luxury Two- & Three-Bedroom Villas on Lake Taupō with Private Pool & Outdoor Spa",
+      "description": "Treat yourself and loved ones to an elevated escape on the tranquil shores of Lake Taupō, set within 58 acres of native bushland overlooking Mine Bay. Offering unrivalled privacy and seclusion within a private estate, your luxurious villa comes complete with contemporary living spaces, a sweeping deck and a solar-heated private pool, made for long afternoons stretching into golden hour. Indulgence is easy with your very own Canadian cedar barrel sauna and outdoor spa, nestled in lush foliage with pristine lake vistas. Try your hand at tennis, petanque and croquet, or take a kayak onto the glassy waters of Lake Taupō, where the remarkable Ngātoroirangi Mine Bay Māori Rock Carvings await. Taupō town is just 10 minutes away for a selection of restaurants, cafes and boutique shops.",
+      "location_subheading": "New Zealand",
+      "price": 1859,
+      "original_price": 3508,
+      "discount_percentage": 47,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000SwjxXYAR",
+      "hero_image": "https://images.luxuryescapes.com/6q8ptv2d0wg71yt384jm",
+      "image_two": "https://images.luxuryescapes.com/b0vgossbhgncvvj7k7",
+      "image_three": "https://images.luxuryescapes.com/aje3yjyas995gmoxtrvp",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-08-31 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-04",
+    "last_updated": "2026-08-05",
     "hotel_count": 2,
     "average_price": 3010,
     "average_discount": 25

@@ -31,8 +31,8 @@
       "title": "Sophisticated Fashion Capital Escape in the Heart of Milan",
       "description": "Find yourself in the heart of the fashion capital with an escape to the sophisticated Crowne Plaza Milan City, an IHG Hotel. Positioned in the heart of this thriving Italian metropolis, you'll have food, fashion and culture at your fingertips. Positioned just steps from Milano Centrale Railway Station, use this hotel as your launchpad for discovering the cobblestone streets, Michelin Star restaurants and art that encapsulates this city's beauty.",
       "location_subheading": "Italy",
-      "price": 367,
-      "original_price": 367,
+      "price": 346,
+      "original_price": 346,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJaGAAX",
       "hero_image": "https://images.luxuryescapes.com/hlk9vgrjwnil2wlem83a",
@@ -79,14 +79,32 @@
       "end_date_utc": "2026-12-31 01:59:00"
     },
     {
+      "vendor_name": "Melia Milano",
+      "offer_country_name": "Italy",
+      "location_heading": "Milan",
+      "title": "Modern Milan Elegance near Historic City Centre with Daily Breakfast & EUR50 Dining Credit",
+      "description": "Located close to Milan’s historic centre and a stone’s throw from the upscale CityLife district, this modern hotel invites you to explore The Fashion Capital from a luxurious base. Just steps from the Lotto Metro Station, the hotel offers convenient access to the city’s iconic landmarks, including the Duomo di Milano and the Basilica of Santa Maria delle Grazie, home to Leonardo da Vinci’s ‘The Last Supper’. Start or end your days at MaMì Restaurant, a contemporary take on Milanese cuisine with a lavish breakfast buffet and stunning cocktails by the hotel's own expert bartenders. For a midday pause, Elyxr Café delivers the espresso Milan deserves.",
+      "location_subheading": "Italy",
+      "price": 399,
+      "original_price": 1535,
+      "discount_percentage": 74,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000XtSS6YAN",
+      "hero_image": "https://images.luxuryescapes.com/xjo4d8f1csmh4c8u41pd",
+      "image_two": "https://images.luxuryescapes.com/fjsmggs66920w2d4hnwo",
+      "image_three": "https://images.luxuryescapes.com/mksggmxiut4m54gpms4",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-09-01 13:59:00"
+    },
+    {
       "vendor_name": "voco Milan Fiere",
       "offer_country_name": "Italy",
       "location_heading": "Milan",
       "title": "Stylish Milan Hotel in Italian Fashion Capital",
       "description": "Fall in love with the voco Milan-Fiere, an IHG Hotel, a stylish and vibrant escape in the heart of Italy's fashion capital. Savour sumptuous dishes at OnFire Grill and Lounge, let your hair down at Ludico bar and gaming area for some cool competition and cooler cocktails or revitalise after a long soak in the Turkish baths at the wellness centre. As the sun sets, retire to a cosy and welcoming room for a good night's sleep or hit the streets of Milan to experience the dynamic nightlife.",
       "location_subheading": "Italy",
-      "price": 280,
-      "original_price": 280,
+      "price": 284,
+      "original_price": 284,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CP52IAAT",
       "hero_image": "https://images.luxuryescapes.com/u3q1vos926w16x6gk489",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-04",
-    "hotel_count": 5,
-    "average_price": 539,
-    "average_discount": 2
+    "last_updated": "2026-08-05",
+    "hotel_count": 6,
+    "average_price": 513,
+    "average_discount": 14
   }
 }
