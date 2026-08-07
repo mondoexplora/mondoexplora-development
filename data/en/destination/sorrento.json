@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Sorrento",
   "description": "Discover the best hotels in Sorrento, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/rxfwsk6vhye7a0r68d",
+  "hero_image": "https://images.luxuryescapes.com/7p11ntp9ylkwxrc5liw",
   "hotels": [
-    {
-      "vendor_name": "Hotel Sorrento",
-      "offer_country_name": "Australia",
-      "location_heading": "Sorrento",
-      "title": "Mornington Peninsula Adults-Only Clifftop Glamour with Daily Breakfast & A$100 Dining Credit",
-      "description": "Channel old-world glamour at this adults-only bayside retreat, family-owned since 1872 and a short stroll from Sorrento village’s boutiques, galleries and the Queenscliff ferry. Art-filled interiors and polished rooms and suites, many with private balconies over Port Phillip Bay, are complemented by an outdoor pool deck, Marlo Spa and a rooftop fitness centre. Dine on modern Australian seasonal plates in the Dining Room or sink into the limestone-walled Front Bar for tank-fresh beer. Beyond the hotel, Alba Hot Springs, Red Hill cellar doors and the rugged clifftop walk to Diamond Bay all await.",
-      "location_subheading": "Australia",
-      "price": 419,
-      "original_price": 607,
-      "discount_percentage": 31,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000RinrtYAB",
-      "hero_image": "https://images.luxuryescapes.com/rxfwsk6vhye7a0r68d",
-      "image_two": "https://images.luxuryescapes.com/t25xactqco91xno9voh",
-      "image_three": "https://images.luxuryescapes.com/jfinpylx54iug1mhj7",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 2,
-      "end_date_utc": "2026-08-06 13:59:00"
-    },
     {
       "vendor_name": "InterContinental Sorrento Mornington Peninsula",
       "offer_country_name": "Australia",
@@ -78,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-06",
-    "hotel_count": 3,
-    "average_price": 485,
-    "average_discount": 28
+    "last_updated": "2026-08-07",
+    "hotel_count": 2,
+    "average_price": 518,
+    "average_discount": 26
   }
 }
