@@ -12,7 +12,7 @@
       "description": "Explore Barcelona with luxury accommodations",
       "hotel_count": 22,
       "hotel_deals": 22,
-      "avg_price": 670
+      "avg_price": 673
     },
     {
       "name": "Madrid",
@@ -21,7 +21,7 @@
       "description": "Explore Madrid with luxury accommodations",
       "hotel_count": 13,
       "hotel_deals": 13,
-      "avg_price": 540
+      "avg_price": 541
     },
     {
       "name": "Mallorca",
@@ -30,16 +30,16 @@
       "description": "Explore Mallorca with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 1122
+      "avg_price": 1132
     },
     {
       "name": "Ibiza",
       "slug": "ibiza",
       "image": "https://images.luxuryescapes.com/km0y1pe9t375yfveyt9",
       "description": "Explore Ibiza with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 712
+      "hotel_count": 6,
+      "hotel_deals": 6,
+      "avg_price": 782
     },
     {
       "name": "San Roque",

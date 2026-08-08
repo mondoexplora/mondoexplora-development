@@ -12,7 +12,7 @@
       "description": "Explore Cabo San Lucas with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 3042
+      "avg_price": 3045
     },
     {
       "name": "Cancun",
@@ -21,16 +21,16 @@
       "description": "Explore Cancun with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 1168
+      "avg_price": 1171
     },
     {
       "name": "Los Cabos",
       "slug": "los-cabos",
       "image": "https://images.luxuryescapes.com/edqtv8330piiyf8k7dp",
       "description": "Explore Los Cabos with luxury accommodations",
-      "hotel_count": 5,
-      "hotel_deals": 5,
-      "avg_price": 1386
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 1649
     },
     {
       "name": "Mexico City",
@@ -39,7 +39,7 @@
       "description": "Explore Mexico City with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 770
+      "avg_price": 777
     },
     {
       "name": "Playa del Carmen",
@@ -48,7 +48,7 @@
       "description": "Explore Playa del Carmen with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 1531
+      "avg_price": 1533
     },
     {
       "name": "Nuevo Vallarta",
@@ -57,7 +57,7 @@
       "description": "Explore Nuevo Vallarta with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 892
+      "avg_price": 894
     }
   ],
   "seo": {

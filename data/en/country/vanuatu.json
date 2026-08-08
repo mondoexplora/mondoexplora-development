@@ -10,27 +10,18 @@
       "slug": "port-vila",
       "image": "https://images.luxuryescapes.com/p6989y2ckiw8ur3lnb",
       "description": "Explore Port Vila with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 637
+      "hotel_count": 5,
+      "hotel_deals": 5,
+      "avg_price": 644
     },
     {
-      "name": "Efate",
-      "slug": "efate",
-      "image": "https://images.luxuryescapes.com/dzpyy3cxbdyyb7k3sob",
-      "description": "Explore Efate with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 1244
-    },
-    {
-      "name": "Santo Espiritu",
-      "slug": "santo-espiritu",
+      "name": "x",
+      "slug": "x",
       "image": "https://images.luxuryescapes.com/bukvjvhxltmcj38y8e0i",
-      "description": "Explore Santo Espiritu with luxury accommodations",
+      "description": "Explore x with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 712
+      "avg_price": 716
     },
     {
       "name": "Espiritu Santo",
@@ -51,13 +42,22 @@
       "avg_price": 1291
     },
     {
+      "name": "Efate",
+      "slug": "efate",
+      "image": "https://images.luxuryescapes.com/4kdff5t96skkyxrw224",
+      "description": "Explore Efate with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1809
+    },
+    {
       "name": "Tanna",
       "slug": "tanna",
       "image": "https://images.luxuryescapes.com/ttw9qumpleuc74tcuhgi",
       "description": "Explore Tanna with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 438
+      "avg_price": 440
     }
   ],
   "seo": {

@@ -3,25 +3,25 @@
   "code": "AU",
   "hero_title": "Australia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Australia.",
-  "hero_image": "https://images.luxuryescapes.com/hlmi6k6ud5fce8j8z0p",
+  "hero_image": "https://images.luxuryescapes.com/dpkfunte11jazg8whie",
   "popular_destinations": [
-    {
-      "name": "Sydney",
-      "slug": "sydney",
-      "image": "https://images.luxuryescapes.com/hlmi6k6ud5fce8j8z0p",
-      "description": "Explore Sydney with luxury accommodations",
-      "hotel_count": 69,
-      "hotel_deals": 69,
-      "avg_price": 503
-    },
     {
       "name": "Melbourne",
       "slug": "melbourne",
       "image": "https://images.luxuryescapes.com/dpkfunte11jazg8whie",
       "description": "Explore Melbourne with luxury accommodations",
+      "hotel_count": 69,
+      "hotel_deals": 69,
+      "avg_price": 609
+    },
+    {
+      "name": "Sydney",
+      "slug": "sydney",
+      "image": "https://images.luxuryescapes.com/hlmi6k6ud5fce8j8z0p",
+      "description": "Explore Sydney with luxury accommodations",
       "hotel_count": 68,
       "hotel_deals": 68,
-      "avg_price": 616
+      "avg_price": 505
     },
     {
       "name": "Brisbane",
@@ -30,7 +30,7 @@
       "description": "Explore Brisbane with luxury accommodations",
       "hotel_count": 37,
       "hotel_deals": 37,
-      "avg_price": 428
+      "avg_price": 435
     },
     {
       "name": "Adelaide",
@@ -39,7 +39,7 @@
       "description": "Explore Adelaide with luxury accommodations",
       "hotel_count": 32,
       "hotel_deals": 32,
-      "avg_price": 346
+      "avg_price": 344
     },
     {
       "name": "Gold Coast",
@@ -48,7 +48,7 @@
       "description": "Explore Gold Coast with luxury accommodations",
       "hotel_count": 25,
       "hotel_deals": 25,
-      "avg_price": 569
+      "avg_price": 575
     },
     {
       "name": "Perth",
