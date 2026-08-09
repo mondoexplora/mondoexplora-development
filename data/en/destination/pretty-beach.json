@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Pretty Beach",
   "description": "Discover the best hotels in Pretty Beach, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/klaiu8ksg992isd4zvt",
+  "hero_image": "https://images.luxuryescapes.com/10uteowiil2z9ab5op0h",
   "hotels": [
-    {
-      "vendor_name": "Pretty Beach House",
-      "offer_country_name": "Australia",
-      "location_heading": "Pretty Beach",
-      "title": "New South Wales Coast: All-Inclusive Luxury Couples Retreat near Bouddi National Park",
-      "description": "Nestled in the Bouddi Peninsula just 90 minutes north of Sydney, the seven-acre Pretty Beach House property is the embodiment of Australian outback luxury. With four exquisite pavilions to choose from - Treetops Pavilion, Bayview Pavilion, Hideaway Pavilion and The Retreat - this all-inclusive haven provides unrivalled seclusion and elegance, complemented by world-class hospitality and an array of lavish amenities. Enjoy breathtaking intimate dining spaces, a wine cellar, magnificent sandstone open fireplace, infinity pool and a hand-crafted Stefano Ferrara pizza oven - all designed to make you feel at home. Authentic, earthy interiors and unique bespoke soft furnishings await, with plush mud-brick walls and sandstone floors engulfing the entire property.",
-      "location_subheading": "Australia",
-      "price": 4120,
-      "original_price": 4120,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdlDlAAJ",
-      "hero_image": "https://images.luxuryescapes.com/klaiu8ksg992isd4zvt",
-      "image_two": "https://images.luxuryescapes.com/sud4g8atkv9ke52cgzrr",
-      "image_three": "https://images.luxuryescapes.com/lufyfmkfpparfnfoa6",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 2,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Pretty Beach House",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-09-22 13:59:00"
+    },
+    {
+      "vendor_name": "Pretty Beach House",
+      "offer_country_name": "Australia",
+      "location_heading": "Pretty Beach",
+      "title": "New South Wales Coast: All-Inclusive Luxury Couples Retreat near Bouddi National Park",
+      "description": "Nestled in the Bouddi Peninsula just 90 minutes north of Sydney, the seven-acre Pretty Beach House property is the embodiment of Australian outback luxury. With four exquisite pavilions to choose from - Treetops Pavilion, Bayview Pavilion, Hideaway Pavilion and The Retreat - this all-inclusive haven provides unrivalled seclusion and elegance, complemented by world-class hospitality and an array of lavish amenities. Enjoy breathtaking intimate dining spaces, a wine cellar, magnificent sandstone open fireplace, infinity pool and a hand-crafted Stefano Ferrara pizza oven - all designed to make you feel at home. Authentic, earthy interiors and unique bespoke soft furnishings await, with plush mud-brick walls and sandstone floors engulfing the entire property.",
+      "location_subheading": "Australia",
+      "price": 4127,
+      "original_price": 4127,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EdlDlAAJ",
+      "hero_image": "https://images.luxuryescapes.com/klaiu8ksg992isd4zvt",
+      "image_two": "https://images.luxuryescapes.com/sud4g8atkv9ke52cgzrr",
+      "image_three": "https://images.luxuryescapes.com/lufyfmkfpparfnfoa6",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-08",
+    "last_updated": "2026-08-09",
     "hotel_count": 2,
-    "average_price": 3130,
+    "average_price": 3133,
     "average_discount": 11
   }
 }

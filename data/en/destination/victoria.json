@@ -31,14 +31,32 @@
       "title": "Beachfront Geelong Apartments Steps from Eastern Beach & Esplanade",
       "description": "Step straight onto Eastern Beach from Oaks Vue Suites Geelong, where beautiful beachfront apartments put you at the heart of Geelong's vibrant waterfront precinct. Wake to views across Corio Bay or the city skyline from your private balcony, with the esplanade and its famous bollards just steps from your door. Spend your days exploring the waterfront dining scene, browsing Westfield Geelong Shopping Centre five minutes away, or simply soaking up the coastal atmosphere from your self-contained apartment. With the National Wool Museum, Geelong Botanic Gardens and major event venues all within easy reach, you're perfectly positioned to experience everything this coastal city has to offer.",
       "location_subheading": "Australia",
-      "price": 537,
-      "original_price": 537,
+      "price": 558.6,
+      "original_price": 558.6,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Q3rqQYAR",
       "hero_image": "https://images.luxuryescapes.com/qcu814coyfdokneyjbmc",
       "image_two": "https://images.luxuryescapes.com/rho4au5f32k2yuc90tlq",
       "image_three": "https://images.luxuryescapes.com/rtc5ap33qqltgtklacxn",
       "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Art Series - The Olsen",
+      "offer_country_name": "Australia",
+      "location_heading": "Victoria",
+      "title": "Boutique South Yarra Art Series Retreat with Glass-Bottom Pool, Dive Bar & Restaurant",
+      "description": "Delve into Melbourne's eclectic art scene with a stylish stay at this aesthetic retreat, perfectly positioned on Chapel Street, the city's fashion and foodie hub. Each suite or penthouse in this boutique hotel is adorned with the lyrical artwork of renowned Australian artist John Olsen, lending it a characteristic aura. You can take a stroll along the Yarra River or venture a little further to explore Melbourne's sports and entertainment hubs. Back at your art-filled hotel, go for a swim in the glass-bottomed pool overlooking Chapel Street, indulge in a paddock-to-plate dining experience at Spoonbill Restaurant and sip on refreshing drinks at the high-end dive bar, Two Wrongs, after a long day of urban adventures.",
+      "location_subheading": "Australia",
+      "price": 259,
+      "original_price": 259,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRep2AAD",
+      "hero_image": "https://images.luxuryescapes.com/yjhejewgl45olzdu0nl",
+      "image_two": "https://images.luxuryescapes.com/4ueiueuy8ae9425ctb7",
+      "image_three": "https://images.luxuryescapes.com/tr663z8e7wdamsw5k5l",
+      "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     },
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-08",
-    "hotel_count": 3,
-    "average_price": 487,
+    "last_updated": "2026-08-09",
+    "hotel_count": 4,
+    "average_price": 435,
     "average_discount": 1
   }
 }
