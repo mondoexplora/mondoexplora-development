@@ -31,8 +31,8 @@
       "title": "Downtown Los Angeles Glamour near LA Live with Trendy Restaurant, Rooftop Pool & Top-Floor Bar",
       "description": "Capturing the essence of Hollywood's golden-era glamour, Hotel Indigo Los Angeles Downtown, an IHG Hotel is the ultimate boutique-style escape. This stylish hotel is just steps from some of LAs hottest entertainment hubs, including LA Live, the Grammy Museum and the Crypto.com Arena. Savour innovative Californian cuisine at Metropole Bar + Kitchen, soak up panoramic city views and artisanal cocktails at 18 Social or take a refreshing dip in the outdoor pool.",
       "location_subheading": "United States",
-      "price": 661,
-      "original_price": 661,
+      "price": 667,
+      "original_price": 667,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000GxZhgAAF",
       "hero_image": "https://images.luxuryescapes.com/lmt2rkdnjllmagku6or",
@@ -157,8 +157,8 @@
       "title": "Convenient LAX Airport Stay with Four Onsite Restaurants & Complimentary Airport Shuttle",
       "description": "Discover the perfect balance of convenience and comfort at Sonesta Los Angeles Airport LAX, located just minutes from Los Angeles International Airport. This modern and stylish hotel is the perfect stopover for long-haul travellers or those catching late-night or early-morning flights. Enjoy a blissful night's rest in the comfort of your spacious room, before enjoying a dip in the heated swimming pool or tasting your way through Southern California at one of the hotel's four on-site restaurants.",
       "location_subheading": "United States",
-      "price": 424,
-      "original_price": 424,
+      "price": 451,
+      "original_price": 451,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000008JBcMAAW",
       "hero_image": "https://images.luxuryescapes.com/semqt8ayb5pz4vngc9",
@@ -167,6 +167,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Godfrey Hollywood",
+      "offer_country_name": "United States",
+      "location_heading": "Los Angeles",
+      "title": "Glamourous Los Angeles City Break with Rooftop Pool & Bar Overlooking the Hollywood Sign",
+      "description": "Discover Tinseltown with a stay at The Godfrey Hotel Hollywood, boasting a trendy rooftop bar and pool overlooking the world-famous Hollywood Sign and minutes from the Sunset Strip. Soak up the glitzy interior designed and curated arts program, as well as a convenient location in the heart of this showbiz-loving city. Fill your days with hiking, shopping, and sightseeing around Los Angeles, and your evenings lounging high above the sparkling lights.",
+      "location_subheading": "United States",
+      "price": 442,
+      "original_price": 597,
+      "discount_percentage": 26,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ez3JyAAJ",
+      "hero_image": "https://images.luxuryescapes.com/oojyp6r89ox7lmy3cx6t",
+      "image_two": "https://images.luxuryescapes.com/r51kwkg0shkfpilzvmi",
+      "image_three": "https://images.luxuryescapes.com/39rkkqutoch7msi6f7ot",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "The Godfrey Hollywood",
@@ -185,24 +203,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-09-22 13:59:00"
-    },
-    {
-      "vendor_name": "The Godfrey Hollywood",
-      "offer_country_name": "United States",
-      "location_heading": "Los Angeles",
-      "title": "Glamourous Los Angeles City Break with Rooftop Pool & Bar Overlooking the Hollywood Sign",
-      "description": "Discover Tinseltown with a stay at The Godfrey Hotel Hollywood, boasting a trendy rooftop bar and pool overlooking the world-famous Hollywood Sign and minutes from the Sunset Strip. Soak up the glitzy interior designed and curated arts program, as well as a convenient location in the heart of this showbiz-loving city. Fill your days with hiking, shopping, and sightseeing around Los Angeles, and your evenings lounging high above the sparkling lights.",
-      "location_subheading": "United States",
-      "price": 447,
-      "original_price": 604,
-      "discount_percentage": 26,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ez3JyAAJ",
-      "hero_image": "https://images.luxuryescapes.com/oojyp6r89ox7lmy3cx6t",
-      "image_two": "https://images.luxuryescapes.com/r51kwkg0shkfpilzvmi",
-      "image_three": "https://images.luxuryescapes.com/39rkkqutoch7msi6f7ot",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "The Line Hotel, LA",
@@ -240,9 +240,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-09",
+    "last_updated": "2026-08-10",
     "hotel_count": 12,
-    "average_price": 647,
+    "average_price": 650,
     "average_discount": 7
   }
 }

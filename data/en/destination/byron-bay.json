@@ -13,8 +13,8 @@
       "title": "Byron Bay Eco-Luxury Retreat Amidst Tranquil Rainforest with Indulgent Spa & Forest-Themed Restaurant",
       "description": "Celebrate a harmony of nature and contemporary elegance at this five-star eco-conscious sanctuary nestled amid 45 acres of lush subtropical rainforest in the heart of Byron Bay. Immerse yourself in the serenity of verdant foliage, savour the flavours of locally sourced cuisine at Forest which boasts an onsite herb garden and offers biodynamic wines and rejuvenate your senses at the world-class Eléme Spa. If you wish to venture out, Byron Bay's vibrant town centre and the renowned beaches of Tallow and Pass are a short drive away.",
       "location_subheading": "Australia",
-      "price": 555,
-      "original_price": 669,
+      "price": 554,
+      "original_price": 667,
       "discount_percentage": 17,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000IeEAjAAN",
       "hero_image": "https://images.luxuryescapes.com/7d4397iqqbb1w9u5sm",
@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Discovery Parks Byron Bay",
+      "offer_country_name": "Australia",
+      "location_heading": "Byron Bay",
+      "title": "Byron Bay Glamping Retreat near Belongil Creek with Water Park & Deluxe Safari Tent",
+      "description": "Nestled on the dramatic New South Wales coast just moments from Belongil Creek is a secluded, hinterland-fringed oasis just waiting to be discovered. Tucked away in a quiet corner of this dreamy surf destination - yet only a five-minute drive from Byron Bay's town centre - this relaxing spot is perfect for a romantic retreat or family-friendly escape. Sleep (almost) under the stars in a safari-style tent featuring a kitchenette, private deck and ensuite, and embrace laidback Byron living with unlimited access to Discovery Park Byron Bay’s waterpark, swimming pool and BBQ facilities. Perfectly placed to explore Belongil Beach, Main Beach, The Pass and Tallow Beach, you're also poised to explore the hinterland around Minyon Falls, hit the Byron Bay markets or walk the Three Sisters track.",
+      "location_subheading": "Australia",
+      "price": 179,
+      "original_price": 716,
+      "discount_percentage": 75,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ZlOasYAF",
+      "hero_image": "https://images.luxuryescapes.com/ny212jyspbupm6eepkam",
+      "image_two": "https://images.luxuryescapes.com/zwmi032cdlynwkp4o5x",
+      "image_three": "https://images.luxuryescapes.com/ho1iqciaps8tmodkfk7",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-09-07 13:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-09",
-    "hotel_count": 1,
-    "average_price": 555,
-    "average_discount": 17
+    "last_updated": "2026-08-10",
+    "hotel_count": 2,
+    "average_price": 367,
+    "average_discount": 46
   }
 }
