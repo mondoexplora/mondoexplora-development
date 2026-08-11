@@ -22,24 +22,6 @@
       "image_three": "https://images.luxuryescapes.com/lgtv39t465omloivzn58",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 3,
-      "end_date_utc": "2026-08-18 13:59:00"
-    },
-    {
-      "vendor_name": "Mantra Frangipani",
-      "offer_country_name": "Australia",
-      "location_heading": "Broome",
-      "title": "Central Broome One- & Two-Bedroom Apartments near Cable Beach with Two Resort-Style Pools",
-      "description": "Experience the tropical allure of Broome - the gateway to the spectacular Kimberley region - with a self-contained apartment escape at Mantra Frangipani Broome, perfectly positioned just moments from Cable Beach. Unwind in spacious apartments, designed with couples and groups in mind, and enjoy access to two refreshing swimming pools, lush resort gardens and BBQ facilities. Broome is beautiful from every angle and you’ll be perfectly placed to make the most of its adventurous activities and wildlife. Watch camels crossing Cable Beach against a sunset backdrop, dip your toes into the turquoise Indian Ocean and stroll across pearl-white beaches set against red cliffs.",
-      "location_subheading": "Australia",
-      "price": 229,
-      "original_price": 395,
-      "discount_percentage": 42,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000YOBgIYAX",
-      "hero_image": "https://images.luxuryescapes.com/9u3n5ji00f0w1d7y1odtn",
-      "image_two": "https://images.luxuryescapes.com/bphjym0q2xfa7xusk31y",
-      "image_three": "https://images.luxuryescapes.com/a7ivwy16dn883arp4106p",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 3,
       "end_date_utc": "2026-08-31 13:59:00"
     },
     {
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mantra Frangipani",
+      "offer_country_name": "Australia",
+      "location_heading": "Broome",
+      "title": "Central Broome One- & Two-Bedroom Apartments near Cable Beach with Two Resort-Style Pools",
+      "description": "Experience the tropical allure of Broome - the gateway to the spectacular Kimberley region - with a self-contained apartment escape at Mantra Frangipani Broome, perfectly positioned just moments from Cable Beach. Unwind in spacious apartments, designed with couples and groups in mind, and enjoy access to two refreshing swimming pools, lush resort gardens and BBQ facilities. Broome is beautiful from every angle and you’ll be perfectly placed to make the most of its adventurous activities and wildlife. Watch camels crossing Cable Beach against a sunset backdrop, dip your toes into the turquoise Indian Ocean and stroll across pearl-white beaches set against red cliffs.",
+      "location_subheading": "Australia",
+      "price": 229,
+      "original_price": 395,
+      "discount_percentage": 42,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000YOBgIYAX",
+      "hero_image": "https://images.luxuryescapes.com/9u3n5ji00f0w1d7y1odtn",
+      "image_two": "https://images.luxuryescapes.com/bphjym0q2xfa7xusk31y",
+      "image_three": "https://images.luxuryescapes.com/a7ivwy16dn883arp4106p",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-08-31 13:59:00"
     },
     {
       "vendor_name": "Oaks Broome Hotel",
@@ -114,7 +114,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-10",
+    "last_updated": "2026-08-11",
     "hotel_count": 5,
     "average_price": 434,
     "average_discount": 24

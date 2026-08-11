@@ -12,7 +12,7 @@
       "description": "Explore Tokyo with luxury accommodations",
       "hotel_count": 15,
       "hotel_deals": 15,
-      "avg_price": 1036
+      "avg_price": 1057
     },
     {
       "name": "Kyoto",
@@ -21,7 +21,7 @@
       "description": "Explore Kyoto with luxury accommodations",
       "hotel_count": 8,
       "hotel_deals": 8,
-      "avg_price": 1038
+      "avg_price": 1030
     },
     {
       "name": "Osaka",
@@ -30,7 +30,7 @@
       "description": "Explore Osaka with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 584
+      "avg_price": 597
     },
     {
       "name": "Sapporo",
@@ -48,7 +48,7 @@
       "description": "Explore Okinawa with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 280
+      "avg_price": 279
     },
     {
       "name": "Hachimantai-shi",
@@ -57,7 +57,7 @@
       "description": "Explore Hachimantai-shi with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 403
+      "avg_price": 409
     }
   ],
   "seo": {
