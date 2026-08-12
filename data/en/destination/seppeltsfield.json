@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Seppeltsfield",
   "description": "Discover the best hotels in Seppeltsfield, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/qdefwo7wui139qcfifu54l",
+  "hero_image": "https://images.luxuryescapes.com/9mkxbqdyo4w2pat1ztee",
   "hotels": [
-    {
-      "vendor_name": "CABN X Seppeltsfield Barossa",
-      "offer_country_name": "Australia",
-      "location_heading": "Seppeltsfield",
-      "title": "Barossa Valley Eco-Cabins Steps from Seppeltsfield Winery with Private Sauna & Breakfast Hamper",
-      "description": "Disconnect from the world and step into nature’s embrace in an elevated eco-cabin retreat amid the vineyards of one of Australia’s most prestigious wine regions. You’re invited to slow down at CABN X Seppeltsfield, a calming off-grid cabin offering a romantic and relaxing escape. Boasting a luxe in-cabin private sauna, gas fireplace, kitchenette and a deep soaking bathtub, this is the perfect way to embrace the beauty of the Barossa Valley. Perfectly positioned within breathtaking South Australian wine country, this haven is home to some of the oldest vines in Australia, 90 cellar doors and world-class restaurants, all just a 60-minute drive from Adelaide. Find yourself moments from Hentley Farm, while Nuriootpa and Tanunda townships are both a 10-minutes drive away, offering quaint cafes, boutique shops and antique stores.",
-      "location_subheading": "Australia",
-      "price": 369,
-      "original_price": 820,
-      "discount_percentage": 55,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ZqNfVYAV",
-      "hero_image": "https://images.luxuryescapes.com/qdefwo7wui139qcfifu54l",
-      "image_two": "https://images.luxuryescapes.com/8lf2gigrxot6frk4i3zr",
-      "image_three": "https://images.luxuryescapes.com/eiq8rjjyna4q9d89wha",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-08-31 13:59:00"
-    },
     {
       "vendor_name": "CABN X Seppeltsfield Barossa",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "CABN X Seppeltsfield Barossa",
+      "offer_country_name": "Australia",
+      "location_heading": "Seppeltsfield",
+      "title": "Barossa Valley Eco-Cabins Steps from Seppeltsfield Winery with Private Sauna & Breakfast Hamper",
+      "description": "Disconnect from the world and step into nature’s embrace in an elevated eco-cabin retreat amid the vineyards of one of Australia’s most prestigious wine regions. You’re invited to slow down at CABN X Seppeltsfield, a calming off-grid cabin offering a romantic and relaxing escape. Boasting a luxe in-cabin private sauna, gas fireplace, kitchenette and a deep soaking bathtub, this is the perfect way to embrace the beauty of the Barossa Valley. Perfectly positioned within breathtaking South Australian wine country, this haven is home to some of the oldest vines in Australia, 90 cellar doors and world-class restaurants, all just a 60-minute drive from Adelaide. Find yourself moments from Hentley Farm, while Nuriootpa and Tanunda townships are both a 10-minutes drive away, offering quaint cafes, boutique shops and antique stores.",
+      "location_subheading": "Australia",
+      "price": 369,
+      "original_price": 820,
+      "discount_percentage": 55,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ZqNfVYAV",
+      "hero_image": "https://images.luxuryescapes.com/qdefwo7wui139qcfifu54l",
+      "image_two": "https://images.luxuryescapes.com/8lf2gigrxot6frk4i3zr",
+      "image_three": "https://images.luxuryescapes.com/eiq8rjjyna4q9d89wha",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-08-31 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-11",
+    "last_updated": "2026-08-12",
     "hotel_count": 2,
     "average_price": 913,
     "average_discount": 33

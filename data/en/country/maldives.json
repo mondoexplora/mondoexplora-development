@@ -12,7 +12,7 @@
       "description": "Explore North Malé Atoll with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 2774
+      "avg_price": 2776
     },
     {
       "name": "Baa Atoll",
@@ -21,7 +21,7 @@
       "description": "Explore Baa Atoll with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 5530
+      "avg_price": 5535
     },
     {
       "name": "Malé",
@@ -39,25 +39,25 @@
       "description": "Explore South Ari Atoll with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 3145
+      "avg_price": 3148
     },
     {
       "name": "Kooddoo Island",
       "slug": "kooddoo-island",
-      "image": "https://images.luxuryescapes.com/xad924sqpwdyea22fh83",
+      "image": "https://images.luxuryescapes.com/8lmon526es6jm6rwdnu",
       "description": "Explore Kooddoo Island with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1923
+      "avg_price": 1921
     },
     {
-      "name": "Gaafu Alifu Atoll",
-      "slug": "gaafu-alifu-atoll",
-      "image": "https://images.luxuryescapes.com/ckrqz9yl8p9bxd3gb489",
-      "description": "Explore Gaafu Alifu Atoll with luxury accommodations",
+      "name": "Lhaviyani Atoll",
+      "slug": "lhaviyani-atoll",
+      "image": "https://images.luxuryescapes.com/0qqt6lz8hbndo997cy95",
+      "description": "Explore Lhaviyani Atoll with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 4369
+      "avg_price": 3226
     }
   ],
   "seo": {
