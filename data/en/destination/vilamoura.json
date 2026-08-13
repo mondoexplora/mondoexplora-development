@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 01:59:00"
+    },
+    {
+      "vendor_name": "Hyatt Regency Vilamoura Algarve",
+      "offer_country_name": "Portugal",
+      "location_heading": "Vilamoura",
+      "title": "HYATT REGENCY VILAMOURA ALGARVE LPP",
+      "description": "Set in Vilamoura’s polished marina district, this refined retreat places you moments from the yacht-lined waterfront and the golden sweep of Praia da Falésia. The Roman ruins of Cerro da Vila and the lively bars of Avenida Tivoli are close by, while Faro Airport sits around 30 minutes away by car. Inside, spacious rooms open to balconies and contemporary interiors, with a spa, outdoor pool and fitness centre on hand. Dining spans Mediterranean plates and relaxed drinks, while nearby golf courses include the championship fairways of Victoria and Millennium",
+      "location_subheading": "Portugal",
+      "price": 366,
+      "original_price": 366,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z99bjYAB",
+      "hero_image": "https://images.luxuryescapes.com/pc889n19y6fpqre2858v",
+      "image_two": "https://images.luxuryescapes.com/mwmmuh8u2vd10xprii6",
+      "image_three": "https://images.luxuryescapes.com/n01s2s3v45qkubyjp2xi",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-12",
-    "hotel_count": 1,
-    "average_price": 553,
+    "last_updated": "2026-08-13",
+    "hotel_count": 2,
+    "average_price": 460,
     "average_discount": 0
   }
 }

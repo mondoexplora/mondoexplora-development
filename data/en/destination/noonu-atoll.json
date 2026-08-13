@@ -13,8 +13,8 @@
       "title": "Noonu Atoll Haven with Signature Dining & World-Class Spa",
       "description": "This five-star retreat is a haven of tranquillity, boasting an undisturbed location on the Noonu Atoll offering an unforgettable Maldivian escape. Dine on spectacular seafood at the overwater Bodumas restaurant or indulge in a signature chocolate hour to sweeten your escape. Spend your days exploring the waters around the resort with complimentary non-motorised water sports, including kayaks and stand-up paddle boards, or discover the vibrant underwater world with a dive at the resort's PADI dive centre. For a change of pace, experience a curated treatment at Sun Spa by Healing Earth and let yourself melt away.",
       "location_subheading": "Maldives",
-      "price": 1699,
-      "original_price": 1699,
+      "price": 1701,
+      "original_price": 1701,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002ImpMIAS",
       "hero_image": "https://images.luxuryescapes.com/oq9lgsvqw5hmlhgvlyhh",
@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "NOKU MALDIVES VIGNETTE COLLECTION",
+      "offer_country_name": "Maldives",
+      "location_heading": "Noonu Atoll",
+      "title": "Secluded Maldives All-Inclusive Pool Villas with Unlimited Free-Flow Drinks & Return Seaplane Transfers",
+      "description": "Travel to the Maldives’ northern reaches and things become quieter, slower, wilder. This secluded private island escape offers all-inclusive luxury at the archipelago’s edge, surrounded by the endlessly shimmering waters of the Noonu Atoll. A member of IHG’s prestigious Vignette Collection, Noku Maldives provides an intimate, design-conscious experience, with sprawling private pool villas, an excellent house reef just steps from the shore and 34 surrounding dive spots, each brimming with sea turtles, reef sharks and more. Return from days spent exploring beach and reef to an all-inclusive offering backed by authentic cultural moments. At Thari, flavours from the Maldives, Sri Lanka and India take centre stage, echoing the spice trails that defined the region’s culinary landscape for centuries; beachfront evenings at Palms pair grilled seafood with live music and laidback cocktails. A destination this sublime demands a wellness program to match. Funa Spa delivers: framed by swaying palms, it features a wellness program drawing on traditional therapeutic techniques, including Maldivian coconut scrubs, to refresh and rejuvenate.",
+      "location_subheading": "Maldives",
+      "price": 3729,
+      "original_price": 7934,
+      "discount_percentage": 53,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ajzdhYAA",
+      "hero_image": "https://images.luxuryescapes.com/b44crh9zskq9x3obwy4o",
+      "image_two": "https://images.luxuryescapes.com/oco0d8oode7opxccqma",
+      "image_three": "https://images.luxuryescapes.com/ckloqx6x602a3bjajy",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2026-10-11 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-12",
-    "hotel_count": 1,
-    "average_price": 1699,
-    "average_discount": 0
+    "last_updated": "2026-08-13",
+    "hotel_count": 2,
+    "average_price": 2715,
+    "average_discount": 27
   }
 }

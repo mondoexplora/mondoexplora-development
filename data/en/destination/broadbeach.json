@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Broadbeach",
   "description": "Discover the best hotels in Broadbeach, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/6lpzsty5m2bvsim1xt6",
+  "hero_image": "https://images.luxuryescapes.com/wt4v98n8dmb8re5wmwri",
   "hotels": [
-    {
-      "vendor_name": "Amaya Broadbeach",
-      "offer_country_name": "Australia",
-      "location_heading": "Broadbeach",
-      "title": "Grand Opening: Gold Coast Two- & Three-Bedroom Luxury Apartments in Broadbeach with Resort-Style Pool & Parking",
-      "description": "Be among the first to discover Broadbeach’s next sought-after address at Amaya Broadbeach, a brand-new collection of luxury residences on First Avenue, just 300 metres from the sand. With the beach, boutiques, restaurants, cafes and G:link light rail all close by, this is the Gold Coast at its most effortless. Inside, the residences deliver the space, style and privacy of a premium coastal home, with two- and three-bedroom layouts, open-plan living, designer kitchens, laundry facilities, private balconies and Broadbeach views. Floor-to-ceiling windows, marble finishes and timber accents create a refined, contemporary setting for couples, friends and families travelling together. Beyond your residence, considered facilities keep the experience feeling resort-like. Spend the afternoon in the heated magnesium pool and Jacuzzi, unwind in the state-of-the-art sauna or steam room, keep your routine on track in the fitness centre, then fire up the BBQ before heading out into Broadbeach’s entertainment scene.",
-      "location_subheading": "Australia",
-      "price": 439,
-      "original_price": 976,
-      "discount_percentage": 55,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000avJqoYAE",
-      "hero_image": "https://images.luxuryescapes.com/6lpzsty5m2bvsim1xt6",
-      "image_two": "https://images.luxuryescapes.com/e5s6qjofje63rxqi9v",
-      "image_three": "https://images.luxuryescapes.com/xkm7nikupqglt8v64x1",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 3,
-      "end_date_utc": "2026-09-03 13:59:00"
-    },
     {
       "vendor_name": "Mantra Broadbeach on the Park",
       "offer_country_name": "Australia",
@@ -49,8 +31,8 @@
       "title": "Sky-High Oceanfront Broadbeach Apartment Stay with Two Serene Swimming Pools & In-House Theatre",
       "description": "Soar above the bustling heart of Broadbeach at this high-rise retreat, perfectly situated along the Gold Coast's pristine beaches. Soak up breathtaking ocean vistas from the comfort of your plush apartment, take a dip in the hotel's two sparkling pools or cosy up with a movie in the private theatre. Epic sunsets await at nearby Kurrawa and Mermaid Beach, while Queensland's largest shopping centre, Pacific Fair, is great for some retail therapy.",
       "location_subheading": "Australia",
-      "price": 331,
-      "original_price": 331,
+      "price": 324,
+      "original_price": 324,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000IdejIAAR",
       "hero_image": "https://images.luxuryescapes.com/vqaazdd6bcevnmmscn6c",
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Remi Residences Gold Coast",
+      "offer_country_name": "Australia",
+      "location_heading": "Broadbeach",
+      "title": "Gold Coast Long-Stay Luxury Apartments with A$500 Dining Credit & Pool",
+      "description": "Set in the heart of Broadbeach, REMI Residences offers a rare private address on one of the Gold Coast's most coveted stretches of coastline. Expansive living and dining areas open onto deep balconies framing Pacific or parkland views, with bespoke kitchens and considered finishes throughout. Spend days on the golden sands just a short stroll from your door - swim, surf or watch the sunrise. Thrill-seekers are spoiled for choice with nearby world-class theme parks, including Warner Bros. Movie World, Dreamworld, Sea World and Wet'n'Wild. Rising 31 storeys above the coast, REMI is a bespoke collection of full-floor and oversized apartments designed in the spirit of a superyacht - honed natural stone, hand-selected timbers and bespoke detailing meet walls of glass and the endless blue of the Pacific. A 15-metre lap pool, fully equipped fitness centre, dedicated yoga studio, private treatment rooms, saunas and a residents' bar with alfresco terrace crown this sanctuary in the sky. Coastal indulgence, perfected.",
+      "location_subheading": "Australia",
+      "price": 12419,
+      "original_price": 16341,
+      "discount_percentage": 24,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000blRlpYAE",
+      "hero_image": "https://images.luxuryescapes.com/0mnags36ltfjeuxtiu6",
+      "image_two": "https://images.luxuryescapes.com/wl4oe6zb3wxcrs9y2i6h",
+      "image_three": "https://images.luxuryescapes.com/ez5unlo8nbk84xcj808j",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 30,
+      "end_date_utc": "2027-04-20 13:59:00"
     },
     {
       "vendor_name": "Sofitel Gold Coast Broadbeach",
@@ -114,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-12",
+    "last_updated": "2026-08-13",
     "hotel_count": 5,
-    "average_price": 401,
-    "average_discount": 11
+    "average_price": 2796,
+    "average_discount": 5
   }
 }
