@@ -1,0 +1,50 @@
+{
+  "city": "Reims",
+  "country": "France",
+  "country_code": "FR",
+  "hero_title": "Hotels in Reims",
+  "description": "Discover the best hotels in Reims, France. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/w6tfdjpp4jbvq6kxfva",
+  "hotels": [
+    {
+      "vendor_name": "Hyatt Centric Reims",
+      "offer_country_name": "France",
+      "location_heading": "Reims",
+      "title": "HYATT CENTRIC REIMS LPP",
+      "description": "Set in the heart of Reims, this contemporary stay places you moments from the city’s Champagne houses and the Gothic splendour of Notre-Dame de Reims. Place Drouet-d’Erlon is close by for cafés, brasseries and late-night drinks, while the Musée des Beaux-Arts and the covered Halles du Boulingrin offer a taste of local culture and produce. Inside, the hotel pairs clean-lined design with a rooftop terrace and a fitness room for easy downtime between outings. The restaurant serves seasonal dishes, and the bar pours Champagne from the surrounding region. Reims Champagne-Ardenne station is a short drive away, with the vineyards of the Montagne de Reims within easy reach",
+      "location_subheading": "France",
+      "price": 394,
+      "original_price": 394,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z99bUYAR",
+      "hero_image": "https://images.luxuryescapes.com/w6tfdjpp4jbvq6kxfva",
+      "image_two": "https://images.luxuryescapes.com/ddbxbxg8pyqvk7a71o4ml",
+      "image_three": "https://images.luxuryescapes.com/c2endmu3gdnuczsnnl1a",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Reims - France Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Reims, France with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "reims hotels",
+      "reims travel",
+      "france hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/reims",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/reims",
+      "es": "https://mondoexplora.com/es/destination/reims",
+      "fr": "https://mondoexplora.com/fr/destination/reims",
+      "it": "https://mondoexplora.com/it/destination/reims"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-08-14",
+    "hotel_count": 1,
+    "average_price": 394,
+    "average_discount": 0
+  }
+}

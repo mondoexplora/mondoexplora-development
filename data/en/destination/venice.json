@@ -43,6 +43,24 @@
       "end_date_utc": "2026-12-31 01:59:00"
     },
     {
+      "vendor_name": "Hyatt Centric Murano Venice",
+      "offer_country_name": "Italy",
+      "location_heading": "Venice",
+      "title": "HYATT CENTRIC MURANO VENICE LPP",
+      "description": "Set on Murano, the island famed for its glassmaking heritage, this contemporary stay places Venice’s artisan traditions within easy reach. Vaporetto links from nearby stops connect you to St Mark’s Square and the Rialto in around 20 minutes. Murano’s canals, workshops and quiet lanes offer a slower pace than central Venice, with the island’s furnaces and showrooms revealing centuries of craft. The hotel’s restaurant serves Venetian dishes alongside Italian classics, while the bar is suited to a late-night drink after exploring. A fitness room and indoor pool add practical comfort between island visits. Nearby, Fondamenta dei Vetrai is lined with glass studios, and the Museo del Vetro traces Murano’s long history through delicate chandeliers, beads and blown-glass pieces",
+      "location_subheading": "Italy",
+      "price": 309,
+      "original_price": 309,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z99bVYAR",
+      "hero_image": "https://images.luxuryescapes.com/9bzyeiymgozttcdjjqth",
+      "image_two": "https://images.luxuryescapes.com/wa2lpnhj2lumqxx2fyth",
+      "image_three": "https://images.luxuryescapes.com/6uxj1v7ne22k1on35pp",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
+    },
+    {
       "vendor_name": "Il Palazzo Experimental Venice",
       "offer_country_name": "Italy",
       "location_heading": "Venice",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-13",
-    "hotel_count": 4,
-    "average_price": 446,
-    "average_discount": 5
+    "last_updated": "2026-08-14",
+    "hotel_count": 5,
+    "average_price": 418,
+    "average_discount": 4
   }
 }

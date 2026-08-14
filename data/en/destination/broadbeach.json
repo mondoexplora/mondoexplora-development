@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Broadbeach",
   "description": "Discover the best hotels in Broadbeach, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/wt4v98n8dmb8re5wmwri",
+  "hero_image": "https://images.luxuryescapes.com/6lpzsty5m2bvsim1xt6",
   "hotels": [
+    {
+      "vendor_name": "Amaya Broadbeach",
+      "offer_country_name": "Australia",
+      "location_heading": "Broadbeach",
+      "title": "Grand Opening: Gold Coast Two- & Three-Bedroom Luxury Apartments in Broadbeach with Resort-Style Pool & Parking",
+      "description": "Be among the first to discover Broadbeach’s next sought-after address at Amaya Broadbeach, a brand-new collection of luxury residences on First Avenue, just 300 metres from the sand. With the beach, boutiques, restaurants, cafes and G:link light rail all close by, this is the Gold Coast at its most effortless. Inside, the residences deliver the space, style and privacy of a premium coastal home, with two- and three-bedroom layouts, open-plan living, designer kitchens, laundry facilities, private balconies and Broadbeach views. Floor-to-ceiling windows, marble finishes and timber accents create a refined, contemporary setting for couples, friends and families travelling together. Beyond your residence, considered facilities keep the experience feeling resort-like. Spend the afternoon in the heated magnesium pool and Jacuzzi, unwind in the state-of-the-art sauna or steam room, keep your routine on track in the fitness centre, then fire up the BBQ before heading out into Broadbeach’s entertainment scene.",
+      "location_subheading": "Australia",
+      "price": 439,
+      "original_price": 976,
+      "discount_percentage": 55,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000avJqoYAE",
+      "hero_image": "https://images.luxuryescapes.com/6lpzsty5m2bvsim1xt6",
+      "image_two": "https://images.luxuryescapes.com/e5s6qjofje63rxqi9v",
+      "image_three": "https://images.luxuryescapes.com/xkm7nikupqglt8v64x1",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 3,
+      "end_date_utc": "2026-09-03 13:59:00"
+    },
     {
       "vendor_name": "Mantra Broadbeach on the Park",
       "offer_country_name": "Australia",
@@ -31,8 +49,8 @@
       "title": "Sky-High Oceanfront Broadbeach Apartment Stay with Two Serene Swimming Pools & In-House Theatre",
       "description": "Soar above the bustling heart of Broadbeach at this high-rise retreat, perfectly situated along the Gold Coast's pristine beaches. Soak up breathtaking ocean vistas from the comfort of your plush apartment, take a dip in the hotel's two sparkling pools or cosy up with a movie in the private theatre. Epic sunsets await at nearby Kurrawa and Mermaid Beach, while Queensland's largest shopping centre, Pacific Fair, is great for some retail therapy.",
       "location_subheading": "Australia",
-      "price": 324,
-      "original_price": 324,
+      "price": 325,
+      "original_price": 325,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000IdejIAAR",
       "hero_image": "https://images.luxuryescapes.com/vqaazdd6bcevnmmscn6c",
@@ -49,8 +67,8 @@
       "title": "Sparkling Broadbeach Suite Stay in Shopping & Dining Precinct with Pool, Sauna & Outdoor Spa",
       "description": "Embrace the easy-going glamour of the Gold Coast with a stay at Peppers Broadbeach. In the heart of Broadbeach's dining and shopping scene, just moments from the golden sands of Kurrawa Beach, this relaxing retreat offers stunning ocean views from each of the private balconies extending from the modern suites and apartments. Spend your days exploring the best local eats, spend an afternoon wandering the hotel's gardens, or take a dip in the pool followed by a sauna session.",
       "location_subheading": "Australia",
-      "price": 458,
-      "original_price": 458,
+      "price": 459,
+      "original_price": 459,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Gw9gLAAR",
       "hero_image": "https://images.luxuryescapes.com/qgd6g6ju1al7kwf92r5n",
@@ -85,8 +103,8 @@
       "title": "Elevated Sofitel Gold Coast Luxury Moments from Broadbeach with Resort-Style Pool",
       "description": "Spoil yourself with French-inspired luxury at this iconic Gold Coast hotel, just steps from the golden sands of Broadbeach and set among buzzing restaurants and boutiques. The five-star Sofitel Gold Coast Broadbeach delivers outstanding service and a long list of state-of-the-art facilities including the sophisticated Room81 restaurant, two spectacular rooftop swimming pools - one heated - a stylish bar and plenty more.",
       "location_subheading": "Australia",
-      "price": 440,
-      "original_price": 440,
+      "price": 441,
+      "original_price": 441,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000IbsWCAAZ",
       "hero_image": "https://images.luxuryescapes.com/bund4x0uy9ail943vke",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-13",
-    "hotel_count": 5,
-    "average_price": 2796,
-    "average_discount": 5
+    "last_updated": "2026-08-14",
+    "hotel_count": 6,
+    "average_price": 2404,
+    "average_discount": 13
   }
 }

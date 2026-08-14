@@ -67,8 +67,8 @@
       "title": "Stylish Spain Escape in the Heart of Madrid",
       "description": "Immerse yourself in the electric buzz of Spain's elegant capital from the stylish Hotel Indigo Madrid - Princesa, an IHG Hotel, a modern oasis set within the tranquil neighbourhood of Moncloa-Argüelles. Savour avant-garde dishes at Best Restaurant and keep up with your routine at the onsite fitness centre. When it's time to explore, you'll find yourself just a stone's throw from inspiring sights, including the imposing Torre de Madrid, Plaza de Espana and the sophisticated Royal Palace.",
       "location_subheading": "Spain",
-      "price": 202,
-      "original_price": 202,
+      "price": 212,
+      "original_price": 212,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CugCZAAZ",
       "hero_image": "https://images.luxuryescapes.com/4cssdsk9o91w9vkr1pu",
@@ -133,14 +133,32 @@
       "end_date_utc": "2050-12-31 12:54:00"
     },
     {
+      "vendor_name": "Hyatt Regency Madrid Residences",
+      "offer_country_name": "Spain",
+      "location_heading": "Madrid",
+      "title": "Sophisticated Madrid Residence Stay Near the Golden Mile",
+      "description": "Set in Madrid’s elegant Salamanca district, Hyatt Regency Madrid Residences places you among the boutiques of Calle de Serrano, the galleries of the Golden Mile and the designer stores of Ortega y Gasset. Retiro Park and the Prado Museum are nearby, while acclaimed tapas bars and Michelin-starred restaurants await close by. Enjoy the space and independence of apartment-style living with the ease of hotel service. Each residence features a kitchen and separate living area, while the fitness centre makes it easy to maintain your routine between exploring Madrid’s vibrant neighbourhoods.",
+      "location_subheading": "Spain",
+      "price": 957,
+      "original_price": 957,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z99bgYAB",
+      "hero_image": "https://images.luxuryescapes.com/pkg0w1wlg7i2ukjni86c",
+      "image_two": "https://images.luxuryescapes.com/d6frmzexytly16hlzjcs",
+      "image_three": "https://images.luxuryescapes.com/k3olr4dgrg6pzj453yfn",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:54:00"
+    },
+    {
       "vendor_name": "InterContinental Madrid",
       "offer_country_name": "Spain",
       "location_heading": "Madrid",
       "title": "Five-Star Madrid Escape on Paseo de la Castellana near Iconic Sorolla Museum",
       "description": "Step into the marble-lined lobby of the InterContinental Madrid, an IHG Hotel, to discover a luxurious retreat amid the bustling streets of Spain's vibrant capital. Take a moment to indulge in sumptuous fine dining served on a verdant garden terrace before discovering the city’s longest avenue right on your doorstep. Stroll down the vibrant Paseo de la Castellana, lined with mouth-watering dining options, marvel at iconic artwork in countless museums or wander around the nearby shopping districts.",
       "location_subheading": "Spain",
-      "price": 404,
-      "original_price": 404,
+      "price": 388,
+      "original_price": 388,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt62AAB",
       "hero_image": "https://images.luxuryescapes.com/x0gssf7i1kd5pu5jc3r7",
@@ -276,9 +294,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-13",
-    "hotel_count": 14,
-    "average_price": 534,
-    "average_discount": 5
+    "last_updated": "2026-08-14",
+    "hotel_count": 15,
+    "average_price": 562,
+    "average_discount": 4
   }
 }

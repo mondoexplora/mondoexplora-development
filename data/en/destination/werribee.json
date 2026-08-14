@@ -28,24 +28,6 @@
       "vendor_name": "Lancemore Mansion Hotel Werribee Park",
       "offer_country_name": "Australia",
       "location_heading": "Werribee",
-      "title": "Award-Winning Lancemore Werribee Mansion Romance near Shadowfax Winery",
-      "description": "The crowning jewel of Werribee Park's magnificent grounds, the award-winning Lancemore Mansion Hotel Werribee Park is a haven of tranquility less than an hour's drive from Melbourne's CBD. This regal retreat boasts impressive facilities, including fine food at Joseph's Dining, picturesque ornamental English gardens, and easy access to the boutique Shadowfax Winery and Werribee Open Range Zoo. When you seek privacy, retire to your boutique room, complete with modern amenities and rich period features. There's so much to do in Werribee and the surrounding areas - enjoy a stroll through the nearby Victoria State Rose Garden, tackle the stunning Werribee Gorge Circuit Walk, experience ultimate bliss with a treatment at the onsite luxury spa, sample a local tipple at Shadowfax Winery's cellar door or go on safari to see the giraffe, zebra, gorillas, koalas and more at Werribee Open Range Zoo.",
-      "location_subheading": "Australia",
-      "price": 367,
-      "original_price": 448,
-      "discount_percentage": 18,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009ESQ0AAO",
-      "hero_image": "https://images.luxuryescapes.com/zi18osznzsdhx7f4r7hs",
-      "image_two": "https://images.luxuryescapes.com/0fd8t9f593qkq5gyolc",
-      "image_three": "https://images.luxuryescapes.com/4lxl3w4gop1vim7eab6",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Lancemore Mansion Hotel Werribee Park",
-      "offer_country_name": "Australia",
-      "location_heading": "Werribee",
       "title": "Historic Werribee Park Mansion Escape with Daily Breakfast, Wine Tasting & Nightly Drinks",
       "description": "The crowning jewel of Werribee Park's resplendent grounds, the historic Lancemore Mansion Hotel Werribee Park offers a refined escape less than an hour's drive from Melbourne's CBD. Ensconced in 10 acres of manicured gardens, it's little surprise this regal retreat has become one of Victoria's most cherished destinations. Indulge in produce-driven fine dining at award-winning Joseph's Dining or wander through the lush park grounds to sample handcrafted drops at Shadowfax Winery. Return to the hotel to unwind at indulgent L.M. Spa, where thoughtfully designed treatments and a Turkish-inspired hammam await.",
       "location_subheading": "Australia",
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 2,
       "end_date_utc": "2026-08-19 13:59:00"
+    },
+    {
+      "vendor_name": "Lancemore Mansion Hotel Werribee Park",
+      "offer_country_name": "Australia",
+      "location_heading": "Werribee",
+      "title": "Award-Winning Lancemore Werribee Mansion Romance near Shadowfax Winery",
+      "description": "The crowning jewel of Werribee Park's magnificent grounds, the award-winning Lancemore Mansion Hotel Werribee Park is a haven of tranquility less than an hour's drive from Melbourne's CBD. This regal retreat boasts impressive facilities, including fine food at Joseph's Dining, picturesque ornamental English gardens, and easy access to the boutique Shadowfax Winery and Werribee Open Range Zoo. When you seek privacy, retire to your boutique room, complete with modern amenities and rich period features. There's so much to do in Werribee and the surrounding areas - enjoy a stroll through the nearby Victoria State Rose Garden, tackle the stunning Werribee Gorge Circuit Walk, experience ultimate bliss with a treatment at the onsite luxury spa, sample a local tipple at Shadowfax Winery's cellar door or go on safari to see the giraffe, zebra, gorillas, koalas and more at Werribee Open Range Zoo.",
+      "location_subheading": "Australia",
+      "price": 367,
+      "original_price": 448,
+      "discount_percentage": 18,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009ESQ0AAO",
+      "hero_image": "https://images.luxuryescapes.com/zi18osznzsdhx7f4r7hs",
+      "image_two": "https://images.luxuryescapes.com/0fd8t9f593qkq5gyolc",
+      "image_three": "https://images.luxuryescapes.com/4lxl3w4gop1vim7eab6",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-13",
+    "last_updated": "2026-08-14",
     "hotel_count": 3,
     "average_price": 324,
     "average_discount": 25

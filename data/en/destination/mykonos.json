@@ -79,6 +79,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Myconian Avaton - Design Hotels",
+      "offer_country_name": "Greece",
+      "location_heading": "Mykonos",
+      "title": "Modern Mykonos Haven with Daily Champagne Breakfast, Nightly Cocktails & Return Airport Transfers",
+      "description": "A quieter side of Mykonos takes centre stage at Myconian Avaton, where Elia Beach and the Aegean Sea fill the horizon and contemporary design keeps the mood polished yet blissfully relaxed. Days tend to orbit the infinity pool and Kokkino Bar, while a dedicated area on Elia Beach puts the sea within easy reach. At Panorama Restaurant, seasonal ingredients shape a Mediterranean menu served against sweeping bay views, while Myconian Spa pairs heated seawater thalassotherapy pools with tension-melting massages and beauty rituals. A fitness room, yoga, Pilates and personal training add more ways to reset between long lunches and poolside cocktails. When exploration calls, the whitewashed Mykonos town is just a short drive away, putting the capital's iconic windmills, Little Venice, boutiques and after-dark energy within easy reach. The concierge can also arrange yacht charters, diving, horse riding and helicopter tours, while UNESCO-listed Delos Island makes a rewarding day trip for a dose of ancient Greek history.",
+      "location_subheading": "Greece",
+      "price": 569,
+      "original_price": 2188,
+      "discount_percentage": 74,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000a6CD3YAM",
+      "hero_image": "https://images.luxuryescapes.com/9cpkj2ifku1e1ke1kkp",
+      "image_two": "https://images.luxuryescapes.com/v7x30l07d0pnbl9q32",
+      "image_three": "https://images.luxuryescapes.com/buueak3j9747r0nzniy",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-09-03 13:59:00"
+    },
+    {
       "vendor_name": "Myconian O",
       "offer_country_name": "Greece",
       "location_heading": "Mykonos",
@@ -186,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-13",
-    "hotel_count": 9,
-    "average_price": 716,
-    "average_discount": 21
+    "last_updated": "2026-08-14",
+    "hotel_count": 10,
+    "average_price": 702,
+    "average_discount": 27
   }
 }

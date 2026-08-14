@@ -4,8 +4,26 @@
   "country_code": "MV",
   "hero_title": "Hotels in Hadahaa",
   "description": "Discover the best hotels in Hadahaa, Maldives. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/5jr42t3ijsh1ttnzzuj8",
+  "hero_image": "https://images.luxuryescapes.com/ckrqz9yl8p9bxd3gb489",
   "hotels": [
+    {
+      "vendor_name": "Park Hyatt Maldives Hadahaa",
+      "offer_country_name": "Maldives",
+      "location_heading": "Hadahaa",
+      "title": "Maldives All-Inclusive Luxury Villas with Free-Flow Drinks & Roundtrip Domestic Transfers",
+      "description": "Here, luxury takes on a new dimension amidst an underwater kingdom in the Maldives’ deepest atoll - the ‘Living Island’ of Hadahaa. Boasting just 51 villas across a private tropical island, this five-star resort whisks you away from reality and straight into nature’s paradise, with a host of activities that celebrate its beautifully preserved location. Harness the holistic healing powers of The Vidhun Spa with a tension-melting massage and continue your state of serenity with a complimentary yoga class as the Maldivian sunset illuminates the sky. Take a dip in one of the resort’s pools, or sample culinary excellence at one of the three restaurants on-site, including the overwater Koi at the Drift. Delve deeper into the preservation of marine ecosystems at the Blue Journeys Dive and Activity Centre, from which you can head out on a guided snorkelling excursion in the hotel’s 360-degree house reef, inhabited by dazzling tropical fish species. With the resort’s sustainable practices safeguarding the delicate environment, this region is one of the most sought-after destinations for marine exploration.",
+      "location_subheading": "Maldives",
+      "price": 4999,
+      "original_price": 10202,
+      "discount_percentage": 51,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Tccd3YAB",
+      "hero_image": "https://images.luxuryescapes.com/ckrqz9yl8p9bxd3gb489",
+      "image_two": "https://images.luxuryescapes.com/r0230a2b47v4nvv1t03",
+      "image_three": "https://images.luxuryescapes.com/7zrfci13bdcuzthclpf",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2026-09-25 13:59:00"
+    },
     {
       "vendor_name": "Park Hyatt Maldives Hadahaa",
       "offer_country_name": "Maldives",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-13",
-    "hotel_count": 1,
-    "average_price": 1802,
-    "average_discount": 0
+    "last_updated": "2026-08-14",
+    "hotel_count": 2,
+    "average_price": 3401,
+    "average_discount": 26
   }
 }

@@ -4,26 +4,8 @@
   "country_code": "VN",
   "hero_title": "Hotels in Ha Long Bay",
   "description": "Discover the best hotels in Ha Long Bay, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/y6r6r94rq1p6mgjwvmhs",
+  "hero_image": "https://images.luxuryescapes.com/rvs6kftqn6q3a0kraqcn",
   "hotels": [
-    {
-      "vendor_name": "Angsana Quan Lan",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Ha Long Bay",
-      "title": "Vietnam Island Luxury Moments from Ha Long Bay with Daily Breakfast, Dinner & Free-Flow Cocktail Hour",
-      "description": "Ha Long Bay's UNESCO-listed seascape is the backdrop - and Angsana Quan Lan puts you right in the heart of it, without the crowds. Sitting on the unspoilt shores of Quan Lan Island, this is the ultimate gateway to one of Southeast Asia's most spectacular natural wonders, complete with a Sky Pool, lagoon pool, and Vietnam’s first and only coastal zipline. When hunger strikes, Market Place serves all-day Vietnamese dining, while Breeze handles casual poolside bites and local street food. For sundowners, The Sky Bar earns its name - panoramic ocean views, handcrafted cocktails, and Asian tapas at Quan Lan's highest vantage point. Angsana Spa rounds out the indulgence with treatments using native flowers and fruits, plus a Japanese-inspired Onsen with indoor and outdoor pools. For those who want more action, the resort more than delivers. Ride Vietnam's only resort-integrated coastal zipline straight to Son Hao Beach, tackle the 18-hole mini-golf course, or take to the water with kayaking, paddleboarding and more. Come evening, gather for garden movie screenings or stargaze with the resort's telescopes.",
-      "location_subheading": "Vietnam",
-      "price": 439,
-      "original_price": 934,
-      "discount_percentage": 53,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000VKhzrYAD",
-      "hero_image": "https://images.luxuryescapes.com/y6r6r94rq1p6mgjwvmhs",
-      "image_two": "https://images.luxuryescapes.com/2p7vtqvz5m2o1zomxyks",
-      "image_three": "https://images.luxuryescapes.com/j20wrmbo7han0ki90ts",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-08-20 13:59:00"
-    },
     {
       "vendor_name": "Angsana Quan Lan",
       "offer_country_name": "Vietnam",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Angsana Quan Lan",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Ha Long Bay",
+      "title": "Vietnam Island Luxury Moments from Ha Long Bay with Daily Breakfast, Dinner & Free-Flow Cocktail Hour",
+      "description": "Ha Long Bay's UNESCO-listed seascape is the backdrop - and Angsana Quan Lan puts you right in the heart of it, without the crowds. Sitting on the unspoilt shores of Quan Lan Island, this is the ultimate gateway to one of Southeast Asia's most spectacular natural wonders, complete with a Sky Pool, lagoon pool, and Vietnam’s first and only coastal zipline. When hunger strikes, Market Place serves all-day Vietnamese dining, while Breeze handles casual poolside bites and local street food. For sundowners, The Sky Bar earns its name - panoramic ocean views, handcrafted cocktails, and Asian tapas at Quan Lan's highest vantage point. Angsana Spa rounds out the indulgence with treatments using native flowers and fruits, plus a Japanese-inspired Onsen with indoor and outdoor pools. For those who want more action, the resort more than delivers. Ride Vietnam's only resort-integrated coastal zipline straight to Son Hao Beach, tackle the 18-hole mini-golf course, or take to the water with kayaking, paddleboarding and more. Come evening, gather for garden movie screenings or stargaze with the resort's telescopes.",
+      "location_subheading": "Vietnam",
+      "price": 439,
+      "original_price": 934,
+      "discount_percentage": 53,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000VKhzrYAD",
+      "hero_image": "https://images.luxuryescapes.com/y6r6r94rq1p6mgjwvmhs",
+      "image_two": "https://images.luxuryescapes.com/2p7vtqvz5m2o1zomxyks",
+      "image_three": "https://images.luxuryescapes.com/j20wrmbo7han0ki90ts",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-08-20 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-13",
+    "last_updated": "2026-08-14",
     "hotel_count": 2,
     "average_price": 327,
     "average_discount": 38
