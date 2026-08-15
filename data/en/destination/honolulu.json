@@ -41,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "The Ambassador Hotel of Waikiki, Tapestry Collection by Hilton",
-      "offer_country_name": "United States",
-      "location_heading": "Honolulu",
-      "title": "Hawaii Glamour: Retro-Inspired Honolulu Escape with Daily Breakfast & US$50 Dining Credit",
-      "description": "Experience one of Hawaii's most beloved neighbourhoods from this retro-inspired retreat, centrally located in Waikiki. With its stylish design and bright pops of orange and yellow, this contemporary oasis blends modern comforts with vintage Hawaii charm. Within a 15-minute walk, you'll find some of the island's best beaches, including world-famous Waikiki Beach, where beachfront restaurants, trendy boutiques and rolling surf await. After days exploring Oahu's sun-kissed coastline, unwind at the hotel's laidback restaurant or sun-kissed pool deck. Savour poke bowls, crispy salads and gourmet sandwiches at Favorite Son or head to the third-floor Waikiki Swim & Social Club, where striped cabanas and a glittering pool set the scene for sunset drinks.",
-      "location_subheading": "United States",
-      "price": 759,
-      "original_price": 1581,
-      "discount_percentage": 52,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000WQ2IJYA1",
-      "hero_image": "https://images.luxuryescapes.com/bsloafv4hnfdjuqdnh7",
-      "image_two": "https://images.luxuryescapes.com/44lnm8mzm9o6v5bbpf5",
-      "image_three": "https://images.luxuryescapes.com/qwvydi872i25mu3iprmj",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 4,
-      "end_date_utc": "2026-08-14 13:59:00"
     }
   ],
   "seo": {
@@ -78,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-14",
-    "hotel_count": 3,
-    "average_price": 731,
-    "average_discount": 17
+    "last_updated": "2026-08-15",
+    "hotel_count": 2,
+    "average_price": 718,
+    "average_discount": 0
   }
 }

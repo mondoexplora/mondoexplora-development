@@ -42,15 +42,6 @@
       "avg_price": 346
     },
     {
-      "name": "Gold Coast",
-      "slug": "gold-coast",
-      "image": "https://images.luxuryescapes.com/ebmp305xdst7g33h3ss",
-      "description": "Explore Gold Coast with luxury accommodations",
-      "hotel_count": 21,
-      "hotel_deals": 21,
-      "avg_price": 565
-    },
-    {
       "name": "Perth",
       "slug": "perth",
       "image": "https://images.luxuryescapes.com/lx0kop4ioo2y351tm2fi",
@@ -58,6 +49,15 @@
       "hotel_count": 21,
       "hotel_deals": 21,
       "avg_price": 445
+    },
+    {
+      "name": "Gold Coast",
+      "slug": "gold-coast",
+      "image": "https://images.luxuryescapes.com/ebmp305xdst7g33h3ss",
+      "description": "Explore Gold Coast with luxury accommodations",
+      "hotel_count": 20,
+      "hotel_deals": 20,
+      "avg_price": 568
     }
   ],
   "seo": {
