@@ -4,26 +4,8 @@
   "country_code": "ID",
   "hero_title": "Hotels in Tabanan",
   "description": "Discover the best hotels in Tabanan, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/rdmbpowqu8ixbpn9uywh",
+  "hero_image": "https://images.luxuryescapes.com/zswie809ld5zjupb9hoj",
   "hotels": [
-    {
-      "vendor_name": "Nirjhara",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Tabanan",
-      "title": "Multi-Award-Winning Boutique Bali Jungle Suites with Daily Three-Hour Free-Flow Cocktails & Nightly Dinner",
-      "description": "Escape to Nirjhara, an intimate luxury retreat of just 25 suites and villas in Bali’s lush Tabanan regency, where jungle, rice fields and cascading waterfalls create a serene setting far from the crowds. Recognised with one Michelin Key and ranked among Indonesia’s top 10 resorts in the 2025 Condé Nast Traveller Readers’ Choice Awards, this boutique hideaway pairs contemporary architecture with Indonesian craftsmanship and expansive outdoor spaces. Nearby Tanah Lot and Kedungu offer a glimpse of Bali beyond its better-known resort districts, while the waterfall beneath the pool deck provides a constant natural soundtrack. At the heart of the resort, Ambu serves Indonesian cuisine with a farm-to-table focus, drawing on local produce and ingredients from its own organic garden. The Retreat spa features four treatment rooms, two Finnish saunas, a yoga shala and a 24-hour gym, with Balinese therapies complemented by guided yoga, meditation and sound-healing sessions. Complimentary bicycles make exploring the neighbourhood easy, and filtered drinking water flows from every tap, proving it's the little details that matter.",
-      "location_subheading": "Indonesia",
-      "price": 619,
-      "original_price": 1510,
-      "discount_percentage": 59,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000aA0TSYA0",
-      "hero_image": "https://images.luxuryescapes.com/rdmbpowqu8ixbpn9uywh",
-      "image_two": "https://images.luxuryescapes.com/6cpvd3fecr4dj7gpo8i",
-      "image_three": "https://images.luxuryescapes.com/alndm6jmahwxrw4gt6ck",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-09-14 13:59:00"
-    },
     {
       "vendor_name": "Nirjhara",
       "offer_country_name": "Indonesia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Nirjhara",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Tabanan",
+      "title": "Multi-Award-Winning Boutique Bali Jungle Suites with Daily Three-Hour Free-Flow Cocktails & Nightly Dinner",
+      "description": "Escape to Nirjhara, an intimate luxury retreat of just 25 suites and villas in Bali’s lush Tabanan regency, where jungle, rice fields and cascading waterfalls create a serene setting far from the crowds. Recognised with one Michelin Key and ranked among Indonesia’s top 10 resorts in the 2025 Condé Nast Traveller Readers’ Choice Awards, this boutique hideaway pairs contemporary architecture with Indonesian craftsmanship and expansive outdoor spaces. Nearby Tanah Lot and Kedungu offer a glimpse of Bali beyond its better-known resort districts, while the waterfall beneath the pool deck provides a constant natural soundtrack. At the heart of the resort, Ambu serves Indonesian cuisine with a farm-to-table focus, drawing on local produce and ingredients from its own organic garden. The Retreat spa features four treatment rooms, two Finnish saunas, a yoga shala and a 24-hour gym, with Balinese therapies complemented by guided yoga, meditation and sound-healing sessions. Complimentary bicycles make exploring the neighbourhood easy, and filtered drinking water flows from every tap, proving it's the little details that matter.",
+      "location_subheading": "Indonesia",
+      "price": 619,
+      "original_price": 1510,
+      "discount_percentage": 59,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000aA0TSYA0",
+      "hero_image": "https://images.luxuryescapes.com/rdmbpowqu8ixbpn9uywh",
+      "image_two": "https://images.luxuryescapes.com/6cpvd3fecr4dj7gpo8i",
+      "image_three": "https://images.luxuryescapes.com/alndm6jmahwxrw4gt6ck",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-09-14 13:59:00"
     },
     {
       "vendor_name": "Oshom Bali",
@@ -96,7 +96,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-15",
+    "last_updated": "2026-08-16",
     "hotel_count": 4,
     "average_price": 1120,
     "average_discount": 22

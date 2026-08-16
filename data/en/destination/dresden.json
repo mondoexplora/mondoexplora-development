@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 01:59:00"
+    },
+    {
+      "vendor_name": "Hotel Taschenbergpalais Kempinski Dresden",
+      "offer_country_name": "Germany",
+      "location_heading": "Dresden",
+      "title": "Germany: Dresden Baroque Palatial Heritage with Onsite Restaurants, Bars & Spa",
+      "description": "Located within a grand Baroque palace in the heart of Dresden's historic centre, this address places the Zwinger Palace, Semper Opera House and Royal Palace within easy reach. The Frauenkirche rises nearby, while the Elbe riverbank promenade offers a scenic route through the city, framed throughout by ornate façades and cobbled streets. Inside, guests can unwind in a spa featuring a pool, saunas, a steam bath and a fitness area. Dining options span from elegant restaurants to a pâtisserie, an inviting lounge and Bar 1705. Just beyond, the surrounding quarter brims with museums, galleries and historic churches, ready to be explored.",
+      "location_subheading": "Germany",
+      "price": 819,
+      "original_price": 819,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ZX3pNYAT",
+      "hero_image": "https://images.luxuryescapes.com/vuqnf9273rtshv0037ml",
+      "image_two": "https://images.luxuryescapes.com/uwg7p0qtiwlhq58yj0t",
+      "image_three": "https://images.luxuryescapes.com/6h7zacwgegmqqtxqsxns",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-15",
-    "hotel_count": 1,
-    "average_price": 161,
+    "last_updated": "2026-08-16",
+    "hotel_count": 2,
+    "average_price": 490,
     "average_discount": 0
   }
 }

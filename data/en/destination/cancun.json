@@ -31,8 +31,8 @@
       "title": "Adults-Only Cancun Beachfront Paradise with Caribbean Ocean Vistas, Nine Bars & Five Restaurants",
       "description": "Oceanfront luxury awaits at the adults-only, all-suite Haven Riviera Cancun, a tropical all-inclusive paradise. Here, the only thing that can compete with the Caribbean Sea vistas are the incredible resort facilities: there are nine uber-cool bars to toast a cocktail or two at (including two swim-up bars), five exquisite restaurants to choose from and two snack bars for when you're after a quick bite. The MySenses Spa is a haven where hydrotherapy treatments, signature massages and facials are on the menu. Meanwhile, keen golfers will enjoy access to the nearby Nick Price-designed 'El Tinto' Golf Club, just a 10-minute drive from the resort.",
       "location_subheading": "Mexico",
-      "price": 1941,
-      "original_price": 2022,
+      "price": 1940,
+      "original_price": 2021,
       "discount_percentage": 4,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000008hJyRAAU",
       "hero_image": "https://images.luxuryescapes.com/7w51ewnqihnlpyi4kx2",
@@ -67,8 +67,8 @@
       "title": "Oceanfront Cancun Escape with Beach Access, 8 Restaurants & Spa",
       "description": "Experience the vibrant energy of Cancun at this luxurious retreat located in the heart of the city's bustling entertainment district. A have-it-all kind of resort with endless options for tasting authentic Mexican or international cuisine, bars that offer stunning vistas and delicious drinks, an infinity pool for adults and kids' pool for the little ones, truly providing something for all ages. Just steps from the pristine white sands of Punta Cancun, this hotel is the perfect launchpad for exploring the area's renowned nightlife, shopping and dining. For those seeking adventure, the ancient Mayan ruins of Tulum are approximately two hours away. A Mexican escape with everything you need right at your fingertips!",
       "location_subheading": "Mexico",
-      "price": 679,
-      "original_price": 679,
+      "price": 747,
+      "original_price": 747,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JSEp8AAH",
       "hero_image": "https://images.luxuryescapes.com/n3z32er4vpx8ot374co",
@@ -85,8 +85,8 @@
       "title": "Cancun Five-Star Oceanfront Sanctuary with Eight Mouthwatering Restaurants & Bars",
       "description": "Spend balmy nights on the Caribbean coast embraced by the emerald tropics at Cancun’s coveted NIZUC Resort & Spa. This oceanfront retreat is situated along one of Mexico's most alluring coastlines, boasting eight distinguished restaurants and bars, from authentic upscale Mexican delights to Asian and Mediterranean cuisines. Feel invigorated by wellness treatments at the NIZUC MedSpa before taking a dip in the crystal-clear ocean waters or lounging by the adults-only pool.",
       "location_subheading": "Mexico",
-      "price": 1615,
-      "original_price": 1631,
+      "price": 1616,
+      "original_price": 1632,
       "discount_percentage": 1,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007pLf0AAE",
       "hero_image": "https://images.luxuryescapes.com/ni6b0c93uqyeb8ttnhc",
@@ -113,6 +113,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 4,
       "end_date_utc": "2026-08-19 13:59:00"
+    },
+    {
+      "vendor_name": "Sunset Royal Beach Resort",
+      "offer_country_name": "Mexico",
+      "location_heading": "Cancun",
+      "title": "Cancun All-Inclusive Beachfront Bliss with Unlimited Free-Flow Drinks & Two Children Stay Free",
+      "description": "Sink into Cancun serenity and embrace the Caribbean cool with a stay at this enviably positioned, all-inclusive beach resort. Boasting direct access to the coastline's famed white-sand beaches, stellar views of the turquoise Caribbean Sea or the gently lapping waters of the lagoon, Sunset Royal Beach Resort places you at the heart of Mexico's beachside action. Enjoy all-inclusive dining across the resort as well as at its sister venues, including unlimited free-flow drinks to keep the good times going between dips in the pool and walks along the idyllic shoreline. Kids will be easily entertained with a daily schedule of exciting activities, while adults can indulge in the ultimate relaxation with a trip to Sunset Spa.",
+      "location_subheading": "Mexico",
+      "price": 996,
+      "original_price": 1038,
+      "discount_percentage": 4,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000YqdL3YAJ",
+      "hero_image": "https://images.luxuryescapes.com/ys2st38m2kcg1cdb8srp",
+      "image_two": "https://images.luxuryescapes.com/gmf6wuhqwfc4yxv5mo3n",
+      "image_three": "https://images.luxuryescapes.com/oexa76jq8lhxecquox4f",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-10-09 12:59:00"
     }
   ],
   "seo": {
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-15",
-    "hotel_count": 6,
-    "average_price": 1159,
-    "average_discount": 7
+    "last_updated": "2026-08-16",
+    "hotel_count": 7,
+    "average_price": 1145,
+    "average_discount": 6
   }
 }

@@ -31,8 +31,8 @@
       "title": "Stunning Port Macquarie Escape Moments from Town Beach with Shimmering Indoor Pool",
       "description": "Sitting opposite beautiful Town Beach, and surrounded by local bars and eateries, this charming Port Macquarie stay showcases the very best this coastal town has to offer. Spend your days exploring pristine beaches, cruising down coast-hugging roads and picking farm-fresh strawberries. Venture out to explore the Hastings River wine region. Back at the hotel, take advantage of the indoor heated lap pool, sauna and barbecue entertainment area.",
       "location_subheading": "Australia",
-      "price": 424,
-      "original_price": 424,
+      "price": 452,
+      "original_price": 452,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JRes6AAD",
       "hero_image": "https://images.luxuryescapes.com/nvie7sogpq3m8ja04fh",
@@ -67,14 +67,32 @@
       "title": "Port Macquarie Coastal Escape near Hastings River with Waterfront Restaurant",
       "description": "A paradise of gorgeous beaches, lush hinterland and breathtaking views over the Hastings River, Rydges Port Macquarie is more than just the perfect coastal escape. Located just a four-hour drive north of Sydney, the hotel is nestled between shimmering waters and the town's best restaurants, bars, galleries and boutiques. Just a two-minute drive from beautiful Town Beach, relaxing swimming spots and surf beaches for adventurous travellers aren't hard to reach. After exploring all day, retire to your cosy accommodation at night, stopping for a bite at the waterfront Zebu Bar & Restaurant or taking a dip in the hotel's swimming pool.",
       "location_subheading": "Australia",
-      "price": 421,
-      "original_price": 421,
+      "price": 407,
+      "original_price": 407,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004v1TqAAI",
       "hero_image": "https://images.luxuryescapes.com/d9zavapd92lquniew2c",
       "image_two": "https://images.luxuryescapes.com/07b0oseiadxczbjk379",
       "image_three": "https://images.luxuryescapes.com/3puuccwojlkyhmpcyzwk",
       "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Sails Port Macquarie by Rydges",
+      "offer_country_name": "Australia",
+      "location_heading": "Port Macquarie",
+      "title": "Stylish Port Macquarie Resort with Breathtaking Waterfront Location",
+      "description": "Breathe in the fresh, salty air with a stylish stay at Sails Port Macquarie by Rydges. Overlooking the Hastings River and adjacent to Port Macquarie Marina, this is the ultimate in coastal escapes. Enjoy a swim in the resort-style pool with views over the Hastings River, laze in the shade of a private cabana, or stroll down to the renowned The Boathouse Bar & Restaurant, where delicious cocktails and expertly prepared meals await. Just steps from sweeping beaches lined with rainforest, discover a natural paradise frequented by dolphins, whales, and koalas, and use this as your base for adventures near and far, with coastal walks, whale-watching cruises and the Port Macquarie Koala Hospital on your doorstep.",
+      "location_subheading": "Australia",
+      "price": 350,
+      "original_price": 385,
+      "discount_percentage": 9,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004v1THAAY",
+      "hero_image": "https://images.luxuryescapes.com/g3otb8nq17yp768xq0sg",
+      "image_two": "https://images.luxuryescapes.com/vf1uaheo7i3044y7v6q9",
+      "image_three": "https://images.luxuryescapes.com/s8wdg03et2hb85h3m7ps",
+      "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     },
@@ -95,24 +113,6 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 2,
       "end_date_utc": "2026-08-20 13:59:00"
-    },
-    {
-      "vendor_name": "Sails Port Macquarie by Rydges",
-      "offer_country_name": "Australia",
-      "location_heading": "Port Macquarie",
-      "title": "Stylish Port Macquarie Resort with Breathtaking Waterfront Location",
-      "description": "Breathe in the fresh, salty air with a stylish stay at Sails Port Macquarie by Rydges. Overlooking the Hastings River and adjacent to Port Macquarie Marina, this is the ultimate in coastal escapes. Enjoy a swim in the resort-style pool with views over the Hastings River, laze in the shade of a private cabana, or stroll down to the renowned The Boathouse Bar & Restaurant, where delicious cocktails and expertly prepared meals await. Just steps from sweeping beaches lined with rainforest, discover a natural paradise frequented by dolphins, whales, and koalas, and use this as your base for adventures near and far, with coastal walks, whale-watching cruises and the Port Macquarie Koala Hospital on your doorstep.",
-      "location_subheading": "Australia",
-      "price": 355,
-      "original_price": 390,
-      "discount_percentage": 9,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004v1THAAY",
-      "hero_image": "https://images.luxuryescapes.com/g3otb8nq17yp768xq0sg",
-      "image_two": "https://images.luxuryescapes.com/vf1uaheo7i3044y7v6q9",
-      "image_three": "https://images.luxuryescapes.com/s8wdg03et2hb85h3m7ps",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -132,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-15",
+    "last_updated": "2026-08-16",
     "hotel_count": 6,
-    "average_price": 371,
+    "average_price": 373,
     "average_discount": 12
   }
 }

@@ -157,8 +157,8 @@
       "title": "Tropical Port Douglas Suites Steps from Four Mile Beach with Lagoon-Style Pool, Bar & Restaurant",
       "description": "Reach the pinaccle of tropical opulence with a relaxed yet glamorous stay at Peppers Beach Club Port Douglas, moments from Four Mile Beach and Macrossan Street. This five-star haven is the perfect gateway to explore the vibrant marine life of the Great Barrier Reef, or wander through the enchanting Daintree Rainforest. Savour locally-sourced seafood and signature cocktails at Koko Poolside Bar & Kitchen and enjoy rejuvenating swims in the sparkling lagoon-style pool.",
       "location_subheading": "Australia",
-      "price": 559,
-      "original_price": 559,
+      "price": 560,
+      "original_price": 560,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Gw9fcAAB",
       "hero_image": "https://images.luxuryescapes.com/osxltou4g55rrwwckr07",
@@ -167,24 +167,6 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Pool Resort Port Douglas",
-      "offer_country_name": "Australia",
-      "location_heading": "Port Douglas",
-      "title": "Blissful Port Douglas Apartments for Up to Six Guests with 185-Metre Lagoon Pool",
-      "description": "Treat the whole family to a sun-kissed escape with a stay at Pool Resort Port Douglas. Boasting a collection of modern and spacious self-contained apartments surrounded by lush gardens, this retreat is home to a variety of spectacular swimming pools in an incredible location with views over the hinterland. Close to the pristine sands of Four Mile Beach and Port Douglas' vibrant shops, restaurants and bars, this oasis is the perfect launchpad to the wonders of Tropical North Queensland.",
-      "location_subheading": "Australia",
-      "price": 638,
-      "original_price": 725,
-      "discount_percentage": 12,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DRMbmAAH",
-      "hero_image": "https://images.luxuryescapes.com/6ripljcnzfealo92ke7s",
-      "image_two": "https://images.luxuryescapes.com/h1br86rro76hpi974ceq",
-      "image_three": "https://images.luxuryescapes.com/64cwcwfa3eee1zdlr2ce",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Pool Resort Port Douglas",
@@ -203,6 +185,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 5,
       "end_date_utc": "2026-09-07 13:59:00"
+    },
+    {
+      "vendor_name": "Pool Resort Port Douglas",
+      "offer_country_name": "Australia",
+      "location_heading": "Port Douglas",
+      "title": "Blissful Port Douglas Apartments for Up to Six Guests with 185-Metre Lagoon Pool",
+      "description": "Treat the whole family to a sun-kissed escape with a stay at Pool Resort Port Douglas. Boasting a collection of modern and spacious self-contained apartments surrounded by lush gardens, this retreat is home to a variety of spectacular swimming pools in an incredible location with views over the hinterland. Close to the pristine sands of Four Mile Beach and Port Douglas' vibrant shops, restaurants and bars, this oasis is the perfect launchpad to the wonders of Tropical North Queensland.",
+      "location_subheading": "Australia",
+      "price": 638,
+      "original_price": 725,
+      "discount_percentage": 12,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DRMbmAAH",
+      "hero_image": "https://images.luxuryescapes.com/6ripljcnzfealo92ke7s",
+      "image_two": "https://images.luxuryescapes.com/h1br86rro76hpi974ceq",
+      "image_three": "https://images.luxuryescapes.com/64cwcwfa3eee1zdlr2ce",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Port Douglas Apartments",
@@ -294,9 +294,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-15",
+    "last_updated": "2026-08-16",
     "hotel_count": 15,
-    "average_price": 486,
+    "average_price": 487,
     "average_discount": 9
   }
 }

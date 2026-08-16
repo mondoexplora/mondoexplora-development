@@ -4,26 +4,8 @@
   "country_code": "MY",
   "hero_title": "Hotels in Kuching",
   "description": "Discover the best hotels in Kuching, Malaysia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/s56d261d1p6qyslgbqhi",
+  "hero_image": "https://images.luxuryescapes.com/j9aoy7us0us1tp4woo4j",
   "hotels": [
-    {
-      "vendor_name": "Cove 55",
-      "offer_country_name": "Malaysia",
-      "location_heading": "Kuching",
-      "title": "Malaysia Oceanfront Borneo Retreat with Daily Dining, Cocktails, Orangutan Experience & Transfers",
-      "description": "Located half an hour from the leafy city of Kuching - the ‘Gateway to Borneo’ - this stylish boutique retreat boats lush gardens, pristine white exteriors and easy access to the region’s spectacular natural wonders. Visit the 740-acre Semenggoh Nature Reserve, home to the endangered Bornean orangutan, on a guided excursion and experience this slice of Malaysian paradise with the depth it deserves. Surrounded by jungle and the endlessly shimmering ocean, this perfectly manicured hideaway is the perfect place to retreat from the world beyond, with just 28 rooms, suites and villas taking inspiration from the indigenous Iban’s rich heritage in Borneo. Indulge in a feast for all the senses at Kechala restaurant and bar, famous for tantalising dishes infused with Sarawakian flavours, or treat yourself to a cocktail at Cove Bar.",
-      "location_subheading": "Malaysia",
-      "price": 359,
-      "original_price": 945,
-      "discount_percentage": 62,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ub0vpYAB",
-      "hero_image": "https://images.luxuryescapes.com/s56d261d1p6qyslgbqhi",
-      "image_two": "https://images.luxuryescapes.com/21i7llxujr5xkfnd9o",
-      "image_three": "https://images.luxuryescapes.com/v7h5qacipq17a736cvr",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-08-31 13:59:00"
-    },
     {
       "vendor_name": "Cove 55",
       "offer_country_name": "Malaysia",
@@ -43,14 +25,32 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Cove 55",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Kuching",
+      "title": "Malaysia Oceanfront Borneo Retreat with Daily Dining, Cocktails, Orangutan Experience & Transfers",
+      "description": "Located half an hour from the leafy city of Kuching - the ‘Gateway to Borneo’ - this stylish boutique retreat boats lush gardens, pristine white exteriors and easy access to the region’s spectacular natural wonders. Visit the 740-acre Semenggoh Nature Reserve, home to the endangered Bornean orangutan, on a guided excursion and experience this slice of Malaysian paradise with the depth it deserves. Surrounded by jungle and the endlessly shimmering ocean, this perfectly manicured hideaway is the perfect place to retreat from the world beyond, with just 28 rooms, suites and villas taking inspiration from the indigenous Iban’s rich heritage in Borneo. Indulge in a feast for all the senses at Kechala restaurant and bar, famous for tantalising dishes infused with Sarawakian flavours, or treat yourself to a cocktail at Cove Bar.",
+      "location_subheading": "Malaysia",
+      "price": 359,
+      "original_price": 945,
+      "discount_percentage": 62,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Ub0vpYAB",
+      "hero_image": "https://images.luxuryescapes.com/s56d261d1p6qyslgbqhi",
+      "image_two": "https://images.luxuryescapes.com/21i7llxujr5xkfnd9o",
+      "image_three": "https://images.luxuryescapes.com/v7h5qacipq17a736cvr",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-09-30 13:59:00"
+    },
+    {
       "vendor_name": "Pullman Kuching",
       "offer_country_name": "Malaysia",
       "location_heading": "Kuching",
       "title": "Five-Star Kuching Sophistication near Sarawak River with Four Restaurants",
       "description": "Soak up the vibrant energy of 'Cat City' with a chic stay at this Pullman sanctuary, nestled in the heart of Kuching, tucked away within Malaysian Borneo. A stone's throw from the Hills Shopping Mall, the hotel's elegantly appointed rooms, paird with panoramic city and river vistas, take advantage of the property's prime location in the Kuching Golden Triangle. Tuck into pan-Asian cuisine at Puzzle, indulge in authentic Chinese fare with a modern twist at Nu Er Hung and savour bakery delights at Café des Arts. Later, head to Déjà Vu and sip from an impressive collection of wines, beers and cocktails.",
       "location_subheading": "Malaysia",
-      "price": 283,
-      "original_price": 283,
+      "price": 282,
+      "original_price": 282,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002J2y7IAC",
       "hero_image": "https://images.luxuryescapes.com/eco46r79nnhyy381pwj6",
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-15",
+    "last_updated": "2026-08-16",
     "hotel_count": 3,
     "average_price": 354,
     "average_discount": 25
