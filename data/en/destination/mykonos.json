@@ -167,24 +167,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Royal Myconian - Leading Hotels of the World",
-      "offer_country_name": "Greece",
-      "location_heading": "Mykonos",
-      "title": "Mykonos Beachfront Luxury with One Dinner, Daily Breakfast & Return Airport Transfers",
-      "description": "At Royal Myconian, Elia Beach unfurls below in a ribbon of gold, the longest stretch of sand on Mykonos, watched over by a hillside of Cycladic stone and quiet luxury. Days here have no fixed shape. Swim at dawn, disappear into the thalassotherapy pools by mid-morning, or simply track the sun's arc from Sunset Terrace, which seems to hover above the Aegean itself. By dusk, the island reveals its other self. Camares serves octopus straight off the grill alongside crisp, cold Assyrtiko wine, while Ambrosia leans into candlelight and Mediterranean invention. Twenty minutes down the road, Mykonos Town hums with cocktail bars and local craft boutiques, or skip it entirely for a sunbed and the last of the light. Later, the pool turns to glass beneath a sky thick with stars.",
-      "location_subheading": "Greece",
-      "price": 539,
-      "original_price": 1100,
-      "discount_percentage": 51,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Zoh2PYAR",
-      "hero_image": "https://images.luxuryescapes.com/3deyis9witwo1wxpzjs",
-      "image_two": "https://images.luxuryescapes.com/yp529tl1p9uq9orcfdl",
-      "image_three": "https://images.luxuryescapes.com/7o84ziw2fd61oobhs8i",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-08-16 13:59:00"
     }
   ],
   "seo": {
@@ -204,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-16",
-    "hotel_count": 10,
-    "average_price": 702,
-    "average_discount": 27
+    "last_updated": "2026-08-17",
+    "hotel_count": 9,
+    "average_price": 720,
+    "average_discount": 24
   }
 }
