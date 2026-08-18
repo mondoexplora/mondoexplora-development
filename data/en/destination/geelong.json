@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Geelong",
   "description": "Discover the best hotels in Geelong, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/zu6psflb7kmbiyuujdi",
+  "hero_image": "https://images.luxuryescapes.com/qmhis4atgduxtrvp0ebs",
   "hotels": [
-    {
-      "vendor_name": "Bayside Geelong (Old Quality Hotel Bayside)",
-      "offer_country_name": "Australia",
-      "location_heading": "Geelong",
-      "title": "Geelong Bayfront Boutique Stay with Daily Breakfast, Nightly Drinks, Parking & A$50 Dining Credit",
-      "description": "Set on Geelong’s waterfront, this contemporary bayside retreat places you moments from the city's beloved palm-lined promenade and Eastern Beach Reserve’s Art Deco sea baths. When indulgence calls, an onsite heated pool, sauna and steam room invite pure relaxation, while Franca's is on hand for timeless Italian cuisine. Beyond the hotel, Cunningham Pier and the Royal Geelong Yacht Club sit just along the foreshore, with ferry connections threading across Port Phillip Bay. The Geelong Gallery and the National Wool Museum deliver curated culture within easy reach, and Little Malop Street is also nearby, lined with small bars and late-night dining to keep the night going.",
-      "location_subheading": "Australia",
-      "price": 219,
-      "original_price": 378,
-      "discount_percentage": 42,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Kgw45YAB",
-      "hero_image": "https://images.luxuryescapes.com/zu6psflb7kmbiyuujdi",
-      "image_two": "https://images.luxuryescapes.com/mz131cn1wits9ktqcqa7",
-      "image_three": "https://images.luxuryescapes.com/1l3o95y15bhdnimd8rme",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-08-17 13:59:00"
-    },
     {
       "vendor_name": "Holiday Inn & Suites Geelong",
       "offer_country_name": "Australia",
@@ -96,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-17",
-    "hotel_count": 4,
-    "average_price": 275,
-    "average_discount": 11
+    "last_updated": "2026-08-18",
+    "hotel_count": 3,
+    "average_price": 294,
+    "average_discount": 0
   }
 }

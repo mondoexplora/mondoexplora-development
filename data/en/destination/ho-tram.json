@@ -59,24 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Melia Ho Tram",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Ho Tram",
-      "title": "Vietnam All-Inclusive Beachfront Paradise with Massages, Unlimited Free-Flow Drinks & Return Transfers",
-      "description": "Discover a five-star resort where tropical gardens, meandering lakes and multiple pools create an immersive setting on a pristine stretch of Vietnam's coastline. At Meliá Ho Tram Beach Resort, the grounds are worth exploring before you've even reached the beach. All-inclusive dining spans four distinct venues - Mediterranean fare at Breeza Beach Club, Vietnamese plates at Muối, street food favourites at Sasa and fresh smoothies and juices at Elyxr Café. There's no bill to think about and no meal to miss. Families are well catered for, with a kids' club, basketball court and open-air cinema keeping younger guests entertained. Adults can unwind with a treatment at YHI Spa or join a session on the yoga deck, but when the agenda calls for nothing at all, the sprawling central pool and beachfront are just steps away.",
-      "location_subheading": "Vietnam",
-      "price": 1199,
-      "original_price": 2498,
-      "discount_percentage": 52,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000VEXDbYAP",
-      "hero_image": "https://images.luxuryescapes.com/d149qfraiag3jj2g49bq",
-      "image_two": "https://images.luxuryescapes.com/wtj0x5wfitfmxygnrkp",
-      "image_three": "https://images.luxuryescapes.com/uj8vjddu7y69qnyxhdh",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 5,
-      "end_date_utc": "2026-08-17 13:59:00"
     }
   ],
   "seo": {
@@ -96,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-17",
-    "hotel_count": 4,
-    "average_price": 511,
-    "average_discount": 17
+    "last_updated": "2026-08-18",
+    "hotel_count": 3,
+    "average_price": 281,
+    "average_discount": 5
   }
 }

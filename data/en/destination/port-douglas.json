@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Port Douglas",
   "description": "Discover the best hotels in Port Douglas, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/aah1f6s7afwcdaybfr7e",
+  "hero_image": "https://images.luxuryescapes.com/lyvxzi74cdf9iezbkum",
   "hotels": [
-    {
-      "vendor_name": "Club Tropical Resort",
-      "offer_country_name": "Australia",
-      "location_heading": "Port Douglas",
-      "title": "Port Douglas Newly Refurbished Tropical Escape with Club Apartment Upgrade & A$100 Dining Credit",
-      "description": "Stay in an upgraded Club Apartment at the newly refurbished Club Tropical Resort in the heart of Macrossan Street, Port Douglas. Fresh from a major renovation, the resort now offers a true tropical wellness experience with hot and cold therapy pools, a steam room, cedar dry sauna and traditional Swedish drop-bucket shower (for those who dare). Renovated rooms offer crisp interiors with spacious, open-plan lounge area and kitchenette. The resort pool is dotted with shaded loungers, and staff are well-versed in the best of Port Douglas, from where to eat - with an exclusive cocktail experience at Cosmos Lounge - to the most rewarding day trips, such as your included Lady Douglas River Cruise for two. Four Mile Beach is a 10-minute walk, while reef and rainforest experiences are on your doorstep via Crystalbrook Superyacht Marina and the Captain Cook Highway.",
-      "location_subheading": "Australia",
-      "price": 839,
-      "original_price": 1583,
-      "discount_percentage": 47,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000PLUZNYA5",
-      "hero_image": "https://images.luxuryescapes.com/aah1f6s7afwcdaybfr7e",
-      "image_two": "https://images.luxuryescapes.com/fk1ohccg9abftzk6qpn9",
-      "image_three": "https://images.luxuryescapes.com/bli8ildkqtdhmoo7p6b",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 5,
-      "end_date_utc": "2026-08-17 13:59:00"
-    },
     {
       "vendor_name": "Coconut Grove Apartments, Port Douglas",
       "offer_country_name": "Australia",
@@ -294,9 +276,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-17",
-    "hotel_count": 15,
-    "average_price": 485,
-    "average_discount": 9
+    "last_updated": "2026-08-18",
+    "hotel_count": 14,
+    "average_price": 460,
+    "average_discount": 7
   }
 }
