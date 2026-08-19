@@ -49,8 +49,8 @@
       "title": "Grand Heritage Washington D.C. Retreat Moments from the White House with Historic Onsite Bar",
       "description": "Experience the grandeur of the USA's capital city with a stay at the iconic InterContinental The Willard Washington D.C., an IHG Hotel. Located just two blocks from the White House, this historic hotel has hosted numerous dignitaries and celebrities since 1818. Savour exquisite French cuisine at Café du Parc or sip classic cocktails at Round Robin Bar, dubbed the 'Oval Office of Bars' by Condé Nast Traveller. For a touch of tranquillity amid the city buzz, retreat to The Willard Spa.",
       "location_subheading": "United States",
-      "price": 1187,
-      "original_price": 1187,
+      "price": 1186,
+      "original_price": 1186,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt7qAAB",
       "hero_image": "https://images.luxuryescapes.com/q0voq11dk975w5so5tyk",
@@ -118,24 +118,6 @@
       "vendor_name": "Viceroy Washington DC",
       "offer_country_name": "United States",
       "location_heading": "Washington, D.C.",
-      "title": "Art-Inspired Boutique Luxury in the Heart of Washington DC with Rooftop Pool",
-      "description": "If you're looking for contemporary indulgence in the US capital, you'll find it at Viceroy Washington DC. This sleek luxury lodging is just steps from the boutiques, bars, restaurants and galleries of 14th Street. Landmarks such as The White House, Dupont and Logan circles, U Street, and the Convention Centre are easily accessible by foot, but should you wish to explore further afield, there’s a Metro station just 10 minutes from the hotel. Spacious rooms and suites are designed to calm the senses and provide a little slice of peace and quiet among the hustle and bustle of the city. Start your day with a coffee on the open-air patio at BPM Coffee & Wine. Explore the hotel’s very own gallery, The Salon, which hosts works from local artists, or admire the city from above in the rooftop pool and penthouse deck (open seasonally), designed for days lounging in the sun.",
-      "location_subheading": "United States",
-      "price": 570,
-      "original_price": 626,
-      "discount_percentage": 9,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GLN5AAO",
-      "hero_image": "https://images.luxuryescapes.com/bu6zkdwarpx9eg948bm",
-      "image_two": "https://images.luxuryescapes.com/j8fhz1to8o7peo2hls4",
-      "image_three": "https://images.luxuryescapes.com/w2fm3tsiss026tdd73t",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Viceroy Washington DC",
-      "offer_country_name": "United States",
-      "location_heading": "Washington, D.C.",
       "title": "Award-Winning Washington, D.C. Elegance near The White House with Rooftop Pool Bar & Daily US$50 Credit",
       "description": "If you're looking for contemporary indulgence in the United States' capital, you'll find it at this urban oasis. Close to the trendy boutiques, bars, restaurants and galleries of the renowned 14th Street corridor, this cultural hub promises you plenty of options for exploring. After a day spent among the many famous landmarks nearby - such as The White House, National Mall, and Dupont and Logan Circles - retreat to the comfort of your spacious room, thoughtfully designed to calm the senses and offer a little pocket of peace and quiet among the bustle of the city. Start your day with a coffee on the open-air patio at BPM Coffee & Wine. Enjoy the hotel’s very own gallery, The Salon, which hosts works from local artists, or bask in panoramic views from the rooftop pool and penthouse deck (open seasonally), perfect for days lounging in the sun.",
       "location_subheading": "United States",
@@ -149,6 +131,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 3,
       "end_date_utc": "2026-08-28 13:59:00"
+    },
+    {
+      "vendor_name": "Viceroy Washington DC",
+      "offer_country_name": "United States",
+      "location_heading": "Washington, D.C.",
+      "title": "Art-Inspired Boutique Luxury in the Heart of Washington DC with Rooftop Pool",
+      "description": "If you're looking for contemporary indulgence in the US capital, you'll find it at Viceroy Washington DC. This sleek luxury lodging is just steps from the boutiques, bars, restaurants and galleries of 14th Street. Landmarks such as The White House, Dupont and Logan circles, U Street, and the Convention Centre are easily accessible by foot, but should you wish to explore further afield, there’s a Metro station just 10 minutes from the hotel. Spacious rooms and suites are designed to calm the senses and provide a little slice of peace and quiet among the hustle and bustle of the city. Start your day with a coffee on the open-air patio at BPM Coffee & Wine. Explore the hotel’s very own gallery, The Salon, which hosts works from local artists, or admire the city from above in the rooftop pool and penthouse deck (open seasonally), designed for days lounging in the sun.",
+      "location_subheading": "United States",
+      "price": 596,
+      "original_price": 655,
+      "discount_percentage": 9,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GLN5AAO",
+      "hero_image": "https://images.luxuryescapes.com/bu6zkdwarpx9eg948bm",
+      "image_two": "https://images.luxuryescapes.com/j8fhz1to8o7peo2hls4",
+      "image_three": "https://images.luxuryescapes.com/w2fm3tsiss026tdd73t",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -168,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-18",
+    "last_updated": "2026-08-19",
     "hotel_count": 8,
-    "average_price": 734,
+    "average_price": 737,
     "average_discount": 15
   }
 }

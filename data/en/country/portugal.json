@@ -3,16 +3,16 @@
   "code": "PT",
   "hero_title": "Portugal Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Portugal.",
-  "hero_image": "https://images.luxuryescapes.com/ru61u9y5wfe6zfrqbum4",
+  "hero_image": "https://images.luxuryescapes.com/kssvvs63j6dtb28kwcwm",
   "popular_destinations": [
     {
       "name": "Lisbon",
       "slug": "lisbon",
-      "image": "https://images.luxuryescapes.com/ru61u9y5wfe6zfrqbum4",
+      "image": "https://images.luxuryescapes.com/kssvvs63j6dtb28kwcwm",
       "description": "Explore Lisbon with luxury accommodations",
       "hotel_count": 9,
       "hotel_deals": 9,
-      "avg_price": 544
+      "avg_price": 545
     },
     {
       "name": "Porto",
@@ -57,7 +57,7 @@
       "description": "Explore Madeira with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 842
+      "avg_price": 874
     }
   ],
   "seo": {

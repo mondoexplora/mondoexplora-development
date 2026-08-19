@@ -103,8 +103,8 @@
       "title": "Design-Led Santorini Escape with Spa, Lagoon-Style Pool & Hilltop Sea Views",
       "description": "Set near Monolithos’ black-sand shore, NOŪS Santorini is a design-forward haven built around Cycladic minimalism and contemporary art. A sprawling lagoon-style pool, dreamy wellness facilities and serene accommodations compose the grounds, redefining the Santorini experience. Unobstructed caldera and sunset views are just the cherry on top, with Fira and Oia both within easy reach. When it’s time to indulge, head to Pool Restaurant & Bar for tasty bites, decadent Greek wines and craft cocktails under the Mediterranean sun. Beyond the property, wine tastings at Estate Argyros, the Akrotiri ruins and Red Beach are some of the island’s greatest highlights.",
       "location_subheading": "Greece",
-      "price": 761,
-      "original_price": 836,
+      "price": 772,
+      "original_price": 848,
       "discount_percentage": 9,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UnOfqYAF",
       "hero_image": "https://images.luxuryescapes.com/kk8pazx6vjlxwldqxhr",
@@ -149,24 +149,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Radisson Blu Zaffron Resort Santorini",
-      "offer_country_name": "Greece",
-      "location_heading": "Santorini",
-      "title": "Romantic Santorini Retreat with Beach Access, Daily Breakfast & Nightly Dinner",
-      "description": "Journey across the sunken caldera to experience five-star luxury in Santorini, where stunning black sands, whitewashed architecture and the sparkling Aegean Sea set the scene. Nestled in the charming Kamari village, this chic hideaway epitomises Greek island elegance, with Italian-inspired touches and exquisite dining options. Indulge in poolside cocktails at the Pool Bar or savour Mediterranean flavours at Zaffron Restaurant. Spend sunlit days uncovering Kamari village’s treasures - from ancient ruins to taverna-lined boardwalks and Santorini’s only open-air cinema - then unwind at one of the resort’s luxe pools or on its private stretch of beach.",
-      "location_subheading": "Greece",
-      "price": 884,
-      "original_price": 1964,
-      "discount_percentage": 55,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000YxGBdYAN",
-      "hero_image": "https://images.luxuryescapes.com/8yydpwvbnce4zhjk4bs",
-      "image_two": "https://images.luxuryescapes.com/dz55d6htkma1vlh4buep",
-      "image_three": "https://images.luxuryescapes.com/52auu1kvmpl52smzwl2j",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-08-18 13:59:00"
     },
     {
       "vendor_name": "Santo Mine Oia Suites",
@@ -240,9 +222,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-18",
-    "hotel_count": 12,
-    "average_price": 893,
-    "average_discount": 12
+    "last_updated": "2026-08-19",
+    "hotel_count": 11,
+    "average_price": 895,
+    "average_discount": 9
   }
 }

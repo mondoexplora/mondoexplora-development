@@ -21,7 +21,7 @@
       "description": "Explore Melbourne with luxury accommodations",
       "hotel_count": 65,
       "hotel_deals": 65,
-      "avg_price": 628
+      "avg_price": 634
     },
     {
       "name": "Brisbane",
@@ -30,7 +30,7 @@
       "description": "Explore Brisbane with luxury accommodations",
       "hotel_count": 37,
       "hotel_deals": 37,
-      "avg_price": 438
+      "avg_price": 441
     },
     {
       "name": "Adelaide",
@@ -39,7 +39,7 @@
       "description": "Explore Adelaide with luxury accommodations",
       "hotel_count": 32,
       "hotel_deals": 32,
-      "avg_price": 353
+      "avg_price": 351
     },
     {
       "name": "Perth",
@@ -57,7 +57,7 @@
       "description": "Explore Gold Coast with luxury accommodations",
       "hotel_count": 20,
       "hotel_deals": 20,
-      "avg_price": 545
+      "avg_price": 549
     }
   ],
   "seo": {

@@ -12,7 +12,7 @@
       "description": "Explore London with luxury accommodations",
       "hotel_count": 60,
       "hotel_deals": 60,
-      "avg_price": 1275
+      "avg_price": 1280
     },
     {
       "name": "Manchester",
@@ -21,7 +21,7 @@
       "description": "Explore Manchester with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 300
+      "avg_price": 301
     },
     {
       "name": "Edinburgh",
@@ -39,7 +39,7 @@
       "description": "Explore Liverpool with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 255
+      "avg_price": 257
     },
     {
       "name": "Bath",
@@ -48,7 +48,7 @@
       "description": "Explore Bath with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 639
+      "avg_price": 634
     },
     {
       "name": "Glasgow",
@@ -57,7 +57,7 @@
       "description": "Explore Glasgow with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 301
+      "avg_price": 298
     }
   ],
   "seo": {
