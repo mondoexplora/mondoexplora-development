@@ -13,8 +13,8 @@
       "title": "Okinawa Seaside Serenity with Three Pools, Water Slides & Open-Air Onsen Experience",
       "description": "Combining Japanese tradition with a touch of modern luxury, this seaside sanctuary is your ideal Okinawa retreat. Greeted by views of the East China Sea and nestled amid lush landscapes, spend your days by one of Okinawa's largest pools, float along the lazy river or relax in the adults-only pool while the kids discover the thrilling water slides. Immerse yourself in Okinawan 'chimugukuru' hospitality and savour dynamic local and international cuisine at Le Sensoriel, including regional favourites prepared with a twist. For something a little different, make the most of the unique onsen and open-air public bath experiences onsite.",
       "location_subheading": "Japan",
-      "price": 247,
-      "original_price": 247,
+      "price": 256,
+      "original_price": 256,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP3HYAV",
       "hero_image": "https://images.luxuryescapes.com/ab5lqi7ybp7sp19k0uih",
@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Hyatt Regency Naha, Okinawa",
+      "offer_country_name": "Japan",
+      "location_heading": "Okinawa",
+      "title": "HYATT REGENCY NAHA OKINAWA LPP",
+      "description": "Set in the heart of Naha, Hyatt Regency Naha, Okinawa places you within easy reach of Kokusai Dori’s shops, izakaya and neon-lit arcades. Naminoue Beach and the historic Shuri Castle are both a short drive away, while nearby Makishi Public Market serves Okinawan soba, fresh tuna and tropical fruit. Inside, polished interiors and a rooftop pool create a refined city base. Dining spans Japanese and international dishes, with cocktails and local awamori served in the bar. Naha Airport is around 15 minutes away by car, and the monorail links the hotel to Tomari Port and Omoromachi",
+      "location_subheading": "Japan",
+      "price": 356,
+      "original_price": 356,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z99bJYAR",
+      "hero_image": "https://images.luxuryescapes.com/al8kfe6x2nmyhbksoxr",
+      "image_two": "https://images.luxuryescapes.com/565317mcv7w4636yktmd",
+      "image_three": "https://images.luxuryescapes.com/s63zobygmcuetv626g5r",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
     },
     {
       "vendor_name": "InterContinental ANA Manza Beach Resort",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-19",
-    "hotel_count": 3,
-    "average_price": 284,
+    "last_updated": "2026-08-20",
+    "hotel_count": 4,
+    "average_price": 305,
     "average_discount": 0
   }
 }

@@ -103,9 +103,9 @@
       "title": "Elegant Heritage Escape in the Heart of Lisbon",
       "description": "Framed by a 16th-century façade in the heart of Portugal's vibrant capital, Pousada de Lisboa is a boutique hotel promising urban luxe with historic charm just moments from Lisbon's top attractions. Part of the Small Luxury Hotels of the World collection and ranked in Tripadvisor's top 1% of properties worldwide, this former house for kings and forum for ministries has been beautifully restored into a luxury city launchpad. This elegant city hotel with first-class features is surrounded by timeless beauty in a prime location opposite the popular Praça do Comércio and Tagus River. Sip a 'bica' along the A Brasileira esplanade, hop between the myriad of bookstores, museums, and irresistible bakeries, or stroll along the south bank to catch panoramic sunset views. Back at the hotel, take time to admire the lavish paintings and intricate sculptures, sink your teeth into a sumptuous steak at the trendy RIB Beef & Wine restaurant serving signature cuts with Portuguese flair, or plunge into the outdoor pool and soak up the Mediterranean sun with a cocktail in hand.",
       "location_subheading": "Portugal",
-      "price": 568,
-      "original_price": 701,
-      "discount_percentage": 19,
+      "price": 548,
+      "original_price": 685,
+      "discount_percentage": 20,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000005JMLAAA4",
       "hero_image": "https://images.luxuryescapes.com/2iskdw60s6v6d8vhdp",
       "image_two": "https://images.luxuryescapes.com/y0jemvlrulpxdos3qefw",
@@ -151,6 +151,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Wine & Books Lisboa",
+      "offer_country_name": "Portugal",
+      "location_heading": "Lisbon",
+      "title": "Charming Lisbon Boutique Retreat with Daily Breakfast, Nightly Drinks & EUR40 Dining Credit",
+      "description": "Tucked away in Lisbon’s historic heart between the Ajuda and Belém neighbourhoods, Wine & Books Lisboa is the boutique European hideaway you’ve been dreaming of. Whether you’re sipping vinho on the terrace, unwinding in the indulgent Turkish bath or dining like a local at Tasca da Memória, this contemporary gem wraps you in irresistible Portuguese magic. Bask in the golden sunshine flooding through cosy public spaces and designer rooms, treating you to knockout views of Lisbon’s terracotta rooftops. When it’s time to explore, sample Portugal’s famous sweet treats at the renowned Pastéis de Belém, and visit the iconic Belém Tower, just a short drive away, before returning to a glass of Port wine at the wine bar.",
+      "location_subheading": "Portugal",
+      "price": 329,
+      "original_price": 539,
+      "discount_percentage": 39,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000bEHF0YAO",
+      "hero_image": "https://images.luxuryescapes.com/hhsvjiu9kagcltkgxfn",
+      "image_two": "https://images.luxuryescapes.com/63epa1ibjdd2iv5854p",
+      "image_three": "https://images.luxuryescapes.com/aqv7pqndpm07sw0ltq6d",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-09-16 13:59:00"
+    },
+    {
       "vendor_name": "Crowne Plaza Caparica Lisbon",
       "offer_country_name": "Portugal",
       "location_heading": "Lisbon",
@@ -186,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-19",
-    "hotel_count": 9,
-    "average_price": 545,
-    "average_discount": 9
+    "last_updated": "2026-08-20",
+    "hotel_count": 10,
+    "average_price": 522,
+    "average_discount": 12
   }
 }

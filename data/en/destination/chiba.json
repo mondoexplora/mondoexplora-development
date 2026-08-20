@@ -1,0 +1,50 @@
+{
+  "city": "Chiba",
+  "country": "Japan",
+  "country_code": "JP",
+  "hero_title": "Hotels in Chiba",
+  "description": "Discover the best hotels in Chiba, Japan. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/4q23y9ftag1xfrm9ak4h",
+  "hotels": [
+    {
+      "vendor_name": "Hyatt Regency Tokyo Bay",
+      "offer_country_name": "Japan",
+      "location_heading": "Chiba",
+      "title": "HYATT REGENCY TOKYO BAY LPP",
+      "description": "Set on the edge of Tokyo Bay, this polished stay places you within easy reach of the Tokyo Disney Resort and the waterfront promenades of Urayasu. The hotel’s contemporary rooms frame sweeping bay or city views, while the surrounding area offers access to Tokyo Bay’s cycling paths and sea-facing parks. Dining is centred on Japanese and international dishes served in a refined setting, with a café for lighter bites and drinks. Nearby, Maihama Station connects you to central Tokyo, while the nearby Shin-Urayasu area offers shopping, casual eateries and local convenience stores",
+      "location_subheading": "Japan",
+      "price": 363,
+      "original_price": 363,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z99bOYAR",
+      "hero_image": "https://images.luxuryescapes.com/4q23y9ftag1xfrm9ak4h",
+      "image_two": "https://images.luxuryescapes.com/g7yb0l933mbefrstar98",
+      "image_three": "https://images.luxuryescapes.com/hvo1lealg9k85ak0ig",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Chiba - Japan Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Chiba, Japan with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "chiba hotels",
+      "chiba travel",
+      "japan hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/chiba",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/chiba",
+      "es": "https://mondoexplora.com/es/destination/chiba",
+      "fr": "https://mondoexplora.com/fr/destination/chiba",
+      "it": "https://mondoexplora.com/it/destination/chiba"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-08-20",
+    "hotel_count": 1,
+    "average_price": 363,
+    "average_discount": 0
+  }
+}

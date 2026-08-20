@@ -12,7 +12,7 @@
       "description": "Explore Seminyak with luxury accommodations",
       "hotel_count": 31,
       "hotel_deals": 31,
-      "avg_price": 516
+      "avg_price": 518
     },
     {
       "name": "Ubud",
@@ -21,7 +21,7 @@
       "description": "Explore Ubud with luxury accommodations",
       "hotel_count": 21,
       "hotel_deals": 21,
-      "avg_price": 903
+      "avg_price": 901
     },
     {
       "name": "Jakarta",
@@ -30,7 +30,7 @@
       "description": "Explore Jakarta with luxury accommodations",
       "hotel_count": 21,
       "hotel_deals": 21,
-      "avg_price": 254
+      "avg_price": 253
     },
     {
       "name": "Nusa Dua",
@@ -39,16 +39,16 @@
       "description": "Explore Nusa Dua with luxury accommodations",
       "hotel_count": 17,
       "hotel_deals": 17,
-      "avg_price": 795
+      "avg_price": 794
     },
     {
       "name": "Jimbaran",
       "slug": "jimbaran",
       "image": "https://images.luxuryescapes.com/fz86jikd1bvun167glgnw",
       "description": "Explore Jimbaran with luxury accommodations",
-      "hotel_count": 14,
-      "hotel_deals": 14,
-      "avg_price": 1026
+      "hotel_count": 15,
+      "hotel_deals": 15,
+      "avg_price": 1046
     },
     {
       "name": "Canggu",
@@ -57,7 +57,7 @@
       "description": "Explore Canggu with luxury accommodations",
       "hotel_count": 10,
       "hotel_deals": 10,
-      "avg_price": 563
+      "avg_price": 562
     }
   ],
   "seo": {
