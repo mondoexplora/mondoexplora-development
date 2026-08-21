@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 5,
       "end_date_utc": "2026-09-03 13:59:00"
+    },
+    {
+      "vendor_name": "Villa Neri Resort & Spa",
+      "offer_country_name": "Italy",
+      "location_heading": "Sicily",
+      "title": "Sicily Boutique Luxury near Mount Etna with Daily Breakfast, Nightly Dinner & Spa Access",
+      "description": "Nestled amid vineyards and olive groves on the slopes of Mount Etna, Villa Neri Resort & Spa is a sun-soaked Sicilian sanctuary where boutique luxury meets raw natural beauty. A member of the prestigious Small Luxury Hotels of the World collection, this five-star haven pairs authentic Italian craftsmanship with contemporary comfort, with just 24 pristine rooms offering a blissful escape. Unwind by the saltwater pool, indulge at Petra Spa, savour creative cuisine at 12 Fontane and uncork the region’s volcanic wines with an included tasting at Casa Arrigo countryhouse winery. When adventure calls, few hotels are better placed to answer - guided Etna treks, bike or jeep excursions and the clifftop streets of Taormina are all within easy reach.",
+      "location_subheading": "Italy",
+      "price": 899,
+      "original_price": 1954,
+      "discount_percentage": 54,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000bvHWkYAM",
+      "hero_image": "https://images.luxuryescapes.com/0gws49gf5sg910v9u5w",
+      "image_two": "https://images.luxuryescapes.com/qbryrpvjusdbvup8dcp",
+      "image_three": "https://images.luxuryescapes.com/7lam06nalpf78ksivz",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-09-17 13:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-20",
-    "hotel_count": 1,
-    "average_price": 1529,
-    "average_discount": 64
+    "last_updated": "2026-08-21",
+    "hotel_count": 2,
+    "average_price": 1214,
+    "average_discount": 59
   }
 }
