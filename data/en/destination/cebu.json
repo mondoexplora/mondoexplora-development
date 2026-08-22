@@ -4,26 +4,8 @@
   "country_code": "PH",
   "hero_title": "Hotels in Cebu",
   "description": "Discover the best hotels in Cebu, Philippines. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/7qw4zfgluh06xrq44pnv",
+  "hero_image": "https://images.luxuryescapes.com/owtefzap3cyguysypil",
   "hotels": [
-    {
-      "vendor_name": "Dusit Thani Mactan Cebu Resort",
-      "offer_country_name": "Philippines",
-      "location_heading": "Cebu",
-      "title": "Philippines Cebu Island Paradise with Club Lounge Access & Nightly Free-Flow Cocktail Hour",
-      "description": "Nestled on Cebu Island overlooking the sparkling Magellan Bay, this contemporary hideaway exemplifies island living with a decadent pool that's reserved for languid afternoons, sipping fresh coconuts in shaded cabanas. The resort’s sprawling grounds invite you to wander from the cool calm of Namm Spa, where ocean-inspired treatments dominate the day, to playful adventures with paddleboards or cycling the leafy coast. Children naturally gravitate to the fun of the Kids’ Zone, leaving adults to indulge in the swim-up bar or a sunset yoga session on the lawn. Evenings settle around international and local favourites at Tradewinds Café, modern Thai plates at Benjarong and French cuisine in an interactive setting at Le Petit Chef Mactan. When you crave a change of pace, hop over to Lapu-Lapu City’s heritage streets, less than half an hour away, or catch a boat to the luminous reefs of Hilutungan Island.",
-      "location_subheading": "Philippines",
-      "price": 769,
-      "original_price": 2563,
-      "discount_percentage": 70,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UY2VxYAL",
-      "hero_image": "https://images.luxuryescapes.com/7qw4zfgluh06xrq44pnv",
-      "image_two": "https://images.luxuryescapes.com/hxys8f2l2fc0t49esmex",
-      "image_three": "https://images.luxuryescapes.com/12fsh7z3ct8knb2khb5k",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 5,
-      "end_date_utc": "2026-08-21 13:59:00"
-    },
     {
       "vendor_name": "Shangri-La's Mactan Resort & Spa",
       "offer_country_name": "Philippines",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-21",
-    "hotel_count": 2,
-    "average_price": 663,
-    "average_discount": 45
+    "last_updated": "2026-08-22",
+    "hotel_count": 1,
+    "average_price": 556,
+    "average_discount": 19
   }
 }

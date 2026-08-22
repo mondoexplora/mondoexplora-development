@@ -24,15 +24,6 @@
       "avg_price": 648
     },
     {
-      "name": "Cebu",
-      "slug": "cebu",
-      "image": "https://images.luxuryescapes.com/7qw4zfgluh06xrq44pnv",
-      "description": "Explore Cebu with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 663
-    },
-    {
       "name": "Panglao",
       "slug": "panglao",
       "image": "https://images.luxuryescapes.com/65ruc363gkqpxq74w34",
@@ -58,6 +49,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 264
+    },
+    {
+      "name": "Cebu",
+      "slug": "cebu",
+      "image": "https://images.luxuryescapes.com/owtefzap3cyguysypil",
+      "description": "Explore Cebu with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 556
     }
   ],
   "seo": {
