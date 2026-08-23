@@ -22,7 +22,7 @@
       "image_three": "https://images.luxuryescapes.com/camv3ysoc9n2tradf70q",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 5,
-      "end_date_utc": "2026-08-31 13:59:00"
+      "end_date_utc": "2026-09-15 13:59:00"
     },
     {
       "vendor_name": "Hard Rock Hotel Bali",
@@ -32,8 +32,8 @@
       "description": "Dive headfirst into the ultimate family escape at the recently renovated Hard Rock Hotel Bali, a fun-filled, eco-friendly rock 'n' roll resort, just steps from famous Kuta Beach, ranked within the top 10% of properties on Tripadvisor and certified by the Global Sustainable Tourism Council (GSTC). Whether you’re looking to chill out or rock out, big and little kids alike have everything they need for an incredible stay, jam-packed with entertainment. Adults can relax in a poolside cabana or unwind in the Rock Spa, while the kids play games and make new friends at Roxity Kids' Club (for ages 4-12) or splash around in the waterpark. Fitness enthusiasts can work out at Body Rock Gym or try out the five-metre rock climbing wall, while teens can hang out in the ultra-cool TABU venue, complete with a multipurpose DJ booth, pool table, and PlayStation 4. Venture into Kuta for buzzing bars and restaurants, surf or sunbathe at Kuta Beach, or treat the family to a fun day out at Waterbom Bali, an action-packed water park with rides and dining options.",
       "location_subheading": "Indonesia",
       "price": 373,
-      "original_price": 410,
-      "discount_percentage": 9,
+      "original_price": 525,
+      "discount_percentage": 29,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000005HACkAAO",
       "hero_image": "https://images.luxuryescapes.com/2v4i1vjfpqo1to86g9kp",
       "image_two": "https://images.luxuryescapes.com/0wq7tvr7ch3dvmv76h",
@@ -41,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Mamaka by Ovolo",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Kuta",
-      "title": "Kuta Beachfront Escape with Daily Breakfast & Daily Two-Hour Free-Flow Rooftop Cocktails",
-      "description": "Set right on Kuta's beachfront, MAMAKA by Ovolo sits at the point where surf culture meets city convenience. Whether you want to spend the day by the rooftop pool or head out for a lesson with the onsite Rip Curl School of Surf, you're in the right spot. Street 32 wines and dines around the clock, serving Western classics and Indonesian dishes 24 hours a day. Head up to the rooftop Kuta Social Club for sunset views over one of Bali's most recognisable stretches of beach while savouring a sundowner. When you're ready to venture further, Seminyak's nightlife is a short drive away.",
-      "location_subheading": "Indonesia",
-      "price": 419,
-      "original_price": 1445,
-      "discount_percentage": 71,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000XqnjCYAR",
-      "hero_image": "https://images.luxuryescapes.com/kekbtu3itdgczd5vqzg",
-      "image_two": "https://images.luxuryescapes.com/g4q7wlg8zpr6l4bq0y3h",
-      "image_three": "https://images.luxuryescapes.com/rkuo81v0podmol9g1fgn",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 7,
-      "end_date_utc": "2026-08-29 13:59:00"
     },
     {
       "vendor_name": "Mamaka by Ovolo",
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mamaka by Ovolo",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Kuta",
+      "title": "Kuta Beachfront Escape with Daily Breakfast & Daily Two-Hour Free-Flow Rooftop Cocktails",
+      "description": "Set right on Kuta's beachfront, MAMAKA by Ovolo sits at the point where surf culture meets city convenience. Whether you want to spend the day by the rooftop pool or head out for a lesson with the onsite Rip Curl School of Surf, you're in the right spot. Street 32 wines and dines around the clock, serving Western classics and Indonesian dishes 24 hours a day. Head up to the rooftop Kuta Social Club for sunset views over one of Bali's most recognisable stretches of beach while savouring a sundowner. When you're ready to venture further, Seminyak's nightlife is a short drive away.",
+      "location_subheading": "Indonesia",
+      "price": 419,
+      "original_price": 1445,
+      "discount_percentage": 71,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000XqnjCYAR",
+      "hero_image": "https://images.luxuryescapes.com/kekbtu3itdgczd5vqzg",
+      "image_two": "https://images.luxuryescapes.com/g4q7wlg8zpr6l4bq0y3h",
+      "image_three": "https://images.luxuryescapes.com/rkuo81v0podmol9g1fgn",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 7,
+      "end_date_utc": "2026-08-29 13:59:00"
     },
     {
       "vendor_name": "Tribe Bali Kuta Beach",
@@ -132,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-22",
+    "last_updated": "2026-08-23",
     "hotel_count": 6,
     "average_price": 278,
-    "average_discount": 33
+    "average_discount": 36
   }
 }

@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Yarra Valley",
   "description": "Discover the best hotels in Yarra Valley, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/jf29xq9m3y566vdkou4l",
+  "hero_image": "https://images.luxuryescapes.com/5jmvyyoi5k50swo2os7n",
   "hotels": [
-    {
-      "vendor_name": "Yarra Valley Lodge",
-      "offer_country_name": "Australia",
-      "location_heading": "Yarra Valley",
-      "title": "Yarra Valley Wine Country Retreat with Daily Breakfast & Nightly A$20 Dining Credit",
-      "description": "It’s no secret that Victoria's Yarra Valley is teeming with treasures, and one of its best-kept gems is just waiting to be uncovered. Set within the Heritage Golf & Country Club, Yarra Valley Lodge's contemporary rooms and suites put you instantly at ease, with each carefully designed to reflect the beauty of the surrounding vineyards. Relax with a glass of wine in hand at the sophisticated Bella Restaurant or practice your swing on the Jack Nicklaus-designed St. John golf course. Beyond the lodge, there’s no shortage of exceptional wineries, distilleries, boutique shops, galleries and national parks to keep you entertained. Close by, guests can trace nature trails along Mount Lofty and the Yarra River, visit the renowned Four Pillars Gin Distillery or give in to a day of pampering at the Heritage Retreat & Day Spa.",
-      "location_subheading": "Australia",
-      "price": 269,
-      "original_price": 401,
-      "discount_percentage": 33,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000U168YYAR",
-      "hero_image": "https://images.luxuryescapes.com/jf29xq9m3y566vdkou4l",
-      "image_two": "https://images.luxuryescapes.com/1dgs1uh1la33o4j4tsme",
-      "image_three": "https://images.luxuryescapes.com/oglcavz9f233mrsfyxn",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 2,
-      "end_date_utc": "2026-09-17 13:59:00"
-    },
     {
       "vendor_name": "Yarra Valley Lodge",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Yarra Valley Lodge",
+      "offer_country_name": "Australia",
+      "location_heading": "Yarra Valley",
+      "title": "Yarra Valley Wine Country Retreat with Daily Breakfast & Nightly A$20 Dining Credit",
+      "description": "It’s no secret that Victoria's Yarra Valley is teeming with treasures, and one of its best-kept gems is just waiting to be uncovered. Set within the Heritage Golf & Country Club, Yarra Valley Lodge's contemporary rooms and suites put you instantly at ease, with each carefully designed to reflect the beauty of the surrounding vineyards. Relax with a glass of wine in hand at the sophisticated Bella Restaurant or practice your swing on the Jack Nicklaus-designed St. John golf course. Beyond the lodge, there’s no shortage of exceptional wineries, distilleries, boutique shops, galleries and national parks to keep you entertained. Close by, guests can trace nature trails along Mount Lofty and the Yarra River, visit the renowned Four Pillars Gin Distillery or give in to a day of pampering at the Heritage Retreat & Day Spa.",
+      "location_subheading": "Australia",
+      "price": 269,
+      "original_price": 401,
+      "discount_percentage": 33,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000U168YYAR",
+      "hero_image": "https://images.luxuryescapes.com/jf29xq9m3y566vdkou4l",
+      "image_two": "https://images.luxuryescapes.com/1dgs1uh1la33o4j4tsme",
+      "image_three": "https://images.luxuryescapes.com/oglcavz9f233mrsfyxn",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-09-17 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-22",
+    "last_updated": "2026-08-23",
     "hotel_count": 2,
     "average_price": 330,
     "average_discount": 17
