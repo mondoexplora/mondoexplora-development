@@ -4,8 +4,26 @@
   "country_code": "HK",
   "hero_title": "Hotels in Kowloon",
   "description": "Discover the best hotels in Kowloon, Hong Kong. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/tb3v4jol0ckk3xi1litv",
+  "hero_image": "https://images.luxuryescapes.com/2qlq887yry4nj76wwf",
   "hotels": [
+    {
+      "vendor_name": "Cordis Hong Kong",
+      "offer_country_name": "Hong Kong",
+      "location_heading": "Kowloon",
+      "title": "Five-Star Hong Kong Kowloon Escape with Outdoor Gin Bar & Award-Winning Restaurant",
+      "description": "Stay in the heart of Mongkok, Kowloon at the five-star Cordis Hong Kong. Explore the exquisite dining options onsite, from sipping gin under the stars at The Garage Bar or savouring authentic Cantonese cuisine paired with exceptional wines at the award-winning Ming Court. When the need to unwind hits, enjoy a rejuvenating body scrub or relaxing full-body massage at Chuan Spa, or float away in the heated rooftop swimming pool, complete with underwater audio for a truly relaxing swim.",
+      "location_subheading": "Hong Kong",
+      "price": 398,
+      "original_price": 398,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007m7J2AAI",
+      "hero_image": "https://images.luxuryescapes.com/2qlq887yry4nj76wwf",
+      "image_two": "https://images.luxuryescapes.com/i8ps22ugwrmnjezdxft9",
+      "image_three": "https://images.luxuryescapes.com/6q6k1em6tjwy8p3l3pn",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Eaton Hong Kong",
       "offer_country_name": "Hong Kong",
@@ -31,8 +49,8 @@
       "title": "Contemporary Hong Kong Escape in Heart of Kowloon near Iconic Victoria Harbour",
       "description": "Experience the hustle and bustle of Kowloon’s city centre at the modern Holiday Inn Golden Mile Hong Kong, an IHG Hotel. Positioned a mere five minutes away from the iconic Victoria Harbour, the hotel boasts access to Hong Kong’s major commercial and tourist districts via the nearby Mass Transit Railway (MTR). Take in the city's historic landmarks and vibrant dining scene on your doorstep, before retreating back for an evening cocktail, tranquil swim and dinner at the onsite renowned restaurants.",
       "location_subheading": "Hong Kong",
-      "price": 343,
-      "original_price": 343,
+      "price": 329,
+      "original_price": 329,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt6GAAR",
       "hero_image": "https://images.luxuryescapes.com/xvvqguvfjffm082d26hv8",
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-23",
-    "hotel_count": 6,
-    "average_price": 576,
-    "average_discount": 13
+    "last_updated": "2026-08-24",
+    "hotel_count": 7,
+    "average_price": 549,
+    "average_discount": 11
   }
 }
