@@ -49,8 +49,8 @@
       "title": "Beachfront Danang Pullman Luxury with Onsite Restaurants & Spa",
       "description": "With an enviable location on the pristine white sands of Bac My An Beach, Pullman Danang Beach Resort is an oasis in Central Vietnam. Perfect for a peaceful couples’ getaway or a holiday with the kids, you’ll find there’s something for everyone at Pullman Da Nang. With superb restaurants, a tranquil spa, an excellent pool, top-class hospitality and easy access to Hoi An’s famous Old Town, you’ll be able to relax and unwind in style during your time in Danang.",
       "location_subheading": "Vietnam",
-      "price": 404,
-      "original_price": 404,
+      "price": 366,
+      "original_price": 366,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlvwIAC",
       "hero_image": "https://images.luxuryescapes.com/3bdgmz4rmbs8f59ko6s",
@@ -59,24 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Shilla Monogram Danang",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Danang",
-      "title": "Vietnam All-Inclusive Beachfront Luxury with Unlimited Free-Flow Drinks",
-      "description": "Experience historic beauty and modern opulence at this beachfront resort, gracefully located on the golden sands between Danang and the UNESCO World Heritage-listed Hoi An Old Town. Enjoy state-of-the-art facilities, including a tranquil bamboo forest garden, soothing sauna and sprawling infinity pool with endless vistas over the horizon. Step onto the soft sand of Non Nuoc Beach, where you’ll have a front-row seat to golden sunrises, or treat your palate to locally sourced cuisine at one of the resort’s sleek restaurants, Dining M or Bistro M. Moments of luxury await at the Monogram Lounge, where low-slung chairs are the perfect spot for tropical tipples and canapes. When you’re ready to explore further, venture into the beautifully preserved historic town of Hoi An, just a 20-minute drive away. Stroll the iconic lantern-clad streets, sip famously sweet Vietnamese coffee at a quaint cafe or treat yourself to a tailored suit, before heading back to the resort for a nightcap at Bar M.",
-      "location_subheading": "Vietnam",
-      "price": 1199,
-      "original_price": 2498,
-      "discount_percentage": 52,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000VNOe7YAH",
-      "hero_image": "https://images.luxuryescapes.com/bevul81oygnrceslcd33",
-      "image_two": "https://images.luxuryescapes.com/xr3a28csbttzfotjieq",
-      "image_three": "https://images.luxuryescapes.com/rvmww027h8vm73z09r66",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 5,
-      "end_date_utc": "2026-09-14 13:59:00"
     },
     {
       "vendor_name": "Shilla Monogram Danang",
@@ -95,6 +77,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Shilla Monogram Danang",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Danang",
+      "title": "Vietnam All-Inclusive Beachfront Luxury with Unlimited Free-Flow Drinks",
+      "description": "Experience historic beauty and modern opulence at this beachfront resort, gracefully located on the golden sands between Danang and the UNESCO World Heritage-listed Hoi An Old Town. Enjoy state-of-the-art facilities, including a tranquil bamboo forest garden, soothing sauna and sprawling infinity pool with endless vistas over the horizon. Step onto the soft sand of Non Nuoc Beach, where you’ll have a front-row seat to golden sunrises, or treat your palate to locally sourced cuisine at one of the resort’s sleek restaurants, Dining M or Bistro M. Moments of luxury await at the Monogram Lounge, where low-slung chairs are the perfect spot for tropical tipples and canapes. When you’re ready to explore further, venture into the beautifully preserved historic town of Hoi An, just a 20-minute drive away. Stroll the iconic lantern-clad streets, sip famously sweet Vietnamese coffee at a quaint cafe or treat yourself to a tailored suit, before heading back to the resort for a nightcap at Bar M.",
+      "location_subheading": "Vietnam",
+      "price": 1199,
+      "original_price": 2498,
+      "discount_percentage": 52,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000VNOe7YAH",
+      "hero_image": "https://images.luxuryescapes.com/bevul81oygnrceslcd33",
+      "image_two": "https://images.luxuryescapes.com/xr3a28csbttzfotjieq",
+      "image_three": "https://images.luxuryescapes.com/rvmww027h8vm73z09r66",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-09-14 13:59:00"
     }
   ],
   "seo": {
@@ -114,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-24",
+    "last_updated": "2026-08-25",
     "hotel_count": 5,
-    "average_price": 671,
+    "average_price": 663,
     "average_discount": 10
   }
 }

@@ -1,0 +1,50 @@
+{
+  "city": "Córdoba",
+  "country": "Spain",
+  "country_code": "ES",
+  "hero_title": "Hotels in Córdoba",
+  "description": "Discover the best hotels in Córdoba, Spain. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/qw86c6k02nx8nf3k7jvpd",
+  "hotels": [
+    {
+      "vendor_name": "H10 Palacio Colomera",
+      "offer_country_name": "Spain",
+      "location_heading": "Córdoba",
+      "title": "Boutique Córdoba Heritage Escape on Plaza de las Tendillas with Daily Breakfast & Rooftop Bar",
+      "description": "Set in the heart of Córdoba, H10 Palacio Colomera pairs historic Andalusian character with some of the city’s most appealing places to unwind. Take in the city from the hotel’s rooftop bar over Spanish wine and tapas, or cool off beside the outdoor plunge pool before retreating to the charming interiors of this restored former residence. The hotel’s ornate facade and traditional courtyard nod to its heritage, while its central setting puts Córdoba’s highlights within easy reach. Plaza de las Tendillas is just steps away, with the Roman Temple and UNESCO-listed historic centre also nearby. The plaza’s distinctive clock even marks the hours with flamenco guitar music, adding a distinctly local soundtrack to your surroundings.",
+      "location_subheading": "Spain",
+      "price": 279,
+      "original_price": 569,
+      "discount_percentage": 51,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000c7atiYAA",
+      "hero_image": "https://images.luxuryescapes.com/qw86c6k02nx8nf3k7jvpd",
+      "image_two": "https://images.luxuryescapes.com/2byd4sm4mhj3a3x3c0ni",
+      "image_three": "https://images.luxuryescapes.com/3f3ks8112l6x1sd1a9w",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-09-21 13:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Córdoba - Spain Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Córdoba, Spain with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "córdoba hotels",
+      "córdoba travel",
+      "spain hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/córdoba",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/córdoba",
+      "es": "https://mondoexplora.com/es/destination/córdoba",
+      "fr": "https://mondoexplora.com/fr/destination/córdoba",
+      "it": "https://mondoexplora.com/it/destination/córdoba"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-08-25",
+    "hotel_count": 1,
+    "average_price": 279,
+    "average_discount": 51
+  }
+}
