@@ -15,13 +15,22 @@
       "avg_price": 1293
     },
     {
+      "name": "Colombo",
+      "slug": "colombo",
+      "image": "https://images.luxuryescapes.com/pk0z2hgkgfhp31cb1nm",
+      "description": "Explore Colombo with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 412
+    },
+    {
       "name": "Kandy",
       "slug": "kandy",
       "image": "https://images.luxuryescapes.com/pvt6ytekdhc6y95lbze",
       "description": "Explore Kandy with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 975
+      "avg_price": 977
     },
     {
       "name": "Ahungalla",
@@ -30,7 +39,7 @@
       "description": "Explore Ahungalla with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 987
+      "avg_price": 989
     },
     {
       "name": "Bentota",
@@ -49,15 +58,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 444
-    },
-    {
-      "name": "Kosgoda",
-      "slug": "kosgoda",
-      "image": "https://images.luxuryescapes.com/q642uwra6e35t69f1y8g",
-      "description": "Explore Kosgoda with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 549
     }
   ],
   "seo": {
