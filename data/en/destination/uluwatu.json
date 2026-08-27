@@ -13,8 +13,8 @@
       "title": "Elevated Alila Uluwatu Private Pool Villas with Cliffside Cabana Bar & World-Class Spa",
       "description": "An unbeatable clifftop location and endless horizon panoramas await at this five-star escape, home to a refined collection of private pool villas offering sophisticated interiors and peaceful seclusion. Make your way to Spa Alila for a transcendent experience using ancient Asian healing techniques, or gaze out over the ocean from The Warung, the onsite restaurant inspired by traditional food stalls. When you're ready to descend from the heavenly clifftops and sink your toes into golden shores, the beach is accessible via an impressive exclusive stairway which hugs the cliffside.",
       "location_subheading": "Indonesia",
-      "price": 1792,
-      "original_price": 1792,
+      "price": 1791,
+      "original_price": 1791,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Cj3hJYAR",
       "hero_image": "https://images.luxuryescapes.com/3sn43yxnbsuq300owy",
@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Hideaway Villas Uluwatu",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Uluwatu",
+      "title": "Uluwatu Hillside Pool Villas with Daily Breakfast, Nightly Dinner & Daily Cocktails",
+      "description": "Trade Bali’s crowds for a peaceful hillside retreat at Hideaway Villas Bali - Uluwatu, where tropical jungle, private pools and panoramic views shape the stay. Set on the Bukit Peninsula, this secluded collection of villas brings you close to Uluwatu’s famous surf breaks, white-sand beaches and dramatic clifftop scenery, while offering a quiet place to return to each day. Start your sun-drenched mornings with a refreshing swim or sunrise yoga session, then refuel with a fresh, made-to-order breakfast at Base Restaurant. For a little extra indulgence, book a traditional Balinese treatment at Hideaway Wellness. When you’re ready to explore, head to nearby Uluwatu Temple, an ancient sea temple dating back to the 11th century and perched dramatically above the crashing waves of the Indian Ocean.",
+      "location_subheading": "Indonesia",
+      "price": 489,
+      "original_price": 978,
+      "discount_percentage": 50,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000c0uXNYAY",
+      "hero_image": "https://images.luxuryescapes.com/05yq206tp8seta2w5s0x",
+      "image_two": "https://images.luxuryescapes.com/u48q846glu4uz372lh",
+      "image_three": "https://images.luxuryescapes.com/tz4s7ogsvu9q8ubaaaee",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-10-06 12:59:00"
     },
     {
       "vendor_name": "Radisson Blu Bali Uluwatu",
@@ -59,24 +77,6 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Six Senses Bali",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Uluwatu",
-      "title": "Uluwatu Suite Escape with Spectacular Cliffside Pool",
-      "description": "Venture to the edge of the world, where every view is of the ocean and secluded luxury is a given: this is Six Senses Bali - a cliffside sanctuary perched on the southernmost tip of Bali, ranked among the top five hotels in Uluwatu on Tripadvisor. Here, a spectacular pool clings to the cliff's edge over three terraced levels, and watching the sun dip towards the glittering ocean is best enjoyed while sipping cocktails. Bali’s only World Green Council-certified resort, Six Senses Bali proudly focuses on recycling, composting and reusing, using sustainable architecture with contemporary Balinese touches. Relax at the blissful spa, rejuvenate your body and soul at the yoga and meditation pavilion, and indulge in farm-to-table sustainable dining at the resort’s two restaurants.",
-      "location_subheading": "Indonesia",
-      "price": 4971.5,
-      "original_price": 4971.5,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GrhRAAS",
-      "hero_image": "https://images.luxuryescapes.com/bzqcuzhu3drp1ri8f",
-      "image_two": "https://images.luxuryescapes.com/5f34ahga8hi7pbal2jek",
-      "image_three": "https://images.luxuryescapes.com/3kethdelrgat51toqxam",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -96,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-26",
+    "last_updated": "2026-08-27",
     "hotel_count": 4,
-    "average_price": 1992,
-    "average_discount": 17
+    "average_price": 872,
+    "average_discount": 29
   }
 }

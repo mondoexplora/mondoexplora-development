@@ -67,8 +67,8 @@
       "title": "Glamorous Amelia Island Beachfront Escape near Florida with Ten Onsite Restaurants & Nature-Inspired Spa",
       "description": "Discover oceanfront relaxation at this sprawling oasis, tucked away in Florida's famed Fernandina Beach on the vibrant Amelia Island. This stunning resort is home to a private beach, a nature-inspired spa, three lush golf courses, tennis courts and tempts with as many as ten onsite restaurants serving prime steaks, fresh seafood, surf-inspired pizzas and Floribbean delights. Overlooking the turquoise waters of the Atltanic Ocean, the expansive resort offers an idyllic tropical retreat, perfect for both family fun as well rekindling the romance. Dive into Northeast Florida's largest poolscape, enjoy the nautical-themed splash park, unwind in the adults-only infinity pool, and savor artisanal tacos and ice-cool drinks. With endless activities like tennis, watersports, trendy shopping, and beach exploration, get ready for an island adventure!",
       "location_subheading": "United States",
-      "price": 1002,
-      "original_price": 1002,
+      "price": 1001,
+      "original_price": 1001,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002HiHrIAK",
       "hero_image": "https://images.luxuryescapes.com/77ovjgljvdt7dzbqooyw",
@@ -121,8 +121,8 @@
       "title": "Boutique Orlando Florida Stay with Daily Breakfast, Heated Pool & Room Upgrade",
       "description": "Just a short stroll from Park Avenue, relish in the stylish boutique feel of The Alfond Inn at Rollins College, Winter Park's premier hotel. Blending warm hospitality with local care, the hotel donates all profits towards Rollins College Scholarships. Boasting 183 rooms, two pools, two fitness centres, and an onsite cafe, the hotel’s welcoming and modern interior invites you to set your own pace. Take advantage of prime location with a quick trip downtown, or stay in and dine on locally sourced, Southern fare with a modern twist at Hamilton’s Kitchen.",
       "location_subheading": "United States",
-      "price": 782,
-      "original_price": 782,
+      "price": 784,
+      "original_price": 784,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007lZP1AAM",
       "hero_image": "https://images.luxuryescapes.com/lvztb9vdkfzcg4eb48ke",
@@ -131,6 +131,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Elser Hotel Miami",
+      "offer_country_name": "United States",
+      "location_heading": "Florida",
+      "title": "Downtown Miami Modern One-, Two- and Three-Bedroom Suites with Rooftop Pool & Bar",
+      "description": "Soaring above Biscayne Bay, this contemporary all-suite escape places you in the heart of Downtown Miami. Step outside and you’re minutes from the Pérez Art Museum, the buzzing Bayside Marketplace and the Miami Heat’s Kaseya Center. Whether it’s Latin-inspired eats, fresh seafood, or big-name entertainment, everything you came to Miami for is right on your doorstep. Back at The Elser, sleek apartment-style suites with towering windows make the city skyline part of your stay. Cool off in the sprawling rooftop L-shaped pool, keep pace at the state-of-the-art gym, or grab a rooftop cocktail at The Elser Bay terrace as the city lights glitter below. When the night calls, head to the hotel's very own beach club on South Beach.",
+      "location_subheading": "United States",
+      "price": 315,
+      "original_price": 346,
+      "discount_percentage": 9,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000KCzFVYA1",
+      "hero_image": "https://images.luxuryescapes.com/awqp448lk9znlh52nth",
+      "image_two": "https://images.luxuryescapes.com/xjhd7ajrxjsgba0b1yfg",
+      "image_three": "https://images.luxuryescapes.com/diqu58tjbnkivxipnso",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -150,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-26",
-    "hotel_count": 7,
-    "average_price": 864,
-    "average_discount": 3
+    "last_updated": "2026-08-27",
+    "hotel_count": 8,
+    "average_price": 796,
+    "average_discount": 4
   }
 }

@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Broadbeach",
   "description": "Discover the best hotels in Broadbeach, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/6lpzsty5m2bvsim1xt6",
+  "hero_image": "https://images.luxuryescapes.com/m66k2l8wln50ckpdh7m",
   "hotels": [
+    {
+      "vendor_name": "Amaya Broadbeach",
+      "offer_country_name": "Australia",
+      "location_heading": "Broadbeach",
+      "title": "Queensland: Broadbeach Resort-Style Residences with Onsite Pool & Spa",
+      "description": "Set in the heart of Broadbeach, this contemporary stay places you moments from Kurrawa Beach and the dining precincts of Oracle Boulevard and The Oasis. Pacific Fair Shopping Centre and the Gold Coast Convention and Exhibition Centre are also close by, while the G:link light rail offers easy access to Surfers Paradise and Southport. Inside, expect sleek residences with kitchens, laundry facilities and private balconies. Guests can also make use of the outdoor pool, fitness centre and barbecue terrace, while nearby Mermaid Beach serves up relaxed cafés, seafood restaurants and late-night drinks.",
+      "location_subheading": "Australia",
+      "price": 701,
+      "original_price": 701,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000asazTYAQ",
+      "hero_image": "https://images.luxuryescapes.com/m66k2l8wln50ckpdh7m",
+      "image_two": "https://images.luxuryescapes.com/wsbid07lh3c7e4c10ud",
+      "image_three": "https://images.luxuryescapes.com/govj10m6pr5e1xrycju",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Amaya Broadbeach",
       "offer_country_name": "Australia",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 3,
       "end_date_utc": "2026-09-03 13:59:00"
-    },
-    {
-      "vendor_name": "Amaya Broadbeach",
-      "offer_country_name": "Australia",
-      "location_heading": "Broadbeach",
-      "title": "Queensland: Broadbeach Resort-Style Residences with Onsite Pool & Spa",
-      "description": "Set in the heart of Broadbeach, this contemporary stay places you moments from Kurrawa Beach and the dining precincts of Oracle Boulevard and The Oasis. Pacific Fair Shopping Centre and the Gold Coast Convention and Exhibition Centre are also close by, while the G:link light rail offers easy access to Surfers Paradise and Southport. Inside, expect sleek residences with kitchens, laundry facilities and private balconies. Guests can also make use of the outdoor pool, fitness centre and barbecue terrace, while nearby Mermaid Beach serves up relaxed cafés, seafood restaurants and late-night drinks.",
-      "location_subheading": "Australia",
-      "price": 595,
-      "original_price": 595,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000asazTYAQ",
-      "hero_image": "https://images.luxuryescapes.com/m66k2l8wln50ckpdh7m",
-      "image_two": "https://images.luxuryescapes.com/wsbid07lh3c7e4c10ud",
-      "image_three": "https://images.luxuryescapes.com/govj10m6pr5e1xrycju",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Mantra Broadbeach on the Park",
@@ -67,8 +67,8 @@
       "title": "Sky-High Oceanfront Broadbeach Apartment Stay with Two Serene Swimming Pools & In-House Theatre",
       "description": "Soar above the bustling heart of Broadbeach at this high-rise retreat, perfectly situated along the Gold Coast's pristine beaches. Soak up breathtaking ocean vistas from the comfort of your plush apartment, take a dip in the hotel's two sparkling pools or cosy up with a movie in the private theatre. Epic sunsets await at nearby Kurrawa and Mermaid Beach, while Queensland's largest shopping centre, Pacific Fair, is great for some retail therapy.",
       "location_subheading": "Australia",
-      "price": 345,
-      "original_price": 345,
+      "price": 346,
+      "original_price": 346,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000IdejIAAR",
       "hero_image": "https://images.luxuryescapes.com/vqaazdd6bcevnmmscn6c",
@@ -85,8 +85,8 @@
       "title": "Sparkling Broadbeach Suite Stay in Shopping & Dining Precinct with Pool, Sauna & Outdoor Spa",
       "description": "Embrace the easy-going glamour of the Gold Coast with a stay at Peppers Broadbeach. In the heart of Broadbeach's dining and shopping scene, just moments from the golden sands of Kurrawa Beach, this relaxing retreat offers stunning ocean views from each of the private balconies extending from the modern suites and apartments. Spend your days exploring the best local eats, spend an afternoon wandering the hotel's gardens, or take a dip in the pool followed by a sauna session.",
       "location_subheading": "Australia",
-      "price": 472,
-      "original_price": 472,
+      "price": 484,
+      "original_price": 484,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Gw9gLAAR",
       "hero_image": "https://images.luxuryescapes.com/qgd6g6ju1al7kwf92r5n",
@@ -150,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-26",
+    "last_updated": "2026-08-27",
     "hotel_count": 7,
-    "average_price": 2150,
+    "average_price": 2167,
     "average_discount": 11
   }
 }
