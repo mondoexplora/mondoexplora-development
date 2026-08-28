@@ -1,0 +1,50 @@
+{
+  "city": "Ulladulla",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Ulladulla",
+  "description": "Discover the best hotels in Ulladulla, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/6t1opgbkhriaqeo3fam",
+  "hotels": [
+    {
+      "vendor_name": "Cupitt's Estate",
+      "offer_country_name": "Australia",
+      "location_heading": "Ulladulla",
+      "title": "Boutique NSW South Coast Vineyard Villas with Gourmet Breakfast Hamper & Wine Tasting Experience",
+      "description": "Indulge your inner wine connoisseur with a stay at a boutique, family-run winery set amid gently undulating hills on the New South Wales South Coast. Surrounded by rows of vines, this romantic hideaway is home to just 10 architecturally designed villas, featuring modern-yet-cosy features that allow guests to reconnect with nature. Dine on farm-to-table fare at the onsite restaurant and sample award-winning, cool-climate wines from the cellar door before returning to your private villa. Enjoy outstanding service and superb elegance as days are spent exploring the lush grounds, tasting gourmet food and fine wines, or simply relaxing on your private terrace overlooking the eucalypt tree line. The wines are inspired by the winemaking of Southern Europe, vineyards of Southern New South Wales and lifestyle of the South Coast.",
+      "location_subheading": "Australia",
+      "price": 369,
+      "original_price": 802,
+      "discount_percentage": 54,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000cQC2rYAG",
+      "hero_image": "https://images.luxuryescapes.com/6t1opgbkhriaqeo3fam",
+      "image_two": "https://images.luxuryescapes.com/8alir7rxitczulq4ei1p7",
+      "image_three": "https://images.luxuryescapes.com/aiva6pg3apvqrp31c11p",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-10-08 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Ulladulla - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Ulladulla, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "ulladulla hotels",
+      "ulladulla travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/ulladulla",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/ulladulla",
+      "es": "https://mondoexplora.com/es/destination/ulladulla",
+      "fr": "https://mondoexplora.com/fr/destination/ulladulla",
+      "it": "https://mondoexplora.com/it/destination/ulladulla"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-08-28",
+    "hotel_count": 1,
+    "average_price": 369,
+    "average_discount": 54
+  }
+}

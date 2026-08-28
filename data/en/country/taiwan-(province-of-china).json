@@ -33,13 +33,22 @@
       "avg_price": 872
     },
     {
+      "name": "TAIPEI",
+      "slug": "taipei",
+      "image": "https://images.luxuryescapes.com/1m1mxaqxl1dflw3h18yg",
+      "description": "Explore TAIPEI with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 781
+    },
+    {
       "name": "Taipei City",
       "slug": "taipei-city",
       "image": "https://images.luxuryescapes.com/bwra7naogpn7mu10mnzp",
       "description": "Explore Taipei City with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 578
+      "avg_price": 579
     },
     {
       "name": "Taoyuan",

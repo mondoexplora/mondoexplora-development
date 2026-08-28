@@ -5,8 +5,8 @@
   "destination_country": "Thailand",
   "transport_modes": {
     "flight": {
-      "duration": "2h 30m",
-      "price_range": "$95 - $220",
+      "duration": "2h 15m",
+      "price_range": "$120 - $350",
       "providers": [
         "Skyscanner",
         "Kayak",
@@ -14,8 +14,8 @@
       ]
     },
     "train": {
-      "duration": "4h 45m",
-      "price_range": "$45 - $120",
+      "duration": "2h 30m",
+      "price_range": "$80 - $200",
       "providers": [
         "Rail Europe",
         "Eurail",
@@ -23,8 +23,8 @@
       ]
     },
     "bus": {
-      "duration": "4h 55m",
-      "price_range": "$30 - $75",
+      "duration": "7h 20m",
+      "price_range": "$25 - $60",
       "providers": [
         "FlixBus",
         "Greyhound",
@@ -32,8 +32,8 @@
       ]
     },
     "car": {
-      "duration": "3h 55m",
-      "distance": "380 km",
+      "duration": "5h 45m",
+      "distance": "350 km",
       "price_range": "$60 - $140"
     }
   },

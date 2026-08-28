@@ -61,6 +61,24 @@
       "end_date_utc": "2026-12-31 01:59:00"
     },
     {
+      "vendor_name": "Hyatt Regency Vienna",
+      "offer_country_name": "Austria",
+      "location_heading": "Vienna",
+      "title": "Sophisticated Vienna Stay by Hyatt Regency in the Heart of the City",
+      "description": "Set on Vienna’s leafy Ringstrasse, Hyatt Regency Vienna places you near the Danube Canal and the elegant boutiques of the Goldenes Quartier. The city’s historic centre, St Stephen’s Cathedral and the MuseumsQuartier are all within easy reach. Return to a sleek base with floor-to-ceiling windows, a 24-hour fitness centre and the Club Lounge. The on-site restaurant serves Austrian and international dishes, while nearby Prater and the Naschmarkt offer classic Viennese fare and lively market stalls",
+      "location_subheading": "Austria",
+      "price": 448,
+      "original_price": 448,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z99bPYAR",
+      "hero_image": "https://images.luxuryescapes.com/cv0b1u9plnxflzv4okf",
+      "image_two": "https://images.luxuryescapes.com/fgw0u865lohmzkvpfulg",
+      "image_three": "https://images.luxuryescapes.com/o5fcol01hga2eg3sfdnr",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
+    },
+    {
       "vendor_name": "Intercontinental Vienna",
       "offer_country_name": "Austria",
       "location_heading": "Vienna",
@@ -121,8 +139,8 @@
       "title": "Charming Vienna Haven near Historic Prater Amusement Park",
       "description": "For a delightful escape blending modernity and Viennese charm, plus a touch of whimsy, head to voco Vienna Prater, an IHG Hotel, an urban stay located just a five-minute drive from one of Europe's oldest amusement parks - Prater. After a day spent atop the Ferris wheel or admiring the perfectly preserved attractions of Prater, head back to the hotel for a classic cocktail at the onsite Bluebird Bar or a hearty meal at Vienna Vibe restaurant.",
       "location_subheading": "Austria",
-      "price": 282,
-      "original_price": 282,
+      "price": 283,
+      "original_price": 283,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNREIAA5",
       "hero_image": "https://images.luxuryescapes.com/s1agq9hu8njqik6q3quh",
@@ -150,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-27",
-    "hotel_count": 7,
-    "average_price": 412,
-    "average_discount": 6
+    "last_updated": "2026-08-28",
+    "hotel_count": 8,
+    "average_price": 416,
+    "average_discount": 5
   }
 }
