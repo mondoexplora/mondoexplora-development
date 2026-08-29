@@ -1,0 +1,130 @@
+# MondoExplora — Project Guide
+
+Travel affiliate site (https://mondoexplora.com). Revenue comes from outbound
+clicks to partners (primarily Luxury Escapes). Content is pre-generated static
+HTML; there is no runtime backend except a few Netlify Functions.
+
+## Stack & deploy
+
+- **Next.js 15 App Router**, TypeScript, Tailwind CSS **v3.4.0** (v4 broke the
+  build via `lightningcss` — do not upgrade without a plan).
+- `output: 'export'`, `distDir: 'out'`, `trailingSlash: true`. Everything is
+  static export: **no middleware, no SSR, no route handlers.** Every dynamic
+  segment needs `generateStaticParams()`.
+- **Netlify** builds `npm run build` and publishes `out/`. Functions live in
+  `netlify/functions/`.
+- Repo: `mondoexplora/mondoexplora-development`. Production branch: **`main`**.
+- Data refresh: GitHub Action (~9am Spain) pulls a Channable CSV →
+  `scripts/data-processor.js` → writes `data/**` → commits → Netlify rebuilds.
+
+## Layout
+
+```
+src/app/[lang]/          page.tsx, home, destination/[city], country/[country],
+                         route/[origin]/[destination], travel_modes/... (stub),
+                         article/[slug], privacy
+src/lib/                 data.ts, i18n.ts, geo-seo.ts, regional-data.ts,
+                         trackingManager.ts, trackingBackend.ts,
+                         trackingSnapshot.ts, mxSession.ts
+src/components/          Hero, HotelCard, HotelGrid, RouteCTA, Footer,
+                         ConsentInitializer, PrivacyConsentBox,
+                         TrackingBootstrap, StructuredData, ...
+netlify/functions/       tracking-{visit,outbound-click,health}.js,
+                         _tracking-shared.js, {country,destination,route}.js
+data/<lang>/{destination,country,route}/*.json
+config/routes.json       drives route + travel_modes generateStaticParams
+supabase/migrations/     20260503000000_tracking_mvp.sql
+```
+
+## Languages — known inconsistency
+
+`SUPPORTED_LANGUAGES = ['en','de','fr','es','it','pt']` (`src/lib/i18n.ts:1`),
+and `netlify.toml` redirects all six. But `data/` only contains **en, es, fr,
+it**. `de` and `pt` are wired up with no content behind them. Check this before
+assuming a language works end to end.
+
+## Tracking & attribution (the active workstream)
+
+Chain: **Ads/organic → visit → clickout → conversion → offline conversion upload.**
+
+- One `visits` row per `session_id` (idempotent `POST`). Many `outbound_clicks`
+  per visit — **one unique `sub_id` per clickout**, never reused.
+- `sub_id` is appended to the partner URL as a query param
+  (`withSubIdParam()` in `_tracking-shared.js:62`, name from
+  `TRACKING_SUB_ID_PARAM`, e.g. `mx_sub`). Impact returns it on the conversion
+  report → exact 1:1 match back to the clickout row → read `gclid` /
+  `gbraid` / `wbraid` / `fbc` / `fbp` off *that row* → upload offline
+  conversions to Google/Meta.
+- Popunders are ordinary clickouts with `placement="popunder"`.
+- **Consent-gated**: if consent is declined, ad identifiers are not persisted.
+  `ConsentInitializer` / `PrivacyConsentBox` emit `mx-consent-changed` so the
+  visit re-syncs. `sub_id` still links the commercial conversion, but there may
+  be no usable `gclid`.
+- Endpoints (via `netlify.toml` redirects, declared **before** the language
+  splats so `/api/*` isn't swallowed):
+  `POST /api/tracking/visit`, `POST /api/tracking/outbound-click`,
+  `GET /api/tracking/health` → `{"ok":true,"supabase":"ok"}` when healthy.
+
+Env vars — server: `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`,
+`TRACKING_ALLOW_ORIGIN`, `TRACKING_SUB_ID_PARAM`. Browser:
+`NEXT_PUBLIC_TRACKING_API_BASE` (empty in prod = same origin),
+`NEXT_PUBLIC_TRACKING_ENABLED` (`0` disables).
+
+Full spec and ops runbook: `TRACKING_BACKEND_SPEC.md`.
+
+### Supabase gotcha
+
+`SUPABASE_SERVICE_ROLE_KEY` must be the **service_role JWT** (long `eyJ…` from
+"Legacy anon / service_role API keys") — *not* the JWT signing secret, *not* the
+anon key. The JWT's `ref` claim must match the `<project-ref>` in
+`SUPABASE_URL`. On `permission denied for table visits`, check those two first,
+redeploy, then fall back to explicit `GRANT`s (see the runbook §6).
+
+## Open questions
+
+- **Affiliate network mismatch.** Hotel links from the CSV are **ShareASale**
+  (`luxuryescapes.sjv.io`, affiliate `1991376`), not Impact — but the tracking
+  backend assumes Impact conversion reports return `sub_id`. Unresolved; see
+  `AFFILIATE_TRACKING_AUDIT.md`. This decides whether `sub_id` ever comes back.
+- Google Search Console verification is placeholder text in
+  `src/app/layout.tsx`; DNS TXT verification was in progress.
+
+## Repo hygiene — read before running git
+
+`.gitignore` was broken for a long time (every pattern was wrapped in literal
+quotes, matching nothing). It is fixed now, **but the damage is already
+committed**: `node_modules/` (~19k files), `.next/` (~3.6k) and `out/` are
+tracked. `git status` and diffs are consequently full of build artifacts.
+
+Untracking them (`git rm -r --cached`) is a ~23k-file commit and has not been
+done — **ask before doing it.** Until then, ignore build-artifact churn in
+`git status`; it is not part of any change you make.
+
+## Documentation status
+
+`TRACKING_BACKEND_SPEC.md` is current and accurate — trust it.
+
+These are **stale or aspirational** — do not treat as current:
+- `Infraestructura.md` — describes Pages Router, BigQuery, Sentry, weather/
+  currency APIs. None of that exists. It's a plan, not a description.
+- `SEO_OPTIMIZATION_SUMMARY.md` — the "+40% traffic" figures are projections.
+- `PAGES_DETAILS.md`, `ESTADO_PROYECTO.md` — name wrong deploy branches
+  (`spa-experiment`, `development`) and only four languages.
+- `README_BLOG.md`, `README_CONTENT_CREATOR_ADMIN.md`, `README_COUNTRY_PAGES.md`,
+  `README_ROUTES.md`, `README_CSV_ROUTES.md`, `README_DETAILED_RESEARCH.md` —
+  all describe the retired Flask prototype (`python3 server.py`, port 5000).
+- `HOW_MONDOEXPLORA_WORKS.md` — empty (0 bytes).
+
+**Secrets committed in docs** (both in git history, rotation not just deletion):
+a live Google Maps API key at `README_GOOGLE_MAPS_INTEGRATION.md:46`, and
+`admin`/`admin123` at `README_CONTENT_CREATOR_ADMIN.md:15`.
+
+## Conventions
+
+- Cast language params: `lang as SupportedLanguage`.
+- Types live in `src/types/index.ts`. Hotel discount field is
+  `original_price`, not `value`.
+- Event handlers can't cross the server/client boundary — wrap in a client
+  component (see `DestinationImage.tsx`, `RouteCTA.tsx`).
+- Verify with `npm run build` before committing; static export fails loudly on
+  a missing `generateStaticParams()`.

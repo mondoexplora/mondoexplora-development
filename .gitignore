@@ -1,10 +1,9 @@
-"node_modules/" 
-".next/" 
-"out/" 
-".env" 
-"*.log" 
-"out/" 
-
+node_modules/
+.next/
+out/
+.env
+.env.local
+*.log
 
 # Next.js SWC binary files (too large for GitHub)
 node_modules/@next/swc-*/next-swc.*.node
