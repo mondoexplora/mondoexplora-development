@@ -85,8 +85,8 @@
       "title": "Boutique-Style Amsterdam Luxury with Ultra-Cool Cocktail Bar",
       "description": "Stay among the charming canals and whizzing bicycles of Amsterdam at Kimpton De Witt Hotel, a sophisticated hotel in the heart of the city. While you're here, dine at Celia, a modern American restaurant with a touch of Californian flavours found in its menu. For a tipple or two amid ultra-cool surroundings, Super Lyan is a casual cocktail bar with the works: a central circular bar, neon purple lighting and red leather booths - not to mention expertly shaken cocktails by resident mixologists.",
       "location_subheading": "Netherlands",
-      "price": 415,
-      "original_price": 415,
+      "price": 397,
+      "original_price": 397,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CP3PNAA1",
       "hero_image": "https://images.luxuryescapes.com/zw1qj7rq8b1nf6rwtqg",
@@ -95,6 +95,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mandarin Oriental Conservatorium, Amsterdam",
+      "offer_country_name": "Netherlands",
+      "location_heading": "Amsterdam",
+      "title": "Historic Mandarin Oriental in Amsterdam Museum Quarter with Award-Winning Spa",
+      "description": "Land in the cultural heart of Amsterdam at a heritage hotel blending historic architecture with contemporary design, just steps from the Van Gogh Museum, Rijksmuseum and more. Choose to dine-in at Ottolenghi, the celebrity chef's first dutch establishment, or settle into The Lounge for pastries, bites and afternoon tea. Retreat to Akasha Spa for holistic treatments, an 18-metre pool, hammam and fitness centre, or enjoy the calm of your beautifully designed room or suite. With elegant spaces echoing the building’s musical past, this is Amsterdam at its most cultured and considered.",
+      "location_subheading": "Netherlands",
+      "price": 1933,
+      "original_price": 1933,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000dNm3uYAC",
+      "hero_image": "https://images.luxuryescapes.com/c4vf94hd0jl83543va2a",
+      "image_two": "https://images.luxuryescapes.com/o876xywcxrawk3juv65",
+      "image_three": "https://images.luxuryescapes.com/pckjdc646hgz8yn9m7i",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Pulitzer Amsterdam",
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-28",
-    "hotel_count": 6,
-    "average_price": 678,
-    "average_discount": 4
+    "last_updated": "2026-08-29",
+    "hotel_count": 7,
+    "average_price": 855,
+    "average_discount": 3
   }
 }

@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Flinders Ranges",
   "description": "Discover the best hotels in Flinders Ranges, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/gvj7u2tvsk1iygr4kwur",
+  "hero_image": "https://images.luxuryescapes.com/pbinjb25h0omtmfuyq",
   "hotels": [
+    {
+      "vendor_name": "Arkaba by Wild Bush Luxury",
+      "offer_country_name": "Australia",
+      "location_heading": "Flinders Ranges",
+      "title": "Flinders Ranges Adults-Only All-Inclusive Romance with Unlimited Free-Flow Drinks & Guided Safaris",
+      "description": "Nestled in South Australia’s awe-inspiring Flinders Ranges is Arkaba Homestead, a reinvigorated 1850s farmhouse that blends timeless charm with sophistication. With just four lavish rooms inside the main homestead building, all with access to the sweeping verandah, this adults-only haven is an authentic outback experience with endless privacy and a generous touch of comfort. Guests dine together at the long table on hearty, locally sourced menus, where conversations come as easily as the Shiraz. Bush sundowners and campfire nights add a rare kind of sparkle - don’t miss the stargazing with almost zero light pollution. Set in the heart of a 60,000-acre wildlife conservancy, the rugged ranges give way to ancient riverbeds and native wildlife wanders just beyond the verandah.",
+      "location_subheading": "Australia",
+      "price": 1429,
+      "original_price": 2696,
+      "discount_percentage": 47,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000bVjV2YAK",
+      "hero_image": "https://images.luxuryescapes.com/pbinjb25h0omtmfuyq",
+      "image_two": "https://images.luxuryescapes.com/5ctgo400efslrgp0anmc",
+      "image_three": "https://images.luxuryescapes.com/irok143z1y51u1j8w5n",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-09-25 13:59:00"
+    },
     {
       "vendor_name": "Rawnsley Park Station",
       "offer_country_name": "Australia",
@@ -13,8 +31,8 @@
       "title": "Flinders Ranges Eco-Luxury near Wilpena Pound",
       "description": "Experience the majesty of South Australia’s rugged outback with a stay at Rawnsley Park Station - an eco-luxury property at the foot of stunning Wilpena Pound. A hugely significant Indigenous cultural site, this magnificent natural amphitheatre is the centrepiece of Ikara-Flinders Ranges National Park and the backdrop for this unique outback retreat. Soak up the breathtaking beauty of the ancient landscape as you enjoy the incredible onsite facilities of this working sheep farm, including a woolshed-turned-renowned-restaurant and a refreshing swimming pool with unparalleled views. Rawnsley Park Station is the perfect destination to embrace the rugged beauty of the outback and separate yourself from hectic city life. From hikes through Wilpena Pound and along the Brachina Gorge Geological Trail to admiring significant sites such as Arkaroo Rock, Bunyeroo Gorge and Sacred Canyon - the possibilities for exploration are endless. With miles upon miles of sprawling terrain at your disposal, days here will be filled with incredible adventures and nights will be spent admiring the outback's starry skies.",
       "location_subheading": "Australia",
-      "price": 406,
-      "original_price": 534,
+      "price": 407,
+      "original_price": 536,
       "discount_percentage": 24,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004TvtcAAC",
       "hero_image": "https://images.luxuryescapes.com/gvj7u2tvsk1iygr4kwur",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-28",
-    "hotel_count": 1,
-    "average_price": 406,
-    "average_discount": 24
+    "last_updated": "2026-08-29",
+    "hotel_count": 2,
+    "average_price": 918,
+    "average_discount": 36
   }
 }

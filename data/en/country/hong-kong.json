@@ -12,7 +12,7 @@
       "description": "Explore Hong Kong with luxury accommodations",
       "hotel_count": 13,
       "hotel_deals": 13,
-      "avg_price": 724
+      "avg_price": 721
     },
     {
       "name": "Kowloon",
@@ -21,7 +21,7 @@
       "description": "Explore Kowloon with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 545
+      "avg_price": 557
     },
     {
       "name": "Hong Kong Island",
@@ -30,7 +30,7 @@
       "description": "Explore Hong Kong Island with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 649
+      "avg_price": 657
     },
     {
       "name": "Tsim Sha Tsui",
@@ -39,7 +39,7 @@
       "description": "Explore Tsim Sha Tsui with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 494
+      "avg_price": 431
     },
     {
       "name": "Central",
@@ -48,16 +48,16 @@
       "description": "Explore Central with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1269
+      "avg_price": 1229
     },
     {
       "name": "Hung Hom Bay",
       "slug": "hung-hom-bay",
-      "image": "https://images.luxuryescapes.com/r00w59d6px8w8tpkmxj",
+      "image": "https://images.luxuryescapes.com/z8gma4zv6cgyq9h0gmt",
       "description": "Explore Hung Hom Bay with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 643
+      "avg_price": 649
     }
   ],
   "seo": {

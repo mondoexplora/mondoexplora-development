@@ -4,8 +4,26 @@
   "country_code": "ID",
   "hero_title": "Hotels in Legian",
   "description": "Discover the best hotels in Legian, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/q6ur4jx3y5eejrvtvwok",
+  "hero_image": "https://images.luxuryescapes.com/i5uwsfxel5o8ksmbzsjg",
   "hotels": [
+    {
+      "vendor_name": "Anantara Vacation Club Legian",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Legian",
+      "title": "Serene Legian Beachside Hideaway near Double Six Beach with Outdoor Pool & Spa",
+      "description": "Escape to the serene beauty of Bali's Legian area, just moments from the lively and iconic Double Six Beach, offering the perfect blend of relaxation and adventure. Spend your days lounging beneath lush tropical trees, swimming in the dazzling pool or strolling down to the beach to watch the stunning sunset over Bali's most renowned coastline. Savour a romantic poolside dining experience or explore authentic Balinese cuisine by visiting nearby vibrant markets and eateries in Seminyak. For pure rejuvination, visit Hideaway Spa, where tranquil treatments like couples massages and soothing jacuzzis await.",
+      "location_subheading": "Indonesia",
+      "price": 796,
+      "original_price": 796,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GXKefYAH",
+      "hero_image": "https://images.luxuryescapes.com/i5uwsfxel5o8ksmbzsjg",
+      "image_two": "https://images.luxuryescapes.com/o2lo5q8h7lrtdumoas3",
+      "image_three": "https://images.luxuryescapes.com/640ylltfnpemahm3jwi",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Anantara Vacation Club Legian",
       "offer_country_name": "Indonesia",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 5,
       "end_date_utc": "2026-10-03 13:59:00"
-    },
-    {
-      "vendor_name": "Anantara Vacation Club Legian",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Legian",
-      "title": "Serene Legian Beachside Hideaway near Double Six Beach with Outdoor Pool & Spa",
-      "description": "Escape to the serene beauty of Bali's Legian area, just moments from the lively and iconic Double Six Beach, offering the perfect blend of relaxation and adventure. Spend your days lounging beneath lush tropical trees, swimming in the dazzling pool or strolling down to the beach to watch the stunning sunset over Bali's most renowned coastline. Savour a romantic poolside dining experience or explore authentic Balinese cuisine by visiting nearby vibrant markets and eateries in Seminyak. For pure rejuvination, visit Hideaway Spa, where tranquil treatments like couples massages and soothing jacuzzis await.",
-      "location_subheading": "Indonesia",
-      "price": 795,
-      "original_price": 795,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000GXKefYAH",
-      "hero_image": "https://images.luxuryescapes.com/i5uwsfxel5o8ksmbzsjg",
-      "image_two": "https://images.luxuryescapes.com/o2lo5q8h7lrtdumoas3",
-      "image_three": "https://images.luxuryescapes.com/640ylltfnpemahm3jwi",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Mercure Bali Legian",
@@ -114,7 +114,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-28",
+    "last_updated": "2026-08-29",
     "hotel_count": 5,
     "average_price": 377,
     "average_discount": 11
