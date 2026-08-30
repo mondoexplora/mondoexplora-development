@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import Footer from '@/components/Footer';
 import StructuredData from '@/components/StructuredData';
 import ExperienceCard from '@/components/experiences/ExperienceCard';
+import FilterableTiles from '@/components/experiences/FilterableTiles';
 import {
   getActivities,
   getCountries,
@@ -110,47 +111,30 @@ export default async function CountryExperiencesPage({ params }: PageProps) {
         <div className="exp-sec-head">
           <h2>Regions</h2>
           <p>
-            Ordered by how many guided trips run there. Region names come from the
-            operator feed.
+            Ordered by how many guided trips run there. Filter by activity to see
+            only the regions where it runs.
           </p>
         </div>
-        <div className="exp-tiles">
-          {shownRegions.map((r) => (
-            <Link
-              key={r.slug}
-              href={`/${lang}/experiences/${r.countrySlug}/${r.slug}/`}
-              className="exp-tile"
-            >
-              <span className="stackable">
-                <h3>{r.name}</h3>
-                <span className="count">
-                  <strong>{r.count}</strong> experiences · from €{r.minPriceEur}
-                </span>
-                <span className="sub">{r.topActivities.join(' · ')}</span>
-              </span>
-            </Link>
-          ))}
-        </div>
+        <FilterableTiles
+          tiles={shownRegions.map((r) => ({
+            key: r.slug,
+            href: `/${lang}/experiences/${r.countrySlug}/${r.slug}/`,
+            title: r.name,
+            metaCount: r.count,
+            metaSuffix: `experiences · from €${r.minPriceEur}`,
+            sub: r.topActivities.join(' · '),
+            activityCounts: r.activityCounts,
+          }))}
+          activities={activities}
+          allLabel="All regions"
+          allCount={shownRegions.length}
+        />
         {regions.length > REGIONS_SHOWN && (
           <p style={{ fontSize: 13, color: '#9ca3af', marginTop: '1.5rem' }}>
             Showing the {REGIONS_SHOWN} largest of {regions.length} regions in{' '}
             {data.name}.
           </p>
         )}
-      </div>
-
-      <div className="exp-wrap exp-sec">
-        <div className="exp-sec-head">
-          <h2>What people do in {data.name}</h2>
-          <p>Jump straight to an activity across every region.</p>
-        </div>
-        <div className="exp-chips">
-          {activities.slice(0, 12).map((a) => (
-            <span key={a.name} className="exp-chip">
-              {a.name} <span className="n">{a.count}</span>
-            </span>
-          ))}
-        </div>
       </div>
 
       {popular.length > 0 && (

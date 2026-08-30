@@ -3,7 +3,7 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Footer from '@/components/Footer';
 import StructuredData from '@/components/StructuredData';
-import ExperienceCard from '@/components/experiences/ExperienceCard';
+import FilterableExperiences from '@/components/experiences/FilterableExperiences';
 import {
   getActivities,
   getExperiencesInRegion,
@@ -118,25 +118,11 @@ export default async function RegionExperiencesPage({ params }: PageProps) {
       </div>
 
       <div className="exp-wrap exp-sec">
-        <div className="exp-chips" style={{ marginBottom: '2rem' }}>
-          <span className="exp-chip on">All {data.count}</span>
-          {activities.slice(0, 6).map((a) => (
-            <span key={a.name} className="exp-chip">
-              {a.name} <span className="n">{a.count}</span>
-            </span>
-          ))}
-        </div>
-
-        <div className="exp-grid">
-          {experiences.map((e) => (
-            <ExperienceCard
-              key={e.id}
-              experience={e}
-              lang={lang}
-              showRegion={false}
-            />
-          ))}
-        </div>
+        <FilterableExperiences
+          experiences={experiences}
+          activities={activities}
+          lang={lang}
+        />
       </div>
 
       {gateways.length > 0 && (

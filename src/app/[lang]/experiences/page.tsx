@@ -3,6 +3,7 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Footer from '@/components/Footer';
 import StructuredData from '@/components/StructuredData';
+import FilterableTiles from '@/components/experiences/FilterableTiles';
 import {
   getActivities,
   getCountries,
@@ -95,43 +96,26 @@ export default async function ExperiencesHubPage({ params }: PageProps) {
 
       <div className="exp-wrap exp-sec">
         <div className="exp-sec-head">
-          <h2>Browse by activity</h2>
+          <h2>Experiences by country</h2>
           <p>
-            {totals.activities} activity types, from half-day canyoning to
-            multi-week expeditions.
+            {totals.activities} activity types across {totals.countries}{' '}
+            countries. Filter by activity, then pick a country to see its regions.
           </p>
         </div>
-        <div className="exp-chips">
-          {featuredActivities.map((a) => (
-            <span key={a.name} className="exp-chip">
-              {a.name} <span className="n">{a.count.toLocaleString('en-GB')}</span>
-            </span>
-          ))}
-        </div>
-      </div>
-
-      <div className="exp-wrap exp-sec">
-        <div className="exp-sec-head">
-          <h2>Experiences by country</h2>
-          <p>Pick a country to see its regions, then drill down to the trips.</p>
-        </div>
-        <div className="exp-tiles">
-          {featuredCountries.map((c) => (
-            <Link
-              key={c.slug}
-              href={`/${lang}/experiences/${c.slug}/`}
-              className="exp-tile"
-            >
-              <span className="stackable">
-                <h3>{c.name}</h3>
-                <span className="count">
-                  <strong>{c.count}</strong> experiences · {c.regionCount} regions
-                </span>
-                <span className="sub">{c.topRegions.join(' · ')}</span>
-              </span>
-            </Link>
-          ))}
-        </div>
+        <FilterableTiles
+          tiles={featuredCountries.map((c) => ({
+            key: c.slug,
+            href: `/${lang}/experiences/${c.slug}/`,
+            title: c.name,
+            metaCount: c.count,
+            metaSuffix: `experiences · ${c.regionCount} regions`,
+            sub: c.topRegions.join(' · '),
+            activityCounts: c.activityCounts,
+          }))}
+          activities={featuredActivities}
+          allLabel="All countries"
+          allCount={featuredCountries.length}
+        />
         {countries.length > featuredCountries.length && (
           <div style={{ marginTop: '1.5rem' }}>
             <span style={{ fontSize: 13, color: '#9ca3af' }}>

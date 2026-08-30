@@ -55,6 +55,8 @@ export interface RegionSummary {
   count: number;
   minPriceEur: number;
   topActivities: string[];
+  /** Activity -> number of experiences, so a filter can show a real count. */
+  activityCounts: Record<string, number>;
   coverPhoto: string;
 }
 
@@ -66,6 +68,8 @@ export interface CountrySummary {
   activityCount: number;
   minPriceEur: number;
   topRegions: string[];
+  /** Activity -> number of experiences, so a filter can show a real count. */
+  activityCounts: Record<string, number>;
   coverPhoto: string;
 }
 
@@ -370,10 +374,14 @@ export async function getExperience(
   );
 }
 
+function countBy(values: string[]): Record<string, number> {
+  const counts: Record<string, number> = {};
+  for (const v of values) counts[v] = (counts[v] ?? 0) + 1;
+  return counts;
+}
+
 function topCounted(values: string[], n: number): string[] {
-  const counts = new Map<string, number>();
-  for (const v of values) counts.set(v, (counts.get(v) ?? 0) + 1);
-  return [...counts.entries()]
+  return Object.entries(countBy(values))
     .sort((a, b) => b[1] - a[1])
     .slice(0, n)
     .map(([k]) => k);
@@ -399,6 +407,7 @@ export async function getCountries(): Promise<CountrySummary[]> {
         list.map((e) => e.region),
         3
       ),
+      activityCounts: countBy(list.map((e) => e.activity)),
       coverPhoto: list[0].mainPhoto,
     }))
     .sort((a, b) => b.count - a.count);
@@ -435,6 +444,7 @@ export async function getRegions(countrySlug?: string): Promise<RegionSummary[]>
         list.map((e) => e.activity),
         3
       ),
+      activityCounts: countBy(list.map((e) => e.activity)),
       coverPhoto: list[0].mainPhoto,
     }))
     .sort((a, b) => b.count - a.count);
