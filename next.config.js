@@ -18,6 +18,12 @@ const nextConfig = {
         port: '',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'assets.explore-share.com',
+        port: '',
+        pathname: '/**',
+      },
     ],
   },
   // Performance optimizations

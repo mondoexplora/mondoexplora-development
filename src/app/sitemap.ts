@@ -4,7 +4,7 @@ export const dynamic = 'force-static';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = 'https://mondoexplora.com';
-  const languages = ['en', 'es', 'fr', 'it'];
+  const languages = ['en', 'de', 'fr', 'es', 'it', 'pt'];
   
   // Static pages
   const staticPages: MetadataRoute.Sitemap = [
@@ -25,9 +25,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     alternates: {
       languages: {
         en: `${baseUrl}/en`,
-        es: `${baseUrl}/es`,
+        de: `${baseUrl}/de`,
         fr: `${baseUrl}/fr`,
+        es: `${baseUrl}/es`,
         it: `${baseUrl}/it`,
+        pt: `${baseUrl}/pt`,
       }
     }
   }));
@@ -53,9 +55,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         alternates: {
           languages: {
             en: `${baseUrl}/en/destination/${destination}`,
-            es: `${baseUrl}/es/destination/${destination}`,
+            de: `${baseUrl}/de/destination/${destination}`,
             fr: `${baseUrl}/fr/destination/${destination}`,
+            es: `${baseUrl}/es/destination/${destination}`,
             it: `${baseUrl}/it/destination/${destination}`,
+            pt: `${baseUrl}/pt/destination/${destination}`,
           }
         }
       }))
@@ -85,9 +89,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         alternates: {
           languages: {
             en: `${baseUrl}/en/country/${country}`,
-            es: `${baseUrl}/es/country/${country}`,
+            de: `${baseUrl}/de/country/${country}`,
             fr: `${baseUrl}/fr/country/${country}`,
+            es: `${baseUrl}/es/country/${country}`,
             it: `${baseUrl}/it/country/${country}`,
+            pt: `${baseUrl}/pt/country/${country}`,
           }
         }
       }))
@@ -126,11 +132,56 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     console.error('Error reading routes config:', error);
   }
 
+  // Dynamic pages - experiences (English only: the feed is not translated yet)
+  let experiencePages: MetadataRoute.Sitemap = [];
+  try {
+    const { getAllExperiences, getCountries, getRegions } = await import(
+      '@/lib/experiences'
+    );
+    const { EXPERIENCE_LANGUAGES } = await import('@/lib/experienceLanguages');
+
+    const [experiences, countries, regions] = await Promise.all([
+      getAllExperiences(),
+      getCountries(),
+      getRegions(),
+    ]);
+
+    experiencePages = EXPERIENCE_LANGUAGES.flatMap((lang) => [
+      {
+        url: `${baseUrl}/${lang}/experiences/`,
+        lastModified: new Date(),
+        changeFrequency: 'daily' as const,
+        priority: 0.9,
+      },
+      ...countries.map((c) => ({
+        url: `${baseUrl}/${lang}/experiences/${c.slug}/`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly' as const,
+        priority: 0.8,
+      })),
+      ...regions.map((r) => ({
+        url: `${baseUrl}/${lang}/experiences/${r.countrySlug}/${r.slug}/`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly' as const,
+        priority: 0.7,
+      })),
+      ...experiences.map((e) => ({
+        url: `${baseUrl}/${lang}/experiences/${e.countrySlug}/${e.regionSlug}/${e.slug}/`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly' as const,
+        priority: 0.6,
+      })),
+    ]);
+  } catch (error) {
+    console.error('Error building experience sitemap entries:', error);
+  }
+
   return [
     ...staticPages,
     ...languagePages,
     ...destinationPages,
     ...countryPages,
     ...routePages,
+    ...experiencePages,
   ];
 }

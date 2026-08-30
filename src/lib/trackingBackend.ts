@@ -144,12 +144,24 @@ export type OutboundPlacement =
   | 'hotel_card'
   | 'route_cta_affiliate'
   | 'popunder'
+  | 'experience_book'
+  | 'experience_card'
+  | 'gateway_city'
   | 'other';
 
 /** Register outbound click; returns URL with tracking param (or original on failure). */
 export async function appendOutboundTrackingUrl(
   destinationUrl: string,
-  opts: { placement: OutboundPlacement; partner?: string }
+  opts: {
+    placement: OutboundPlacement;
+    partner?: string;
+    /**
+     * Campaign label sent TO the partner (e.g. experiences_france_haute-savoie),
+     * so their revenue report groups readably. Distinct from the inbound
+     * utm_campaign that brought the visitor here, which is stored unchanged.
+     */
+    outboundCampaign?: string;
+  }
 ): Promise<string> {
   if (!isTrackingBackendEnabled() || typeof window === 'undefined') {
     return destinationUrl;
@@ -172,6 +184,7 @@ export async function appendOutboundTrackingUrl(
     destination_url: destinationUrl,
     placement: opts.placement,
     partner: opts.partner,
+    outbound_campaign: opts.outboundCampaign,
     page_url: window.location.href,
     consent_status: consent,
     utm_source: snap.utm_source,

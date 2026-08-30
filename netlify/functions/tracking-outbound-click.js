@@ -5,7 +5,7 @@ const {
   getSupabase,
   makeSubId,
   partnerFromUrl,
-  withSubIdParam,
+  buildOutboundUrl,
   stripAdsWhenDeclined,
 } = require('./_tracking-shared');
 
@@ -56,13 +56,27 @@ exports.handler = async (event) => {
   }
 
   const consent_status = body.consent_status || 'unknown';
-  const paramName =
+  const defaultParam =
     process.env.TRACKING_SUB_ID_PARAM ||
     body.parameter_name ||
     'mx_sub';
 
   const sub_id = makeSubId();
-  const final_url = withSubIdParam(destUrl, paramName, sub_id);
+  // outbound_campaign is the campaign we send TO the partner (a readable
+  // country/region label). It is deliberately separate from body.utm_campaign,
+  // which is the inbound ad campaign that brought the visitor here and is stored
+  // on the row unchanged.
+  const { final_url, parameter_name: paramName } = buildOutboundUrl(
+    destUrl,
+    sub_id,
+    {
+      defaultParam,
+      campaign:
+        typeof body.outbound_campaign === 'string'
+          ? body.outbound_campaign.slice(0, 120)
+          : null,
+    }
+  );
   const partner = body.partner || partnerFromUrl(destUrl);
 
   let visit_id = body.visit_id || null;

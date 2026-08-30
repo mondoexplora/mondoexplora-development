@@ -8,3 +8,8 @@ out/
 # Next.js SWC binary files (too large for GitHub)
 node_modules/@next/swc-*/next-swc.*.node
 *.node
+
+# Generated PMax/Merchant Center feed. Rebuilt by `npm run build` from
+# data/experiences/explore-share.csv, and 7.5MB — committing a regenerated copy
+# on every daily data refresh would bloat history for no benefit.
+data/experiences/experiences-feed.xml

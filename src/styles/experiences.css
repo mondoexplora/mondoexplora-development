@@ -1,0 +1,667 @@
+/*
+ * /experiences section styles.
+ *
+ * Reuses the site's existing vocabulary from hotel-boxes.css and globals.css —
+ * navy #2a3f59, the 135deg hero gradient, green #28a745 prices, coral #ff5a5f
+ * tertiary links, 1200px content, cards with 0 4px 20px rgba(0,0,0,.08) — and
+ * adds only what the experience templates need on top.
+ */
+
+.exp-wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* ------------------------------------------------------------------- hero */
+
+.exp-hero {
+  position: relative;
+  color: #fff;
+  background-size: cover;
+  background-position: center;
+}
+
+.exp-hero-tint {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(0, 0, 0, 0.6) 0%, rgba(42, 63, 89, 0.8) 100%);
+}
+
+.exp-hero-inner {
+  position: relative;
+  padding: 1.5rem 0 2rem 0;
+}
+
+.exp-logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 1.2rem;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+}
+
+.exp-logo .a { font-weight: 300; }
+
+.exp-logo .b {
+  font-weight: 700;
+  background: rgba(255, 255, 255, 0.85);
+  color: #2a3f59;
+  padding: 0 0.25rem;
+  border-radius: 2px;
+}
+
+.exp-crumbs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.75);
+  margin: 1.25rem 0 0.75rem 0;
+}
+
+.exp-crumbs a { color: rgba(255, 255, 255, 0.85); text-decoration: none; }
+.exp-crumbs a:hover { text-decoration: underline; }
+.exp-crumbs .sep { opacity: 0.5; }
+
+.exp-hero h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #fff;
+  line-height: 1.2;
+  margin: 0 0 0.75rem 0;
+}
+
+.exp-lede {
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.92);
+  max-width: 600px;
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* --------------------------------------------------------------- sections */
+
+.exp-sec { padding: 2.5rem 0 0 0; }
+
+.exp-sec-head { margin-bottom: 1.25rem; }
+
+.exp-sec-head h2 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #2a3f59;
+  margin: 0 0 0.5rem 0;
+}
+
+.exp-sec-head p {
+  font-size: 1rem;
+  color: #6c757d;
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* ------------------------------------------------------------------ cards */
+
+.exp-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.exp-card {
+  background: #fff;
+  border: 1px solid #f1f3f4;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.exp-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+.exp-card-img {
+  position: relative;
+  height: 180px;
+  overflow: hidden;
+  background: linear-gradient(135deg, #2a3f59 0%, #4a5f7a 100%);
+}
+
+.exp-card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.exp-card:hover .exp-card-img img { transform: scale(1.05); }
+
+.exp-price {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background: rgba(255, 255, 255, 0.95);
+  color: #28a745;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 0.5rem 0.75rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  text-align: right;
+}
+
+.exp-price small {
+  display: block;
+  font-size: 10px;
+  font-weight: 500;
+  color: #6c757d;
+  line-height: 1;
+}
+
+.exp-activity {
+  position: absolute;
+  top: 0.75rem;
+  left: 0.75rem;
+  background: rgba(17, 24, 39, 0.82);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 0.3rem 0.6rem;
+  border-radius: 20px;
+}
+
+.exp-card-body {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex-grow: 1;
+}
+
+.exp-card-body h3 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #2a3f59;
+  line-height: 1.3;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.exp-card-loc { font-size: 12px; color: #666; font-weight: 500; }
+
+.exp-card-body p {
+  font-size: 13px;
+  color: #6c757d;
+  line-height: 1.4;
+  margin: 0;
+  flex-grow: 1;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.exp-card-foot {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 0.5rem;
+  border-top: 1px solid #f1f3f4;
+}
+
+.exp-card-meta { font-size: 12px; color: #9ca3af; font-weight: 500; }
+.exp-card-cta { font-size: 13px; font-weight: 600; color: #000; }
+
+/* ------------------------------------------------------------------ tiles */
+
+.exp-tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.5rem;
+}
+
+.exp-tile {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1.25rem;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.exp-tile:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.exp-tile h3 { font-size: 1.1rem; font-weight: 700; color: #2a3f59; margin: 0; }
+.exp-tile .count { font-size: 0.8rem; color: #9ca3af; font-weight: 500; }
+.exp-tile .count strong { color: #28a745; font-weight: 700; }
+.exp-tile .sub { font-size: 12px; color: #6c757d; }
+
+/* ------------------------------------------------------------------ chips */
+
+.exp-chips { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+
+.exp-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 20px;
+  padding: 0 1rem;
+  min-height: 44px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #2a3f59;
+  text-decoration: none;
+}
+
+.exp-chip:hover { border-color: #2a3f59; }
+.exp-chip .n { font-size: 12px; font-weight: 500; color: #9ca3af; }
+.exp-chip.on { background: #2a3f59; border-color: #2a3f59; color: #fff; }
+.exp-chip.on .n { color: rgba(255, 255, 255, 0.7); }
+
+/* --------------------------------------------------------------- buttons */
+
+.exp-btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  background: #28a745;
+  color: #fff;
+  border: 0;
+  border-radius: 8px;
+  padding: 0 1.5rem;
+  min-height: 52px;
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.exp-btn-primary:hover { background: #218838; color: #fff; text-decoration: none; }
+
+.exp-btn-navy {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #2a3f59;
+  color: #fff;
+  border: 0;
+  border-radius: 8px;
+  padding: 0.75rem 1.5rem;
+  min-height: 44px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.exp-btn-navy:hover { background: #1d2c3f; color: #fff; text-decoration: none; }
+
+.exp-btn-outline {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  background: #fff;
+  color: #2a3f59;
+  border: 1.5px solid #2a3f59;
+  border-radius: 8px;
+  padding: 0 1.25rem;
+  min-height: 48px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.exp-btn-outline:hover { background: #f8f9fa; color: #2a3f59; text-decoration: none; }
+
+/* ------------------------------------------------------- detail: gallery */
+
+.exp-gallery {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-rows: 150px 150px;
+  gap: 0.75rem;
+}
+
+.exp-gallery img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.exp-gallery .lead { grid-row: span 2; }
+
+/* The wrapper exists for the mobile strip; on desktop its children must remain
+   direct grid items, which display:contents gives us. */
+.exp-gallery-thumbs { display: contents; }
+
+.exp-gallery .more {
+  background: linear-gradient(135deg, #2a3f59 0%, #4a5f7a 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+/* -------------------------------------------------------- detail: layout */
+
+.exp-detail {
+  display: grid;
+  grid-template-columns: 1fr 360px;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.exp-detail-main { display: flex; flex-direction: column; gap: 2rem; }
+.exp-detail-side { display: flex; flex-direction: column; gap: 1rem; position: sticky; top: 1rem; }
+
+.exp-facts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1rem;
+}
+
+.exp-fact {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.exp-fact-label {
+  font-size: 12px;
+  color: #9ca3af;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+
+.exp-fact-value {
+  font-size: 15px;
+  font-weight: 600;
+  color: #2a3f59;
+  margin-top: 0.25rem;
+}
+
+.exp-booking {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  padding: 1.5rem;
+  background: #fff;
+}
+
+.exp-booking-price {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.exp-booking-price strong { font-size: 2rem; font-weight: 700; color: #28a745; }
+.exp-booking-price span { font-size: 13px; color: #6c757d; }
+
+.exp-booking-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin: 1.25rem 0;
+  padding: 1rem 0;
+  border-top: 1px solid #f1f3f4;
+  border-bottom: 1px solid #f1f3f4;
+}
+
+.exp-booking-row { display: flex; justify-content: space-between; font-size: 14px; }
+.exp-booking-row span:first-child { color: #6c757d; }
+.exp-booking-row span:last-child { font-weight: 600; color: #2a3f59; }
+
+.exp-booking-note {
+  font-size: 12px;
+  color: #9ca3af;
+  margin: 0.9rem 0 0 0;
+  line-height: 1.5;
+}
+
+/* --------------------------------------------------- detail: how to get */
+
+.exp-getting {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  background: #fff;
+  overflow: hidden;
+}
+
+.exp-getting-head {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1.5rem 1.5rem 1.25rem 1.5rem;
+  border-bottom: 1px solid #f1f3f4;
+}
+
+.exp-getting-icon {
+  flex-shrink: 0;
+  width: 44px;
+  height: 44px;
+  border-radius: 8px;
+  background: #2a3f59;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.exp-getting-head h2 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #2a3f59;
+  margin: 0 0 0.35rem 0;
+}
+
+.exp-getting-head p { font-size: 1rem; color: #6c757d; margin: 0; line-height: 1.5; }
+
+.exp-gateway {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  gap: 1.25rem;
+  align-items: center;
+  padding: 1.1rem 1.5rem;
+  border-bottom: 1px solid #f1f3f4;
+  text-decoration: none;
+  color: inherit;
+}
+
+.exp-gateway:hover { background: #f8f9fa; text-decoration: none; }
+.exp-gateway.closest { background: #f4fbf6; }
+.exp-gateway.closest:hover { background: #eaf7ef; }
+
+.exp-gateway-city {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 17px;
+  font-weight: 700;
+  color: #2a3f59;
+}
+
+.exp-gateway-country { font-size: 13px; color: #6c757d; display: block; margin-top: 0.2rem; }
+
+.exp-gateway-tag {
+  font-size: 11px;
+  font-weight: 700;
+  color: #fff;
+  background: #28a745;
+  border-radius: 20px;
+  padding: 0.2rem 0.55rem;
+  letter-spacing: 0.02em;
+}
+
+.exp-gateway-figures { display: flex; align-items: center; gap: 1.5rem; }
+
+.exp-gateway-figure { display: flex; flex-direction: column; align-items: flex-end; }
+.exp-gateway-figure strong { font-size: 17px; }
+.exp-gateway-figure .drive { color: #28a745; }
+.exp-gateway-figure .dist { color: #2a3f59; }
+.exp-gateway-figure span { font-size: 12px; color: #9ca3af; }
+
+.exp-getting-foot {
+  padding: 1rem 1.5rem;
+  background: #f8f9fa;
+  border-top: 1px solid #f1f3f4;
+}
+
+.exp-getting-foot p { font-size: 12px; color: #9ca3af; margin: 0; }
+
+/* -------------------------------------------------------------- the map */
+
+.exp-map {
+  position: relative;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  overflow: hidden;
+  height: 340px;
+  background: #e9eef2;
+}
+
+.exp-map svg { width: 100%; height: 100%; display: block; }
+
+.exp-map-note {
+  position: absolute;
+  left: 1rem;
+  bottom: 1rem;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+  font-size: 12px;
+  color: #6c757d;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* ------------------------------------------------------------ pagination */
+
+.exp-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 3rem;
+  padding: 2rem 0;
+}
+
+.exp-pagination .disabled {
+  background: #e5e7eb;
+  color: #9ca3af;
+  border-radius: 8px;
+  padding: 0.75rem 1.5rem;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.exp-pagination .status { font-size: 14px; color: #6c757d; }
+
+/* ------------------------------------------------------- sticky book bar */
+
+.exp-sticky-bar { display: none; }
+
+/* ------------------------------------------------------------- responsive */
+
+@media (max-width: 900px) {
+  .exp-detail { grid-template-columns: 1fr; gap: 2rem; }
+  .exp-detail-side { position: static; }
+}
+
+@media (max-width: 768px) {
+  .exp-wrap { padding: 0 1rem; }
+
+  .exp-hero h1 { font-size: 1.6rem; }
+  .exp-lede { font-size: 14px; }
+  .exp-sec { padding-top: 2rem; }
+  .exp-sec-head h2 { font-size: 1.35rem; }
+  .exp-sec-head p { font-size: 14px; }
+
+  .exp-grid { grid-template-columns: 1fr; }
+  .exp-tiles { grid-template-columns: 1fr; }
+
+  /* Country and region lists read better as rows with a chevron at this width. */
+  .exp-tile { flex-direction: row; align-items: center; justify-content: space-between; min-height: 64px; }
+  .exp-tile .stackable { display: flex; flex-direction: column; gap: 0.15rem; }
+  .exp-tile h3 { font-size: 1rem; }
+
+  /* One hero image plus a swipeable strip — the 5-up mosaic is unreadable here. */
+  .exp-gallery { display: block; }
+  .exp-gallery .lead { display: block; width: 100%; height: 240px; }
+
+  .exp-gallery-thumbs {
+    display: flex;
+    gap: 0.6rem;
+    overflow-x: auto;
+    margin-top: 0.6rem;
+    scrollbar-width: none;
+  }
+  .exp-gallery-thumbs::-webkit-scrollbar { display: none; }
+  .exp-gallery-thumbs .thumb,
+  .exp-gallery-thumbs .more { flex-shrink: 0; width: 96px; height: 72px; font-size: 13px; }
+
+  .exp-getting-head { padding: 1.1rem 1rem; gap: 0.8rem; }
+  .exp-getting-head h2 { font-size: 1.35rem; }
+  .exp-getting-head p { font-size: 13px; }
+  .exp-getting-icon { width: 40px; height: 40px; }
+
+  /* Each gateway stacks: figures above, full-width button below. */
+  .exp-gateway { grid-template-columns: 1fr; gap: 0.75rem; padding: 1rem; }
+  .exp-gateway-figures { justify-content: flex-start; gap: 1.5rem; }
+  .exp-gateway-figure { align-items: flex-start; }
+  .exp-gateway .exp-btn-outline, .exp-gateway .exp-btn-primary { width: 100%; }
+
+  .exp-map { height: 220px; }
+
+  .exp-pagination { flex-direction: column; gap: 0.75rem; }
+
+  /* Price + book pinned to the bottom, so the CTA is always one tap away. */
+  .exp-sticky-bar {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 50;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    background: #fff;
+    border-top: 1px solid #e5e7eb;
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.12);
+    padding: 0.75rem 1rem;
+    padding-bottom: calc(0.75rem + env(safe-area-inset-bottom));
+  }
+
+  .exp-sticky-bar .price { flex-shrink: 0; }
+  .exp-sticky-bar .price strong { font-size: 1.4rem; color: #28a745; display: block; line-height: 1.1; }
+  .exp-sticky-bar .price span { font-size: 11px; color: #6c757d; }
+  .exp-sticky-bar .exp-btn-primary { flex-grow: 1; }
+
+  /* Clear the bar and the cookie banner. */
+  .exp-page { padding-bottom: 96px; }
+}
+
+/* Horizontal scrollers used for chips and related cards on small screens. */
+.exp-scroller { display: flex; gap: 0.6rem; overflow-x: auto; }
+.exp-scroller::-webkit-scrollbar { display: none; }
+.exp-scroller > * { flex-shrink: 0; }
