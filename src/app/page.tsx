@@ -1,5 +1,8 @@
 import RegionalHomepage from '@/components/RegionalHomepage';
-import { loadRegionalData, loadSearchData } from '@/lib/regional-data';
+import { loadHomepageContent } from '@/lib/homepage-content';
+import { faqJsonLd } from '@/lib/homepage-faq';
+import '@/styles/home.css';
+import '@/styles/experiences.css';
 import { Metadata } from 'next';
 import StructuredData, { generateHomepageStructuredData } from '@/components/StructuredData';
 import ConversionTracking from '@/components/ConversionTracking';
@@ -42,28 +45,20 @@ export const metadata: Metadata = {
 };
 
 export default async function HomePage() {
-  // Load regional data and search data
-  const [regionalData, searchData] = await Promise.all([
-    loadRegionalData(),
-    loadSearchData()
-  ]);
-  
-  // Calculate total hotels and minimum price for tracking
-  const totalHotels = Object.values(regionalData).reduce((sum, region) => sum + region.totalHotels, 0);
-  const minPrice = 30; // Minimum price from our data
+  const content = await loadHomepageContent('en');
 
   return (
     <>
-      <ConversionTracking 
-        pageType="homepage" 
-        hotelCount={totalHotels}
-        minPrice={minPrice}
+      <ConversionTracking
+        pageType="homepage"
+        hotelCount={content.totalHotels}
+        minPrice={content.minPrice}
       />
-      <StructuredData data={generateHomepageStructuredData('en')} />
-      <RegionalHomepage 
-        regionalData={regionalData}
-        searchData={searchData}
+      <StructuredData
+        data={generateHomepageStructuredData('en', content.totalHotels)}
       />
+      <StructuredData data={faqJsonLd(content.faq)} />
+      <RegionalHomepage {...content} lang="en" />
     </>
   );
 }

@@ -34,16 +34,20 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
     const titles: Record<string, string> = {
       en: `Best Hotels in ${cityName}, ${countryName} | ${hotelCount}+ Luxury Accommodations | MondoExplora`,
-      es: `Mejores Hoteles en ${cityName}, ${countryName} | ${hotelCount}+ Alojamientos de Lujo | MondoExplora`,
+      de: `Beste Hotels in ${cityName}, ${countryName} | ${hotelCount}+ Luxusunterkünfte | MondoExplora`,
       fr: `Meilleurs Hôtels à ${cityName}, ${countryName} | ${hotelCount}+ Hébergements de Luxe | MondoExplora`,
-      it: `Migliori Hotel a ${cityName}, ${countryName} | ${hotelCount}+ Alloggi di Lusso | MondoExplora`
+      es: `Mejores Hoteles en ${cityName}, ${countryName} | ${hotelCount}+ Alojamientos de Lujo | MondoExplora`,
+      it: `Migliori Hotel a ${cityName}, ${countryName} | ${hotelCount}+ Alloggi di Lusso | MondoExplora`,
+      pt: `Melhores Hotéis em ${cityName}, ${countryName} | ${hotelCount}+ Alojamentos de Luxo | MondoExplora`
     };
 
     const descriptions: Record<string, string> = {
       en: `Discover the best luxury hotels in ${cityName}, ${countryName}. Compare ${hotelCount}+ hotels with exclusive deals, read reviews, and book with confidence. Best rates guaranteed with up to 60% off.`,
-      es: `Descubre los mejores hoteles de lujo en ${cityName}, ${countryName}. Compara ${hotelCount}+ hoteles con ofertas exclusivas, lee reseñas y reserva con confianza. Mejores tarifas garantizadas con hasta 60% de descuento.`,
+      de: `Entdecken Sie die besten Luxushotels in ${cityName}, ${countryName}. Vergleichen Sie ${hotelCount}+ Hotels mit exklusiven Angeboten. Beste Preise garantiert mit bis zu 60% Rabatt.`,
       fr: `Découvrez les meilleurs hôtels de luxe à ${cityName}, ${countryName}. Comparez ${hotelCount}+ hôtels avec des offres exclusives, lisez les avis et réservez en toute confiance. Meilleurs tarifs garantis avec jusqu'à 60% de réduction.`,
-      it: `Scopri i migliori hotel di lusso a ${cityName}, ${countryName}. Confronta ${hotelCount}+ hotel con offerte esclusive, leggi le recensioni e prenota con fiducia. Migliori tariffe garantite con sconti fino al 60%.`
+      es: `Descubre los mejores hoteles de lujo en ${cityName}, ${countryName}. Compara ${hotelCount}+ hoteles con ofertas exclusivas, lee reseñas y reserva con confianza. Mejores tarifas garantizadas con hasta 60% de descuento.`,
+      it: `Scopri i migliori hotel di lusso a ${cityName}, ${countryName}. Confronta ${hotelCount}+ hotel con offerte esclusive, leggi le recensioni e prenota con fiducia. Migliori tariffe garantite con sconti fino al 60%.`,
+      pt: `Descubra os melhores hotéis de luxo em ${cityName}, ${countryName}. Compare ${hotelCount}+ hotéis com ofertas exclusivas e reserve com confiança. Melhores tarifas garantidas com até 60% de desconto.`
     };
 
     const keywords = [
@@ -149,8 +153,8 @@ export default async function DestinationPage({ params }: PageProps) {
 
 // Generate static params for all supported languages and cities
 export async function generateStaticParams() {
-  const languages = ['en'];
-  
+  const languages = ['en', 'de', 'fr', 'es', 'it', 'pt'];
+
   // Get all available cities from the generated JSON files
   const fs = await import('fs').then(m => m.promises);
   const path = await import('path');

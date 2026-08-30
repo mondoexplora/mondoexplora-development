@@ -1,18 +1,22 @@
-export const SUPPORTED_LANGUAGES = ['en', 'es', 'fr', 'it'] as const;
+export const SUPPORTED_LANGUAGES = ['en', 'de', 'fr', 'es', 'it', 'pt'] as const;
 export type SupportedLanguage = typeof SUPPORTED_LANGUAGES[number];
 
 export const LANGUAGE_NAMES: Record<SupportedLanguage, string> = {
   en: 'English',
-  es: 'Español',
+  de: 'Deutsch',
   fr: 'Français',
+  es: 'Español',
   it: 'Italiano',
+  pt: 'Português',
 };
 
 export const LANGUAGE_FLAGS: Record<SupportedLanguage, string> = {
-  en: '🇺🇸',
-  es: '🇪🇸',
+  en: '🇬🇧',
+  de: '🇩🇪',
   fr: '🇫🇷',
+  es: '🇪🇸',
   it: '🇮🇹',
+  pt: '🇵🇹',
 };
 
 export function isValidLanguage(lang: string): lang is SupportedLanguage {

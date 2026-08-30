@@ -523,3 +523,50 @@ export async function getTotals(): Promise<{
     minPriceEur: Math.min(...all.map((e) => e.priceEur)),
   };
 }
+
+/**
+ * A sample of the catalogue for the homepage rail.
+ *
+ * Spread across the biggest activities and never twice from the same country, so
+ * the four cards a visitor sees first are four different kinds of trip. The
+ * result is interleaved by activity rather than grouped, because the homepage
+ * shows the first slice of this list before any filter is applied.
+ */
+export async function getFeaturedExperiences(
+  perActivity = 4,
+  activityCount = 6
+): Promise<Experience[]> {
+  const all = await getAllExperiences();
+  const activities = (await getActivities()).slice(0, activityCount);
+
+  const byActivity = activities.map(({ name }) => {
+    const seenCountries = new Set<string>();
+    const picked: Experience[] = [];
+
+    const candidates = all
+      .filter((e) => e.activity === name && e.shortDescription && e.mainPhoto)
+      // Gateway cities mean the row survived the coordinate checks with usable
+      // geography, which is also what makes the card's "cities nearby" true.
+      .sort(
+        (a, b) =>
+          b.gatewayCities.length - a.gatewayCities.length ||
+          a.priceEur - b.priceEur
+      );
+
+    for (const e of candidates) {
+      if (seenCountries.has(e.countrySlug)) continue;
+      seenCountries.add(e.countrySlug);
+      picked.push(e);
+      if (picked.length === perActivity) break;
+    }
+    return picked;
+  });
+
+  const interleaved: Experience[] = [];
+  for (let i = 0; i < perActivity; i++) {
+    for (const list of byActivity) {
+      if (list[i]) interleaved.push(list[i]);
+    }
+  }
+  return interleaved;
+}

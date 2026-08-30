@@ -808,3 +808,49 @@ footer p {
     font-size: 0.8rem;
   }
 } 
+/* Footer layout — columns, added when the footer stopped being logo-only. */
+/* Flex, not grid: the column count varies by language (experiences are English
+   only), and an auto-fit repeat cannot be combined with an fr-sized brand track
+   — that declaration is invalid and drops the whole rule. */
+.footer-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem 3rem;
+  align-items: flex-start;
+}
+
+.footer-brand {
+  flex: 1 1 240px;
+  max-width: 420px;
+}
+
+.footer-brand .footer-blurb {
+  max-width: 36ch;
+  margin-top: 0.75rem;
+}
+
+footer nav.footer-column {
+  flex: 0 1 160px;
+  margin-bottom: 0;
+}
+
+.footer-legal {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+@media (max-width: 768px) {
+  .footer-grid {
+    gap: 1.5rem 2rem;
+  }
+
+  .footer-brand {
+    flex-basis: 100%;
+  }
+}

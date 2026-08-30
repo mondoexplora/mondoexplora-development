@@ -1,0 +1,578 @@
+/*
+ * Homepage styles.
+ *
+ * Same vocabulary as experiences.css and hotel-boxes.css — navy #2a3f59, the
+ * 135deg hero gradient, green #28a745 prices, coral #ff5a5f for the discount and
+ * the primary action, 1200px content, cards with 0 4px 20px rgba(0,0,0,.08).
+ * Prefixed mx- so nothing here collides with the Tailwind utilities or the older
+ * .hero-section / .destination-card rules in globals.css.
+ *
+ * The experiences rail reuses .exp-card and .exp-chip, so experiences.css is
+ * imported alongside this file on the homepage.
+ */
+
+.mx-wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* -------------------------------------------------------------------- nav */
+
+.mx-nav {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0.9rem 2rem;
+  border-bottom: 1px solid #f1f3f4;
+}
+
+.mx-logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 1.1rem;
+  color: #2a3f59;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.mx-logo .a { font-weight: 300; }
+
+.mx-logo .b {
+  font-weight: 800;
+  background: #2a3f59;
+  color: #fff;
+  padding: 0 0.3rem;
+  border-radius: 3px;
+}
+
+.mx-nav-links {
+  display: flex;
+  gap: 1.4rem;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.mx-nav-links a {
+  color: #4b5b71;
+  text-decoration: none;
+  padding-bottom: 2px;
+}
+
+.mx-nav-links a:hover { color: #2a3f59; }
+
+.mx-nav-links a.on {
+  color: #2a3f59;
+  border-bottom: 2px solid #ff5a5f;
+}
+
+.mx-nav-right {
+  margin-left: auto;
+  font-size: 13px;
+  color: #6c757d;
+}
+
+/* ------------------------------------------------------------------- hero */
+
+/*
+ * A third of the old hero's height: the first row of deals has to be reachable
+ * without scrolling on a laptop, which is the whole point of this layout.
+ */
+.mx-hero {
+  background:
+    linear-gradient(135deg, rgba(0, 0, 0, 0.62) 0%, rgba(42, 63, 89, 0.9) 100%),
+    var(--mx-hero-image) center / cover;
+  background-color: #2a3f59;
+  color: #fff;
+  padding: 2.2rem 0 2rem 0;
+}
+
+.mx-hero h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: #fff;
+  margin: 0 0 0.35rem 0;
+}
+
+.mx-hero .mx-sub {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.86);
+  margin: 0 0 1.1rem 0;
+}
+
+.mx-seg {
+  display: inline-flex;
+  background: rgba(255, 255, 255, 0.16);
+  border-radius: 8px;
+  padding: 3px;
+  gap: 3px;
+  margin-bottom: 0.65rem;
+}
+
+.mx-seg button {
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.85);
+  background: none;
+  border: 0;
+  padding: 0.4rem 1.15rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.mx-seg button.on {
+  background: #fff;
+  color: #2a3f59;
+}
+
+.mx-searchbox {
+  position: relative;
+  max-width: 560px;
+  z-index: 40;
+}
+
+.mx-search {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.mx-search-field {
+  position: relative;
+  flex: 1;
+}
+
+.mx-search-field svg {
+  position: absolute;
+  left: 0.85rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #8a95a5;
+  pointer-events: none;
+}
+
+.mx-search-field input {
+  width: 100%;
+  font: inherit;
+  font-size: 14px;
+  color: #1f2937;
+  background: #fff;
+  border: 0;
+  border-radius: 8px;
+  padding: 0.72rem 0.9rem 0.72rem 2.4rem;
+}
+
+.mx-search-field input::placeholder { color: #8a95a5; }
+
+.mx-search-field input:focus {
+  outline: 2px solid #ff5a5f;
+  outline-offset: 1px;
+}
+
+.mx-search-go {
+  font: inherit;
+  font-size: 14px;
+  font-weight: 700;
+  color: #fff;
+  background: #ff5a5f;
+  border: 0;
+  border-radius: 8px;
+  padding: 0 1.4rem;
+  cursor: pointer;
+}
+
+.mx-search-go:hover { background: #e0484d; }
+
+.mx-results {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  background: #fff;
+  border: 1px solid #e5e9ef;
+  border-radius: 8px;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.18);
+  max-height: 17rem;
+  overflow-y: auto;
+  z-index: 50;
+}
+
+.mx-results button {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  font: inherit;
+  font-size: 14px;
+  text-align: left;
+  color: #1f2937;
+  background: none;
+  border: 0;
+  padding: 0.6rem 0.9rem;
+  cursor: pointer;
+}
+
+.mx-results button:hover,
+.mx-results button:focus-visible { background: #f6f8fb; }
+
+.mx-results .kind {
+  font-size: 11px;
+  color: #6c757d;
+  background: #f1f3f6;
+  padding: 0.1rem 0.45rem;
+  border-radius: 20px;
+  text-transform: capitalize;
+}
+
+.mx-quick {
+  margin: 0.75rem 0 0 0;
+  font-size: 12.5px;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.mx-quick a {
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.mx-quick a:hover { text-decoration: underline; }
+
+/* --------------------------------------------------------------- sections */
+
+.mx-sec { padding: 2.2rem 0; }
+
+.mx-sec-alt {
+  background: #f6f8fb;
+  border-block: 1px solid #f1f3f4;
+}
+
+.mx-sec-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+.mx-sec-head h2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #2a3f59;
+  letter-spacing: -0.015em;
+  margin: 0;
+}
+
+.mx-sec-all {
+  font-size: 13px;
+  font-weight: 700;
+  color: #2a3f59;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.mx-sec-all:hover { text-decoration: underline; }
+
+.mx-sec-sub {
+  font-size: 14px;
+  color: #6c757d;
+  margin: 0 0 1.2rem 0;
+}
+
+.mx-chips { margin-bottom: 1.2rem; }
+
+/* ------------------------------------------------------------ deal cards */
+
+.mx-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.5rem;
+}
+
+.mx-card {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border: 1px solid #f1f3f4;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.mx-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 26px rgba(0, 0, 0, 0.12);
+}
+
+.mx-card-img {
+  position: relative;
+  display: block;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  background: #e9edf2;
+}
+
+.mx-card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.mx-off {
+  position: absolute;
+  top: 0.6rem;
+  left: 0.6rem;
+  background: #ff5a5f;
+  color: #fff;
+  font-weight: 800;
+  font-size: 12px;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+}
+
+.mx-card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  flex: 1;
+  padding: 0.8rem 0.85rem 0.85rem 0.85rem;
+}
+
+.mx-card-loc {
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #6c757d;
+  text-decoration: none;
+}
+
+.mx-card-loc:hover { color: #2a3f59; text-decoration: underline; }
+
+.mx-card-title {
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.3;
+  margin: 0;
+}
+
+.mx-card-title a {
+  color: #2a3f59;
+  text-decoration: none;
+}
+
+.mx-card-title a:hover { text-decoration: underline; }
+
+.mx-card-perks {
+  margin: 0;
+  font-size: 12.5px;
+  color: #6c757d;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.mx-card-foot {
+  margin-top: auto;
+  padding-top: 0.6rem;
+  border-top: 1px solid #f1f3f6;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.mx-price {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+}
+
+.mx-price del {
+  font-size: 12px;
+  color: #9aa4b2;
+}
+
+.mx-price b {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #28a745;
+  font-variant-numeric: tabular-nums;
+}
+
+.mx-cta {
+  font-size: 12.5px;
+  font-weight: 700;
+  color: #ff5a5f;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.mx-cta:hover { text-decoration: underline; }
+
+/* ------------------------------------------------------------ region grid */
+
+.mx-tabs {
+  display: flex;
+  gap: 2px;
+  overflow-x: auto;
+  border-bottom: 2px solid #f1f3f4;
+  margin-bottom: 1.2rem;
+}
+
+.mx-tabs button {
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  color: #6c757d;
+  background: none;
+  border: 0;
+  padding: 0.55rem 0.9rem;
+  white-space: nowrap;
+  cursor: pointer;
+  border-radius: 5px 5px 0 0;
+}
+
+.mx-tabs button:hover { color: #2a3f59; background: #f6f8fb; }
+
+.mx-tabs button.on {
+  background: #2a3f59;
+  color: #fff;
+}
+
+.mx-tabs .n {
+  font-weight: 400;
+  opacity: 0.7;
+  margin-left: 0.35rem;
+}
+
+.mx-cgrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.mx-ccard {
+  background: #fff;
+  border: 1px solid #f1f3f4;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+}
+
+.mx-ccard h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #2a3f59;
+  margin: 0;
+}
+
+.mx-ccard .count {
+  font-size: 12px;
+  color: #6c757d;
+  margin-bottom: 0.6rem;
+}
+
+.mx-ccard .row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+  font-size: 13.5px;
+  padding: 0.3rem 0;
+  border-top: 1px solid #f4f6f9;
+  text-decoration: none;
+  color: #374151;
+}
+
+.mx-ccard .row:hover { color: #2a3f59; }
+.mx-ccard .row:hover .city { text-decoration: underline; }
+
+.mx-ccard .city { font-weight: 600; }
+
+.mx-ccard .from {
+  font-size: 12.5px;
+  font-weight: 700;
+  color: #28a745;
+  white-space: nowrap;
+}
+
+.mx-ccard .all {
+  display: inline-block;
+  margin-top: 0.65rem;
+  font-size: 12.5px;
+  font-weight: 700;
+  color: #2a3f59;
+  text-decoration: none;
+}
+
+.mx-ccard .all:hover { text-decoration: underline; }
+
+/* -------------------------------------------------------------------- faq */
+
+.mx-faq details {
+  background: #fff;
+  border: 1px solid #f1f3f4;
+  border-radius: 7px;
+  margin-bottom: 0.5rem;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+}
+
+.mx-faq summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  font-size: 14.5px;
+  font-weight: 600;
+  color: #374151;
+  padding: 0.75rem 1rem;
+  cursor: pointer;
+  list-style: none;
+}
+
+.mx-faq summary::-webkit-details-marker { display: none; }
+
+.mx-faq summary::after {
+  content: '+';
+  color: #9aa4b2;
+  font-weight: 400;
+  font-size: 1.1rem;
+}
+
+.mx-faq details[open] summary::after { content: '−'; }
+
+.mx-faq details p {
+  margin: 0;
+  padding: 0 1rem 0.9rem 1rem;
+  font-size: 14px;
+  color: #6c757d;
+  line-height: 1.6;
+  max-width: 70ch;
+}
+
+/* ------------------------------------------------------------- responsive */
+
+@media (max-width: 768px) {
+  .mx-wrap, .mx-nav { padding-inline: 1.25rem; }
+  .mx-nav-links { display: none; }
+  .mx-hero h1 { font-size: 1.55rem; }
+  .mx-search { flex-direction: column; }
+  .mx-search-go { padding: 0.7rem 1.4rem; }
+  .mx-sec-head { flex-direction: column; gap: 0.35rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .mx-card { transition: none; }
+  .mx-card:hover { transform: none; }
+}

@@ -22,9 +22,11 @@ export default function HotelGrid({ hotels, hotelsPerPage = 6, lang = 'en' }: Ho
   if (!hotels || hotels.length === 0) {
     const noHotelsText = {
       en: 'No hotels found.',
-      es: 'No se encontraron hoteles disponibles.',
+      de: 'Keine Hotels gefunden.',
       fr: 'Aucun hôtel trouvé.',
-      it: 'Nessun hotel trovato.'
+      es: 'No se encontraron hoteles disponibles.',
+      it: 'Nessun hotel trovato.',
+      pt: 'Nenhum hotel encontrado.'
     };
     
     return (

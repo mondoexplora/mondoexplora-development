@@ -49,7 +49,7 @@ export interface DealData {
   link: string;
 }
 
-export type SupportedLanguage = 'en' | 'es' | 'fr' | 'it';
+export type SupportedLanguage = 'en' | 'de' | 'fr' | 'es' | 'it' | 'pt';
 
 // Article types
 export interface ArticleContentBlock {

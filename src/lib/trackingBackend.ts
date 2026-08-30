@@ -142,6 +142,7 @@ export async function syncVisitWithBackend(): Promise<void> {
 
 export type OutboundPlacement =
   | 'hotel_card'
+  | 'home_deal'
   | 'route_cta_affiliate'
   | 'popunder'
   | 'experience_book'

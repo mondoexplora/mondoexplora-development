@@ -29,10 +29,15 @@ src/lib/                 data.ts, i18n.ts, geo-seo.ts, regional-data.ts,
                          trackingSnapshot.ts, mxSession.ts,
                          experiences.ts, countryBounds.ts, experienceSeo.ts,
                          experienceLinks.ts, experienceLanguages.ts,
-                         outboundWindow.ts
-src/components/          Hero, HotelCard, HotelGrid, RouteCTA, Footer,
-                         ConsentInitializer, PrivacyConsentBox,
-                         TrackingBootstrap, StructuredData, ...
+                         outboundWindow.ts,
+                         homepage-content.ts, homepage-deals.ts,
+                         homepage-faq.ts
+src/components/          RegionalHomepage (the homepage), Hero, HotelCard,
+                         HotelGrid, RouteCTA, Footer, ConsentInitializer,
+                         PrivacyConsentBox, TrackingBootstrap,
+                         StructuredData, ...
+src/components/home/     HomeHero, HomeDeals, DealCard, HomeExperiences,
+                         HomeRegions, HomeFaq
 src/components/experiences/  ExperienceCard, ActivityChips, Filterable*,
                          GettingThere, LocationMap, PartnerLink, GatewayLink
 netlify/functions/       tracking-{visit,outbound-click,health}.js,
@@ -43,6 +48,35 @@ config/routes.json       drives route + travel_modes generateStaticParams
 scripts/generate-experiences-feed.mts   PMax feed, runs after next build
 supabase/migrations/     20260503000000_tracking_mvp.sql
 ```
+
+## Homepage — rebuilt 2026-08-30
+
+Order is the design: search → discounted hotels → guided experiences → region
+grid → FAQ. It used to open on the region grid and show no hotels at all.
+
+**Three routes render it** — `/`, `/[lang]` and `/[lang]/home` — so all the
+loading lives in `loadHomepageContent(lang)` (`src/lib/homepage-content.ts`) and
+`RegionalHomepage` is a server component that only composes sections. Only the
+search box, the activity chips, the region tabs and the deal clickout are client
+components.
+
+Deals come from `getHomepageDeals()`, which scans `data/<lang>/destination/*.json`
+directly (~200ms for 1,142 files) — **`data/homepage-data.json` has counts only,
+no hotel records.** Deals are capped at one per country, or a single partner
+clearance sale fills the whole row. Deal clickouts use placement `home_deal` and
+go through `appendOutboundTrackingUrl` + `openOutboundTab`, same contract as
+`PartnerLink`.
+
+Every number in the copy is derived at build time (hotels, countries, discount,
+trip counts) — the old page hardcoded "over 9,835 luxury hotels" while the data
+summed to 9,428. The FAQ is generated once in `homepage-faq.ts` and feeds both the
+accordion and the FAQPage JSON-LD.
+
+The experiences rail and the search box's Experiences mode are gated on
+`EXPERIENCE_LANGUAGES`, so /es, /fr and /it get a hotels-only homepage. The chip
+list is cut to the same number of activities the sample covers, or a chip filters
+the grid down to nothing. **All UI copy is English on every language** — as it was
+before; the new sections did not add translations.
 
 ## Experiences (`/en/experiences`) — added 2026-08-29
 

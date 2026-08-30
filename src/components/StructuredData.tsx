@@ -16,7 +16,10 @@ export default function StructuredData({ data }: StructuredDataProps) {
 }
 
 // Helper functions to generate structured data
-export function generateHomepageStructuredData(lang: string = 'en') {
+export function generateHomepageStructuredData(
+  lang: string = 'en',
+  totalHotels?: number
+) {
   const languageNames: Record<string, string> = {
     en: 'English',
     es: 'Spanish',
@@ -52,7 +55,7 @@ export function generateHomepageStructuredData(lang: string = 'en') {
       "@type": "ItemList",
       "name": "Luxury Hotels Worldwide",
       "description": "Comprehensive list of luxury hotels with exclusive deals",
-      "numberOfItems": "9,835",
+      "numberOfItems": totalHotels ?? undefined,
       "itemListElement": [
         {
           "@type": "ListItem",
