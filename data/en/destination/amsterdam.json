@@ -4,8 +4,26 @@
   "country_code": "NL",
   "hero_title": "Hotels in Amsterdam",
   "description": "Discover the best hotels in Amsterdam, Netherlands. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/9kxs424l3rx7ca9epnd4",
+  "hero_image": "https://images.luxuryescapes.com/28msyxpvbyn3wllbd1b",
   "hotels": [
+    {
+      "vendor_name": "ANDAZ AMSTERDAM PRINSENGRACHT",
+      "offer_country_name": "Netherlands",
+      "location_heading": "Amsterdam",
+      "title": "Stylish Amsterdam Canal-Side Hideaway at Andaz Prinsengracht",
+      "description": "Set along Amsterdam’s Prinsengracht canal, this design-led stay places the city’s UNESCO-listed ring of canals on the doorstep. The Nine Streets’ boutiques, galleries and cafés are a short walk away, while the Rijksmuseum and Van Gogh Museum are easily reached by tram or on foot. Inside, Dutch-inspired interiors pair contemporary art with bold, residential-style spaces. The hotel’s restaurant serves seasonal dishes, and the bar pours cocktails beside canal views. A spa, fitness studio and landscaped courtyard add further calm in the centre of the city",
+      "location_subheading": "Netherlands",
+      "price": 833,
+      "original_price": 833,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z99bRYAR",
+      "hero_image": "https://images.luxuryescapes.com/28msyxpvbyn3wllbd1b",
+      "image_two": "https://images.luxuryescapes.com/9uvkvgkb9k3e7wie4dbx9",
+      "image_three": "https://images.luxuryescapes.com/pss08v0t9ea8bbeueaxc",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
+    },
     {
       "vendor_name": "Crowne Plaza Amsterdam South",
       "offer_country_name": "Netherlands",
@@ -13,8 +31,8 @@
       "title": "Amsterdam Urban Retreat with Iconic Canal Views",
       "description": "Fall in love with eye-catching Dutch Baroque architecture, lose yourself in the lively atmosphere and cycle along iconic canals with a stay at Crowne Plaza Amsterdam - South, an IHG Hotel. Dine on sumptuous cuisine with waterfront views at the hotel's signature restaurant Happyhappyjoyjoy Zudias, refresh at the onsite fitness centre or toast to your stay at Manhattan Lounge bar. When it's time to explore, heritage attractions, vibrant cafes, bars and restaurants are all within close reach.",
       "location_subheading": "Netherlands",
-      "price": 333,
-      "original_price": 333,
+      "price": 315,
+      "original_price": 315,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQJZbAAP",
       "hero_image": "https://images.luxuryescapes.com/9kxs424l3rx7ca9epnd4",
@@ -150,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-29",
-    "hotel_count": 7,
-    "average_price": 855,
+    "last_updated": "2026-08-30",
+    "hotel_count": 8,
+    "average_price": 850,
     "average_discount": 3
   }
 }
