@@ -1,5 +1,82 @@
 # Daily Work Log - MondoExplora Next.js Project
 
+## 📅 **August 29, 2026**
+
+### **Session — `/en/experiences` funnel: design, build, tracking, PMax feed**
+
+Branch `feature/tracking-only`. Four commits, all pushed. `main` untouched.
+
+**🎯 Goal:** turn `data/experiences/explore-share.csv` (6,379 guided trips from
+Explore-share) into a browsable, monetised, indexable section.
+
+**📐 Design first**
+- Drew 8 artboards (4 desktop + 4 mobile) on a Claude Design canvas before
+  writing code, matching the live site's tokens rather than inventing a look:
+  navy `#2a3f59`, the `135deg` hero gradient, green `#28a745` prices, Inter,
+  1200px content, existing card anatomy from `hotel-boxes.css`.
+- Approved, then "How to get there" was promoted from a grey table to a
+  clickable module with a real button per city — it is a monetisation surface.
+
+**🔍 Data problem found (the important one)**
+- The CSV's `lat`/`lng` column is unreliable: a geocoder fell back to unrelated
+  points. One New Delhi coordinate is shared by **46 experiences** across
+  Austria, Italy and Switzerland.
+- Worse: `gateway_cities_json` was generated **from** those coordinates, so a bad
+  point poisons every distance and drive time on the page. *"1-day ascent on the
+  Wetterhorn, Switzerland"* lists Dubai (2,202 km, 22h) as its nearest city — and
+  that distance recomputes exactly from the stored point, proving the link.
+- Two offline checks now drop 670 such rows. Real fix is re-geocoding.
+
+**🛠️ Built**
+
+1. **Data layer** — `src/lib/experiences.ts` (CSV parse, filters, queries) and
+   `src/lib/countryBounds.ts`. 6,379 rows in → **4,272 published**
+   (1,432 incomplete, 670 bad coordinates, 3 placeholder prices, 2 duplicate
+   slugs).
+2. **4,776 pages** at `/en/experiences/{country}/{region}/{experience}/`.
+   Language-prefixed so the existing `/en/*` Netlify rule covers them — a
+   root-level path would have been swallowed by the catch-all and served the
+   homepage with a 200.
+3. **Activity filters** — chips shipped inert in the first pass and were fixed:
+   they now filter cards (region page) and tiles (hub/country), with each tile's
+   count switching to that activity's own number. Hash-linkable.
+4. **Outbound tracking** — `sub_id` travels as `utm_content` for Explore-share
+   via a new `PARTNER_PROFILES` table; LuxuryEscapes untouched on `mx_sub`.
+   New placements `experience_book`, `gateway_city`.
+5. **nofollow** — all partner links are real anchors with
+   `rel="sponsored nofollow noopener noreferrer"`, at the partner's request.
+6. **SEO** — canonical, OG/Twitter, `product:price` meta, JSON-LD as
+   `TouristAttraction` + `Offer` + `BreadcrumbList` (the CSV's own
+   `LocalBusiness` markup is wrong for this). Sitemap +4,776 URLs.
+7. **PMax feed** — `/experiences-feed.xml`, 4,272 products, built from the same
+   loader as the pages so it can never advertise a filtered-out page.
+
+**🐛 Bug caught and fixed mid-session**
+- `window.open()` with `noopener` returns `null` per the HTML spec, so the
+  clickout handler had no handle and its fallback ran `window.location.href` on
+  the **current** tab — clicking "Check dates & book" replaced the experience
+  page instead of opening a new tab. Fixed in `src/lib/outboundWindow.ts`;
+  verified end-to-end against a stub endpoint.
+
+**✅ Results**
+- ✅ `npm run build` passes in ~59s, 4,776 new pages
+- ✅ Existing homepage / destination / country / route / privacy pages unaffected
+- ✅ No `netlify.toml` change needed
+- ✅ Verified in-browser at 1280px and 375px: filters, clickouts, sticky mobile
+  book bar, gateway module, no horizontal overflow, no hydration errors
+
+**📌 Open**
+- **Re-geocode** the 670 dropped rows — biggest single win (~14% of catalogue)
+- Verify Explore-share can export at `utm_content` granularity on the first report
+- Conversion side unbuilt: revenue report → `outbound_clicks` join → offline
+  conversion upload
+- Rotate the Google Maps key committed at `README_GOOGLE_MAPS_INTEGRATION.md:46`
+
+**📄 Docs:** new `EXPERIENCES.md`; `CLAUDE.md` and `TRACKING_BACKEND_SPEC.md`
+updated.
+
+---
+
 ## 📅 **January 16, 2025**
 
 ### **Morning Session - Netlify Deployment Issues Resolution**

@@ -1,5 +1,7 @@
 # Backend de Tracking & Attribution (MondoExplora)
 
+**Índice rápido:** [Resumen](#resumen-para-una-persona) · [Especificación / esquema](#especificación-para-ais--implementación) · [Implementación en el repo](#implementación-en-este-repositorio-mvp) · [Runbook (deploy + troubleshooting)](#runbook-de-operaciones-github--netlify--supabase)
+
 ## Resumen (para una persona)
 
 ### Objetivo
@@ -201,10 +203,40 @@ Respuesta:
 Reglas:
 - Siempre generar `sub_id` único por click.
 - Permitir `visit_id` null (si no llegó `/visit` aún).
-- `placement` obligatorio (ej. `popunder` o `hotel_card`).
+- `placement` obligatorio (ej. `popunder`, `hotel_card`, `experience_book`,
+  `gateway_city`).
+- El parámetro donde viaja el `sub_id` **depende del partner** (ver abajo). Se
+  guarda en `parameter_name` de la fila, para que la reconciliación posterior
+  sepa dónde mirar.
 
 Respuesta:
 - `outbound_click_id`, `sub_id`, `final_url`
+
+#### Perfiles por partner (`PARTNER_PROFILES` en `_tracking-shared.js`)
+
+Agregado 2026-08-29 junto con `/experiences`.
+
+| Partner | Param del `sub_id` | UTMs añadidas |
+|---|---|---|
+| Explore-share | `utm_content` | `utm_source=mondoexplora`, `utm_medium=affiliate`, `utm_campaign` |
+| LuxuryEscapes y el resto | `TRACKING_SUB_ID_PARAM` (p. ej. `mx_sub`) | ninguna |
+
+**Por qué `utm_content` lleva el `sub_id` y no el `gclid`.** Explore-share no
+está en Impact ni ShareASale: reportan revenue contra los UTMs que reciben, a
+último clic pago. El `sub_id` es único por clickout, así que su línea de revenue
+hace join 1:1 contra la fila de `outbound_clicks`, y el `gclid` / `gbraid` /
+`fbc` que hace falta para subir la conversión offline se lee **de esa fila**.
+
+Mandar el `gclid` sería incorrecto por tres motivos: es uno-a-muchos (un clic de
+anuncio, muchos clickouts, así que no se puede saber qué experiencia generó el
+revenue), no existe para tráfico orgánico o directo, y reenviaría un
+identificador publicitario saltándose el gate de consentimiento que
+`stripAdsWhenDeclined()` existe para aplicar.
+
+El `utm_campaign` que sale (`experiences_{country}_{region}`) es una etiqueta
+legible para que el reporte del partner agrupe bien. Llega en el body como
+`outbound_campaign` y es **distinto** del `utm_campaign` de entrada que trajo al
+visitante, que se guarda en la fila sin tocar.
 
 ### `POST /conversion`
 Ingresa una conversión (manual o importada).
@@ -214,8 +246,8 @@ Reglas:
   - `outbound_clicks.sub_id == conversions.sub_id` → set `outbound_click_id` y `matched=true`
   - si no, `matched=false` (unmatched queue)
 
-### `GET /health`
-OK + versión.
+### `GET /api/tracking/health`
+Comprueba env Supabase + lectura mínima de `visits`. Respuesta JSON: `ok`, `supabase` (`ok` | `missing_env` | `misconfigured_or_no_table`).
 
 ---
 
@@ -230,14 +262,29 @@ Prioridad:
 
 ## Notas específicas sobre el front (MondoExplora)
 
-El repo ya tiene consentimiento y tracking básico:
-- `src/components/CookieConsent.tsx`
-- `src/components/ConsentInitializer.tsx`
-- `src/lib/trackingManager.ts`
+El repo integra consentimiento con el tracking backend:
 
-Regla propuesta:
-- Solo llamar al backend para guardar IDs de ads (gclid/fb*) si hay consentimiento para `marketing` (y/o `analytics`, según política).
-- En popunders/hotel clicks: primero llamar `POST /outbound-click`, luego abrir el partner con la `final_url`.
+- `src/components/ConsentInitializer.tsx`, `src/components/PrivacyConsentBox.tsx` (evento `mx-consent-changed` para re-sincronizar la visita).
+- `src/components/TrackingBootstrap.tsx` (montado en `src/app/layout.tsx`).
+- `src/lib/mxSession.ts`, `src/lib/trackingSnapshot.ts`, `src/lib/trackingBackend.ts`.
+- CTAs que disparan clickout: p. ej. `HotelCard`, `RouteCTA` (llaman al backend y abren `final_url` con el parámetro configurable, p. ej. `mx_sub`).
+- `/experiences`: `PartnerLink` (`experience_book`) y `GatewayLink`
+  (`gateway_city`), con la mecánica de nueva pestaña en `src/lib/outboundWindow.ts`.
+
+Reglas:
+
+- Solo persistir IDs de ads (`gclid`, `fb*`, etc.) cuando el consentimiento lo permite (ver lógica en funciones y snapshot).
+- En cada clickout: registrar con el backend y abrir el partner con la URL que ya incluye `sub_id`.
+- Los links de partner son `<a href>` reales con
+  `rel="sponsored nofollow noopener noreferrer"`, no `window.open()` a secas: un
+  handler sin ancla no le deja nada que leer al crawler, y Explore-share pidió
+  nofollow explícitamente por el volumen de links.
+- **`window.open()` con `noopener` en el string de features devuelve `null`**
+  (así lo especifica el HTML). Pasarlo deja sin handle que redirigir y el
+  fallback obvio termina navegando la pestaña actual, reemplazando la página que
+  el visitante está leyendo. Abrir sin feature string y anular `opener` a mano.
+  Si el popup está bloqueado no hay handle: hay que dejar que el ancla siga su
+  `target="_blank"` en lugar de tocar la pestaña actual.
 
 ---
 
@@ -264,8 +311,133 @@ Ver `env_example.txt`:
 - **Netlify (server)**: `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`, `TRACKING_ALLOW_ORIGIN`, `TRACKING_SUB_ID_PARAM`.
 - **Browser (opcional)**: `NEXT_PUBLIC_TRACKING_API_BASE` (vacío en prod = mismo origen), `NEXT_PUBLIC_TRACKING_ENABLED` (`0` desactiva).
 
-### Pasos para activar en producción
-1. Crear proyecto Supabase y ejecutar el SQL de la migración.
-2. En Netlify → Site settings → Environment: pegar `SUPABASE_*` y CORS.
-3. Deploy. Probar `GET /api/tracking/health` y luego un click real de hotel (ver fila en `outbound_clicks`).
+### Pasos para activar en producción (resumen)
+1. Crear proyecto Supabase y ejecutar el SQL de la migración (`supabase/migrations/20260503000000_tracking_mvp.sql`).
+2. En Netlify → Environment variables: configurar `SUPABASE_*`, CORS y parámetro de sub-id (ver runbook abajo).
+3. Deploy de producción. Probar `GET /api/tracking/health` y un click real (filas en `visits` / `outbound_clicks`).
+
+El detalle operativo (PR, claves, errores frecuentes, permisos SQL) está en **Runbook de operaciones** más abajo.
+
+---
+
+## Runbook de operaciones (GitHub + Netlify + Supabase)
+
+Esta sección documenta el flujo real usado para llevar el MVP a producción y los problemas que aparecieron al activarlo.
+
+### 1. Código en GitHub: merge “solo tracking”
+
+Para no arrastrar otros cambios de otra rama, el trabajo de tracking se integró a `main` desde la rama **`feature/tracking-only`** (cherry-picks sobre `main`), no desde `feature/tracking-backend-mvp` (que podía incluir más commits ajenos al tracking).
+
+Pasos típicos:
+
+1. En GitHub, **Compare & pull request** para **`feature/tracking-only`** (o abrir el comparador manualmente).
+2. **Base:** `main` · **Compare:** `feature/tracking-only`.
+3. Revisar que el diff sea razonable (~19 archivos: SQL, `netlify.toml`, functions, front, `package.json`, docs).
+4. **Create pull request** → **Merge pull request** (o squash, según convención del repo).
+
+Tras el merge, Netlify (si está enganchado a `main`) dispara un deploy de producción.
+
+### 2. Netlify: deploy y variables por contexto
+
+1. **Deploys**: confirmar que el último deploy de **Production** corresponde al merge en `main` y está **Published** (verde).
+2. **Site configuration → Environment variables**: usar **“Different value for each deploy context”** solo si necesitás valores distintos; si no, un valor único para todos los contextos reduce errores.
+3. Variables obligatorias para las functions de tracking (mismos nombres que en `env_example.txt`):
+
+| Variable | Uso |
+|----------|-----|
+| `SUPABASE_URL` | URL base del proyecto, p. ej. `https://<project-ref>.supabase.co` (sin `/rest/v1`). |
+| `SUPABASE_SERVICE_ROLE_KEY` | JWT **`service_role`** (ver sección de claves). |
+| `TRACKING_ALLOW_ORIGIN` | Lista separada por comas de orígenes permitidos para CORS (incluir `https://mondoexplora.com` y localhost si probás en dev). |
+| `TRACKING_SUB_ID_PARAM` | Nombre del query param en la URL del partner, p. ej. `mx_sub`. |
+
+4. Si editás variables: **Save** y luego **Trigger deploy → Deploy site** en **Production** para que las functions vean los valores nuevos.
+
+**Nota sobre caché:** no hace falta “limpiar caché” de Netlify por cambiar env vars; basta redeploy. Si el navegador muestra una respuesta vieja de `GET /api/tracking/health`, probá ventana privada o recarga forzada.
+
+### 3. Supabase: dónde ver los datos
+
+1. Dashboard → proyecto correcto (el **`project-ref`** debe coincidir con `SUPABASE_URL`).
+2. **Table Editor** → esquema **`public`** → tablas **`visits`**, **`outbound_clicks`**, **`conversions`**.
+3. Alternativa: **Database → Tables** para la misma lista.
+
+### 4. Health check
+
+En producción (mismo dominio que el sitio, para evitar CORS en pruebas manuales):
+
+`GET /api/tracking/health`
+
+Respuesta esperada cuando todo está bien:
+
+```json
+{"ok":true,"supabase":"ok"}
+```
+
+La function hace `select('id').limit(1)` sobre `public.visits` vía `@supabase/supabase-js` y el **service role**.
+
+### 5. Claves de Supabase (qué pegar en Netlify)
+
+En **Project Settings → API** de Supabase aparecen varias cosas; para **`SUPABASE_SERVICE_ROLE_KEY`** en Netlify hay que usar:
+
+- **Sí:** la clave **service_role** de la sección **Legacy anon / service_role API keys** (JWT largo que empieza con **`eyJ`**). Es la que identifica el rol `service_role` ante PostgREST.
+
+- **No:** el **Legacy JWT secret** (bloque “JWT Keys”): sirve para **firmar** tokens, **no** es la API key que se pasa a `createClient(url, key)`.
+
+- **No:** la clave **anon** / publishable para esta variable (no bypass / permisos distintos).
+
+Comprobación sin compartir secretos: pegar el token en [jwt.io](https://jwt.io) (solo en tu máquina) y verificar en el payload JSON:
+
+- `"role": "service_role"`
+- `"ref": "<project-ref>"` debe ser el mismo subdominio que en `SUPABASE_URL` (`https://<project-ref>.supabase.co`).
+
+### 6. Error: `permission denied for table visits`
+
+Si `/api/tracking/health` devuelve algo como:
+
+```json
+{"ok":false,"supabase":"misconfigured_or_no_table","detail":"permission denied for table visits"}
+```
+
+Orden de diagnóstico:
+
+1. **`SUPABASE_URL`** y **`SUPABASE_SERVICE_ROLE_KEY`** del **mismo** proyecto (mismo `ref` en JWT y en la URL).
+2. **`SUPABASE_SERVICE_ROLE_KEY`** en Netlify: en **Production** (y en cualquier contexto desde el que probés) debe ser el JWT **`service_role`**, no anon ni el JWT secret.
+3. Tras cualquier cambio: **Trigger deploy** de producción.
+4. Si el JWT es correcto y la URL coincide pero el error persiste, en **SQL Editor** del proyecto ejecutar (no devuelve filas; es normal):
+
+```sql
+grant usage on schema public to service_role;
+grant select, insert, update, delete on table public.visits to service_role;
+grant select, insert, update, delete on table public.outbound_clicks to service_role;
+grant select, insert, update, delete on table public.conversions to service_role;
+```
+
+La migración MVP habilita **RLS** en esas tablas; en teoría el rol `service_role` debería poder operar; en algunos entornos conviene dejar explícitos los `GRANT` anteriores.
+
+### 7. Matching: `sub_id` de conversión → identificador de click de Google
+
+Objetivo: cuando una conversión llega del partner (p. ej. Impact) con el mismo identificador que enviaste en el link (`sub_id`), poder subir **offline conversions** a Google usando **`gclid`** (o `gbraid` / `wbraid` según corresponda).
+
+Cadena lógica:
+
+1. La conversión trae **`sub_id`** (el que pusiste en el query param del partner, p. ej. vía `TRACKING_SUB_ID_PARAM`).
+2. Buscás **`outbound_clicks.sub_id`** (unique en el MVP) → una fila = un clickout concreto.
+3. Para Google Ads, preferís el **`gclid`** (o variantes) guardado en **esa fila** de `outbound_clicks` (alineado en tiempo con el click).
+4. Si en `outbound_clicks` viniera vacío pero tenés **`visit_id`**, podés subir a **`visits`** y usar el `gclid` de la sesión (según política de atribución).
+5. En **`conversions`** podés persistir **`outbound_click_id`** y/o copiar el id de ads al importar, para no depender del join en cada export.
+
+**Consentimiento:** si el usuario no aceptó marketing/analytics según vuestra política, los campos de ads pueden ir **nulos**; en ese caso el `sub_id` sigue uniendo conversión con clickout comercial, pero puede no haber **`gclid`** utilizable para Google (valorar enhanced conversions u otras vías).
+
+### 8. Campos `os` / `browser` u otros “raros” en el MVP
+
+Los valores de dispositivo/navegador vienen del **snapshot en el cliente** (user-agent y heurísticas). Si algo se ve mal, revisar `trackingSnapshot` / payload enviado a `POST` visit y el consentimiento; se puede afinar en una iteración posterior sin cambiar el modelo de tablas.
+
+### 9. Endpoints expuestos en producción (MVP actual)
+
+Rutas públicas del sitio (vía redirects en `netlify.toml` hacia functions):
+
+- `POST /api/tracking/visit` → `tracking-visit`
+- `POST /api/tracking/outbound-click` → `tracking-outbound-click`
+- `GET /api/tracking/health` → `tracking-health`
+
+Los paths exactos y el comportamiento CORS están definidos en el código de `netlify/functions/` y en `netlify.toml`.
 

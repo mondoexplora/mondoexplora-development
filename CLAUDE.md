@@ -22,19 +22,53 @@ HTML; there is no runtime backend except a few Netlify Functions.
 ```
 src/app/[lang]/          page.tsx, home, destination/[city], country/[country],
                          route/[origin]/[destination], travel_modes/... (stub),
-                         article/[slug], privacy
+                         article/[slug], privacy,
+                         experiences/[country]/[region]/[experience]
 src/lib/                 data.ts, i18n.ts, geo-seo.ts, regional-data.ts,
                          trackingManager.ts, trackingBackend.ts,
-                         trackingSnapshot.ts, mxSession.ts
+                         trackingSnapshot.ts, mxSession.ts,
+                         experiences.ts, countryBounds.ts, experienceSeo.ts,
+                         experienceLinks.ts, experienceLanguages.ts,
+                         outboundWindow.ts
 src/components/          Hero, HotelCard, HotelGrid, RouteCTA, Footer,
                          ConsentInitializer, PrivacyConsentBox,
                          TrackingBootstrap, StructuredData, ...
+src/components/experiences/  ExperienceCard, ActivityChips, Filterable*,
+                         GettingThere, LocationMap, PartnerLink, GatewayLink
 netlify/functions/       tracking-{visit,outbound-click,health}.js,
                          _tracking-shared.js, {country,destination,route}.js
 data/<lang>/{destination,country,route}/*.json
+data/experiences/        explore-share.csv (21MB, source for /experiences)
 config/routes.json       drives route + travel_modes generateStaticParams
+scripts/generate-experiences-feed.mts   PMax feed, runs after next build
 supabase/migrations/     20260503000000_tracking_mvp.sql
 ```
+
+## Experiences (`/en/experiences`) — added 2026-08-29
+
+4,776 static pages built from `data/experiences/explore-share.csv`: a hub, 69
+countries, 434 regions, 4,272 experiences. **English only** — gated by
+`EXPERIENCE_LANGUAGES` in `src/lib/experienceLanguages.ts`, because the feed is
+not translated.
+
+Only 4,272 of the CSV's 6,379 rows are published. **The feed's `lat`/`lng`
+column is unreliable** — a geocoder fell back to unrelated points, and one New
+Delhi coordinate is shared by 46 experiences across Austria, Italy and
+Switzerland. Since `gateway_cities_json` was generated *from* those coordinates,
+a bad point also poisons every distance and drive time shown (one Swiss day trip
+lists Dubai, 2,202km, as its nearest city). Two offline checks drop 670 such
+rows. **Do not relax them** — re-geocoding from `location_name + region +
+country` is the real fix and would recover ~14% of the catalogue.
+
+Outbound links carry the `sub_id` as **`utm_content`**, not a `gclid`:
+Explore-share reports revenue keyed on UTMs, last-paid-click, and a unique
+`sub_id` joins 1:1 back to `outbound_clicks`. All partner links are real anchors
+with `rel="sponsored nofollow noopener noreferrer"` (the partner asked).
+
+`window.open()` with `noopener` returns null per spec — see
+`src/lib/outboundWindow.ts` before touching the clickout code.
+
+Full detail: **`EXPERIENCES.md`** (current and accurate).
 
 ## Languages — known inconsistency
 
@@ -82,10 +116,15 @@ redeploy, then fall back to explicit `GRANT`s (see the runbook §6).
 
 ## Open questions
 
-- **Affiliate network mismatch.** Hotel links from the CSV are **ShareASale**
-  (`luxuryescapes.sjv.io`, affiliate `1991376`), not Impact — but the tracking
-  backend assumes Impact conversion reports return `sub_id`. Unresolved; see
-  `AFFILIATE_TRACKING_AUDIT.md`. This decides whether `sub_id` ever comes back.
+- **Affiliate network mismatch (hotels).** Hotel links from the CSV are
+  **ShareASale** (`luxuryescapes.sjv.io`, affiliate `1991376`), not Impact — but
+  the tracking backend assumes Impact conversion reports return `sub_id`.
+  Unresolved; see `AFFILIATE_TRACKING_AUDIT.md`. This decides whether `sub_id`
+  ever comes back. **Resolved for Explore-share only:** no network, they report
+  on UTMs directly (last paid click), which is why `utm_content` carries the
+  `sub_id` there.
+- **Re-geocoding the experience feed** — 670 publishable experiences are held
+  back purely by bad coordinates. See `EXPERIENCES.md`.
 - Google Search Console verification is placeholder text in
   `src/app/layout.tsx`; DNS TXT verification was in progress.
 
@@ -102,7 +141,8 @@ done — **ask before doing it.** Until then, ignore build-artifact churn in
 
 ## Documentation status
 
-`TRACKING_BACKEND_SPEC.md` is current and accurate — trust it.
+`TRACKING_BACKEND_SPEC.md` and `EXPERIENCES.md` are current and accurate —
+trust them. `DAILY_WORK_LOG.md` records dated sessions, newest first.
 
 These are **stale or aspirational** — do not treat as current:
 - `Infraestructura.md` — describes Pages Router, BigQuery, Sentry, weather/
