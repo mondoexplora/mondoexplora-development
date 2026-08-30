@@ -1,6 +1,7 @@
 'use client';
 
 import { PARTNER_REL } from '@/lib/experienceLinks';
+import { openOutboundTab, resolveWithTimeout } from '@/lib/outboundWindow';
 import { appendOutboundTrackingUrl } from '@/lib/trackingBackend';
 
 interface GatewayLinkProps {
@@ -12,32 +13,31 @@ interface GatewayLinkProps {
 /**
  * "Plan this journey" link in the how-to-get-there module.
  *
- * Tracked as a `gateway_city` clickout so we can see how much of the section's
- * traffic it actually earns, and carries the same sponsored/nofollow rel as the
- * booking link. Rome2Rio has no partner profile, so its sub_id lands under the
- * default TRACKING_SUB_ID_PARAM rather than utm_content.
+ * Same new-tab behaviour as PartnerLink: the experience page stays open behind
+ * it. Tracked as a `gateway_city` clickout so we can see how much of the
+ * section's traffic that module earns. Rome2Rio has no partner profile, so its
+ * sub_id lands under the default TRACKING_SUB_ID_PARAM rather than utm_content.
  */
 export default function GatewayLink({
   rome2rioUrl,
   className,
   children,
 }: GatewayLinkProps) {
-  const handleClick = async (e: React.MouseEvent<HTMLAnchorElement>) => {
+  const handleClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
     if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button !== 0) return;
 
+    const tab = openOutboundTab();
+    if (!tab) return; // popup blocked — let target="_blank" handle it
+
     e.preventDefault();
-    const w = window.open('', '_blank', 'noopener,noreferrer');
-    try {
-      const finalUrl = await appendOutboundTrackingUrl(rome2rioUrl, {
+
+    void resolveWithTimeout(
+      appendOutboundTrackingUrl(rome2rioUrl, {
         placement: 'gateway_city',
         partner: 'rome2rio',
-      });
-      if (w) w.location.href = finalUrl;
-      else window.location.href = finalUrl;
-    } catch {
-      if (w) w.location.href = rome2rioUrl;
-      else window.location.href = rome2rioUrl;
-    }
+      }),
+      rome2rioUrl
+    ).then((finalUrl) => tab.send(finalUrl));
   };
 
   return (

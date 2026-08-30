@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { PARTNER_REL, partnerHref, outboundCampaign } from '@/lib/experienceLinks';
+import { openOutboundTab, resolveWithTimeout } from '@/lib/outboundWindow';
 import {
   appendOutboundTrackingUrl,
   type OutboundPlacement,
@@ -21,12 +22,13 @@ interface PartnerLinkProps {
  * Outbound link to the booking partner.
  *
  * Renders a real anchor with the static UTMs and rel="sponsored nofollow ..." so
- * crawlers see (and discount) a genuine link — a window.open() handler would give
- * them nothing to read, which is exactly what the partner asked us to avoid.
+ * crawlers see (and discount) a genuine link — a bare window.open() handler would
+ * give them nothing to read, which is what the partner asked us to avoid.
  *
- * On click it registers the clickout, which mints the unique sub_id and returns
- * the final URL with it attached as utm_content. If that call fails or is slow to
- * fail, the plain href is followed instead: an untracked click beats a lost one.
+ * On click it opens a NEW TAB and leaves the page the visitor is reading exactly
+ * as it was, then points that tab at the tracked URL once the clickout has been
+ * registered and the sub_id minted. See lib/outboundWindow for why the current
+ * tab is never redirected.
  */
 export default function PartnerLink({
   partnerUrl,
@@ -40,32 +42,34 @@ export default function PartnerLink({
   const [pending, setPending] = useState(false);
   const href = partnerHref(partnerUrl, countrySlug, regionSlug);
 
-  const handleClick = async (e: React.MouseEvent<HTMLAnchorElement>) => {
+  const handleClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
     // Let modified clicks (new tab, download, middle click) behave natively.
     if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button !== 0) return;
+    if (pending) {
+      e.preventDefault();
+      return;
+    }
+
+    // Must happen synchronously, inside the gesture, or Safari blocks it.
+    const tab = openOutboundTab();
+
+    // Popup blocked: do nothing and let the anchor's target="_blank" open the
+    // untracked fallback. Never redirect the tab the visitor is reading.
+    if (!tab) return;
 
     e.preventDefault();
-    if (pending) return;
     setPending(true);
 
-    // Opened before the await so the navigation stays inside the user gesture;
-    // Safari blocks a window.open() that happens after an async boundary.
-    const w = window.open('', '_blank', 'noopener,noreferrer');
-
-    try {
-      const finalUrl = await appendOutboundTrackingUrl(partnerUrl, {
+    void resolveWithTimeout(
+      appendOutboundTrackingUrl(partnerUrl, {
         placement,
         partner: 'exploreshare',
         outboundCampaign: outboundCampaign(countrySlug, regionSlug),
-      });
-      if (w) w.location.href = finalUrl;
-      else window.location.href = finalUrl;
-    } catch {
-      if (w) w.location.href = href;
-      else window.location.href = href;
-    } finally {
-      setPending(false);
-    }
+      }),
+      href
+    )
+      .then((finalUrl) => tab.send(finalUrl))
+      .finally(() => setPending(false));
   };
 
   return (
