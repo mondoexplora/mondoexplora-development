@@ -75,8 +75,68 @@ publishable catalogue. Until then, do not relax these checks: publishing
 "nearest city: Dubai, 22h" on a page you pay Google to send traffic to burns ad
 spend and the partner relationship at once.
 
+**The filter is a floor, not a fix — the published set is still wrong often.**
+Both checks only ask whether the point is in the *right country*, so a
+coordinate that is wrong by hundreds of kilometres inside the correct country
+sails through and publishes. Three of six rows sampled at random on 2026-08-30
+were like this, all live:
+
+| Page says | Feed coordinate lands in | Off by |
+| --- | --- | --- |
+| Bepi Zac al Costa, Dolomites (Veneto) | Lago Maggiore | ~250 km |
+| Aonach Eagach, Glencoe (Highland) | Suffolk, east England | ~700 km |
+| Deerfield River (Massachusetts) | San Francisco Bay | ~4,000 km |
+
+There is no offline test that catches these — the only proxy that works without
+a geocoder (coordinate sitting on a gateway city's centre) flags 41 of 4,272,
+and most of those are legitimately city-named locations. **The error rate in the
+published set is unmeasured**; re-geocoding is what would both measure and fix it.
+
+Two consequences are already handled:
+
+- **The map never uses `lat`/`lng`.** `LocationMap` hands Google the string
+  `location_name, region, country` and lets its geocoder resolve it. It gets all
+  three rows above right. See below.
+- **The JSON-LD no longer publishes `geo`.** `experienceJsonLd()` used to emit a
+  `GeoCoordinates` block straight from the feed, i.e. telling Google that a
+  Scottish ridge is in Suffolk. The `address` block is feed text and is correct,
+  so it stays.
+
+Still unhandled: **`GettingThere` shows distances and drive times computed from
+the bad point** — the Dolomites page says "Milan, 93 km, 55 min" when the map
+directly below it shows Passo Selle, over three hours away. The Rome2Rio links
+themselves are built from place *names* and do go to the right place, so a user
+can correct the search there; the numbers on our page cannot be trusted until
+the feed is re-geocoded.
+
 Related: a Google Maps API key is committed at
-`README_GOOGLE_MAPS_INTEGRATION.md:46` and needs rotating regardless.
+`README_GOOGLE_MAPS_INTEGRATION.md:46` and needs rotating regardless. Do not
+reuse it for the map embed — issue a fresh one.
+
+### The map
+
+`LocationMap` is a **Google Maps Embed API** iframe, queried by place name.
+
+- The *Embed* API is the free, unmetered Maps SKU. The Maps **JavaScript** API
+  would bill per map load across 4,272 pages; do not swap to it casually.
+- Set `NEXT_PUBLIC_GOOGLE_MAPS_EMBED_KEY` to a key restricted to the Embed API
+  and to the `mondoexplora.com` referrer. **Without it the component falls back
+  to the legacy keyless `maps.google.com/...&output=embed` endpoint**, which
+  works today but is undocumented and can be withdrawn by Google.
+- **Zoom is pinned at 6** (`MAP_ZOOM`), roughly a 1,500 km-wide frame at Alpine
+  latitudes. Google's own framing for a named place is too tight for most of this
+  catalogue — a ferrata or a glacier fills the frame with unlabelled terrain and
+  says nothing about where it is. At 6 the surrounding cities and coastline are
+  on screen. Each step down doubles the span, each step up halves it; it is one
+  constant. For a region-level query Google draws the region outline instead of a
+  pin, which reads better anyway.
+- It is a **client component and consent-gated**: a third-party iframe sets
+  Google's cookies on load, so until `cookie-consent` is `accepted` the user sees
+  a placeholder with a "Show map" button. It subscribes to `mx-consent-changed`,
+  so accepting the banner reveals the map without a reload.
+- It replaced a relative-position SVG that plotted the feed coordinates on a bare
+  grid. That drew genuinely correct *relative* positions, but it also meant a
+  wrong coordinate was invisible to the reader.
 
 ### Prices
 
@@ -105,7 +165,7 @@ src/components/experiences/
   FilterableExperiences.tsx      region page: filters cards (client)
   FilterableTiles.tsx            hub + country: filters tiles (client)
   GettingThere.tsx               the how-to-get-there module
-  LocationMap.tsx                relative-position SVG map
+  LocationMap.tsx                Google Maps embed, queried by place name
   PartnerLink.tsx                booking clickout (client)
   GatewayLink.tsx                Rome2Rio clickout (client)
 

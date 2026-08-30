@@ -1,5 +1,65 @@
 # Daily Work Log - MondoExplora Next.js Project
 
+## 📅 **August 30, 2026**
+
+### **Session — real Google map on the experience pages**
+
+Branch `feature/tracking-only`. Build green (`npm run build`, 4,272 experiences).
+
+**🎯 Goal:** the "Where it happens" map read as noise. Replace it with a real
+interactive map.
+
+**🔍 What the mockup turned up (the important part)**
+- Built a side-by-side of three options on real feed rows before writing any
+  component code. Two findings landed there, not in review.
+- **`coordinateIsPlausible()` is far weaker than the docs implied.** Both its
+  checks only ask *is this point in the claimed country* — so a coordinate wrong
+  by hundreds of km inside the right country publishes. 3 of 6 rows sampled at
+  random were like that, all live: Dolomites via ferrata → Lago Maggiore
+  (~250 km), Glencoe ridge → Suffolk (~700 km), Deerfield River MA → San
+  Francisco Bay (~4,000 km).
+- The old SVG *hid* this. Any real map exposes it — which is why the fix below
+  routes around `lat`/`lng` entirely rather than plotting it prettier.
+- No offline test catches this class of error. The only proxy that works without
+  a geocoder (point sitting on a gateway city centre) flags 41 of 4,272. **The
+  real error rate in the published set is unmeasured.**
+
+**🛠️ Changed**
+
+1. **`LocationMap.tsx`** — was a relative-position SVG on the feed coordinates,
+   now a **Google Maps Embed API** iframe queried by
+   `location_name, region, country`. Google's geocoder resolves all three bad
+   rows above correctly (Aonach Eagach lands next to the Clachaig Inn; Bepi Zac
+   next to Rifugio Passo Selle).
+   - Embed API is the free unmetered SKU. The Maps **JavaScript** API bills per
+     map load and would meter 4,272 pages — considered and rejected.
+   - Reads `NEXT_PUBLIC_GOOGLE_MAPS_EMBED_KEY`; **not yet set**, so it currently
+     runs on the legacy keyless `output=embed` endpoint. Works, undocumented.
+   - Zoom pinned at `MAP_ZOOM = 6` (~1,500 km wide). Google's default framing
+     for a named peak is a screen of unlabelled brown terrain; at 6 you get the
+     surrounding cities and coastline. One constant to change.
+   - Now a client component and **consent-gated** — the iframe sets Google's
+     cookies, so it shows a "Show map" placeholder until `cookie-consent` is
+     `accepted`, and listens on `mx-consent-changed`.
+2. **`experienceSeo.ts`** — dropped the `geo`/`GeoCoordinates` block from the
+   experience JSON-LD. It published the bad coordinate straight to Google. The
+   `address` block is feed text and is correct, so it stays.
+3. **`experiences.css`** — placeholder styles; map height moved out of an inline
+   style, which had been silently beating the `220px` mobile media query.
+
+**⚠️ Known and deliberately left**
+- `GettingThere` still shows distances and drive times derived from the bad
+  point. The Dolomites page says "Milan · 55 min" directly above a map of Passo
+  Selle, three hours away. Accepted for now: the Rome2Rio links are built from
+  place *names*, so they do land on the right search and the user can correct it
+  there. Re-geocoding the feed is the real fix.
+- Google Maps key still needs issuing (and the one committed at
+  `README_GOOGLE_MAPS_INTEGRATION.md:46` still needs rotating — do not reuse it).
+
+**📄 Docs** — `EXPERIENCES.md` and `CLAUDE.md` updated with all of the above.
+
+---
+
 ## 📅 **August 29, 2026**
 
 ### **Session — `/en/experiences` funnel: design, build, tracking, PMax feed**

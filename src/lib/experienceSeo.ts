@@ -223,11 +223,9 @@ export function experienceJsonLd(
     url: experiencesUrl(lang, e.countrySlug, e.regionSlug, e.slug),
     image: e.photos.length > 0 ? [e.mainPhoto, ...e.photos.slice(0, 5)] : [e.mainPhoto],
     touristType: e.activity,
-    geo: {
-      '@type': 'GeoCoordinates',
-      latitude: e.lat,
-      longitude: e.lng,
-    },
+    // No `geo` block: the feed's lat/lng is wrong often enough (and wrong by
+    // hundreds of km) that publishing it as structured data misinforms Google.
+    // `address` below is text straight from the feed and is correct.
     address: {
       '@type': 'PostalAddress',
       addressLocality: e.locationName,

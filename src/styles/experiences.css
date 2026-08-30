@@ -541,19 +541,47 @@
   background: #e9eef2;
 }
 
-.exp-map svg { width: 100%; height: 100%; display: block; }
+.exp-map iframe { width: 100%; height: 100%; display: block; border: 0; }
 
-.exp-map-note {
-  position: absolute;
-  left: 1rem;
-  bottom: 1rem;
-  background: rgba(255, 255, 255, 0.95);
-  border-radius: 8px;
-  padding: 0.5rem 0.75rem;
-  font-size: 12px;
-  color: #6c757d;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+/* Shown until cookie consent is accepted — the embed is a third party. */
+.exp-map-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #eef1f5;
+  background-image:
+    linear-gradient(#e2e7ee 1px, transparent 1px),
+    linear-gradient(90deg, #e2e7ee 1px, transparent 1px);
+  background-size: 48px 48px;
 }
+
+.exp-map-ask {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35rem;
+  text-align: center;
+  padding: 1.25rem;
+}
+
+.exp-map-ask strong { font-size: 1.05rem; color: #2a3f59; }
+.exp-map-ask span { font-size: 0.85rem; color: #6c757d; }
+
+.exp-map-ask button {
+  margin-top: 0.5rem;
+  border: 0;
+  border-radius: 8px;
+  background: #28a745;
+  color: #fff;
+  font: inherit;
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 0.55rem 1.1rem;
+  cursor: pointer;
+}
+
+.exp-map-ask button:hover { background: #22913c; }
+.exp-map-ask small { font-size: 11px; color: #9ca3af; max-width: 30ch; }
 
 /* ------------------------------------------------------------ pagination */
 

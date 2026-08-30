@@ -94,6 +94,20 @@ lists Dubai, 2,202km, as its nearest city). Two offline checks drop 670 such
 rows. **Do not relax them** — re-geocoding from `location_name + region +
 country` is the real fix and would recover ~14% of the catalogue.
 
+**The checks only prove the point is in the right country, so plenty of wrong
+coordinates still publish** (a Dolomites via ferrata pinned at Lago Maggiore, a
+Glencoe ridge in Suffolk). So nothing user-facing uses `lat`/`lng` any more:
+`LocationMap` is a Google Maps **Embed API** iframe queried by
+`location_name, region, country`, and `experienceJsonLd()` emits no `geo` block.
+The Embed API is the free unmetered SKU — the Maps *JavaScript* API bills per
+load and would meter all 4,272 pages. Set `NEXT_PUBLIC_GOOGLE_MAPS_EMBED_KEY`
+(restricted to Embed API + referrer); without it the component falls back to the
+undocumented keyless embed. Zoom is pinned at `MAP_ZOOM = 6` (~1,500 km across) so the
+frame shows surrounding cities rather than unlabelled terrain. The map is
+consent-gated behind a "Show map" placeholder because the iframe sets Google's
+cookies. **`GettingThere` still
+shows distances/drive times derived from the bad point** — known and unfixed.
+
 Outbound links carry the `sub_id` as **`utm_content`**, not a `gclid`:
 Explore-share reports revenue keyed on UTMs, last-paid-click, and a unique
 `sub_id` joins 1:1 back to `outbound_clicks`. All partner links are real anchors

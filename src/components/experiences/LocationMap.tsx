@@ -1,123 +1,109 @@
+'use client';
+
+import { useEffect, useState } from 'react';
 import { Experience } from '@/lib/experiences';
+import { readCookieConsentFlag, subscribeConsentChanges } from '@/lib/trackingBackend';
 
 /**
- * Relative-position map of the experience and its gateway cities.
+ * Google Maps embed for the experience location.
  *
- * Static export rules out a tile layer (no runtime key, no network at build), so
- * rather than a fake map this plots the real coordinates on an equirectangular
- * projection fitted to their bounding box: the pin and the city dots sit in
- * genuinely correct positions relative to one another. Labelled as such, because
- * it is not a street map and should not be read as one.
+ * Queried BY NAME, never by the feed's lat/lng. Those coordinates are wrong far
+ * more often than the country-bounds filter in `experiences.ts` can catch — it
+ * only rejects a point outside the claimed country, so a Dolomites via ferrata
+ * geocoded to Lago Maggiore (250km off) or a Glencoe ridge geocoded to Suffolk
+ * (700km off) both pass and both publish. Handing Google the place name instead
+ * lets its geocoder resolve it, and it gets all three of those right where the
+ * feed got them wrong. See EXPERIENCES.md.
+ *
+ * The Maps *Embed* API is the free, unmetered one — unlike the Maps JavaScript
+ * API, which bills per map load and would meter all 4,272 pages. Nothing here
+ * runs at build time, so it is compatible with `output: 'export'`.
+ *
+ * Third-party iframe, so it is consent-gated: Google sets cookies the moment it
+ * loads. Until consent is accepted the user gets a placeholder and loads the map
+ * with an explicit click.
  */
 
 interface LocationMapProps {
   experience: Experience;
-  height?: number;
 }
 
-const W = 860;
-const H = 340;
-const PAD = 56;
+/** `location, region, country`, minus the duplicates — many rows repeat them. */
+export function mapQuery(e: Experience): string {
+  const parts: string[] = [];
+  for (const part of [e.locationName, e.region, e.country]) {
+    const v = (part ?? '').trim();
+    if (!v) continue;
+    if (parts.some((p) => p.toLowerCase() === v.toLowerCase())) continue;
+    parts.push(v);
+  }
+  return parts.join(', ');
+}
 
-export default function LocationMap({ experience, height = H }: LocationMapProps) {
-  const cities = experience.gatewayCities.slice(0, 4);
-  const points = [
-    { lat: experience.lat, lng: experience.lng },
-    ...cities.map((c) => ({ lat: c.latitude, lng: c.longitude })),
-  ];
+const EMBED_KEY = process.env.NEXT_PUBLIC_GOOGLE_MAPS_EMBED_KEY;
 
-  const lats = points.map((p) => p.lat);
-  const lngs = points.map((p) => p.lng);
-  const latMin = Math.min(...lats);
-  const latMax = Math.max(...lats);
-  const lngMin = Math.min(...lngs);
-  const lngMax = Math.max(...lngs);
+/**
+ * Fixed zoom, because Google's default framing for a named place is far too
+ * tight for most of this catalogue: a mountain, a ferrata or a glacier fills the
+ * frame with unlabelled terrain and tells the reader nothing about *where* it
+ * is. Pulling back to a regional view puts recognisable towns and coastline on
+ * screen.
+ *
+ * Roughly: a ~900px-wide frame spans `40,075 · cos(lat) / 2^zoom · 3.5` km, so
+ * at Alpine latitudes zoom 6 ≈ 1,500 km across. Each step down doubles the span,
+ * each step up halves it. This is the one number to change.
+ */
+const MAP_ZOOM = 6;
 
-  // Guard against a degenerate box when every point coincides.
-  const latSpan = Math.max(latMax - latMin, 0.05);
-  const lngSpan = Math.max(lngMax - lngMin, 0.05);
+export function mapEmbedSrc(query: string): string {
+  const q = encodeURIComponent(query);
+  // Documented, supported endpoint. Needs a key restricted to the Embed API.
+  if (EMBED_KEY) {
+    return `https://www.google.com/maps/embed/v1/place?key=${EMBED_KEY}&q=${q}&zoom=${MAP_ZOOM}`;
+  }
+  // No key configured yet: the legacy keyless embed still works, but it is
+  // undocumented and Google can withdraw it. Set the env var.
+  return `https://maps.google.com/maps?q=${q}&z=${MAP_ZOOM}&output=embed`;
+}
 
-  const project = (lat: number, lng: number) => ({
-    x: PAD + ((lng - lngMin) / lngSpan) * (W - PAD * 2),
-    // Latitude increases northward, y increases downward.
-    y: PAD + ((latMax - lat) / latSpan) * (H - PAD * 2),
-  });
+// Height lives in experiences.css so the mobile override actually applies — an
+// inline style used to beat the media query, leaving the map 340px tall on phones.
+export default function LocationMap({ experience }: LocationMapProps) {
+  const [allowed, setAllowed] = useState(false);
+  const query = mapQuery(experience);
 
-  const pin = project(experience.lat, experience.lng);
+  useEffect(() => {
+    const sync = () => setAllowed(readCookieConsentFlag() === 'accepted');
+    sync();
+    return subscribeConsentChanges(sync);
+  }, []);
+
+  if (!allowed) {
+    return (
+      <div className="exp-map exp-map-placeholder">
+        <div className="exp-map-ask">
+          <strong>{experience.locationName}</strong>
+          <span>{[experience.region, experience.country].join(', ')}</span>
+          <button type="button" onClick={() => setAllowed(true)}>
+            Show map
+          </button>
+          <small>Loads from Google Maps, which sets its own cookies.</small>
+        </div>
+      </div>
+    );
+  }
 
   return (
-    <div className="exp-map" style={{ height }}>
-      <svg
-        viewBox={`0 0 ${W} ${H}`}
-        preserveAspectRatio="xMidYMid slice"
-        role="img"
-        aria-label={`Relative position of ${experience.locationName} and its nearest cities`}
-      >
-        <rect width={W} height={H} fill="#e9eef2" />
-
-        <g stroke="#dfe6ec" strokeWidth="1">
-          {[1, 2, 3, 4, 5, 6, 7].map((i) => (
-            <path key={`v${i}`} d={`M${(W / 8) * i} 0V${H}`} />
-          ))}
-          {[1, 2, 3, 4].map((i) => (
-            <path key={`h${i}`} d={`M0 ${(H / 5) * i}H${W}`} />
-          ))}
-        </g>
-
-        {/* Connectors from each city to the experience, so distance reads visually. */}
-        {cities.map((c) => {
-          const p = project(c.latitude, c.longitude);
-          return (
-            <path
-              key={`line-${c.name}`}
-              d={`M${p.x} ${p.y} L${pin.x} ${pin.y}`}
-              stroke="#b9c6d3"
-              strokeWidth="1.5"
-              strokeDasharray="4 4"
-              fill="none"
-            />
-          );
-        })}
-
-        {cities.map((c) => {
-          const p = project(c.latitude, c.longitude);
-          const flip = p.x > W - 160;
-          return (
-            <g key={c.name} fontFamily="Inter, Arial, sans-serif" fontSize="12" fill="#6c757d">
-              <circle cx={p.x} cy={p.y} r="4.5" fill="#8a99a8" />
-              <text x={flip ? p.x - 12 : p.x + 12} y={p.y + 4} textAnchor={flip ? 'end' : 'start'}>
-                {c.name} · {Math.round(c.distance_km)} km
-              </text>
-            </g>
-          );
-        })}
-
-        <g transform={`translate(${pin.x},${pin.y - 16})`}>
-          <circle cx="0" cy="18" r="26" fill="#28a745" opacity="0.16" />
-          <path
-            d="M0 34 C0 34 -14 16 -14 6 A14 14 0 1 1 14 6 C14 16 0 34 0 34 Z"
-            fill="#28a745"
-            stroke="#fff"
-            strokeWidth="2.5"
-          />
-          <circle cx="0" cy="6" r="5" fill="#fff" />
-          <text
-            x={pin.x > W - 220 ? -22 : 22}
-            y="10"
-            textAnchor={pin.x > W - 220 ? 'end' : 'start'}
-            fontFamily="Inter, Arial, sans-serif"
-            fontSize="13"
-            fontWeight="700"
-            fill="#2a3f59"
-          >
-            {experience.locationName}
-          </text>
-        </g>
-      </svg>
-      <div className="exp-map-note">
-        Relative positions, not a street map · {experience.lat.toFixed(4)},{' '}
-        {experience.lng.toFixed(4)}
-      </div>
+    <div className="exp-map">
+      {/* Google's own "Open in Maps" control sits inside the frame, so no link
+          of ours here — it only collided with the attribution strip on mobile. */}
+      <iframe
+        src={mapEmbedSrc(query)}
+        title={`Map of ${query}`}
+        loading="lazy"
+        allowFullScreen
+        referrerPolicy="no-referrer-when-downgrade"
+      />
     </div>
   );
 }
