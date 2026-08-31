@@ -121,8 +121,8 @@
       "title": "Kuala Lumpur Kimpton Luxury Overlooking Petronas Twin Towers with Rooftop Bar, Pool & Social Hour Drinks",
       "description": "A jewel in Kuala Lumpur's most dynamic address, Kimpton Naluria Kuala Lumpur by IHG sits at the heart of TRX - the city's gleaming financial and lifestyle district. The Petronas Twin Towers, KLCC, The Royal Selangor Golf Club and the city's best retail and dining are all within easy reach. Rooms take their cue from Malaysia's landscape, with warm timber finishes, terrazzo accents and botanical details that bring a sense of calm to the city buzz. The onsite dining venues span everything from reimagined Malaysian heritage cooking at Tuai + Till and retro Italian-American indulgence at Sabato's, to speciality coffee at Rise & Grind. Up top, Four Siblings Rooftop Bar & Lounge is one of the city's most talked-about spots, serving cocktails with views of the KL skyline. Every evening, Kimpton's signature Social Hour brings guests together for complimentary drinks and chef's bites at sundown - the kind of effortless hospitality the brand is known for worldwide.",
       "location_subheading": "Malaysia",
-      "price": 492,
-      "original_price": 492,
+      "price": 497,
+      "original_price": 497,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Qq21xYAB",
       "hero_image": "https://images.luxuryescapes.com/7dqpaozxm6jxow6z2wo",
@@ -211,8 +211,8 @@
       "title": "Golden Triangle Hotel near Pavilion KL with Urban Farm Dining, Spa & Saltwater Pool",
       "description": "Soak up the Golden Triangle energy with a stay at PARKROYAL COLLECTION Kuala Lumpur, where Pavilion KL shopping centre is a short stroll away and Jalan Alor's legendary food street lies just around the corner. The hotel's Urban Farm grows over 50 varieties of fruits, herbs and edible flowers onsite, harvested straight into the kitchen at Thyme and behind the bar at The Botanist Lounge for a genuinely farm-to-table experience. Head up to Level 6 to find the saltwater pool wrapped in lush greenery, the St Gregory Spa and a 24-hour gym and yoga studio for when you need to recharge between city adventures. Bukit Bintang MRT Station is a four-minute walk, making it easy to tick off the Petronas Twin Towers, KL Tower and everything else the city has to offer.",
       "location_subheading": "Malaysia",
-      "price": 454,
-      "original_price": 454,
+      "price": 462,
+      "original_price": 462,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CvkzFAAR",
       "hero_image": "https://images.luxuryescapes.com/n522ijh6va7g2oxd3dc5",
@@ -313,6 +313,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Sofitel Kuala Lumpur Damansara Hotel",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Kuala Lumpur",
+      "title": "Kuala Lumpur Luxury with Daily Breakfast, Club Lounge Access, Two-Hour Free-Flow Drinks & Massages",
+      "description": "From the heights of the Petronas Twin Towers to the temples and vibrant markets of the past, immerse yourself in the sights of Malaysia’s dynamic capital from this glamorous sanctuary. Nestled in one of Kuala Lumpur’s most upscale neighbourhoods, Damansara Heights, you’ll be perfectly positioned to experience the city. After a day of exploration, retreat to your refined abode, complete with a stunning outdoor pool that offers an urban oasis amid the glittering towers of Kuala Lumpur. Unwind at the multi-award-winning Sofitel Spa, work up a sweat at the fitness centre, enjoy exquisite dining across three restaurants and two bars, and sip on cocktails at Club Millésime.",
+      "location_subheading": "Malaysia",
+      "price": 279,
+      "original_price": 754,
+      "discount_percentage": 63,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000YBVBPYA5",
+      "hero_image": "https://images.luxuryescapes.com/rsb5nz4y79a8reftqlc",
+      "image_two": "https://images.luxuryescapes.com/ta3oxt5jwlccqndsnra",
+      "image_three": "https://images.luxuryescapes.com/90q5lpvjipssgmwtppo",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 2,
+      "end_date_utc": "2026-09-28 13:59:00"
+    },
+    {
       "vendor_name": "The Chow Kit",
       "offer_country_name": "Malaysia",
       "location_heading": "Kuala Lumpur",
@@ -402,9 +420,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-30",
-    "hotel_count": 21,
-    "average_price": 357,
-    "average_discount": 8
+    "last_updated": "2026-08-31",
+    "hotel_count": 22,
+    "average_price": 354,
+    "average_discount": 11
   }
 }

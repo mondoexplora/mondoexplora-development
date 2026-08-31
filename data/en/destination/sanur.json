@@ -46,24 +46,6 @@
       "vendor_name": "Kayumanis Sanur Private Villa & Spa",
       "offer_country_name": "Indonesia",
       "location_heading": "Sanur",
-      "title": "Sanur Five-Star Private Pool Villas & Spa Moments from the Beach",
-      "description": "Welcome to Kayumanis Sanur Private Villa & Spa, your own slice of Bali paradise enveloped in lush tropical greenery. Positioned in the charming seaside village of Sanur, this exclusive villa complex is within easy reach of the area’s restaurants, vibrant nightlife, markets, and independent boutiques, filled with unique artisan gifts. Intimate and authentic, Kayumanis Sanur Private Villa & Spa is home to a collection of one, two and three-bedroom villas, each nestled within the confines of a walled garden, with private pools and dedicated butler service. While leaving your sumptuous sanctuary is optional, there’s more to explore. Discover true tranquility at Kayumanis Spa Sanur, where treatments combine traditional Balinese techniques with modern wellness knowledge. Sample Sanur's finest at Gong Restaurant, which combines market-fresh ingredients and seasonal delicacies infused with local herbs and spices, or opt for something a little more relaxed with beach-inspired bites at Kayumanis Seaside Restaurant.",
-      "location_subheading": "Indonesia",
-      "price": 718,
-      "original_price": 921,
-      "discount_percentage": 22,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y0000070HU6AAM",
-      "hero_image": "https://images.luxuryescapes.com/sn9v9pl1kmanxqluthig8",
-      "image_two": "https://images.luxuryescapes.com/i1eop9i3k151bix9aej",
-      "image_three": "https://images.luxuryescapes.com/w996o3e9iawze82r6rr",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Kayumanis Sanur Private Villa & Spa",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Sanur",
       "title": "Sanur Pool Villa Opulence with Butler Service, Massages, Daily Breakfast & Nightly Dinner",
       "description": "Welcome to this five-star slice of Balinese paradise. Positioned in the charming village of Sanur, this exclusive villa complex is home to just 11 villas, each nestled within the confines of a walled garden with private pools and dedicated butler service. Sample the region's finest cuisine at Gong Restaurant, which combines market-fresh ingredients and seasonal delicacies infused with local herbs and spices, or opt for something a little more relaxed with beach-inspired bites at Kayumanis Seaside Sanur Restaurant. Alternatively, enjoy the serenity of your villa and allow the attentive team to bring meals to you. Discover true tranquillity at Kayumanis Spa Sanur, where treatments combine traditional Balinese techniques with modern wellness knowledge. With everything you need right at your doorstep, it's tempting to stay in - but if you venture beyond the villa, you'll find yourself within easy reach of local restaurants, vibrant nightlife, bustling markets and charming boutiques. At Kayumanis Sanur Private Villa & Spa, you truly get the best of both worlds.",
       "location_subheading": "Indonesia",
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 5,
       "end_date_utc": "2026-09-18 13:59:00"
+    },
+    {
+      "vendor_name": "Kayumanis Sanur Private Villa & Spa",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Sanur",
+      "title": "Sanur Five-Star Private Pool Villas & Spa Moments from the Beach",
+      "description": "Welcome to Kayumanis Sanur Private Villa & Spa, your own slice of Bali paradise enveloped in lush tropical greenery. Positioned in the charming seaside village of Sanur, this exclusive villa complex is within easy reach of the area’s restaurants, vibrant nightlife, markets, and independent boutiques, filled with unique artisan gifts. Intimate and authentic, Kayumanis Sanur Private Villa & Spa is home to a collection of one, two and three-bedroom villas, each nestled within the confines of a walled garden, with private pools and dedicated butler service. While leaving your sumptuous sanctuary is optional, there’s more to explore. Discover true tranquility at Kayumanis Spa Sanur, where treatments combine traditional Balinese techniques with modern wellness knowledge. Sample Sanur's finest at Gong Restaurant, which combines market-fresh ingredients and seasonal delicacies infused with local herbs and spices, or opt for something a little more relaxed with beach-inspired bites at Kayumanis Seaside Restaurant.",
+      "location_subheading": "Indonesia",
+      "price": 718,
+      "original_price": 921,
+      "discount_percentage": 22,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y0000070HU6AAM",
+      "hero_image": "https://images.luxuryescapes.com/sn9v9pl1kmanxqluthig8",
+      "image_two": "https://images.luxuryescapes.com/i1eop9i3k151bix9aej",
+      "image_three": "https://images.luxuryescapes.com/w996o3e9iawze82r6rr",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Maya Sanur Resort & Spa",
@@ -186,7 +186,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
     "hotel_count": 9,
     "average_price": 510,
     "average_discount": 21

@@ -1,36 +1,36 @@
 {
-  "city": "Phang-nga",
+  "city": "Phang Nga",
   "country": "Thailand",
   "country_code": "TH",
-  "hero_title": "Hotels in Phang-nga",
-  "description": "Discover the best hotels in Phang-nga, Thailand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/3n21f8qjr2ij9irleet",
+  "hero_title": "Hotels in Phang Nga",
+  "description": "Discover the best hotels in Phang Nga, Thailand. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/5y9nf4n9aehykiy07q8",
   "hotels": [
     {
-      "vendor_name": "Outrigger Khao Lak Beach Resort",
+      "vendor_name": "The Waters Khao Lak by Katathani Collection",
       "offer_country_name": "Thailand",
-      "location_heading": "Phang-nga",
-      "title": "Contemporary Khao Lak Resort Escape Steps from Bangsak Beach",
-      "description": "If you have your heart set on an absolute beachfront retreat, Outrigger Khao Lak Beach Resort, located mere steps from the azure waters of the Andaman Sea, will fulfil your every wish. Watch the waves lap against Bangsak Beach while indulging in a fusion feast at Edgewater Restaurant & Bar. Tap in to your vacation spirit with a float in the infinity pool and an open-air Thai massage, or fully immerse yourself in Khao Lak's adventuring spirit with a yoga or Thai boxing class - you can't go wrong.",
+      "location_heading": "Phang Nga",
+      "title": "Idyllic Thai Escape in Coastal Khao Lak with Daily Breakfast",
+      "description": "Enter a world of cascading waterfalls and dazzling turquoise pools with a stay at The Waters Khao Lak, part of the award-winning Katathani Collection. Accept relaxation beyond imagination - snooze late before taking breakfast at Amici Italian Bistro, spend the afternoon sipping cocktails at swim-up The Bubble Bar or rejuvenate at the onsite Sila Spa. When you’re ready to explore, Khao Lak abounds in sleepy golden beaches, hopping bars and magnificent national parks.",
       "location_subheading": "Thailand",
-      "price": 115,
-      "original_price": 126,
-      "discount_percentage": 9,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DN6JyAAL",
-      "hero_image": "https://images.luxuryescapes.com/3n21f8qjr2ij9irleet",
-      "image_two": "https://images.luxuryescapes.com/hwpptmgl7ilrab4p6c7s",
-      "image_three": "https://images.luxuryescapes.com/31izloajmf47r39p5x89",
-      "deal_tier": "Luxury Escapes - Tier 2",
+      "price": 203,
+      "original_price": 231,
+      "discount_percentage": 12,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000ECPJwAAP",
+      "hero_image": "https://images.luxuryescapes.com/5y9nf4n9aehykiy07q8",
+      "image_two": "https://images.luxuryescapes.com/bmgmg4kk4gz4y9l7qpk9",
+      "image_three": "https://images.luxuryescapes.com/w1cdl2zyolg8480w3vq9",
+      "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
-    "title": "Hotels in Phang-nga - Thailand Hotels & Travel Guide 2024",
-    "description": "Find the best hotels in Phang-nga, Thailand with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "title": "Hotels in Phang Nga - Thailand Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Phang Nga, Thailand with exclusive deals. Book your perfect getaway with up to 60% off.",
     "keywords": [
-      "phang-nga hotels",
-      "phang-nga travel",
+      "phang nga hotels",
+      "phang nga travel",
       "thailand hotels"
     ],
     "canonical": "https://mondoexplora.com/en/destination/phang-nga",
@@ -42,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
     "hotel_count": 1,
-    "average_price": 115,
-    "average_discount": 9
+    "average_price": 203,
+    "average_discount": 12
   }
 }

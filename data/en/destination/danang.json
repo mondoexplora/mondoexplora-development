@@ -64,24 +64,6 @@
       "vendor_name": "Shilla Monogram Danang",
       "offer_country_name": "Vietnam",
       "location_heading": "Danang",
-      "title": "Vietnam Five-Star Beachfront Stay near Hội An with Dreamy Infinity Pool",
-      "description": "Discover a palm-fringed oasis at the luxurious Shilla Monogram Danang, a dazzling beachfront resort located on the golden sands between Danang and the historic town of Hội An, Vietnam. With private beach access, this serene escape invites you to savour slow, secluded afternoons in the relaxing sunshine by crystal-clear waters. This elegant retreat flaunts state-of-the-art facilities like a tranquil bamboo forest garden, lavish infinity pool and floating yoga classes. Sink your toes into the soft sands of Ha My Beach or treat your tastebuds to locally sourced cuisine at the resort's restaurant and bistro.",
-      "location_subheading": "Vietnam",
-      "price": 336,
-      "original_price": 336,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000BcgfJAAR",
-      "hero_image": "https://images.luxuryescapes.com/faoch9owkvybzk7umq2f",
-      "image_two": "https://images.luxuryescapes.com/cuzk7fofwv9om6h3mmq8",
-      "image_three": "https://images.luxuryescapes.com/gas1uoojveucbw0msa2",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Shilla Monogram Danang",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Danang",
       "title": "Vietnam All-Inclusive Beachfront Luxury with Unlimited Free-Flow Drinks",
       "description": "Experience historic beauty and modern opulence at this beachfront resort, gracefully located on the golden sands between Danang and the UNESCO World Heritage-listed Hoi An Old Town. Enjoy state-of-the-art facilities, including a tranquil bamboo forest garden, soothing sauna and sprawling infinity pool with endless vistas over the horizon. Step onto the soft sand of Non Nuoc Beach, where you’ll have a front-row seat to golden sunrises, or treat your palate to locally sourced cuisine at one of the resort’s sleek restaurants, Dining M or Bistro M. Moments of luxury await at the Monogram Lounge, where low-slung chairs are the perfect spot for tropical tipples and canapes. When you’re ready to explore further, venture into the beautifully preserved historic town of Hoi An, just a 20-minute drive away. Stroll the iconic lantern-clad streets, sip famously sweet Vietnamese coffee at a quaint cafe or treat yourself to a tailored suit, before heading back to the resort for a nightcap at Bar M.",
       "location_subheading": "Vietnam",
@@ -95,6 +77,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 5,
       "end_date_utc": "2026-09-14 13:59:00"
+    },
+    {
+      "vendor_name": "Shilla Monogram Danang",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Danang",
+      "title": "Vietnam Five-Star Beachfront Stay near Hội An with Dreamy Infinity Pool",
+      "description": "Discover a palm-fringed oasis at the luxurious Shilla Monogram Danang, a dazzling beachfront resort located on the golden sands between Danang and the historic town of Hội An, Vietnam. With private beach access, this serene escape invites you to savour slow, secluded afternoons in the relaxing sunshine by crystal-clear waters. This elegant retreat flaunts state-of-the-art facilities like a tranquil bamboo forest garden, lavish infinity pool and floating yoga classes. Sink your toes into the soft sands of Ha My Beach or treat your tastebuds to locally sourced cuisine at the resort's restaurant and bistro.",
+      "location_subheading": "Vietnam",
+      "price": 336,
+      "original_price": 336,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000BcgfJAAR",
+      "hero_image": "https://images.luxuryescapes.com/faoch9owkvybzk7umq2f",
+      "image_two": "https://images.luxuryescapes.com/cuzk7fofwv9om6h3mmq8",
+      "image_three": "https://images.luxuryescapes.com/gas1uoojveucbw0msa2",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -114,7 +114,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
     "hotel_count": 5,
     "average_price": 660,
     "average_discount": 10
