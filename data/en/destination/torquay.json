@@ -28,24 +28,6 @@
       "vendor_name": "Wyndham Resort Torquay",
       "offer_country_name": "Australia",
       "location_heading": "Torquay",
-      "title": "Great Ocean Road Torquay Escape with Outdoor Pool & Apartment Upgrades Available",
-      "description": "Sitting right on Zeally Bay, Wyndham Resort Torquay puts rolling surf on your doorstep and the beach just a short walk over the dunes. Bells Beach - a favourite with families and home to world-class surfing - is less than 10 minutes away, placing you at the start of Victoria’s iconic Great Ocean Road. Back at the resort, a heated outdoor pool, indoor lap pool, tennis court, fitness centre and games room keep everyone entertained between beach trips. For extra space, upgrade to a fully equipped apartment - ideal for families wanting a relaxed home base for longer stays. Torquay's boutiques, cafes and the Surf World Museum are a short stroll across Surf Coast Highway. The resort's on-site Grab-and-Go Café keeps things simple, whether you're picking up coffee on the way out or pizza after a day in the surf.",
-      "location_subheading": "Australia",
-      "price": 199,
-      "original_price": 369,
-      "discount_percentage": 46,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000MTKebYAH",
-      "hero_image": "https://images.luxuryescapes.com/6v2wn0us2a6r6ic9ai",
-      "image_two": "https://images.luxuryescapes.com/0016j6kdehws8jar79e7p",
-      "image_three": "https://images.luxuryescapes.com/aex3otg87o5n47qx578",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 2,
-      "end_date_utc": "2026-09-28 13:59:00"
-    },
-    {
-      "vendor_name": "Wyndham Resort Torquay",
-      "offer_country_name": "Australia",
-      "location_heading": "Torquay",
       "title": "Elegant Great Ocean Road Torquay Escape Steps from Zeally Bay Beach with Indoor Pool & Spa",
       "description": "Experience the sheer coastal bliss of Victoria's picturesque Surf Coast with an escape to this stylish retreat in Torquay, ideally sitting across Zeally Bay Beach. The perfect launchpad for exploring the unrivalled beauty of the Great Ocean Road, this resort offers a blend of modern comfort with classic charms, featuring spacious, well-appointed accommodations to ensure utmost relaxation. Take a dip in the heated indoor pool, pamper with treatments at the outdoor spa, play tennis or indulge in culinary delights at the onsite bar and cafe. From surf lessons, vibrant dining and farmers markets, to reef walks and fishing charters, you'll be perfectly placed to take advantage of everything the Great Ocean Road has to offer.",
       "location_subheading": "Australia",
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Wyndham Resort Torquay",
+      "offer_country_name": "Australia",
+      "location_heading": "Torquay",
+      "title": "Great Ocean Road Torquay Escape with Outdoor Pool & Apartment Upgrades Available",
+      "description": "Sitting right on Zeally Bay, Wyndham Resort Torquay puts rolling surf on your doorstep and the beach just a short walk over the dunes. Bells Beach - a favourite with families and home to world-class surfing - is less than 10 minutes away, placing you at the start of Victoria’s iconic Great Ocean Road. Back at the resort, a heated outdoor pool, indoor lap pool, tennis court, fitness centre and games room keep everyone entertained between beach trips. For extra space, upgrade to a fully equipped apartment - ideal for families wanting a relaxed home base for longer stays. Torquay's boutiques, cafes and the Surf World Museum are a short stroll across Surf Coast Highway. The resort's on-site Grab-and-Go Café keeps things simple, whether you're picking up coffee on the way out or pizza after a day in the surf.",
+      "location_subheading": "Australia",
+      "price": 199,
+      "original_price": 369,
+      "discount_percentage": 46,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000MTKebYAH",
+      "hero_image": "https://images.luxuryescapes.com/6v2wn0us2a6r6ic9ai",
+      "image_two": "https://images.luxuryescapes.com/0016j6kdehws8jar79e7p",
+      "image_three": "https://images.luxuryescapes.com/aex3otg87o5n47qx578",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-09-28 13:59:00"
     }
   ],
   "seo": {
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-01",
+    "last_updated": "2026-09-02",
     "hotel_count": 3,
     "average_price": 336,
     "average_discount": 21

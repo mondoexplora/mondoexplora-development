@@ -4,8 +4,26 @@
   "country_code": "HU",
   "hero_title": "Hotels in Budapest",
   "description": "Discover the best hotels in Budapest, Hungary. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/bqabmrod4k5ar9s3f8",
+  "hero_image": "https://images.luxuryescapes.com/86uq2cflgzm01dc5xfs",
   "hotels": [
+    {
+      "vendor_name": "Aria Hotel Budapest by Library Hotel Collection",
+      "offer_country_name": "Hungary",
+      "location_heading": "Budapest",
+      "title": "Budapest Music-Inspired Boutique Escape with Rooftop Cocktails, Daily Breakfast & Wine Tasting",
+      "description": "Step into a world where luxury meets melody at the five-star Aria Hotel Budapest, an intimate boutique hotel in a grand historic building. Nestled in the heart of Budapest’s historic centre, this music-inspired retreat is a proud member of the prestigious Library Hotel Collection. A spectacular rooftop terrace garden makes for a one-of-a-kind place to enjoy cocktails as the sun sets beneath Budapest’s skyline. Walk just across the street to reach Hungary’s most sacred - and impressive - cathedral, St. Stephen’s Basilica, or spend the day exploring the city’s best, including Castle Hill and the Royal Palace. Return to the magnificent Harmony Spa or indulge in aperitifs and charcuterie at High Note SkyBar.",
+      "location_subheading": "Hungary",
+      "price": 539,
+      "original_price": 1540,
+      "discount_percentage": 65,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000bUYYPYA4",
+      "hero_image": "https://images.luxuryescapes.com/86uq2cflgzm01dc5xfs",
+      "image_two": "https://images.luxuryescapes.com/h046dr1y85fk7mkz2bjs",
+      "image_three": "https://images.luxuryescapes.com/9tzvw8qf5n4w8280rpa",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-09-30 13:59:00"
+    },
     {
       "vendor_name": "Boho Hotel Budapest",
       "offer_country_name": "Hungary",
@@ -49,8 +67,8 @@
       "title": "Five-Star Budapest Glamour on the Danube Promenade with Buda Castle Views",
       "description": "Blessed with one of the city’s best addresses - on the Danube Promenade just steps from a vibrant dining and bar scene and the somber Shoes on the Danube sculpture - the five-star InterContinental Budapest, an IHG Hotel, was made for riverside relaxation in the heart of the city. Enjoy authentic Lebanese cuisine at ARZ Lebanese Restaurant, cocktails overlooking Buda Castle at Corso Bar and Terrace, a fully equipped fitness area, serene spa, and the exclusive Club InterContinental.",
       "location_subheading": "Hungary",
-      "price": 344,
-      "original_price": 344,
+      "price": 311,
+      "original_price": 311,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt69AAB",
       "hero_image": "https://images.luxuryescapes.com/x3p7ycc68np0uiehk72p",
@@ -67,9 +85,9 @@
       "title": "Sophisticated Five-Star Budapest Heritage Stay with Daily Breakfast",
       "description": "History and hedonism sit side by side at the contemporary Kozmo Hotel Budapest, Hungary's only Leading Hotels of the World member. Occupying an emblematic heritage building two blocks from the city’s Grand Boulevard, this chic outpost is perfectly positioned for days spent wandering up and down the hills of Buda, the flat streets of Pest and alongside the iconic Danube River. Kozmo Hotel Budapest offers a masterclass in distinctive design, effortlessly combining heritage features with a modern minimalist aesthetic across its lobby, rooms and suites. Slink to the sleek wellness centre for relaxed laps in the indoor heated pool or take it up a notch at the fitness centre. Bring it all back down again with a massage or beauty treatment, or reward yourself with a meal at the restaurant, known for its refined offering of local and international dishes. An open kitchen gives you a front-row seat to the culinary magic, best accompanied by a wine from the extensive list of Old and New World producers. **Luxury Escapes inclusions:** - Graze your way through a **daily breakfast buffet** of continental classics and à la carte hot dishes - Start your stay with a seasonal **drink on arrival** - Relax and recharge with a **one-hour spa pass** (for stays of 3+ nights) **Travelling with family?** Choose a Family Room for up to four guests, comprised of two connecting but independent Standard Rooms to ensure privacy and peace.",
       "location_subheading": "Hungary",
-      "price": 460,
-      "original_price": 561,
-      "discount_percentage": 18,
+      "price": 455,
+      "original_price": 562,
+      "discount_percentage": 19,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003HHDjAAO",
       "hero_image": "https://images.luxuryescapes.com/1htm8zmk8kjebfvtg8lu",
       "image_two": "https://images.luxuryescapes.com/1462lt2vxydk6oawx86qg",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-01",
-    "hotel_count": 5,
-    "average_price": 403,
-    "average_discount": 18
+    "last_updated": "2026-09-02",
+    "hotel_count": 6,
+    "average_price": 419,
+    "average_discount": 26
   }
 }

@@ -4,25 +4,25 @@
   "country_code": "MX",
   "hero_title": "Hotels in Tulum",
   "description": "Discover the best hotels in Tulum, Mexico. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/sx1mxhnelbuknr6h40z",
+  "hero_image": "https://images.luxuryescapes.com/uin24n6hdbjwg5x7wm8",
   "hotels": [
     {
-      "vendor_name": "Kimpton Aluna Resort Tulum",
+      "vendor_name": "Papaya Playa Project",
       "offer_country_name": "Mexico",
       "location_heading": "Tulum",
-      "title": "Tropical Tulum Haven Between the Jungle & the Sea with Two Restaurants & Spa",
-      "description": "Discover an oasis of tropical tranquillity nestled between the pristine shoreline and the lush jungle at Kimpton Aluna Resort Tulum, an IHG Hotel. Stroll down to the beachfront to enjoy crystal-clear water and soft white sand or relax beside the adults-only rooftop pool, with a cocktail in hand. Kickstart your days in paradise with an organic breakfast at Parallel 20° and later, watch the sun dip below the horizon while enjoying refreshing drinks and fusion cuisine at Bhanu Sky Kitchen. Your coastal dream awaits.",
+      "title": "Tulum Beachfront Private Pool Oasis with Daily Breakfast & Nightly Cocktails",
+      "description": "Nestled along a 900-metre stretch of Tulum's pristine Caribbean coastline, Papaya Playa Project offers a unique blend of rustic charm and eco-conscious design. This beachfront retreat features Mayan inspired suites and cabanas crafted from local materials, providing a harmonious connection with the surrounding jungle and sea. The resort is also close to Jaguar Park, a protected natural area where visitors can explore Tulum’s tropical landscapes and cultural heritage. The resort's beachfront restaurant serves dishes inspired by traditional Mayan and Mexican cuisines, prepared with organic, locally sourced ingredients. Guests can enjoy a wellness program immersion, or participate in yoga classes and Mayan holistic healing rituals at the onsite spa. Located on the edge of Tulum's hotel zone, Papaya Playa Project is just a short drive from downtown Tulum and the Tulum Archaeological Site. The resort's commitment to sustainability and its vibrant community atmosphere make it an ideal destination for those seeking a unique and immersive experience in Tulum.",
       "location_subheading": "Mexico",
-      "price": 547,
-      "original_price": 547,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EwpJUAAZ",
-      "hero_image": "https://images.luxuryescapes.com/sx1mxhnelbuknr6h40z",
-      "image_two": "https://images.luxuryescapes.com/x8ijtpdlvnvnzb4fb5v",
-      "image_three": "https://images.luxuryescapes.com/boma6evpcubes3e2jopb",
+      "price": 939,
+      "original_price": 2184,
+      "discount_percentage": 57,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000b4nT4YAI",
+      "hero_image": "https://images.luxuryescapes.com/uin24n6hdbjwg5x7wm8",
+      "image_two": "https://images.luxuryescapes.com/aigkz55codst4935qvh",
+      "image_three": "https://images.luxuryescapes.com/31vrltnyk8bn4dfo1ald",
       "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
+      "min_duration": 3,
+      "end_date_utc": "2026-10-28 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-09-02",
     "hotel_count": 1,
-    "average_price": 547,
-    "average_discount": 0
+    "average_price": 939,
+    "average_discount": 57
   }
 }
