@@ -4,8 +4,26 @@
   "country_code": "TH",
   "hero_title": "Hotels in Koh Yao Yai",
   "description": "Discover the best hotels in Koh Yao Yai, Thailand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/rl0moka1bca1d104cdph",
+  "hero_image": "https://images.luxuryescapes.com/9y1fd0w5wg43410db4",
   "hotels": [
+    {
+      "vendor_name": "Anantara Koh Yao Yai Resort & Villas",
+      "offer_country_name": "Thailand",
+      "location_heading": "Koh Yao Yai",
+      "title": "Koh Yao Yai Island Retreat Off the Coast of Phuket with Seven Restaurants and Bars",
+      "description": "Discover pristine island landscapes with unspoilt white sands, thriving greenery and crystal-clear waters at Anantara Koh Yao Yai Resort & Villas. Melt into coastal paradise with massages from the onsite spa and traverse international cuisines between seven sophisticated bars and restaurants. If you can pull yourself away from the pool, roll through the gorgeous scenery by bike, sail across the sea on a sunset cruise, or hop to the nearby James Bond island during your stay at this picturesque locale.",
+      "location_subheading": "Thailand",
+      "price": 797,
+      "original_price": 797,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EbQ2OAAV",
+      "hero_image": "https://images.luxuryescapes.com/9y1fd0w5wg43410db4",
+      "image_two": "https://images.luxuryescapes.com/i3y8bjentjz4j11ypkdd",
+      "image_three": "https://images.luxuryescapes.com/x69ce6ntcbz220nq1qbf",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Anantara Koh Yao Yai Resort & Villas",
       "offer_country_name": "Thailand",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 5,
       "end_date_utc": "2026-09-04 13:59:00"
-    },
-    {
-      "vendor_name": "Anantara Koh Yao Yai Resort & Villas",
-      "offer_country_name": "Thailand",
-      "location_heading": "Koh Yao Yai",
-      "title": "Koh Yao Yai Island Retreat Off the Coast of Phuket with Seven Restaurants and Bars",
-      "description": "Discover pristine island landscapes with unspoilt white sands, thriving greenery and crystal-clear waters at Anantara Koh Yao Yai Resort & Villas. Melt into coastal paradise with massages from the onsite spa and traverse international cuisines between seven sophisticated bars and restaurants. If you can pull yourself away from the pool, roll through the gorgeous scenery by bike, sail across the sea on a sunset cruise, or hop to the nearby James Bond island during your stay at this picturesque locale.",
-      "location_subheading": "Thailand",
-      "price": 786,
-      "original_price": 786,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EbQ2OAAV",
-      "hero_image": "https://images.luxuryescapes.com/9y1fd0w5wg43410db4",
-      "image_two": "https://images.luxuryescapes.com/i3y8bjentjz4j11ypkdd",
-      "image_three": "https://images.luxuryescapes.com/x69ce6ntcbz220nq1qbf",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-02",
+    "last_updated": "2026-09-03",
     "hotel_count": 2,
-    "average_price": 1003,
+    "average_price": 1008,
     "average_discount": 39
   }
 }

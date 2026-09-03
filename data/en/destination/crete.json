@@ -166,7 +166,7 @@
       "image_three": "https://images.luxuryescapes.com/egw532ib1sdcsfgkz8pd",
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 3,
-      "end_date_utc": "2026-09-11 13:59:00"
+      "end_date_utc": "2026-09-25 13:59:00"
     },
     {
       "vendor_name": "Porto Elounda Golf & Spa Resort",
@@ -185,6 +185,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Royal Blue Resort & Spa Crete",
+      "offer_country_name": "Greece",
+      "location_heading": "Crete",
+      "title": "Crete Oceanfront Bliss with Daily Breakfast, Nightly Dinner, EUR50 Resort Credit & One Child Stays Free",
+      "description": "A glamorous slice of Crete awaits at The Royal Blue Resort & Spa, a five-star hillside hideaway overlooking the Aegean. Spread across more than 70 acres of beautifully kept gardens, the resort offers access to a private beach made for lazy afternoons in the Mediterranean sun. Spend your time lounging by the main pools, which offer breathtaking views over the Aegean Sea, or practice your serve on the onsite tennis courts. Get pampered at the blissful The Pure Blue Spa, and take time to wine and dine at one of eight restaurants and bars, including the locally inspired Symposium. Set among lush gardens above sparkling blue waters, this island escape lies on Crete’s northern coast, near the quaint village of Panormos. Visit for a true taste of island life, and experience charming cobbled streets lined with boutique shops and Greek tavernas in tiny coves.",
+      "location_subheading": "Greece",
+      "price": 504,
+      "original_price": 869,
+      "discount_percentage": 42,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000eC0WfYAK",
+      "hero_image": "https://images.luxuryescapes.com/pc9edamjx93mskf2lgre",
+      "image_two": "https://images.luxuryescapes.com/i5cyu4vf035o81esd48",
+      "image_three": "https://images.luxuryescapes.com/2hdk2s0utoxalgve8tzj",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-10-01 13:59:00"
     }
   ],
   "seo": {
@@ -204,9 +222,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-02",
-    "hotel_count": 10,
-    "average_price": 730,
-    "average_discount": 12
+    "last_updated": "2026-09-03",
+    "hotel_count": 11,
+    "average_price": 709,
+    "average_discount": 15
   }
 }

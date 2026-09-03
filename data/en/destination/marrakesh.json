@@ -1,0 +1,50 @@
+{
+  "city": "Marrakesh",
+  "country": "Morocco",
+  "country_code": "MA",
+  "hero_title": "Hotels in Marrakesh",
+  "description": "Discover the best hotels in Marrakesh, Morocco. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/r56c3szk543akk5u4h",
+  "hotels": [
+    {
+      "vendor_name": "Sofitel Marrakech Palais Imperial",
+      "offer_country_name": "Morocco",
+      "location_heading": "Marrakesh",
+      "title": "Five-Star Marrakech Palace Escape with Timeless Moroccan Elegance",
+      "description": "Set in Marrakech’s elegant Hivernage district, this palatial retreat places you close to the Koutoubia Mosque, Jemaa el-Fnaa and the ochre lanes of the medina. The property pairs Moorish detailing with manicured gardens and a grand outdoor pool framed by palms. Inside, the spa offers hammam rituals and treatment rooms, while several restaurants serve Moroccan and French dishes. The rooftop bar looks towards the Atlas Mountains, and Menara Gardens lies a short drive away",
+      "location_subheading": "Morocco",
+      "price": 843,
+      "original_price": 843,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000drkpVYAQ",
+      "hero_image": "https://images.luxuryescapes.com/r56c3szk543akk5u4h",
+      "image_two": "https://images.luxuryescapes.com/p9ukbdzdao863k7qkzs",
+      "image_three": "https://images.luxuryescapes.com/7abbmxxxoa1m1ngfqlh",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Marrakesh - Morocco Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Marrakesh, Morocco with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "marrakesh hotels",
+      "marrakesh travel",
+      "morocco hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/marrakesh",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/marrakesh",
+      "es": "https://mondoexplora.com/es/destination/marrakesh",
+      "fr": "https://mondoexplora.com/fr/destination/marrakesh",
+      "it": "https://mondoexplora.com/it/destination/marrakesh"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-09-03",
+    "hotel_count": 1,
+    "average_price": 843,
+    "average_discount": 0
+  }
+}

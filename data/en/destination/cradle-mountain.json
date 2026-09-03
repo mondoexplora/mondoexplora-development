@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Cradle Mountain",
   "description": "Discover the best hotels in Cradle Mountain, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/wlwfdsmffvaxjik98ha",
+  "hero_image": "https://images.luxuryescapes.com/f5t3ybl6merjiwyylpsk",
   "hotels": [
-    {
-      "vendor_name": "Discovery Resorts Cradle Mountain",
-      "offer_country_name": "Australia",
-      "location_heading": "Cradle Mountain",
-      "title": "Cradle Mountain Alpine Chalet Retreat with Nightly A$50 Dining Credit",
-      "description": "Unplug and escape to the great Cradle Mountain, set on the edge of the UNESCO World Heritage-listed Tasmanian wilderness. Experience the untamed beauty of the dramatic alpine landscape with breathtaking views from your mountain chalet and encounter Tasmania's diverse wildlife just steps from your door. Hike the famous Overland Track, explore the national park by canoe or on horseback and admire the serene Dove Lake at the base of the mountain. Relax with a glass of wine and nibble on some local cheese and truffles as you unwind after a day outdoors, taking in the peace and quiet around you. Be immersed in nature from the moment you arrive, with the landscape inviting you to sit back and admire your surroundings, and acres of true rugged wilderness calling you on a wild adventure.",
-      "location_subheading": "Australia",
-      "price": 359,
-      "original_price": 733,
-      "discount_percentage": 51,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000aCl02YAC",
-      "hero_image": "https://images.luxuryescapes.com/wlwfdsmffvaxjik98ha",
-      "image_two": "https://images.luxuryescapes.com/y40pz63jdfz7nz6zr73o",
-      "image_three": "https://images.luxuryescapes.com/x2spprg2np9e6hgv8zl",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 2,
-      "end_date_utc": "2026-09-02 13:59:00"
-    },
     {
       "vendor_name": "Peppers Cradle Mountain Lodge",
       "offer_country_name": "Australia",
@@ -60,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-02",
-    "hotel_count": 2,
-    "average_price": 460,
-    "average_discount": 26
+    "last_updated": "2026-09-03",
+    "hotel_count": 1,
+    "average_price": 560,
+    "average_discount": 0
   }
 }
