@@ -175,8 +175,8 @@
       "title": "Central Rome 19th-Century Escape near Villa Borghese with Rooftop Restaurant",
       "description": "Perched on the edge of the verdant Villa Borghese gardens, this sanctuary combines French finesse with Italian passion. Unwind in sophisticated rooms adorned with designer touches, then ascend to the Settimo rooftop restaurant where panoramic views of the Eternal City complement traditional fare and handcrafted cocktails. Just minutes from the Spanish Steps and heritage Piazza Barberini, you're ideally situated to explore Rome's cultural treasures. After exploring the grand Pantheon or strolling through charming Trastevere, retreat to your urban oasis to unwind or simply admire St. Peter's Basilica from the rooftop.",
       "location_subheading": "Italy",
-      "price": 840,
-      "original_price": 840,
+      "price": 867,
+      "original_price": 867,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP6UYAV",
       "hero_image": "https://images.luxuryescapes.com/c77s0pztvoo81lhizxnj",
@@ -203,6 +203,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Hoxton Rome",
+      "offer_country_name": "Italy",
+      "location_heading": "Rome",
+      "title": "Rome Designer Luxury near Villa Borghese Gardens & Via Veneto with Daily Breakfast",
+      "description": "Eclectic furnishings, chic design touches and Italian luxury at its finest: there’s nowhere better to soak up Rome’s vibrant charm than The Hoxton Rome. A stylish retreat in the heart of the city’s fashion-forward Parioli district, this boutique hotel claims an excellent position for exploring, with Villa Borghese gardens and the bustling Via Veneto - made famous in Federico Fellini’s 1960 film ‘La Dolce Vita’ - just steps away. Between roaming the city's famous piazzas, unwind at the light-filled Elio Restaurant, where you can indulge in cocktail brunches, sumptuous dinners and delectable wines. Start the day with a croissant and coffee at Cugino and return later for an expertly crafted nightcap. For culture and history enthusiasts, the Colosseum, Vatican City and the Pantheon are all within easy reach, while River Tiber invites leisurely strolls in between shopping and exploration.",
+      "location_subheading": "Italy",
+      "price": 299,
+      "original_price": 564,
+      "discount_percentage": 47,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000dSnc1YAC",
+      "hero_image": "https://images.luxuryescapes.com/h5tsd15o1n7jtotx5fh",
+      "image_two": "https://images.luxuryescapes.com/39xxgx5vqctidcs1a8d3",
+      "image_three": "https://images.luxuryescapes.com/6757ifg7mdtu5ryvlia9",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-10-02 13:59:00"
     }
   ],
   "seo": {
@@ -222,9 +240,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-03",
-    "hotel_count": 11,
-    "average_price": 787,
-    "average_discount": 8
+    "last_updated": "2026-09-04",
+    "hotel_count": 12,
+    "average_price": 748,
+    "average_discount": 11
   }
 }

@@ -4,8 +4,26 @@
   "country_code": "SG",
   "hero_title": "Hotels in SINGAPORE",
   "description": "Discover the best hotels in SINGAPORE, Singapore. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/4fv11l4qpqtzitiq7wsl",
+  "hero_image": "https://images.luxuryescapes.com/9vsqyewhqrzurybn5qpc",
   "hotels": [
+    {
+      "vendor_name": "Mercure ICON Singapore City Centre",
+      "offer_country_name": "Singapore",
+      "location_heading": "SINGAPORE",
+      "title": "Stylish Singapore City Centre Stay with Contemporary Mercure Comfort",
+      "description": "Set in Singapore’s historic Chinatown district, this polished city stay places you moments from Telok Ayer, Club Street and the shophouses of Amoy Street. Raffles Place and Marina Bay are within easy reach, while Maxwell Food Centre and Lau Pa Sat offer some of the city’s most sought-after hawker fare. Inside, contemporary rooms are paired with a rooftop pool and fitness centre for downtime between explorations. Nearby, the Buddha Tooth Relic Temple, Thian Hock Keng and the galleries of Ann Siang Hill add layers of heritage and culture",
+      "location_subheading": "Singapore",
+      "price": 407,
+      "original_price": 407,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000drkpXYAQ",
+      "hero_image": "https://images.luxuryescapes.com/9vsqyewhqrzurybn5qpc",
+      "image_two": "https://images.luxuryescapes.com/xbmfsegte6ykeyiyjqy5",
+      "image_three": "https://images.luxuryescapes.com/dh62oa6bfjcy8ppltyya",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Raffles Sentosa Resort",
       "offer_country_name": "Singapore",
@@ -13,8 +31,8 @@
       "title": "Raffles Sentosa Singapore: Ultra-Luxe Island Sanctuary in the Heart of Sentosa",
       "description": "Set on Sentosa’s lush hillside, this refined retreat places you moments from Tanjong Beach and the island’s heritage trails. The resort’s low-rise design draws on Singapore’s colonial past, with elegant suites opening to tropical gardens and private terraces. Dine on contemporary Cantonese at nearby Tanjong Beach Club or sample seafood at Quayside Isle, then wander to Fort Siloso for a glimpse of the island’s military history. Back at the resort, a serene spa, lap pool and butler service shape each stay",
       "location_subheading": "Singapore",
-      "price": 3210,
-      "original_price": 3210,
+      "price": 3217,
+      "original_price": 3217,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000drkpYYAQ",
       "hero_image": "https://images.luxuryescapes.com/4fv11l4qpqtzitiq7wsl",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-03",
-    "hotel_count": 1,
-    "average_price": 3210,
+    "last_updated": "2026-09-04",
+    "hotel_count": 2,
+    "average_price": 1812,
     "average_discount": 0
   }
 }
