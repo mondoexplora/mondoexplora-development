@@ -4,8 +4,26 @@
   "country_code": "ES",
   "hero_title": "Hotels in Marbella",
   "description": "Discover the best hotels in Marbella, Spain. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/fktsbmfbhee6yccuwpuwq",
+  "hero_image": "https://images.luxuryescapes.com/43mxifq0qbyh96urc24",
   "hotels": [
+    {
+      "vendor_name": "Kimpton Los Monteros Marbella",
+      "offer_country_name": "Spain",
+      "location_heading": "Marbella",
+      "title": "Marbella Mediterranean Opulence with Daily Breakfast & Nightly Free-Flow Wine Hour",
+      "description": "Dolce&Gabbana beach-club days, rooftop cocktails and five-star resort living set the tone at this glamorous oceanfront escape. Kimpton Los Monteros Marbella pairs polished contemporary interiors with Mediterranean architecture, 5,000sqm of landscaped gardens and leafy interior patios, creating plenty of space to slow down between poolside afternoons and evenings out. Just a five-minute walk away, the beach is home to La Cabane by Dolce&Gabbana, the hotel’s striking beachfront club dressed in the fashion house’s signature prints and unmistakable flair. Back at the resort, drift between the indoor and outdoor pools or unwind at the blissful Codage Spa, then head to Escondido Rooftop for a cocktail as the sun sets over Marbella. The setting puts you within easy reach of the city's atmospheric Old Town, high-end boutiques, restaurants and lively marina, while still feeling removed enough for a slower-paced stay. It’s an ideal base for dipping into the city when the mood strikes, then retreating to the calmer surroundings of Los Monteros.",
+      "location_subheading": "Spain",
+      "price": 679,
+      "original_price": 1835,
+      "discount_percentage": 63,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000cP7y5YAC",
+      "hero_image": "https://images.luxuryescapes.com/43mxifq0qbyh96urc24",
+      "image_two": "https://images.luxuryescapes.com/nlha7ea7xqywrmcrjf3v",
+      "image_three": "https://images.luxuryescapes.com/wb2g1p6ss7olkl1moa",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-10-02 13:59:00"
+    },
     {
       "vendor_name": "METT Marbella - Estepona",
       "offer_country_name": "Spain",
@@ -13,8 +31,8 @@
       "title": "Costa del Sol Beachfront Glamour with Four Dining Venues & Onsite Spa",
       "description": "Nestled in the heart of the sun-kissed Costa del Sol, this luxurious resort is a dazzling gem perfectly poised between the azure Mediterranean Sea and the majestic Andalusian mountains of southern Spain. Savour the sophisticated flavours of Europe at the resort’s gourmet restaurants, or unwind with a handcrafted cocktail beside the sparkling infinity pool. Discover the enchanting charm of Marbella’s historic Old Town, with its cobblestone streets and vibrant culture. For golf aficionados, the resort offers unrivalled access to some of the region’s most prestigious and scenic golf courses, ensuring every moment is touched with glamour and refinement.",
       "location_subheading": "Spain",
-      "price": 708,
-      "original_price": 708,
+      "price": 796,
+      "original_price": 796,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000JMlMTAA1",
       "hero_image": "https://images.luxuryescapes.com/fktsbmfbhee6yccuwpuwq",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-04",
-    "hotel_count": 1,
-    "average_price": 708,
-    "average_discount": 0
+    "last_updated": "2026-09-05",
+    "hotel_count": 2,
+    "average_price": 738,
+    "average_discount": 32
   }
 }

@@ -13,8 +13,8 @@
       "title": "Byron Bay Eco-Luxury Retreat Amidst Tranquil Rainforest with Indulgent Spa & Forest-Themed Restaurant",
       "description": "Celebrate a harmony of nature and contemporary elegance at this five-star eco-conscious sanctuary nestled amid 45 acres of lush subtropical rainforest in the heart of Byron Bay. Immerse yourself in the serenity of verdant foliage, savour the flavours of locally sourced cuisine at Forest which boasts an onsite herb garden and offers biodynamic wines and rejuvenate your senses at the world-class Eléme Spa. If you wish to venture out, Byron Bay's vibrant town centre and the renowned beaches of Tallow and Pass are a short drive away.",
       "location_subheading": "Australia",
-      "price": 596,
-      "original_price": 718,
+      "price": 597,
+      "original_price": 719,
       "discount_percentage": 17,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000IeEAjAAN",
       "hero_image": "https://images.luxuryescapes.com/7d4397iqqbb1w9u5sm",
@@ -41,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-09-07 13:59:00"
+    },
+    {
+      "vendor_name": "Sebel Byron Bay",
+      "offer_country_name": "Australia",
+      "location_heading": "Byron Bay",
+      "title": "Byron Bay Apartment-Style Retreat Moments from the Beach",
+      "description": "Just a short stroll from Main Beach and Clarkes Beach, this refined Byron Bay address places you close to the Cape Byron walking track and the town’s laidback boutiques. The apartment-style suites feature full kitchens, separate living areas and private balconies, with some overlooking the lagoon-style pool. Wander to Jonson Street for coffee, coastal dining and local galleries, or head to the Byron Farmers Market for regional produce. Wategos Beach, the Cape Byron Lighthouse and Arakwal National Park are all within easy reach, while the surrounding hinterland adds a lush backdrop to the coast",
+      "location_subheading": "Australia",
+      "price": 725.9,
+      "original_price": 931,
+      "discount_percentage": 22,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000drkphYAA",
+      "hero_image": "https://images.luxuryescapes.com/32dqfztliz4is9ylu89",
+      "image_two": "https://images.luxuryescapes.com/obasp3ec0bsg9supt80o",
+      "image_three": "https://images.luxuryescapes.com/uyo4jzqu7mubf022k4e",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
     }
   ],
   "seo": {
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-04",
-    "hotel_count": 2,
-    "average_price": 388,
-    "average_discount": 46
+    "last_updated": "2026-09-05",
+    "hotel_count": 3,
+    "average_price": 501,
+    "average_discount": 38
   }
 }
