@@ -352,6 +352,24 @@
       "vendor_name": "One Eleven Resort (previously One Eleven Bali)",
       "offer_country_name": "Indonesia",
       "location_heading": "Seminyak",
+      "title": "Adults-Only Five-Star Seminyak Pool Villas",
+      "description": "Offering contemporary style and tropical seclusion in the heart of Seminyak, the adults-only One Eleven is the epitome of luxury villa living, with a five-star resort experience. Push back the weighted wooden door to your palatial oasis and find yourself in a secluded, palm-fringed landscape with blissfully manicured lawns and an extravagant private spa gazebo. The villa's most striking feature is its impressive 14-metre private swimming pool that beautifully reflects in the panoramic floor-to-ceiling sliding glass doors that mark the entrance to your luxury abode. Step through and discover an effortlessly styled space with ample living areas, a contemporary kitchen, separate light-filled bedroom with a plush king bed dressed in crisp white linens, and a gorgeous ensuite with an indulgent bathtub that faces the sparkling pool. You'll want for nothing at One Eleven - feel like a VIP with a private butler catering to your every need 24 hours a day, or unwind in your extravagant private spa gazebo overlooking the pool, where One Eleven's expert masseuses can soothe and stretch your body without you ever having to leave your villa. Organise in-villa dining or head to the intimate Shiro restaurant, where exquisite fresh sushi is complemented by an impressive sake selection. When you want to explore, this super-sleek sanctuary's enviable location in the heart of Seminyak allows easy access to boutiques, bars and Bali's hottest beach clubs, including Potato Head and Mrs Sippy.",
+      "location_subheading": "Indonesia",
+      "price": 1127,
+      "original_price": 1238,
+      "discount_percentage": 9,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004VnGnAAK",
+      "hero_image": "https://images.luxuryescapes.com/fwkkefmh658lcn358wtn",
+      "image_two": "https://images.luxuryescapes.com/vxfe68w52qp5xjmokt7n",
+      "image_three": "https://images.luxuryescapes.com/qkrqwne2u9rnjfafefzw",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "One Eleven Resort (previously One Eleven Bali)",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Seminyak",
       "title": "Seminyak Adults-Only Pool Villas with Massages, Daily Breakfast, Nightly Dinner & Nightly Cocktails",
       "description": "Tucked away in central Seminyak, yet worlds apart from the bustle, the adults-only One Eleven Retreat brings together nine luxurious villas designed for true relaxation. Each villa features a private pool, tranquil spa gazebo and dedicated butler service. Start each day with breakfast prepared in your villa by a private chef. Beyond your villa, Shiro Sushi and Sake Bar is a reservation-only Japanese restaurant known for its sashimi and curated sake list. Luxe Spa offers traditional Balinese massages and body treatments, available at the spa, in-villa, or in your private gazebo. Jalan Laksmana, Seminyak's main strip for dining and boutique shopping, is a short walk away. Canggu's surf breaks are around 20-30 minutes by car, and Tanah Lot Temple is roughly 30-40 minutes, making both easy day trips without straying far from your villa.",
       "location_subheading": "Indonesia",
@@ -365,24 +383,6 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 5,
       "end_date_utc": "2026-09-24 13:59:00"
-    },
-    {
-      "vendor_name": "One Eleven Resort (previously One Eleven Bali)",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Seminyak",
-      "title": "Adults-Only Five-Star Seminyak Pool Villas",
-      "description": "Offering contemporary style and tropical seclusion in the heart of Seminyak, the adults-only One Eleven is the epitome of luxury villa living, with a five-star resort experience. Push back the weighted wooden door to your palatial oasis and find yourself in a secluded, palm-fringed landscape with blissfully manicured lawns and an extravagant private spa gazebo. The villa's most striking feature is its impressive 14-metre private swimming pool that beautifully reflects in the panoramic floor-to-ceiling sliding glass doors that mark the entrance to your luxury abode. Step through and discover an effortlessly styled space with ample living areas, a contemporary kitchen, separate light-filled bedroom with a plush king bed dressed in crisp white linens, and a gorgeous ensuite with an indulgent bathtub that faces the sparkling pool. You'll want for nothing at One Eleven - feel like a VIP with a private butler catering to your every need 24 hours a day, or unwind in your extravagant private spa gazebo overlooking the pool, where One Eleven's expert masseuses can soothe and stretch your body without you ever having to leave your villa. Organise in-villa dining or head to the intimate Shiro restaurant, where exquisite fresh sushi is complemented by an impressive sake selection. When you want to explore, this super-sleek sanctuary's enviable location in the heart of Seminyak allows easy access to boutiques, bars and Bali's hottest beach clubs, including Potato Head and Mrs Sippy.",
-      "location_subheading": "Indonesia",
-      "price": 1086,
-      "original_price": 1193,
-      "discount_percentage": 9,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004VnGnAAK",
-      "hero_image": "https://images.luxuryescapes.com/fwkkefmh658lcn358wtn",
-      "image_two": "https://images.luxuryescapes.com/vxfe68w52qp5xjmokt7n",
-      "image_three": "https://images.luxuryescapes.com/qkrqwne2u9rnjfafefzw",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Peppers Seminyak",
@@ -564,9 +564,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-05",
+    "last_updated": "2026-09-06",
     "hotel_count": 30,
-    "average_price": 533,
+    "average_price": 535,
     "average_discount": 20
   }
 }

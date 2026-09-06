@@ -4,26 +4,8 @@
   "country_code": "HK",
   "hero_title": "Hotels in Hung Hom Bay",
   "description": "Discover the best hotels in Hung Hom Bay, Hong Kong. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/r00w59d6px8w8tpkmxj",
+  "hero_image": "https://images.luxuryescapes.com/z8gma4zv6cgyq9h0gmt",
   "hotels": [
-    {
-      "vendor_name": "Kerry Hotel Hong Kong",
-      "offer_country_name": "Hong Kong",
-      "location_heading": "Hung Hom Bay",
-      "title": "Hong Kong Harbourside Glamour with Daily Breakfast, Club Lounge Access & One Child Stays Free",
-      "description": "There are few more spectacular views of Victoria Harbour than from Shangri-La’s Kerry Hotel, Hong Kong. Whether you’re living the good life at the private Club Lounge (access included), lazing by the spectacular infinity pool or taking a breather in your city view room, a constant panorama of Hong Kong reminds you that you’ve struck gold. Treat yourself to a glamorous stay only steps away from Kowloon’s Tsim Sha Tsui East shopping district at this city escape on the fringes of Hung Hom Bay. When you’re not admiring the harbour from the infinity pool, feast on dim sum at Hung Tong, be spoilt for choice in Dockyard’s gourmet food hall or enjoy a romantic date night at Red Sugar. Plus, with one child staying free with Club Lounge access included, you’re all set for the ultimate family escape. Between time exploring Kowloon and Hong Kong’s sights, retreat to the opulent spa at Base Camp Kerry Sports, a tranquil haven where signature massages, brightening facials and shea butter infusions will leave you feeling brand-new. Take a luxurious swim at the indoor pool, or simply grab a cabana on the balcony and watch the waters of Victoria Harbour sparkle in the sunlight.",
-      "location_subheading": "Hong Kong",
-      "price": 739,
-      "original_price": 2842,
-      "discount_percentage": 74,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z1DgbYAF",
-      "hero_image": "https://images.luxuryescapes.com/r00w59d6px8w8tpkmxj",
-      "image_two": "https://images.luxuryescapes.com/orrsj0e5at6m26jaj54",
-      "image_three": "https://images.luxuryescapes.com/si1ga7kpckqkgk8x4y8",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 3,
-      "end_date_utc": "2026-09-21 13:59:00"
-    },
     {
       "vendor_name": "Kerry Hotel Hong Kong",
       "offer_country_name": "Hong Kong",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Kerry Hotel Hong Kong",
+      "offer_country_name": "Hong Kong",
+      "location_heading": "Hung Hom Bay",
+      "title": "Hong Kong Harbourside Glamour with Daily Breakfast, Club Lounge Access & One Child Stays Free",
+      "description": "There are few more spectacular views of Victoria Harbour than from Shangri-La’s Kerry Hotel, Hong Kong. Whether you’re living the good life at the private Club Lounge (access included), lazing by the spectacular infinity pool or taking a breather in your city view room, a constant panorama of Hong Kong reminds you that you’ve struck gold. Treat yourself to a glamorous stay only steps away from Kowloon’s Tsim Sha Tsui East shopping district at this city escape on the fringes of Hung Hom Bay. When you’re not admiring the harbour from the infinity pool, feast on dim sum at Hung Tong, be spoilt for choice in Dockyard’s gourmet food hall or enjoy a romantic date night at Red Sugar. Plus, with one child staying free with Club Lounge access included, you’re all set for the ultimate family escape. Between time exploring Kowloon and Hong Kong’s sights, retreat to the opulent spa at Base Camp Kerry Sports, a tranquil haven where signature massages, brightening facials and shea butter infusions will leave you feeling brand-new. Take a luxurious swim at the indoor pool, or simply grab a cabana on the balcony and watch the waters of Victoria Harbour sparkle in the sunlight.",
+      "location_subheading": "Hong Kong",
+      "price": 739,
+      "original_price": 2842,
+      "discount_percentage": 74,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z1DgbYAF",
+      "hero_image": "https://images.luxuryescapes.com/r00w59d6px8w8tpkmxj",
+      "image_two": "https://images.luxuryescapes.com/orrsj0e5at6m26jaj54",
+      "image_three": "https://images.luxuryescapes.com/si1ga7kpckqkgk8x4y8",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 3,
+      "end_date_utc": "2026-09-21 13:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-05",
+    "last_updated": "2026-09-06",
     "hotel_count": 2,
     "average_price": 660,
     "average_discount": 37

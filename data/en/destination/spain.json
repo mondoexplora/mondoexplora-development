@@ -4,25 +4,25 @@
   "country_code": "ES",
   "hero_title": "Hotels in Spain",
   "description": "Discover the best hotels in Spain, Spain. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/wwu3vki1ajqvmfk5kts",
+  "hero_image": "https://images.luxuryescapes.com/dqqg74bfoa01w26heavb",
   "hotels": [
     {
       "vendor_name": "H10 villa de la reina",
       "offer_country_name": "Spain",
       "location_heading": "Spain",
-      "title": "Award-Winning Boutique Luxury in the Heart of Madrid",
+      "title": "Award-Winning Boutique Luxury in the Heart of Madrid with Daily Breakfast and Drink Voucher",
       "description": "Escape to the heart of Madrid with a unique stay at H10 Villa de la Reina, winner of a Tripadvisor Travellers' Choice Award 2020. This French-inspired hotel is housed in a former 20th-century bank and has been lovingly restored to become one of the city’s most majestic accommodation options. Situated on the buzzing Gran Via esplanade, it’s a short wander to some of the Spanish capital’s most iconic landmarks, including the Puerta del Sol and Prado squares and Reina Sofía museum. Explore the city’s best restaurants and bars, shop until your drop on Gran Via or spend your days getting lost within the city streets - with such a rich history, there’s something new to discover on every corner. Rooms and suites at H10 Villa de la Reina are classic and contemporary, with original features sitting alongside all the mod-cons required for a relaxing stay. Start the day at Las Infantas Restaurant, where a huge selection of breakfast dishes is served (or choose the continental option for early risers instead). After a day exploring Madrid’s sights, take a break at La Villa Bar, where you can unwind with a cocktail or two. You’ll find comfort in the elegant and peaceful rooms, where soundproofing and plush bedding make for a great night’s sleep.",
       "location_subheading": "Spain",
-      "price": 435.17,
-      "original_price": 435.17,
+      "price": 369.15,
+      "original_price": 369.15,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GrVuAAK",
-      "hero_image": "https://images.luxuryescapes.com/wwu3vki1ajqvmfk5kts",
-      "image_two": "https://images.luxuryescapes.com/gcqlw2qggfcd1en8y72",
-      "image_three": "https://images.luxuryescapes.com/qb67zuk174u7bxyx7bt",
+      "hero_image": "https://images.luxuryescapes.com/dqqg74bfoa01w26heavb",
+      "image_two": "https://images.luxuryescapes.com/wwu3vki1ajqvmfk5kts",
+      "image_three": "https://images.luxuryescapes.com/gcqlw2qggfcd1en8y72",
       "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
+      "min_duration": 3,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-08-26",
+    "last_updated": "2026-09-06",
     "hotel_count": 1,
-    "average_price": 435,
+    "average_price": 369,
     "average_discount": 0
   }
 }
