@@ -131,6 +131,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Wayfinder Waikiki",
+      "offer_country_name": "United States",
+      "location_heading": "Hawaii",
+      "title": "Award-Winning Waikiki Boutique Hideaway near Kalākaua Avenue with Daily Breakfast & Drinks",
+      "description": "Named one of Hawaii’s Top 10 Hotels in Condé Nast Traveller's 2025 Readers’ Choice Awards, Wayfinder Waikiki brings a distinctly local design sensibility to Honolulu. The hotel’s 228 rooms and shared spaces draw on Hawaii’s landscapes and cultures, with natural textures, tropical greenery and artwork by local creatives. At the centre of the hotel, a 70-foot saltwater pool and hot tub create a leafy retreat from Waikiki’s busy streets. Start the day with coffee and something sweet at B-Side Coffee Bar, order fresh poke and creative fixings at Redfish, then settle in at Lost + Found for handcrafted cocktails beside the pool. The Ala Wai Canal location puts you around an eight-minute walk from Waikiki Beach, with Kalākaua Avenue’s shops, restaurants and nightlife close by. You can spend the morning in the water, wander towards Kapiʻolani Park or Honolulu Zoo, then return to Wayfinder for a slower evening among the palms.",
+      "location_subheading": "United States",
+      "price": 679,
+      "original_price": 1306,
+      "discount_percentage": 48,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000bjajaYAA",
+      "hero_image": "https://images.luxuryescapes.com/i1qlih124jcc66ko8z58",
+      "image_two": "https://images.luxuryescapes.com/lx6u20387uy2v6xr622r",
+      "image_three": "https://images.luxuryescapes.com/fzoc6xfx8vxfqpod5f",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 4,
+      "end_date_utc": "2026-10-19 12:59:00"
     }
   ],
   "seo": {
@@ -150,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-06",
-    "hotel_count": 7,
-    "average_price": 1636,
-    "average_discount": 5
+    "last_updated": "2026-09-07",
+    "hotel_count": 8,
+    "average_price": 1516,
+    "average_discount": 11
   }
 }
