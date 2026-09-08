@@ -12,7 +12,7 @@
       "description": "Explore Phuket with luxury accommodations",
       "hotel_count": 43,
       "hotel_deals": 43,
-      "avg_price": 843
+      "avg_price": 846
     },
     {
       "name": "Bangkok",
@@ -30,7 +30,16 @@
       "description": "Explore Koh Samui with luxury accommodations",
       "hotel_count": 17,
       "hotel_deals": 17,
-      "avg_price": 1263
+      "avg_price": 1268
+    },
+    {
+      "name": "Khao Lak",
+      "slug": "khao-lak",
+      "image": "https://images.luxuryescapes.com/8z14h4n1tffr0mgyq1g7",
+      "description": "Explore Khao Lak with luxury accommodations",
+      "hotel_count": 11,
+      "hotel_deals": 11,
+      "avg_price": 408
     },
     {
       "name": "Hua Hin",
@@ -39,16 +48,7 @@
       "description": "Explore Hua Hin with luxury accommodations",
       "hotel_count": 11,
       "hotel_deals": 11,
-      "avg_price": 667
-    },
-    {
-      "name": "Khao Lak",
-      "slug": "khao-lak",
-      "image": "https://images.luxuryescapes.com/8z14h4n1tffr0mgyq1g7",
-      "description": "Explore Khao Lak with luxury accommodations",
-      "hotel_count": 10,
-      "hotel_deals": 10,
-      "avg_price": 385
+      "avg_price": 668
     },
     {
       "name": "Pattaya",

@@ -31,8 +31,8 @@
       "title": "Contemporary Chic Hanoi City Stay near Old Quarter with Two Restaurants & Rooftop Infinity Pool & Bar",
       "description": "Vietnam's capital is bursting with incredible colonial architecture, flavoursome cuisines and peaceful city parks, and this hotel places you perfectly in the city's bustling centre, set to experience it all. Five-star sophistication awaits your return each night, with authentic Vietnamese cuisine at the hotel's elegant restaurant, a tranquil spa and a trendy rooftop infinity pool and bar. The hotel is a stone's throw from the Old Quarter, renowned for its colonial architecture and colourful markets. For a cultural treat, visit the Temple of Literature, or consider taking a day trip to UNESCO-listed Ha Long Bay.",
       "location_subheading": "Vietnam",
-      "price": 304,
-      "original_price": 304,
+      "price": 303,
+      "original_price": 303,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002J2xuIAC",
       "hero_image": "https://images.luxuryescapes.com/nnh9yk2v6lfv03bcedz",
@@ -67,8 +67,8 @@
       "title": "Five-Star Sky-High Hanoi City Escape within City's Highest Skyscraper",
       "description": "Discover new heights of luxury at the five-star InterContinental Hanoi Landmark72, an IHG Hotel, positioned within the city’s tallest luxury skyscraper, in the heart of Hanoi's vibrant new business district. Experience true opulence above the clouds - take high tea at The Hive Lounge, savour lavish open kitchen breakfasts at 3 Spoons, taste world-class wagyu at Stellar Teppanyaki or savour time spent by the hotel's oasis-like outdoor pool, surrounded by spectacular views of the city below.",
       "location_subheading": "Vietnam",
-      "price": 411,
-      "original_price": 411,
+      "price": 412,
+      "original_price": 412,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Bdt7wAAB",
       "hero_image": "https://images.luxuryescapes.com/dcnk3f73cdgm16c8156",
@@ -221,6 +221,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Theodore Hanoi",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Hanoi",
+      "title": "Grand Opening: Hanoi Lakeside Opulence near Old Quarter with Daily Breakfast & Nightly Cocktails",
+      "description": "Be among the first guests to experience the grand luxury of The Theodore Hanoi, overlooking the iconic Hoan Kiem Lake, with the Old Quarter at your doorstep. This brand-new, refined urban retreat pairs spacious suites with contemporary design inspired by Hanoi’s timeless character, providing an opulent escape from the lively atmosphere of the vibrant capital. Return from a day of discovering Hanoi's wonders to enjoy exceptional dining, from modern Italian dining and refreshing cocktails at Theodore to French pastries at La Fournée. Restorative treatments await with a daily credit for Ô Spa by Amadora, while you can take a dip in the beautiful outdoor swimming pool and work up a sweat in the state-of-the-art fitness centre before retiring each night to your spacious and lavish home away from home. From this sophisticated new stay, Hanoi’s heritage, rich culture and culinary energy are yours to discover.",
+      "location_subheading": "Vietnam",
+      "price": 619,
+      "original_price": 1719,
+      "discount_percentage": 64,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000buw4AYAQ",
+      "hero_image": "https://images.luxuryescapes.com/d47afkwxda1xlreef6z",
+      "image_two": "https://images.luxuryescapes.com/rbaql45u39b17xs8iaud",
+      "image_three": "https://images.luxuryescapes.com/dlr86snrzqowexq0d6o",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-11-02 12:59:00"
     }
   ],
   "seo": {
@@ -240,9 +258,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-07",
-    "hotel_count": 12,
-    "average_price": 408,
-    "average_discount": 0
+    "last_updated": "2026-09-08",
+    "hotel_count": 13,
+    "average_price": 425,
+    "average_discount": 5
   }
 }

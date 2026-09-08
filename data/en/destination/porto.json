@@ -97,6 +97,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Torel Avantgarde Porto",
+      "offer_country_name": "Portugal",
+      "location_heading": "Porto",
+      "title": "Award-Winning Porto Luxury with Daily Breakfast, Douro River Cruise & Rooftop Pool",
+      "description": "Striking design, sweeping Douro River views and one of Porto’s most enviable pools put Torel Avantgarde firmly in bucket-list territory. This five-star boutique hideaway is as much an artistic statement as it is a luxury stay, with bold designer interiors inspired by avant-garde icons and terraces that look out across the city’s terracotta rooftops and colourful riverside. Spend sun-soaked afternoons beside the outdoor pool overlooking the Douro, then settle in at stylish Digby Restaurant & Bar, where contemporary Portuguese flavours and signature cocktails come with yet more spectacular river views. When it’s time to slow the pace, Calla Wellness & Spa offers a heated pool, sauna, sensory showers and indulgent treatments designed for complete switch-off. The accolades speak for themselves: Torel Avantgarde holds one MICHELIN Key and was named ‘Best 5-Star Hotel in Portugal’ at the Publituris Portugal Travel Awards. Your Porto escape also includes a Six Bridges cruise along the Douro, giving you a front-row view of the city’s vibrant waterfront, Vila Nova de Gaia and the iconic bridges connecting its two riverbanks.",
+      "location_subheading": "Portugal",
+      "price": 299,
+      "original_price": 854,
+      "discount_percentage": 65,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000aYZWUYA4",
+      "hero_image": "https://images.luxuryescapes.com/acxh9urrri2nt9nodsg3",
+      "image_two": "https://images.luxuryescapes.com/ily2e67r0t7ep12f2pxp",
+      "image_three": "https://images.luxuryescapes.com/zp6reptta9zs9cthfzj",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 2,
+      "end_date_utc": "2026-10-06 12:59:00"
+    },
+    {
       "vendor_name": "Torel Palace Porto",
       "offer_country_name": "Portugal",
       "location_heading": "Porto",
@@ -186,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-07",
-    "hotel_count": 9,
-    "average_price": 418,
-    "average_discount": 18
+    "last_updated": "2026-09-08",
+    "hotel_count": 10,
+    "average_price": 406,
+    "average_discount": 22
   }
 }
