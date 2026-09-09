@@ -12,16 +12,16 @@
       "description": "Explore Lisbon with luxury accommodations",
       "hotel_count": 10,
       "hotel_deals": 10,
-      "avg_price": 518
+      "avg_price": 517
     },
     {
       "name": "Porto",
       "slug": "porto",
       "image": "https://images.luxuryescapes.com/cwxxbyrbxf194xrl5lo5",
       "description": "Explore Porto with luxury accommodations",
-      "hotel_count": 10,
-      "hotel_deals": 10,
-      "avg_price": 406
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 412
     },
     {
       "name": "Algarve",
@@ -57,7 +57,7 @@
       "description": "Explore Madeira with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 868
+      "avg_price": 867
     }
   ],
   "seo": {
