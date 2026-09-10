@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Coolangatta",
   "description": "Discover the best hotels in Coolangatta, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/4ycydzrqxbqbmm7jo7wr",
+  "hero_image": "https://images.luxuryescapes.com/nnr7b7mg8cz90wfvg1cf",
   "hotels": [
+    {
+      "vendor_name": "Esprit Holidays",
+      "offer_country_name": "Australia",
+      "location_heading": "Coolangatta",
+      "title": "Grand Opening: Rainbow Bay Coastal Two- & Three-Bedroom Apartments with Rooftop Pool & Parking",
+      "description": "Newly opened near serene Rainbow Bay, the refined Esprit Holidays haven places you moments from Coolangatta's coastal icons like Snapper Rocks, Greenmount Beach and Coolangatta Beach. Each apartment is both stylish and comfortable, with sleek relaxation spaces and dazzling vistas. Unwind in style at the sparkling rooftop pool with uninterrupted views of the Pacific Ocean, then find a moment of peace in the sauna or steam room. Downstairs, you’re close to the Rainbow Bay Surf Club for seafood and sea views, and a short stroll from Coolangatta’s cafés, boutiques and beachfront dining along Marine Parade. Kirra’s laid-back eateries and the surf breaks of Duranbah Beach are also within easy reach.",
+      "location_subheading": "Australia",
+      "price": 949,
+      "original_price": 1791,
+      "discount_percentage": 47,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000dMT4vYAG",
+      "hero_image": "https://images.luxuryescapes.com/nnr7b7mg8cz90wfvg1cf",
+      "image_two": "https://images.luxuryescapes.com/w3yj2agtx1fizl70bw",
+      "image_three": "https://images.luxuryescapes.com/7xbz7hzn7fih8rdv7o",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 5,
+      "end_date_utc": "2026-10-08 12:59:00"
+    },
     {
       "vendor_name": "Mantra Coolangatta Beach",
       "offer_country_name": "Australia",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-09",
-    "hotel_count": 1,
-    "average_price": 365,
-    "average_discount": 0
+    "last_updated": "2026-09-10",
+    "hotel_count": 2,
+    "average_price": 657,
+    "average_discount": 24
   }
 }
