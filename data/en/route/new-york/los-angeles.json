@@ -5,7 +5,7 @@
   "destination_country": "United States",
   "transport_modes": {
     "flight": {
-      "duration": "4h 20m",
+      "duration": "3h 45m",
       "price_range": "$75 - $180",
       "providers": [
         "Skyscanner",
@@ -15,7 +15,7 @@
     },
     "train": {
       "duration": "3h 30m",
-      "price_range": "$80 - $200",
+      "price_range": "$45 - $120",
       "providers": [
         "Rail Europe",
         "Eurail",
@@ -32,9 +32,9 @@
       ]
     },
     "car": {
-      "duration": "3h 55m",
-      "distance": "280 km",
-      "price_range": "$40 - $95"
+      "duration": "4h 15m",
+      "distance": "310 km",
+      "price_range": "$30 - $70"
     }
   },
   "seo": {
