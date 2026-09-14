@@ -157,8 +157,8 @@
       "title": "Convenient LAX Airport Stay with Four Onsite Restaurants & Complimentary Airport Shuttle",
       "description": "Discover the perfect balance of convenience and comfort at Sonesta Los Angeles Airport LAX, located just minutes from Los Angeles International Airport. This modern and stylish hotel is the perfect stopover for long-haul travellers or those catching late-night or early-morning flights. Enjoy a blissful night's rest in the comfort of your spacious room, before enjoying a dip in the heated swimming pool or tasting your way through Southern California at one of the hotel's four on-site restaurants.",
       "location_subheading": "United States",
-      "price": 421,
-      "original_price": 421,
+      "price": 449,
+      "original_price": 449,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000008JBcMAAW",
       "hero_image": "https://images.luxuryescapes.com/semqt8ayb5pz4vngc9",
@@ -167,24 +167,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "The Godfrey Hollywood",
-      "offer_country_name": "United States",
-      "location_heading": "Los Angeles",
-      "title": "Glamourous Los Angeles City Break with Rooftop Pool & Bar Overlooking the Hollywood Sign",
-      "description": "Discover Tinseltown with a stay at The Godfrey Hotel Hollywood, boasting a trendy rooftop bar and pool overlooking the world-famous Hollywood Sign and minutes from the Sunset Strip. Soak up the glitzy interior designed and curated arts program, as well as a convenient location in the heart of this showbiz-loving city. Fill your days with hiking, shopping, and sightseeing around Los Angeles, and your evenings lounging high above the sparkling lights.",
-      "location_subheading": "United States",
-      "price": 445,
-      "original_price": 601,
-      "discount_percentage": 26,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ez3JyAAJ",
-      "hero_image": "https://images.luxuryescapes.com/oojyp6r89ox7lmy3cx6t",
-      "image_two": "https://images.luxuryescapes.com/r51kwkg0shkfpilzvmi",
-      "image_three": "https://images.luxuryescapes.com/39rkkqutoch7msi6f7ot",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "The Godfrey Hollywood",
@@ -203,6 +185,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-09-22 13:59:00"
+    },
+    {
+      "vendor_name": "The Godfrey Hollywood",
+      "offer_country_name": "United States",
+      "location_heading": "Los Angeles",
+      "title": "Glamourous Los Angeles City Break with Rooftop Pool & Bar Overlooking the Hollywood Sign",
+      "description": "Discover Tinseltown with a stay at The Godfrey Hotel Hollywood, boasting a trendy rooftop bar and pool overlooking the world-famous Hollywood Sign and minutes from the Sunset Strip. Soak up the glitzy interior designed and curated arts program, as well as a convenient location in the heart of this showbiz-loving city. Fill your days with hiking, shopping, and sightseeing around Los Angeles, and your evenings lounging high above the sparkling lights.",
+      "location_subheading": "United States",
+      "price": 445,
+      "original_price": 601,
+      "discount_percentage": 26,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ez3JyAAJ",
+      "hero_image": "https://images.luxuryescapes.com/oojyp6r89ox7lmy3cx6t",
+      "image_two": "https://images.luxuryescapes.com/r51kwkg0shkfpilzvmi",
+      "image_three": "https://images.luxuryescapes.com/39rkkqutoch7msi6f7ot",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "The Line Hotel, LA",
@@ -240,9 +240,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-13",
+    "last_updated": "2026-09-14",
     "hotel_count": 12,
-    "average_price": 662,
+    "average_price": 664,
     "average_discount": 7
   }
 }

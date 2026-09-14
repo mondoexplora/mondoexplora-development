@@ -43,6 +43,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Drift Palm Cove",
+      "offer_country_name": "Australia",
+      "location_heading": "Palm Cove",
+      "title": "Coastal Palm Cove Apartments with Lagoon Pool & Great Barrier Reef Cruise Upgrades Available",
+      "description": "Wake to the sound of waves and the scent of salt drifting through a grove of coconut palms: this beachfront retreat is barefoot living on one of Queensland’s most beautiful beaches, Palm Cove Beach. With light-filled, fully self-contained apartments featuring kitchens, laundry facilities and plenty of space to spread out, this beachside stay brings all the comforts of home to the heart of Palm Cove. The best of Tropical North Queensland is at your fingertips, with everything from oceanfront dining and boutique shopping to spa rituals and reef tours just steps from your door. Spend days moving between the expansive lagoon pool and the jacuzzi, or simply unwind on your private balcony with the ocean breeze. Everything about this stay invites you to slow down and savour the tropical rhythm.",
+      "location_subheading": "Australia",
+      "price": 549,
+      "original_price": 1248,
+      "discount_percentage": 56,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000c5fxVYAQ",
+      "hero_image": "https://images.luxuryescapes.com/0sh1q84ir5wtjjjm4t",
+      "image_two": "https://images.luxuryescapes.com/ph55vbcujagcmuh12vfj",
+      "image_three": "https://images.luxuryescapes.com/3dr6r5bhrtv6e2n0tasp",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-10-12 12:59:00"
+    },
+    {
       "vendor_name": "Mantra Amphora Palm Cove",
       "offer_country_name": "Australia",
       "location_heading": "Palm Cove",
@@ -150,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-13",
-    "hotel_count": 7,
-    "average_price": 574,
-    "average_discount": 23
+    "last_updated": "2026-09-14",
+    "hotel_count": 8,
+    "average_price": 571,
+    "average_discount": 28
   }
 }
