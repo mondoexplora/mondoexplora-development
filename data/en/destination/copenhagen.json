@@ -4,8 +4,26 @@
   "country_code": "DK",
   "hero_title": "Hotels in Copenhagen",
   "description": "Discover the best hotels in Copenhagen, Denmark. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/xtg9pin2lpvnj22wvak",
+  "hero_image": "https://images.luxuryescapes.com/33rl2vys3lpjhdgvljajs",
   "hotels": [
+    {
+      "vendor_name": "25Hours Hotel Indre By",
+      "offer_country_name": "Denmark",
+      "location_heading": "Copenhagen",
+      "title": "Stylish Central Copenhagen Escape Near Tivoli Gardens with Onsite Restaurant & Two Bars",
+      "description": "Right in the heart of Copenhagen, 25hours Hotel Indre By is the perfect haven for discovering a city known for historic canals, colorful buildings and innovative and sustainable living. A 19th-century building formerly a porcelain factory and university, this hotel is now a design playground packed with colour and character. You’re steps from buzzing Strøget, the Round Tower and canal-side strolls, but with rooms this cool, you might never want to leave. The hotel is a playground for grown-ups, boasting a sauna for slow mornings and bikes to borrow when you’re ready to roll. Tuck into Middle Eastern feasts at NENI København or sip something strong at the speakeasy-style rendezvous bar. Whether you're here to work, wander or just hang, Indre By lets you discover Copenhagen on your own terms.",
+      "location_subheading": "Denmark",
+      "price": 501,
+      "original_price": 501,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Jjw0jYAB",
+      "hero_image": "https://images.luxuryescapes.com/33rl2vys3lpjhdgvljajs",
+      "image_two": "https://images.luxuryescapes.com/rb5co51fqai61ap0t0ce",
+      "image_three": "https://images.luxuryescapes.com/4kws0dssxtaah2rpnxq",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Crowne Plaza Copenhagen Towers",
       "offer_country_name": "Denmark",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-14",
-    "hotel_count": 1,
-    "average_price": 386,
+    "last_updated": "2026-09-15",
+    "hotel_count": 2,
+    "average_price": 444,
     "average_discount": 0
   }
 }
