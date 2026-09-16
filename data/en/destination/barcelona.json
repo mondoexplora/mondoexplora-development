@@ -115,6 +115,24 @@
       "end_date_utc": "2050-12-31 12:54:00"
     },
     {
+      "vendor_name": "H10 Art Gallery",
+      "offer_country_name": "Spain",
+      "location_heading": "Barcelona",
+      "title": "Central Barcelona Boutique Art Hotel with Daily Breakfast & Rooftop Pool Bar",
+      "description": "This ideally located hotel in the heart of Barcelona’s Eixample district is an art lover’s haven. Original works and lithographs by renowned artists such as Joan Miró and Miquel Barceló adorn the lobby, while colourful corridors pay tribute to different contemporary artists. Make the most of Barcelona’s 300 days of sunshine with a swim in the rooftop pool, overlooking the honeycomb alcoves of the surrounding neighbourhood. Sip sangria on L’Olivera Terrace under the shade of a century-old olive tree, savour local flavours at the aptly named Modern Art Restaurant, and end your days with drinks at Bar Pop Art. You’ll be within walking distance of Passeig de Gràcia, one of Barcelona’s grandest avenues and home to landmark architecture including Casa Batlló and La Pedrera. The striking Gothic quarter is also close by, along with plenty of boutiques, cafes and dining spots throughout the surrounding Eixample streets.",
+      "location_subheading": "Spain",
+      "price": 279,
+      "original_price": 845,
+      "discount_percentage": 67,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000er4CvYAI",
+      "hero_image": "https://images.luxuryescapes.com/u0j3z83hbhwjwxv3xerb",
+      "image_two": "https://images.luxuryescapes.com/pe7b259mcao199eh21s",
+      "image_three": "https://images.luxuryescapes.com/qv71qr460ys07bmceclb",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-10-14 12:59:00"
+    },
+    {
       "vendor_name": "H10 Casa Mimosa",
       "offer_country_name": "Spain",
       "location_heading": "Barcelona",
@@ -131,24 +149,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 2,
       "end_date_utc": "2026-09-17 13:59:00"
-    },
-    {
-      "vendor_name": "H10 Casanova",
-      "offer_country_name": "Spain",
-      "location_heading": "Barcelona",
-      "title": "Trendy Barcelona Escape Minutes from La Rambla with Rooftop Pool, Daily Breakfast & Nightly Drink",
-      "description": "Live the Spanish dream in the vibrant heart of Barcelona with a stay at the H10 Casanova. Return from a day of exploring to enjoy a refreshing dip in the rooftop pool as you sip on an afternoon cocktail at the Sky Bar. Treat yourself even further and sink into a world of relaxation at the Despacio Spa with pampering body treatments from aromatherapy massages to regenerating body wraps. Then, finish off your day with a sumptuous Spanish meal at Mediterrani restaurant, before retreating to the comfort of the elegant rooms. This chic hotel is mere minutes from the city’s most fantastic sites and experiences, including the La Rambla street markets, the Cathedral of Barcelona, and Ciutadella Park where rowboats are dotted over the surface of the charming central lake.",
-      "location_subheading": "Spain",
-      "price": 229,
-      "original_price": 654,
-      "discount_percentage": 65,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ZBD95YAH",
-      "hero_image": "https://images.luxuryescapes.com/pks5l71i2qdm978dutc8",
-      "image_two": "https://images.luxuryescapes.com/ad5z16hm5fzwcppjjdb9",
-      "image_three": "https://images.luxuryescapes.com/udd16g19wvl4kzev3g",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-09-15 13:59:00"
     },
     {
       "vendor_name": "H10 Marina Barcelona",
@@ -337,8 +337,8 @@
       "title": "Five-Star Barcelona Retreat with Rooftop Views of Gothic Cathedral",
       "description": "Escape to the alluring seaside city of Barcelona with a lavish stay at the Kimpton Vividora Barcelona, an IHG Hotel, beautifully located to overlook the famed Gothic Quarter. Experience the city like a local as you explore the narrow streets surrounding the hotel, shop at the finest boutiques, and discover a multitude of trendy bars and restaurants. When you're ready to escape the vibrant city, enjoy a cocktail and tapas at the Terraza De Vivi rooftop bar overlooking the Cathedral of Barcelona.",
       "location_subheading": "Spain",
-      "price": 418,
-      "original_price": 418,
+      "price": 430,
+      "original_price": 430,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CP3PhAAL",
       "hero_image": "https://images.luxuryescapes.com/er74m6n3knfp89zdfyec",
@@ -456,9 +456,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-15",
+    "last_updated": "2026-09-16",
     "hotel_count": 24,
-    "average_price": 675,
+    "average_price": 677,
     "average_discount": 12
   }
 }

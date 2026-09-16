@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Kiama",
   "description": "Discover the best hotels in Kiama, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/gwjvx0bletyh3vjbmm",
+  "hero_image": "https://images.luxuryescapes.com/md9t2vew39gw9csn0ea",
   "hotels": [
-    {
-      "vendor_name": "The Sebel Kiama",
-      "offer_country_name": "Australia",
-      "location_heading": "Kiama",
-      "title": "Southern NSW Coastal Escape near Kiama Harbour with Seaside Restaurant & Daily Breakfast",
-      "description": "Experience the allure of New South Wales’ southern coast with a stay at this charming seaside retreat on Kiama Harbour, overlooking the Pacific Ocean. Nestled in a region where natural beauty meets vibrant local life, Kiama is a haven for outdoor enthusiasts and those who appreciate the finer things in life. Savour waterfront dining at the onsite Yves Social, featuring a gourmet dinner menu, or indulge in daily breakfast at The Quarry Room. Maintain your routine at the fitness centre and admire the stunning architecture of the heritage-listed bluestone building on the hotel grounds. Discover the local scene at the Kiama Seaside Markets, explore pristine beaches, witness the impressive Kiama Blowhole or enjoy panoramic views from Saddleback Mountain.",
-      "location_subheading": "Australia",
-      "price": 269,
-      "original_price": 456,
-      "discount_percentage": 41,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000bswuXYAQ",
-      "hero_image": "https://images.luxuryescapes.com/gwjvx0bletyh3vjbmm",
-      "image_two": "https://images.luxuryescapes.com/65ch4ndcykjraitw1m",
-      "image_three": "https://images.luxuryescapes.com/ak762qttwend85pcsti",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 2,
-      "end_date_utc": "2026-10-26 12:59:00"
-    },
     {
       "vendor_name": "The Sebel Harbourside Kiama",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Sebel Kiama",
+      "offer_country_name": "Australia",
+      "location_heading": "Kiama",
+      "title": "Southern NSW Coastal Escape near Kiama Harbour with Seaside Restaurant & Daily Breakfast",
+      "description": "Experience the allure of New South Wales’ southern coast with a stay at this charming seaside retreat on Kiama Harbour, overlooking the Pacific Ocean. Nestled in a region where natural beauty meets vibrant local life, Kiama is a haven for outdoor enthusiasts and those who appreciate the finer things in life. Savour waterfront dining at the onsite Yves Social, featuring a gourmet dinner menu, or indulge in daily breakfast at The Quarry Room. Maintain your routine at the fitness centre and admire the stunning architecture of the heritage-listed bluestone building on the hotel grounds. Discover the local scene at the Kiama Seaside Markets, explore pristine beaches, witness the impressive Kiama Blowhole or enjoy panoramic views from Saddleback Mountain.",
+      "location_subheading": "Australia",
+      "price": 269,
+      "original_price": 456,
+      "discount_percentage": 41,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000bswuXYAQ",
+      "hero_image": "https://images.luxuryescapes.com/gwjvx0bletyh3vjbmm",
+      "image_two": "https://images.luxuryescapes.com/65ch4ndcykjraitw1m",
+      "image_three": "https://images.luxuryescapes.com/ak762qttwend85pcsti",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-10-26 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-15",
+    "last_updated": "2026-09-16",
     "hotel_count": 2,
     "average_price": 382,
     "average_discount": 21
