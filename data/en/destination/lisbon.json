@@ -79,6 +79,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Heritage Avenida Liberdade, a Lisbon Heritage Collection",
+      "offer_country_name": "Portugal",
+      "location_heading": "Lisbon",
+      "title": "Portugal Boutique Escape in the Heart of Lisbon with Daily Breakfast & Museum Entries",
+      "description": "Let the picture-perfect panorama of Lisbon be the backdrop for an unforgettable stay in one of the city’s most elegant hotels. Housed in a heritage-listed building dating back to the 18th century - beautifully redesigned by local creative Miguel Câncio Martins - this charming hotel effortlessly captures Lisbon’s rich history. The hotel is ideally located on Avenida da Liberdade - a tree-lined avenue nestled in the heart of the city, surrounded by elegant shops, upscale boutiques and restaurants. This central location makes it easy to explore Lisbon’s top-rated attractions, including the medieval Belém Tower, World Heritage-listed Jerónimos Monastery and buzzing Comércio square.",
+      "location_subheading": "Portugal",
+      "price": 269,
+      "original_price": 747,
+      "discount_percentage": 64,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000eRDOkYAO",
+      "hero_image": "https://images.luxuryescapes.com/0s7bbqrjh1jsatztlqm",
+      "image_two": "https://images.luxuryescapes.com/gwuwluqxmu2s0ao1fqk",
+      "image_three": "https://images.luxuryescapes.com/viztczr3xkbtm2peta4g",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-10-15 12:59:00"
+    },
+    {
       "vendor_name": "InterContinental Lisbon",
       "offer_country_name": "Portugal",
       "location_heading": "Lisbon",
@@ -151,24 +169,6 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "Wine & Books Lisboa",
-      "offer_country_name": "Portugal",
-      "location_heading": "Lisbon",
-      "title": "Charming Lisbon Boutique Retreat with Daily Breakfast, Nightly Drinks & EUR40 Dining Credit",
-      "description": "Tucked away in Lisbon’s historic heart between the Ajuda and Belém neighbourhoods, Wine & Books Lisboa is the boutique European hideaway you’ve been dreaming of. Whether you’re sipping vinho on the terrace, unwinding in the indulgent Turkish bath or dining like a local at Tasca da Memória, this contemporary gem wraps you in irresistible Portuguese magic. Bask in the golden sunshine flooding through cosy public spaces and designer rooms, treating you to knockout views of Lisbon’s terracotta rooftops. When it’s time to explore, sample Portugal’s famous sweet treats at the renowned Pastéis de Belém, and visit the iconic Belém Tower, just a short drive away, before returning to a glass of Port wine at the wine bar.",
-      "location_subheading": "Portugal",
-      "price": 329,
-      "original_price": 539,
-      "discount_percentage": 39,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000bEHF0YAO",
-      "hero_image": "https://images.luxuryescapes.com/hhsvjiu9kagcltkgxfn",
-      "image_two": "https://images.luxuryescapes.com/63epa1ibjdd2iv5854p",
-      "image_three": "https://images.luxuryescapes.com/aqv7pqndpm07sw0ltq6d",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-09-16 13:59:00"
-    },
-    {
       "vendor_name": "Crowne Plaza Caparica Lisbon",
       "offer_country_name": "Portugal",
       "location_heading": "Lisbon",
@@ -204,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-16",
+    "last_updated": "2026-09-17",
     "hotel_count": 10,
-    "average_price": 518,
-    "average_discount": 12
+    "average_price": 512,
+    "average_discount": 14
   }
 }
