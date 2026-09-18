@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Margaret River",
   "description": "Discover the best hotels in Margaret River, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/3wp0aaalrqm2jqi5e4g",
+  "hero_image": "https://images.luxuryescapes.com/gh2aqyl7kz8xl3dxzsgv",
   "hotels": [
+    {
+      "vendor_name": "Grand Mercure Basildene Manor Accor Vacation Club Apartments",
+      "offer_country_name": "Australia",
+      "location_heading": "Margaret River",
+      "title": "Margaret River Heritage Manor Escape by Grand Mercure Basildene Manor",
+      "description": "Set on manicured grounds in Margaret River, this stately manor-style retreat pairs heritage charm with polished interiors, just minutes from the town’s acclaimed galleries, boutiques and gourmet produce stores. Nearby, stroll the leafy main street for artisanal chocolates at Gabriel Chocolate and refined regional dining at Miki’s Open Kitchen. The surrounding Margaret River region is famed for world-class wineries, with cellar doors such as Voyager Estate and Leeuwin Estate within easy reach. Between tastings, venture to Surfers Point, explore Mammoth Cave or follow the coast to Smiths Beach’s sweeping white sand and clear Indian Ocean waters",
+      "location_subheading": "Australia",
+      "price": 684,
+      "original_price": 684,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gCesnYAC",
+      "hero_image": "https://images.luxuryescapes.com/gh2aqyl7kz8xl3dxzsgv",
+      "image_two": "https://images.luxuryescapes.com/8ldsfx34ylixwo08ae",
+      "image_three": "https://images.luxuryescapes.com/ah7y68sad6g69impn9w",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
+    },
     {
       "vendor_name": "Pullman Bunker Bay Resort, Margaret River Region",
       "offer_country_name": "Australia",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-17",
-    "hotel_count": 1,
-    "average_price": 506,
+    "last_updated": "2026-09-18",
+    "hotel_count": 2,
+    "average_price": 595,
     "average_discount": 0
   }
 }
