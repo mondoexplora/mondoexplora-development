@@ -13,8 +13,8 @@
       "title": "Heritage Ballarat Apartments near City Centre with Lake Activities, Heated Pool & Spa",
       "description": "Strike gold with a retreat at Club Wyndham Ballarat, a heritage-listed mansion in the heart of Victoria's famous goldfields. Set within 55-acre grounds encompassing manicured gardens and a lake, this magnificent property is adorned with Victorian-era furnishings blending historic beauty and modern luxuries. Explore the area's vibrant dining scene and popular sites (including Sovereign Hill!) on one of the hotel's e-bikes and enjoy a friendly hit of tennis, finishing with a dip in the heated pool.",
       "location_subheading": "Australia",
-      "price": 298,
-      "original_price": 347,
+      "price": 299,
+      "original_price": 348,
       "discount_percentage": 14,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EeM7LAAV",
       "hero_image": "https://images.luxuryescapes.com/u4baqx75scbegx71sepn",
@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 2,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mercure Ballarat - Hotel & Convention Centre",
+      "offer_country_name": "Australia",
+      "location_heading": "Ballarat",
+      "title": "Stylish Ballarat Heritage Escape with Contemporary Comfort",
+      "description": "Set within six acres of landscaped gardens in historic Ballarat, this refined retreat places you moments from Sovereign Hill’s open-air gold rush streets and the wildlife-rich Ballarat Wildlife Park. Federation-style architecture and contemporary rooms lend the property a polished sense of country grandeur. Dine on modern Australian fare at Azzuri, where local produce shapes the menu, or slip into the indoor heated pool after afternoons exploring the Art Gallery of Ballarat and Lake Wendouree. The hotel also features a day spa, tennis court and one of regional Victoria’s largest convention centres",
+      "location_subheading": "Australia",
+      "price": 358,
+      "original_price": 358,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gCet5YAC",
+      "hero_image": "https://images.luxuryescapes.com/k0soumnd1tf881dr6ls2",
+      "image_two": "https://images.luxuryescapes.com/nutlfclzcpwehzm7q8li",
+      "image_three": "https://images.luxuryescapes.com/i9uolxf5ix5sgg84o012m",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-19",
-    "hotel_count": 1,
-    "average_price": 298,
-    "average_discount": 14
+    "last_updated": "2026-09-20",
+    "hotel_count": 2,
+    "average_price": 329,
+    "average_discount": 7
   }
 }
