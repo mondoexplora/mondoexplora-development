@@ -46,24 +46,6 @@
       "vendor_name": "H10 Roma Città",
       "offer_country_name": "Italy",
       "location_heading": "Rome",
-      "title": "Rome City Hideaway near Trastevere with Rooftop Pool & Daily Breakfast",
-      "description": "A rooftop pool, sun-soaked terrace and sleek contemporary interiors give this Rome retreat plenty of appeal beyond its peaceful setting. Spend slow afternoons cooling off above the city, linger over aperitivo as the light fades, or settle in at UNO ZERO UNO for housemade Italian favourites in a relaxed, modern setting. Set in the Marconi district, between Testaccio and Trastevere, the hotel offers a quieter base away from Rome’s busiest tourist streets while keeping the city’s highlights within easy reach. Days can be spent exploring ancient landmarks, atmospheric piazzas and neighbourhood trattorias before returning to the calm of the hotel. With stylish communal spaces, a rooftop made for lingering and an easygoing residential setting, it’s a polished choice for travellers who want to experience Rome without staying right in the middle of the crowds.",
-      "location_subheading": "Italy",
-      "price": 299,
-      "original_price": 623,
-      "discount_percentage": 52,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000d7vb1YAA",
-      "hero_image": "https://images.luxuryescapes.com/0l0kq0fm8r0yckr0juis",
-      "image_two": "https://images.luxuryescapes.com/i23hhhfrkh0a4pmo3gr",
-      "image_three": "https://images.luxuryescapes.com/q062q204zuxdr5xolzm",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 3,
-      "end_date_utc": "2026-10-19 12:59:00"
-    },
-    {
-      "vendor_name": "H10 Roma Città",
-      "offer_country_name": "Italy",
-      "location_heading": "Rome",
       "title": "Contemporary Rome City Escape with Rooftop Pool & Onsite Restaurant",
       "description": "Discover an oasis in the heart of Rome at this contemporary retreat, combining modern comforts with traditional Italian touches for an urban reprieve perfect after days spent exploring this historic city. Kick start your day at the onsite Uno Zero Uno restaurant, or venture out to discover local trattorias and bustling markets. Located beside the picturesque Trastevere district known for its lively laneways, restaurants and nightlife, this escape invites you to unwind after the day's adventures with its sparkling rooftop pool and jacuzzi, plus calming rooms and suites.",
       "location_subheading": "Italy",
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "H10 Roma Città",
+      "offer_country_name": "Italy",
+      "location_heading": "Rome",
+      "title": "Rome City Hideaway near Trastevere with Rooftop Pool & Daily Breakfast",
+      "description": "A rooftop pool, sun-soaked terrace and sleek contemporary interiors give this Rome retreat plenty of appeal beyond its peaceful setting. Spend slow afternoons cooling off above the city, linger over aperitivo as the light fades, or settle in at UNO ZERO UNO for housemade Italian favourites in a relaxed, modern setting. Set in the Marconi district, between Testaccio and Trastevere, the hotel offers a quieter base away from Rome’s busiest tourist streets while keeping the city’s highlights within easy reach. Days can be spent exploring ancient landmarks, atmospheric piazzas and neighbourhood trattorias before returning to the calm of the hotel. With stylish communal spaces, a rooftop made for lingering and an easygoing residential setting, it’s a polished choice for travellers who want to experience Rome without staying right in the middle of the crowds.",
+      "location_subheading": "Italy",
+      "price": 299,
+      "original_price": 623,
+      "discount_percentage": 52,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000d7vb1YAA",
+      "hero_image": "https://images.luxuryescapes.com/0l0kq0fm8r0yckr0juis",
+      "image_two": "https://images.luxuryescapes.com/i23hhhfrkh0a4pmo3gr",
+      "image_three": "https://images.luxuryescapes.com/q062q204zuxdr5xolzm",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 3,
+      "end_date_utc": "2026-10-19 12:59:00"
     },
     {
       "vendor_name": "Hotel Indigo Rome - St. George",
@@ -240,7 +240,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-21",
+    "last_updated": "2026-09-22",
     "hotel_count": 12,
     "average_price": 751,
     "average_discount": 10
