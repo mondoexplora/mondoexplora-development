@@ -95,6 +95,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Rivoli Boutique",
+      "offer_country_name": "Italy",
+      "location_heading": "Florence",
+      "title": "Romantic Florence City Break near the Duomo with Dining Credit & Daily Breakfast",
+      "description": "Slip into Florentine refinement at this boutique retreat, set near River Arno and just a short stroll from Ponte Vecchio and the renowned Duomo cathedral. Housed in a 14th-century Franciscan cloister, the hotel’s interior is brimming with character and period charm. The indulgent Aqua Spa offers a hammam, sauna and massage treatments, while the garden and hydro-massage pool leave plenty of reason to linger. Benedicta Restaurant is where local flavours shine, and the Garden Bar is the perfect spot for a spritz in between sightseeing. Sitting opposite the world’s oldest apothecary, steps from the Basilica and Uffizi Gallery, the location is second to none. Browse the artisan workshops of Via Maggio, lose an afternoon at Piazza Santo Spirito’s antique stalls, eat Tuscan classics at local trattorias, then finish with a gelato on the banks of the Arno.",
+      "location_subheading": "Italy",
+      "price": 279,
+      "original_price": 537,
+      "discount_percentage": 48,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000d6X67YAE",
+      "hero_image": "https://images.luxuryescapes.com/chbhad004oljf60bkl7",
+      "image_two": "https://images.luxuryescapes.com/az9f4ud1zdgccqhx11ca",
+      "image_three": "https://images.luxuryescapes.com/scxzh3rnfc30u68jcqss",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-10-14 12:59:00"
     }
   ],
   "seo": {
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-22",
-    "hotel_count": 5,
-    "average_price": 1160,
-    "average_discount": 0
+    "last_updated": "2026-09-23",
+    "hotel_count": 6,
+    "average_price": 1014,
+    "average_discount": 8
   }
 }

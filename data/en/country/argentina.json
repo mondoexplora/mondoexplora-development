@@ -1,0 +1,34 @@
+{
+  "name": "Argentina",
+  "code": "AR",
+  "hero_title": "Argentina Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Argentina.",
+  "hero_image": "https://images.luxuryescapes.com/63u9u5ry5amzr2foh25h",
+  "popular_destinations": [
+    {
+      "name": "Buenos Aires",
+      "slug": "buenos-aires",
+      "image": "https://images.luxuryescapes.com/63u9u5ry5amzr2foh25h",
+      "description": "Explore Buenos Aires with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 825
+    }
+  ],
+  "seo": {
+    "title": "Argentina Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Argentina with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "argentina hotels",
+      "argentina travel",
+      "argentina luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/argentina",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/argentina",
+      "es": "https://mondoexplora.com/es/country/argentina",
+      "fr": "https://mondoexplora.com/fr/country/argentina",
+      "it": "https://mondoexplora.com/it/country/argentina"
+    }
+  }
+}

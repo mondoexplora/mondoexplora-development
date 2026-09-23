@@ -1,0 +1,50 @@
+{
+  "city": "Buenos Aires",
+  "country": "Argentina",
+  "country_code": "AR",
+  "hero_title": "Hotels in Buenos Aires",
+  "description": "Discover the best hotels in Buenos Aires, Argentina. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/63u9u5ry5amzr2foh25h",
+  "hotels": [
+    {
+      "vendor_name": "Palladio Hotel Buenos Aires - MGallery Collection",
+      "offer_country_name": "Argentina",
+      "location_heading": "Buenos Aires",
+      "title": "Elegant Buenos Aires MGallery Escape in Sophisticated Recoleta",
+      "description": "Set in elegant Recoleta, this refined Buenos Aires retreat places you near the grand avenues, Belle Époque architecture and leafy paths of Plaza Francia. The Recoleta Cemetery, Museo Nacional de Bellas Artes and the designer boutiques of Avenida Alvear are all within easy reach. Inside, contemporary interiors are paired with an indoor pool, spa and a restaurant showcasing polished Argentine dining. Nearby, savour late-night parrilla at Don Julio in Palermo or browse the handsome bookshops and cafés lining Avenida Santa Fe",
+      "location_subheading": "Argentina",
+      "price": 825.33,
+      "original_price": 1058,
+      "discount_percentage": 22,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gCet8YAC",
+      "hero_image": "https://images.luxuryescapes.com/63u9u5ry5amzr2foh25h",
+      "image_two": "https://images.luxuryescapes.com/a4i9jaxzrisf80k4cxh",
+      "image_three": "https://images.luxuryescapes.com/dkwwvq7tfgfl8rupln77",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Buenos Aires - Argentina Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Buenos Aires, Argentina with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "buenos aires hotels",
+      "buenos aires travel",
+      "argentina hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/buenos-aires",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/buenos-aires",
+      "es": "https://mondoexplora.com/es/destination/buenos-aires",
+      "fr": "https://mondoexplora.com/fr/destination/buenos-aires",
+      "it": "https://mondoexplora.com/it/destination/buenos-aires"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-09-23",
+    "hotel_count": 1,
+    "average_price": 825,
+    "average_discount": 22
+  }
+}

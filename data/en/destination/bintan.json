@@ -23,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mövenpick Resort & Spa Bintan Lagoon",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Bintan",
+      "title": "Five-Star Bintan Island Beachfront Escape at Mövenpick Resort & Spa Bintan Lagoon",
+      "description": "Set on Bintan’s northern coast, this polished beachfront retreat looks across the South China Sea and sits about an hour by ferry from Singapore to Bandar Bentan Telani. Days here drift between the resort’s private stretch of sand, a lagoon-style pool and treatments at the spa. Beyond the grounds, Senggarang’s century-old Chinese temples and Tanjung Pinang’s seafood restaurants reveal the island’s cultural character. Back at the resort, guests can dine on Indonesian and international fare, play on the golf course or join watersports along the shoreline",
+      "location_subheading": "Indonesia",
+      "price": 214,
+      "original_price": 214,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gCetdYAC",
+      "hero_image": "https://images.luxuryescapes.com/itjwgqgkolh1by4y4p0n",
+      "image_two": "https://images.luxuryescapes.com/y4cgq0tp8cgqesyfeas8",
+      "image_three": "https://images.luxuryescapes.com/q4wwmn0lcjs5ztmxi0l",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-22",
-    "hotel_count": 1,
-    "average_price": 813,
-    "average_discount": 21
+    "last_updated": "2026-09-23",
+    "hotel_count": 2,
+    "average_price": 514,
+    "average_discount": 11
   }
 }
