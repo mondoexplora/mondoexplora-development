@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Marysville",
   "description": "Discover the best hotels in Marysville, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/axi4x3eynshju06sp7p",
+  "hero_image": "https://images.luxuryescapes.com/xdx4pf6pkgzgia1xfmjgl",
   "hotels": [
-    {
-      "vendor_name": "Peppers Marysville",
-      "offer_country_name": "Australia",
-      "location_heading": "Marysville",
-      "title": "Serene Yarra Valley Wine Country Retreat with Outdoor Heated Pool & Daily Breakfast",
-      "description": "Discover the magic of Victoria’s breathtaking Yarra Ranges with a relaxing stay right in the heart of Marysville and perfectly positioned to explore the abundance of highly acclaimed wineries in this sprawling wine region. When you aren’t sampling Victoria’s finest vintages and innovative drops, the rolling Cathedral Ranges, national parks and alpine wonders await. Back at the resort, Peppers Marysville boasts a decadent onsite wellness spa and sauna, and showcases fresh local produce at Andiamo Restaurant & Bar, cementing itself as the perfect spot for an indulgent and blissfully romantic escape. Take the time to soak up serenity with a swim in the long heated pool that overlooks lush landscapes, or challenge a loved one to a tennis game on the resort’s scenic grounds.",
-      "location_subheading": "Australia",
-      "price": 279,
-      "original_price": 558,
-      "discount_percentage": 50,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000fWlx3YAC",
-      "hero_image": "https://images.luxuryescapes.com/axi4x3eynshju06sp7p",
-      "image_two": "https://images.luxuryescapes.com/vxalu7jbuud9922rusfh",
-      "image_three": "https://images.luxuryescapes.com/pdp8977hbs12fwfv5r6",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 2,
-      "end_date_utc": "2026-10-16 12:59:00"
-    },
     {
       "vendor_name": "Peppers Marysville",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Peppers Marysville",
+      "offer_country_name": "Australia",
+      "location_heading": "Marysville",
+      "title": "Serene Yarra Valley Wine Country Retreat with Outdoor Heated Pool & Daily Breakfast",
+      "description": "Discover the magic of Victoria’s breathtaking Yarra Ranges with a relaxing stay right in the heart of Marysville and perfectly positioned to explore the abundance of highly acclaimed wineries in this sprawling wine region. When you aren’t sampling Victoria’s finest vintages and innovative drops, the rolling Cathedral Ranges, national parks and alpine wonders await. Back at the resort, Peppers Marysville boasts a decadent onsite wellness spa and sauna, and showcases fresh local produce at Andiamo Restaurant & Bar, cementing itself as the perfect spot for an indulgent and blissfully romantic escape. Take the time to soak up serenity with a swim in the long heated pool that overlooks lush landscapes, or challenge a loved one to a tennis game on the resort’s scenic grounds.",
+      "location_subheading": "Australia",
+      "price": 279,
+      "original_price": 558,
+      "discount_percentage": 50,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000fWlx3YAC",
+      "hero_image": "https://images.luxuryescapes.com/axi4x3eynshju06sp7p",
+      "image_two": "https://images.luxuryescapes.com/vxalu7jbuud9922rusfh",
+      "image_three": "https://images.luxuryescapes.com/pdp8977hbs12fwfv5r6",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-10-16 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "hotel_count": 2,
     "average_price": 286,
     "average_discount": 25

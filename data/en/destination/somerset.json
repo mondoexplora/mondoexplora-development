@@ -1,0 +1,50 @@
+{
+  "city": "Somerset",
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hero_title": "Hotels in Somerset",
+  "description": "Discover the best hotels in Somerset, United Kingdom. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/8e4f8e6diowf27up0f",
+  "hotels": [
+    {
+      "vendor_name": "Montigo Resorts Somerset Charlton House",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "Somerset",
+      "title": "Luxurious English Countryside Manor near Bath with Daily Breakfast & Spa Access",
+      "description": "A historic country house with a fresh, Asian approach to hospitality, Montigo Resorts Somerset brings something unexpected to the English countryside. Heritage architecture, landscaped grounds and a strong food-and-wellness offering create a stay that feels both characterful and restorative, all within easy reach of some of Somerset’s best-known sights. The spa remains a highlight, with a hydrotherapy pool, Finnish sauna, crystal steam room and Roman-inspired laconium, alongside treatments that draw on both Asian and European traditions. Outdoors, guests can unwind in the open-air hot tub or make the most of the surrounding gardens and peaceful countryside setting. Dining puts seasonal, locally sourced ingredients at the centre, while Bath is within easy reach for a change of scene. One of England’s best-known heritage cities, it’s celebrated for its remarkably preserved Roman Baths, elegant Georgian architecture and UNESCO-listed cityscape.",
+      "location_subheading": "United Kingdom",
+      "price": 319,
+      "original_price": 602,
+      "discount_percentage": 47,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000azOdNYAU",
+      "hero_image": "https://images.luxuryescapes.com/8e4f8e6diowf27up0f",
+      "image_two": "https://images.luxuryescapes.com/ophjrr837f64ngb9qs",
+      "image_three": "https://images.luxuryescapes.com/3j52g3419ir50fczo1wi",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-10-22 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Somerset - United Kingdom Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Somerset, United Kingdom with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "somerset hotels",
+      "somerset travel",
+      "united kingdom hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/somerset",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/somerset",
+      "es": "https://mondoexplora.com/es/destination/somerset",
+      "fr": "https://mondoexplora.com/fr/destination/somerset",
+      "it": "https://mondoexplora.com/it/destination/somerset"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-09-24",
+    "hotel_count": 1,
+    "average_price": 319,
+    "average_discount": 47
+  }
+}
