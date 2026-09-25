@@ -4,8 +4,26 @@
   "country_code": "GR",
   "hero_title": "Hotels in Rhodes",
   "description": "Discover the best hotels in Rhodes, Greece. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/0a1enpfofa6rh3hd2lp9",
+  "hero_image": "https://images.luxuryescapes.com/85lvd2u7petckljp35if",
   "hotels": [
+    {
+      "vendor_name": "Amoh, a Luxury Collection Resort, Rhodes",
+      "offer_country_name": "Greece",
+      "location_heading": "Rhodes",
+      "title": "Rhodes Greek Island Glamour with Daily Breakfast, Nightly Cocktails & Daily EUR50 Dining Credit",
+      "description": "Rhodes feels especially seductive from this secluded peninsula retreat, where a destination spa, standout dining and a glistening outdoor pool shape the stay. ELISPA draws on the island’s long wellness traditions, while Rhodian heritage influences everything from the interiors to the resort’s culinary identity. Dining ranges from refined seafood at Kymata to farm-led Mediterranean fare at Cava di Pietra, where views stretch across the dramatic stone quarry woven into the property’s design. Beyond the resort, guests can discover Rhodes through curated cultural experiences - story nights with local storytellers, ceramic workshops with Rhodian artisans and guided excursions to ancient sites. The iconic village of Lindos captivates with its whitewashed alleyways and dramatic Acropolis, while secluded coves and crystal-clear waters dot the coastline within easy reach of this exclusive retreat.",
+      "location_subheading": "Greece",
+      "price": 1084,
+      "original_price": 1902,
+      "discount_percentage": 43,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000erMeTYAU",
+      "hero_image": "https://images.luxuryescapes.com/85lvd2u7petckljp35if",
+      "image_two": "https://images.luxuryescapes.com/cqlh9dm74r2d4ii7gt2g",
+      "image_three": "https://images.luxuryescapes.com/r2m8ud3khm8puk3fc7u9",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-10-23 12:59:00"
+    },
     {
       "vendor_name": "Aulūs Lindos Rhodes, by Domes Resorts",
       "offer_country_name": "Greece",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-24",
-    "hotel_count": 4,
-    "average_price": 654,
-    "average_discount": 7
+    "last_updated": "2026-09-25",
+    "hotel_count": 5,
+    "average_price": 740,
+    "average_discount": 14
   }
 }

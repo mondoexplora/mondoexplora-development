@@ -4,8 +4,26 @@
   "country_code": "AU",
   "hero_title": "Hotels in Lorne",
   "description": "Discover the best hotels in Lorne, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/0xp9gvv08iucd4q554t",
+  "hero_image": "https://images.luxuryescapes.com/fomgsh37xq7t04dyq2ud",
   "hotels": [
+    {
+      "vendor_name": "Lorne Hotel",
+      "offer_country_name": "Australia",
+      "location_heading": "Lorne",
+      "title": "Great Ocean Road Boutique Escape with A$50 Dining Credit & Nightly Drink",
+      "description": "Perched on the iconic Great Ocean Road, Lorne Hotel offers a relaxed yet refined boutique escape with panoramic coastal views. Its prime location places you directly opposite the beach, making it easy to enjoy the sand and surf that the region is renowned for. The hotel's bistro and breezy beer garden serve up classic Australian pub fare alongside local beers and wine. Whether you're dining indoors or soaking up the sun outside, the stunning bay views enhance every meal. For a special occasion, Totti’s offers Italian-inspired dishes designed for sharing, perfect for gathering with friends and family. With just 11 rooms at the hotel, you can soak up the seaside serenity in a quiet retreat, equipped with modern amenities to ensure a comfortable stay. Beyond the hotel, Lorne's vibrant shopping and dining precinct is a short stroll away with a variety of restaurants, cafes and boutiques to explore. Whether you're seeking relaxation or adventure, Lorne Hotel provides a welcoming base for your next coastal escape.",
+      "location_subheading": "Australia",
+      "price": 219,
+      "original_price": 406,
+      "discount_percentage": 46,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000YucS1YAJ",
+      "hero_image": "https://images.luxuryescapes.com/fomgsh37xq7t04dyq2ud",
+      "image_two": "https://images.luxuryescapes.com/nm7n00gfewecahi3ea4",
+      "image_three": "https://images.luxuryescapes.com/uhqvk7dapd2icsfekja",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-11-20 12:59:00"
+    },
     {
       "vendor_name": "Mantra Lorne",
       "offer_country_name": "Australia",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-24",
-    "hotel_count": 1,
-    "average_price": 316,
-    "average_discount": 0
+    "last_updated": "2026-09-25",
+    "hotel_count": 2,
+    "average_price": 268,
+    "average_discount": 23
   }
 }
