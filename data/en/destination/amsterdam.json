@@ -67,8 +67,8 @@
       "title": "Five-Star Japanese Luxury in Amsterdam's De Pijp Neighbourhood with Michelin-Star Restaurants",
       "description": "Exquisite five-star Japanese hospitality has made its way to Amserdam's stunning De Pijp neighbourhood at Hotel Okura Amsterdam. As a member of The Leading Hotels of the World, you can expect nothing but the finest, with five outstanding restaurants with three Michelin stars between them. When you aren't gazing out onto the shimmering Amsterdam skyline, retreat to the world-class Nagomi Spa, swimming pool or fitness centre for ultimate relaxation.",
       "location_subheading": "Netherlands",
-      "price": 902,
-      "original_price": 1187,
+      "price": 910,
+      "original_price": 1197,
       "discount_percentage": 24,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNKAmAAP",
       "hero_image": "https://images.luxuryescapes.com/c5jp1uho8cca29yl7skm",
@@ -85,8 +85,8 @@
       "title": "Sophisticated Amsterdam Canal-Side Stay at Hyatt Regency",
       "description": "Set beside the leafy banks of the Amstel, this polished Amsterdam address places you within easy reach of the city’s elegant canal belt and the boutiques of De Pijp. The Rijksmuseum, Van Gogh Museum and lively Albert Cuyp Market are a short tram ride away, while nearby waterside paths invite leisurely strolls past historic townhouses and houseboats. Inside, contemporary rooms pair clean-lined design with floor-to-ceiling windows and marble bathrooms. The hotel’s restaurant serves modern Dutch and international dishes, while the bar pours Dutch gin and classic cocktails. A fitness centre and meeting spaces cater to both business stays and city breaks",
       "location_subheading": "Netherlands",
-      "price": 616,
-      "original_price": 616,
+      "price": 617,
+      "original_price": 617,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z99baYAB",
       "hero_image": "https://images.luxuryescapes.com/3pfdgjn5jv17ce5lsna",
@@ -151,6 +151,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Mövenpick Hotel Amsterdam City Centre",
+      "offer_country_name": "Netherlands",
+      "location_heading": "Amsterdam",
+      "title": "Stylish Amsterdam City Centre Stay with Sweeping IJ Waterfront Views",
+      "description": "Set on the IJ waterfront, this polished city retreat places you beside Amsterdam’s Passenger Terminal and a short tram ride from Centraal Station, the canal belt and the gabled lanes of the old town. Floor-to-ceiling windows frame sweeping views across the river and city skyline from many rooms and suites. At Silk Road Restaurant, East meets West in refined plates inspired by global trade routes, while the sleek bar pours cocktails and Dutch gin with water views. The hotel also features a wellness area with sauna, gym and massage facilities, and is within easy reach of the NEMO Science Museum and the striking EYE Film Museum",
+      "location_subheading": "Netherlands",
+      "price": 429,
+      "original_price": 429,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gCetPYAS",
+      "hero_image": "https://images.luxuryescapes.com/dpuxiost9jyrtmkmcpkh9",
+      "image_two": "https://images.luxuryescapes.com/i1wopw0yjocytep70wc",
+      "image_three": "https://images.luxuryescapes.com/gbculv9m1n3x3ycut4tv",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
+    },
+    {
       "vendor_name": "Pulitzer Amsterdam",
       "offer_country_name": "Netherlands",
       "location_heading": "Amsterdam",
@@ -186,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-25",
-    "hotel_count": 9,
-    "average_price": 772,
-    "average_discount": 3
+    "last_updated": "2026-09-26",
+    "hotel_count": 10,
+    "average_price": 738,
+    "average_discount": 2
   }
 }

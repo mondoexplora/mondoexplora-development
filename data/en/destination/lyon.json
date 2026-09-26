@@ -61,6 +61,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Hôtel Mercure Lyon Centre Beaux Arts",
+      "offer_country_name": "France",
+      "location_heading": "Lyon",
+      "title": "Elegant Lyon Centre Beaux-Arts Stay in a Heritage Address",
+      "description": "Set on Place des Jacobins in Presqu’île, this elegant address places you between Vieux Lyon’s Renaissance lanes and the grand boutiques of Rue de la République. A short stroll leads to the Musée des Beaux-Arts, the frescoed Théâtre des Célestins and the riverside promenades of the Saône. Inside, Haussmann-era details frame polished rooms with contemporary finishes and views over the square’s ornate fountain. Mornings begin with a generous breakfast buffet, while nearby bouchons such as Daniel et Denise and Café Comptoir Abel serve Lyonnaise classics including quenelles, tablier de sapeur and praline tart",
+      "location_subheading": "France",
+      "price": 376,
+      "original_price": 376,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gCet6YAC",
+      "hero_image": "https://images.luxuryescapes.com/gugr063lxwb79015t2x",
+      "image_two": "https://images.luxuryescapes.com/sb8vnr9thhm2ddoogja",
+      "image_three": "https://images.luxuryescapes.com/loqem9gcqrobf5j6aj",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
+    },
+    {
       "vendor_name": "InterContinental Lyon - Hotel Dieu",
       "offer_country_name": "France",
       "location_heading": "Lyon",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-25",
-    "hotel_count": 5,
-    "average_price": 432,
+    "last_updated": "2026-09-26",
+    "hotel_count": 6,
+    "average_price": 423,
     "average_discount": 0
   }
 }
