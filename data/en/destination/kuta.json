@@ -4,8 +4,26 @@
   "country_code": "ID",
   "hero_title": "Hotels in Kuta",
   "description": "Discover the best hotels in Kuta, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/tx9gkw90ddebbtecpux",
+  "hero_image": "https://images.luxuryescapes.com/kekbtu3itdgczd5vqzg",
   "hotels": [
+    {
+      "vendor_name": "Mamaka by Ovolo",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Kuta",
+      "title": "Kuta Beachfront Escape with Daily Breakfast & Daily Two-Hour Free-Flow Rooftop Cocktails",
+      "description": "Set right on Kuta's beachfront, MAMAKA by Ovolo sits at the point where surf culture meets city convenience. Whether you want to spend the day by the rooftop pool or head out for a lesson with the onsite Rip Curl School of Surf, you're in the right spot. Street 32 wines and dines around the clock, serving Western classics and Indonesian dishes 24 hours a day. Head up to the rooftop Kuta Social Club for sunset views over one of Bali's most recognisable stretches of beach, and savour a sundowner. When you're ready to venture further, Seminyak's nightlife is a short drive away.",
+      "location_subheading": "Indonesia",
+      "price": 419,
+      "original_price": 1445,
+      "discount_percentage": 71,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000XqnjCYAR",
+      "hero_image": "https://images.luxuryescapes.com/kekbtu3itdgczd5vqzg",
+      "image_two": "https://images.luxuryescapes.com/g4q7wlg8zpr6l4bq0y3h",
+      "image_three": "https://images.luxuryescapes.com/rkuo81v0podmol9g1fgn",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 7,
+      "end_date_utc": "2026-09-27 13:59:00"
+    },
     {
       "vendor_name": "Mamaka by Ovolo",
       "offer_country_name": "Indonesia",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-26",
-    "hotel_count": 4,
-    "average_price": 316,
-    "average_discount": 21
+    "last_updated": "2026-09-27",
+    "hotel_count": 5,
+    "average_price": 337,
+    "average_discount": 31
   }
 }
