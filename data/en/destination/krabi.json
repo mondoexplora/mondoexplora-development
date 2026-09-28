@@ -4,8 +4,26 @@
   "country_code": "TH",
   "hero_title": "Hotels in Krabi",
   "description": "Discover the best hotels in Krabi, Thailand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/v3a5zwz6mnnvqjt75ban",
+  "hero_image": "https://images.luxuryescapes.com/o3zagnd55stxo6lqfpg",
   "hotels": [
+    {
+      "vendor_name": "Anana Ecological Resort Krabi",
+      "offer_country_name": "Thailand",
+      "location_heading": "Krabi",
+      "title": "Eco Luxury Krabi Retreat with Daily Breakfast, Daily Lunch or Dinner & Nightly Cocktails",
+      "description": "Find the epitome of relaxation among southern Thailand’s striking limestone cliffs and forested valleys with a luxurious eco-escape in Krabi. Just a 30-minute stroll from Ao Nang’s breathtaking stretch of beach, this sustainable oasis invites you to return to nature and embrace green living through enriching amenities that focus on health and well-being. Restore mind, body and soul with a spa treatment in Asana Spa and a soothing dip in the natural volcanic-stone-tiled pools, or indulge in delicious food at an array of dining venues, serving fresh ingredients from the permaculture farm at Botanica. From yoga to meditation or an evening watching the sunset with a cocktail in hand at Anana Sky Lounge, embrace opportunities to relax, rejuvenate and rediscover your connection to the natural world.",
+      "location_subheading": "Thailand",
+      "price": 319,
+      "original_price": 997,
+      "discount_percentage": 68,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000aslgMYAQ",
+      "hero_image": "https://images.luxuryescapes.com/o3zagnd55stxo6lqfpg",
+      "image_two": "https://images.luxuryescapes.com/ou1mznylev0hxu3d7y8",
+      "image_three": "https://images.luxuryescapes.com/9aveh87l9q7q0kzqj6eu",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-10-26 12:59:00"
+    },
     {
       "vendor_name": "Anana Ecological Resort Krabi",
       "offer_country_name": "Thailand",
@@ -49,8 +67,8 @@
       "title": "Lush Tropical Thailand Holiday with Idyllic Mountain & Beach Views",
       "description": "Retreat within the trees at the Holiday Inn Resort Krabi Ao Nang Beach, an IHG Hotel, found between the lush green hillside and the sparkling Ao Nang Beach. An idyllic space for families and groups to chill out and rejuvenate, this resort is inspired by the stunning Krabi culture and surrounding landscape. Enjoy days by the breathtaking beach, explore the nearby islands or stay at the hotel and indulge in the premium onsite dining experiences.",
       "location_subheading": "Thailand",
-      "price": 223,
-      "original_price": 223,
+      "price": 211,
+      "original_price": 211,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DOtYmAAL",
       "hero_image": "https://images.luxuryescapes.com/n6vl85r1s0j9y7zqtqb",
@@ -114,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-27",
-    "hotel_count": 5,
-    "average_price": 611,
-    "average_discount": 6
+    "last_updated": "2026-09-28",
+    "hotel_count": 6,
+    "average_price": 560,
+    "average_discount": 17
   }
 }

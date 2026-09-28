@@ -43,6 +43,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Parian Chronicle Hotel Paros by Hyatt",
+      "offer_country_name": "Greece",
+      "location_heading": "Paros",
+      "title": "Paros Greek Island Paradise with Daily Breakfast, Nightly Cocktails & Daily EUR50 Resort Credit",
+      "description": "Sea swims and balmy poolside afternoons set the pace at Parian Chronicle Hotel Paros, a serene escape on the Greek island of Paros. Whitewashed curves and lush greenery frame the large outdoor pool, while Paros Kite Beach is a short drive away when the Aegean calls for time in the Mediterranean sun. Long breakfasts in the shade ease into afternoons spent over a book, best enjoyed with a cocktail in hand. As evening settles in, Naao takes over with leisurely dinners shaped by Cycladic flavours, offering plenty of reason to stay put. For an even slower tempo, Nipson Spa beckons with restorative treatments and tension-melting wellness rituals.",
+      "location_subheading": "Greece",
+      "price": 844,
+      "original_price": 1623,
+      "discount_percentage": 48,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000fh8acYAA",
+      "hero_image": "https://images.luxuryescapes.com/p8k1kco9wjywtrtl6hya",
+      "image_two": "https://images.luxuryescapes.com/q395symsl8p0phxsts7f",
+      "image_three": "https://images.luxuryescapes.com/vbehiltk67xwyqjk0ive",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-10-26 12:59:00"
+    },
+    {
       "vendor_name": "Pilipala Suites",
       "offer_country_name": "Greece",
       "location_heading": "Paros",
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-27",
-    "hotel_count": 4,
-    "average_price": 1205,
-    "average_discount": 0
+    "last_updated": "2026-09-28",
+    "hotel_count": 5,
+    "average_price": 1132,
+    "average_discount": 10
   }
 }

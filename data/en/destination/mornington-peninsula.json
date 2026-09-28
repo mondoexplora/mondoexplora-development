@@ -13,8 +13,8 @@
       "title": "Multi-Award-Winning Mornington Peninsula Wine Lovers' Haven with Hatted Restaurant & Spa",
       "description": "Treat yourself to ultimate luxury in the Mornington Peninsula wine region at this multi-award-winning stay. This whimsical, show-stopping hotel draws you down a rabbit hole of art installations, chef-hatted cuisine and fine wines, all while offering the highest level of service and breathtaking vineyard surrounds. Sit under a 10,000 globe chandelier at Doot Doot Doot, one of Victoria's best restaurants, savour woodfired fare at Rare Hare, cheers to your stay over delectable wines and cocktails at Flaggerooot, melt away during a hot stone massage at the spa and plunge into the 30-metre infinity pool during your acclaimed winery stay.",
       "location_subheading": "Australia",
-      "price": 914,
-      "original_price": 914,
+      "price": 917,
+      "original_price": 917,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JILW7YAP",
       "hero_image": "https://images.luxuryescapes.com/wuzro3c1ro1rrc6rx6",
@@ -31,8 +31,8 @@
       "title": "Boutique Mornington Peninsula Lancemore Winery Stay Just 90 Minutes from Melbourne",
       "description": "Hidden among the Mornington Peninsula's vine-clad hills, sweeping bushland and windswept cliffs lies Lancemore Lindenderry Red Hill, the perfect boutique retreat only 90 minutes from Melbourne's CBD. The porcelain-white boutique hotel stands tall in the centre of 34 acres of romantic greenery, offering guests European-style accommodation with a modern Australian twist, and is the perfect base to experience the region's treasure trove of artisanal distilleries, cherished cool-climate vineyards, seaside villages and tremendous natural beauty. Savour exceptional fare at The Dining Room restaurant or for those who like to sip throughout their trip, the Lancemore Lindenderry Red Hill's cellar door is the place to discover award-winning wines.",
       "location_subheading": "Australia",
-      "price": 560,
-      "original_price": 560,
+      "price": 561,
+      "original_price": 561,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009ErHOAA0",
       "hero_image": "https://images.luxuryescapes.com/psvruq3b3mp471vm8x",
@@ -41,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Peppers Moonah Links Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Mornington Peninsula",
+      "title": "Mornington Peninsula Escape with Daily Breakfast & Hot Springs Upgrades Available",
+      "description": "Swing into your next coastal escape at this sophisticated retreat, conveniently located just minutes from the award-winning Peninsula Hot Springs. Crowning the entry to two 18-hole championship golf courses, Peppers Moonah Links Resort boasts sweeping vistas from every angle, with each room offering private balconies and glorious rolling green views. Whether you're a solo traveller or couple in need of a quiet retreat, the resort places you close to some of the Mornington Peninsula's most popular highlights - yet still tucked away enough that you're enveloped in a sense of luxurious seclusion. Tee off at first light or linger over a leisurely breakfast as golden sunrises wash across the fairways before heading out to explore the best of the region. Spend afternoons unwinding with a rejuvenating soak at nearby Peninsula Hot Springs, exploring cellar doors and beach-framed towns dotted along the Mornington Peninsula or strolling coastal trails at Cape Schanck before retreating to your spacious contemporary sanctuary. After days on the green, unwind with relaxed dining and a pint at the onsite Spike Bar.",
+      "location_subheading": "Australia",
+      "price": 249,
+      "original_price": 638,
+      "discount_percentage": 61,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000cxRPjYAM",
+      "hero_image": "https://images.luxuryescapes.com/4izopho47q7w933d417n",
+      "image_two": "https://images.luxuryescapes.com/4kn83294pwxbh3hhah0d",
+      "image_three": "https://images.luxuryescapes.com/rfy26fu053cwgtgi37",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 2,
+      "end_date_utc": "2026-11-23 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-27",
-    "hotel_count": 2,
-    "average_price": 737,
-    "average_discount": 0
+    "last_updated": "2026-09-28",
+    "hotel_count": 3,
+    "average_price": 576,
+    "average_discount": 20
   }
 }
