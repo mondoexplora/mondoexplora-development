@@ -1,37 +1,37 @@
 {
   "city": "Victoria",
-  "country": "Canada",
-  "country_code": "CA",
+  "country": "Australia",
+  "country_code": "AU",
   "hero_title": "Hotels in Victoria",
-  "description": "Discover the best hotels in Victoria, Canada. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/3x2owru0dfojnz62gxy",
+  "description": "Discover the best hotels in Victoria, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/m9jholekbcb6muhfw4vp",
   "hotels": [
     {
-      "vendor_name": "Fairmont Empress",
-      "offer_country_name": "Canada",
+      "vendor_name": "Oaks R Suites Geelong",
+      "offer_country_name": "Australia",
       "location_heading": "Victoria",
-      "title": "Iconic Victoria Harbourfront Luxury at Fairmont Empress",
-      "description": "Overlooking Victoria’s Inner Harbour, this grand Edwardian landmark pairs heritage detailing with polished contemporary comforts. The hotel sits beside the Royal BC Museum and a short stroll from the Parliament Buildings, with the boutiques and galleries of Government Street close byAfternoon tea is served in the Lobby Lounge, while Q at the Empress showcases Pacific Northwest produce and local seafood. The spa offers treatments inspired by Vancouver Island botanicals, and the harbourfront path leads towards Fisherman’s Wharf and the colourful floatplanes",
-      "location_subheading": "Canada",
-      "price": 1024,
-      "original_price": 1024,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000drkpWYAQ",
-      "hero_image": "https://images.luxuryescapes.com/3x2owru0dfojnz62gxy",
-      "image_two": "https://images.luxuryescapes.com/7mzg7pashhbj29az0a0k",
-      "image_three": "https://images.luxuryescapes.com/z8003qw20kg96hqbi6g6",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
+      "title": "Coastal Geelong One- & Two-Bedroom Apartments near Eastern Beach with Complimentary Parking",
+      "description": "Set on Bellerine Street in a restored heritage-listed building, Oaks R Suites Geelong puts you within easy walking distance of both Eastern Beach and the sparkling waterfront. Each modern apartment comes with all the comforts of home, with a fully equipped kitchen, cosy lounge area, private balcony to savour views of the sea or lush parklands, plus an in-room washer and dryer, which is especially handy if you’re staying a few nights or heading out to Adventure Park. Le Cafe has all your daily breakfast and coffee needs sorted, while onsite parking, including an electric charging station, makes taking daytrips easier than ever. When you want to explore, this is a well-connected spot for making the most of the bay and the city with Eastern Beach is just a two-minute walk away, while both the CBD and Geelong Botanic Gardens are just a four-minute drive away.",
+      "location_subheading": "Australia",
+      "price": 229,
+      "original_price": 369,
+      "discount_percentage": 38,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000d2rrOYAQ",
+      "hero_image": "https://images.luxuryescapes.com/m9jholekbcb6muhfw4vp",
+      "image_two": "https://images.luxuryescapes.com/u67syudcl53ovqvv3ze",
+      "image_three": "https://images.luxuryescapes.com/s2brpjmgzlc9t0zw1mbs",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-11-23 12:59:00"
     }
   ],
   "seo": {
-    "title": "Hotels in Victoria - Canada Hotels & Travel Guide 2024",
-    "description": "Find the best hotels in Victoria, Canada with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "title": "Hotels in Victoria - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Victoria, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
     "keywords": [
       "victoria hotels",
       "victoria travel",
-      "canada hotels"
+      "australia hotels"
     ],
     "canonical": "https://mondoexplora.com/en/destination/victoria",
     "hreflang": {
@@ -42,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-28",
+    "last_updated": "2026-09-29",
     "hotel_count": 1,
-    "average_price": 1024,
-    "average_discount": 0
+    "average_price": 229,
+    "average_discount": 38
   }
 }
