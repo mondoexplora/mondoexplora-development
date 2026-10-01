@@ -43,6 +43,24 @@
       "end_date_utc": "2050-12-31 12:59:59"
     },
     {
+      "vendor_name": "Pullman Paris Centre Bercy",
+      "offer_country_name": "France",
+      "location_heading": "PARIS",
+      "title": "Stylish Paris Bercy Stay by Pullman Near Accor Arena",
+      "description": "Set in Paris’s revitalised Bercy district, this contemporary retreat places you moments from Bercy Village, where cobbled lanes lead to chic boutiques, wine bars and polished terraces. Accor Arena is a short stroll away, and the Seine’s leafy promenade invites easy walks towards Parc de Bercy’s rose gardens and sculpture-dotted lawns. Inside, sleek rooms and suites pair refined design with generous city views and marble-finished bathrooms. Dine on elegant French fare at Ariette, then linger over a cocktail at the hotel bar before taking to the indoor pool and fitness centre",
+      "location_subheading": "France",
+      "price": 540,
+      "original_price": 540,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gCeu7YAC",
+      "hero_image": "https://images.luxuryescapes.com/k0pqmpdxcp52e33dvjc",
+      "image_two": "https://images.luxuryescapes.com/etq7qzxb1fqympebtl37",
+      "image_three": "https://images.luxuryescapes.com/0ftr0dfrrd0sr1xzthl",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
+    },
+    {
       "vendor_name": "Pullman Paris Montparnasse",
       "offer_country_name": "France",
       "location_heading": "PARIS",
@@ -78,8 +96,8 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-30",
-    "hotel_count": 3,
+    "last_updated": "2026-10-01",
+    "hotel_count": 4,
     "average_price": 542,
     "average_discount": 0
   }

@@ -30,16 +30,7 @@
       "description": "Explore Kota Kinabalu with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 404
-    },
-    {
-      "name": "Langkawi",
-      "slug": "langkawi",
-      "image": "https://images.luxuryescapes.com/s1rjdu8siai795al33b",
-      "description": "Explore Langkawi with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 354
+      "avg_price": 400
     },
     {
       "name": "Kuching",
@@ -48,7 +39,16 @@
       "description": "Explore Kuching with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 347
+      "avg_price": 348
+    },
+    {
+      "name": "Langkawi",
+      "slug": "langkawi",
+      "image": "https://images.luxuryescapes.com/6sz9ixcht4z7urhnl6r",
+      "description": "Explore Langkawi with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 223
     },
     {
       "name": "Gaya Island",
@@ -57,7 +57,7 @@
       "description": "Explore Gaya Island with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 930
+      "avg_price": 932
     }
   ],
   "seo": {

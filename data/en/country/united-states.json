@@ -12,25 +12,25 @@
       "description": "Explore New York with luxury accommodations",
       "hotel_count": 31,
       "hotel_deals": 31,
-      "avg_price": 1113
+      "avg_price": 1119
     },
     {
       "name": "California",
       "slug": "california",
-      "image": "https://images.luxuryescapes.com/y1xmg8jbi3r8xp975qhc",
+      "image": "https://images.luxuryescapes.com/6svtlrw2gsl57dv2jzp7",
       "description": "Explore California with luxury accommodations",
-      "hotel_count": 15,
-      "hotel_deals": 15,
-      "avg_price": 1130
+      "hotel_count": 16,
+      "hotel_deals": 16,
+      "avg_price": 1090
     },
     {
       "name": "San Francisco",
       "slug": "san-francisco",
       "image": "https://images.luxuryescapes.com/m2svymv8ky5i0gdbe9",
       "description": "Explore San Francisco with luxury accommodations",
-      "hotel_count": 14,
-      "hotel_deals": 14,
-      "avg_price": 592
+      "hotel_count": 13,
+      "hotel_deals": 13,
+      "avg_price": 620
     },
     {
       "name": "Los Angeles",
@@ -39,16 +39,7 @@
       "description": "Explore Los Angeles with luxury accommodations",
       "hotel_count": 11,
       "hotel_deals": 11,
-      "avg_price": 704
-    },
-    {
-      "name": "Hawaii",
-      "slug": "hawaii",
-      "image": "https://images.luxuryescapes.com/4r6a8zqk0gowg30qnsv1",
-      "description": "Explore Hawaii with luxury accommodations",
-      "hotel_count": 11,
-      "hotel_deals": 11,
-      "avg_price": 1507
+      "avg_price": 698
     },
     {
       "name": "Chicago",
@@ -57,7 +48,16 @@
       "description": "Explore Chicago with luxury accommodations",
       "hotel_count": 10,
       "hotel_deals": 10,
-      "avg_price": 637
+      "avg_price": 639
+    },
+    {
+      "name": "Hawaii",
+      "slug": "hawaii",
+      "image": "https://images.luxuryescapes.com/4r6a8zqk0gowg30qnsv1",
+      "description": "Explore Hawaii with luxury accommodations",
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 1462
     }
   ],
   "seo": {

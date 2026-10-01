@@ -95,24 +95,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "JW Marriott Hotel Berlin",
-      "offer_country_name": "Germany",
-      "location_heading": "Berlin",
-      "title": "Berlin Luxury near Tiergarten with Daily Breakfast, Nightly Drinks & Club Lounge Access",
-      "description": "Tucked away just moments from the leafy expanse of Tiergarten, JW Marriott Hotel Berlin pairs a central city location with standout facilities, including a heated indoor pool and tranquil rooftop garden. Dining is equally well covered, from charcoal-grilled cuts at JW Steakhouse to casual bites at Berlin Baking Company and evening drinks in the Lobby Lounge. From here, Potsdamer Platz, Kulturforum and the Brandenburg Gate are all within easy reach, placing many of Berlin’s best-known sights close by. After a day exploring Berlin’s galleries, landmarks and shopping streets, return for a swim, enjoy a rooftop pause and indulge in a relaxed dinner back at the hotel.",
-      "location_subheading": "Germany",
-      "price": 499,
-      "original_price": 860,
-      "discount_percentage": 42,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000YCHW9YAP",
-      "hero_image": "https://images.luxuryescapes.com/c8q967c9cj8y5t4fu69",
-      "image_two": "https://images.luxuryescapes.com/rf8jnv57zcw6v4eiomqj",
-      "image_three": "https://images.luxuryescapes.com/430ctmt1ckb9ze8d4rb",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-09-30 13:59:00"
     }
   ],
   "seo": {
@@ -132,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-30",
-    "hotel_count": 6,
-    "average_price": 438,
-    "average_discount": 7
+    "last_updated": "2026-10-01",
+    "hotel_count": 5,
+    "average_price": 426,
+    "average_discount": 0
   }
 }

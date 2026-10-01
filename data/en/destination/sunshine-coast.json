@@ -28,24 +28,6 @@
       "vendor_name": "Novotel Sunshine Coast Resort",
       "offer_country_name": "Australia",
       "location_heading": "Sunshine Coast",
-      "title": "Beachfront Sunshine Coast Beauty with Private Saltwater Lagoon & Onsite Restaurant",
-      "description": "Experience the coastal charm of Queensland with a stay at one of the most loved addresses in the Sunshine Coast. This tranquil retreat, located on a private lagoon, offers an idyllic blend of relaxation and adventure. Savour Sicilian flavours or sip a refreshing drink at Sola Bar & Restaurant, or get your caffeine dose at the Deli Café & Market along with some healthy bites. There's no chance of boredom with a pool and endless activites like kayaking, catamaran sailing and more on the private lagoon. Explore the vibrant Maroochydore or stroll along the pristine Mudjimba Beach - both a short distance from the hotel.",
-      "location_subheading": "Australia",
-      "price": 442,
-      "original_price": 442,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlvWIAS",
-      "hero_image": "https://images.luxuryescapes.com/d9ptjou7bn9dhjpw91n9",
-      "image_two": "https://images.luxuryescapes.com/s9r17pl54udb2iw4q8vo",
-      "image_three": "https://images.luxuryescapes.com/njscahu0znonlo49u9p",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Novotel Sunshine Coast Resort",
-      "offer_country_name": "Australia",
-      "location_heading": "Sunshine Coast",
       "title": "Sunshine Coast Beachfront Escape with Saltwater Lagoon, Daily Breakfast & Nightly Drinks",
       "description": "Experience the epitome of laid-back Queensland living and take in impressive views from all angles at this beachfront paradise. This sprawling resort puts the sand and sunshine on your doorstep, with Mudjimba Beach and the lively atmosphere of Maroochydore and Mooloolaba both within easy reach. Exceptional facilities, including a gleaming resort-style pool, poolside cocktail bar and private saltwater lagoon, are sure to impress, while spacious rooms guarantee blissful relaxation with a stylish twist. Ideally located to make the most of the area, this superb resort is the perfect launchpad for exploring the Sunshine Coast’s world-class beaches, exceptional restaurants, striking hinterland and thrilling attractions. A short walk will take you to Mudjimba Beach, while Maroochydore’s shops, cafes, restaurants and nightlife are just a short drive away. A little further afield, you can enjoy world-class hiking through the forested Glass House Mountains, and spend the day at Australia Zoo or the swells of Noosa Beach. Round out each day at the onsite Sola Bar & Restaurant with a sunset cocktail or relaxed dining.",
       "location_subheading": "Australia",
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 3,
       "end_date_utc": "2026-10-09 12:59:00"
+    },
+    {
+      "vendor_name": "Novotel Sunshine Coast Resort",
+      "offer_country_name": "Australia",
+      "location_heading": "Sunshine Coast",
+      "title": "Beachfront Sunshine Coast Beauty with Private Saltwater Lagoon & Onsite Restaurant",
+      "description": "Experience the coastal charm of Queensland with a stay at one of the most loved addresses in the Sunshine Coast. This tranquil retreat, located on a private lagoon, offers an idyllic blend of relaxation and adventure. Savour Sicilian flavours or sip a refreshing drink at Sola Bar & Restaurant, or get your caffeine dose at the Deli Café & Market along with some healthy bites. There's no chance of boredom with a pool and endless activites like kayaking, catamaran sailing and more on the private lagoon. Explore the vibrant Maroochydore or stroll along the pristine Mudjimba Beach - both a short distance from the hotel.",
+      "location_subheading": "Australia",
+      "price": 449,
+      "original_price": 449,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlvWIAS",
+      "hero_image": "https://images.luxuryescapes.com/d9ptjou7bn9dhjpw91n9",
+      "image_two": "https://images.luxuryescapes.com/s9r17pl54udb2iw4q8vo",
+      "image_three": "https://images.luxuryescapes.com/njscahu0znonlo49u9p",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Ramada By Wyndham Marcoola Beach",
@@ -103,8 +103,8 @@
       "title": "Sunshine Coast Beachside Spa Apartments Just 90 Minutes from Brisbane",
       "description": "Enjoy a romantic escape with someone special or gather your family and friends for a luxe Sunshine Coast stay at Rumba Beach Resort, just a 90-minute drive from Brisbane and surrounded by six beaches. While Caloundra is a popular spot on the Sunshine Coast, it’s largely regarded as one of the most authentic and unspoiled locations in Queensland. The options here are endless. Spend days relaxing or enjoying watersports on one of the surrounding beaches (it’s just a short stroll to The Esplanade and Bulcock Beach), visit the fountain on the Kings Beach foreshore and the adjacent saltwater pool or take the kids to the zoo. Enjoy all the amenities of a five-star resort while benefiting from the flexibility afforded by a self-catering apartment. Rumba Beach Resort offers two inviting swimming pools, a jacuzzi and bar plus an ideal location in the heart of Caloundra, just a short walk from the beach, restaurants and cafés.",
       "location_subheading": "Australia",
-      "price": 676,
-      "original_price": 697,
+      "price": 675,
+      "original_price": 696,
       "discount_percentage": 3,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y0000043iEWAAY",
       "hero_image": "https://images.luxuryescapes.com/1x1hpnms35dqwtqciiz",
@@ -150,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-30",
+    "last_updated": "2026-10-01",
     "hotel_count": 7,
-    "average_price": 531,
+    "average_price": 532,
     "average_discount": 14
   }
 }
