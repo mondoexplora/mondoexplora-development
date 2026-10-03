@@ -1,0 +1,50 @@
+{
+  "city": "Greenwich",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Greenwich",
+  "description": "Discover the best hotels in Greenwich, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/afcskhyz3me91oylwjc",
+  "hotels": [
+    {
+      "vendor_name": "Mercure Sydney St Leonards",
+      "offer_country_name": "Australia",
+      "location_heading": "Greenwich",
+      "title": "A Stylish St Leonards Stay with a Rooftop Pool",
+      "description": "Set in Sydney’s leafy Lower North Shore, this polished St Leonards stay places you moments from Royal North Shore Hospital, the buzzing Crows Nest dining precinct and swift train links to the CBD. Nearby, wander through Wendy Whiteley’s Secret Garden or follow the harbourfront paths of Berry Island Reserve for sweeping water views. Inside, contemporary rooms are paired with a rooftop pool and gym overlooking the district. For dining, Crows Nest delivers everything from refined Japanese at Garfish to modern Italian plates at Annata",
+      "location_subheading": "Australia",
+      "price": 300,
+      "original_price": 300,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gCetqYAC",
+      "hero_image": "https://images.luxuryescapes.com/afcskhyz3me91oylwjc",
+      "image_two": "https://images.luxuryescapes.com/n6f6xn0jwianj6a2jh0t",
+      "image_three": "https://images.luxuryescapes.com/arxyd7inznxdzdt873",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Greenwich - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Greenwich, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "greenwich hotels",
+      "greenwich travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/greenwich",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/greenwich",
+      "es": "https://mondoexplora.com/es/destination/greenwich",
+      "fr": "https://mondoexplora.com/fr/destination/greenwich",
+      "it": "https://mondoexplora.com/it/destination/greenwich"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-10-03",
+    "hotel_count": 1,
+    "average_price": 300,
+    "average_discount": 0
+  }
+}

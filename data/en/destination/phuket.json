@@ -4,8 +4,26 @@
   "country_code": "TH",
   "hero_title": "Hotels in PHUKET",
   "description": "Discover the best hotels in PHUKET, Thailand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ztugzhnvjqu90xix9q7",
+  "hero_image": "https://images.luxuryescapes.com/7f90suebmgr7l3t7emb",
   "hotels": [
+    {
+      "vendor_name": "Mercure Phuket Patong Journeyhub",
+      "offer_country_name": "Thailand",
+      "location_heading": "PHUKET",
+      "title": "Stylish Patong Escape at Mercure Phuket Patong Journeyhub",
+      "description": "Discover Phuket’s spirited Patong from this contemporary retreat, a short walk from Patong Beach and the neon glow of Bangla Road. Jungceylon Shopping Centre and Banzaan Fresh Market sit nearby, placing local produce, street food stalls and late-night dining close at hand. Between outings, retreat to the rooftop pool or step onto the private balcony of your modern room, framed by clean-lined interiors. For a taste of the neighbourhood, No.6 Restaurant is known for fragrant curries and seafood, while Malin Plaza Patong serves grilled skewers, mango sticky rice and fresh tropical fruit",
+      "location_subheading": "Thailand",
+      "price": 97,
+      "original_price": 97,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gCeuDYAS",
+      "hero_image": "https://images.luxuryescapes.com/7f90suebmgr7l3t7emb",
+      "image_two": "https://images.luxuryescapes.com/nht0szglcqb9gd68xcvj",
+      "image_three": "https://images.luxuryescapes.com/gosewjn9gcxw51414qmo",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "TRIBE Phuket Patong",
       "offer_country_name": "Thailand",
@@ -13,8 +31,8 @@
       "title": "Ultra-Cool Phuket Patong Design Stay by TRIBE",
       "description": "Set in the heart of Patong, this design-led retreat places you within easy reach of Patong Beach, Bangla Road and the lively stalls of Malin Plaza Night Market. Contemporary rooms pair sleek lines with smart technology, creating a polished base near Phuket’s most energetic coastal quarter. Spend afternoons by the pool, keep active in the gym or dine on globally inspired plates at the hotel’s restaurant. Beyond the hotel, sample fresh seafood at Baan Rim Pa overlooking Kalim Bay or browse the boutiques and dining precinct at Jungceylon Shopping Centre",
       "location_subheading": "Thailand",
-      "price": 185,
-      "original_price": 185,
+      "price": 186,
+      "original_price": 186,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gCeu5YAC",
       "hero_image": "https://images.luxuryescapes.com/ztugzhnvjqu90xix9q7",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-02",
-    "hotel_count": 1,
-    "average_price": 185,
+    "last_updated": "2026-10-03",
+    "hotel_count": 2,
+    "average_price": 142,
     "average_discount": 0
   }
 }

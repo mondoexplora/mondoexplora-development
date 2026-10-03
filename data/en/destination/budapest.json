@@ -23,6 +23,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:59"
+    },
+    {
+      "vendor_name": "Pullman Budapest",
+      "offer_country_name": "Hungary",
+      "location_heading": "BUDAPEST",
+      "title": "A Design-Led Stay Steps from Budapest’s Opera House",
+      "description": "Set on lively Nagymezo Street in Budapest’s theatre district, this design-led retreat places you steps from the Hungarian State Opera House and the grand boutiques of Andrassy Avenue. Contemporary rooms pair sleek lines with plush textures, creating a polished base in one of the city’s most cultured quarters. Start the evening with Hungarian flavours and refined plates at the hotel’s restaurant, then slip into the chic bar for cocktails beneath striking interiors. St Stephen’s Basilica, the Danube promenade and the ruin bars of the Jewish Quarter are all within easy reach",
+      "location_subheading": "Hungary",
+      "price": 384,
+      "original_price": 384,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gCetjYAC",
+      "hero_image": "https://images.luxuryescapes.com/0gj7mta0p86bqmufvizh",
+      "image_two": "https://images.luxuryescapes.com/ttowav17qcr3y6tynrpd",
+      "image_three": "https://images.luxuryescapes.com/ed3jsbsq4sph8hicguoy",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-02",
-    "hotel_count": 1,
-    "average_price": 264,
+    "last_updated": "2026-10-03",
+    "hotel_count": 2,
+    "average_price": 324,
     "average_discount": 0
   }
 }
