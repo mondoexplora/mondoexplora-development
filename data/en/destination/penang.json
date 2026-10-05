@@ -149,6 +149,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Millen Penang, Autograph Collection",
+      "offer_country_name": "Malaysia",
+      "location_heading": "Penang",
+      "title": "Malaysia Heritage Luxury with Daily Breakfast, Nightly Drinks & Infinity Pool",
+      "description": "The Millen Penang, Autograph Collection brings heritage character to a waterfront address on George Town’s historic Millionaire’s Row. As Penang’s first Autograph Collection hotel, it sits among grand historic mansions, with George Town’s UNESCO-listed sights close by and the Andaman Sea stretching out beyond. Dining is a highlight, with three distinct venues to choose from: Lili gives Malaysian cuisine a fresh, playful edge, Good Society moves from coffee salon to evening bar, and Blacklinen serves charcoal-grilled specialities and aged meats. Between meals, unwind in the sea-facing infinity pool or book a treatment at Nut&Meg Wellness Spa, where local traditions shape a restorative retreat. With George Town’s UNESCO-listed streets, Penang’s celebrated food scene and the Andaman seafront close by, the hotel puts the city’s heritage sights, local flavours and waterfront within easy reach. Back at the hotel, a fitness centre and private yoga room offer space to keep your routine, while Andaman Sea views bring a slower pace to your stay.",
+      "location_subheading": "Malaysia",
+      "price": 489,
+      "original_price": 1223,
+      "discount_percentage": 60,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000g4C5eYAE",
+      "hero_image": "https://images.luxuryescapes.com/9h3wg6xc6dq3w2xq6xd",
+      "image_two": "https://images.luxuryescapes.com/zh9vbeh8c93tgs4mdt8p",
+      "image_three": "https://images.luxuryescapes.com/89vjjhecgu3680t47rwv",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2027-01-04 12:59:00"
     }
   ],
   "seo": {
@@ -168,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-04",
-    "hotel_count": 8,
-    "average_price": 310,
-    "average_discount": 8
+    "last_updated": "2026-10-05",
+    "hotel_count": 9,
+    "average_price": 330,
+    "average_discount": 14
   }
 }

@@ -12,16 +12,16 @@
       "description": "Explore Kuala Lumpur with luxury accommodations",
       "hotel_count": 20,
       "hotel_deals": 20,
-      "avg_price": 355
+      "avg_price": 353
     },
     {
       "name": "Penang",
       "slug": "penang",
       "image": "https://images.luxuryescapes.com/hbdbkajlsg5015kbo2",
       "description": "Explore Penang with luxury accommodations",
-      "hotel_count": 8,
-      "hotel_deals": 8,
-      "avg_price": 310
+      "hotel_count": 9,
+      "hotel_deals": 9,
+      "avg_price": 330
     },
     {
       "name": "Kota Kinabalu",
@@ -30,7 +30,7 @@
       "description": "Explore Kota Kinabalu with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 404
+      "avg_price": 403
     },
     {
       "name": "Kuching",

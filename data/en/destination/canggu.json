@@ -79,6 +79,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Canggu Cabana Resort by Ini Vie Hospitality",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Canggu",
+      "title": "Canggu All-Suite Escape with Massages, Daily Breakfast, Daily Lunch or Dinner & Nightly Cocktail",
+      "description": "Discover a stylish collection of suites in the heart of Canggu, close to popular spots The Lawn and Old Man’s, as well as ever-evolving restaurants and cafés. Return to moments of laid-back luxury in your ultra-modern suite, masterfully designed to offer sweeping views of lush gardens or the endlessly shining Indian Ocean, perfect for savouring Bali’s famous sunset. Start the day with a swim in the infinity pool or rooftop yoga, then unwind at Svaha Spa Nelayan with a massage or treatment inspired by Balinese traditions. At Seabird Restaurant, enjoy Mediterranean flavours with Italian and French influences, from brunch through to dinner.",
+      "location_subheading": "Indonesia",
+      "price": 489,
+      "original_price": 1358,
+      "discount_percentage": 64,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000f9LTpYAM",
+      "hero_image": "https://images.luxuryescapes.com/frgrj24v7ef74md1qbp2",
+      "image_two": "https://images.luxuryescapes.com/hy6f320q2bn4avtvo5",
+      "image_three": "https://images.luxuryescapes.com/okoudh2fi0cilrt7hi1",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-11-14 12:59:00"
+    },
+    {
       "vendor_name": "Holiday Inn Resort Bali Canggu",
       "offer_country_name": "Indonesia",
       "location_heading": "Canggu",
@@ -222,9 +240,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-04",
-    "hotel_count": 11,
-    "average_price": 616,
-    "average_discount": 13
+    "last_updated": "2026-10-05",
+    "hotel_count": 12,
+    "average_price": 605,
+    "average_discount": 17
   }
 }

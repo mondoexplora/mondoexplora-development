@@ -46,24 +46,6 @@
       "vendor_name": "Corazon Cabo Resort & Spa",
       "offer_country_name": "Mexico",
       "location_heading": "Cabo San Lucas",
-      "title": "Stylish Cabo San Lucas Beachfront Resort on Medano Beach",
-      "description": "Discover Mexico’s dreamy city of Cabo San Lucas, where white sandy beaches and soaring stone cliffs meet a vibrant nightlife. Base yourself at the renovated Corazón Cabo Resort & Spa, a luxurious Noble House Resort property on popular Medano Beach. Take a dip in any of the two magnificent ocean-facing infinity pools and when you’re in need of refreshments, ascend to Rooftop 360, the highest rooftop bar in the city. Listen to live DJ sets while sipping a mojito on your private cabana or day bed at the cool Corazón Beach Club, and taste craft beers brewed in Baja Brewing Co., the first and only microbrewery in Baja California Sur. Leaving the resort is a hard task, but the wonders that await in Cabo are well worth it. Private yacht charters, incredible golf courses, world-class sport fishing, exciting nightlife, and luxury shopping are just steps from your retreat.",
-      "location_subheading": "Mexico",
-      "price": 550,
-      "original_price": 640,
-      "discount_percentage": 14,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007m9PBAAY",
-      "hero_image": "https://images.luxuryescapes.com/hjz1f1j1iocqfjt0r2h",
-      "image_two": "https://images.luxuryescapes.com/p4fzuaq9ngwe887vxam",
-      "image_three": "https://images.luxuryescapes.com/arjtp3d1khydfeuc2bg",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Corazon Cabo Resort & Spa",
-      "offer_country_name": "Mexico",
-      "location_heading": "Cabo San Lucas",
       "title": "Cabo Beachfront Oasis with Daily Breakfast, One-Off Dinner, Infinity Pools & Cabo's Highest Rooftop Bar",
       "description": "Overlooking the calm, swimmable waters of Medano Beach, Corazón Cabo Resort & Spa puts you steps from the sand and within walking distance of downtown Cabo. Spend your days between two oceanfront infinity pools and the lively beach club, then stroll to the marina, shops and nightlife when you’re ready to explore. Dining ranges from fresh coastal flavours at Aleta to craft beer at Baja Brewing Co., but the standout is Rooftop 360 - Cabo’s highest rooftop bar, with sweeping views across the sea and city skyline. For a slower pace, retreat to the beachside Sparitual for a restorative treatment. Whether you’re planning a family holiday or a couples’ escape, Corazón keeps Cabo’s best experiences close. Private yacht charters, golf, sport fishing and water adventures are all within easy reach, while the resort’s coveted Medano Beach address means you can always return to the sand.",
       "location_subheading": "Mexico",
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 3,
       "end_date_utc": "2026-11-25 12:59:00"
+    },
+    {
+      "vendor_name": "Corazon Cabo Resort & Spa",
+      "offer_country_name": "Mexico",
+      "location_heading": "Cabo San Lucas",
+      "title": "Stylish Cabo San Lucas Beachfront Resort on Medano Beach",
+      "description": "Discover Mexico’s dreamy city of Cabo San Lucas, where white sandy beaches and soaring stone cliffs meet a vibrant nightlife. Base yourself at the renovated Corazón Cabo Resort & Spa, a luxurious Noble House Resort property on popular Medano Beach. Take a dip in any of the two magnificent ocean-facing infinity pools and when you’re in need of refreshments, ascend to Rooftop 360, the highest rooftop bar in the city. Listen to live DJ sets while sipping a mojito on your private cabana or day bed at the cool Corazón Beach Club, and taste craft beers brewed in Baja Brewing Co., the first and only microbrewery in Baja California Sur. Leaving the resort is a hard task, but the wonders that await in Cabo are well worth it. Private yacht charters, incredible golf courses, world-class sport fishing, exciting nightlife, and luxury shopping are just steps from your retreat.",
+      "location_subheading": "Mexico",
+      "price": 550,
+      "original_price": 640,
+      "discount_percentage": 14,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000007m9PBAAY",
+      "hero_image": "https://images.luxuryescapes.com/hjz1f1j1iocqfjt0r2h",
+      "image_two": "https://images.luxuryescapes.com/p4fzuaq9ngwe887vxam",
+      "image_three": "https://images.luxuryescapes.com/arjtp3d1khydfeuc2bg",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Montage Los Cabos",
@@ -150,7 +150,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-04",
+    "last_updated": "2026-10-05",
     "hotel_count": 7,
     "average_price": 1344,
     "average_discount": 16
