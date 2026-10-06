@@ -77,6 +77,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "TUI BLUE Han River",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Danang",
+      "title": "Grand Opening: Vietnam Da Nang Bliss with Daily Breakfast, Free-Flow Drinks Hour & Infinity Pool",
+      "description": "Fresh from its grand opening in August 2026, TUI BLUE Han River brings a polished new stay to Da Nang’s riverside, with contemporary rooms and an infinity pool overlooking the river. Unwind at the spa, where a soothing 60-minute body massage awaits. For dinner, choose The Restaurant’s Vietnamese and international dishes or head to rooftop restaurant BLUE moon for grilled specialities and city views. Beyond the pool and dining, TUI BLUE Han River has a complimentary fitness centre, so you can fit in a workout between outings. The wellness area offers a footbath, two saunas and five treatment rooms, including two designed for couples, giving the hotel a quieter side to return to after a day in the city. A riverside setting makes exploring Da Nang simple. Stroll along the Han River, catch Dragon Bridge’s fire and water show on a weekend, browse the local markets or visit the Marble Mountains. My Khe Beach is also within reach, while a day trip to Hoi An offers lantern-lit streets, heritage buildings and riverside cafés. With the river as your backdrop and the city’s sights and central Vietnam’s cultural highlights within easy reach, TUI BLUE Han River is a welcoming base for exploring the region.",
+      "location_subheading": "Vietnam",
+      "price": 249,
+      "original_price": 638,
+      "discount_percentage": 61,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000f9R4rYAE",
+      "hero_image": "https://images.luxuryescapes.com/haautrdt30lcx9hcud92s",
+      "image_two": "https://images.luxuryescapes.com/u4lriyfr0bphpbl01ban",
+      "image_three": "https://images.luxuryescapes.com/lnmf7uoezprpv3142eld",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 3,
+      "end_date_utc": "2026-11-02 12:59:00"
     }
   ],
   "seo": {
@@ -96,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-05",
-    "hotel_count": 4,
-    "average_price": 530,
-    "average_discount": 0
+    "last_updated": "2026-10-06",
+    "hotel_count": 5,
+    "average_price": 474,
+    "average_discount": 12
   }
 }
