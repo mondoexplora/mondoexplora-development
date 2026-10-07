@@ -4,25 +4,25 @@
   "country_code": "IT",
   "hero_title": "Hotels in Sicily",
   "description": "Discover the best hotels in Sicily, Italy. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/0gws49gf5sg910v9u5w",
+  "hero_image": "https://images.luxuryescapes.com/3qhyaowcvq6jys67vq3q",
   "hotels": [
     {
-      "vendor_name": "Villa Neri Resort & Spa",
+      "vendor_name": "NH Collection Taormina",
       "offer_country_name": "Italy",
       "location_heading": "Sicily",
-      "title": "Sicily Boutique Luxury near Mount Etna with Daily Breakfast, Nightly Dinner & Spa Access",
-      "description": "Nestled amid vineyards and olive groves on the slopes of Mount Etna, Villa Neri Resort & Spa is a sun-soaked Sicilian sanctuary where boutique luxury meets raw natural beauty. A member of the prestigious Small Luxury Hotels of the World collection, this five-star haven pairs authentic Italian craftsmanship with contemporary comfort, with just 24 pristine rooms offering a blissful escape. Unwind by the saltwater pool, indulge at Petra Spa, savour creative cuisine at 12 Fontane and uncork the region’s volcanic wines with an included tasting at Casa Arrigo countryhouse winery. When adventure calls, few hotels are better placed to answer - guided Etna treks, bike or jeep excursions and the clifftop streets of Taormina are all within easy reach.",
+      "title": "Romantic Sicily Escape in the Heart of Taormina with Daily Breakfast & Rooftop Infinity Pool",
+      "description": "Take your Sicilian escape above the rooftops at NH Collection Taormina, a five-star retreat in the town’s historic centre. The infinity pool gives you a front-row view of the sea beyond, with Sicilian street food and cocktails served poolside at Lu Souli. Linger over lunch, claim a lounger or head out to explore the old town. In summer, head to Zefiro’s seventh-floor rooftop, where views stretch towards Mount Etna and the ancient Greek Theatre. Modern interpretations of Sicilian recipes keep the focus firmly local, with the restaurant moving indoors during the cooler months. Between outings, carve out some time at Fusion Spa, complete with a Finnish sauna, Turkish bath and more. Explore the boutiques and cafes around nearby Porta Messina, or walk around five minutes to Taormina’s ancient Greek Theatre. When the sea beckons, head down to Isola Bella beach for a swim beside its tiny green island, then return to town for an aperitivo and an evening wander.",
       "location_subheading": "Italy",
-      "price": 899,
-      "original_price": 1954,
-      "discount_percentage": 54,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000bvHWkYAM",
-      "hero_image": "https://images.luxuryescapes.com/0gws49gf5sg910v9u5w",
-      "image_two": "https://images.luxuryescapes.com/qbryrpvjusdbvup8dcp",
-      "image_three": "https://images.luxuryescapes.com/7lam06nalpf78ksivz",
+      "price": 519,
+      "original_price": 1038,
+      "discount_percentage": 50,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000f0qOnYAI",
+      "hero_image": "https://images.luxuryescapes.com/3qhyaowcvq6jys67vq3q",
+      "image_two": "https://images.luxuryescapes.com/30nu827ssr7dtusfxqoa",
+      "image_three": "https://images.luxuryescapes.com/4dpbgbhklt1uvhj034qu",
       "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2026-09-24 13:59:00"
+      "min_duration": 2,
+      "end_date_utc": "2026-11-03 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-09-24",
+    "last_updated": "2026-10-07",
     "hotel_count": 1,
-    "average_price": 899,
-    "average_discount": 54
+    "average_price": 519,
+    "average_discount": 50
   }
 }
