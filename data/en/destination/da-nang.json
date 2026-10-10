@@ -113,6 +113,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Angsana Lang Co",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Da Nang",
+      "title": "Five-Star Oceanfront Vietnam Retreat with Rooftop Bar & Private Beach",
+      "description": "Luxuriate for days at this five-star oceanfront retreat overlooking a private golden stretch of sand lining the South China Sea. Head to one of four onsite restaurants, digging into international dishes at Market Place or authentic Vietnamese seafood at Moomba. Upper Deck serves refreshing drinks on the rooftop overlooking the ocean and mountain range. For a dose of relaxation, escape to the resort's tranquil spa or stretch out in the yoga pavilion. Or for an active escape, explore three UNESCO World Heritage sites nearby - Hoi An Ancient Town, The Imperial Citadel of Hue and My Son Sanctuary.",
+      "location_subheading": "Vietnam",
+      "price": 262,
+      "original_price": 262,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004URGHAA4",
+      "hero_image": "https://images.luxuryescapes.com/tghdzn9qcm1jfivlafkf",
+      "image_two": "https://images.luxuryescapes.com/sgpu64bneo5oy5jduuf",
+      "image_three": "https://images.luxuryescapes.com/xvi6fnxhvhrsz3zuijbe",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-09",
-    "hotel_count": 6,
-    "average_price": 383,
-    "average_discount": 16
+    "last_updated": "2026-10-10",
+    "hotel_count": 7,
+    "average_price": 366,
+    "average_discount": 14
   }
 }
