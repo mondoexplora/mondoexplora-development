@@ -167,6 +167,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Royal Blue Resort & Spa Crete",
+      "offer_country_name": "Greece",
+      "location_heading": "Crete",
+      "title": "Back by Popular Demand: Crete Oceanfront Bliss with Daily Breakfast, Nightly Dinner & One Child Stays Free",
+      "description": "A glamorous slice of Crete awaits at The Royal Blue Resort & Spa, a five-star hillside hideaway overlooking the Aegean. Spread across more than 70 acres of beautifully kept gardens, the resort offers access to a private beach made for lazy afternoons in the Mediterranean sun. Spend your time lounging by the main pools, which offer breathtaking views over the Aegean Sea, or practice your serve on the onsite tennis courts. Get pampered at The Pure Blue Spa, and take time to wine and dine at one of eight restaurants and bars, including the locally inspired Symposium. Set among lush gardens above sparkling blue waters, this island escape lies on Crete’s northern coast, near the quaint village of Panormos. Visit for a true taste of island life, and experience charming cobbled streets lined with boutique shops and Greek tavernas in tiny coves.",
+      "location_subheading": "Greece",
+      "price": 524,
+      "original_price": 873,
+      "discount_percentage": 40,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000eC0WfYAK",
+      "hero_image": "https://images.luxuryescapes.com/pc9edamjx93mskf2lgre",
+      "image_two": "https://images.luxuryescapes.com/i5cyu4vf035o81esd48",
+      "image_three": "https://images.luxuryescapes.com/2hdk2s0utoxalgve8tzj",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2026-10-27 12:59:00"
     }
   ],
   "seo": {
@@ -186,9 +204,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-11",
-    "hotel_count": 9,
-    "average_price": 656,
-    "average_discount": 14
+    "last_updated": "2026-10-12",
+    "hotel_count": 10,
+    "average_price": 643,
+    "average_discount": 16
   }
 }
