@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Montville",
   "description": "Discover the best hotels in Montville, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/bu9zbjjwce5vxl2sqmq",
+  "hero_image": "https://images.luxuryescapes.com/o2ea1buyeovluyptifm",
   "hotels": [
-    {
-      "vendor_name": "Misty View Cottages",
-      "offer_country_name": "Australia",
-      "location_heading": "Montville",
-      "title": "Adults-Only Sunshine Coast Hinterland Escape Surrounded by Lush Rainforest with Breakfast Hamper",
-      "description": "Nestled within the enchanting Montville bushland, these charming boutique cottages offer an idyllic haven for romance. Perfect for couples seeking a retreat, you’ll find indulgence in bubble baths and champagne while enjoying the seclusion of the serene wilderness. Located in 20 acres of lush sub-tropical rainforest, each cottage is strategically placed to envelop guests in the tranquil embrace of nature. Delight your senses with an exquisite wine by the crackling fire, and partake in private picnics amid breathtaking vistas. For a touch of adventure, explore the nearby town adorned with exclusive boutiques, prestigious art galleries and acclaimed restaurants, promising unforgettable experiences at every turn. What’s more, this beautiful stay is just minutes from cascading waterfalls, refreshing swimming holes and local wineries.",
-      "location_subheading": "Australia",
-      "price": 489,
-      "original_price": 802,
-      "discount_percentage": 39,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gVWY5YAO",
-      "hero_image": "https://images.luxuryescapes.com/bu9zbjjwce5vxl2sqmq",
-      "image_two": "https://images.luxuryescapes.com/nqw13yvluh4l81bpln",
-      "image_three": "https://images.luxuryescapes.com/01c0yc2t347osygjvhgj",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 2,
-      "end_date_utc": "2026-11-09 12:59:00"
-    },
     {
       "vendor_name": "Misty View Cottages",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Misty View Cottages",
+      "offer_country_name": "Australia",
+      "location_heading": "Montville",
+      "title": "Adults-Only Sunshine Coast Hinterland Escape Surrounded by Lush Rainforest with Breakfast Hamper",
+      "description": "Nestled within the enchanting Montville bushland, these charming boutique cottages offer an idyllic haven for romance. Perfect for couples seeking a retreat, you’ll find indulgence in bubble baths and champagne while enjoying the seclusion of the serene wilderness. Located in 20 acres of lush sub-tropical rainforest, each cottage is strategically placed to envelop guests in the tranquil embrace of nature. Delight your senses with an exquisite wine by the crackling fire, and partake in private picnics amid breathtaking vistas. For a touch of adventure, explore the nearby town adorned with exclusive boutiques, prestigious art galleries and acclaimed restaurants, promising unforgettable experiences at every turn. What’s more, this beautiful stay is just minutes from cascading waterfalls, refreshing swimming holes and local wineries.",
+      "location_subheading": "Australia",
+      "price": 489,
+      "original_price": 802,
+      "discount_percentage": 39,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gVWY5YAO",
+      "hero_image": "https://images.luxuryescapes.com/bu9zbjjwce5vxl2sqmq",
+      "image_two": "https://images.luxuryescapes.com/nqw13yvluh4l81bpln",
+      "image_three": "https://images.luxuryescapes.com/01c0yc2t347osygjvhgj",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-11-09 12:59:00"
     },
     {
       "vendor_name": "Spicers Clovelly Estate",
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-14",
+    "last_updated": "2026-10-15",
     "hotel_count": 3,
     "average_price": 782,
     "average_discount": 13
