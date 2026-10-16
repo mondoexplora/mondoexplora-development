@@ -15,6 +15,15 @@
       "avg_price": 417
     },
     {
+      "name": "County Mayo",
+      "slug": "county-mayo",
+      "image": "https://images.luxuryescapes.com/zr3811uchexm4w37c1i",
+      "description": "Explore County Mayo with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 490
+    },
+    {
       "name": "Cork",
       "slug": "cork",
       "image": "https://images.luxuryescapes.com/cxkj7oz77rxqedp2bl",
@@ -31,15 +40,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 380
-    },
-    {
-      "name": "County Mayo",
-      "slug": "county-mayo",
-      "image": "https://images.luxuryescapes.com/zr3811uchexm4w37c1i",
-      "description": "Explore County Mayo with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 490
     }
   ],
   "seo": {

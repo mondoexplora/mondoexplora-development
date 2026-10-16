@@ -4,8 +4,26 @@
   "country_code": "TR",
   "hero_title": "Hotels in Bodrum",
   "description": "Discover the best hotels in Bodrum, Turkey. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/qq5ipl3g8cwgbbw4iwl4j",
+  "hero_image": "https://images.luxuryescapes.com/5ln5suqgnituu5z9alh",
   "hotels": [
+    {
+      "vendor_name": "The Bodrum Hotel - M Gallery",
+      "offer_country_name": "Turkey",
+      "location_heading": "Bodrum",
+      "title": "Turkey Beachfront Bliss in Bodrum with Infinity Pool, Hammam & Cocktail Bar",
+      "description": "Set on the tranquil shores of the Aegean Sea, this refined retreat offers panoramic views over Bodrum’s turquoise bays and pine-clad hills. Wander the ancient streets of Bodrum town, where the Mausoleum at Halicarnassus and the medieval Castle of St. Peter await, or browse the boutiques and galleries of the marina district. Savour Mediterranean cuisine at the elegant rooftop restaurant, where local seafood and Turkish wines take centre stage. The hotel’s spa features hammams and serene treatment rooms, the private beach offers easy seaside access, while the infinity pool overlooks the glittering coastline.",
+      "location_subheading": "Turkey",
+      "price": 1028,
+      "original_price": 1028,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JjrF1YAJ",
+      "hero_image": "https://images.luxuryescapes.com/5ln5suqgnituu5z9alh",
+      "image_two": "https://images.luxuryescapes.com/fainl19rbo67vm6x5o5c",
+      "image_three": "https://images.luxuryescapes.com/n1uefcrwy9oi7in3qtkh",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Mandarin Oriental Bodrum",
       "offer_country_name": "Turkey",
@@ -31,31 +49,13 @@
       "title": "Boutique Turkiye Elegance with Private Beach, Infinity Pool & Two Restaurants",
       "description": "On a private bay on the Bodrum Peninsula, this elegant stay is where Aegean coastal living meets five-star Swiss refinement. Fifty-eight rooms and suites - some with sweeping sea views, private balconies and kitchenettes - are made for those who want space, stillness and style in equal measure. The dining here is as varied as the views. Moi Tavern brings Greek and Mediterranean flavours to the shoreline, while Moi Vao Asian delivers refined sushi and Asian cuisine in the heart of the hotel. For cocktails as the sun drops into the Aegean, Bottega Beach Bar is the place to be. A private beach, infinity pool and extensive spa round out a stay that offers little reason to venture beyond its gates.",
       "location_subheading": "Turkey",
-      "price": 330,
-      "original_price": 330,
+      "price": 479,
+      "original_price": 479,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000KuQxBYAV",
       "hero_image": "https://images.luxuryescapes.com/w1rmmr2vujiud1p2oppd",
       "image_two": "https://images.luxuryescapes.com/abjzljzc9c1qvve4k9l",
       "image_three": "https://images.luxuryescapes.com/818f7oxa7xyvs6mryiql",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "The Bodrum Hotel - M Gallery",
-      "offer_country_name": "Turkey",
-      "location_heading": "Bodrum",
-      "title": "Turkey Beachfront Bliss in Bodrum with Infinity Pool, Hammam & Cocktail Bar",
-      "description": "Set on the tranquil shores of the Aegean Sea, this refined retreat offers panoramic views over Bodrum’s turquoise bays and pine-clad hills. Wander the ancient streets of Bodrum town, where the Mausoleum at Halicarnassus and the medieval Castle of St. Peter await, or browse the boutiques and galleries of the marina district. Savour Mediterranean cuisine at the elegant rooftop restaurant, where local seafood and Turkish wines take centre stage. The hotel’s spa features hammams and serene treatment rooms, the private beach offers easy seaside access, while the infinity pool overlooks the glittering coastline.",
-      "location_subheading": "Turkey",
-      "price": 1028,
-      "original_price": 1028,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000JjrF1YAJ",
-      "hero_image": "https://images.luxuryescapes.com/5ln5suqgnituu5z9alh",
-      "image_two": "https://images.luxuryescapes.com/fainl19rbo67vm6x5o5c",
-      "image_three": "https://images.luxuryescapes.com/n1uefcrwy9oi7in3qtkh",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -78,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 3,
-    "average_price": 1246,
+    "average_price": 1295,
     "average_discount": 0
   }
 }

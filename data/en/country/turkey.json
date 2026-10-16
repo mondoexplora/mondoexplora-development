@@ -3,25 +3,25 @@
   "code": "TR",
   "hero_title": "Turkey Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Turkey.",
-  "hero_image": "https://images.luxuryescapes.com/17vjwp1o78as570r7u6k",
+  "hero_image": "https://images.luxuryescapes.com/qxqds96h07hn26ksm",
   "popular_destinations": [
     {
       "name": "Istanbul",
       "slug": "istanbul",
-      "image": "https://images.luxuryescapes.com/17vjwp1o78as570r7u6k",
+      "image": "https://images.luxuryescapes.com/qxqds96h07hn26ksm",
       "description": "Explore Istanbul with luxury accommodations",
       "hotel_count": 15,
       "hotel_deals": 15,
-      "avg_price": 655
+      "avg_price": 658
     },
     {
       "name": "Bodrum",
       "slug": "bodrum",
-      "image": "https://images.luxuryescapes.com/qq5ipl3g8cwgbbw4iwl4j",
+      "image": "https://images.luxuryescapes.com/5ln5suqgnituu5z9alh",
       "description": "Explore Bodrum with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 1246
+      "avg_price": 1295
     },
     {
       "name": "Bursa",
@@ -33,22 +33,13 @@
       "avg_price": 300
     },
     {
-      "name": "Ankara",
-      "slug": "ankara",
-      "image": "https://images.luxuryescapes.com/dec898behrdewoq1ft8b",
-      "description": "Explore Ankara with luxury accommodations",
+      "name": "Milas",
+      "slug": "milas",
+      "image": "https://images.luxuryescapes.com/4mw7tkss4s2wxmkr5h4",
+      "description": "Explore Milas with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 399
-    },
-    {
-      "name": "Antalya",
-      "slug": "antalya",
-      "image": "https://images.luxuryescapes.com/ebm4lc0z06rf8xo5w8ve",
-      "description": "Explore Antalya with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 336
+      "avg_price": 1035
     },
     {
       "name": "Belek",
@@ -58,6 +49,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 1224
+    },
+    {
+      "name": "Cappadocia",
+      "slug": "cappadocia",
+      "image": "https://images.luxuryescapes.com/bjq5b8z0e1o1zk7jw9",
+      "description": "Explore Cappadocia with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1102
     }
   ],
   "seo": {

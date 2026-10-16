@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Mandurah",
   "description": "Discover the best hotels in Mandurah, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/yej937uyblosqc6kmpyi",
+  "hero_image": "https://images.luxuryescapes.com/4pcn0l8rfoypszxfsrw",
   "hotels": [
-    {
-      "vendor_name": "Seashells Mandurah",
-      "offer_country_name": "Australia",
-      "location_heading": "Mandurah",
-      "title": "Mandurah Comet Bay Beachfront Apartments with Marina Views",
-      "description": "Set on the shores of Comet Bay, surrounded by the Indian Ocean and glittering waters of Dolphin Quay on the Mandurah Ocean Marina, Seashells Mandurah is an ode to beachfront living. Only an hour's drive from Perth and brimming with waterfront restaurants, sprawling waterways, long stretches of coastline and winding wilderness trails, this charming resort town invites you to discover a place with perpetual summer vibes. Do as much or as little as you like, coming and going from your apartment as you please. Mandurah's restaurants and bars are at your fingertips should you choose, or you'll have a full kitchen at your disposal for laidback evenings at your accommodation. There's also a communal BBQ area, perfect for balmy beachfront evenings. Lounge beside the infinity-edge pool or venture further afield for waterside walks and nature park trails - this is easy breezy coastal living at its best.",
-      "location_subheading": "Australia",
-      "price": 498,
-      "original_price": 547,
-      "discount_percentage": 9,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004Uy1lAAC",
-      "hero_image": "https://images.luxuryescapes.com/yej937uyblosqc6kmpyi",
-      "image_two": "https://images.luxuryescapes.com/bc7mi8su1flv1nh2ogmg",
-      "image_three": "https://images.luxuryescapes.com/kpelp2bs2um0ybmmtj",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "The Sebel Mandurah",
       "offer_country_name": "Australia",
@@ -38,6 +20,24 @@
       "hero_image": "https://images.luxuryescapes.com/4pcn0l8rfoypszxfsrw",
       "image_two": "https://images.luxuryescapes.com/uj289wueoq70qiz82y",
       "image_three": "https://images.luxuryescapes.com/3y93608xkerwroro9ym",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Seashells Mandurah",
+      "offer_country_name": "Australia",
+      "location_heading": "Mandurah",
+      "title": "Mandurah Comet Bay Beachfront Apartments with Marina Views",
+      "description": "Set on the shores of Comet Bay, surrounded by the Indian Ocean and glittering waters of Dolphin Quay on the Mandurah Ocean Marina, Seashells Mandurah is an ode to beachfront living. Only an hour's drive from Perth and brimming with waterfront restaurants, sprawling waterways, long stretches of coastline and winding wilderness trails, this charming resort town invites you to discover a place with perpetual summer vibes. Do as much or as little as you like, coming and going from your apartment as you please. Mandurah's restaurants and bars are at your fingertips should you choose, or you'll have a full kitchen at your disposal for laidback evenings at your accommodation. There's also a communal BBQ area, perfect for balmy beachfront evenings. Lounge beside the infinity-edge pool or venture further afield for waterside walks and nature park trails - this is easy breezy coastal living at its best.",
+      "location_subheading": "Australia",
+      "price": 498,
+      "original_price": 547,
+      "discount_percentage": 9,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004Uy1lAAC",
+      "hero_image": "https://images.luxuryescapes.com/yej937uyblosqc6kmpyi",
+      "image_two": "https://images.luxuryescapes.com/bc7mi8su1flv1nh2ogmg",
+      "image_three": "https://images.luxuryescapes.com/kpelp2bs2um0ybmmtj",
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 2,
     "average_price": 486,
     "average_discount": 5

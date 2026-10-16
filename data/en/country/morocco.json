@@ -3,16 +3,34 @@
   "code": "MA",
   "hero_title": "Morocco Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Morocco.",
-  "hero_image": "https://images.luxuryescapes.com/k233e0d10blsisexz0lc",
+  "hero_image": "https://images.luxuryescapes.com/qaq9ke22tmroeyt6ru",
   "popular_destinations": [
     {
       "name": "Marrakech",
       "slug": "marrakech",
-      "image": "https://images.luxuryescapes.com/k233e0d10blsisexz0lc",
+      "image": "https://images.luxuryescapes.com/qaq9ke22tmroeyt6ru",
       "description": "Explore Marrakech with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 1861
+      "avg_price": 1856
+    },
+    {
+      "name": "Taghazout",
+      "slug": "taghazout",
+      "image": "https://images.luxuryescapes.com/vs88g4l46s1094g2scl",
+      "description": "Explore Taghazout with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1215
+    },
+    {
+      "name": "Agadir",
+      "slug": "agadir",
+      "image": "https://images.luxuryescapes.com/ruqmhy7ao667vruqzxh",
+      "description": "Explore Agadir with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 555
     },
     {
       "name": "El Jadida",
@@ -22,15 +40,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 714
-    },
-    {
-      "name": "Fez",
-      "slug": "fez",
-      "image": "https://images.luxuryescapes.com/v3bved8j44t0ey2z7lqk",
-      "description": "Explore Fez with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 1099
     },
     {
       "name": "Marrakesh",
@@ -48,16 +57,7 @@
       "description": "Explore Rabat with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 553
-    },
-    {
-      "name": "Taghazout",
-      "slug": "taghazout",
-      "image": "https://images.luxuryescapes.com/vs88g4l46s1094g2scl",
-      "description": "Explore Taghazout with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 1214
+      "avg_price": 554
     }
   ],
   "seo": {

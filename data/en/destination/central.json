@@ -4,8 +4,26 @@
   "country_code": "HK",
   "hero_title": "Hotels in Central",
   "description": "Discover the best hotels in Central, Hong Kong. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/oxh3d5oc5tpa6kid9zmb",
+  "hero_image": "https://images.luxuryescapes.com/vwz7k3hbokme0g8jlce",
   "hotels": [
+    {
+      "vendor_name": "The Putman",
+      "offer_country_name": "Hong Kong",
+      "location_heading": "Central",
+      "title": "Sky-High Hong Kong Designer Suites",
+      "description": "Float among the clouds with an escape to The Putman, a sky-scraping luxury hotel designed by the late illustrious interior designer, Andrée Putman. The boutique urban retreat sits above the bustling neighbourhoods of Sheung Wan and Soho in the heart of Hong Kong, offering an oasis of calm amid the area’s ancient temples, stylish restaurants and lively nightlife. They will be no doubting which city you’re in from your suite - floor-to-ceiling windows with spectacular views come standard. Offering a truly luxurious home-away-from-home experience, the contemporary full-floor suites feature a living room, fully equipped kitchen, master bedroom and stylish ensuite with bathtub. While your suite should have everything you need for a sensational stay, the 24-hour front desk is on hand for anything else.",
+      "location_subheading": "Hong Kong",
+      "price": 1621,
+      "original_price": 1671,
+      "discount_percentage": 3,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000005HDvoAAG",
+      "hero_image": "https://images.luxuryescapes.com/vwz7k3hbokme0g8jlce",
+      "image_two": "https://images.luxuryescapes.com/1uxaxet7etqmza9sy6g",
+      "image_three": "https://images.luxuryescapes.com/17f03sfuja87p2w4qt36",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Mandarin Oriental The Landmark, Hong Kong",
       "offer_country_name": "Hong Kong",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-29 12:59:00"
-    },
-    {
-      "vendor_name": "The Putman",
-      "offer_country_name": "Hong Kong",
-      "location_heading": "Central",
-      "title": "Sky-High Hong Kong Designer Suites",
-      "description": "Float among the clouds with an escape to The Putman, a sky-scraping luxury hotel designed by the late illustrious interior designer, Andrée Putman. The boutique urban retreat sits above the bustling neighbourhoods of Sheung Wan and Soho in the heart of Hong Kong, offering an oasis of calm amid the area’s ancient temples, stylish restaurants and lively nightlife. They will be no doubting which city you’re in from your suite - floor-to-ceiling windows with spectacular views come standard. Offering a truly luxurious home-away-from-home experience, the contemporary full-floor suites feature a living room, fully equipped kitchen, master bedroom and stylish ensuite with bathtub. While your suite should have everything you need for a sensational stay, the 24-hour front desk is on hand for anything else.",
-      "location_subheading": "Hong Kong",
-      "price": 1619,
-      "original_price": 1669,
-      "discount_percentage": 3,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000005HDvoAAG",
-      "hero_image": "https://images.luxuryescapes.com/vwz7k3hbokme0g8jlce",
-      "image_two": "https://images.luxuryescapes.com/1uxaxet7etqmza9sy6g",
-      "image_three": "https://images.luxuryescapes.com/17f03sfuja87p2w4qt36",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 2,
-    "average_price": 1711,
+    "average_price": 1712,
     "average_discount": 2
   }
 }

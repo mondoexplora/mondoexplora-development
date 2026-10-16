@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Broadbeach",
   "description": "Discover the best hotels in Broadbeach, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/m66k2l8wln50ckpdh7m",
+  "hero_image": "https://images.luxuryescapes.com/wt4v98n8dmb8re5wmwri",
   "hotels": [
-    {
-      "vendor_name": "Amaya Broadbeach",
-      "offer_country_name": "Australia",
-      "location_heading": "Broadbeach",
-      "title": "Queensland: Broadbeach Resort-Style Residences with Onsite Pool & Spa",
-      "description": "Set in the heart of Broadbeach, this contemporary stay places you moments from Kurrawa Beach and the dining precincts of Oracle Boulevard and The Oasis. Pacific Fair Shopping Centre and the Gold Coast Convention and Exhibition Centre are also close by, while the G:link light rail offers easy access to Surfers Paradise and Southport. Inside, expect sleek residences with kitchens, laundry facilities and private balconies. Guests can also make use of the outdoor pool, fitness centre and barbecue terrace, while nearby Mermaid Beach serves up relaxed cafés, seafood restaurants and late-night drinks.",
-      "location_subheading": "Australia",
-      "price": 668,
-      "original_price": 668,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000asazTYAQ",
-      "hero_image": "https://images.luxuryescapes.com/m66k2l8wln50ckpdh7m",
-      "image_two": "https://images.luxuryescapes.com/wsbid07lh3c7e4c10ud",
-      "image_three": "https://images.luxuryescapes.com/govj10m6pr5e1xrycju",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Mantra Broadbeach on the Park",
       "offer_country_name": "Australia",
@@ -31,8 +13,8 @@
       "title": "Chic Broadbeach One-, Two- or Three- Bedroom Apartment Escape near Kurrawa Beach with Tranquil Outdoor Pool",
       "description": "Discover the glamour of the Gold Coast and indulge in a rejuvenating stay in the heart of Broadbeach. The hotel is a short stroll from the golden sands and surf-friendly waters of Kurrawa Beach and the vibrant dining scene of Oracle Boulevard. After days of exploration, take a dip in the outdoor pool or indulge in a workout at the fully equipped gym. Savour the spectacular skyline views from your private apartment balcony, or venture to the nearby Pacific Fair Shopping Centre.",
       "location_subheading": "Australia",
-      "price": 346,
-      "original_price": 346,
+      "price": 338,
+      "original_price": 338,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000IdegrAAB",
       "hero_image": "https://images.luxuryescapes.com/wt4v98n8dmb8re5wmwri",
@@ -75,6 +57,24 @@
       "image_two": "https://images.luxuryescapes.com/xqe1ouux46wuexkml3qi",
       "image_three": "https://images.luxuryescapes.com/yywjyyazle7z3672iv4m",
       "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Amaya Broadbeach",
+      "offer_country_name": "Australia",
+      "location_heading": "Broadbeach",
+      "title": "Queensland: Broadbeach Resort-Style Residences with Onsite Pool & Spa",
+      "description": "Set in the heart of Broadbeach, this contemporary stay places you moments from Kurrawa Beach and the dining precincts of Oracle Boulevard and The Oasis. Pacific Fair Shopping Centre and the Gold Coast Convention and Exhibition Centre are also close by, while the G:link light rail offers easy access to Surfers Paradise and Southport. Inside, expect sleek residences with kitchens, laundry facilities and private balconies. Guests can also make use of the outdoor pool, fitness centre and barbecue terrace, while nearby Mermaid Beach serves up relaxed cafés, seafood restaurants and late-night drinks.",
+      "location_subheading": "Australia",
+      "price": 668,
+      "original_price": 668,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000asazTYAQ",
+      "hero_image": "https://images.luxuryescapes.com/m66k2l8wln50ckpdh7m",
+      "image_two": "https://images.luxuryescapes.com/wsbid07lh3c7e4c10ud",
+      "image_three": "https://images.luxuryescapes.com/govj10m6pr5e1xrycju",
+      "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
     },
@@ -132,9 +132,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 6,
-    "average_price": 2437,
+    "average_price": 2436,
     "average_discount": 4
   }
 }

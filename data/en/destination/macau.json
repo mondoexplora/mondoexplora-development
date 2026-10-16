@@ -4,26 +4,8 @@
   "country_code": "MO",
   "hero_title": "Hotels in Macau",
   "description": "Discover the best hotels in Macau, Macao. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/6ki8hw3puo679udx72h",
+  "hero_image": "https://images.luxuryescapes.com/g2tmpu4keirp25ki6bwa",
   "hotels": [
-    {
-      "vendor_name": "Mandarin Oriental Macau",
-      "offer_country_name": "Macao",
-      "location_heading": "Macau",
-      "title": "Five-Star Macau Waterfront Stay with Swimming Pool Overlooking South China Sea",
-      "description": "Pure style and sophistication are the focus of the five-star Mandarin Oriental Macau, which boasts an unbeatable location on the prestigious Macau waterfront. Incredible facilities ensure a memorable stay, including four world-class restaurants and bars, an artisan cake shop, a swimming pool overlooking the South China Sea, and a harbourfront fitness centre. For a dose of relaxation, the onsite spa offers a range of treatments designed to pamper you from top to toe.",
-      "location_subheading": "Macao",
-      "price": 718,
-      "original_price": 718,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009DMM4AAO",
-      "hero_image": "https://images.luxuryescapes.com/6ki8hw3puo679udx72h",
-      "image_two": "https://images.luxuryescapes.com/69l2tnfn8k0pijjv9wwl",
-      "image_three": "https://images.luxuryescapes.com/53md8a7gud7qgym8n7pq",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Sofitel Macau at Ponte 16",
       "offer_country_name": "Macao",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mandarin Oriental Macau",
+      "offer_country_name": "Macao",
+      "location_heading": "Macau",
+      "title": "Five-Star Macau Waterfront Stay with Swimming Pool Overlooking South China Sea",
+      "description": "Pure style and sophistication are the focus of the five-star Mandarin Oriental Macau, which boasts an unbeatable location on the prestigious Macau waterfront. Incredible facilities ensure a memorable stay, including four world-class restaurants and bars, an artisan cake shop, a swimming pool overlooking the South China Sea, and a harbourfront fitness centre. For a dose of relaxation, the onsite spa offers a range of treatments designed to pamper you from top to toe.",
+      "location_subheading": "Macao",
+      "price": 719,
+      "original_price": 719,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009DMM4AAO",
+      "hero_image": "https://images.luxuryescapes.com/6ki8hw3puo679udx72h",
+      "image_two": "https://images.luxuryescapes.com/69l2tnfn8k0pijjv9wwl",
+      "image_three": "https://images.luxuryescapes.com/53md8a7gud7qgym8n7pq",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 2,
     "average_price": 477,
     "average_discount": 0

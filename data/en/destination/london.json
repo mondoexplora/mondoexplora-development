@@ -4,8 +4,26 @@
   "country_code": "GB",
   "hero_title": "Hotels in LONDON",
   "description": "Discover the best hotels in LONDON, United Kingdom. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/9fplgd4memfw7jiq6lv",
+  "hero_image": "https://images.luxuryescapes.com/33gclxfyvow6nr3nktya",
   "hotels": [
+    {
+      "vendor_name": "Novotel London Paddington",
+      "offer_country_name": "United Kingdom",
+      "location_heading": "LONDON",
+      "title": "Stylish London Paddington Stay by Novotel near Hyde Park",
+      "description": "Set beside Paddington Station, this polished London address places Hyde Park, Little Venice and the boutiques of Marylebone within easy reach. The Heathrow Express is close by, while the West End and Oxford Street are a short Tube ride away. Inside, the hotel offers a heated indoor pool, a fitness centre and a restaurant serving modern British dishes. Rooms feature contemporary décor, work desks and city views, with family rooms available for longer stays",
+      "location_subheading": "United Kingdom",
+      "price": 466,
+      "original_price": 466,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000drkpbYAA",
+      "hero_image": "https://images.luxuryescapes.com/33gclxfyvow6nr3nktya",
+      "image_two": "https://images.luxuryescapes.com/3mznsg59if5r74z3zlk",
+      "image_three": "https://images.luxuryescapes.com/2lic3jj5w0if8tzo2w65zk",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Novotel London Bridge",
       "offer_country_name": "United Kingdom",
@@ -41,24 +59,6 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:59"
-    },
-    {
-      "vendor_name": "Novotel London Paddington",
-      "offer_country_name": "United Kingdom",
-      "location_heading": "LONDON",
-      "title": "Stylish London Paddington Stay by Novotel near Hyde Park",
-      "description": "Set beside Paddington Station, this polished London address places Hyde Park, Little Venice and the boutiques of Marylebone within easy reach. The Heathrow Express is close by, while the West End and Oxford Street are a short Tube ride away. Inside, the hotel offers a heated indoor pool, a fitness centre and a restaurant serving modern British dishes. Rooms feature contemporary décor, work desks and city views, with family rooms available for longer stays",
-      "location_subheading": "United Kingdom",
-      "price": 468,
-      "original_price": 468,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000drkpbYAA",
-      "hero_image": "https://images.luxuryescapes.com/33gclxfyvow6nr3nktya",
-      "image_two": "https://images.luxuryescapes.com/3mznsg59if5r74z3zlk",
-      "image_three": "https://images.luxuryescapes.com/2lic3jj5w0if8tzo2w65zk",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -78,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 3,
-    "average_price": 495,
+    "average_price": 494,
     "average_discount": 0
   }
 }

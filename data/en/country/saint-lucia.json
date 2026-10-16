@@ -3,16 +3,25 @@
   "code": "LC",
   "hero_title": "Saint Lucia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Saint Lucia.",
-  "hero_image": "https://images.luxuryescapes.com/bsi9cdkk7h0r1hque9og",
+  "hero_image": "https://images.luxuryescapes.com/arb6p3ewrogvfl7pbnl",
   "popular_destinations": [
     {
       "name": "St Lucia",
       "slug": "st-lucia",
-      "image": "https://images.luxuryescapes.com/bsi9cdkk7h0r1hque9og",
+      "image": "https://images.luxuryescapes.com/arb6p3ewrogvfl7pbnl",
       "description": "Explore St Lucia with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1593
+      "avg_price": 1594
+    },
+    {
+      "name": "Soufriere",
+      "slug": "soufriere",
+      "image": "https://images.luxuryescapes.com/y0itbol087ldq8389ug",
+      "description": "Explore Soufriere with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1189
     },
     {
       "name": "Gros Islet",
@@ -22,15 +31,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 1745
-    },
-    {
-      "name": "Soufriere",
-      "slug": "soufriere",
-      "image": "https://images.luxuryescapes.com/y0itbol087ldq8389ug",
-      "description": "Explore Soufriere with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 1188
     }
   ],
   "seo": {

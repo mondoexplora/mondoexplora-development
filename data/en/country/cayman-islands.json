@@ -3,17 +3,8 @@
   "code": "KY",
   "hero_title": "Cayman Islands Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Cayman Islands.",
-  "hero_image": "https://images.luxuryescapes.com/kg9h82mso6ox9ysnwpl",
+  "hero_image": "https://images.luxuryescapes.com/q3ogzcnf28w9ah269g0m",
   "popular_destinations": [
-    {
-      "name": "Seven Mile Beach",
-      "slug": "seven-mile-beach",
-      "image": "https://images.luxuryescapes.com/kg9h82mso6ox9ysnwpl",
-      "description": "Explore Seven Mile Beach with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 1179
-    },
     {
       "name": "Grand Cayman",
       "slug": "grand-cayman",
@@ -22,6 +13,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 2371
+    },
+    {
+      "name": "Seven Mile Beach",
+      "slug": "seven-mile-beach",
+      "image": "https://images.luxuryescapes.com/kg9h82mso6ox9ysnwpl",
+      "description": "Explore Seven Mile Beach with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 1179
     }
   ],
   "seo": {

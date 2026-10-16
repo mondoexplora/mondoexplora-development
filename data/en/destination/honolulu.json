@@ -25,24 +25,6 @@
       "end_date_utc": "2026-11-13 12:59:00"
     },
     {
-      "vendor_name": "Kaimana Beach Hotel",
-      "offer_country_name": "United States",
-      "location_heading": "Honolulu",
-      "title": "Waikiki Beachfront Surfside Escape near Diamond Head with Onsite Dining",
-      "description": "Sun-drenched shores and the shimmering Pacific Ocean stretching out as far as the eye can see: discover laidback luxury at its finest at this oceanfront hotel, set directly on one of Honolulu’s calmest swimming beaches. This intimate retreat overlooks the Pacific and Diamond Head, so it is the perfect base for exploring Waikiki, Honolulu. Vintage Hawaiian styling meets ’50s-inspired décor in rooms with sea views. Hau Tree serves beachside brunch beside the sand, with a relaxed setting for long mornings. Indulge in the chef’s choice of happy hour bites and vibrant cocktails at Pau Hana, and taste locally sourced coffee at Sunset Provisions. Enjoy beachfront yoga sessions or head to Diamond Head, the volcanic crater park nearby, for walking trails and coastal outlooks.",
-      "location_subheading": "United States",
-      "price": 737,
-      "original_price": 737,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Rv0qAYAR",
-      "hero_image": "https://images.luxuryescapes.com/5m5a7h363ld0xcg5tvj",
-      "image_two": "https://images.luxuryescapes.com/b6446gqaegy6tcc084k",
-      "image_three": "https://images.luxuryescapes.com/20tgi1ozhe1f35qjx10v",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Outrigger Waikiki Beachcomber Hotel",
       "offer_country_name": "United States",
       "location_heading": "Honolulu",
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Kaimana Beach Hotel",
+      "offer_country_name": "United States",
+      "location_heading": "Honolulu",
+      "title": "Waikiki Beachfront Surfside Escape near Diamond Head with Onsite Dining",
+      "description": "Sun-drenched shores and the shimmering Pacific Ocean stretching out as far as the eye can see: discover laidback luxury at its finest at this oceanfront hotel, set directly on one of Honolulu’s calmest swimming beaches. This intimate retreat overlooks the Pacific and Diamond Head, so it is the perfect base for exploring Waikiki, Honolulu. Vintage Hawaiian styling meets ’50s-inspired décor in rooms with sea views. Hau Tree serves beachside brunch beside the sand, with a relaxed setting for long mornings. Indulge in the chef’s choice of happy hour bites and vibrant cocktails at Pau Hana, and taste locally sourced coffee at Sunset Provisions. Enjoy beachfront yoga sessions or head to Diamond Head, the volcanic crater park nearby, for walking trails and coastal outlooks.",
+      "location_subheading": "United States",
+      "price": 737,
+      "original_price": 737,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Rv0qAYAR",
+      "hero_image": "https://images.luxuryescapes.com/5m5a7h363ld0xcg5tvj",
+      "image_two": "https://images.luxuryescapes.com/b6446gqaegy6tcc084k",
+      "image_three": "https://images.luxuryescapes.com/20tgi1ozhe1f35qjx10v",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -96,7 +96,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 4,
     "average_price": 918,
     "average_discount": 9

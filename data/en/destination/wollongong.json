@@ -25,24 +25,6 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "Hotel TOTTO Wollongong",
-      "offer_country_name": "Australia",
-      "location_heading": "Wollongong",
-      "title": "Trendy Coastal Escape in the Heart of Wollongong",
-      "description": "Lose yourself to the laidback lifestyle and coastal beauty of Wollongong with a stay at Hotel TOTTO, a sleek retreat in the heart of this surfy town. Discover the sun-kissed beaches and mingle with the trendy locals as you stroll along the beachfront promenade, dotted with cool cafes and lush green spaces. After days spent in the ocean and evenings spent dancing in tropical style beer-gardens, treat your tastebuds to an authentic wood-fired pizza at BASTA restaurant.",
-      "location_subheading": "Australia",
-      "price": 276,
-      "original_price": 303,
-      "discount_percentage": 9,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DfkERAAZ",
-      "hero_image": "https://images.luxuryescapes.com/kty8k7ij6p9fmj2bhui",
-      "image_two": "https://images.luxuryescapes.com/l2nu95l8e5m3ngetifb",
-      "image_three": "https://images.luxuryescapes.com/gfdnui2fasnyqzpnyn2",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
       "vendor_name": "Novotel Wollongong Northbeach",
       "offer_country_name": "Australia",
       "location_heading": "Wollongong",
@@ -59,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Hotel TOTTO Wollongong",
+      "offer_country_name": "Australia",
+      "location_heading": "Wollongong",
+      "title": "Trendy Coastal Escape in the Heart of Wollongong",
+      "description": "Lose yourself to the laidback lifestyle and coastal beauty of Wollongong with a stay at Hotel TOTTO, a sleek retreat in the heart of this surfy town. Discover the sun-kissed beaches and mingle with the trendy locals as you stroll along the beachfront promenade, dotted with cool cafes and lush green spaces. After days spent in the ocean and evenings spent dancing in tropical style beer-gardens, treat your tastebuds to an authentic wood-fired pizza at BASTA restaurant.",
+      "location_subheading": "Australia",
+      "price": 276,
+      "original_price": 303,
+      "discount_percentage": 9,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DfkERAAZ",
+      "hero_image": "https://images.luxuryescapes.com/kty8k7ij6p9fmj2bhui",
+      "image_two": "https://images.luxuryescapes.com/l2nu95l8e5m3ngetifb",
+      "image_three": "https://images.luxuryescapes.com/gfdnui2fasnyqzpnyn2",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 3,
     "average_price": 372,
     "average_discount": 3

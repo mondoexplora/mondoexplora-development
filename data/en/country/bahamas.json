@@ -3,25 +3,16 @@
   "code": "BS",
   "hero_title": "Bahamas Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Bahamas.",
-  "hero_image": "https://images.luxuryescapes.com/86e42bk5njjft2dsqw7n",
+  "hero_image": "https://images.luxuryescapes.com/ez7q31ig1ctzm5byrm5j",
   "popular_destinations": [
     {
-      "name": "Great Exuma",
-      "slug": "great-exuma",
-      "image": "https://images.luxuryescapes.com/86e42bk5njjft2dsqw7n",
-      "description": "Explore Great Exuma with luxury accommodations",
+      "name": "South Andros",
+      "slug": "south-andros",
+      "image": "https://images.luxuryescapes.com/ez7q31ig1ctzm5byrm5j",
+      "description": "Explore South Andros with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 2605
-    },
-    {
-      "name": "Bahamas",
-      "slug": "bahamas",
-      "image": "https://images.luxuryescapes.com/g0cip5bg0bcr2cnqckw8",
-      "description": "Explore Bahamas with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 859
+      "avg_price": 1631
     },
     {
       "name": "Nassau",
@@ -33,22 +24,31 @@
       "avg_price": 1161
     },
     {
+      "name": "Great Exuma",
+      "slug": "great-exuma",
+      "image": "https://images.luxuryescapes.com/86e42bk5njjft2dsqw7n",
+      "description": "Explore Great Exuma with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 2607
+    },
+    {
+      "name": "Bahamas",
+      "slug": "bahamas",
+      "image": "https://images.luxuryescapes.com/g0cip5bg0bcr2cnqckw8",
+      "description": "Explore Bahamas with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 877
+    },
+    {
       "name": "Paradise Island",
       "slug": "paradise-island",
       "image": "https://images.luxuryescapes.com/a490n4uwlr0tqrnxnt",
       "description": "Explore Paradise Island with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1640
-    },
-    {
-      "name": "South Andros",
-      "slug": "south-andros",
-      "image": "https://images.luxuryescapes.com/ez7q31ig1ctzm5byrm5j",
-      "description": "Explore South Andros with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 1630
+      "avg_price": 1641
     }
   ],
   "seo": {

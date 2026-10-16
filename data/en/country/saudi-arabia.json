@@ -3,34 +3,25 @@
   "code": "SA",
   "hero_title": "Saudi Arabia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Saudi Arabia.",
-  "hero_image": "https://images.luxuryescapes.com/w5062zm2fxmp06emxpjf",
+  "hero_image": "https://images.luxuryescapes.com/xg886mem1yfnccm225",
   "popular_destinations": [
     {
       "name": "Makkah",
       "slug": "makkah",
-      "image": "https://images.luxuryescapes.com/w5062zm2fxmp06emxpjf",
+      "image": "https://images.luxuryescapes.com/xg886mem1yfnccm225",
       "description": "Explore Makkah with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 544
+      "avg_price": 543
     },
     {
       "name": "Riyadh",
       "slug": "riyadh",
-      "image": "https://images.luxuryescapes.com/kau8vsbgooneor10rqch",
+      "image": "https://images.luxuryescapes.com/xe7j6yousmf4owd33ce8",
       "description": "Explore Riyadh with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 634
-    },
-    {
-      "name": "Al Khobar",
-      "slug": "al-khobar",
-      "image": "https://images.luxuryescapes.com/r7r38ka4m6nspwqc0da",
-      "description": "Explore Al Khobar with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 346
+      "avg_price": 626
     },
     {
       "name": "Jeddah",
@@ -39,7 +30,16 @@
       "description": "Explore Jeddah with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 303
+      "avg_price": 302
+    },
+    {
+      "name": "Al Khobar",
+      "slug": "al-khobar",
+      "image": "https://images.luxuryescapes.com/s4d5k7lq8psviv7v5g9j",
+      "description": "Explore Al Khobar with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 352
     },
     {
       "name": "Medina",
@@ -48,7 +48,7 @@
       "description": "Explore Medina with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 352
+      "avg_price": 348
     },
     {
       "name": "Madinah",

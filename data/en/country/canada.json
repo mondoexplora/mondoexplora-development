@@ -12,12 +12,12 @@
       "description": "Explore Toronto with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 591
+      "avg_price": 601
     },
     {
       "name": "Vancouver",
       "slug": "vancouver",
-      "image": "https://images.luxuryescapes.com/5fcqyfaafdcpsgnucgj7",
+      "image": "https://images.luxuryescapes.com/gpsll5vqljhe850zfah",
       "description": "Explore Vancouver with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
@@ -26,38 +26,38 @@
     {
       "name": "Montreal",
       "slug": "montreal",
-      "image": "https://images.luxuryescapes.com/v15g0w465xjz340jrdq",
+      "image": "https://images.luxuryescapes.com/qgrwsaapmn8oh7ialkf",
       "description": "Explore Montreal with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 662
+      "avg_price": 665
     },
     {
       "name": "Whistler",
       "slug": "whistler",
-      "image": "https://images.luxuryescapes.com/qz5a8anlibemhp6oxrs",
+      "image": "https://images.luxuryescapes.com/9sjnoyy4pfazdcivrmu",
       "description": "Explore Whistler with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 931
+      "avg_price": 868
     },
     {
-      "name": "Banff",
-      "slug": "banff",
-      "image": "https://images.luxuryescapes.com/m200j04ip0ufk6c5b7ij",
-      "description": "Explore Banff with luxury accommodations",
+      "name": "VANCOUVER",
+      "slug": "vancouver",
+      "image": "https://images.luxuryescapes.com/mkp21tkuyvumzfoglyb",
+      "description": "Explore VANCOUVER with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 2927
+      "avg_price": 405
     },
     {
-      "name": "Lake Louise",
-      "slug": "lake-louise",
-      "image": "https://images.luxuryescapes.com/zgny6ml988jq6mwcw2k8",
-      "description": "Explore Lake Louise with luxury accommodations",
+      "name": "Victoria",
+      "slug": "victoria",
+      "image": "https://images.luxuryescapes.com/3x2owru0dfojnz62gxy",
+      "description": "Explore Victoria with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1410
+      "avg_price": 1023
     }
   ],
   "seo": {

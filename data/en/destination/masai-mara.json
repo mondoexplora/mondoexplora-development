@@ -4,8 +4,26 @@
   "country_code": "KE",
   "hero_title": "Hotels in Masai Mara",
   "description": "Discover the best hotels in Masai Mara, Kenya. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/q9ck0a9kk6m654hn6mvf",
+  "hero_image": "https://images.luxuryescapes.com/qkwsswm84imk4jttlk3l",
   "hotels": [
+    {
+      "vendor_name": "Olare Mara Kempinski Masai Mara",
+      "offer_country_name": "Kenya",
+      "location_heading": "Masai Mara",
+      "title": "Five-Star Kenya Kempinski Safari Camp amongst Private Conservancy in Masai Mara",
+      "description": "Wild safari dreams come true at the Olare Mara Kempinski Masai Mara. The five-star property is nestled at the heart of its own private conservancy and promises unrivalled luxury entwined with a classic under-canvas safari experience. Just 12 opulent safari tents - surrounded by golden savannah - offer an intimate experience, while a central lounge and dining area, a tented bar and a shaded swimming pool are the perfect public spaces to come together and share tales of a day on safari. Each evening, fall asleep up to the distant sounds of whooping hyenas, trumpeting elephants and the roar from the resident pride of lions from luxury canvas-style tents.",
+      "location_subheading": "Kenya",
+      "price": 3736,
+      "original_price": 3774,
+      "discount_percentage": 1,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003IAIGAA4",
+      "hero_image": "https://images.luxuryescapes.com/qkwsswm84imk4jttlk3l",
+      "image_two": "https://images.luxuryescapes.com/smjm9q9lhjrvzi1mtgb",
+      "image_three": "https://images.luxuryescapes.com/6kcrq622jip3najdw4fb",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
+    },
     {
       "vendor_name": "Fairmont Mara Safari Club",
       "offer_country_name": "Kenya",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Olare Mara Kempinski Masai Mara",
-      "offer_country_name": "Kenya",
-      "location_heading": "Masai Mara",
-      "title": "Five-Star Kenya Kempinski Safari Camp amongst Private Conservancy in Masai Mara",
-      "description": "Wild safari dreams come true at the Olare Mara Kempinski Masai Mara. The five-star property is nestled at the heart of its own private conservancy and promises unrivalled luxury entwined with a classic under-canvas safari experience. Just 12 opulent safari tents - surrounded by golden savannah - offer an intimate experience, while a central lounge and dining area, a tented bar and a shaded swimming pool are the perfect public spaces to come together and share tales of a day on safari. Each evening, fall asleep up to the distant sounds of whooping hyenas, trumpeting elephants and the roar from the resident pride of lions from luxury canvas-style tents.",
-      "location_subheading": "Kenya",
-      "price": 3733,
-      "original_price": 3771,
-      "discount_percentage": 1,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003IAIGAA4",
-      "hero_image": "https://images.luxuryescapes.com/qkwsswm84imk4jttlk3l",
-      "image_two": "https://images.luxuryescapes.com/smjm9q9lhjrvzi1mtgb",
-      "image_three": "https://images.luxuryescapes.com/6kcrq622jip3najdw4fb",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 2,
-    "average_price": 3379,
+    "average_price": 3380,
     "average_discount": 1
   }
 }

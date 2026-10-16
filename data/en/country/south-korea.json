@@ -17,38 +17,20 @@
     {
       "name": "Incheon",
       "slug": "incheon",
-      "image": "https://images.luxuryescapes.com/2k92v6vx6oo52top7gy7v",
+      "image": "https://images.luxuryescapes.com/t7ktw6tuwvsdhdf1zens",
       "description": "Explore Incheon with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 381
+      "avg_price": 372
     },
     {
-      "name": "Busan",
-      "slug": "busan",
-      "image": "https://images.luxuryescapes.com/tba6gfmd81opuwtc24m",
-      "description": "Explore Busan with luxury accommodations",
+      "name": "Jeju",
+      "slug": "jeju",
+      "image": "https://images.luxuryescapes.com/6yxj9ykpkouarbv213yi",
+      "description": "Explore Jeju with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 246
-    },
-    {
-      "name": "Pyeongchang",
-      "slug": "pyeongchang",
-      "image": "https://images.luxuryescapes.com/npmejqgghskp0x4ux6qi",
-      "description": "Explore Pyeongchang with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 393
-    },
-    {
-      "name": "Seongnam-si",
-      "slug": "seongnam-si",
-      "image": "https://images.luxuryescapes.com/b6moxw499d6bavxacjpg",
-      "description": "Explore Seongnam-si with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 427
+      "avg_price": 665
     },
     {
       "name": "Suwon",
@@ -58,6 +40,24 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 323
+    },
+    {
+      "name": "Seongnam-si",
+      "slug": "seongnam-si",
+      "image": "https://images.luxuryescapes.com/b6moxw499d6bavxacjpg",
+      "description": "Explore Seongnam-si with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 428
+    },
+    {
+      "name": "Pyeongchang",
+      "slug": "pyeongchang",
+      "image": "https://images.luxuryescapes.com/npmejqgghskp0x4ux6qi",
+      "description": "Explore Pyeongchang with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 394
     }
   ],
   "seo": {

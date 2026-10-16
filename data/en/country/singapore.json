@@ -3,43 +3,34 @@
   "code": "SG",
   "hero_title": "Singapore Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Singapore.",
-  "hero_image": "https://images.luxuryescapes.com/k1zm8q5x5kh55s74bmc1",
+  "hero_image": "https://images.luxuryescapes.com/60w6lewah5ngnx04bumrf",
   "popular_destinations": [
     {
       "name": "Singapore",
       "slug": "singapore",
-      "image": "https://images.luxuryescapes.com/k1zm8q5x5kh55s74bmc1",
+      "image": "https://images.luxuryescapes.com/60w6lewah5ngnx04bumrf",
       "description": "Explore Singapore with luxury accommodations",
       "hotel_count": 41,
       "hotel_deals": 41,
-      "avg_price": 771
-    },
-    {
-      "name": "Sentosa Island",
-      "slug": "sentosa-island",
-      "image": "https://images.luxuryescapes.com/bg39118e7ndwplwuksbb",
-      "description": "Explore Sentosa Island with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 2026
+      "avg_price": 770
     },
     {
       "name": "SINGAPORE",
       "slug": "singapore",
-      "image": "https://images.luxuryescapes.com/s2zfy80iscxv3zhvkbxg",
+      "image": "https://images.luxuryescapes.com/4fv11l4qpqtzitiq7wsl",
       "description": "Explore SINGAPORE with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1856
+      "avg_price": 1851
     },
     {
-      "name": "Orchard Road",
-      "slug": "orchard-road",
-      "image": "https://images.luxuryescapes.com/nx6opw39eu63mgajzn2n",
-      "description": "Explore Orchard Road with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 627
+      "name": "Sentosa Island",
+      "slug": "sentosa-island",
+      "image": "https://images.luxuryescapes.com/n3qtvkd4jr262m8r5x1",
+      "description": "Explore Sentosa Island with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 2021
     },
     {
       "name": "Tanglin",
@@ -48,7 +39,7 @@
       "description": "Explore Tanglin with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 451
+      "avg_price": 450
     },
     {
       "name": "Orchard",
@@ -57,7 +48,16 @@
       "description": "Explore Orchard with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 791
+      "avg_price": 785
+    },
+    {
+      "name": "Orchard Road",
+      "slug": "orchard-road",
+      "image": "https://images.luxuryescapes.com/nx6opw39eu63mgajzn2n",
+      "description": "Explore Orchard Road with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 625
     }
   ],
   "seo": {

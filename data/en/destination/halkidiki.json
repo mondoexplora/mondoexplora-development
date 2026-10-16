@@ -4,26 +4,8 @@
   "country_code": "GR",
   "hero_title": "Hotels in Halkidiki",
   "description": "Discover the best hotels in Halkidiki, Greece. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/p54h5idtppyjcwjhzee",
+  "hero_image": "https://images.luxuryescapes.com/iuwzesebudk2k0m9nye",
   "hotels": [
-    {
-      "vendor_name": "Avaton Luxury Hotel and Villas",
-      "offer_country_name": "Greece",
-      "location_heading": "Halkidiki",
-      "title": "Coastal Five-Star Greece Escape by Relais & Châteaux",
-      "description": "Find a slice of paradise in a secluded corner of northern Greece at the five-star Avaton Luxury Hotel & Villas - Relais & Châteaux, a coastal retreat tucked away in a beautiful beachfront location in Halkidiki. Taking you away from the hustle and bustle of more popular Greek destinations, the seaside resort of Nea Roda - reachable in 90 minutes’ drive from Thessaloniki Airport - will allow you to slow down the pace and truly relax amid the crystal-clear waters of Ierissos Bay. Surrounded by beautifully kept gardens and overlooking the blue waters of the bay, this award-winning retreat exudes luxury and elegance: from the Italian silverware to the bespoke furniture, every detail of this Relais & Châteaux property has been carefully considered. With a collection of just 36 luxury rooms, suites and villas, and five-star amenities - including a private beach with plush sunbeds, two restaurants serving innovative Greek fare, a bar where expert bartenders craft modern concoctions, and a beauty and wellness cabana - this is the ultimate sun-kissed escape in one of Greece’s best-kept secrets.",
-      "location_subheading": "Greece",
-      "price": 492,
-      "original_price": 639,
-      "discount_percentage": 23,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004RsMxAAK",
-      "hero_image": "https://images.luxuryescapes.com/p54h5idtppyjcwjhzee",
-      "image_two": "https://images.luxuryescapes.com/trwu4wzqc8ces5r9mief",
-      "image_three": "https://images.luxuryescapes.com/3hmu59vs3aut6tj1z75s",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Domes Noruz Kassandra Halkidiki - Adults Only",
       "offer_country_name": "Greece",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:55:51"
+    },
+    {
+      "vendor_name": "Avaton Luxury Hotel and Villas",
+      "offer_country_name": "Greece",
+      "location_heading": "Halkidiki",
+      "title": "Coastal Five-Star Greece Escape by Relais & Châteaux",
+      "description": "Find a slice of paradise in a secluded corner of northern Greece at the five-star Avaton Luxury Hotel & Villas - Relais & Châteaux, a coastal retreat tucked away in a beautiful beachfront location in Halkidiki. Taking you away from the hustle and bustle of more popular Greek destinations, the seaside resort of Nea Roda - reachable in 90 minutes’ drive from Thessaloniki Airport - will allow you to slow down the pace and truly relax amid the crystal-clear waters of Ierissos Bay. Surrounded by beautifully kept gardens and overlooking the blue waters of the bay, this award-winning retreat exudes luxury and elegance: from the Italian silverware to the bespoke furniture, every detail of this Relais & Châteaux property has been carefully considered. With a collection of just 36 luxury rooms, suites and villas, and five-star amenities - including a private beach with plush sunbeds, two restaurants serving innovative Greek fare, a bar where expert bartenders craft modern concoctions, and a beauty and wellness cabana - this is the ultimate sun-kissed escape in one of Greece’s best-kept secrets.",
+      "location_subheading": "Greece",
+      "price": 492,
+      "original_price": 639,
+      "discount_percentage": 23,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004RsMxAAK",
+      "hero_image": "https://images.luxuryescapes.com/p54h5idtppyjcwjhzee",
+      "image_two": "https://images.luxuryescapes.com/trwu4wzqc8ces5r9mief",
+      "image_three": "https://images.luxuryescapes.com/3hmu59vs3aut6tj1z75s",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 2,
     "average_price": 411,
     "average_discount": 12

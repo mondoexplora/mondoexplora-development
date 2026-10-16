@@ -3,34 +3,16 @@
   "code": "MV",
   "hero_title": "Maldives Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Maldives.",
-  "hero_image": "https://images.luxuryescapes.com/lnfhkuclags0sia5ixte",
+  "hero_image": "https://images.luxuryescapes.com/3yrq85azbjl1uaou5prq",
   "popular_destinations": [
     {
       "name": "North Malé Atoll",
       "slug": "north-malé-atoll",
-      "image": "https://images.luxuryescapes.com/lnfhkuclags0sia5ixte",
+      "image": "https://images.luxuryescapes.com/3yrq85azbjl1uaou5prq",
       "description": "Explore North Malé Atoll with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 3166
-    },
-    {
-      "name": "Baa Atoll",
-      "slug": "baa-atoll",
-      "image": "https://images.luxuryescapes.com/kn1508017vjekr87bf0d",
-      "description": "Explore Baa Atoll with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 5092
-    },
-    {
-      "name": "Malé",
-      "slug": "malé",
-      "image": "https://images.luxuryescapes.com/vtsqs3xgdr2x0m746c5",
-      "description": "Explore Malé with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 1264
+      "avg_price": 2975
     },
     {
       "name": "South Ari Atoll",
@@ -39,12 +21,21 @@
       "description": "Explore South Ari Atoll with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 3327
+      "avg_price": 3233
+    },
+    {
+      "name": "Baa Atoll",
+      "slug": "baa-atoll",
+      "image": "https://images.luxuryescapes.com/wqqufx6bi9ensa8q6rwq",
+      "description": "Explore Baa Atoll with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 5094
     },
     {
       "name": "Kooddoo Island",
       "slug": "kooddoo-island",
-      "image": "https://images.luxuryescapes.com/8lmon526es6jm6rwdnu",
+      "image": "https://images.luxuryescapes.com/xad924sqpwdyea22fh83",
       "description": "Explore Kooddoo Island with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
@@ -58,6 +49,15 @@
       "hotel_count": 2,
       "hotel_deals": 2,
       "avg_price": 3762
+    },
+    {
+      "name": "Malé",
+      "slug": "malé",
+      "image": "https://images.luxuryescapes.com/9toeoabgjizcazk930l2",
+      "description": "Explore Malé with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 1264
     }
   ],
   "seo": {

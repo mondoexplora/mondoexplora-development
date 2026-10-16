@@ -15,6 +15,24 @@
       "avg_price": 725
     },
     {
+      "name": "Flic En Flac",
+      "slug": "flic-en-flac",
+      "image": "https://images.luxuryescapes.com/8l8xhc3kr8uuuvei0a",
+      "description": "Explore Flic En Flac with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 915
+    },
+    {
+      "name": "Balaclava",
+      "slug": "balaclava",
+      "image": "https://images.luxuryescapes.com/d94763igr6gtm91dz07z8",
+      "description": "Explore Balaclava with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 742
+    },
+    {
       "name": "Belle Mare",
       "slug": "belle-mare",
       "image": "https://images.luxuryescapes.com/niq27g5fsaj1frcxz04i",
@@ -31,24 +49,6 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 1680
-    },
-    {
-      "name": "Balaclava",
-      "slug": "balaclava",
-      "image": "https://images.luxuryescapes.com/d94763igr6gtm91dz07z8",
-      "description": "Explore Balaclava with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 742
-    },
-    {
-      "name": "Flic En Flac",
-      "slug": "flic-en-flac",
-      "image": "https://images.luxuryescapes.com/8l8xhc3kr8uuuvei0a",
-      "description": "Explore Flic En Flac with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 915
     }
   ],
   "seo": {

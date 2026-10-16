@@ -4,26 +4,8 @@
   "country_code": "TH",
   "hero_title": "Hotels in Thalang",
   "description": "Discover the best hotels in Thalang, Thailand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/j35wt4gv3ni13ymc6k9",
+  "hero_image": "https://images.luxuryescapes.com/cevq96mxeh0rhrbn5gy9",
   "hotels": [
-    {
-      "vendor_name": "Angsana Laguna Phuket",
-      "offer_country_name": "Thailand",
-      "location_heading": "Thalang",
-      "title": "Phuket Beachfront Escape with Daily Breakfast, Nightly Dinner & Free-Flow Cocktail Hour",
-      "description": "Set on the shores of Bang Tao Beach, five-star Angsana Laguna Phuket puts you in the heart of Laguna, surrounded by a glittering lagoon and newly renovated resort spaces. Stretch out beside the 300-metre swimming pool, paddleboard across the water or settle into a cabana at XANA Beach Club. With five food and beverage outlets, including the beach club, there’s plenty of choice when it’s time to eat and unwind. Younger travellers can spend the day at Angsana Kids’ Club with treasure hunts, face painting and cooking classes, while you book a traditional Thai massage at Angsana Spa. Complimentary shuttle buses and boats connect you to the wider Laguna Phuket complex, with buses available on call and boats running every 20 minutes. Beyond the resort, tee off at Laguna’s 18-hole golf course, explore more spas and dining options, browse Canal Village, or follow the nature trails. Porto de Phuket and Boat Avenue are a few kilometres away, and Boat Avenue’s weekly night market adds another reason to head out.",
-      "location_subheading": "Thailand",
-      "price": 979,
-      "original_price": 2277,
-      "discount_percentage": 57,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gNax4YAC",
-      "hero_image": "https://images.luxuryescapes.com/j35wt4gv3ni13ymc6k9",
-      "image_two": "https://images.luxuryescapes.com/x0j8c61ccp5oytizxwe",
-      "image_three": "https://images.luxuryescapes.com/w4ryadi8zpzvnu6pqa07",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 7,
-      "end_date_utc": "2026-11-25 12:59:00"
-    },
     {
       "vendor_name": "Outrigger Surin Beach Resort",
       "offer_country_name": "Thailand",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Angsana Laguna Phuket",
+      "offer_country_name": "Thailand",
+      "location_heading": "Thalang",
+      "title": "Phuket Beachfront Escape with Daily Breakfast, Nightly Dinner & Free-Flow Cocktail Hour",
+      "description": "Set on the shores of Bang Tao Beach, five-star Angsana Laguna Phuket puts you in the heart of Laguna, surrounded by a glittering lagoon and newly renovated resort spaces. Stretch out beside the 300-metre swimming pool, paddleboard across the water or settle into a cabana at XANA Beach Club. With five food and beverage outlets, including the beach club, there’s plenty of choice when it’s time to eat and unwind. Younger travellers can spend the day at Angsana Kids’ Club with treasure hunts, face painting and cooking classes, while you book a traditional Thai massage at Angsana Spa. Complimentary shuttle buses and boats connect you to the wider Laguna Phuket complex, with buses available on call and boats running every 20 minutes. Beyond the resort, tee off at Laguna’s 18-hole golf course, explore more spas and dining options, browse Canal Village, or follow the nature trails. Porto de Phuket and Boat Avenue are a few kilometres away, and Boat Avenue’s weekly night market adds another reason to head out.",
+      "location_subheading": "Thailand",
+      "price": 979,
+      "original_price": 2277,
+      "discount_percentage": 57,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gNax4YAC",
+      "hero_image": "https://images.luxuryescapes.com/j35wt4gv3ni13ymc6k9",
+      "image_two": "https://images.luxuryescapes.com/x0j8c61ccp5oytizxwe",
+      "image_three": "https://images.luxuryescapes.com/w4ryadi8zpzvnu6pqa07",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 7,
+      "end_date_utc": "2026-11-25 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 2,
     "average_price": 569,
     "average_discount": 37

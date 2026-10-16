@@ -4,26 +4,8 @@
   "country_code": "TH",
   "hero_title": "Hotels in PHUKET",
   "description": "Discover the best hotels in PHUKET, Thailand. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/7f90suebmgr7l3t7emb",
+  "hero_image": "https://images.luxuryescapes.com/ztugzhnvjqu90xix9q7",
   "hotels": [
-    {
-      "vendor_name": "Mercure Phuket Patong Journeyhub",
-      "offer_country_name": "Thailand",
-      "location_heading": "PHUKET",
-      "title": "Stylish Patong Escape at Mercure Phuket Patong Journeyhub",
-      "description": "Discover Phuket’s spirited Patong from this contemporary retreat, a short walk from Patong Beach and the neon glow of Bangla Road. Jungceylon Shopping Centre and Banzaan Fresh Market sit nearby, placing local produce, street food stalls and late-night dining close at hand. Between outings, retreat to the rooftop pool or step onto the private balcony of your modern room, framed by clean-lined interiors. For a taste of the neighbourhood, No.6 Restaurant is known for fragrant curries and seafood, while Malin Plaza Patong serves grilled skewers, mango sticky rice and fresh tropical fruit",
-      "location_subheading": "Thailand",
-      "price": 92,
-      "original_price": 92,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gCeuDYAS",
-      "hero_image": "https://images.luxuryescapes.com/7f90suebmgr7l3t7emb",
-      "image_two": "https://images.luxuryescapes.com/nht0szglcqb9gd68xcvj",
-      "image_three": "https://images.luxuryescapes.com/gosewjn9gcxw51414qmo",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "TRIBE Phuket Patong",
       "offer_country_name": "Thailand",
@@ -41,6 +23,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:59"
+    },
+    {
+      "vendor_name": "Mercure Phuket Patong Journeyhub",
+      "offer_country_name": "Thailand",
+      "location_heading": "PHUKET",
+      "title": "Stylish Patong Escape at Mercure Phuket Patong Journeyhub",
+      "description": "Discover Phuket’s spirited Patong from this contemporary retreat, a short walk from Patong Beach and the neon glow of Bangla Road. Jungceylon Shopping Centre and Banzaan Fresh Market sit nearby, placing local produce, street food stalls and late-night dining close at hand. Between outings, retreat to the rooftop pool or step onto the private balcony of your modern room, framed by clean-lined interiors. For a taste of the neighbourhood, No.6 Restaurant is known for fragrant curries and seafood, while Malin Plaza Patong serves grilled skewers, mango sticky rice and fresh tropical fruit",
+      "location_subheading": "Thailand",
+      "price": 92,
+      "original_price": 92,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gCeuDYAS",
+      "hero_image": "https://images.luxuryescapes.com/7f90suebmgr7l3t7emb",
+      "image_two": "https://images.luxuryescapes.com/nht0szglcqb9gd68xcvj",
+      "image_three": "https://images.luxuryescapes.com/gosewjn9gcxw51414qmo",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 2,
     "average_price": 122,
     "average_discount": 0

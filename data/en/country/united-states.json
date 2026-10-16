@@ -3,30 +3,30 @@
   "code": "US",
   "hero_title": "United States Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in United States.",
-  "hero_image": "https://images.luxuryescapes.com/4elm1zhlrmb0e26g6vw5",
+  "hero_image": "https://images.luxuryescapes.com/47ka6ggi98wx0fjlsnrm",
   "popular_destinations": [
     {
       "name": "New York",
       "slug": "new-york",
-      "image": "https://images.luxuryescapes.com/4elm1zhlrmb0e26g6vw5",
+      "image": "https://images.luxuryescapes.com/47ka6ggi98wx0fjlsnrm",
       "description": "Explore New York with luxury accommodations",
       "hotel_count": 30,
       "hotel_deals": 30,
-      "avg_price": 1163
+      "avg_price": 1159
     },
     {
       "name": "California",
       "slug": "california",
-      "image": "https://images.luxuryescapes.com/6svtlrw2gsl57dv2jzp7",
+      "image": "https://images.luxuryescapes.com/4i38cln7ogdwgvwrh5yb",
       "description": "Explore California with luxury accommodations",
       "hotel_count": 16,
       "hotel_deals": 16,
-      "avg_price": 1090
+      "avg_price": 1098
     },
     {
       "name": "San Francisco",
       "slug": "san-francisco",
-      "image": "https://images.luxuryescapes.com/m2svymv8ky5i0gdbe9",
+      "image": "https://images.luxuryescapes.com/8a8pg0dh1rpzr1gt0iw4",
       "description": "Explore San Francisco with luxury accommodations",
       "hotel_count": 13,
       "hotel_deals": 13,
@@ -35,16 +35,16 @@
     {
       "name": "Los Angeles",
       "slug": "los-angeles",
-      "image": "https://images.luxuryescapes.com/2gz9hcpe3z0kaefsk6r4",
+      "image": "https://images.luxuryescapes.com/yiaxbqpdyt9l1b5shv8",
       "description": "Explore Los Angeles with luxury accommodations",
       "hotel_count": 11,
       "hotel_deals": 11,
-      "avg_price": 704
+      "avg_price": 703
     },
     {
       "name": "Chicago",
       "slug": "chicago",
-      "image": "https://images.luxuryescapes.com/dhgtjm158ttec5fzgy88",
+      "image": "https://images.luxuryescapes.com/kumeu9pecidn8ovydl6f",
       "description": "Explore Chicago with luxury accommodations",
       "hotel_count": 10,
       "hotel_deals": 10,
@@ -53,11 +53,11 @@
     {
       "name": "Hawaii",
       "slug": "hawaii",
-      "image": "https://images.luxuryescapes.com/4r6a8zqk0gowg30qnsv1",
+      "image": "https://images.luxuryescapes.com/5fntyxeiedh8r75ny451",
       "description": "Explore Hawaii with luxury accommodations",
       "hotel_count": 9,
       "hotel_deals": 9,
-      "avg_price": 1457
+      "avg_price": 1458
     }
   ],
   "seo": {

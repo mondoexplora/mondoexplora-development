@@ -3,34 +3,43 @@
   "code": "DE",
   "hero_title": "Germany Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Germany.",
-  "hero_image": "https://images.luxuryescapes.com/43mhpife4gzr2fut19on",
+  "hero_image": "https://images.luxuryescapes.com/dlindfhavpyb703gnb9q",
   "popular_destinations": [
     {
       "name": "Munich",
       "slug": "munich",
-      "image": "https://images.luxuryescapes.com/43mhpife4gzr2fut19on",
+      "image": "https://images.luxuryescapes.com/dlindfhavpyb703gnb9q",
       "description": "Explore Munich with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 938
+      "avg_price": 940
     },
     {
       "name": "Berlin",
       "slug": "berlin",
-      "image": "https://images.luxuryescapes.com/slbwbkhtxwk15zuaxs4",
+      "image": "https://images.luxuryescapes.com/j8o6541nraa6pdyg77q9",
       "description": "Explore Berlin with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 427
+      "avg_price": 429
     },
     {
       "name": "Frankfurt",
       "slug": "frankfurt",
-      "image": "https://images.luxuryescapes.com/3jkn70tstn9sxal7h9of",
+      "image": "https://images.luxuryescapes.com/b0mh4h6emqmhswfkmkb",
       "description": "Explore Frankfurt with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
       "avg_price": 186
+    },
+    {
+      "name": "Dusseldorf",
+      "slug": "dusseldorf",
+      "image": "https://images.luxuryescapes.com/06vvkem2siuce6akg73j",
+      "description": "Explore Dusseldorf with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 234
     },
     {
       "name": "Hamburg",
@@ -39,16 +48,7 @@
       "description": "Explore Hamburg with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 341
-    },
-    {
-      "name": "Dusseldorf",
-      "slug": "dusseldorf",
-      "image": "https://images.luxuryescapes.com/0a7yiewi4pi9egm9i2eh",
-      "description": "Explore Dusseldorf with luxury accommodations",
-      "hotel_count": 2,
-      "hotel_deals": 2,
-      "avg_price": 234
+      "avg_price": 343
     },
     {
       "name": "Dresden",

@@ -3,17 +3,8 @@
   "code": "RW",
   "hero_title": "Rwanda Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Rwanda.",
-  "hero_image": "https://images.luxuryescapes.com/1ven5nf84xafczb6boz",
+  "hero_image": "https://images.luxuryescapes.com/pab581yl98oocwzs6tu",
   "popular_destinations": [
-    {
-      "name": "Kinigi",
-      "slug": "kinigi",
-      "image": "https://images.luxuryescapes.com/1ven5nf84xafczb6boz",
-      "description": "Explore Kinigi with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 12938
-    },
     {
       "name": "Nyamasheke",
       "slug": "nyamasheke",
@@ -21,7 +12,16 @@
       "description": "Explore Nyamasheke with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 6803
+      "avg_price": 6808
+    },
+    {
+      "name": "Kinigi",
+      "slug": "kinigi",
+      "image": "https://images.luxuryescapes.com/1ven5nf84xafczb6boz",
+      "description": "Explore Kinigi with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 12947
     }
   ],
   "seo": {

@@ -4,26 +4,8 @@
   "country_code": "CK",
   "hero_title": "Hotels in Aitutaki",
   "description": "Discover the best hotels in Aitutaki, Cook Islands. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/myanfth49penlsda7a1",
+  "hero_image": "https://images.luxuryescapes.com/4bxvb7o9gbs1wk3cr68",
   "hotels": [
-    {
-      "vendor_name": "Aitutaki Lagoon Private Island Resort",
-      "offer_country_name": "Cook Islands",
-      "location_heading": "Aitutaki",
-      "title": "Adults-Only Cook Islands Private Paradise with Pools & Spa",
-      "description": "Paradise awaits in the heart of the South Pacific with an adults-only escape to Aitutaki Lagoon Private Island Resort, a true gem of the Cook Islands. Wake each morning to panoramic views over one of the world’s most stunning lagoons, and immerse yourself in the striking beauty of this private island. Surrounded by impossibly turquoise waters, spend days unwinding on powdery white sands, snorkelling through vibrant coral gardens, or swaying in a hammock under swaying palms - all the while feeling completely cut off from the outside world. Dive deep into island charm with Polynesian-inspired beachfront bungalows, a tranquil spa and fresh local flavours. Daily complimentary activities include snorkeling and snorkeling lessons, fish feeding, island drumming and dancing, ukulele sessions, pareu (sarong) tying, palm-frond weaving, lei making, coconut husking shows, crab hunting and racing, guided island walks and more. Keep busy with complimentary use of water sports equipment including stand-up paddleboards, kayaks, a Polynesian outrigger canoe, snorkelling gear, beach towels, sunloungers and hammocks. This is paradise, exactly as you imagined it.",
-      "location_subheading": "Cook Islands",
-      "price": 1150,
-      "original_price": 1575,
-      "discount_percentage": 27,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003Gt5bAAC",
-      "hero_image": "https://images.luxuryescapes.com/myanfth49penlsda7a1",
-      "image_two": "https://images.luxuryescapes.com/pubmc8nn28e0spiba0dj",
-      "image_three": "https://images.luxuryescapes.com/6nm35xw9tkob4nyvuu8",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
-    },
     {
       "vendor_name": "Pacific Resort Aitutaki",
       "offer_country_name": "Cook Islands",
@@ -77,6 +59,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Aitutaki Lagoon Private Island Resort",
+      "offer_country_name": "Cook Islands",
+      "location_heading": "Aitutaki",
+      "title": "Adults-Only Cook Islands Private Paradise with Pools & Spa",
+      "description": "Paradise awaits in the heart of the South Pacific with an adults-only escape to Aitutaki Lagoon Private Island Resort, a true gem of the Cook Islands. Wake each morning to panoramic views over one of the world’s most stunning lagoons, and immerse yourself in the striking beauty of this private island. Surrounded by impossibly turquoise waters, spend days unwinding on powdery white sands, snorkelling through vibrant coral gardens, or swaying in a hammock under swaying palms - all the while feeling completely cut off from the outside world. Dive deep into island charm with Polynesian-inspired beachfront bungalows, a tranquil spa and fresh local flavours. Daily complimentary activities include snorkeling and snorkeling lessons, fish feeding, island drumming and dancing, ukulele sessions, pareu (sarong) tying, palm-frond weaving, lei making, coconut husking shows, crab hunting and racing, guided island walks and more. Keep busy with complimentary use of water sports equipment including stand-up paddleboards, kayaks, a Polynesian outrigger canoe, snorkelling gear, beach towels, sunloungers and hammocks. This is paradise, exactly as you imagined it.",
+      "location_subheading": "Cook Islands",
+      "price": 1150,
+      "original_price": 1575,
+      "discount_percentage": 27,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003Gt5bAAC",
+      "hero_image": "https://images.luxuryescapes.com/myanfth49penlsda7a1",
+      "image_two": "https://images.luxuryescapes.com/pubmc8nn28e0spiba0dj",
+      "image_three": "https://images.luxuryescapes.com/6nm35xw9tkob4nyvuu8",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -96,7 +96,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 4,
     "average_price": 1385,
     "average_discount": 10

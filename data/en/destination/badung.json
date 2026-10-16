@@ -4,26 +4,8 @@
   "country_code": "ID",
   "hero_title": "Hotels in Badung",
   "description": "Discover the best hotels in Badung, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/610sddkypdmq4wqkuv",
+  "hero_image": "https://images.luxuryescapes.com/pkvik3hpzgvd5w4stgzg",
   "hotels": [
-    {
-      "vendor_name": "Bumbak Park Villas by Nakula",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Badung",
-      "title": "Private-Pool Villas amid Tropical Gardens near Canggu",
-      "description": "Slow down in a private villa framed by tropical gardens, where mornings begin with breakfast in your own space and afternoons unfold by the pool. Bumbak Park Villas pairs generous indoor-outdoor living with fully equipped kitchens, serene garden outlooks and your own swimming pool. Share unhurried days with family or friends, arrange an in-villa spa treatment, or head out to discover the cafes, restaurants and beach clubs of nearby Canggu and Seminyak. Batu Belig Beach is approximately a 20-minute walk away, while daily housekeeping and attentive service give you a tidy villa to return to.",
-      "location_subheading": "Indonesia",
-      "price": 300,
-      "original_price": 300,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000eyD6dYAE",
-      "hero_image": "https://images.luxuryescapes.com/610sddkypdmq4wqkuv",
-      "image_two": "https://images.luxuryescapes.com/boeec98bakfwesskf79",
-      "image_three": "https://images.luxuryescapes.com/w1sv34nduf571jaamo4",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Fenta Villa by Nakula",
       "offer_country_name": "Indonesia",
@@ -59,6 +41,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Bumbak Park Villas by Nakula",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Badung",
+      "title": "Private-Pool Villas amid Tropical Gardens near Canggu",
+      "description": "Slow down in a private villa framed by tropical gardens, where mornings begin with breakfast in your own space and afternoons unfold by the pool. Bumbak Park Villas pairs generous indoor-outdoor living with fully equipped kitchens, serene garden outlooks and your own swimming pool. Share unhurried days with family or friends, arrange an in-villa spa treatment, or head out to discover the cafes, restaurants and beach clubs of nearby Canggu and Seminyak. Batu Belig Beach is approximately a 20-minute walk away, while daily housekeeping and attentive service give you a tidy villa to return to.",
+      "location_subheading": "Indonesia",
+      "price": 300,
+      "original_price": 300,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000eyD6dYAE",
+      "hero_image": "https://images.luxuryescapes.com/610sddkypdmq4wqkuv",
+      "image_two": "https://images.luxuryescapes.com/boeec98bakfwesskf79",
+      "image_three": "https://images.luxuryescapes.com/w1sv34nduf571jaamo4",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 3,
     "average_price": 865,
     "average_discount": 0

@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Torquay",
   "description": "Discover the best hotels in Torquay, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/v0ylrlmtkmxg0fdcth6w",
+  "hero_image": "https://images.luxuryescapes.com/em1m0lrulywec4ljc9a",
   "hotels": [
-    {
-      "vendor_name": "The Sands Torquay",
-      "offer_country_name": "Australia",
-      "location_heading": "Torquay",
-      "title": "Great Ocean Road Escape: Torquay Coastal Retreat with Daily Breakfast",
-      "description": "Wind your way along the coast of Victoria to this seaside haven, elegantly perched on the northern headland of Torquay, the Great Ocean Road’s starting point. Spend your days exploring one of Australia’s most famed stretches of coastline, home to the iconic surfing haven of Bells Beach and the Australian National Surfing Museum. After busy days, plunge into the expansive 25-metre heated indoor pool or work out in the fully equipped gym. Stretch out with a yoga class, try your hand at a round of tennis or pull up a pew at the bar and savour your favourite drink. The Sands Torquay is perched on an 18-hole championship golf course designed by former Australian professional golfer Stuart Appleby. Golfers will be instantly impressed by the immaculately groomed fairway set against a striking coastal backdrop. There’s also plenty to keep their travelling companions and little ones busy. Walk along the adjacent Whites Beach, take the short drive into Torquay township for boutiques and gourmet bites, marvel at the wonders of Bells Beach or travel a little further afield to the broader wonders of the Great Ocean Road, including the spectacular Twelve Apostles.",
-      "location_subheading": "Australia",
-      "price": 279,
-      "original_price": 537,
-      "discount_percentage": 48,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gdZtlYAE",
-      "hero_image": "https://images.luxuryescapes.com/v0ylrlmtkmxg0fdcth6w",
-      "image_two": "https://images.luxuryescapes.com/yz51pqkiqdebkmqtstqe",
-      "image_three": "https://images.luxuryescapes.com/g9i4dbgws87bj77png7",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 2,
-      "end_date_utc": "2026-12-08 12:59:00"
-    },
     {
       "vendor_name": "Wyndham Resort Torquay",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "The Sands Torquay",
+      "offer_country_name": "Australia",
+      "location_heading": "Torquay",
+      "title": "Great Ocean Road Escape: Torquay Coastal Retreat with Daily Breakfast",
+      "description": "Wind your way along the coast of Victoria to this seaside haven, elegantly perched on the northern headland of Torquay, the Great Ocean Road’s starting point. Spend your days exploring one of Australia’s most famed stretches of coastline, home to the iconic surfing haven of Bells Beach and the Australian National Surfing Museum. After busy days, plunge into the expansive 25-metre heated indoor pool or work out in the fully equipped gym. Stretch out with a yoga class, try your hand at a round of tennis or pull up a pew at the bar and savour your favourite drink. The Sands Torquay is perched on an 18-hole championship golf course designed by former Australian professional golfer Stuart Appleby. Golfers will be instantly impressed by the immaculately groomed fairway set against a striking coastal backdrop. There’s also plenty to keep their travelling companions and little ones busy. Walk along the adjacent Whites Beach, take the short drive into Torquay township for boutiques and gourmet bites, marvel at the wonders of Bells Beach or travel a little further afield to the broader wonders of the Great Ocean Road, including the spectacular Twelve Apostles.",
+      "location_subheading": "Australia",
+      "price": 279,
+      "original_price": 537,
+      "discount_percentage": 48,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gdZtlYAE",
+      "hero_image": "https://images.luxuryescapes.com/v0ylrlmtkmxg0fdcth6w",
+      "image_two": "https://images.luxuryescapes.com/yz51pqkiqdebkmqtstqe",
+      "image_three": "https://images.luxuryescapes.com/g9i4dbgws87bj77png7",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 2,
+      "end_date_utc": "2026-12-08 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 2,
     "average_price": 314,
     "average_discount": 24

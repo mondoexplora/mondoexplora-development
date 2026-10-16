@@ -3,16 +3,16 @@
   "code": "FR",
   "hero_title": "France Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in France.",
-  "hero_image": "https://images.luxuryescapes.com/ooohlgxzefzt3nj03y2b",
+  "hero_image": "https://images.luxuryescapes.com/fdeg4bsbmk055oize0bo",
   "popular_destinations": [
     {
       "name": "Paris",
       "slug": "paris",
-      "image": "https://images.luxuryescapes.com/ooohlgxzefzt3nj03y2b",
+      "image": "https://images.luxuryescapes.com/fdeg4bsbmk055oize0bo",
       "description": "Explore Paris with luxury accommodations",
-      "hotel_count": 32,
-      "hotel_deals": 32,
-      "avg_price": 1219
+      "hotel_count": 33,
+      "hotel_deals": 33,
+      "avg_price": 1928
     },
     {
       "name": "Lyon",
@@ -24,15 +24,6 @@
       "avg_price": 413
     },
     {
-      "name": "Bordeaux",
-      "slug": "bordeaux",
-      "image": "https://images.luxuryescapes.com/e4numb74ohjtqxhumpx",
-      "description": "Explore Bordeaux with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 417
-    },
-    {
       "name": "PARIS",
       "slug": "paris",
       "image": "https://images.luxuryescapes.com/5vfk6j1o9fyi14eddau5",
@@ -42,13 +33,13 @@
       "avg_price": 552
     },
     {
-      "name": "Strasbourg",
-      "slug": "strasbourg",
-      "image": "https://images.luxuryescapes.com/9o0ztaigin4d4zkdunjl",
-      "description": "Explore Strasbourg with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 298
+      "name": "Bordeaux",
+      "slug": "bordeaux",
+      "image": "https://images.luxuryescapes.com/e4numb74ohjtqxhumpx",
+      "description": "Explore Bordeaux with luxury accommodations",
+      "hotel_count": 4,
+      "hotel_deals": 4,
+      "avg_price": 417
     },
     {
       "name": "Provence",
@@ -58,6 +49,15 @@
       "hotel_count": 3,
       "hotel_deals": 3,
       "avg_price": 1094
+    },
+    {
+      "name": "Marseille",
+      "slug": "marseille",
+      "image": "https://images.luxuryescapes.com/b67oggevm8oixzbei7jx",
+      "description": "Explore Marseille with luxury accommodations",
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 379
     }
   ],
   "seo": {

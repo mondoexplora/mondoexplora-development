@@ -1,0 +1,50 @@
+{
+  "city": "Tanunda",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Tanunda",
+  "description": "Discover the best hotels in Tanunda, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/0ofxaptmdbmnxm1n7iy6y4",
+  "hotels": [
+    {
+      "vendor_name": "Mercure Hotel Barossa Valley",
+      "offer_country_name": "Australia",
+      "location_heading": "Tanunda",
+      "title": "Barossa Valley Contemporary Vineyard Glamour with Daily Breakfast & Nightly Drink",
+      "description": "In the heart of South Australia’s wine country, Mercure Barossa Valley is a stylish stay with easy access to some of the Barossa Valley’s famous cellar doors. Here, every room and apartment is dressed to the nines with ultra-chic furnishings and all the comforts of home, paired perfectly with serene views of the hotel's lush gardens. With more than 150 wineries across the region and Adelaide only about an hour away, it's the perfect base for exploring into the Barossa’s cellar doors, food scene and heritage towns. Back at the hotel, savour pub-style classics at Angus & Co. or continue your wine tasting adventure at the bar and wine room.",
+      "location_subheading": "Australia",
+      "price": 299,
+      "original_price": 446,
+      "discount_percentage": 33,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000YCaycYAD",
+      "hero_image": "https://images.luxuryescapes.com/0ofxaptmdbmnxm1n7iy6y4",
+      "image_two": "https://images.luxuryescapes.com/fjpgiqzegryzuvz5gbt",
+      "image_three": "https://images.luxuryescapes.com/54tpaa1j9hfbwclp9i3f",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-11-13 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Tanunda - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Tanunda, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "tanunda hotels",
+      "tanunda travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/tanunda",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/tanunda",
+      "es": "https://mondoexplora.com/es/destination/tanunda",
+      "fr": "https://mondoexplora.com/fr/destination/tanunda",
+      "it": "https://mondoexplora.com/it/destination/tanunda"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-10-16",
+    "hotel_count": 1,
+    "average_price": 299,
+    "average_discount": 33
+  }
+}

@@ -3,39 +3,39 @@
   "code": "GB",
   "hero_title": "United Kingdom Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in United Kingdom.",
-  "hero_image": "https://images.luxuryescapes.com/39mzmc3drv1f0ixf989g",
+  "hero_image": "https://images.luxuryescapes.com/wkmfuzcj4fktw2a1nnmg",
   "popular_destinations": [
     {
       "name": "London",
       "slug": "london",
-      "image": "https://images.luxuryescapes.com/39mzmc3drv1f0ixf989g",
+      "image": "https://images.luxuryescapes.com/wkmfuzcj4fktw2a1nnmg",
       "description": "Explore London with luxury accommodations",
       "hotel_count": 59,
       "hotel_deals": 59,
-      "avg_price": 1128
+      "avg_price": 1138
     },
     {
       "name": "Edinburgh",
       "slug": "edinburgh",
-      "image": "https://images.luxuryescapes.com/zptradi37mp2shjch09f",
+      "image": "https://images.luxuryescapes.com/1k82hhjnlafuigfmu4ag",
       "description": "Explore Edinburgh with luxury accommodations",
       "hotel_count": 8,
       "hotel_deals": 8,
-      "avg_price": 309
+      "avg_price": 308
     },
     {
       "name": "Manchester",
       "slug": "manchester",
-      "image": "https://images.luxuryescapes.com/1jh3a5tbxp3f0rejmd6m",
+      "image": "https://images.luxuryescapes.com/gxqxemvqn18gosrmsq",
       "description": "Explore Manchester with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 302
+      "avg_price": 300
     },
     {
       "name": "Liverpool",
       "slug": "liverpool",
-      "image": "https://images.luxuryescapes.com/8pcy0a9daau63ik7j51",
+      "image": "https://images.luxuryescapes.com/ga5vv86buoatpetvz5m",
       "description": "Explore Liverpool with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
@@ -44,11 +44,11 @@
     {
       "name": "Bath",
       "slug": "bath",
-      "image": "https://images.luxuryescapes.com/uizngck99hijt67vx4bj",
+      "image": "https://images.luxuryescapes.com/858zeel61qpihaq6cjfj",
       "description": "Explore Bath with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 621
+      "avg_price": 620
     },
     {
       "name": "Glasgow",
@@ -57,7 +57,7 @@
       "description": "Explore Glasgow with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 249
+      "avg_price": 250
     }
   ],
   "seo": {

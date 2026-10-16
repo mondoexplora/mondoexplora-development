@@ -4,8 +4,44 @@
   "country_code": "JP",
   "hero_title": "Hotels in Okinawa",
   "description": "Discover the best hotels in Okinawa, Japan. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ab5lqi7ybp7sp19k0uih",
+  "hero_image": "https://images.luxuryescapes.com/al8kfe6x2nmyhbksoxr",
   "hotels": [
+    {
+      "vendor_name": "Hyatt Regency Naha, Okinawa",
+      "offer_country_name": "Japan",
+      "location_heading": "Okinawa",
+      "title": "Stylish Hyatt Regency Naha Okinawa Escape in the Heart of the City",
+      "description": "Set in the heart of Naha, Hyatt Regency Naha, Okinawa places you within easy reach of Kokusai Dori’s shops, izakaya and neon-lit arcades. Naminoue Beach and the historic Shuri Castle are both a short drive away, while nearby Makishi Public Market serves Okinawan soba, fresh tuna and tropical fruit. Inside, polished interiors and a rooftop pool create a refined city base. Dining spans Japanese and international dishes, with cocktails and local awamori served in the bar. Naha Airport is around 15 minutes away by car, and the monorail links the hotel to Tomari Port and Omoromachi",
+      "location_subheading": "Japan",
+      "price": 390,
+      "original_price": 390,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z99bJYAR",
+      "hero_image": "https://images.luxuryescapes.com/al8kfe6x2nmyhbksoxr",
+      "image_two": "https://images.luxuryescapes.com/565317mcv7w4636yktmd",
+      "image_three": "https://images.luxuryescapes.com/s63zobygmcuetv626g5r",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
+    },
+    {
+      "vendor_name": "Novotel Okinawa Naha",
+      "offer_country_name": "Japan",
+      "location_heading": "Okinawa",
+      "title": "Stylish Okinawa Escape in Central Naha with Infinity Pool & Panoramic City Views",
+      "description": "Perched above the city with panoramic views of Naha and the distant Kerama Islands, Novotel Okinawa Naha offers easy access to Shurijo Castle’s UNESCO-listed grounds, the bustling Kokusai Dori shopping street and the vibrant Tsuboya Pottery District. Spacious rooms blend contemporary Japanese design with thoughtful comforts, while the infinity pool overlooks the cityscape and lush tropical gardens. Sample decadent teppanyaki at Toki or savour mouthwtering grilled meats at the BBQ Terrace - two fine examples of classy Japanese dining. For a wider variety, the Avancer food exchange features a buffet of both French and local cuisines for all-day dining in a more relaxed setting.",
+      "location_subheading": "Japan",
+      "price": 322,
+      "original_price": 322,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000M5lV1YAJ",
+      "hero_image": "https://images.luxuryescapes.com/fgp8ud7lyg1tj8hjt8",
+      "image_two": "https://images.luxuryescapes.com/sm2bu9jd2hrfm0not5",
+      "image_three": "https://images.luxuryescapes.com/7n2kjmxa6r2w4l2ar8q",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Grand Mercure Okinawa Zanpa",
       "offer_country_name": "Japan",
@@ -25,24 +61,6 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
-      "vendor_name": "Hyatt Regency Naha, Okinawa",
-      "offer_country_name": "Japan",
-      "location_heading": "Okinawa",
-      "title": "Stylish Hyatt Regency Naha Okinawa Escape in the Heart of the City",
-      "description": "Set in the heart of Naha, Hyatt Regency Naha, Okinawa places you within easy reach of Kokusai Dori’s shops, izakaya and neon-lit arcades. Naminoue Beach and the historic Shuri Castle are both a short drive away, while nearby Makishi Public Market serves Okinawan soba, fresh tuna and tropical fruit. Inside, polished interiors and a rooftop pool create a refined city base. Dining spans Japanese and international dishes, with cocktails and local awamori served in the bar. Naha Airport is around 15 minutes away by car, and the monorail links the hotel to Tomari Port and Omoromachi",
-      "location_subheading": "Japan",
-      "price": 388,
-      "original_price": 388,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z99bJYAR",
-      "hero_image": "https://images.luxuryescapes.com/al8kfe6x2nmyhbksoxr",
-      "image_two": "https://images.luxuryescapes.com/565317mcv7w4636yktmd",
-      "image_three": "https://images.luxuryescapes.com/s63zobygmcuetv626g5r",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:59"
-    },
-    {
       "vendor_name": "InterContinental ANA Manza Beach Resort",
       "offer_country_name": "Japan",
       "location_heading": "Okinawa",
@@ -59,24 +77,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Novotel Okinawa Naha",
-      "offer_country_name": "Japan",
-      "location_heading": "Okinawa",
-      "title": "Stylish Okinawa Escape in Central Naha with Infinity Pool & Panoramic City Views",
-      "description": "Perched above the city with panoramic views of Naha and the distant Kerama Islands, Novotel Okinawa Naha offers easy access to Shurijo Castle’s UNESCO-listed grounds, the bustling Kokusai Dori shopping street and the vibrant Tsuboya Pottery District. Spacious rooms blend contemporary Japanese design with thoughtful comforts, while the infinity pool overlooks the cityscape and lush tropical gardens. Sample decadent teppanyaki at Toki or savour mouthwtering grilled meats at the BBQ Terrace - two fine examples of classy Japanese dining. For a wider variety, the Avancer food exchange features a buffet of both French and local cuisines for all-day dining in a more relaxed setting.",
-      "location_subheading": "Japan",
-      "price": 322,
-      "original_price": 322,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000M5lV1YAJ",
-      "hero_image": "https://images.luxuryescapes.com/fgp8ud7lyg1tj8hjt8",
-      "image_two": "https://images.luxuryescapes.com/sm2bu9jd2hrfm0not5",
-      "image_three": "https://images.luxuryescapes.com/7n2kjmxa6r2w4l2ar8q",
-      "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -96,7 +96,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 4,
     "average_price": 350,
     "average_discount": 0

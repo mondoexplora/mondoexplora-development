@@ -3,12 +3,12 @@
   "code": "TW",
   "hero_title": "Taiwan (Province of China) Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Taiwan (Province of China).",
-  "hero_image": "https://images.luxuryescapes.com/ci3o66uphlwbg6vcffz",
+  "hero_image": "https://images.luxuryescapes.com/je1jbbjewhl3n1raarqm",
   "popular_destinations": [
     {
       "name": "Taipei",
       "slug": "taipei",
-      "image": "https://images.luxuryescapes.com/ci3o66uphlwbg6vcffz",
+      "image": "https://images.luxuryescapes.com/je1jbbjewhl3n1raarqm",
       "description": "Explore Taipei with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
@@ -21,7 +21,7 @@
       "description": "Explore Kaohsiung with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 405
+      "avg_price": 407
     },
     {
       "name": "Chiayi County",
@@ -30,25 +30,7 @@
       "description": "Explore Chiayi County with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 904
-    },
-    {
-      "name": "TAIPEI",
-      "slug": "taipei",
-      "image": "https://images.luxuryescapes.com/9o4yxdlydqja1m2992jo",
-      "description": "Explore TAIPEI with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 713
-    },
-    {
-      "name": "Taipei City",
-      "slug": "taipei-city",
-      "image": "https://images.luxuryescapes.com/bwra7naogpn7mu10mnzp",
-      "description": "Explore Taipei City with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 628
+      "avg_price": 902
     },
     {
       "name": "Taoyuan",
@@ -57,7 +39,25 @@
       "description": "Explore Taoyuan with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 358
+      "avg_price": 345
+    },
+    {
+      "name": "Taipei City",
+      "slug": "taipei-city",
+      "image": "https://images.luxuryescapes.com/bwra7naogpn7mu10mnzp",
+      "description": "Explore Taipei City with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 621
+    },
+    {
+      "name": "TAIPEI",
+      "slug": "taipei",
+      "image": "https://images.luxuryescapes.com/9o4yxdlydqja1m2992jo",
+      "description": "Explore TAIPEI with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 712
     }
   ],
   "seo": {

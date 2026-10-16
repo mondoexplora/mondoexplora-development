@@ -4,26 +4,8 @@
   "country_code": "HU",
   "hero_title": "Hotels in BUDAPEST",
   "description": "Discover the best hotels in BUDAPEST, Hungary. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/r17rpjfzl7bx7wgb38a",
+  "hero_image": "https://images.luxuryescapes.com/0gj7mta0p86bqmufvizh",
   "hotels": [
-    {
-      "vendor_name": "Mövenpick Hotel Budapest Centre",
-      "offer_country_name": "Hungary",
-      "location_heading": "BUDAPEST",
-      "title": "Historic Budapest Grandeur in the Heart of the City",
-      "description": "Set within a magnificent Art Nouveau palace on Budapest’s Grand Boulevard, this heritage address pairs stained glass, sweeping arches and period detailing with polished contemporary interiors. Blaha Lujza tér Metro Station is moments away, placing the Hungarian State Opera, Dohány Street Synagogue and the boutiques of Andrássy Avenue within easy reach. At the hotel’s Palace Restaurant, Hungarian classics and international dishes are served beneath a striking glass roof in a belle-époque setting. New York Café’s gilded salons are a short stroll away, and the Jewish Quarter’s ruin bars, speciality coffee houses and late-night bistros unfold just beyond the boulevard",
-      "location_subheading": "Hungary",
-      "price": 264,
-      "original_price": 264,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gCeu2YAC",
-      "hero_image": "https://images.luxuryescapes.com/r17rpjfzl7bx7wgb38a",
-      "image_two": "https://images.luxuryescapes.com/r7su65otmxczrzxn8en",
-      "image_three": "https://images.luxuryescapes.com/ay45y24wrkibv3xl2nv",
-      "deal_tier": "",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:59"
-    },
     {
       "vendor_name": "Pullman Budapest",
       "offer_country_name": "Hungary",
@@ -41,6 +23,24 @@
       "deal_tier": "",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Mövenpick Hotel Budapest Centre",
+      "offer_country_name": "Hungary",
+      "location_heading": "BUDAPEST",
+      "title": "Historic Budapest Grandeur in the Heart of the City",
+      "description": "Set within a magnificent Art Nouveau palace on Budapest’s Grand Boulevard, this heritage address pairs stained glass, sweeping arches and period detailing with polished contemporary interiors. Blaha Lujza tér Metro Station is moments away, placing the Hungarian State Opera, Dohány Street Synagogue and the boutiques of Andrássy Avenue within easy reach. At the hotel’s Palace Restaurant, Hungarian classics and international dishes are served beneath a striking glass roof in a belle-époque setting. New York Café’s gilded salons are a short stroll away, and the Jewish Quarter’s ruin bars, speciality coffee houses and late-night bistros unfold just beyond the boulevard",
+      "location_subheading": "Hungary",
+      "price": 264,
+      "original_price": 264,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gCeu2YAC",
+      "hero_image": "https://images.luxuryescapes.com/r17rpjfzl7bx7wgb38a",
+      "image_two": "https://images.luxuryescapes.com/r7su65otmxczrzxn8en",
+      "image_three": "https://images.luxuryescapes.com/ay45y24wrkibv3xl2nv",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 2,
     "average_price": 324,
     "average_discount": 0

@@ -4,8 +4,26 @@
   "country_code": "HR",
   "hero_title": "Hotels in Dubrovnik",
   "description": "Discover the best hotels in Dubrovnik, Croatia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/353qbrl0uc0a9abu1p",
+  "hero_image": "https://images.luxuryescapes.com/negjkvgsd4dsvmh8udf",
   "hotels": [
+    {
+      "vendor_name": "Sun Gardens Dubrovnik",
+      "offer_country_name": "Croatia",
+      "location_heading": "Dubrovnik",
+      "title": "Dubrovnik Beachfront Paradise with Three Pools and Stunning Views of the Adriatic Coast",
+      "description": "Escape to Sun Gardens Dubrovnik for an idyllic beachfront vacation with the sparkling waters of the Adriatic Sea your exquisite backdrop, and all of the charms of ancient Dubrovnik within easy reach. This slice of paradise is part of The Leading Hotels of the World, and boasts an abundance of entertainment options including poolside shows and beach events. You'll have a choice of amazing restaurants serving delectable Dalmation dishes, and access to three outdoor pools and an onsite spa.",
+      "location_subheading": "Croatia",
+      "price": 402,
+      "original_price": 402,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EDD4pAAH",
+      "hero_image": "https://images.luxuryescapes.com/negjkvgsd4dsvmh8udf",
+      "image_two": "https://images.luxuryescapes.com/gun1hpv8cnsg0xjwcpab",
+      "image_three": "https://images.luxuryescapes.com/it639j1b7laa25f1m04d",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Kazbek Dubrovnik",
       "offer_country_name": "Croatia",
@@ -41,24 +59,6 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Sun Gardens Dubrovnik",
-      "offer_country_name": "Croatia",
-      "location_heading": "Dubrovnik",
-      "title": "Dubrovnik Beachfront Paradise with Three Pools and Stunning Views of the Adriatic Coast",
-      "description": "Escape to Sun Gardens Dubrovnik for an idyllic beachfront vacation with the sparkling waters of the Adriatic Sea your exquisite backdrop, and all of the charms of ancient Dubrovnik within easy reach. This slice of paradise is part of The Leading Hotels of the World, and boasts an abundance of entertainment options including poolside shows and beach events. You'll have a choice of amazing restaurants serving delectable Dalmation dishes, and access to three outdoor pools and an onsite spa.",
-      "location_subheading": "Croatia",
-      "price": 402,
-      "original_price": 402,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000EDD4pAAH",
-      "hero_image": "https://images.luxuryescapes.com/negjkvgsd4dsvmh8udf",
-      "image_two": "https://images.luxuryescapes.com/gun1hpv8cnsg0xjwcpab",
-      "image_three": "https://images.luxuryescapes.com/it639j1b7laa25f1m04d",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
     }
   ],
   "seo": {
@@ -78,7 +78,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 3,
     "average_price": 412,
     "average_discount": 0

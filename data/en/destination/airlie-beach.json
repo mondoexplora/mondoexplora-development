@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Airlie Beach",
   "description": "Discover the best hotels in Airlie Beach, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/mqv6h3wksel69x7lgr7g",
+  "hero_image": "https://images.luxuryescapes.com/rakam3khf8a6s7ujbtme",
   "hotels": [
-    {
-      "vendor_name": "Club Wyndham Airlie Beach",
-      "offer_country_name": "Australia",
-      "location_heading": "Airlie Beach",
-      "title": "Airlie Beach Apartment-Style Resort with Ocean Views & Outdoor Pool",
-      "description": "Find yourself in tropical paradise at the gateway to the Whitsundays at Club Wyndham Airlie Beach. With apartments peering over the glistening lagoon, Tropical North Queensland is on your doorstep, with just an hour on the ferry between you and Hamilton Island. But life at Airlie is just as sweet; swim laps of the pool as you look onto the crimson sunset, dine at Tides at Airlie Beach with ocean-fresh seafood on offer, and enjoy some of the area's best portside views.",
-      "location_subheading": "Australia",
-      "price": 379,
-      "original_price": 505,
-      "discount_percentage": 25,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ez3OeAAJ",
-      "hero_image": "https://images.luxuryescapes.com/mqv6h3wksel69x7lgr7g",
-      "image_two": "https://images.luxuryescapes.com/vlfvvd4sxghl6brvmm5",
-      "image_three": "https://images.luxuryescapes.com/bjhquh28kvuexy8kyk34",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 2,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
     {
       "vendor_name": "Freedom Shores",
       "offer_country_name": "Australia",
@@ -79,6 +61,24 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
+      "vendor_name": "Club Wyndham Airlie Beach",
+      "offer_country_name": "Australia",
+      "location_heading": "Airlie Beach",
+      "title": "Airlie Beach Apartment-Style Resort with Ocean Views & Outdoor Pool",
+      "description": "Find yourself in tropical paradise at the gateway to the Whitsundays at Club Wyndham Airlie Beach. With apartments peering over the glistening lagoon, Tropical North Queensland is on your doorstep, with just an hour on the ferry between you and Hamilton Island. But life at Airlie is just as sweet; swim laps of the pool as you look onto the crimson sunset, dine at Tides at Airlie Beach with ocean-fresh seafood on offer, and enjoy some of the area's best portside views.",
+      "location_subheading": "Australia",
+      "price": 379,
+      "original_price": 512,
+      "discount_percentage": 26,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000Ez3OeAAJ",
+      "hero_image": "https://images.luxuryescapes.com/mqv6h3wksel69x7lgr7g",
+      "image_two": "https://images.luxuryescapes.com/vlfvvd4sxghl6brvmm5",
+      "image_three": "https://images.luxuryescapes.com/bjhquh28kvuexy8kyk34",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 2,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "The Boathouse Apartments",
       "offer_country_name": "Australia",
       "location_heading": "Airlie Beach",
@@ -132,7 +132,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 6,
     "average_price": 714,
     "average_discount": 11

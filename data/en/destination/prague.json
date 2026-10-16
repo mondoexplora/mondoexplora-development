@@ -4,43 +4,25 @@
   "country_code": "CZ",
   "hero_title": "Hotels in Prague",
   "description": "Discover the best hotels in Prague, Czech Republic. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/cpw50uzq09kwdsvfs5dd",
+  "hero_image": "https://images.luxuryescapes.com/tsiuphrnxrcdd7thozhw",
   "hotels": [
     {
-      "vendor_name": "Almanac X Alcron Prague",
+      "vendor_name": "Mandarin Oriental Prague",
       "offer_country_name": "Czech Republic",
       "location_heading": "Prague",
-      "title": "Five-Star Art Deco Heritage Hotel in Prague City Centre with Restaurant, Bar & Spa",
-      "description": "Find yourself enraptured by Art Deco excellence with a stay at this prestigious Luxury Collection hotel in the heart of Prague. Step through the sophisticated marble foyer and be welcomed by an abundance of sparkling facilities, including a rejuvenating wellness area with a fitness centre and two massage rooms, the elegant Alcron restaurant serving authentic Czech cuisine and a moody cocktail bar showcasing a dazzling menu of unique cocktails and elusive spirits.",
+      "title": "14th-Century Heritage Hideaway near Iconic Prague Castle",
+      "description": "Discover Prague's famous landmarks from the Mandarin Oriental Prague, a sophisticated hotel built on the site of a 14th-century Dominican monastery. The hotel's history is evident through the high-gated walls, vaulted ceilings and period features - it's like taking a step back in time. Prague's most iconic sights are at your fingertips, including Charles Bridge and Prague Castle. When you're not exploring the town, enjoy summer nights on Spices Terrace with cocktails and dinner, indulge in a treatment in the spa (housed in a former chapel), or work out in the fitness centre.",
       "location_subheading": "Czech Republic",
-      "price": 349,
-      "original_price": 472,
-      "discount_percentage": 26,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004SPmxAAG",
-      "hero_image": "https://images.luxuryescapes.com/cpw50uzq09kwdsvfs5dd",
-      "image_two": "https://images.luxuryescapes.com/xrpyy7ghsnto02jg1mm6",
-      "image_three": "https://images.luxuryescapes.com/mhz2ph25mnjy1f02stb",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Andaz Prague",
-      "offer_country_name": "Czech Republic",
-      "location_heading": "Prague",
-      "title": "Stylish Prague City Stay by Andaz Hyatt Near Old Town",
-      "description": "Set in Prague’s historic centre, Andaz Prague occupies the former Sugar Palace, a grand Art Nouveau landmark moments from Wenceslas Square and the Powder Tower. The Old Town’s cobbled lanes, designer boutiques and riverside promenades are close by, along with the city’s celebrated Astronomical Clock. Inside, the hotel pairs contemporary Czech design with a spa, fitness studio and elegant dining at Zem. Nearby, Café Imperial serves classic Bohemian dishes beneath ornate ceilings, while the Vltava’s banks lead towards Charles Bridge and Malá Strana",
-      "location_subheading": "Czech Republic",
-      "price": 770,
-      "original_price": 770,
+      "price": 663,
+      "original_price": 663,
       "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z99b4YAB",
-      "hero_image": "https://images.luxuryescapes.com/nake7dp8dhi15a74bsjr",
-      "image_two": "",
-      "image_three": "",
-      "deal_tier": "Luxury Escapes - Tier 2",
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000BdkTrAAJ",
+      "hero_image": "https://images.luxuryescapes.com/tsiuphrnxrcdd7thozhw",
+      "image_two": "https://images.luxuryescapes.com/1iox8qrtsmzikasti5rh",
+      "image_three": "https://images.luxuryescapes.com/ztvjzjxqxh26u5ctrdbp",
+      "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
-      "end_date_utc": "2050-12-31 12:59:59"
+      "end_date_utc": "2026-12-31 12:59:00"
     },
     {
       "vendor_name": "Augustine Hotel Prague",
@@ -61,6 +43,24 @@
       "end_date_utc": "2050-12-01 12:55:06"
     },
     {
+      "vendor_name": "Almanac X Alcron Prague",
+      "offer_country_name": "Czech Republic",
+      "location_heading": "Prague",
+      "title": "Five-Star Art Deco Heritage Hotel in Prague City Centre with Restaurant, Bar & Spa",
+      "description": "Find yourself enraptured by Art Deco excellence with a stay at this prestigious Luxury Collection hotel in the heart of Prague. Step through the sophisticated marble foyer and be welcomed by an abundance of sparkling facilities, including a rejuvenating wellness area with a fitness centre and two massage rooms, the elegant Alcron restaurant serving authentic Czech cuisine and a moody cocktail bar showcasing a dazzling menu of unique cocktails and elusive spirits.",
+      "location_subheading": "Czech Republic",
+      "price": 349,
+      "original_price": 472,
+      "discount_percentage": 26,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004SPmxAAG",
+      "hero_image": "https://images.luxuryescapes.com/cpw50uzq09kwdsvfs5dd",
+      "image_two": "https://images.luxuryescapes.com/xrpyy7ghsnto02jg1mm6",
+      "image_three": "https://images.luxuryescapes.com/mhz2ph25mnjy1f02stb",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
       "vendor_name": "BoHo Hotel Prague",
       "offer_country_name": "Czech Republic",
       "location_heading": "Prague",
@@ -79,22 +79,22 @@
       "end_date_utc": "2026-12-31 12:59:00"
     },
     {
-      "vendor_name": "Mandarin Oriental Prague",
+      "vendor_name": "Andaz Prague",
       "offer_country_name": "Czech Republic",
       "location_heading": "Prague",
-      "title": "14th-Century Heritage Hideaway near Iconic Prague Castle",
-      "description": "Discover Prague's famous landmarks from the Mandarin Oriental Prague, a sophisticated hotel built on the site of a 14th-century Dominican monastery. The hotel's history is evident through the high-gated walls, vaulted ceilings and period features - it's like taking a step back in time. Prague's most iconic sights are at your fingertips, including Charles Bridge and Prague Castle. When you're not exploring the town, enjoy summer nights on Spices Terrace with cocktails and dinner, indulge in a treatment in the spa (housed in a former chapel), or work out in the fitness centre.",
+      "title": "Stylish Prague City Stay by Andaz Hyatt Near Old Town",
+      "description": "Set in Prague’s historic centre, Andaz Prague occupies the former Sugar Palace, a grand Art Nouveau landmark moments from Wenceslas Square and the Powder Tower. The Old Town’s cobbled lanes, designer boutiques and riverside promenades are close by, along with the city’s celebrated Astronomical Clock. Inside, the hotel pairs contemporary Czech design with a spa, fitness studio and elegant dining at Zem. Nearby, Café Imperial serves classic Bohemian dishes beneath ornate ceilings, while the Vltava’s banks lead towards Charles Bridge and Malá Strana",
       "location_subheading": "Czech Republic",
-      "price": 663,
-      "original_price": 663,
+      "price": 770,
+      "original_price": 770,
       "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000BdkTrAAJ",
-      "hero_image": "https://images.luxuryescapes.com/tsiuphrnxrcdd7thozhw",
-      "image_two": "https://images.luxuryescapes.com/1iox8qrtsmzikasti5rh",
-      "image_three": "https://images.luxuryescapes.com/ztvjzjxqxh26u5ctrdbp",
-      "deal_tier": "Luxury Escapes - Tier 3",
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Z99b4YAB",
+      "hero_image": "https://images.luxuryescapes.com/nake7dp8dhi15a74bsjr",
+      "image_two": "",
+      "image_three": "",
+      "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
+      "end_date_utc": "2050-12-31 12:59:59"
     }
   ],
   "seo": {
@@ -114,7 +114,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "hotel_count": 5,
     "average_price": 655,
     "average_discount": 6
