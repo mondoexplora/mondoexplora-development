@@ -12,7 +12,7 @@
       "description": "Explore Barcelona with luxury accommodations",
       "hotel_count": 24,
       "hotel_deals": 24,
-      "avg_price": 694
+      "avg_price": 697
     },
     {
       "name": "Madrid",
@@ -21,7 +21,7 @@
       "description": "Explore Madrid with luxury accommodations",
       "hotel_count": 15,
       "hotel_deals": 15,
-      "avg_price": 582
+      "avg_price": 581
     },
     {
       "name": "Ibiza",
@@ -30,7 +30,7 @@
       "description": "Explore Ibiza with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 774
+      "avg_price": 787
     },
     {
       "name": "Mallorca",
@@ -39,7 +39,7 @@
       "description": "Explore Mallorca with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 1262
+      "avg_price": 1252
     },
     {
       "name": "Spain",
@@ -51,13 +51,13 @@
       "avg_price": 435
     },
     {
-      "name": "Tenerife",
-      "slug": "tenerife",
-      "image": "https://images.luxuryescapes.com/nu3l8i6v1aztrxw209rh",
-      "description": "Explore Tenerife with luxury accommodations",
+      "name": "Santa Cruz de Tenerife",
+      "slug": "santa-cruz-de-tenerife",
+      "image": "https://images.luxuryescapes.com/71yw6yscjdnhyosv14p6",
+      "description": "Explore Santa Cruz de Tenerife with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1168
+      "avg_price": 1748
     }
   ],
   "seo": {
