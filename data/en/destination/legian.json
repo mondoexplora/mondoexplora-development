@@ -4,26 +4,8 @@
   "country_code": "ID",
   "hero_title": "Hotels in Legian",
   "description": "Discover the best hotels in Legian, Indonesia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/q6ur4jx3y5eejrvtvwok",
+  "hero_image": "https://images.luxuryescapes.com/i5uwsfxel5o8ksmbzsjg",
   "hotels": [
-    {
-      "vendor_name": "Anantara Vacation Club Legian",
-      "offer_country_name": "Indonesia",
-      "location_heading": "Legian",
-      "title": "Legian Beachside Apartments with Daily Breakfast, Dinner, Cocktails & Massage",
-      "description": "Set close to the sands of Double Six Beach, this refined Legian retreat puts you within easy reach of Seminyak’s dining scene and Kuta’s lively beach strip. Wander along the shore for sunset views, or head to Beachwalk Shopping Centre and Jalan Legian for cafes, boutiques and local flavour. Accommodation ranges from bright studios to spacious apartment-style suites, with contemporary Balinese touches and a variety of layouts suited to couples, families and groups. Dine on authentic Mexican flavours at La Casa Mexican Sunset Bar and enjoy oceanfront views at The Coffee Club Bali Legian. At Hideaway Spa, unwind with a Balinese massage or make time for the sauna, steam room and jacuzzi. Ngurah Rai International Airport is around 40 minutes away.",
-      "location_subheading": "Indonesia",
-      "price": 549,
-      "original_price": 1193,
-      "discount_percentage": 54,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000bUKIXYA4",
-      "hero_image": "https://images.luxuryescapes.com/q6ur4jx3y5eejrvtvwok",
-      "image_two": "https://images.luxuryescapes.com/l93yhbqv3fgxfnsgm67",
-      "image_three": "https://images.luxuryescapes.com/twhrxvwg6s3qqo1vqihuh",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 5,
-      "end_date_utc": "2026-10-30 12:59:00"
-    },
     {
       "vendor_name": "Anantara Vacation Club Legian",
       "offer_country_name": "Indonesia",
@@ -43,14 +25,32 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Anantara Vacation Club Legian",
+      "offer_country_name": "Indonesia",
+      "location_heading": "Legian",
+      "title": "Legian Beachside Apartments with Daily Breakfast, Dinner, Cocktails & Massage",
+      "description": "Set close to the sands of Double Six Beach, this refined Legian retreat puts you within easy reach of Seminyak’s dining scene and Kuta’s lively beach strip. Wander along the shore for sunset views, or head to Beachwalk Shopping Centre and Jalan Legian for cafes, boutiques and local flavour. Accommodation ranges from bright studios to spacious apartment-style suites, with contemporary Balinese touches and a variety of layouts suited to couples, families and groups. Dine on authentic Mexican flavours at La Casa Mexican Sunset Bar and enjoy oceanfront views at The Coffee Club Bali Legian. At Hideaway Spa, unwind with a Balinese massage or make time for the sauna, steam room and jacuzzi. Ngurah Rai International Airport is around 40 minutes away.",
+      "location_subheading": "Indonesia",
+      "price": 549,
+      "original_price": 1193,
+      "discount_percentage": 54,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000bUKIXYA4",
+      "hero_image": "https://images.luxuryescapes.com/q6ur4jx3y5eejrvtvwok",
+      "image_two": "https://images.luxuryescapes.com/l93yhbqv3fgxfnsgm67",
+      "image_three": "https://images.luxuryescapes.com/twhrxvwg6s3qqo1vqihuh",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-10-30 12:59:00"
+    },
+    {
       "vendor_name": "Pullman Bali Legian Beach",
       "offer_country_name": "Indonesia",
       "location_heading": "Legian",
       "title": "Pullman Bali Beachfront Resort with Rooftop Infinity Pool, Relaxing Spa & Three Bars",
       "description": "Relax in the pinnacle of paradise at this five-star beachfront haven perfectly poised between Bali's famous Kuta and Legian beaches. While the local area is dotted with vibrant bars and trendy restaurants, this luxurious hotel feels quiet and exclusive thanks to a ring of Balinese tropical gardens, hiding three pools, a breathtaking spa and an onsite restaurant. There's plenty to discover beyond the hotel - including some of Bali's best day clubs and boutique shopping - but this luxury oasis has plenty to entice you to stay and simply lounge within the hotel's grounds. Treat yourself to a global dining affair at Montage or opt for something a little more relaxed with a drink and small bite at one of three stunning bars.",
       "location_subheading": "Indonesia",
-      "price": 235,
-      "original_price": 235,
+      "price": 233,
+      "original_price": 233,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006Ii000002IlpuIAC",
       "hero_image": "https://images.luxuryescapes.com/d636szrlt9s6kfadtyi",
@@ -114,9 +114,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-18",
+    "last_updated": "2026-10-19",
     "hotel_count": 5,
-    "average_price": 471,
+    "average_price": 470,
     "average_discount": 11
   }
 }

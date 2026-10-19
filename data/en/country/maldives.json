@@ -3,17 +3,8 @@
   "code": "MV",
   "hero_title": "Maldives Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Maldives.",
-  "hero_image": "https://images.luxuryescapes.com/3yrq85azbjl1uaou5prq",
+  "hero_image": "https://images.luxuryescapes.com/srnikjrp8kxa2574ylzb",
   "popular_destinations": [
-    {
-      "name": "North Malé Atoll",
-      "slug": "north-malé-atoll",
-      "image": "https://images.luxuryescapes.com/3yrq85azbjl1uaou5prq",
-      "description": "Explore North Malé Atoll with luxury accommodations",
-      "hotel_count": 3,
-      "hotel_deals": 3,
-      "avg_price": 2957
-    },
     {
       "name": "South Ari Atoll",
       "slug": "south-ari-atoll",
@@ -21,7 +12,7 @@
       "description": "Explore South Ari Atoll with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 3300
+      "avg_price": 3343
     },
     {
       "name": "Baa Atoll",
@@ -30,7 +21,16 @@
       "description": "Explore Baa Atoll with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 5082
+      "avg_price": 5076
+    },
+    {
+      "name": "North Malé Atoll",
+      "slug": "north-malé-atoll",
+      "image": "https://images.luxuryescapes.com/lnfhkuclags0sia5ixte",
+      "description": "Explore North Malé Atoll with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 4048
     },
     {
       "name": "Kooddoo Island",
@@ -44,11 +44,11 @@
     {
       "name": "Hadahaa",
       "slug": "hadahaa",
-      "image": "https://images.luxuryescapes.com/ckrqz9yl8p9bxd3gb489",
+      "image": "https://images.luxuryescapes.com/5jr42t3ijsh1ttnzzuj8",
       "description": "Explore Hadahaa with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 3758
+      "avg_price": 3760
     },
     {
       "name": "Malé",
@@ -57,7 +57,7 @@
       "description": "Explore Malé with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1259
+      "avg_price": 1352
     }
   ],
   "seo": {
