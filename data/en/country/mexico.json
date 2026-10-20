@@ -3,8 +3,17 @@
   "code": "MX",
   "hero_title": "Mexico Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Mexico.",
-  "hero_image": "https://images.luxuryescapes.com/txysx67dcxd9o9n6qvf",
+  "hero_image": "https://images.luxuryescapes.com/ni6b0c93uqyeb8ttnhc",
   "popular_destinations": [
+    {
+      "name": "Cancun",
+      "slug": "cancun",
+      "image": "https://images.luxuryescapes.com/ni6b0c93uqyeb8ttnhc",
+      "description": "Explore Cancun with luxury accommodations",
+      "hotel_count": 7,
+      "hotel_deals": 7,
+      "avg_price": 1008
+    },
     {
       "name": "Cabo San Lucas",
       "slug": "cabo-san-lucas",
@@ -12,16 +21,7 @@
       "description": "Explore Cabo San Lucas with luxury accommodations",
       "hotel_count": 7,
       "hotel_deals": 7,
-      "avg_price": 1419
-    },
-    {
-      "name": "Cancun",
-      "slug": "cancun",
-      "image": "https://images.luxuryescapes.com/ni6b0c93uqyeb8ttnhc",
-      "description": "Explore Cancun with luxury accommodations",
-      "hotel_count": 6,
-      "hotel_deals": 6,
-      "avg_price": 1097
+      "avg_price": 1411
     },
     {
       "name": "Los Cabos",
@@ -30,7 +30,7 @@
       "description": "Explore Los Cabos with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 1535
+      "avg_price": 1488
     },
     {
       "name": "Mexico City",
@@ -39,7 +39,7 @@
       "description": "Explore Mexico City with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 788
+      "avg_price": 787
     },
     {
       "name": "Playa del Carmen",
@@ -48,7 +48,7 @@
       "description": "Explore Playa del Carmen with luxury accommodations",
       "hotel_count": 4,
       "hotel_deals": 4,
-      "avg_price": 1474
+      "avg_price": 1380
     },
     {
       "name": "Nuevo Vallarta",
@@ -57,7 +57,7 @@
       "description": "Explore Nuevo Vallarta with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 1020
+      "avg_price": 1021
     }
   ],
   "seo": {
