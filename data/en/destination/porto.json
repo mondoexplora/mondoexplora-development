@@ -61,6 +61,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "Wine & Books Hotels Porto - Small Luxury Hotels Of The World",
+      "offer_country_name": "Portugal",
+      "location_heading": "Porto",
+      "title": "Porto Boutique Luxury with Daily Breakfast, Rooftop Bar & Douro River Cruise Upgrades Available",
+      "description": "Discover the storied charm of Porto with a stay at this five-star books-and-wine-inspired retreat in the UNESCO-listed historic centre. Here, centuries-old architecture, literary heritage and famed port wine meet in perfect harmony. From leisurely strolls along the Douro River to tastings at local wine cellars, every corner invites exploration. Inside the hotel, Wine & Books Cafe offers the perfect spot to unwind with a light bite and a good read, while the rooftop bar serves panoramic views alongside a curated selection of wines and cocktails. At Tasca da Memória, traditional Portuguese dishes are reimagined using fresh, local ingredients. For relaxation, retreat to the onsite wellness spa, complete with sauna and indoor pool. Whether you’re wandering the colourful lanes of the Ribeira district or sampling regional flavours at the Bolhão Market, this hotel is a refined gateway to the culture, cuisine and character that make this city truly unforgettable.",
+      "location_subheading": "Portugal",
+      "price": 349,
+      "original_price": 712,
+      "discount_percentage": 51,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000hofdVYAQ",
+      "hero_image": "https://images.luxuryescapes.com/awmvnch41p1pvhplhl",
+      "image_two": "https://images.luxuryescapes.com/ujrxvvaf4186vnz9f75",
+      "image_three": "https://images.luxuryescapes.com/wdkccnwcmu2xqq9scj9a",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-12-04 12:59:00"
+    },
+    {
       "vendor_name": "Casa da Companhia",
       "offer_country_name": "Portugal",
       "location_heading": "Porto",
@@ -168,9 +186,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-23",
-    "hotel_count": 8,
-    "average_price": 433,
-    "average_discount": 14
+    "last_updated": "2026-10-24",
+    "hotel_count": 9,
+    "average_price": 424,
+    "average_discount": 18
   }
 }
