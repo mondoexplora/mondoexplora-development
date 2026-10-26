@@ -13,8 +13,8 @@
       "title": "Contemporary Hong Kong Escape Just Five Minutes from Airport with Outdoor Pool & Complimentary Shuttle",
       "description": "Experience the best of Hong Kong with a stay in the heart of Tung Chung. Perfectly located on Lantau Island - just five minutes from Hong Kong International Airport (and with a complimentary shuttle) - this stylish haven is your gateway to adventure, with Hong Kong Disneyland within easy reach and the Ngong Ping 360 Cable Car both offering seamless access to the Big Buddha and Po Lin Monastery. Indulge in culinary delights at Olea, Essence or Moccato and jump into a beautiful outdoor pool. Direct access to Tung Chung MTR puts the city’s vibrant heart within easy reach, while the adjacent Citygate Outlets offer irresistible shopping treasures.",
       "location_subheading": "Hong Kong",
-      "price": 340,
-      "original_price": 340,
+      "price": 339,
+      "original_price": 339,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000CnP1bYAF",
       "hero_image": "https://images.luxuryescapes.com/6ndi3nu6r4xb4zz6u8k",
@@ -31,8 +31,8 @@
       "title": "Modern Hong Kong Island Escape near Ferry Terminal with Onsite Restaurant & Bar",
       "description": "Step into a haven where modern comfort meets cultural charm, with breathtaking views of Victoria Harbour as your backdrop. Perfectly located in the heart of Sheung Wan, the hotel offers unparalleled convenience, with a tram stop right at your door, the HK-Macau Ferry Terminal just a five-minute walk away and the nearest Mass Transit Railway station within easy reach. The hotel's chic rooms offer stunning city or harbour views, while the Taste Restaurant serves a delightful array of international dishes. Start your day with coffee at the Starbucks located onsite before wandering Hollywood Road’s historical gems, including Man Mo Temple, Tai Kwun and Hollywood Road.",
       "location_subheading": "Hong Kong",
-      "price": 342,
-      "original_price": 342,
+      "price": 341,
+      "original_price": 341,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Elhz9YAB",
       "hero_image": "https://images.luxuryescapes.com/gnn4fg57hoekdgkjx9s",
@@ -49,8 +49,8 @@
       "title": "Five-Star Hong Kong City Break with Nine Restaurants & Multi-Award-Winning Spa",
       "description": "A sophisticated stay awaits at the legendary Mandarin Oriental, Hong Kong, an icon of the city's luxury hotel landscape since the 1960s. Magnificent views, unrivalled service and cutting-edge facilities put this urban sanctuary on the map, which sits in the heart of the bustling metropolis. Both the hotel and its dreamy, world-class spa were awarded prestigious five-star status by Forbes Travel Guide in 2022. The property's incredible nine bars and restaurants, two of which possess Michelin stars, are renowned for their quality and draw in locals and visitors alike. Head to Man Wah for traditional Cantonese, The Aubrey for Japanese Izakaya and Captain's Bar for classic cocktails - and that's just the beginning.",
       "location_subheading": "Hong Kong",
-      "price": 2082,
-      "original_price": 2082,
+      "price": 2084,
+      "original_price": 2084,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009E2xTAAS",
       "hero_image": "https://images.luxuryescapes.com/6lv0zoukbyfgrp45e8f",
@@ -151,6 +151,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "The Hari Hong Kong",
+      "offer_country_name": "Hong Kong",
+      "location_heading": "Hong Kong",
+      "title": "Stylish Five-Star Hong Kong Escape at The Hari by IHG",
+      "description": "The Hari Hong Kong brings Tara Bernerd’s design to the meeting point of Wan Chai and Causeway Bay. Its 210 rooms and suites combine rich timber, velvet furnishings and marble bathrooms, with three rooftop suites offering private terraces. Relax at The Lounge, enjoy Italian dining at Lucciola Restaurant & Bar, or explore Japanese dishes at Zoku and drinks at The Terrace. Nearby, discover the neighbourhood’s shops and galleries, Causeway Bay MTR station and the Hong Kong Convention and Exhibition Centre.",
+      "location_subheading": "Hong Kong",
+      "price": 733,
+      "original_price": 733,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000jUd6rYAC",
+      "hero_image": "https://images.luxuryescapes.com/jqgtx5ph4apxl2wqltmt",
+      "image_two": "https://images.luxuryescapes.com/q39akruhj5oufvhtmyt",
+      "image_three": "https://images.luxuryescapes.com/wxhcgi8y58ls3krkrb",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
+    },
+    {
       "vendor_name": "Hyatt Regency Hong Kong, Sha Tin",
       "offer_country_name": "Hong Kong",
       "location_heading": "Hong Kong",
@@ -222,9 +240,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-25",
-    "hotel_count": 11,
-    "average_price": 858,
+    "last_updated": "2026-10-26",
+    "hotel_count": 12,
+    "average_price": 848,
     "average_discount": 0
   }
 }

@@ -21,16 +21,7 @@
       "description": "Explore Efate with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1169
-    },
-    {
-      "name": "Santo Espiritu",
-      "slug": "santo-espiritu",
-      "image": "https://images.luxuryescapes.com/bukvjvhxltmcj38y8e0i",
-      "description": "Explore Santo Espiritu with luxury accommodations",
-      "hotel_count": 1,
-      "hotel_deals": 1,
-      "avg_price": 739
+      "avg_price": 1160
     },
     {
       "name": "Eratap",
@@ -39,7 +30,7 @@
       "description": "Explore Eratap with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1327
+      "avg_price": 1317
     },
     {
       "name": "Tanna",
@@ -49,6 +40,15 @@
       "hotel_count": 1,
       "hotel_deals": 1,
       "avg_price": 519
+    },
+    {
+      "name": "x",
+      "slug": "x",
+      "image": "https://images.luxuryescapes.com/bukvjvhxltmcj38y8e0i",
+      "description": "Explore x with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 738
     }
   ],
   "seo": {

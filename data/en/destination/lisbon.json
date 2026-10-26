@@ -79,6 +79,24 @@
       "end_date_utc": "2050-12-31 12:59:00"
     },
     {
+      "vendor_name": "H10 Duque de Loulé",
+      "offer_country_name": "Portugal",
+      "location_heading": "Lisbon",
+      "title": "Charming Central Lisbon Escape with Daily Breakfast & Panoramic Rooftop Bar",
+      "description": "At H10 Duque de Loulé, Limão Rooftop Bar gives you a panoramic introduction to the capital, with views across terracotta rooftops towards the Tagus estuary. Downstairs, designer Lázaro Rosa-Violán brings a fresh perspective to Portuguese interiors within a beautifully restored historic building. Portuguese tiles and decorative ceramics carry that character into Azul e Branco, a light-filled restaurant serving Mediterranean cuisine inspired by local flavours. For a quieter drink, settle into Equestre Bar-Library with a glass of wine and a few chapters. Head out to browse the designer boutiques along nearby Avenida da Liberdade, Lisbon’s grand shopping boulevard, then venture into the old town to explore Alfama’s winding lanes beneath São Jorge Castle. The city’s yellow trams and lively waterfront squares give you plenty of reasons to keep wandering, with a pastel de nata stop along the way.",
+      "location_subheading": "Portugal",
+      "price": 289,
+      "original_price": 705,
+      "discount_percentage": 59,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gRRGrYAO",
+      "hero_image": "https://images.luxuryescapes.com/c0xp4nyht88g5t1x85tm",
+      "image_two": "https://images.luxuryescapes.com/dvsxgfhrg7gy4qqxs37s",
+      "image_three": "https://images.luxuryescapes.com/fut0waozokrxgj0iv2qu",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 2,
+      "end_date_utc": "2026-11-23 12:59:00"
+    },
+    {
       "vendor_name": "Sofitel Lisbon Liberdade",
       "offer_country_name": "Portugal",
       "location_heading": "Lisbon",
@@ -204,9 +222,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-25",
-    "hotel_count": 10,
-    "average_price": 507,
-    "average_discount": 13
+    "last_updated": "2026-10-26",
+    "hotel_count": 11,
+    "average_price": 487,
+    "average_discount": 17
   }
 }
