@@ -1,37 +1,37 @@
 {
   "city": "x",
-  "country": "Vanuatu",
-  "country_code": "VU",
+  "country": "Indonesia",
+  "country_code": "ID",
   "hero_title": "Hotels in x",
-  "description": "Discover the best hotels in x, Vanuatu. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/bukvjvhxltmcj38y8e0i",
+  "description": "Discover the best hotels in x, Indonesia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/pmua5odtlg8k976ng4k",
   "hotels": [
     {
-      "vendor_name": "Barrier Beach Resort",
-      "offer_country_name": "Vanuatu",
+      "vendor_name": "Aksari Villa Seminyak",
+      "offer_country_name": "Indonesia",
       "location_heading": "x",
-      "title": "Secluded Vanuatu Beachfront Oasis with Onsite Spa",
-      "description": "Resting on 150m of white-sand beachfront on Vanuatu’s coastline, Barrier Beach Resort is an oasis of gorgeous blue water, kaleidoscopic reef and world-class service. This beautiful Espiritu Santo retreat is an architect-designed haven made up of just a handful of private wooden fares (traditional bungalows), each set up for the ultimate in beachfront luxury, just 20 minutes from the closest airport. With hypnotisingly blue ocean views in front and palm forest behind, each fare is completely private. Spend your days swaying in a hammock between two palms, cycling to the crystal-clear Riri Blue Hole or taking romantic strolls along nearby Champagne Beach - just a 30-minute drive away. Feel any and all tension melt away as you’re indulged with treatments at Moyyan Day Spa and tantalised with a bespoke menu of fresh-off-the-fishing-line seafood.",
-      "location_subheading": "Vanuatu",
-      "price": 740,
-      "original_price": 740,
-      "discount_percentage": 0,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003GkYLAA0",
-      "hero_image": "https://images.luxuryescapes.com/bukvjvhxltmcj38y8e0i",
-      "image_two": "https://images.luxuryescapes.com/aq22n76h3mo8ao6i1t3q",
-      "image_three": "https://images.luxuryescapes.com/xvww77vqtgi7vmflxtqt",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 2,
+      "title": "Seminyak Luxury Villa Stay Minutes from Double Six Beach",
+      "description": "A serene haven in the heart of Bali's famed beach district, Aksari Villa Seminyak delivers luxury villas perfect for romantic escapes or soothing stays. Ideally situated within close range of refined restaurants and chic boutiques, Aksari delivers easy access to Seminyak's hottest attractions. Plunge into your private pool, relish the peace of your private villa or treat yourself to a blissful spa treatment before heading to one of the many nearby beaches to savour a Seminyak sunset.",
+      "location_subheading": "Indonesia",
+      "price": 502,
+      "original_price": 598,
+      "discount_percentage": 16,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000CQPMCAA5",
+      "hero_image": "https://images.luxuryescapes.com/pmua5odtlg8k976ng4k",
+      "image_two": "https://images.luxuryescapes.com/ryf30fym1cydlkl5061",
+      "image_three": "https://images.luxuryescapes.com/9jfvwhl84lyum6eeqmu",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
     }
   ],
   "seo": {
-    "title": "Hotels in x - Vanuatu Hotels & Travel Guide 2024",
-    "description": "Find the best hotels in x, Vanuatu with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "title": "Hotels in x - Indonesia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in x, Indonesia with exclusive deals. Book your perfect getaway with up to 60% off.",
     "keywords": [
       "x hotels",
       "x travel",
-      "vanuatu hotels"
+      "indonesia hotels"
     ],
     "canonical": "https://mondoexplora.com/en/destination/x",
     "hreflang": {
@@ -42,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-27",
+    "last_updated": "2026-10-28",
     "hotel_count": 1,
-    "average_price": 740,
-    "average_discount": 0
+    "average_price": 502,
+    "average_discount": 16
   }
 }

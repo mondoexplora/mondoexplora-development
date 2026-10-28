@@ -67,8 +67,8 @@
       "title": "Coastal-Cool Danang City Break near My Khe Beach",
       "description": "Embrace surfside serenity in Vietnam’s coastal heart with a stay at the delightful voco Ma Belle Danang, an IHG Hotel. Perfectly positioned within strolling distance of My Khe Beach’s legendary breaks, this design-led hotel offers the perfect base to discover Danang’s cultural brilliance. Return to laidback Nikkei-inspired plates and spectacular panoramas at the vibrant rooftop restaurant and bar or enjoy quiet moments lazing by the hotel’s mirage-like outdoor pool.",
       "location_subheading": "Vietnam",
-      "price": 172,
-      "original_price": 172,
+      "price": 177,
+      "original_price": 177,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000DNRG4AAP",
       "hero_image": "https://images.luxuryescapes.com/qkq8d8tp59ie39yac6j",
@@ -115,6 +115,24 @@
       "end_date_utc": "2026-10-31 12:59:00"
     },
     {
+      "vendor_name": "KOI RESORT & RESIDENCE DA NANG",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Da Nang",
+      "title": "Da Nang Beachfront Escape with Daily Breakfast, Daily Lunch or Dinner & Free-Flow Cocktail Hour",
+      "description": "Perched on Da Nang’s coastline, this contemporary resort is in a prime location for exploring all the best the region has to offer. It sits just steps from the powder-fine sands of Non Nuoc Beach, one of Vietnam's most sought-after shorelines, and moments from the picturesque scenery of the Marble Mountains. Plus, venture for just 30 minutes by car to reach the charming, UNESCO-listed Hoi An Ancient Town. The resort's sleek rooms and villas are complemented by five onsite bars and restaurants with authentic Vietnamese dining as well as modern Asian fusion. After hours of swimming in crystal-clear waters at the beach, retreat to Koi Spa & Wellness for an aromatherapy-infused massage to relax and fully unwind. With a kids' club keeping little ones entertained, this is coastal Vietnamese luxury for the whole family.",
+      "location_subheading": "Vietnam",
+      "price": 599,
+      "original_price": 1932,
+      "discount_percentage": 69,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000YUfOkYAL",
+      "hero_image": "https://images.luxuryescapes.com/7si9m8hd808gl8wwib",
+      "image_two": "https://images.luxuryescapes.com/xzneppmqftxd3ur572t",
+      "image_three": "https://images.luxuryescapes.com/xvix44todo7edpcrzfli",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 5,
+      "end_date_utc": "2026-11-24 12:59:00"
+    },
+    {
       "vendor_name": "Bliss Hoi An Beach Resort & Wellness",
       "offer_country_name": "Vietnam",
       "location_heading": "Da Nang",
@@ -150,9 +168,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-27",
-    "hotel_count": 7,
-    "average_price": 370,
-    "average_discount": 14
+    "last_updated": "2026-10-28",
+    "hotel_count": 8,
+    "average_price": 399,
+    "average_discount": 21
   }
 }
