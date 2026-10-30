@@ -13,8 +13,8 @@
       "title": "Five-Star Heritage Mansion Retreat on Cape Town's Atlantic Seaboard with Spa, Restaurant & Rooftop Bar",
       "description": "Journey to this boutique Cape Town escape at Ellerman House, a beacon of sophistication perched on the slopes of Lion's Head. This historic mansion, now a world-class hotel, offers breathtaking views of the Atlantic Ocean from every elegant corner. Explore the vibrant Victoria & Albert Waterfront, dine at the city's top restaurants, or visit the nearby Table Mountain. Back at the hotel, savour the finest South African wines in the cellar, with over 9,000 labels to browse. Admire the country's most extensive private art collection, unwind in the sumptuous spa, dine on flavourful South African cuisine and catch a sensational sunset with a cocktail in hand - all from the comfort of this exquisite cliffside retreat.",
       "location_subheading": "South Africa",
-      "price": 3887,
-      "original_price": 4135,
+      "price": 3886,
+      "original_price": 4134,
       "discount_percentage": 6,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000FO91sAAD",
       "hero_image": "https://images.luxuryescapes.com/wqlnvgdridgnyx3ka6bh",
@@ -31,8 +31,8 @@
       "title": "Five-Star One&Only Cape Town Waterfront Resort with Table Mountain Views",
       "description": "Experience a stay to remember at the five-star One&Only Cape Town Resort - perfectly positioned alongside the fashionable Victoria & Alfred Waterfront and framed by the spectacular Table Mountain. This vibrant resort offers everything you need, including world-class Japanese-Peruvian fare at Africa’s first Nobu restaurant, an impressive infinity-edge pool, a dedicated KidsOnly programme, plus a sprawling island spa in the middle of the resort. Admire the legendary Table Mountain from this haven, then explore further afield with restorative yoga classes and tours with an expert mountain guide (surcharges apply) or dive into the sparkling beaches of Cape Town, with shimmering azure waters and sensational sunset views.",
       "location_subheading": "South Africa",
-      "price": 3452,
-      "original_price": 3452,
+      "price": 3451,
+      "original_price": 3451,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000003Gku7AAC",
       "hero_image": "https://images.luxuryescapes.com/v1vledftkhxcbfobmyoq",
@@ -41,6 +41,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Hyatt Regency Cape Town",
+      "offer_country_name": "South Africa",
+      "location_heading": "Cape Town",
+      "title": "Five-Star Cape Town City Sophistication by Hyatt Regency",
+      "description": "Set in Cape Town’s historic Bo-Kaap, this polished city retreat places you steps from cobbled streets, candy-coloured facades and the scent of Cape Malay kitchens. Signal Hill and the V&A Waterfront are within easy reach, while Table Mountain rises dramatically beyond the city skyline. Inside, sleek rooms and suites pair contemporary design with views across the city or Table Mountain. Spend evenings over refined South African fare at 126 Cape Kitchen & Cafe, or wander to nearby Bree Street for acclaimed dining at spots such as Bouchon Bistro and Clarke’s Bar & Dining Room",
+      "location_subheading": "South Africa",
+      "price": 412,
+      "original_price": 412,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000hH9nsYAC",
+      "hero_image": "https://images.luxuryescapes.com/xdo6oro3mlcwln7nplz",
+      "image_two": "https://images.luxuryescapes.com/lqwcauuxwoomhz611l1",
+      "image_three": "https://images.luxuryescapes.com/au79y3esyilh62gajlm",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
     },
     {
       "vendor_name": "Fairmont Cape Grace",
@@ -78,9 +96,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-29",
-    "hotel_count": 3,
-    "average_price": 3380,
+    "last_updated": "2026-10-30",
+    "hotel_count": 4,
+    "average_price": 2637,
     "average_discount": 2
   }
 }

@@ -1,0 +1,34 @@
+{
+  "name": "Serbia",
+  "code": "RS",
+  "hero_title": "Serbia Travel Guide",
+  "description": "Discover the perfect blend of culture, luxury, and adventure in Serbia.",
+  "hero_image": "https://images.luxuryescapes.com/z0zm1bncttlzfzkzsamp",
+  "popular_destinations": [
+    {
+      "name": "BELGRADE",
+      "slug": "belgrade",
+      "image": "https://images.luxuryescapes.com/z0zm1bncttlzfzkzsamp",
+      "description": "Explore BELGRADE with luxury accommodations",
+      "hotel_count": 1,
+      "hotel_deals": 1,
+      "avg_price": 461
+    }
+  ],
+  "seo": {
+    "title": "Serbia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Serbia with exclusive deals. Explore luxury accommodations and travel guides.",
+    "keywords": [
+      "serbia hotels",
+      "serbia travel",
+      "serbia luxury"
+    ],
+    "canonical": "https://mondoexplora.com/en/country/serbia",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/country/serbia",
+      "es": "https://mondoexplora.com/es/country/serbia",
+      "fr": "https://mondoexplora.com/fr/country/serbia",
+      "it": "https://mondoexplora.com/it/country/serbia"
+    }
+  }
+}

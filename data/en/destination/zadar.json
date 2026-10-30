@@ -1,0 +1,50 @@
+{
+  "city": "Zadar",
+  "country": "Croatia",
+  "country_code": "HR",
+  "hero_title": "Hotels in Zadar",
+  "description": "Discover the best hotels in Zadar, Croatia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/iuerv20idgjycfn14jw",
+  "hotels": [
+    {
+      "vendor_name": "Hyatt Regency Zadar",
+      "offer_country_name": "Croatia",
+      "location_heading": "Zadar",
+      "title": "Sophisticated Zadar Seafront Escape with Hyatt Regency Luxury",
+      "description": "Set on Zadar’s seafront beside the city’s historic core, this polished Adriatic retreat places Roman ruins, marble lanes and the 9th-century Church of St Donatus within easy reach. The Sea Organ and Sun Salutation are a short stroll away, where waves create music against the waterfront promenade. Inside, sleek rooms and suites pair contemporary lines with views across the old town or glittering coast. Spend afternoons at the spa and indoor pool, then dine on Dalmatian seafood in the hotel’s restaurants or wander to Pet Bunara for black risotto and grilled Adriatic fish",
+      "location_subheading": "Croatia",
+      "price": 397,
+      "original_price": 397,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000hH9nwYAC",
+      "hero_image": "https://images.luxuryescapes.com/iuerv20idgjycfn14jw",
+      "image_two": "https://images.luxuryescapes.com/xgbdw281m5xxgmlin5",
+      "image_three": "https://images.luxuryescapes.com/gz2w4m7hy8futp693k7",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Zadar - Croatia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Zadar, Croatia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "zadar hotels",
+      "zadar travel",
+      "croatia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/zadar",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/zadar",
+      "es": "https://mondoexplora.com/es/destination/zadar",
+      "fr": "https://mondoexplora.com/fr/destination/zadar",
+      "it": "https://mondoexplora.com/it/destination/zadar"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-10-30",
+    "hotel_count": 1,
+    "average_price": 397,
+    "average_discount": 0
+  }
+}

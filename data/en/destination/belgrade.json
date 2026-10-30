@@ -1,0 +1,50 @@
+{
+  "city": "BELGRADE",
+  "country": "Serbia",
+  "country_code": "RS",
+  "hero_title": "Hotels in BELGRADE",
+  "description": "Discover the best hotels in BELGRADE, Serbia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/z0zm1bncttlzfzkzsamp",
+  "hotels": [
+    {
+      "vendor_name": "Hyatt Regency Belgrade",
+      "offer_country_name": "Serbia",
+      "location_heading": "BELGRADE",
+      "title": "Sophisticated Hyatt Regency Belgrade Stay in the Heart of New Belgrade",
+      "description": "Set on the banks of the Sava in Belgrade’s New Belgrade district, this polished five-star retreat places you moments from Knez Mihailova’s grand boutiques, Kalemegdan Fortress and the confluence of the Sava and Danube. Contemporary rooms and suites pair sleek lines with marble bathrooms, with many gazing across the river or city skyline. Between outings, dine on refined international fare at Metropolitan Grill or settle into the Tea House for pastries and afternoon tea. A serene spa, indoor pool and fitness centre offer a restorative pause, while nearby Beton Hala draws locals for riverfront dining and late-night cocktails",
+      "location_subheading": "Serbia",
+      "price": 461,
+      "original_price": 461,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000hH9noYAC",
+      "hero_image": "https://images.luxuryescapes.com/z0zm1bncttlzfzkzsamp",
+      "image_two": "https://images.luxuryescapes.com/i7un5aza8k8qwjwh4d",
+      "image_three": "https://images.luxuryescapes.com/9s01xp32t9d0l24fy3vu",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:59"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in BELGRADE - Serbia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in BELGRADE, Serbia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "belgrade hotels",
+      "belgrade travel",
+      "serbia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/belgrade",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/belgrade",
+      "es": "https://mondoexplora.com/es/destination/belgrade",
+      "fr": "https://mondoexplora.com/fr/destination/belgrade",
+      "it": "https://mondoexplora.com/it/destination/belgrade"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-10-30",
+    "hotel_count": 1,
+    "average_price": 461,
+    "average_discount": 0
+  }
+}
