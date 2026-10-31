@@ -4,25 +4,25 @@
   "country_code": "LK",
   "hero_title": "Hotels in Galle",
   "description": "Discover the best hotels in Galle, Sri Lanka. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/mkkc4scohz1whbry81",
+  "hero_image": "https://images.luxuryescapes.com/eg0lztysyq1yz4jxhxe",
   "hotels": [
     {
-      "vendor_name": "The Fortress Resort & Spa Sri Lanka",
+      "vendor_name": "Otherland Galle",
       "offer_country_name": "Sri Lanka",
       "location_heading": "Galle",
-      "title": "Sri Lanka Beachfront Luxury with Daily Breakfast, Nightly Dinner & Free-Flow Cocktail Hour",
-      "description": "Styled after the ramparts of historic Galle Fort and set on a private stretch of Sri Lanka's southern coast, The Fortress Resort and Spa blends Dutch colonial heritage with contemporary design. The cobbled streets, Portuguese churches and colourful bazaars of Galle's old town are only 30 minutes by car, while the stilt fishermen of Koggala cast their lines just beyond the resort's shoreline. The experience here is unhurried and deeply considered. Senses Spa fuses traditional Ayurveda and Thai healing techniques, delivering a truly distinctive approach to wellness. Beyond the spa, a sweeping infinity pool faces the Indian Ocean, three dining venues span from authentic Sri Lankan to wood-fired pizza, and the beachfront provides a quietly spectacular setting for doing very little at all.",
+      "title": "Grand Opening: Sri Lanka Surf-Inspired Beachside Escape with Daily Breakfast, Nightly Dinner & Cocktails",
+      "description": "Surf, vinyl and long balmy nights spent on the rooftop: this brand-new Galle beachfront escape offers all three in abundance on Sri Lanka's mangrove-flecked southern coast, with the spectacular Indian Ocean a constant companion. Just a short drive from Galle Fort, it’s the first international hotel from the Otherland brand - and a fresh take on the Sri Lanka coastal stay, made for couples and friends who love beach days and cherish great design. Spend your mornings savouring barista-poured coffee at Bar-kery, the hotel's ground-floor café; after days spent chasing the surf, return to rooftop restaurant, cocktail bar and pool club Creatures for poolside pina coladas and DJ-led events.",
       "location_subheading": "Sri Lanka",
-      "price": 539,
-      "original_price": 1418,
-      "discount_percentage": 62,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000V1Q59YAF",
-      "hero_image": "https://images.luxuryescapes.com/mkkc4scohz1whbry81",
-      "image_two": "https://images.luxuryescapes.com/u8419go9l9hcetisr036",
-      "image_three": "https://images.luxuryescapes.com/hfbxe0n6xzuchbz3nv",
-      "deal_tier": "Luxury Escapes - Tier 2",
+      "price": 399,
+      "original_price": 1140,
+      "discount_percentage": 65,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gUuRCYA0",
+      "hero_image": "https://images.luxuryescapes.com/eg0lztysyq1yz4jxhxe",
+      "image_two": "https://images.luxuryescapes.com/rh6w040tyvpiypdh7d11g",
+      "image_three": "https://images.luxuryescapes.com/qtrthirqklk3wrtcftjj",
+      "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 3,
-      "end_date_utc": "2026-10-31 12:59:00"
+      "end_date_utc": "2027-01-28 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-30",
+    "last_updated": "2026-10-31",
     "hotel_count": 1,
-    "average_price": 539,
-    "average_discount": 62
+    "average_price": 399,
+    "average_discount": 65
   }
 }

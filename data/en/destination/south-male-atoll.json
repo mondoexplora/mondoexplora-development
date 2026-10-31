@@ -4,8 +4,26 @@
   "country_code": "MV",
   "hero_title": "Hotels in South Male Atoll",
   "description": "Discover the best hotels in South Male Atoll, Maldives. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/esd8xyxibnkbets4wabv",
+  "hero_image": "https://images.luxuryescapes.com/vqy4mp8g8bxbioaqztcd",
   "hotels": [
+    {
+      "vendor_name": "SAii Lagoon Maldives, Curio Collection by Hilton",
+      "offer_country_name": "Maldives",
+      "location_heading": "South Male Atoll",
+      "title": "Maldives Family-Friendly Escape with Daily Breakfast, Nightly Dinner & Speedboat Transfers",
+      "description": "Offering modern accommodations for couples and families at exceptional value, this dreamlike island oasis brings Maldives luxury within easier reach than ever before. Part of the incredible CROSSROADS Maldives complex, just a 15-minute boat ride from Malé, this sister property to the iconic Hard Rock Hotel Maldives is surrounded by the translucent waters of the Emboodhoo Lagoon. Enjoy seamless access to The Marina @ CROSSROADS, boasting even more dining, shopping and entertainment options. Taste your way across several onsite restaurants, find your zen at SAii Spa or plunge into the gleaming pool that looks out across the ocean. Set sail from the prestigious Yacht Marina @ CROSSROADS, expand your local know-how at the Marine Discovery Centre and Maldives Discovery Centre, or enjoy complimentary resort activities such as sunrise yoga, aqua gym classes and Zumba. Travelling with children? Koimala & Maalimi’s Junior Beach Club and Camp will entertain for hours and hours, so you can unwind in peace.",
+      "location_subheading": "Maldives",
+      "price": 1549,
+      "original_price": 3602,
+      "discount_percentage": 57,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000jm1PhYAI",
+      "hero_image": "https://images.luxuryescapes.com/vqy4mp8g8bxbioaqztcd",
+      "image_two": "https://images.luxuryescapes.com/6zs04yxo4iku7mpwf5z",
+      "image_three": "https://images.luxuryescapes.com/iwtxco00pjegwphiy95",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2027-01-28 12:59:00"
+    },
     {
       "vendor_name": "Hard Rock Hotel Maldives",
       "offer_country_name": "Maldives",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-30",
-    "hotel_count": 1,
-    "average_price": 1889,
-    "average_discount": 54
+    "last_updated": "2026-10-31",
+    "hotel_count": 2,
+    "average_price": 1719,
+    "average_discount": 56
   }
 }
