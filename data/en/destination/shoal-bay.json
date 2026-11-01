@@ -4,26 +4,8 @@
   "country_code": "AU",
   "hero_title": "Hotels in Shoal Bay",
   "description": "Discover the best hotels in Shoal Bay, Australia. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/xrx7bo3ctccbfz4o02e",
+  "hero_image": "https://images.luxuryescapes.com/sq5kyxzqfi610aayot9",
   "hotels": [
-    {
-      "vendor_name": "Ramada Resort by Wyndham Shoal Bay",
-      "offer_country_name": "Australia",
-      "location_heading": "Shoal Bay",
-      "title": "Port Stephens Beachside Escape with Lagoon Pool & Family Upgrades Available",
-      "description": "Follow the sun-kissed Central Coast to Shoal Bay, and enjoy a relaxing beachside paradise perched on the glorious shores in Port Stephens, just an hour from Newcastle. Home to a sun-lit lagoon pool with a kids’ wading area and indoor lap pool, this palm-fringed resort is ideal for groups and families with direct access to the Shoal Bay Country Club. Work up a sweat at the fitness centre, unwind at Sirène Spa and dine across four onsite eateries - including Atmos Greek Restaurant and the beachfront Shoal Bay Country Club. This tranquil retreat has something for everyone. Explore the surrounding coastal trails on foot or take two wheels and feel the sea breeze from a bicycle.",
-      "location_subheading": "Australia",
-      "price": 219,
-      "original_price": 447,
-      "discount_percentage": 51,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ggSZCYA2",
-      "hero_image": "https://images.luxuryescapes.com/xrx7bo3ctccbfz4o02e",
-      "image_two": "https://images.luxuryescapes.com/ckyvxe1qxp38pmrclp6",
-      "image_three": "https://images.luxuryescapes.com/bnmh09seu43gaakg5btf",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 2,
-      "end_date_utc": "2026-12-18 12:59:00"
-    },
     {
       "vendor_name": "Ramada Resort by Wyndham Shoal Bay",
       "offer_country_name": "Australia",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 3",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "Ramada Resort by Wyndham Shoal Bay",
+      "offer_country_name": "Australia",
+      "location_heading": "Shoal Bay",
+      "title": "Port Stephens Beachside Escape with Lagoon Pool & Family Upgrades Available",
+      "description": "Follow the sun-kissed Central Coast to Shoal Bay, and enjoy a relaxing beachside paradise perched on the glorious shores in Port Stephens, just an hour from Newcastle. Home to a sun-lit lagoon pool with a kids’ wading area and indoor lap pool, this palm-fringed resort is ideal for groups and families with direct access to the Shoal Bay Country Club. Work up a sweat at the fitness centre, unwind at Sirène Spa and dine across four onsite eateries - including Atmos Greek Restaurant and the beachfront Shoal Bay Country Club. This tranquil retreat has something for everyone. Explore the surrounding coastal trails on foot or take two wheels and feel the sea breeze from a bicycle.",
+      "location_subheading": "Australia",
+      "price": 219,
+      "original_price": 447,
+      "discount_percentage": 51,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000ggSZCYA2",
+      "hero_image": "https://images.luxuryescapes.com/xrx7bo3ctccbfz4o02e",
+      "image_two": "https://images.luxuryescapes.com/ckyvxe1qxp38pmrclp6",
+      "image_three": "https://images.luxuryescapes.com/bnmh09seu43gaakg5btf",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 2,
+      "end_date_utc": "2026-12-18 12:59:00"
     }
   ],
   "seo": {
@@ -60,7 +60,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-01",
     "hotel_count": 2,
     "average_price": 277,
     "average_discount": 32
