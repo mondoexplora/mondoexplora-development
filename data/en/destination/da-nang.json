@@ -4,8 +4,26 @@
   "country_code": "VN",
   "hero_title": "Hotels in Da Nang",
   "description": "Discover the best hotels in Da Nang, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/dbcytx308e99am4uadjj",
+  "hero_image": "https://images.luxuryescapes.com/tghdzn9qcm1jfivlafkf",
   "hotels": [
+    {
+      "vendor_name": "Angsana Lang Co",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Da Nang",
+      "title": "Five-Star Oceanfront Vietnam Retreat with Rooftop Bar & Private Beach",
+      "description": "Luxuriate for days at this five-star oceanfront retreat overlooking a private golden stretch of sand lining the South China Sea. Head to one of four onsite restaurants, digging into international dishes at Market Place or authentic Vietnamese seafood at Moomba. Upper Deck serves refreshing drinks on the rooftop overlooking the ocean and mountain range. For a dose of relaxation, escape to the resort's tranquil spa or stretch out in the yoga pavilion. Or for an active escape, explore three UNESCO World Heritage sites nearby - Hoi An Ancient Town, The Imperial Citadel of Hue and My Son Sanctuary.",
+      "location_subheading": "Vietnam",
+      "price": 269,
+      "original_price": 269,
+      "discount_percentage": 0,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004URGHAA4",
+      "hero_image": "https://images.luxuryescapes.com/tghdzn9qcm1jfivlafkf",
+      "image_two": "https://images.luxuryescapes.com/sgpu64bneo5oy5jduuf",
+      "image_three": "https://images.luxuryescapes.com/xvi6fnxhvhrsz3zuijbe",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    },
     {
       "vendor_name": "Mercure Danang French Village",
       "offer_country_name": "Vietnam",
@@ -67,8 +85,8 @@
       "title": "Da Nang Coastal Escape near My Khe Beach with Onsite Restaurant, Swimming Pool & Spa",
       "description": "Settle into a relaxed Da Nang stay where beach days, poolside dining and spa time shape the pace. Salmalia Boutique Hotel & Spa places you a short walk from My Khe Beach, with bright Asian-inspired rooms, family-friendly suites and pool access options for days that flow between the water and your private balcony. Start the morning with breakfast before wandering down to the sand, then return for a swim, a treatment at Salmalia Spa or a casual meal at Salmalia Restaurant on the second floor beside the pool. The hotel keeps the essentials close - a fitness centre, in-room dining and onsite parking - while Da Nang's city sights and coastal restaurants stay within easy reach.",
       "location_subheading": "Vietnam",
-      "price": 144,
-      "original_price": 158,
+      "price": 147,
+      "original_price": 162,
       "discount_percentage": 9,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000UuKkOYAV",
       "hero_image": "https://images.luxuryescapes.com/ig9wq40mlg9fn7653hop",
@@ -132,9 +150,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-11-01",
-    "hotel_count": 6,
-    "average_price": 283,
-    "average_discount": 17
+    "last_updated": "2026-11-02",
+    "hotel_count": 7,
+    "average_price": 282,
+    "average_discount": 14
   }
 }

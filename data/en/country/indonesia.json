@@ -3,16 +3,16 @@
   "code": "ID",
   "hero_title": "Indonesia Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Indonesia.",
-  "hero_image": "https://images.luxuryescapes.com/i5l3aeq8xmqf0a74hcm",
+  "hero_image": "https://images.luxuryescapes.com/pmua5odtlg8k976ng4k",
   "popular_destinations": [
     {
       "name": "Seminyak",
       "slug": "seminyak",
-      "image": "https://images.luxuryescapes.com/i5l3aeq8xmqf0a74hcm",
+      "image": "https://images.luxuryescapes.com/pmua5odtlg8k976ng4k",
       "description": "Explore Seminyak with luxury accommodations",
       "hotel_count": 30,
       "hotel_deals": 30,
-      "avg_price": 578
+      "avg_price": 553
     },
     {
       "name": "Ubud",
@@ -30,25 +30,25 @@
       "description": "Explore Jakarta with luxury accommodations",
       "hotel_count": 21,
       "hotel_deals": 21,
-      "avg_price": 271
+      "avg_price": 270
     },
     {
       "name": "Nusa Dua",
       "slug": "nusa-dua",
       "image": "https://images.luxuryescapes.com/tl7fxmdhmm9md84l1i4s",
       "description": "Explore Nusa Dua with luxury accommodations",
-      "hotel_count": 18,
-      "hotel_deals": 18,
-      "avg_price": 992
+      "hotel_count": 17,
+      "hotel_deals": 17,
+      "avg_price": 964
     },
     {
       "name": "Jimbaran",
       "slug": "jimbaran",
       "image": "https://images.luxuryescapes.com/qu4pjsvs10snx7nym1f",
       "description": "Explore Jimbaran with luxury accommodations",
-      "hotel_count": 14,
-      "hotel_deals": 14,
-      "avg_price": 1052
+      "hotel_count": 15,
+      "hotel_deals": 15,
+      "avg_price": 1130
     },
     {
       "name": "Bali",
@@ -57,7 +57,7 @@
       "description": "Explore Bali with luxury accommodations",
       "hotel_count": 13,
       "hotel_deals": 13,
-      "avg_price": 1321
+      "avg_price": 1320
     }
   ],
   "seo": {
