@@ -12,7 +12,7 @@
       "description": "Explore Toronto with luxury accommodations",
       "hotel_count": 6,
       "hotel_deals": 6,
-      "avg_price": 621
+      "avg_price": 623
     },
     {
       "name": "Vancouver",
@@ -21,7 +21,7 @@
       "description": "Explore Vancouver with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 772
+      "avg_price": 765
     },
     {
       "name": "Montreal",
@@ -30,7 +30,7 @@
       "description": "Explore Montreal with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 660
+      "avg_price": 664
     },
     {
       "name": "Whistler",
@@ -39,7 +39,7 @@
       "description": "Explore Whistler with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 882
+      "avg_price": 884
     },
     {
       "name": "VANCOUVER",
@@ -48,7 +48,7 @@
       "description": "Explore VANCOUVER with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 411
+      "avg_price": 413
     },
     {
       "name": "Victoria",
@@ -57,7 +57,7 @@
       "description": "Explore Victoria with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1041
+      "avg_price": 1039
     }
   ],
   "seo": {

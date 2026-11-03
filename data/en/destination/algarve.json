@@ -4,8 +4,26 @@
   "country_code": "PT",
   "hero_title": "Hotels in Algarve",
   "description": "Discover the best hotels in Algarve, Portugal. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/l583eqlkmbef0k92bh6",
+  "hero_image": "https://images.luxuryescapes.com/w9qhhxp7au3ri96jtjxs",
   "hotels": [
+    {
+      "vendor_name": "Casa de Sada Beach Resort Algarve",
+      "offer_country_name": "Portugal",
+      "location_heading": "Algarve",
+      "title": "Grand Opening: Portugal Seaside Serenity in Algarve with Daily Breakfast & One-Time Dinner",
+      "description": "The Algarve's hottest new opening with the best seat in the house: right by the beach, facing the Atlantic Ocean. At Casa de Sada Beach Resort, the sand is steps away and you have two pools to choose from, including a panoramic heated saltwater pool where afternoons stretch into balmy evenings. Indoors, contemporary styling gives the resort a fresh, considered feel, with ocean panoramas in many of the rooms and suites. Then there’s the food: at Palm Beach, fresh seafood is served by the shore, while Alma pairs Portuguese and North African influences with sweeping panoramas across the water. Look forward to an even deeper reset when a sparkling new spa opens in April 2027, complete with a Moroccan hammam, sauna, ice fountain and hot tub. For a change of scene, the Benagil coast is about a 20-minute drive away, where boat trips explore the Algarve’s famous sea caves. Back onsite, Âmbar offers panoramic ocean views and delectable cocktails in a modern setting.",
+      "location_subheading": "Portugal",
+      "price": 529,
+      "original_price": 1392,
+      "discount_percentage": 62,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000Y8N3tYAF",
+      "hero_image": "https://images.luxuryescapes.com/w9qhhxp7au3ri96jtjxs",
+      "image_two": "https://images.luxuryescapes.com/iqup1ucjsfn384ajdnd",
+      "image_three": "https://images.luxuryescapes.com/8ke7569fnaxcpbyxc6vm",
+      "deal_tier": "Luxury Escapes - Tier 3",
+      "min_duration": 4,
+      "end_date_utc": "2026-12-26 12:59:00"
+    },
     {
       "vendor_name": "Domes Lake Algarve, Autograph Collection",
       "offer_country_name": "Portugal",
@@ -42,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-11-02",
-    "hotel_count": 1,
-    "average_price": 581,
-    "average_discount": 0
+    "last_updated": "2026-11-03",
+    "hotel_count": 2,
+    "average_price": 555,
+    "average_discount": 31
   }
 }
