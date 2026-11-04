@@ -3,8 +3,17 @@
   "code": "TH",
   "hero_title": "Thailand Travel Guide",
   "description": "Discover the perfect blend of culture, luxury, and adventure in Thailand.",
-  "hero_image": "https://images.luxuryescapes.com/kde1vmzgkivxxocovkei",
+  "hero_image": "https://images.luxuryescapes.com/stuj3eyc797vhbudsw9u",
   "popular_destinations": [
+    {
+      "name": "Phuket",
+      "slug": "phuket",
+      "image": "https://images.luxuryescapes.com/stuj3eyc797vhbudsw9u",
+      "description": "Explore Phuket with luxury accommodations",
+      "hotel_count": 43,
+      "hotel_deals": 43,
+      "avg_price": 951
+    },
     {
       "name": "Bangkok",
       "slug": "bangkok",
@@ -12,16 +21,7 @@
       "description": "Explore Bangkok with luxury accommodations",
       "hotel_count": 42,
       "hotel_deals": 42,
-      "avg_price": 518
-    },
-    {
-      "name": "Phuket",
-      "slug": "phuket",
-      "image": "https://images.luxuryescapes.com/stuj3eyc797vhbudsw9u",
-      "description": "Explore Phuket with luxury accommodations",
-      "hotel_count": 42,
-      "hotel_deals": 42,
-      "avg_price": 920
+      "avg_price": 520
     },
     {
       "name": "Koh Samui",
@@ -30,16 +30,16 @@
       "description": "Explore Koh Samui with luxury accommodations",
       "hotel_count": 15,
       "hotel_deals": 15,
-      "avg_price": 1256
+      "avg_price": 1257
     },
     {
       "name": "Hua Hin",
       "slug": "hua-hin",
       "image": "https://images.luxuryescapes.com/yiigpd75ymgz8on0f9",
       "description": "Explore Hua Hin with luxury accommodations",
-      "hotel_count": 10,
-      "hotel_deals": 10,
-      "avg_price": 654
+      "hotel_count": 11,
+      "hotel_deals": 11,
+      "avg_price": 670
     },
     {
       "name": "Khao Lak",
@@ -48,7 +48,7 @@
       "description": "Explore Khao Lak with luxury accommodations",
       "hotel_count": 9,
       "hotel_deals": 9,
-      "avg_price": 465
+      "avg_price": 470
     },
     {
       "name": "Pattaya",
