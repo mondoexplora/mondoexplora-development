@@ -4,26 +4,8 @@
   "country_code": "VN",
   "hero_title": "Hotels in Ho Chi Minh",
   "description": "Discover the best hotels in Ho Chi Minh, Vietnam. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/x7veh0vv3q9f11orhkuw",
+  "hero_image": "https://images.luxuryescapes.com/rwagvgp0t9kufqv6h8s4",
   "hotels": [
-    {
-      "vendor_name": "SILA Urban Living",
-      "offer_country_name": "Vietnam",
-      "location_heading": "Ho Chi Minh",
-      "title": "Sophisticated Ho Chi Minh City Escape near Notre Dame with Daily Breakfast & Nightly Cocktails",
-      "description": "Set in the vibrant heart of Ho Chi Minh City’s District 3, this sophisticated retreat places you a short walk from the leafy avenues of Turtle Lake and the creative energy of Le Van Tam Park. Take time to discover the city’s French colonial heritage, find a favourite banh mi spot or stroll to the buzzing cafes and boutiques along Pasteur Street. Back onsite, bask in the service and style of a luxury hotel with the convenience and living space of a serviced apartment, paired with access to an outdoor pool and fitness centre. When it’s time to indulge, head to Cocotte Bistro, serving up traditional French cuisine and tasty tipples in a modern setting. To catch some rays, opt to dine poolside or on the alfresco terrace. After busy days of exploring, wind down with relaxing treatments at the spa, treat yourself to a sauna and steam room session, soak in the bubbling jacuzzi or find your zen at the onsite yoga studio - everything you need is right here.",
-      "location_subheading": "Vietnam",
-      "price": 279,
-      "original_price": 797,
-      "discount_percentage": 65,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gMBMQYA4",
-      "hero_image": "https://images.luxuryescapes.com/x7veh0vv3q9f11orhkuw",
-      "image_two": "https://images.luxuryescapes.com/p7crxwph34et1y2gv2sc",
-      "image_three": "https://images.luxuryescapes.com/a7tdnqrwufjaz2vplmfb",
-      "deal_tier": "Luxury Escapes - Tier 2",
-      "min_duration": 3,
-      "end_date_utc": "2027-01-25 12:59:00"
-    },
     {
       "vendor_name": "SILA Urban Living",
       "offer_country_name": "Vietnam",
@@ -41,6 +23,24 @@
       "deal_tier": "Luxury Escapes - Tier 2",
       "min_duration": 1,
       "end_date_utc": "2026-12-31 12:59:00"
+    },
+    {
+      "vendor_name": "SILA Urban Living",
+      "offer_country_name": "Vietnam",
+      "location_heading": "Ho Chi Minh",
+      "title": "Sophisticated Ho Chi Minh City Escape near Notre Dame with Daily Breakfast & Nightly Cocktails",
+      "description": "Set in the vibrant heart of Ho Chi Minh City’s District 3, this sophisticated retreat places you a short walk from the leafy avenues of Turtle Lake and the creative energy of Le Van Tam Park. Take time to discover the city’s French colonial heritage, find a favourite banh mi spot or stroll to the buzzing cafes and boutiques along Pasteur Street. Back onsite, bask in the service and style of a luxury hotel with the convenience and living space of a serviced apartment, paired with access to an outdoor pool and fitness centre. When it’s time to indulge, head to Cocotte Bistro, serving up traditional French cuisine and tasty tipples in a modern setting. To catch some rays, opt to dine poolside or on the alfresco terrace. After busy days of exploring, wind down with relaxing treatments at the spa, treat yourself to a sauna and steam room session, soak in the bubbling jacuzzi or find your zen at the onsite yoga studio - everything you need is right here.",
+      "location_subheading": "Vietnam",
+      "price": 279,
+      "original_price": 775,
+      "discount_percentage": 64,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000gMBMQYA4",
+      "hero_image": "https://images.luxuryescapes.com/x7veh0vv3q9f11orhkuw",
+      "image_two": "https://images.luxuryescapes.com/p7crxwph34et1y2gv2sc",
+      "image_three": "https://images.luxuryescapes.com/a7tdnqrwufjaz2vplmfb",
+      "deal_tier": "Luxury Escapes - Tier 2",
+      "min_duration": 3,
+      "end_date_utc": "2027-01-25 12:59:00"
     },
     {
       "vendor_name": "Pullman Saigon Centre",
@@ -96,7 +96,7 @@
     }
   },
   "meta": {
-    "last_updated": "2026-11-04",
+    "last_updated": "2026-11-05",
     "hotel_count": 4,
     "average_price": 267,
     "average_discount": 16
