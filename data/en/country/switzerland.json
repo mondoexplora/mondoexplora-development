@@ -12,7 +12,7 @@
       "description": "Explore Geneva with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 875
+      "avg_price": 877
     },
     {
       "name": "Zurich",
@@ -21,7 +21,7 @@
       "description": "Explore Zurich with luxury accommodations",
       "hotel_count": 3,
       "hotel_deals": 3,
-      "avg_price": 435
+      "avg_price": 436
     },
     {
       "name": "Crans-Montana",
@@ -30,7 +30,7 @@
       "description": "Explore Crans-Montana with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 1748
+      "avg_price": 1750
     },
     {
       "name": "Verbier",
@@ -53,11 +53,11 @@
     {
       "name": "Bern",
       "slug": "bern",
-      "image": "https://images.luxuryescapes.com/t4lviawequ61lc6d4bq",
+      "image": "https://images.luxuryescapes.com/f7tlrh0kufcwfnbrjz",
       "description": "Explore Bern with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 988
+      "avg_price": 989
     }
   ],
   "seo": {

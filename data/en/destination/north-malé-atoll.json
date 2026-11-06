@@ -4,8 +4,26 @@
   "country_code": "MV",
   "hero_title": "Hotels in North Malé Atoll",
   "description": "Discover the best hotels in North Malé Atoll, Maldives. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/lnfhkuclags0sia5ixte",
+  "hero_image": "https://images.luxuryescapes.com/2i2o2rxt8b1bcn3311ow",
   "hotels": [
+    {
+      "vendor_name": "Centara Grand Lagoon Maldives",
+      "offer_country_name": "Maldives",
+      "location_heading": "North Malé Atoll",
+      "title": "Maldives Overwater Luxury Villas with Daily Breakfast, Nightly Dinner & Speedboat Transfers",
+      "description": "Opened in 2024, this island escape pairs five-star luxury with barefoot ease. Wake to the gentle sound of the waves and dive straight into a crystal-clear lagoon from your private overwater villa. Whether you’re snorkelling in the shimmering lagoon, gliding across calm waters or simply unwinding by the infinity pool with endless ocean views, every day moves to your rhythm. A daily highlight awaits in the resort’s exceptional dining scene - feast on flame-grilled seafood and Mediterranean fare at Bluefin, savour international favourites at The Gallery’s live cooking stations and sip curated cocktails at Sunset Social as the sky melts into shades of pink. Upgrade to an all-inclusive experience and enjoy ultimate indulgence, where all meals and premium drinks are taken care of. As twilight falls, watch dhonis drift across the horizon from your deck. This is effortless island living, elevated.",
+      "location_subheading": "Maldives",
+      "price": 3969,
+      "original_price": 9450,
+      "discount_percentage": 58,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000jhTGAYA2",
+      "hero_image": "https://images.luxuryescapes.com/2i2o2rxt8b1bcn3311ow",
+      "image_two": "https://images.luxuryescapes.com/i2aewu7m0fxckxf0vh0g",
+      "image_three": "https://images.luxuryescapes.com/kda54tj8akgzdtznc0yg",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2027-02-03 12:59:00"
+    },
     {
       "vendor_name": "Dhawa Ihuru",
       "offer_country_name": "Maldives",
@@ -13,8 +31,8 @@
       "title": "Maldives Five-Star Boutique Island Paradise with PADI Dive Centre & Ranamaari Shipwreck",
       "description": "Dive into luxury with a five-star villa stay at the boutique Dhawa Ihuru, a flawless slice of paradise in the Maldives’ North Malé Atoll. Boasting one of the clearest house reefs in the archipelago - containing the famed Ranamaari shipwreck - and an onsite PADI Dive Centre, it’s the perfect gateway to the wonders of the atoll’s prismatic underwater kingdoms. Enjoy alfresco dining at the beachfront restaurant or head to Angsana Spa Ihuru for enchanting treatments under swaying palms.",
       "location_subheading": "Maldives",
-      "price": 3108,
-      "original_price": 3790,
+      "price": 3101,
+      "original_price": 3782,
       "discount_percentage": 18,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000004UOI1AAO",
       "hero_image": "https://images.luxuryescapes.com/lnfhkuclags0sia5ixte",
@@ -31,8 +49,8 @@
       "title": "Luxurious Maldives Retreat with World's Largest Overwater Villa on Private Island",
       "description": "Slow down, breathe deeply and immerse yourself in the epitome of barefoot island luxury at the enchanting Gili Lankanfushi Maldives resort, home to the world’s largest overwater villa, in the stunning North Malé Atoll. This private island sanctuary is the ultimate island escape where every moment is met with the breathtaking backdrop of unbelievably clear turquoise waters, blue skies, towering palm trees and silky-white sand. Treat your senses to a sophisticated oceanfront meal of Japanese-fusion flavours at By The Sea restaurant, or venture through the nightly market-style dining at Kashiveli restaurant, showcasing the best of local produce.",
       "location_subheading": "Maldives",
-      "price": 5288,
-      "original_price": 5288,
+      "price": 5275,
+      "original_price": 5275,
       "discount_percentage": 0,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y00000ExwxjAAB",
       "hero_image": "https://images.luxuryescapes.com/p4llf3rj9g5ls7hpskbg",
@@ -60,9 +78,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-11-05",
-    "hotel_count": 2,
-    "average_price": 4198,
-    "average_discount": 9
+    "last_updated": "2026-11-06",
+    "hotel_count": 3,
+    "average_price": 4115,
+    "average_discount": 25
   }
 }
