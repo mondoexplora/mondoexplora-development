@@ -4,25 +4,25 @@
   "country_code": "LK",
   "hero_title": "Hotels in Tangalle",
   "description": "Discover the best hotels in Tangalle, Sri Lanka. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/1da71c5wnsx97ne6qpvq",
+  "hero_image": "https://images.luxuryescapes.com/v28i1h5gyhr640c7jicm",
   "hotels": [
     {
-      "vendor_name": "Anantara Peace Haven Tangalle Resort",
+      "vendor_name": "Uga Prava",
       "offer_country_name": "Sri Lanka",
       "location_heading": "Tangalle",
-      "title": "Sri Lankan Coastal Sanctuary with Onsite Spa & Eight Restaurants & Bars",
-      "description": "Discover the beauty of the Sri Lankan coast from your beachside sanctuary at Anantara Peace Haven Tangalle Resort, cusped by the Indian Ocean near the old fort town of Tangalle. Golden-hued sands make way for wandering turtles, stretches of surf beckon guests to take to their board, and the coconut-palmed jungle opens up to vivid wildlife. Explore holistic approaches to healing at Anantara Spa for full-body restoration and tantalise your tastebuds at any of the eight dining and cocktail options.",
+      "title": "Award-Winning Sri Lanka Boutique Oceanfront Suites with All-Inclusive Dining & Nightly Free-Flow Drinks",
+      "description": "On Sri Lanka's palm-kissed southern coast, the best things come in small packages. Enter Uga Prava, a boutique garden-to-coast resort set on Tangalle's golden shores, featuring just seven suites (each with ocean views) and a near-Olympic-size infinity pool that gazes over the endlessly shimmering Indian Ocean. Spend your days surfing - hidden gem Unakuruwa break is only a ten-minute drive south - exploring rocky coves or turtle watching, and return to an all-inclusive dining program built on local seafood and southern Sri Lankan produce. With so few suites scattered across the resorts sprawling gardens, it's an escape that feels wonderfully removed from the crowds.",
       "location_subheading": "Sri Lanka",
-      "price": 1315.2,
-      "original_price": 1478,
-      "discount_percentage": 11,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000009BTIqAAO",
-      "hero_image": "https://images.luxuryescapes.com/1da71c5wnsx97ne6qpvq",
-      "image_two": "https://images.luxuryescapes.com/r8p9zkgc4b1dmulqjkzc",
-      "image_three": "https://images.luxuryescapes.com/6acdk6bksu5j41gdwnhg",
+      "price": 1059,
+      "original_price": 1765,
+      "discount_percentage": 40,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000hymU1YAI",
+      "hero_image": "https://images.luxuryescapes.com/v28i1h5gyhr640c7jicm",
+      "image_two": "https://images.luxuryescapes.com/vorzqcfejrsaoqrdr3ok",
+      "image_three": "https://images.luxuryescapes.com/5nj5p0s8d9lmze7vou13",
       "deal_tier": "Luxury Escapes - Tier 3",
-      "min_duration": 1,
-      "end_date_utc": "2026-12-31 12:59:00"
+      "min_duration": 3,
+      "end_date_utc": "2027-02-04 12:59:00"
     }
   ],
   "seo": {
@@ -42,9 +42,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-03-19",
+    "last_updated": "2026-11-07",
     "hotel_count": 1,
-    "average_price": 1315,
-    "average_discount": 11
+    "average_price": 1059,
+    "average_discount": 40
   }
 }

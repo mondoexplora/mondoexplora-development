@@ -30,7 +30,7 @@
       "description": "Explore Crete with luxury accommodations",
       "hotel_count": 8,
       "hotel_deals": 8,
-      "avg_price": 802
+      "avg_price": 806
     },
     {
       "name": "Mykonos",
@@ -51,13 +51,13 @@
       "avg_price": 772
     },
     {
-      "name": "Paros",
-      "slug": "paros",
-      "image": "https://images.luxuryescapes.com/p8k1kco9wjywtrtl6hya",
-      "description": "Explore Paros with luxury accommodations",
+      "name": "Rhodes",
+      "slug": "rhodes",
+      "image": "https://images.luxuryescapes.com/cistnid2uqx0cx2y0u6",
+      "description": "Explore Rhodes with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 1039
+      "avg_price": 814
     }
   ],
   "seo": {
