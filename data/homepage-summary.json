@@ -1,5 +1,10 @@
 {
   "regions": {
+    "US, Canada & Mexico": {
+      "totalHotels": 857,
+      "countries": 1,
+      "destinations": 0
+    },
     "Australia & New Zealand": {
       "totalHotels": 4171,
       "countries": 1,
@@ -12,11 +17,6 @@
     },
     "Europe": {
       "totalHotels": 1455,
-      "countries": 1,
-      "destinations": 0
-    },
-    "US, Canada & Mexico": {
-      "totalHotels": 857,
       "countries": 1,
       "destinations": 0
     },
