@@ -4,8 +4,26 @@
   "country_code": "FJ",
   "hero_title": "Hotels in Korolevu",
   "description": "Discover the best hotels in Korolevu, Fiji. Find exclusive deals and luxury accommodations.",
-  "hero_image": "https://images.luxuryescapes.com/ripkntbp4rk7d4s8byl",
+  "hero_image": "https://images.luxuryescapes.com/zjqsa29ero2rx8z7qs67",
   "hotels": [
+    {
+      "vendor_name": "Warwick Fiji",
+      "offer_country_name": "Fiji",
+      "location_heading": "Korolevu",
+      "title": "Fiji Coral Coast Oasis with Daily Breakfast, Nightly Dinner, Massages & Kids Stay Free",
+      "description": "Surround yourself with the unspoiled beauty of Fiji’s Coral Coast, where glittering turquoise waters, towering palm trees and long stretches of golden sand provide the perfect setting for an unforgettable escape. Within moments of arrival, check into your newly-refurbished room and prepare to be met with warm Fijian hospitality as you slip into the rhythm of island time. Here, all you need to think about is which corner of the pool to laze by, where your next day trip will be, or which of the many mouthwatering restaurants you should visit tonight. Will you indulge in freshly caught seafood at Wicked Walu, Japanese fine dining at Sazanami, Italian delights at Pappagallo or international favourites at Bula Brasserie? Couples or honeymooners will love this romantic tropical haven, with days spent in the dedicated adults-only corner of the hotel or indulging in a lavish treatment at the Warwick Spa overlooking a serene lagoon. Meanwhile, families are well catered for with an array of activities for all ages, including a complimentary kids' club and pool.",
+      "location_subheading": "Fiji",
+      "price": 1089,
+      "original_price": 2135,
+      "discount_percentage": 49,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000aJ29SYAS",
+      "hero_image": "https://images.luxuryescapes.com/zjqsa29ero2rx8z7qs67",
+      "image_two": "https://images.luxuryescapes.com/3dce304ykj57n3srgrt",
+      "image_three": "https://images.luxuryescapes.com/il3s5aomj2mu4enqddf",
+      "deal_tier": "Luxury Escapes - Tier 1",
+      "min_duration": 5,
+      "end_date_utc": "2026-11-18 12:59:00"
+    },
     {
       "vendor_name": "Warwick Fiji",
       "offer_country_name": "Fiji",
@@ -13,8 +31,8 @@
       "title": "Five-Star Fiji Coral Coast Oasis with Daily Breakfast & 2 Kids Stay, Play & Eat Free",
       "description": "Surround yourself with the unsurpassed beauty of Fiji’s Coral Coast, where glistening waters, towering palm trees and white sandy beaches provide the perfect setting for an unforgettable escape at the five-star Warwick Fiji. Splash about in the family pool or relax in the adults-only corner, and feel the warm tropical breeze wash over you. Unwind and experience ultimate relaxation at Warwick Fiji’s superior spa - perched on the edge of the ocean overlooking a serene lagoon. Onsite restaurants include the famed Wicked Walu, Japanese restaurant Sazanami, Italian eatery Pappagallo and the buffet-style Bula Brasserie. The Kids’ Club will delight little ones with sandcastle building and treasure hunting, while kayaking, snorkelling, and stand-up paddleboarding is available to the older kids.",
       "location_subheading": "Fiji",
-      "price": 566,
-      "original_price": 622,
+      "price": 563,
+      "original_price": 619,
       "discount_percentage": 9,
       "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F0062y000008gGL1AAM",
       "hero_image": "https://images.luxuryescapes.com/ripkntbp4rk7d4s8byl",
@@ -23,24 +41,6 @@
       "deal_tier": "Luxury Escapes - Tier 1",
       "min_duration": 1,
       "end_date_utc": "2050-12-31 12:59:00"
-    },
-    {
-      "vendor_name": "Warwick Fiji",
-      "offer_country_name": "Fiji",
-      "location_heading": "Korolevu",
-      "title": "Fiji Coral Coast Oasis with Daily Breakfast, Nightly Dinner, Massages & Kids Stay Free",
-      "description": "Surround yourself with the unspoiled beauty of Fiji’s Coral Coast, where glittering turquoise waters, towering palm trees and long stretches of golden sand provide the perfect setting for an unforgettable escape. Within moments of arrival, check into your newly-refurbished room and prepare to be met with warm Fijian hospitality as you slip into the rhythm of island time. Here, all you need to think about is which corner of the pool to laze by, where your next day trip will be, or which of the many mouthwatering restaurants you should visit tonight. Will you indulge in freshly caught seafood at Wicked Walu, Japanese fine dining at Sazanami, Italian delights at Pappagallo or international favourites at Bula Brasserie? Couples or honeymooners will love this romantic tropical haven, with days spent in the dedicated adults-only corner of the hotel or indulging in a lavish treatment at the Warwick Spa overlooking a serene lagoon. Meanwhile, families are well catered for with an array of activities for all ages, including a complimentary kids' club and pool.",
-      "location_subheading": "Fiji",
-      "price": 929,
-      "original_price": 1753,
-      "discount_percentage": 47,
-      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000aJ29SYAS",
-      "hero_image": "https://images.luxuryescapes.com/zjqsa29ero2rx8z7qs67",
-      "image_two": "https://images.luxuryescapes.com/3dce304ykj57n3srgrt",
-      "image_three": "https://images.luxuryescapes.com/il3s5aomj2mu4enqddf",
-      "deal_tier": "Luxury Escapes - Tier 1",
-      "min_duration": 5,
-      "end_date_utc": "2026-11-18 12:59:00"
     }
   ],
   "seo": {
@@ -60,9 +60,9 @@
     }
   },
   "meta": {
-    "last_updated": "2026-11-08",
+    "last_updated": "2026-11-09",
     "hotel_count": 2,
-    "average_price": 748,
-    "average_discount": 28
+    "average_price": 826,
+    "average_discount": 29
   }
 }
