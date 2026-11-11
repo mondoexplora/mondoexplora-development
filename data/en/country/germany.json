@@ -12,7 +12,7 @@
       "description": "Explore Munich with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 899
+      "avg_price": 896
     },
     {
       "name": "Berlin",
@@ -21,7 +21,7 @@
       "description": "Explore Berlin with luxury accommodations",
       "hotel_count": 5,
       "hotel_deals": 5,
-      "avg_price": 422
+      "avg_price": 416
     },
     {
       "name": "Frankfurt",
@@ -48,7 +48,7 @@
       "description": "Explore Hamburg with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 341
+      "avg_price": 343
     },
     {
       "name": "Dresden",
@@ -57,7 +57,7 @@
       "description": "Explore Dresden with luxury accommodations",
       "hotel_count": 2,
       "hotel_deals": 2,
-      "avg_price": 510
+      "avg_price": 561
     }
   ],
   "seo": {

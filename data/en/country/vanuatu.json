@@ -10,18 +10,27 @@
       "slug": "port-vila",
       "image": "https://images.luxuryescapes.com/y00la3tend2g3ofch1m",
       "description": "Explore Port Vila with luxury accommodations",
-      "hotel_count": 4,
-      "hotel_deals": 4,
-      "avg_price": 521
+      "hotel_count": 3,
+      "hotel_deals": 3,
+      "avg_price": 488
     },
     {
       "name": "Efate",
       "slug": "efate",
       "image": "https://images.luxuryescapes.com/4kdff5t96skkyxrw224",
       "description": "Explore Efate with luxury accommodations",
+      "hotel_count": 2,
+      "hotel_deals": 2,
+      "avg_price": 1149
+    },
+    {
+      "name": "Luganville",
+      "slug": "luganville",
+      "image": "https://images.luxuryescapes.com/0gq5l4e6t3ixyvxl3nh",
+      "description": "Explore Luganville with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1680
+      "avg_price": 672
     },
     {
       "name": "Eratap",
@@ -30,7 +39,7 @@
       "description": "Explore Eratap with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 1303
+      "avg_price": 1304
     },
     {
       "name": "Tanna",
@@ -39,7 +48,7 @@
       "description": "Explore Tanna with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 523
+      "avg_price": 517
     },
     {
       "name": "x",
@@ -48,7 +57,7 @@
       "description": "Explore x with luxury accommodations",
       "hotel_count": 1,
       "hotel_deals": 1,
-      "avg_price": 744
+      "avg_price": 736
     }
   ],
   "seo": {
