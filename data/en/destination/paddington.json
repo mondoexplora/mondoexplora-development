@@ -1,0 +1,50 @@
+{
+  "city": "Paddington",
+  "country": "Australia",
+  "country_code": "AU",
+  "hero_title": "Hotels in Paddington",
+  "description": "Discover the best hotels in Paddington, Australia. Find exclusive deals and luxury accommodations.",
+  "hero_image": "https://images.luxuryescapes.com/j8r1o3orjifesufwqnl",
+  "hotels": [
+    {
+      "vendor_name": "The Grand National Hotel by Saint Peter",
+      "offer_country_name": "Australia",
+      "location_heading": "Paddington",
+      "title": "Sydney Boutique Heritage Retreat with the Acclaimed Saint Peter Restaurant & Bar",
+      "description": "Set within a restored heritage pub in Paddington, The Grand National Hotel by Saint Peter pairs the character of a historic Sydney address with the comfort of a thoughtfully designed boutique stay. Its individually styled rooms draw on the building’s history and neighbourhood, with distinctive details that give each space its own feel. Downstairs, Saint Peter brings the hotel’s dining experience into focus, with a seafood-led approach shaped by sustainability and quality produce. Settle in for a meal or a drink at the bar, then retreat upstairs to your room and enjoy a stay that combines Paddington’s heritage and contemporary hospitality.",
+      "location_subheading": "Australia",
+      "price": 1030,
+      "original_price": 1132,
+      "discount_percentage": 9,
+      "link": "https://luxuryescapes.sjv.io/c/6402032/1991376/23356?&u=https%3A%2F%2Fluxuryescapes.com%2Foffer%2F006RF00000i9sflYAA",
+      "hero_image": "https://images.luxuryescapes.com/j8r1o3orjifesufwqnl",
+      "image_two": "https://images.luxuryescapes.com/e833vc6bptlxwjfknagz",
+      "image_three": "https://images.luxuryescapes.com/vtf8rxgdgfvn1aan75xq",
+      "deal_tier": "",
+      "min_duration": 1,
+      "end_date_utc": "2050-12-31 12:59:00"
+    }
+  ],
+  "seo": {
+    "title": "Hotels in Paddington - Australia Hotels & Travel Guide 2024",
+    "description": "Find the best hotels in Paddington, Australia with exclusive deals. Book your perfect getaway with up to 60% off.",
+    "keywords": [
+      "paddington hotels",
+      "paddington travel",
+      "australia hotels"
+    ],
+    "canonical": "https://mondoexplora.com/en/destination/paddington",
+    "hreflang": {
+      "en": "https://mondoexplora.com/en/destination/paddington",
+      "es": "https://mondoexplora.com/es/destination/paddington",
+      "fr": "https://mondoexplora.com/fr/destination/paddington",
+      "it": "https://mondoexplora.com/it/destination/paddington"
+    }
+  },
+  "meta": {
+    "last_updated": "2026-11-13",
+    "hotel_count": 1,
+    "average_price": 1030,
+    "average_discount": 9
+  }
+}
